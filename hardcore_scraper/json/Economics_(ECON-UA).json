@@ -1,0 +1,1744 @@
+{
+    "courses": [
+        {
+            "classes": [
+                {
+                    "classId": "6477",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC50",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kitsikopoulos, Harilaos"
+                },
+                {
+                    "classId": "6478",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Ghosh, Srijita"
+                },
+                {
+                    "classId": "6479",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 305",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Martinez, Joseba"
+                },
+                {
+                    "classId": "6480",
+                    "format": "Recitation ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 414"
+                },
+                {
+                    "classId": "6481",
+                    "format": "Recitation ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS LL150"
+                },
+                {
+                    "classId": "6482",
+                    "format": "Recitation ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Polo, Alberto"
+                },
+                {
+                    "classId": "6483",
+                    "format": "Recitation ",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Polo, Alberto"
+                },
+                {
+                    "classId": "6484",
+                    "format": "Recitation ",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ghosh, Srijita"
+                },
+                {
+                    "classId": "6485",
+                    "format": "Recitation ",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Cesarec, Igor"
+                },
+                {
+                    "classId": "6486",
+                    "format": "Recitation ",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Mon 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Martinez, Joseba"
+                },
+                {
+                    "classId": "6487",
+                    "format": "Recitation ",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Thu 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Cesarec, Igor"
+                },
+                {
+                    "classId": "6488",
+                    "format": "Lecture ",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 101",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Lieberman, Marc"
+                },
+                {
+                    "classId": "6489",
+                    "format": "Recitation ",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL23",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Gorgels, Stefan"
+                },
+                {
+                    "classId": "6490",
+                    "format": "Recitation ",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Mon 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Gorgels, Stefan"
+                },
+                {
+                    "classId": "6491",
+                    "format": "Recitation ",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL23",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Moller, Jan"
+                },
+                {
+                    "classId": "6492",
+                    "format": "Recitation ",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Moller, Jan"
+                }
+            ],
+            "description": "ECON-UA    1 Introduction to Macroeconomics \nFocuses on the economy as a whole (the ?macroeconomy?). Begins with the meaning and measurement of important macroeconomic data (on unemployment, inflation, and production), then turns to the behavior of the overall economy. Topics include long-run economic growth and the standard of living; the causes and consequences of economic booms and recessions; the banking system and the Federal Reserve; the stock and bond markets; and the role of government policy.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6493",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC50",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Paizis, Andrew"
+                },
+                {
+                    "classId": "6494",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Roldan Blanco, Pau"
+                },
+                {
+                    "classId": "6495",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Roldan Blanco, Pau"
+                },
+                {
+                    "classId": "6496",
+                    "format": "Recitation ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 208"
+                },
+                {
+                    "classId": "6497",
+                    "format": "Recitation ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 208"
+                },
+                {
+                    "classId": "6498",
+                    "format": "Recitation ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Kuvalekar, Aditya"
+                },
+                {
+                    "classId": "6499",
+                    "format": "Recitation ",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kuvalekar, Aditya"
+                },
+                {
+                    "classId": "7858",
+                    "format": "Recitation ",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Yan, Weichen"
+                },
+                {
+                    "classId": "7859",
+                    "format": "Recitation ",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Yan, Weichen"
+                },
+                {
+                    "classId": "8099",
+                    "format": "Lecture ",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL C95",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Bhiladwall, Maharukh"
+                },
+                {
+                    "classId": "8100",
+                    "format": "Recitation ",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Dick, Kevin"
+                },
+                {
+                    "classId": "8101",
+                    "format": "Recitation ",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Dick, Kevin"
+                },
+                {
+                    "classId": "8816",
+                    "format": "Recitation ",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Sethi, Ravideep"
+                },
+                {
+                    "classId": "8817",
+                    "format": "Recitation ",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Sethi, Ravideep"
+                }
+            ],
+            "description": "ECON-UA    2\n\n   Introduction to Microeconomics\n\nFocuses on individual economic decision-makers?households, business firms, and government agencies?and how they are linked together. The emphasis is on decision making by households and firms and how these decisions shape our economic life. Explores the different environments in which businesses sell their products, hiPrerequisite: V63.0009 or equivalent. Focuses on individual economic decision-makers?households, business firms, and government agencies?and how they are linked together. The emphasis is on decision making by households and firms and how these decisions shape our economic life. E...\n\n      more description for ECON-UA    2 \u00bb\n\n      \n\n\n\nFocuses on individual economic decision-makers?households, business firms, and government agencies?and how they are linked together. The emphasis is on decision making by households and firms and how these decisions shape our economic life. Explores the different environments in which businesses sell their products, hiPrerequisite: V63.0009 or equivalent. Focuses on individual economic decision-makers?households, business firms, and government agencies?and how they are linked together. The emphasis is on decision making by households and firms and how these decisions shape our economic life. Explores the different environments in which businesses sell their products, hire workers, and raise funds to expand their operations; the economic effects of trade between nations; and the effects of various government policies, such as minimum-wage legislation, rent controls, antitrust laws, and more.\n\n      less description for ECON-UA    2 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA    3 Economic Principles I (Honors)",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA    4 Economic Principles II (Honors)",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA    5 Introduction to Economic Analysis \nOpen only to freshmen and sophomores. Introduces some of the important tools economists use to solve problems, provides examples of how they are used, and prepares students for subsequent course work in the theory concentration. Topics include game theory, decision making by households and firms, competitive markets, long-run economic growth, disequilibrium, and short-run economic fluctuations.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA    6 Mathematics for Economists \nSpecifically designed to provide the appropriate mathematical tools for study in the theory concentration. Examples and motivation are drawn from important topics in economics. Topics covered include elementary set theory and the abstract notion of a function; Cartesian products; convex sets and concave functions; differential calculus and partial derivatives; integration and the fundamental theorem of calculus; first- and second-order conditions for a maximum; implicit functions; and constrained optimization.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6500",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 520",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Bisin, Alberto"
+                },
+                {
+                    "classId": "6501",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gupta, Seher"
+                },
+                {
+                    "classId": "6502",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Gupta, Seher"
+                },
+                {
+                    "classId": "8211",
+                    "format": "Lecture ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 122",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Storchmann, Karl"
+                },
+                {
+                    "classId": "6503",
+                    "format": "Recitation ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 431",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "O'Donnell, Joshua"
+                },
+                {
+                    "classId": "8212",
+                    "format": "Recitation ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "O'Donnell, Joshua"
+                },
+                {
+                    "classId": "8213",
+                    "format": "Lecture ",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Mathevet, Laurent"
+                },
+                {
+                    "classId": "8214",
+                    "format": "Recitation ",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL25",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Cheng, Zhehui"
+                },
+                {
+                    "classId": "8215",
+                    "format": "Recitation ",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 123 (SB)",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Cheng, Zhehui"
+                },
+                {
+                    "classId": "8216",
+                    "format": "Lecture ",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Caplin, Andrew"
+                },
+                {
+                    "classId": "8217",
+                    "format": "Recitation ",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Wang, Xue"
+                },
+                {
+                    "classId": "8408",
+                    "format": "Recitation ",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 125",
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Wang, Xue"
+                }
+            ],
+            "description": "ECON-UA   10 Interm Microeconomics \nExamines the manner in which producers, consumers, and resource owners acting through the market determine the prices and output of goods, the allocation of productive resources, and the functional distribution of incomes. The price system is seen as a network of interrelated decisions, with the market process serving to communicate information to decision makers.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6504",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Guaitoli, Danilo"
+                },
+                {
+                    "classId": "6505",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "McClellan, Andrew"
+                },
+                {
+                    "classId": "6506",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "McClellan, Andrew"
+                }
+            ],
+            "description": "ECON-UA   11 Micro Theory & Analysis \nRigorous examination of consumer choice, profit-maximizing behavior on the part of firms, and equilibrium in product markets. Topics include choice under uncertainty, strategic interactions between firms in noncompetitive environments, intertemporal decision making, and investment in public goods.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6507",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV G08",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Thapar, Aditi"
+                },
+                {
+                    "classId": "6508",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Kozlowski, Julian"
+                },
+                {
+                    "classId": "6509",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Kozlowski, Julian"
+                },
+                {
+                    "classId": "6510",
+                    "format": "Lecture ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Borovicka, Jaroslav"
+                },
+                {
+                    "classId": "6511",
+                    "format": "Recitation ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Payne, Jonathan"
+                },
+                {
+                    "classId": "6512",
+                    "format": "Recitation ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 383",
+                    "time": "Thu 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Payne, Jonathan"
+                },
+                {
+                    "classId": "8089",
+                    "format": "Lecture ",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 101A",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Borovickova, Katarina"
+                },
+                {
+                    "classId": "8090",
+                    "format": "Recitation ",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Lizama, Carlos"
+                },
+                {
+                    "classId": "8091",
+                    "format": "Recitation ",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 431",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Lizama, Carlos"
+                },
+                {
+                    "classId": "8821",
+                    "format": "Lecture ",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Benhabib, Jess"
+                },
+                {
+                    "classId": "8822",
+                    "format": "Recitation ",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 403",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Mongey, Simon"
+                },
+                {
+                    "classId": "8823",
+                    "format": "Recitation ",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 403"
+                }
+            ],
+            "description": "ECON-UA   12 Interm Macroeconomics \nStudy of aggregate economic analysis with special attention paid to the determination of the level of income, employment, and inflation. Critically examines both the theories and the policies associated with them.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA   13 Macroeconomic Theory & Analysis (T) \nStudy of aggregate economic analysis, with attention paid to the determination of the level of income, employment, and inflation. Critically examines both the theories and the policies associated with them. This course involves more formal analysis than that used in V31.0012.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6513",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 101",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Fan, Xiaochen"
+                },
+                {
+                    "classId": "6514",
+                    "format": "Laboratory ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-8",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Avoyan, Ala"
+                },
+                {
+                    "classId": "6515",
+                    "format": "Laboratory ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-8",
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Avoyan, Ala"
+                },
+                {
+                    "classId": "6516",
+                    "format": "Laboratory ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL33",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "O'Hara, Keith"
+                },
+                {
+                    "classId": "6517",
+                    "format": "Laboratory ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL151",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "O'Hara, Keith"
+                },
+                {
+                    "classId": "6518",
+                    "format": "Lecture ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CANT 101"
+                },
+                {
+                    "classId": "6519",
+                    "format": "Laboratory ",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-13",
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Csaba, Daniel"
+                },
+                {
+                    "classId": "6520",
+                    "format": "Laboratory ",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-13",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Csaba, Daniel"
+                },
+                {
+                    "classId": "6521",
+                    "format": "Laboratory ",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL33",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ravindran, Saravana"
+                },
+                {
+                    "classId": "6522",
+                    "format": "Laboratory ",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-13",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Ravindran, Saravana"
+                },
+                {
+                    "classId": "6523",
+                    "format": "Lecture ",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV G08",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Fan, Xiaochen"
+                },
+                {
+                    "classId": "6524",
+                    "format": "Laboratory ",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-8",
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Cavenaile, Laurent"
+                },
+                {
+                    "classId": "6525",
+                    "format": "Laboratory ",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL139",
+                    "time": "Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Cavenaile, Laurent"
+                },
+                {
+                    "classId": "6526",
+                    "format": "Laboratory ",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Yao, Cherry"
+                },
+                {
+                    "classId": "8028",
+                    "format": "Laboratory ",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL139",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Yao, Cherry"
+                }
+            ],
+            "description": "ECON-UA   18 Statistics (P) \nTopics: descriptive statistics; introduction to probability; sampling; statistical inferences concerning means, standard deviations, and proportions; analysis of variance; linear regressions; and correlation. Laboratory periods cover sample problems drawn primarily from economics. Meets three times a week, plus a lab session.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA   19 Regression and Forecasting Models \nAn introduction to the linear regression model, inference in regression analysis, multiple regression analysis, and an introduction to time series analysis.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA   20 Analytical Statistics \nIntroduction to statistical reasoning. Topics covered include descriptive statistics, calculation of moments, probability theory, an introduction to distribution theory, and an introduction to inference. Lab sessions enable the student to run a wide variety of computer experiments and to simulate all distributions that are discussed as well as to experiment with a wide variety of statistical procedures.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA   36 Intern Econ: Finance",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA   51 Labor Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA   75 Inflation",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  102 History of Amer Business",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  103 Contemporary Issues in Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  104 Games, Decisions, and Strategy",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  109 Foundations of Capitalsm",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  122 Economic Geography",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  125 Eco & Society in Third World: East Africa",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  150 Labor Movements in Transition",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  170 Intro to Econ Issues:",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "8815",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gurwitz, Aaron"
+                }
+            ],
+            "description": "ECON-UA  205 Economic History of The U.S. \nAnalytic survey of the structure of the U.S. economy. National income and its distribution; population and land; capital accumulation and development of financial institutions; labor and labor unions; technological change; the market, both domestic and foreign; and the economic effects of government policy.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6527",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 206",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Kitsikopoulos, Harilaos"
+                }
+            ],
+            "description": "ECON-UA  206\n\n   Hist of Economic Thought\n\nRestriction: Not open to any student who has taken ECON-UA 106. Begins with a short introduction to mercantilism, then moves to the classical school, examining the contributions of its main figures (Smith, Malthus, Ricardo, Mill, and others). Ends with Marx?s reaction to classical doctrines and the Marginalist Revolution of the late 19th century, which set the foundation of modern neoclassical economics. Conceptually, covers a variety of topics but focuses on two main entities: first, the normative aspects of the debate on the factors determining the value of commodities and the related issue ...\n\n      more description for ECON-UA  206 \u00bb\n\n      \n\n\n\nRestriction: Not open to any student who has taken ECON-UA 106. Begins with a short introduction to mercantilism, then moves to the classical school, examining the contributions of its main figures (Smith, Malthus, Ricardo, Mill, and others). Ends with Marx?s reaction to classical doctrines and the Marginalist Revolution of the late 19th century, which set the foundation of modern neoclassical economics. Conceptually, covers a variety of topics but focuses on two main entities: first, the normative aspects of the debate on the factors determining the value of commodities and the related issue of the principles that ought to govern the allocation of wealth; and second, various theories of economic growth and historical change, including predictions made on the future of capitalism.\n\n      less description for ECON-UA  206 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  207 Ethics and Economics \nStudy of the interface between ethical and economic theories. Specific topics covered include a brief overview of various ethical ideas, an analysis of the ethical presuppositions of modern economic theory (especially welfare economics), utilitarian ethics, the moral status of free exchange, the ethical implications of imperfect knowledge between bargaining parties, cost-benefit analysis and human rights, the economic content of the ?general welfare,? and laissez-faire.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "8465",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B02",
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Rizzo, Mario"
+                }
+            ],
+            "description": "ECON-UA  208 Policy Issues in History of Economic Thought",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  214 Economic Policymaking in The U.S.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  215 Austrian Economics",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "8463",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Fernandez, Raquel"
+                },
+                {
+                    "classId": "8477",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 308",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Lee, Hyunkyong"
+                },
+                {
+                    "classId": "8478",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lee, Hyunkyong",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "ECON-UA  216 Game Theory & Strategy",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  220 Comparative Econ Systems",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  221 Economic Theories of Socialism",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  222 American Economic Development 1940-1990",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  224 Area Economics:Japan",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6528",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Prager, Jonas"
+                }
+            ],
+            "description": "ECON-UA  225 Financial Crises (P) \nThis course will allow students to understand the origin and evolution of financial crises. Various policy options that may prevent and mitigate financial crises and the restructuring of the global financial architecture to prevent or limit future crises will be examined.  Although the course will focus mostly on the US and on the most recent financial crisis, it will also examine earlier financial crises in the US (such as the Great Depression) and past financial bubbles such as the 17th century Dutch Tulip mania and the 1997 Asian crisis.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6529",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV G08",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Storchmann, Karl"
+                },
+                {
+                    "classId": "8832",
+                    "format": "Lecture ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Storchmann, Karl"
+                }
+            ],
+            "description": "ECON-UA  227 Urban Economics \nThe city as an economic organization. Urbanization trends, functional specialization, and the nature of growth within the city; organization of economic activity within the city and its outlying areas, the organization of the labor market, and problems of urban poverty; the urban public economy; housing and land-use problems; transportation problems; and special problems within the public sector.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  230 Eco of The Environment",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6530",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 405",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Bhiladwall, Maharukh"
+                },
+                {
+                    "classId": "6531",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Williams, Jerome"
+                },
+                {
+                    "classId": "6532",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Williams, Jerome"
+                },
+                {
+                    "classId": "6533",
+                    "format": "Lecture ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 408",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Thapar, Aditi"
+                },
+                {
+                    "classId": "6534",
+                    "format": "Recitation ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Arantes Barbosa De Faria E Cas, Miguel"
+                },
+                {
+                    "classId": "6535",
+                    "format": "Recitation ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Arantes Barbosa De Faria E Cas, Miguel"
+                }
+            ],
+            "description": "ECON-UA  231 Money and Banking \nMoney supply; banking as an industry; banks as suppliers of money; the Federal Reserve System and monetary control; monetary theory; and contemporary monetary policy issues.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6536",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wolff, Edward"
+                }
+            ],
+            "description": "ECON-UA  233 Poverty & Income Distribution \nDefines poverty and welfare. Analyzes who the poor are, why some people are rich and others poor, equality of opportunity, income and status, inequality, trends in the degree of inequality, government?s role in income distribution, and international comparisons of inequality.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6537",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 520",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Lieberman, Marc"
+                },
+                {
+                    "classId": "6538",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Roldan, Francisco"
+                },
+                {
+                    "classId": "6539",
+                    "format": "Recitation ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Roldan, Francisco"
+                },
+                {
+                    "classId": "6540",
+                    "format": "Lecture ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 102",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gutman, Nancy"
+                },
+                {
+                    "classId": "6541",
+                    "format": "Recitation ",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wang, Chenxi"
+                },
+                {
+                    "classId": "6542",
+                    "format": "Recitation ",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wang, Chenxi"
+                }
+            ],
+            "description": "ECON-UA  238 International Economics (P) \nFocuses on international trade in goods, services, and capital. It serves as an introduction to international economic issues and as preparation for the department's more advanced course in ECON-UA 324. The issues discussed include gains from trade and their distribution; analysis of protectionism; strategic trade barriers; the trade deficit; exchange rate determination; and government intervention in foreign exchange markets.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  245 Social Choice and Politics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  248 Economics of Population",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  251 Labor Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  252 Gender and Choices (P) \nExamines important economic influences on decisions women make concerning labor force participation and family. Theory of labor market behavior and discrimination, as well as public policy options.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6543",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bernard, Lucas"
+                },
+                {
+                    "classId": "6544",
+                    "format": "Laboratory ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL 261"
+                },
+                {
+                    "classId": "6545",
+                    "format": "Laboratory ",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "classId": "16871",
+                    "format": "Lecture ",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 101",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Paizis, Andrew"
+                },
+                {
+                    "classId": "16874",
+                    "format": "Lecture ",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 520"
+                },
+                {
+                    "classId": "16876",
+                    "format": "Laboratory ",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "TISC LC9"
+                }
+            ],
+            "description": "ECON-UA  266 Intro to Econometrics \nApplication of statistics and economic theory to problems of formulating and estimating models of economic behavior. Matrix algebra is developed as the main tool of analysis in regression. Acquaints students with basic estimation theory and techniques in the regression framework and covers extensions such as specification error tests, heteroskedasticity, errors in variables, and simple time series models. An introduction to simultaneous equation modes and the concept of identification is provided.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  268 Input Output Amer Econom",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6546",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Prager, Jonas"
+                }
+            ],
+            "description": "ECON-UA  270\n\n   Privatization\n\nThis course will analyze the principles and practices underlying the privatization of public enterprises and governmental functions.  After evaluating the criticism directed at public ownership, the course examines an alternative to privatization -- reforming state-owned enterprises and public administration, using examples from the U.S., Great Britain, and New Zealand. Various issues of privatization such as the roles of ownership and competition in stimulating efficiency, the implications of separation of ownership from management in distinguishing between private and public enterprises, con...\n\n      more description for ECON-UA  270 \u00bb\n\n      \n\n\n\nThis course will analyze the principles and practices underlying the privatization of public enterprises and governmental functions.  After evaluating the criticism directed at public ownership, the course examines an alternative to privatization -- reforming state-owned enterprises and public administration, using examples from the U.S., Great Britain, and New Zealand. Various issues of privatization such as the roles of ownership and competition in stimulating efficiency, the implications of separation of ownership from management in distinguishing between private and public enterprises, conditions for successful divestiture programs, privatization's employment impact, and contracting out of government services are discussed both in principle and through the use of examples from industrial, transition, and less developed economies.\n\n      less description for ECON-UA  270 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  290 Topics in Economics Analysis I (P) \nThis is a mid-level (200 level) undergraduate elective course offered to encourage department or visiting faculty who wish to give courses in fields that are not in the permanent course offerings. The exact topic of this course is announced before registration each year. Such \u201cTopics courses\u201d are not given regularly and a specific topic presented in any one semester is unlikely to be repeated. Students are allowed to count only one such Topics course for the major.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  296 Honors Seminar: Politics and Finance",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  298 Teaching of Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  299 Teaching of Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  310 Strategic Decision Theory \nIntroduction to noncooperative game theory. Focuses on a rigorous development of the basic theory with economic applications such as competition among oligopolists, how standards are set, auction theory, and bargaining. The formal topics include games in strategic form, Bayesian games, and games in extensive form.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6547",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 405"
+                },
+                {
+                    "classId": "8836",
+                    "format": "Lecture ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 206"
+                }
+            ],
+            "description": "ECON-UA  316 Industrial Organization \nAnalysis of the structure, conduct, and performance of firms and industries. Involves the development of a theoretical basis for evaluating performance. Analysis of competition as a state of affairs versus competition as a process. The effects of advertising, economic concentration, and innovation upon prices and production. Overall survey of contemporary antitrust law and economics.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  317\n\n   Mkt Struct & Performance (T)\n\nDesigned to familiarize students with a modern approach to industrial organization economics. The modern approach relies extensively on the use of game-theoretic tools to model strategic market behavior and the use of econometric methods for testing hypotheses regarding firm conduct and market performance. In particular, the course analyzes profit-maximizing business strategies of firms with market power as well as strategic interactions among firms in various types of imperfectly competitive markets. The course addresses both static modes of competition as well as dynamic competition in resea...\n\n      more description for ECON-UA  317 \u00bb\n\n      \n\n\n\nDesigned to familiarize students with a modern approach to industrial organization economics. The modern approach relies extensively on the use of game-theoretic tools to model strategic market behavior and the use of econometric methods for testing hypotheses regarding firm conduct and market performance. In particular, the course analyzes profit-maximizing business strategies of firms with market power as well as strategic interactions among firms in various types of imperfectly competitive markets. The course addresses both static modes of competition as well as dynamic competition in research and development and product design. The course also examines the scope of effective public policies designed to improve market performance. Throughout the course, mathematical-based models are used to develop the relevant concepts and test the pertinent theories of firm behavior.\n\n      less description for ECON-UA  317 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "8464",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Fri 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Frydman, Roman"
+                }
+            ],
+            "description": "ECON-UA  320\n\n   Risk & Fluctuations in Financial Markets (T)\n\nPrerequisites: V31.0011, V31.0013, and V31.0266. The course focuses on the role of market participants' expectations in driving risk and long swings in asset prices. Three approaches are discussed: the dominant Rational Expectations Hypothesis, behavioral-finance models, and recently proposed models of risk and fluctuations that place \"imperfect knowledge\" at the center of the analysis. Beyond comparing the three approaches from both the theoretical and empirical points of view, the course examines their implications for the reform of our financial system aiming to limit its vulnerability to f...\n\n      more description for ECON-UA  320 \u00bb\n\n      \n\n\n\nPrerequisites: V31.0011, V31.0013, and V31.0266. The course focuses on the role of market participants' expectations in driving risk and long swings in asset prices. Three approaches are discussed: the dominant Rational Expectations Hypothesis, behavioral-finance models, and recently proposed models of risk and fluctuations that place \"imperfect knowledge\" at the center of the analysis. Beyond comparing the three approaches from both the theoretical and empirical points of view, the course examines their implications for the reform of our financial system aiming to limit its vulnerability to future crisis.\n\n      less description for ECON-UA  320 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6548",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ma, Henry"
+                },
+                {
+                    "classId": "8845",
+                    "format": "Lecture ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 507",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Ray, Debraj"
+                }
+            ],
+            "description": "ECON-UA  323\n\n   Economic Development\n\nStudies the problem of economic underdevelopment, with special reference to the countries of Asia, Latin America, and Africa. The building blocks of economic theory are used to understand the historical experiences of these countries. Macroeconomic topics covered include economic growth, income distribution, and poverty, with particular emphasis on the concept of underdevelopment as a circular, self-reinforcing trap. Microeconomic topics include the study of Prerequisites: V31.0010, V31.0012, and V31.0238, or V31.0011 and V31.0013. Studies the problem of economic underdevelopment, with special...\n\n      more description for ECON-UA  323 \u00bb\n\n      \n\n\n\nStudies the problem of economic underdevelopment, with special reference to the countries of Asia, Latin America, and Africa. The building blocks of economic theory are used to understand the historical experiences of these countries. Macroeconomic topics covered include economic growth, income distribution, and poverty, with particular emphasis on the concept of underdevelopment as a circular, self-reinforcing trap. Microeconomic topics include the study of Prerequisites: V31.0010, V31.0012, and V31.0238, or V31.0011 and V31.0013. Studies the problem of economic underdevelopment, with special reference to the countries of Asia, Latin America, and Africa. The building blocks of economic theory are used to understand the historical experiences of these countries. Macroeconomic topics covered include economic growth, income distribution, and poverty, with particular emphasis on the concept of underdevelopment as a circular, self-reinforcing trap. Microeconomic topics include the study of particular markets that are especially relevant to developing countries: those for land, labor, and credit. Notions of market fragmentation, limited information, and incentive problems receive emphasis. Ends with international issues: trading patterns, capital flows, and global financial crises are studied from the viewpoint of developing countries.\n\n      less description for ECON-UA  323 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  324 Topics in The Global Economy (P) \nCovers special topics in the context of a global economy, including fiscal and monetary policy under alternative exchange rate regimes; international transmission mechanisms; barriers to capital mobility; international policy coordination; optimum currency areas, customs unions and free trade areas; multilateral trade; trade liberalization policies; and the role of the World Bank and IMF.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  326\n\n   Economics of Energy\n\nEconomic analysis of major policy issues in energy and the environment, both domestic and international. Emphasis on market solutions to various problems and market limitations in the allocation of environmental resources. Energy issues focus on OPEC and world oil markets, with attention to reducing oil import vulnerability; taxation and regulation of production and consumption; conservation of natural resources; and the transition to alternative energy sources. Environmental issues include policies to reduce pollution. Substantial attention is paid to global warming caused by consumption of f...\n\n      more description for ECON-UA  326 \u00bb\n\n      \n\n\n\nEconomic analysis of major policy issues in energy and the environment, both domestic and international. Emphasis on market solutions to various problems and market limitations in the allocation of environmental resources. Energy issues focus on OPEC and world oil markets, with attention to reducing oil import vulnerability; taxation and regulation of production and consumption; conservation of natural resources; and the transition to alternative energy sources. Environmental issues include policies to reduce pollution. Substantial attention is paid to global warming caused by consumption of fossil fuels.\n\n      less description for ECON-UA  326 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  330 International Finance \nCovers financial and macroeconomic issues in international economics, including the international monetary system, exchange rate determination, forward and futures markets for foreign exchange, government intervention in foreign exchange markets, balance of payments problems, and macroeconomic policy in an open economy.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  331 Monetary & Banking Theory",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  335 International Economics: Trade \nExamines theories of international trade as well as related empirical evidence. Topics include the relationship between trade and economic growth, the theory of customs unions, international factor movements, trade between unequal partners, and trade under imperfect competition.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  336 International Economics: Finance \nFinancial and macroeconomic issues in international economics, the balance of payments, gold and other assets in international portfolios, exchange rate determination, problems of simultaneous achievement of internal and external policy goals, and interdependence of countries? macroeconomic policies.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  337 Econ of Forward, Futures & Options Markets \nProvides an understanding of the operation and economic role of contracts in forward, futures, and options markets in an economic environment of increased price uncertainty. Includes government regulation of these markets, the role of the hedger and the speculator, and theories of price movements relevant to the markets.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6549",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Paizis, Andrew"
+                }
+            ],
+            "description": "ECON-UA  340\n\n   Ownership & Corporate Control\n\nDiscusses the conceptual foundations and empirical evidence concerning the effects of private ownership on corporate perfor-mance. The corporate control mechanisms in the United States, Germany, Japan, and the emerging market economies of Eastern Europe and the former Soviet Union are reviewed. Particular attention is paid to the role of capital markets (takeovers and other shareholder control devices), banks and other financial institutions, and various corporate institutions (such as boards of directors and meetings of shareholders) in facilitating or hindering corporate control and the effi...\n\n      more description for ECON-UA  340 \u00bb\n\n      \n\n\n\nDiscusses the conceptual foundations and empirical evidence concerning the effects of private ownership on corporate perfor-mance. The corporate control mechanisms in the United States, Germany, Japan, and the emerging market economies of Eastern Europe and the former Soviet Union are reviewed. Particular attention is paid to the role of capital markets (takeovers and other shareholder control devices), banks and other financial institutions, and various corporate institutions (such as boards of directors and meetings of shareholders) in facilitating or hindering corporate control and the efficient allocation of resources.\n\n      less description for ECON-UA  340 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  341 Business Conditions & Stabilization Policies",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  342 Behavioral Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  345\n\n   Political Economy (T)\n\nIntroduces the emerging field of formal political economy. The variety of ways in which economists and political scientists think about political science and the interplay of political science and economics are analyzed. The first part of the course focuses on the formal modeling of political behavior and political institutions; the theory of social choice (how groups of rational individuals make decisions) and collective action (how groups of rational individuals take action) are analyzed. The second part of the course discusses the connection between politics and economics and investigates t...\n\n      more description for ECON-UA  345 \u00bb\n\n      \n\n\n\nIntroduces the emerging field of formal political economy. The variety of ways in which economists and political scientists think about political science and the interplay of political science and economics are analyzed. The first part of the course focuses on the formal modeling of political behavior and political institutions; the theory of social choice (how groups of rational individuals make decisions) and collective action (how groups of rational individuals take action) are analyzed. The second part of the course discusses the connection between politics and economics and investigates the effect of political variables on the determination of economic outcomes. Some questions that are answered: How can special groups of individuals enhance their well being by political action? What is lobbying? What is the effect of contributions on political outcomes?\n\n      less description for ECON-UA  345 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6550",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 408"
+                }
+            ],
+            "description": "ECON-UA  351 Labor Economics \nAnalyzes the functioning of the labor market in both theoretical and statistical terms. Examines the determinants of wage and employment levels in perfect and imperfect labor markets, including the concept of education and training as human capital. Models of labor market dynamics are also examined, including those of job search and matching. The role of public policy in the functioning of labor markets is highlighted throughout.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6551",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bhiladwall, Maharukh"
+                },
+                {
+                    "classId": "6552",
+                    "format": "Lecture ",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Fan, Xiaochen"
+                }
+            ],
+            "description": "ECON-UA  353 Public Economics \nIn alternate years, stresses policy implications and the development of the theory. Analysis of government economic policies and behavior. Normative and positive economics; the fundamental welfare theorems. What goods should the government provide (public goods)? When should the government tax private behavior (externalities)? Income redistribution and the welfare program. Who pays the tax (tax incidence)? The role of debt policy. On what should taxes be levied (optimal taxation)?",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  355 Law, Economics, & Society (P) \nDeals with classic topics in law and economics, as well as law and society. Topics include tort law, criminal law and racial profiling, the efficient allocation of property rights, and the possibility of order without law. The methodological approach is a game-theoretical one. Provides a fair amount of the required technical background; concepts introduced include dominant strategies, Nash Equilibrium, dynamic games, and backward induction.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "9212",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 388",
+                    "time": "Tue,Thu 9.30 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "Frechette, Guillaume"
+                }
+            ],
+            "description": "ECON-UA  360\n\n   Experimental Economics\n\nExperimental economics is predicated on the belief that economics, like other sciences, can be a laboratory science where economic theories are tested, rejected, and revised. This course reviews the methodology of doing such laboratory experiments and investigates the use of experiments in a wide variety of fields. These include competitive markets, auctions, public goods theory, labor economics, game theory, and individual choice theory. The course functions as a research seminar in which students present their work as it progresses during the semester. Students also get exposure to the exper...\n\n      more description for ECON-UA  360 \u00bb\n\n      \n\n\n\nExperimental economics is predicated on the belief that economics, like other sciences, can be a laboratory science where economic theories are tested, rejected, and revised. This course reviews the methodology of doing such laboratory experiments and investigates the use of experiments in a wide variety of fields. These include competitive markets, auctions, public goods theory, labor economics, game theory, and individual choice theory. The course functions as a research seminar in which students present their work as it progresses during the semester. Students also get exposure to the experimental laboratory in the Department of Economics and the research performed there.\n\n      less description for ECON-UA  360 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  363 Elements of Financial Economics (T) \nProvides an understanding of the operation and economic role of contingent markets in sharing risk in a sophisticated financial system. Develops tools for decision making under uncertainty, the solution of portfolio choice problems, and the analysis of efficient markets. Includes applications to forwards, futures, and options.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  365\n\n   Advanced Micro Theory (T)\n\nDesigned to introduce students to some of the main model-building techniques that have been developed by microeconomists. Intended for advanced undergraduates who have taken the necessary preparatory courses in economics and mathematics. Three basic topics are covered. The first topic is the static theory of consumer behavior both in a certain world and in an uncertain world. The second topic is the theory of general equilibrium. The third topic is the theory of dynamic optimization. In addition to the coverage of the economics, the advanced mathematical techniques that are needed to understan...\n\n      more description for ECON-UA  365 \u00bb\n\n      \n\n\n\nDesigned to introduce students to some of the main model-building techniques that have been developed by microeconomists. Intended for advanced undergraduates who have taken the necessary preparatory courses in economics and mathematics. Three basic topics are covered. The first topic is the static theory of consumer behavior both in a certain world and in an uncertain world. The second topic is the theory of general equilibrium. The third topic is the theory of dynamic optimization. In addition to the coverage of the economics, the advanced mathematical techniques that are needed to understand the material are reviewed.\n\n      less description for ECON-UA  365 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  367 Advanced Macroeconomics & Finance (T)",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  368 Financial Economics (P)",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  370 Topics: Economic Research \nExplores economic issues of economic policy using the tools learned in the intermediate micro- and macroeconomic courses. Focuses on a particular issue each term.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  375 Topics: \nExplores issues in economic theory using the tools learned in macroeconomics and microeconomics. Focuses on a particular issue each term.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  380 Topics in Econometrics \nExamines a number of important areas of econometrics. The topics covered include identification and estimation of simultaneous equations models; model specification and testing; estimation of discrete choice models; and the analysis of duration models. In addition to covering the relevant theoretical issues, the course includes the application of these methods to economic data.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  390 Honors Seminar \nUnder faculty supervision, students read original research material and evaluate the contribution of the research to the understanding of economic events. Students present several short papers and critically review the material studied. Class meets once a week for two periods.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  401 Honors Seminar II",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  402 Advanced Econometrics (P,T)",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA  404 Honors Seminar: Intro to Research in Economics",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6556",
+                    "format": "Seminar ",
+                    "section": "001",
+                    "period": "09/02/2015 - 09/12/2015",
+                    "location": "7E12 LL33 with Flinn, Christopher09/15/2015 - 12/15/2015 Tue,Thu 2.00 PM - 3.15 PM at 7E12 LL33",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Flinn, Christopher"
+                }
+            ],
+            "description": "ECON-UA  410 Honors Tutorial \nThe objective of the course is to train students to write on economic topics and perform economic analysis efficiently and quickly, as well as to develop rhetorical skills. Once a week, two students each present a paper on an assigned topic that has been distributed previously to the other students. The students not presenting that week critique the paper and the presentation, as will the instructor. Each paper is to be revised and submitted to the instructor with a cover sheet that indicates how the student dealt with each of the criticisms.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6557",
+                    "format": "Seminar ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "ECON-UA  450 Honors Thesis I \nStudents interested in pursuing Honors Thesis should meet with the director of undergraduate studies in the spring semester of their junior year.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "6558",
+                    "format": "Seminar ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "ECON-UA  997 Independent Study \nThe student engages in intensive independent study of an important economic topic under the direction of a departmental faculty member. The results of the study are embodied in a report of a type required by the instructor.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "7849",
+                    "format": "Independent Study ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "ECON-UA  998 Independent Study",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9001 Introduction to Macroeconomics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9002 Introduction to Microeconomics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9010 Interm Microeconomics \nExamines the manner in which producers, consumers, and resource owners acting through the market determine the prices and output of goods, the allocation of productive resources, and the functional distribution of incomes. The price system is seen as a network of interrelated decisions, with the market process serving to communicate information to decision makers.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9012 Interm Macroeconomics \nStudy of aggregate economic analysis with special attention paid to the determination of the level of income, employment, and inflation. Critically examines both the theories and the policies associated with them.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9018 Statistics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9103 Contemp Issues in Econ:      (in English)",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9106 History of Economic Thought",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9170 Intro to Economic Issues",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9217 Israel Economy: Making Policy for Economic and Social Justice",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9219\n\n   Economics of European Integration\n\nAim of the Course  is  to offer a wide perspective on the main economic issues \nconcerning the European economy. We will discuss the characteristics of the role of EU \nand the EU monetary union that comes from a long period of economic coordination in a \nglobalized context. We will focus on the role of EU and main international institutions on \nthe recent financial turmoil. The financial crisis that hit the global economy since the summer of 2008  is without precedent in post-war economic history. Although its size and extent are exceptional, the crisis  has many features in common with si...\n\n      more description for ECON-UA 9219 \u00bb\n\n      \n\n\n\nAim of the Course  is  to offer a wide perspective on the main economic issues \nconcerning the European economy. We will discuss the characteristics of the role of EU \nand the EU monetary union that comes from a long period of economic coordination in a \nglobalized context. We will focus on the role of EU and main international institutions on \nthe recent financial turmoil. The financial crisis that hit the global economy since the summer of 2008  is without precedent in post-war economic history. Although its size and extent are exceptional, the crisis  has many features in common with similar financial-stress driven recession episodes in the past. However, this time there\u2019s something different, with the crisis \nbeing global akin to the events that triggered the Great Depression of the 1930s. This \ncrisis spread quickly and rapidly moved from the US to European countries that show \nthe weakest economic indicators (PIIGS: Portugal, Ireland and Italy, Greece and Spain). \nThis course will focus on the long run causes, consequences and EU responses to the \ncrisis,  conditionally on the characteristics of the countries involved. We will focus on \nthe long process of European Integration and discuss whether it may represent a \npossible solution to the recent  crisis\n\n      less description for ECON-UA 9219 \u00ab",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9223 Economic Development",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9225 Financial Crises",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9231 Money & Banking \nMoney supply; banking as an industry; banks as suppliers of money; the Federal Reserve System and monetary control; monetary theory; and contemporary monetary policy issues.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9238 International Economics \nFocuses on international trade in goods, services, and capital. It serves as an introduction to international economic issues and as preparation for the department\u2019s more advanced course in ECON-UA 324. The issues discussed include gains from trade and their distribution; analysis of protectionism; strategic trade barriers; the trade deficit; exchange rate determination; and government intervention in foreign exchange markets.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9290 Topics in Economic Analysis",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9316 Industrial Organization: a European Perspective",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9323 Economic  Development",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9324 Topics in The Global Economy",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9330 International Finance",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9336 International Economics: Finance",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9337 Econ of Forward, Futures & Options Markets",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9340 Ownership & Corp Control in Adv & Transition Eco",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9353 Public Economics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9370 Topics:",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "ECON-UA 9997 Independent Study",
+            "offering": true
+        }
+    ],
+    "file": "./2015-2016/Economics_(ECON-UA).html",
+    "majorID": "ECON-UA"
+}
