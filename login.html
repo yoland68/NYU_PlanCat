@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+██████╗  ██████╗ ██████╗  ██████╗ ██████╗ ██████╗ ███╗   ██╗██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔═══██╗██╔══██╗████╗  ██║██╔══██╗╚══███╔╝
+██████╔╝██║   ██║██████╔╝██║     ██║   ██║██████╔╝██╔██╗ ██║██████╔╝  ███╔╝ 
+██╔═══╝ ██║   ██║██╔═══╝ ██║     ██║   ██║██╔══██╗██║╚██╗██║██╔══██╗ ███╔╝  
+██║     ╚██████╔╝██║     ╚██████╗╚██████╔╝██║  ██║██║ ╚████║██║  ██║███████╗
+╚═╝      ╚═════╝ ╚═╝      ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝                  
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> NYU Courser </title>
+
+    <!-- metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="description" content="Search for courses the right way.">
+    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1">
+
+    <!-- Stylesheets CDN + local
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="app/css/app.css">
+  </head>
+
+  <body>
+    <h1 id ="title"> NYU Courser</h1>
+      <section id="login">
+          <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="form-wrap">
+                      <h1>Log in with your NYU credentials</h1>
+                          <form role="form" action="javascript:;" method="post" id="login-form" autocomplete="off">
+                              <div class="form-group">
+                                  <label for="email" class="sr-only">Email</label>
+                                  <input type="email" name="email" id="email" class="form-control" placeholder="YourNetID@nyu.edu">
+                              </div>
+                              <div class="form-group">
+                                  <label for="key" class="sr-only">Password</label>
+                                  <input type="password" name="key" id="key" class="form-control" placeholder="Password">
+                                  <a href="www.google.com">Forgot your password?</a>
+                              </div>
+                              <input type="submit" id="btn-login" class="btn btn-custom btn-lg btn-block" value="Log in">
+                          </form>
+                          <hr>
+                    </div>
+              </div> <!-- /.col-xs-12 -->
+            </div> <!-- /.row -->
+          </div> <!-- /.container -->
+      </section>
+    <div style =" text-align : center">
+      <p>Page © - 2014</p>
+      <p>HackNYU Hackathon Submission</p>
+    </div>
+  </body>
+</html>
