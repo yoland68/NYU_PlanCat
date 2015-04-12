@@ -12,14 +12,13 @@ app.js
 
 'use strict';
 
-
 /**
 *  Run when DOM is ready.
 */
 $(document).ready(function(){
 
 	makeDroppable();
-	getMajorData();
+	getFiles();
 });
 
 
@@ -33,7 +32,7 @@ function makeDroppable() {
       appendTo: "body",
       helper: "clone"
     });
-    
+
     $( ".course-draggable li" ).draggable({
       appendTo: "body",
       helper: "clone"
@@ -57,23 +56,17 @@ function makeDroppable() {
     });
 }
 
+/**
+* Get JSON. If successful call getData()
+*/
+function getFiles(){
+	$.parseJSON(econMajor);
 
-function getMajorData(){
-
-	// var $majorDataJSON = $.parseJSON('../../hardcore_scraper/json/Economics_(ECON-UA).json');
-
-	// console.log($majorDataJSON);
-
-	// var major = $majorDataJSON["major_id"];
-
-	// // Array of course objects
-	// var courses = $majorDataJSON["courses"];
 }
 
 
-
 /**
-* Displays the Interested Courses List on the left
+* Displays the Course Cart List on the left
 */
 function displayInterestedCourses(){
     var $interestedCourses = $("#course-cart");
@@ -108,6 +101,5 @@ function displayRecommendedCourses(){
 
 
 function displayCourseCatalog(){
-	getMajorData();
     var $courseCat = $("#course-catalog");
 }
