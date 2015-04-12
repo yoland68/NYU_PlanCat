@@ -29,7 +29,7 @@ $(document).ready(function(){
 */
 function makeDroppable() {
 
-    $( "#course-catalog li" ).draggable({
+    $( ".course-draggable li" ).draggable({
       appendTo: "body",
       helper: "clone"
     });

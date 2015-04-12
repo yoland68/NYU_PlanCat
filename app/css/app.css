@@ -26,7 +26,7 @@ Custom CSS
 
 #content {
 	width: 400px;
-    text-align: center;
+  text-align: center;
 }
 
 #content2 {
@@ -38,6 +38,14 @@ text-align: center;
 h1 {
 	font-size: 18px;
   color: #312E3F;
+}
+
+/* --------------------------------------------------
+:: Panel Section
+-------------------------------------------------- */
+.panel-heading {
+  text-align: center;
+  font-weight: bold;
 }
 
 
