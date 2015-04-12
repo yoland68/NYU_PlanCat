@@ -1,0 +1,174 @@
+{
+    "major_id": "CRED1-DC",
+    "file": "./2015-2016/Credit_Analysis_Diploma_(CRED1-DC).html",
+    "courses": [
+        {
+            "course_id": "CRED1-DC 1000",
+            "course_name": "Financial Statement Analysis",
+            "description": "CRED1-DC 1000 Financial Statement Analysis \nExamines the best tools and techniques available for integrating the analysis and interpretation of financial statements into the accounting framework from the standpoint of a bank lending officer.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 1010",
+            "course_name": "Crdt Analysis: Corporate",
+            "description": "CRED1-DC 1010 Crdt Analysis: Corporate \nFocuses on the classical bank credit concepts and their application to the lending situation, bridging the gap between credit analysis and lending. Case studies.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 1020",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1019",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Managing a Commercial Loan Portfolio",
+            "description": "CRED1-DC 1020 Managing a Commercial Loan Portfolio",
+            "offering": true
+        },
+        {
+            "course_id": "CRED1-DC 3000",
+            "course_name": "Money & Banking",
+            "description": "CRED1-DC 3000 Money & Banking \nThis course is a highly elective examination of both the domestic and international markets in which banks and other financial institutions function.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1020",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Workout Bankrupt & Reorg",
+            "description": "CRED1-DC 3010 Workout Bankrupt & Reorg",
+            "offering": true
+        },
+        {
+            "course_id": "CRED1-DC 3020",
+            "course_name": "Term Lending",
+            "description": "CRED1-DC 3020 Term Lending \nSpotlights the special credit problems of term revolver lending and typical term-loan agreements with particular attention to collateral, borrower covenants, default provisions, and remedies.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3030",
+            "course_name": "Re Lending/Mortgage Financing",
+            "description": "CRED1-DC 3030 Re Lending/Mortgage Financing",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3040",
+            "course_name": "Financial Accounting",
+            "description": "CRED1-DC 3040 Financial Accounting \nTopics include: preparation of financial statements; inventories and fixed assets accounting procedures; and an introduction to interpretation of accounting data.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3050",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1021",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": "Bottner, Douglas",
+                    "time": "Thu 6.20 PM - 8.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Secured Lending/Asset- Based Financing",
+            "description": "CRED1-DC 3050 Secured Lending/Asset- Based Financing \nExamines the lending principles involved and legal documentation required for the following types of credit: working capital facilities, cash flow loans, and highly leveraged transactions.  Includes relevant aspects of letters of credit, real estate loans, and the bankruptcy code.",
+            "offering": true
+        },
+        {
+            "course_id": "CRED1-DC 3060",
+            "course_name": "Trade Finances & Letters of Credit",
+            "description": "CRED1-DC 3060 Trade Finances & Letters of Credit \nTopics include: assignments and revolving credits, flexibility and adaptability of letters of credit to special transactions, standby L/C's and their uses, and foreign exchange and related problems",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3070",
+            "course_name": "Negotiatng Loan Agreements",
+            "description": "CRED1-DC 3070 Negotiatng Loan Agreements \nExamines how to negotiate, close, and enforce the varieties of security agreement, pledge agreement, Loan Warehouse agreement, guarantee, hypothecation agreement, subordination agreement, and participation agreement.  Offered in fall only.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3080",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1022",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": "Nanavaty, Alkesh",
+                    "time": "Tue 6.20 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Financial Statement Analysis",
+            "description": "CRED1-DC 3080 Advanced Financial Statement Analysis \nBuilding on the basic course, this course provides and understanding of the best tools and techniques for financial analysis.  Ratio analysis, liquidity, capital structure, trend analysis, profitability, industry standards, changes to working capital, changes in financial position, sources and uses of funds and analysis by sales, all are studied to develop an advanced understanding of the analytics and functions of financial statement analysis.  The data, as well as industry-specific issues affecting interpretation, are explored.",
+            "offering": true
+        },
+        {
+            "course_id": "CRED1-DC 3100",
+            "course_name": "Intro to Credit Concepts",
+            "description": "CRED1-DC 3100 Intro to Credit Concepts \nThis survey course introduces the foundation concepts of credit.  Students review the history and development of credit to gain perspective on our current public and private credit methods and the issues arising from a global marketplace.  An overview of bank lending, commercial credit, consumer credit, and trade finance prepared students for further study in those specialized subjects.",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3110",
+            "course_name": "Credit Analysis:Consumer",
+            "description": "CRED1-DC 3110 Credit Analysis:Consumer",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3120",
+            "course_name": "Credit Scoring",
+            "description": "CRED1-DC 3120 Credit Scoring",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3130",
+            "course_name": "Legal/Regulatory Issues in Consumer Credit",
+            "description": "CRED1-DC 3130 Legal/Regulatory Issues in Consumer Credit",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3140",
+            "course_name": "Collection",
+            "description": "CRED1-DC 3140 Collection",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3150",
+            "course_name": "Corps as Creditors",
+            "description": "CRED1-DC 3150 Corps as Creditors",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3160",
+            "course_name": "Credit Management",
+            "description": "CRED1-DC 3160 Credit Management",
+            "offering": false
+        },
+        {
+            "course_id": "CRED1-DC 3900",
+            "course_name": "Independent Study",
+            "description": "CRED1-DC 3900 Independent Study",
+            "offering": false
+        }
+    ]
+}

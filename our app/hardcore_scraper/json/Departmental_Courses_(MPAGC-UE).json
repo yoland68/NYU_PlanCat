@@ -1,0 +1,102 @@
+{
+    "major_id": "MPAGC-UE",
+    "file": "./2015-2016/Departmental_Courses_(MPAGC-UE).html",
+    "courses": [
+        {
+            "course_id": "MPAGC-UE 1087",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11457",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Mahadeen, Roger",
+                    "time": "Wed 7.00 PM - 9.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11797",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bongiorno, Joseph",
+                    "time": "Mon 3.15 PM - 4.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11458",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bongiorno, Joseph09/02/2015 - 12/15/2015 Fri 9.30 AM - 12.00 PM",
+                    "time": "Mon 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11459",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bongiorno, Joseph",
+                    "time": "Mon,Thu 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11567",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Bongiorno, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11764",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bush, Christopher",
+                    "time": "Mon 3.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11765",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bush, Christopher",
+                    "time": "Mon 4.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "NYU Orchestra",
+            "description": "MPAGC-UE 1087 NYU Orchestra \nRehearsal & performance of orchestral literature. Audition required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAGC-UE 1229",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11897",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Creating a Career as a Musican",
+            "description": "MPAGC-UE 1229 Creating a Career as a Musican \nPrepares students to navigate today's world of professional music performance. Topics include setting career goals, defining success, finding and creating performance opportunities, grant writing, creating publicity materials, auditions, day jobs, freelancing, and how to manage money, time, and stress",
+            "offering": true
+        }
+    ]
+}

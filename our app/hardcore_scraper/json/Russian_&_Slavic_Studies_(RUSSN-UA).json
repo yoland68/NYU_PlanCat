@@ -1,0 +1,1052 @@
+{
+    "major_id": "RUSSN-UA",
+    "file": "./2015-2016/Russian_&_Slavic_Studies_(RUSSN-UA).html",
+    "courses": [
+        {
+            "course_id": "RUSSN-UA 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7449",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 284",
+                    "time": "Mon,Tue,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Danilin, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7548",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Mon,Tue,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Mendelevich, Evelina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7450",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Mon,Tue,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Mendelevich, Evelina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9123",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Mon,Tue,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Mendelevich, Evelina"
+                }
+            ],
+            "course_name": "Elementary Russian I",
+            "description": "RUSSN-UA    1 Elementary Russian I \nOffered in the fall. 4 points per term. Intended to give beginners a speaking and reading knowledge of the Russian language. Involves an introduction to the essentials of Russian grammar and the reading of graded texts, with special emphasis on the acquisition of an idiomatic conversational vocabulary. Combines the traditional grammatical approach with a conversational, inductive method.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 2",
+            "course_name": "Elementary Russian II",
+            "description": "RUSSN-UA    2 Elementary Russian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7451",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B04",
+                    "time": "Mon,Tue,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Korsounskaia, Ekaterina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7452",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Mon,Tue,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Korsounskaia, Ekaterina"
+                }
+            ],
+            "course_name": "Intermediate Russian I",
+            "description": "RUSSN-UA    3 Intermediate Russian I \nGrammar review, vocabulary building, and drills in spoken Russian.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 4",
+            "course_name": "Intermediate Russian II",
+            "description": "RUSSN-UA    4 Intermediate Russian II \nVocabulary building, idiomatic expressions, and drills in spoken Russian.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 5",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7453",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B04",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Korsounskaia, Ekaterina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16837",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Belodedova, Irina"
+                }
+            ],
+            "course_name": "Russian Grammar & Composition I",
+            "description": "RUSSN-UA    5 Russian Grammar & Composition I \nFormerly Russian Grammar Review I. Designed for students who speak some Russian at home but have virtually no reading and writing skills. Completion of this course satisfies the foreign language requirement.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 6",
+            "course_name": "Russian Grammar & Composition II",
+            "description": "RUSSN-UA    6 Russian Grammar & Composition II \nCompletion of this course satisfies the foreign language requirement.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 10",
+            "course_name": "Structure of The Russian Language",
+            "description": "RUSSN-UA   10 Structure of The Russian Language",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 107",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7454",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Belodedova, Irina"
+                }
+            ],
+            "course_name": "Advanced Russian I",
+            "description": "RUSSN-UA  107 Advanced Russian I",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 108",
+            "course_name": "Advanced Russian",
+            "description": "RUSSN-UA  108 Advanced Russian",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 109",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8854",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Belodedova, Irina"
+                }
+            ],
+            "course_name": "Advanced Russian III",
+            "description": "RUSSN-UA  109 Advanced Russian III",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 123",
+            "course_name": "Russian for Reading and Research",
+            "description": "RUSSN-UA  123 Russian for Reading and Research",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 125",
+            "course_name": "Studies in Prose Genres:",
+            "description": "RUSSN-UA  125 Studies in Prose Genres:",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 157",
+            "course_name": "History of Imperial Russia, 1700-1917",
+            "description": "RUSSN-UA  157 History of Imperial Russia, 1700-1917",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 178",
+            "course_name": "History of Poland",
+            "description": "RUSSN-UA  178 History of Poland",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 191",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19266",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL33",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Estraikh, Gennady"
+                }
+            ],
+            "course_name": "Russian Jewish History",
+            "description": "RUSSN-UA  191 Russian Jewish History",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7455",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Tue,Thu 11.00 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "Halsey, Suzanna"
+                }
+            ],
+            "course_name": "Elementary Czech I",
+            "description": "RUSSN-UA  201 Elementary Czech I \nFrysc?k. Offered in the fall and spring. 4 points. Introduction to the basic skills?speaking and reading. Essentials of Czech grammar, reading of graded texts, and conversation on everyday subjects. Vocabulary building. Essentials of writing.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 202",
+            "course_name": "Elementary Czech II",
+            "description": "RUSSN-UA  202 Elementary Czech II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 203",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8155",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu,Fri 11.40 AM - 12.55 PM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Intermediate Czech I",
+            "description": "RUSSN-UA  203 Intermediate Czech I \nFrysc?k. Offered every year. 4 points. Grammar review. Reading and discussion of selected contemporary texts. Standard literary Czech and the spoken variety of the language. Vocabulary building and development of writing skill.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 204",
+            "course_name": "Intermediate Czech II",
+            "description": "RUSSN-UA  204 Intermediate Czech II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 205",
+            "course_name": "Readings in Czech Litera Ture 1",
+            "description": "RUSSN-UA  205 Readings in Czech Litera Ture 1",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 206",
+            "course_name": "Reading in Czech Literature II",
+            "description": "RUSSN-UA  206 Reading in Czech Literature II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 211",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8156",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 10.10 AM - 11.25 AM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Elementary Polish I",
+            "description": "RUSSN-UA  211 Elementary Polish I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 212",
+            "course_name": "Elementary Polish II",
+            "description": "RUSSN-UA  212 Elementary Polish II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 213",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8157",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 1.10 PM - 2.25 PM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Intermediate Polish I",
+            "description": "RUSSN-UA  213 Intermediate Polish I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 214",
+            "course_name": "Intermediate Polish II",
+            "description": "RUSSN-UA  214 Intermediate Polish II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 215",
+            "course_name": "Advanced Polish I",
+            "description": "RUSSN-UA  215 Advanced Polish I \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 216",
+            "course_name": "Advanced Polish II",
+            "description": "RUSSN-UA  216 Advanced Polish II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 217",
+            "course_name": "Professional Polish -- Heritage Speakers",
+            "description": "RUSSN-UA  217 Professional Polish -- Heritage Speakers \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 221",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8158",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 8.40 AM - 9.55 AM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Elementary Ukrainian I",
+            "description": "RUSSN-UA  221 Elementary Ukrainian I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 222",
+            "course_name": "Elementary Ukrainian II",
+            "description": "RUSSN-UA  222 Elementary Ukrainian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 223",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8159",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 10.10 AM - 11.25 AM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Intermediate Ukrainian I",
+            "description": "RUSSN-UA  223 Intermediate Ukrainian I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 224",
+            "course_name": "Intermed Ukrainian II",
+            "description": "RUSSN-UA  224 Intermed Ukrainian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 225",
+            "course_name": "Advanced Ukrainian I",
+            "description": "RUSSN-UA  225 Advanced Ukrainian I \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 226",
+            "course_name": "Advanced Ukrainian II",
+            "description": "RUSSN-UA  226 Advanced Ukrainian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 230",
+            "course_name": "Nabokov",
+            "description": "RUSSN-UA  230 Nabokov",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 241",
+            "course_name": "Elementary Georgian I",
+            "description": "RUSSN-UA  241 Elementary Georgian I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 242",
+            "course_name": "Elementary Georgian II",
+            "description": "RUSSN-UA  242 Elementary Georgian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 243",
+            "course_name": "Intermediate Georgian i",
+            "description": "RUSSN-UA  243 Intermediate Georgian i",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 244",
+            "course_name": "Intermediate Georgian II",
+            "description": "RUSSN-UA  244 Intermediate Georgian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 245",
+            "course_name": "Patterns of Romanian Culture",
+            "description": "RUSSN-UA  245 Patterns of Romanian Culture",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 263",
+            "course_name": "Culture & Communism in Eastern Europe",
+            "description": "RUSSN-UA  263 Culture & Communism in Eastern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 264",
+            "course_name": "World War I",
+            "description": "RUSSN-UA  264 World War I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 265",
+            "course_name": "The Holocaust: The Third Reich and the Jews",
+            "description": "RUSSN-UA  265 The Holocaust: The Third Reich and the Jews",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 266",
+            "course_name": "Advanced Russian through History",
+            "description": "RUSSN-UA  266 Advanced Russian through History",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 267",
+            "course_name": "Advanced Russian Through Media",
+            "description": "RUSSN-UA  267 Advanced Russian Through Media",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 292",
+            "course_name": "Sem: Russia as Empire",
+            "description": "RUSSN-UA  292 Sem: Russia as Empire",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 300",
+            "course_name": "Tpcs Film/Lit: Immigrant Writing/Film in 1St Pers",
+            "description": "RUSSN-UA  300 Tpcs Film/Lit: Immigrant Writing/Film in 1St Pers",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 622",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19267",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Nolan, Mary"
+                }
+            ],
+            "course_name": "Cold War in Europe & America",
+            "description": "RUSSN-UA  622 Cold War in Europe & America",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 663",
+            "course_name": "Soviet Jewish Life Thru The Prism of Lit & Film",
+            "description": "RUSSN-UA  663 Soviet Jewish Life Thru The Prism of Lit & Film",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 810",
+            "course_name": "Special Topics:",
+            "description": "RUSSN-UA  810 Special Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 811",
+            "course_name": "Intro to Russian Lit I",
+            "description": "RUSSN-UA  811 Intro to Russian Lit I \nFormerly Russian Literature in Translation I. Offered in the fall. 4 points. A survey of the Russian literature of the first half of the 19th century, from romanticism to the beginning of realism. The reading list includes major works by Pushkin, Lermontov, Gogol, and Dostoevsky. All works are read in translation.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 812",
+            "course_name": "Intro to Russian Lit II",
+            "description": "RUSSN-UA  812 Intro to Russian Lit II \nA survey of the Russian literature of the second half of the 19th century, as well as selected works from the period between 1900 and 1917. Authors covered include Dostoyevsky, Turgenev, Tolstoy, and Chekhov. All works are read in translation.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 813",
+            "course_name": "Slavic Civilization I: West Slavs",
+            "description": "RUSSN-UA  813 Slavic Civilization I: West Slavs",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 814",
+            "course_name": "Slavic Civilization II: South & East Slavs",
+            "description": "RUSSN-UA  814 Slavic Civilization II: South & East Slavs",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 815",
+            "course_name": "Contemporary Issues in Russian Literature",
+            "description": "RUSSN-UA  815 Contemporary Issues in Russian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 816",
+            "course_name": "Slavic Folklore",
+            "description": "RUSSN-UA  816 Slavic Folklore",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 818",
+            "course_name": "Central European and Czech Lit and Culture",
+            "description": "RUSSN-UA  818 Central European and Czech Lit and Culture",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 819",
+            "course_name": "Religious Thought in Tolstoy & Dostoevsky",
+            "description": "RUSSN-UA  819 Religious Thought in Tolstoy & Dostoevsky",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 820",
+            "course_name": "Existential Themes in Russian Literature",
+            "description": "RUSSN-UA  820 Existential Themes in Russian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 821",
+            "course_name": "Russian Culture",
+            "description": "RUSSN-UA  821 Russian Culture",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 822",
+            "course_name": "Contemporary Russian Literature",
+            "description": "RUSSN-UA  822 Contemporary Russian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 823",
+            "course_name": "Pushkin",
+            "description": "RUSSN-UA  823 Pushkin",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 824",
+            "course_name": "Solzhenitsyn",
+            "description": "RUSSN-UA  824 Solzhenitsyn",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 825",
+            "course_name": "Theory & Practice of Translation",
+            "description": "RUSSN-UA  825 Theory & Practice of Translation",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 826",
+            "course_name": "Russian Novel in 19th C",
+            "description": "RUSSN-UA  826 Russian Novel in 19th C \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 827",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16840",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-10",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Samu, Margaret"
+                }
+            ],
+            "course_name": "Russian Art",
+            "description": "RUSSN-UA  827 Russian Art",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 828",
+            "course_name": "Gogol",
+            "description": "RUSSN-UA  828 Gogol \nA critical examination of the great Ukrainian-Russian humorist?s short stories and of his unfinished novel Dead Souls.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 829",
+            "course_name": "The Art of Russian Avant-Garde",
+            "description": "RUSSN-UA  829 The Art of Russian Avant-Garde",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 830",
+            "course_name": "Sex & Gender in Russian Culture",
+            "description": "RUSSN-UA  830 Sex & Gender in Russian Culture",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 832",
+            "course_name": "Central & East European Literature",
+            "description": "RUSSN-UA  832 Central & East European Literature \nAn examination of contemporary novels and short stories from Central and Eastern Europe (Poland, the former Czechoslovakia, the former Yugoslavia, Albania, and Hungary), primarily the literature of the last 50 years. The problems of ?minor? literature, postmodernism, and the attempt to articulate ?authentic? experience are emphasized. Authors read include Kafka, Kundera, Hrabal, Kosinski, Schulz, Gombrowicz, Kristof, Kadare, Kis, Pavic, and Ugresvi. All works are read in translation.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 833",
+            "course_name": "Utopia Apocalypse & The Millennium",
+            "description": "RUSSN-UA  833 Utopia Apocalypse & The Millennium \nThe development of utopianism in literature, philosophy, and political theory, as well as attempts to put utopian theory into action. What does it mean to posit a perfect world, and what is the relationship between such an ideal world and our less-than-perfect reality? What are the impulses behind antiutopianism? The current resurgence of utopianism and apocalypticism is examined (millenarian ?cults,? the millennium bug, etc.). Readings include Plato, More, Bellamy, Dostoyevsky, Marx, Zamyatin, Orwell, Huxley, LeGuin, and Revelation.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 834",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16842",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-10"
+                }
+            ],
+            "course_name": "Russian Politics and History Since 1917",
+            "description": "RUSSN-UA  834 Russian Politics and History Since 1917",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 835",
+            "course_name": "St. Petersburg",
+            "description": "RUSSN-UA  835 St. Petersburg",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 836",
+            "course_name": "Russian Short Story",
+            "description": "RUSSN-UA  836 Russian Short Story",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 837",
+            "course_name": "Chekhov",
+            "description": "RUSSN-UA  837 Chekhov \nStudy of major techniques in Chekhov?s short story writing; analysis of his influence on the development of the Russian and European novella; a close analysis of Chekhov?s drama (Three Sisters, Cherry Orchard, and Uncle Vanya) and its impact on Russian playwrights of the 20th century, as well as its relation to the development of Stanislavsky?s Moscow Art Theatre.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 838",
+            "course_name": "Tolstoy",
+            "description": "RUSSN-UA  838 Tolstoy",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 839",
+            "course_name": "Dostoevsky",
+            "description": "RUSSN-UA  839 Dostoevsky \nThe major philosophical and religious themes of Dostoyevsky as they are reflected in his works. Notes from the Underground, Crime and Punishment, The Idiot, The Brothers Karamazov, and major short stories form the main part of the course. Examines Dostoevsky?s concepts of freedom, history, and Christianity.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 840",
+            "course_name": "Russian Drama",
+            "description": "RUSSN-UA  840 Russian Drama",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 841",
+            "course_name": "",
+            "description": "RUSSN-UA  841\n\n   Theory of Avant-Garde: East & West, 1890-1930\n\nTheory and practice of the European avant-garde in art and literature, 1890-1930. General cultural and historical approach to the avant-garde, with close readings of some of its key productions. Topics: cubism, Italian futurism, Russian cubo-futurism, imagism and vorticism, Dadaism, constructivism, and surrealism. Stresses aesthetic, historical, and political interconnections beIdentical to V29.0841, V41.0730. Offered every other year. 4 points. Theory and practice of the European avant-garde in art and literature, 1890-1930. General cultural and historical approach to the avant-garde, with cl...\n\n      more description for RUSSN-UA  841 \u00bb\n\n      \n\n\n\nTheory and practice of the European avant-garde in art and literature, 1890-1930. General cultural and historical approach to the avant-garde, with close readings of some of its key productions. Topics: cubism, Italian futurism, Russian cubo-futurism, imagism and vorticism, Dadaism, constructivism, and surrealism. Stresses aesthetic, historical, and political interconnections beIdentical to V29.0841, V41.0730. Offered every other year. 4 points. Theory and practice of the European avant-garde in art and literature, 1890-1930. General cultural and historical approach to the avant-garde, with close readings of some of its key productions. Topics: cubism, Italian futurism, Russian cubo-futurism, imagism and vorticism, Dadaism, constructivism, and surrealism. Stresses aesthetic, historical, and political interconnections between the Russian avant-garde and the West. Readings are in English, but comparative literature majors are encouraged to read works in the original language.\n\n      less description for RUSSN-UA  841 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 842",
+            "course_name": "Formalism, Structuralism & Semiotics in Lit",
+            "description": "RUSSN-UA  842 Formalism, Structuralism & Semiotics in Lit",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 843",
+            "course_name": "Reading in Contemporary Literary Theory",
+            "description": "RUSSN-UA  843 Reading in Contemporary Literary Theory",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 844",
+            "course_name": "The Russian Avant-Garde",
+            "description": "RUSSN-UA  844 The Russian Avant-Garde",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 845",
+            "course_name": "Russia Today",
+            "description": "RUSSN-UA  845 Russia Today",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 846",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8853",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-10",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Kliger, Ilya"
+                }
+            ],
+            "course_name": "Tolstoy Vs. Dostoevsky",
+            "description": "RUSSN-UA  846 Tolstoy Vs. Dostoevsky",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 847",
+            "course_name": "Russian Lit in The Original",
+            "description": "RUSSN-UA  847 Russian Lit in The Original \nStudents read Russian prose and poetry in the original language. Class discussions and papers are also in Russian.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 848",
+            "course_name": "Russian Literature in The Original II",
+            "description": "RUSSN-UA  848 Russian Literature in The Original II \nStudents read Russian prose and poetry in the original language. Class discussions and papers are also in Russian.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 849",
+            "course_name": "Russian Bards 1960'S",
+            "description": "RUSSN-UA  849 Russian Bards 1960'S",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 850",
+            "course_name": "Intro to Soviet Cinema",
+            "description": "RUSSN-UA  850 Intro to Soviet Cinema \nIampolski. Offered every year. 4 points. An examination of the history of Russian cinema from its beginnings. The main focus is on landmarks of cinematic art and on the cultural specificity of Russian cinema. The survey also includes questions of cinema and politics (cinema as a propaganda tool), and cinema and the market. Artists discussed include Eisenstein, Vertov, Pudovkin, Kuleshov, Barnet, Shub, Kozintsev, Trauberg, and Tarkovsky. Topics include cinema and revolution, the cinema of the Russian avant-garde and constructivism, cinema and totalitarianism, and socialist realism in film.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 851",
+            "course_name": "Czech Cultural History",
+            "description": "RUSSN-UA  851 Czech Cultural History",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 852",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16841",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-10"
+                }
+            ],
+            "course_name": "Soviet & Post-Soviet Lit",
+            "description": "RUSSN-UA  852 Soviet & Post-Soviet Lit \nThis course is an introduction to Russian 20th-century fiction, concentrating on the two periods of greatest cultural ferment: 1920s modernism and late/post-Soviet postmodernism. After the 1917 revolution, Bolshevik ideology held that the Old World would be utterly destroyed, to be replaced by a new society populated by New Soviet Men. The experience of Russia in the 20th century can be viewed as the failed attempt to put radical theory into everyday practice, a grand scheme of social engineering that would inevitably be reflected in the country?s literature.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 853",
+            "course_name": "Gogol & Dostoevsky",
+            "description": "RUSSN-UA  853 Gogol & Dostoevsky",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 854",
+            "course_name": "",
+            "description": "RUSSN-UA  854\n\n   Legacies of Serfdom & Slavery Russ & Amer Lit\n\nReadings and discussions address how American slaves and Russian serfs wrote and were written about in the two countries? literary traditions. Topics include both the ways in which subjugated people attempted to represent themselves to the dominant culture and the difficulties that members of the dominant culture confronted in writing about people whose experiences were largely inaccessible to them. Particular attention is paid to how categories such as ?slave,? ?peasant,? ?white,? and ?black? have changed over time and to how unfree people worked to turn perceived-as cultural lacks into aesth...\n\n      more description for RUSSN-UA  854 \u00bb\n\n      \n\n\n\nReadings and discussions address how American slaves and Russian serfs wrote and were written about in the two countries? literary traditions. Topics include both the ways in which subjugated people attempted to represent themselves to the dominant culture and the difficulties that members of the dominant culture confronted in writing about people whose experiences were largely inaccessible to them. Particular attention is paid to how categories such as ?slave,? ?peasant,? ?white,? and ?black? have changed over time and to how unfree people worked to turn perceived-as cultural lacks into aesthetic advantages.\n\n      less description for RUSSN-UA  854 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 856",
+            "course_name": "Symbolic Geography in Russian Literature",
+            "description": "RUSSN-UA  856 Symbolic Geography in Russian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 858",
+            "course_name": "Communism from Utopia to Kitsch (Proposed)",
+            "description": "RUSSN-UA  858 Communism from Utopia to Kitsch (Proposed)",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 859",
+            "course_name": "20th C Russia: Terror Surv & Beautiful Dreams",
+            "description": "RUSSN-UA  859 20th C Russia: Terror Surv & Beautiful Dreams",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 860",
+            "course_name": "Theories of Symbolic Exchange",
+            "description": "RUSSN-UA  860 Theories of Symbolic Exchange",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 861",
+            "course_name": "",
+            "description": "RUSSN-UA  861\n\n   Russia and the West\n\nThere are few problems as enduring and central to Russian history as the question of the West \u2013 Russia\u2019s most passionate romance and most bitter letdown. In this seminar we will read and think about Russian culture from the 17th to the 20th centuries through the lens of this obsession. The course will focus on the transfer of ideas and migrant communities. We will study the intellectual products of Russian interactions with the West \u2013 constitutional projects, scientific and economic thought, the Westernizer-Slavophile controversy, and revolutions. Substantial emphasis will be placed on the rol...\n\n      more description for RUSSN-UA  861 \u00bb\n\n      \n\n\n\nThere are few problems as enduring and central to Russian history as the question of the West \u2013 Russia\u2019s most passionate romance and most bitter letdown. In this seminar we will read and think about Russian culture from the 17th to the 20th centuries through the lens of this obsession. The course will focus on the transfer of ideas and migrant communities. We will study the intellectual products of Russian interactions with the West \u2013 constitutional projects, scientific and economic thought, the Westernizer-Slavophile controversy, and revolutions. Substantial emphasis will be placed on the role of reading and translation in the making of cultural models: Russian Byronism, Russian Hamletism. More than ideas, the West came embodied in real people. We will consider the presence of European communities in Russia: German and British migrants who filled important niches in state service, trade, and scholarship; Italian sculptors and architects who designed some of Russia\u2019s most famous and symbolically potent monuments; Parisian aristocratic expatriates in the wake of the French Revolution; Communist workers and intellectuals, refugees from Nazi Germany; and foreign journalists who, in the late Soviet decades, trafficked illicit ideas, texts, and artworks. In the end, we will follow Russians into successive waves of emigration to Europe and the United States.\n\n      less description for RUSSN-UA  861 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 870",
+            "course_name": "The Unquiet Dead",
+            "description": "RUSSN-UA  870 The Unquiet Dead",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 871",
+            "course_name": "19Thc Realism: The Case of Russia",
+            "description": "RUSSN-UA  871 19Thc Realism: The Case of Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 872",
+            "course_name": "Orthodoxy & Confession in Russian Hist & Cultr",
+            "description": "RUSSN-UA  872 Orthodoxy & Confession in Russian Hist & Cultr",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 900",
+            "course_name": "Wksp: Russia as An Empire",
+            "description": "RUSSN-UA  900 Wksp: Russia as An Empire",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 980",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7456",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Kliger, Ilya",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "RUSSN-UA  980 Internship \nNative speakers of Russian may obtain internship credit by working with Russian language students and assisting language instructors. See the director of undergraduate studies for further details. Internship in other organizations requires description of duties and approval by the director of undergraduate studies.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 981",
+            "course_name": "Internship",
+            "description": "RUSSN-UA  981 Internship",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7457",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Kliger, Ilya",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "RUSSN-UA  997 Independent Study \nA maximum of 8 points of independent study may be counted toward an undergraduate major (not toward a minor). Before registering, students must submit a one-page typed description of the proposed project to the director of undergraduate studies and the proposed professor.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-UA 998",
+            "course_name": "Independent Study",
+            "description": "RUSSN-UA  998 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 999",
+            "course_name": "Senior Honors Seminar",
+            "description": "RUSSN-UA  999 Senior Honors Seminar \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9001",
+            "course_name": "Elementary Russian I",
+            "description": "RUSSN-UA 9001 Elementary Russian I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9002",
+            "course_name": "Elementary Russian II",
+            "description": "RUSSN-UA 9002 Elementary Russian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9003",
+            "course_name": "Intermediate Russian I",
+            "description": "RUSSN-UA 9003 Intermediate Russian I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9004",
+            "course_name": "Intermediate Russian II",
+            "description": "RUSSN-UA 9004 Intermediate Russian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9107",
+            "course_name": "Advanced Russian I",
+            "description": "RUSSN-UA 9107 Advanced Russian I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9108",
+            "course_name": "Advanced Russian II",
+            "description": "RUSSN-UA 9108 Advanced Russian II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9201",
+            "course_name": "Elementary Czech I",
+            "description": "RUSSN-UA 9201 Elementary Czech I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9202",
+            "course_name": "Elementary Czech II",
+            "description": "RUSSN-UA 9202 Elementary Czech II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9203",
+            "course_name": "Intermediate Czech I",
+            "description": "RUSSN-UA 9203 Intermediate Czech I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9204",
+            "course_name": "Intermediate Czech II",
+            "description": "RUSSN-UA 9204 Intermediate Czech II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9211",
+            "course_name": "Elementary Polish I",
+            "description": "RUSSN-UA 9211 Elementary Polish I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9212",
+            "course_name": "Elementary Polish II",
+            "description": "RUSSN-UA 9212 Elementary Polish II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9213",
+            "course_name": "Intermediate Polish I",
+            "description": "RUSSN-UA 9213 Intermediate Polish I",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9214",
+            "course_name": "Intermediate Polish II",
+            "description": "RUSSN-UA 9214 Intermediate Polish II",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9260",
+            "course_name": "The Czech Republic in a Global Context",
+            "description": "RUSSN-UA 9260 The Czech Republic in a Global Context \nThis course is intended as an introduction to central themes in the history and culture of the Czech Republic and Central Europe\u2014the intersection of many international influences--in the context of globalization. Conversely, the course also discusses globalization in the local context. An important dimension of the class is a discussion about how international students should use their experience abroad (in this case Prague and, more generally, Central Europe) to better understand complicated developments on the global level and back at home.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9313",
+            "course_name": "Bohemia in European Culture & Tradition",
+            "description": "RUSSN-UA 9313 Bohemia in European Culture & Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9813",
+            "course_name": "Slavic Civ I:West Slavs Early Times - Mid 18th C",
+            "description": "RUSSN-UA 9813 Slavic Civ I:West Slavs Early Times - Mid 18th C",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9818",
+            "course_name": "Central European & Czech Literature & Culture",
+            "description": "RUSSN-UA 9818 Central European & Czech Literature & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9832",
+            "course_name": "Contemp Central & East European Literature:From Kafka to Kundera",
+            "description": "RUSSN-UA 9832 Contemp Central & East European Literature:From Kafka to Kundera",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9851",
+            "course_name": "Czech Cultural History: 18th Century to WWII",
+            "description": "RUSSN-UA 9851 Czech Cultural History: 18th Century to WWII",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9997",
+            "course_name": "Independent Study",
+            "description": "RUSSN-UA 9997 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-UA 9998",
+            "course_name": "Ind Study",
+            "description": "RUSSN-UA 9998 Ind Study",
+            "offering": false
+        }
+    ]
+}

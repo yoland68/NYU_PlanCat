@@ -1,0 +1,48 @@
+{
+    "major_id": "INDEP-GP",
+    "file": "./2015-2016/Independent_reading_course_(INDEP-GP).html",
+    "courses": [
+        {
+            "course_id": "INDEP-GP 900",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5205",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "independent Study",
+            "description": "INDEP-GP  900 independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "INDEP-GP 1900",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5184",
+                    "section": "997",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Beck, Diana",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Reading",
+            "description": "INDEP-GP 1900 Independent Reading \n1-4 units, by arrangement with the adviser. Open only to students who have completed at least eight courses or 32 units of graduate study.",
+            "offering": true
+        },
+        {
+            "course_id": "INDEP-GP 1906",
+            "course_name": "Indep International Studies",
+            "description": "INDEP-GP 1906 Indep International Studies \n1-4 units, by arrangement with the adviser. Open only to students who have completed at least eight courses or 32 units of graduate study.",
+            "offering": false
+        }
+    ]
+}

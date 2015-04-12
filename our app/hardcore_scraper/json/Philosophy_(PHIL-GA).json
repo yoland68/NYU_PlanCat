@@ -1,0 +1,664 @@
+{
+    "major_id": "PHIL-GA",
+    "file": "./2015-2016/Philosophy_(PHIL-GA).html",
+    "courses": [
+        {
+            "course_id": "PHIL-GA 1000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1658",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "5WP 302"
+                }
+            ],
+            "course_name": "Pro-Seminar",
+            "description": "PHIL-GA 1000 Pro-Seminar \nExamination of central philosophical texts as preparation for further graduate study. Topics range over most key areas of philosophy.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 1002",
+            "course_name": "Topics in Ethics & Pol Philosophy",
+            "description": "PHIL-GA 1002 Topics in Ethics & Pol Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1003",
+            "course_name": "Logic for Philosophers",
+            "description": "PHIL-GA 1003 Logic for Philosophers",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1004",
+            "course_name": "Advanced Intro to Ethics",
+            "description": "PHIL-GA 1004 Advanced Intro to Ethics \nBackground course for entering graduate students",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1005",
+            "course_name": "Advanced Introduction to Bioethics",
+            "description": "PHIL-GA 1005 Advanced Introduction to Bioethics \nBackground course for entering graduate students.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1006",
+            "course_name": "Advanced Introduction to Environmental Ethics",
+            "description": "PHIL-GA 1006 Advanced Introduction to Environmental Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1008",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1779",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Mon 6.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Liao, Sen-Jee"
+                }
+            ],
+            "course_name": "Tpcs in Bioethics:",
+            "description": "PHIL-GA 1008 Tpcs in Bioethics:",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 1009",
+            "course_name": "Advanced Introduction to Metaethics",
+            "description": "PHIL-GA 1009 Advanced Introduction to Metaethics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1100",
+            "course_name": "Advanced Intro to Metaphysics",
+            "description": "PHIL-GA 1100 Advanced Intro to Metaphysics \nBackground course for entering graduate students. Covers a selection of topics from traditional and contemporary metaphysics. Topics may include the mind/body problem; the nature of space and time; explanation and causation; truth and meaning; realism/antirealism; the existence of universals; personal identity; the identity of events and material things; modality and essence. The emphasis is on providing the students with a background in the subject that will be of help in their subsequent work.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1101",
+            "course_name": "Advanced Intro to Epistemology",
+            "description": "PHIL-GA 1101 Advanced Intro to Epistemology \nBackground course for entering graduate students. Topics include the issue of the reducibility of knowledge, its role in explanation, and the significance of skeptical arguments about its possibility. The course covers particular kinds of knowledge, including perceptual knowledge, knowledge about the past, knowledge of other minds, and a priori knowledge.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1102",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16426",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "",
+            "description": "PHIL-GA 1102\n\n   Adv Intro to Philosophy of Language\n\nBackground course for entering graduate students. This comprehensive seminar covers the leading issues in the philosophy of language and the leading positions on those issues. Among topics discussed are the ontology of content; the relation between language and thought; explications of meaning; the relation between the semantic and the physical; problems of reference; and vagueness. The seminar is systematic and presents various issues and theories as part of an integrated whole in which those issues and theories stand in certain presupposition relations to one another. The seminar is critical...\n\n      more description for PHIL-GA 1102 \u00bb\n\n      \n\n\n\nBackground course for entering graduate students. This comprehensive seminar covers the leading issues in the philosophy of language and the leading positions on those issues. Among topics discussed are the ontology of content; the relation between language and thought; explications of meaning; the relation between the semantic and the physical; problems of reference; and vagueness. The seminar is systematic and presents various issues and theories as part of an integrated whole in which those issues and theories stand in certain presupposition relations to one another. The seminar is critical and places emphasis less on who said what and more on the plausibility of the views considered.\n\n      less description for PHIL-GA 1102 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 1103",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16425",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Adv Intro Philosophy of Mind",
+            "description": "PHIL-GA 1103 Adv Intro Philosophy of Mind",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 1104",
+            "course_name": "Adv Introduction to The Philosophy of Science",
+            "description": "PHIL-GA 1104 Adv Introduction to The Philosophy of Science \nBackground course for entering graduate students.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1172",
+            "course_name": "Ethics & The Professions",
+            "description": "PHIL-GA 1172 Ethics & The Professions",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1175",
+            "course_name": "Life and Death",
+            "description": "PHIL-GA 1175 Life and Death \nScientific, metaphysical, and moral issues involving concepts of life and death. Topics include the rights and wrongs of killing oneself, other humans, animals; reproduction; biological/biographical life; and theories of death and postmortem survival.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1176",
+            "course_name": "Ethics & The Professions",
+            "description": "PHIL-GA 1176 Ethics & The Professions",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1177",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16438",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Philosophy of Science",
+            "description": "PHIL-GA 1177 Philosophy of Science",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 1178",
+            "course_name": "Philosophical Problems of Medicine",
+            "description": "PHIL-GA 1178 Philosophical Problems of Medicine",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1180",
+            "course_name": "Philosophical Logic",
+            "description": "PHIL-GA 1180 Philosophical Logic",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1181",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16428",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 1.30 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Philosphy of Mathematics",
+            "description": "PHIL-GA 1181 Philosphy of Mathematics",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 1191",
+            "course_name": "Plato",
+            "description": "PHIL-GA 1191 Plato \nExamination of selected topics in the works of Plato.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1192",
+            "course_name": "Aristotle",
+            "description": "PHIL-GA 1192 Aristotle \nExamination of selected topics in the works of Aristotle.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1201",
+            "course_name": "The Philosophical Essay as Literature",
+            "description": "PHIL-GA 1201 The Philosophical Essay as Literature",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1210",
+            "course_name": "20th Cent Cont Philosoph",
+            "description": "PHIL-GA 1210 20th Cent Cont Philosoph \nDeals in different years with some of the leading figures of the Continental tradition, such as Husserl, Heidegger, Sartre, Merleau-Ponty, or with some particular movement in that tradition, such as phenomenology, existentialism, or hermeneutics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1211",
+            "course_name": "20 C Contempry Philosoph",
+            "description": "PHIL-GA 1211 20 C Contempry Philosoph",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1220",
+            "course_name": "20th Cent Analy Philosop",
+            "description": "PHIL-GA 1220 20th Cent Analy Philosop",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1250",
+            "course_name": "Rationalism in The 17th Century",
+            "description": "PHIL-GA 1250 Rationalism in The 17th Century \nStudy of some selections from the works of Descartes, Malebranche, Spinoza, and Leibniz.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1251",
+            "course_name": "British Empiricism",
+            "description": "PHIL-GA 1251 British Empiricism \nStudy of some selections from the works of Locke, Berkeley, and Hume",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1270",
+            "course_name": "American Philosophy",
+            "description": "PHIL-GA 1270 American Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 1300",
+            "course_name": "Philosophy of Religion",
+            "description": "PHIL-GA 1300 Philosophy of Religion",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2109",
+            "course_name": "Kant'S Crit Pure Reason",
+            "description": "PHIL-GA 2109 Kant'S Crit Pure Reason \nDetailed examination of this important Kantian text",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2114",
+            "course_name": "Wittgenstein",
+            "description": "PHIL-GA 2114 Wittgenstein \nDetailed examination of Wittgenstein?s philosophy.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2136",
+            "course_name": "Metaphys/Ethics of Sex",
+            "description": "PHIL-GA 2136 Metaphys/Ethics of Sex",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2222",
+            "course_name": "Clinical Ethics",
+            "description": "PHIL-GA 2222 Clinical Ethics \nTheoretical and practical medical ethics, combined with observation in a clinical setting.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2223",
+            "course_name": "Epistemology",
+            "description": "PHIL-GA 2223 Epistemology \nCentral issues in the theory of knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2225",
+            "course_name": "Ontology",
+            "description": "PHIL-GA 2225 Ontology",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2226",
+            "course_name": "Metaphysics",
+            "description": "PHIL-GA 2226 Metaphysics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2227",
+            "course_name": "Ancient Philosophy of Mind",
+            "description": "PHIL-GA 2227 Ancient Philosophy of Mind",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2280",
+            "course_name": "Political Philosophy",
+            "description": "PHIL-GA 2280 Political Philosophy \nTraditional and contemporary theories of the relation between individuals and the state or community. Topics include political obligation, distributive justice, social contract theory, individual rights and majority rule, the nature of law, political and social equality, and liberty and coercion.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2282",
+            "course_name": "Philosophy of Law",
+            "description": "PHIL-GA 2282 Philosophy of Law",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2283",
+            "course_name": "Aesthetics",
+            "description": "PHIL-GA 2283 Aesthetics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2285",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2125",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "5WP 20209/02/2015 - 12/15/2015 Wed 12.00 PM - 2.00 PM at 5WP 202"
+                }
+            ],
+            "course_name": "Ethics: Selected Topics",
+            "description": "PHIL-GA 2285 Ethics: Selected Topics \nSeminar on different topics in ethical theory and applied ethics, varying yearly",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 2286",
+            "course_name": "Sem On Action Theory",
+            "description": "PHIL-GA 2286 Sem On Action Theory",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2294",
+            "course_name": "Philosophy of Mind",
+            "description": "PHIL-GA 2294 Philosophy of Mind",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2295",
+            "course_name": "",
+            "description": "PHIL-GA 2295\n\n   Rsch Sem On Mind & Lang\n\nIn a typical session of this course, the members of the seminar receive, a week in advance, copies of work in progress from a thinker at another university. After reading the week?sIn a typical session of this course, the members of the seminar receive, a week in advance, copies of work in progress from a thinker at another university. After reading the week?s work, the students discuss it with one of the instructors on the day before the colloquium. Then at the colloquium the next day, the instructors give critiques of the work, and the author responds to the critiques and also to questions f...\n\n      more description for PHIL-GA 2295 \u00bb\n\n      \n\n\n\nIn a typical session of this course, the members of the seminar receive, a week in advance, copies of work in progress from a thinker at another university. After reading the week?sIn a typical session of this course, the members of the seminar receive, a week in advance, copies of work in progress from a thinker at another university. After reading the week?s work, the students discuss it with one of the instructors on the day before the colloquium. Then at the colloquium the next day, the instructors give critiques of the work, and the author responds to the critiques and also to questions from others in the audience.\n\n      less description for PHIL-GA 2295 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2296",
+            "course_name": "Philosophy of Language",
+            "description": "PHIL-GA 2296 Philosophy of Language",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2297",
+            "course_name": "Vagueness/Indeterminacy",
+            "description": "PHIL-GA 2297 Vagueness/Indeterminacy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2299",
+            "course_name": "Theory of Meaning",
+            "description": "PHIL-GA 2299 Theory of Meaning",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2300",
+            "course_name": "Marxist Philosophy",
+            "description": "PHIL-GA 2300 Marxist Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2307",
+            "course_name": "Hegels Phenomenology",
+            "description": "PHIL-GA 2307 Hegels Phenomenology",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 2320",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1974",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2149",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "History of Philosophy",
+            "description": "PHIL-GA 2320 History of Philosophy \nDeals with different periods or figures from the history of philosophy not covered in the other historical courses regularly offered by the department. The content varies, depending on student and faculty interests.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3001",
+            "course_name": "Tpcs in Philosophical Logic",
+            "description": "PHIL-GA 3001 Tpcs in Philosophical Logic \nSelected topics in philosophical logic.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3002",
+            "course_name": "Tpcs in Philosophy of Mathematics",
+            "description": "PHIL-GA 3002 Tpcs in Philosophy of Mathematics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3003",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16427",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Topics in Epistemology",
+            "description": "PHIL-GA 3003 Topics in Epistemology \nSelected topics in epistemology.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3004",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17258",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Topics in Metaphysics",
+            "description": "PHIL-GA 3004 Topics in Metaphysics \nSelected topics in metaphysics.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3005",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16437",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 7.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Topics in Ethics",
+            "description": "PHIL-GA 3005 Topics in Ethics \nSelected topics in ethics.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3006",
+            "course_name": "Advanced Seminar in Precepts & Concepts",
+            "description": "PHIL-GA 3006 Advanced Seminar in Precepts & Concepts \nSelected topics in theories of cognition.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3007",
+            "course_name": "Advanced Seminar in Philosophy of Action",
+            "description": "PHIL-GA 3007 Advanced Seminar in Philosophy of Action \nSelected topics in philosophy of action.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3008",
+            "course_name": "Advanced Seminar in The Philosophy of Mind",
+            "description": "PHIL-GA 3008 Advanced Seminar in The Philosophy of Mind \nSelected topics in philosophy of mind.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3009",
+            "course_name": "Topics in Philosophy of Science",
+            "description": "PHIL-GA 3009 Topics in Philosophy of Science",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3010",
+            "course_name": "Topics in Philosophy of Mind",
+            "description": "PHIL-GA 3010 Topics in Philosophy of Mind \nAdditional topics in philosophy of mind.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3011",
+            "course_name": "Topics:  In Philosophy of Physics",
+            "description": "PHIL-GA 3011 Topics:  In Philosophy of Physics \nSelected topics in philosophy of physics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3012",
+            "course_name": "Topics in Philosophy of Psychology",
+            "description": "PHIL-GA 3012 Topics in Philosophy of Psychology \nSelected topics in philosophy of psychology.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3013",
+            "course_name": "Tpcs in History of The Production of Knowledge",
+            "description": "PHIL-GA 3013 Tpcs in History of The Production of Knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3300",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1659",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1660",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Philosophical Research",
+            "description": "PHIL-GA 3300 Philosophical Research \nSpecialized individual research.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3301",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1661",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1662",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Philosophical Research",
+            "description": "PHIL-GA 3301 Philosophical Research \nSpecialized individual research.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3302",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2121",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Colloquium in Law, Phil & Political Theory",
+            "description": "PHIL-GA 3302 Colloquium in Law, Phil & Political Theory",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3303",
+            "course_name": "Human Dignity Seminar",
+            "description": "PHIL-GA 3303 Human Dignity Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3304",
+            "course_name": "Rule of Law",
+            "description": "PHIL-GA 3304 Rule of Law",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-GA 3400",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1663",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "5WP 202"
+                }
+            ],
+            "course_name": "Thesis Research",
+            "description": "PHIL-GA 3400 Thesis Research \nFor Ph.D. students who have completed core requirements.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-GA 3500",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1664",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1665",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Associated Writing",
+            "description": "PHIL-GA 3500 Associated Writing \nRequired writing course for Ph.D. students.",
+            "offering": true
+        }
+    ]
+}

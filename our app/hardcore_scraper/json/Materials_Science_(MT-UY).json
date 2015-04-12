@@ -1,0 +1,59 @@
+{
+    "major_id": "MT-UY",
+    "file": "./2015-2016/Materials_Science_(MT-UY).html",
+    "courses": [
+        {
+            "course_id": "MT-UY 334",
+            "course_name": "PHYSICAL METALLURGY 3",
+            "description": "MT-UY  334 PHYSICAL METALLURGY 3",
+            "offering": false
+        },
+        {
+            "course_id": "MT-UY 2811",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Materials Science Laboratory",
+            "description": "MT-UY 2811 Materials Science Laboratory \nStudents learn to characterize the microstructure and crystal structure of a material by optical and scanning electron microscopy and X-ray diffraction. The mechanical characterization is accomplished by hardness, tensile and yield strength, impact and fatigue testing. | Prerequisites: PH-UY 1013, CM-UY 1004. Co-requisite: MT-UY 2813.",
+            "offering": true
+        },
+        {
+            "course_id": "MT-UY 2813",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Introduction to Materials Science",
+            "description": "MT-UY 2813 Introduction to Materials Science \nStudents in this course become familiar with atomic structure and bonding, atomic arrangement in crystals, crystal imperfections, mechanical behavior and failure of materials and binary phase diagrams. | Prerequisites: PH-UY 1013 and CM-UY 1004. Co-requisite: MT-UY 2811.",
+            "offering": true
+        },
+        {
+            "course_id": "MT-UY 3814",
+            "course_name": "MATERIALS SCIENCE & ENGINEERING",
+            "description": "MT-UY 3814 MATERIALS SCIENCE & ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "MT-UY 4834",
+            "course_name": "MECHANICAL BEHAVIOR FOR MATERIALS",
+            "description": "MT-UY 4834 MECHANICAL BEHAVIOR FOR MATERIALS",
+            "offering": false
+        },
+        {
+            "course_id": "MT-UY 4853",
+            "course_name": "Manufacturing Engineering and Processes",
+            "description": "MT-UY 4853 Manufacturing Engineering and Processes \nThis course introduces the manufacturing processes for fabricating components used in mechanical systems; casting processes; bulk metal deformation and sheet-metal forming processes; materials-removal processes; Joining and fastening processes; manufacturing automation; and integrated manufacturing systems. | Prerequisites: MT-UY 2811 and MT-UY 2813.",
+            "offering": false
+        },
+        {
+            "course_id": "MT-UY 4854",
+            "course_name": "MANUFACTURING ENGINEERING & TECHNOLOGY",
+            "description": "MT-UY 4854 MANUFACTURING ENGINEERING & TECHNOLOGY",
+            "offering": false
+        }
+    ]
+}

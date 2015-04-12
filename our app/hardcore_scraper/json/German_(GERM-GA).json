@@ -1,0 +1,954 @@
+{
+    "major_id": "GERM-GA",
+    "file": "./2015-2016/German_(GERM-GA).html",
+    "courses": [
+        {
+            "course_id": "GERM-GA 1",
+            "course_name": "German for Reading Knowledge",
+            "description": "GERM-GA    1 German for Reading Knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1001",
+            "course_name": "Aspects German Cult I:",
+            "description": "GERM-GA 1001 Aspects German Cult I:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1002",
+            "course_name": "Aspects Germ Cult II:",
+            "description": "GERM-GA 1002 Aspects Germ Cult II:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1003",
+            "course_name": "Asp/German Cult III:",
+            "description": "GERM-GA 1003 Asp/German Cult III:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1004",
+            "course_name": "Image & Text",
+            "description": "GERM-GA 1004 Image & Text",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1005",
+            "course_name": "Surrealism & Dadaism in Lit Art & Film",
+            "description": "GERM-GA 1005 Surrealism & Dadaism in Lit Art & Film",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1006",
+            "course_name": "Theories of Physiognomy",
+            "description": "GERM-GA 1006 Theories of Physiognomy",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1007",
+            "course_name": "Lichtenberg: The Waste Books",
+            "description": "GERM-GA 1007 Lichtenberg: The Waste Books",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1010",
+            "course_name": "Holderlin'S Poetry of Remembrance",
+            "description": "GERM-GA 1010 Holderlin'S Poetry of Remembrance",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1012",
+            "course_name": "Fetishism",
+            "description": "GERM-GA 1012 Fetishism",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1020",
+            "course_name": "Faust",
+            "description": "GERM-GA 1020 Faust",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1100",
+            "course_name": "Methods of Teaching German",
+            "description": "GERM-GA 1100 Methods of Teaching German",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1110",
+            "course_name": "Prin of Crit Soc Theory of Art",
+            "description": "GERM-GA 1110 Prin of Crit Soc Theory of Art",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1111",
+            "course_name": "Intro to Critical Theory",
+            "description": "GERM-GA 1111 Intro to Critical Theory",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1112",
+            "course_name": "Problems in Critical Theories:",
+            "description": "GERM-GA 1112 Problems in Critical Theories: \nPast topics have included ?Kant?s third critique and Arendt?s lectures? and ?theories of history.?",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1113",
+            "course_name": "Thry/Prac of Lit Intpr: Verschiedene Themen",
+            "description": "GERM-GA 1113 Thry/Prac of Lit Intpr: Verschiedene Themen",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1114",
+            "course_name": "Depropriation: Theories of Subjectivity",
+            "description": "GERM-GA 1114 Depropriation: Theories of Subjectivity",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1115",
+            "course_name": "Origins German Critical Thought I",
+            "description": "GERM-GA 1115 Origins German Critical Thought I \nA systematic introduction to German intellectual history with special emphasis on the role of art. Authors include Baumgarten, Herder, Kant, Schiller, Schlegel, Schelling, and Hegel.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1116",
+            "course_name": "Origins German Critical Thought II",
+            "description": "GERM-GA 1116 Origins German Critical Thought II \nA continuation of G51.1115, this course presents Marx, Nietzsche, Heidegger, Gadamer, Adorno, Derrida, de Man, and Luhmann.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1117",
+            "course_name": "Goethe",
+            "description": "GERM-GA 1117 Goethe",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1118",
+            "course_name": "Origins of German Critic Thght I: Rise of Aesthet",
+            "description": "GERM-GA 1118 Origins of German Critic Thght I: Rise of Aesthet",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1120",
+            "course_name": "Women Writers in German Literature",
+            "description": "GERM-GA 1120 Women Writers in German Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1210",
+            "course_name": "Hist of German Language",
+            "description": "GERM-GA 1210 Hist of German Language",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1219",
+            "course_name": "The Information Society",
+            "description": "GERM-GA 1219 The Information Society",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1220",
+            "course_name": "Intro Middle High German",
+            "description": "GERM-GA 1220 Intro Middle High German",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1221",
+            "course_name": "Middle High German Epics",
+            "description": "GERM-GA 1221 Middle High German Epics",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1225",
+            "course_name": "Modern German Usage",
+            "description": "GERM-GA 1225 Modern German Usage",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1226",
+            "course_name": "The Human Image/Early German Literature",
+            "description": "GERM-GA 1226 The Human Image/Early German Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1227",
+            "course_name": "A Cultural History of The Elements",
+            "description": "GERM-GA 1227 A Cultural History of The Elements",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1230",
+            "course_name": "Reflec On Money, Lang & Mat in The 20th Cent.",
+            "description": "GERM-GA 1230 Reflec On Money, Lang & Mat in The 20th Cent.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1234",
+            "course_name": "Drama of 19th Century",
+            "description": "GERM-GA 1234 Drama of 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1235",
+            "course_name": "Trvl Accts/Late 18th Cen Lit",
+            "description": "GERM-GA 1235 Trvl Accts/Late 18th Cen Lit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1300",
+            "course_name": "Theories of The Comic",
+            "description": "GERM-GA 1300 Theories of The Comic",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1301",
+            "course_name": "Early German Cinema",
+            "description": "GERM-GA 1301 Early German Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1303",
+            "course_name": "New German Cinema & Beyond: Doc Tradition",
+            "description": "GERM-GA 1303 New German Cinema & Beyond: Doc Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1310",
+            "course_name": "Humanism and Reformation",
+            "description": "GERM-GA 1310 Humanism and Reformation",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1320",
+            "course_name": "Baroque",
+            "description": "GERM-GA 1320 Baroque",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1330",
+            "course_name": "Enlightenment",
+            "description": "GERM-GA 1330 Enlightenment",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1335",
+            "course_name": "Enlightenment:",
+            "description": "GERM-GA 1335 Enlightenment: \nExamines the philosophical roots and historical legacy of the German Enlightenment, addressing such topics as the public use of reason and the structural transformation of the public sphere; the dialectic of enlightenment; religious tolerance; the Jewish Enlightenment (Haskalah); representation and the sublime; opera and enlightenment; the idea of progress and the French Revolution. Texts by Leibniz, Mendelssohn, Kant, Lessing, Hamann, Goethe, Kleist, Mozart, Horkheimer, Adorno, Habermas, Benjamin, Foucault, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1341",
+            "course_name": "Benjamin:Theory/Practice",
+            "description": "GERM-GA 1341 Benjamin:Theory/Practice",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1380",
+            "course_name": "The Age of Lessing",
+            "description": "GERM-GA 1380 The Age of Lessing",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1400",
+            "course_name": "Innocence in Literature",
+            "description": "GERM-GA 1400 Innocence in Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1409",
+            "course_name": "Aesthetics & Anthrop of The Goethe Era",
+            "description": "GERM-GA 1409 Aesthetics & Anthrop of The Goethe Era",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1410",
+            "course_name": "Goethe, Gedichte",
+            "description": "GERM-GA 1410 Goethe, Gedichte \nIntroduction to major works of Goethe, including Die Leiden des jungen Werthers, Faust, Wilhelm Meister, and selections of poetry.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1411",
+            "course_name": "Goethe'S Faust",
+            "description": "GERM-GA 1411 Goethe'S Faust",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1412",
+            "course_name": "Friedrich Schiller",
+            "description": "GERM-GA 1412 Friedrich Schiller",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1415",
+            "course_name": "Classical German Drama: Goethe, Schiller, Kleist",
+            "description": "GERM-GA 1415 Classical German Drama: Goethe, Schiller, Kleist",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1420",
+            "course_name": "German Romanticism",
+            "description": "GERM-GA 1420 German Romanticism",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1490",
+            "course_name": "Intro to Trauma Studies",
+            "description": "GERM-GA 1490 Intro to Trauma Studies \nIntroduction to a new field in cultural and literary studies that investigates responses to and definitions of subjective and collective trauma.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1491",
+            "course_name": "Rilke &European Modernsm",
+            "description": "GERM-GA 1491 Rilke &European Modernsm",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1492",
+            "course_name": "Heidegger On Poetry: On Philosophical Rdngs/Lit",
+            "description": "GERM-GA 1492 Heidegger On Poetry: On Philosophical Rdngs/Lit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1500",
+            "course_name": "The Pleasures of Negativity: On Adorno",
+            "description": "GERM-GA 1500 The Pleasures of Negativity: On Adorno",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1501",
+            "course_name": "Essayistic Thinking, Forms in Literature",
+            "description": "GERM-GA 1501 Essayistic Thinking, Forms in Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1503",
+            "course_name": "Orig & Authorshp Hist of Two Concpts in Lit/Film",
+            "description": "GERM-GA 1503 Orig & Authorshp Hist of Two Concpts in Lit/Film",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1505",
+            "course_name": "Essayistic Thinking: Hist & Forms in Lit/Film",
+            "description": "GERM-GA 1505 Essayistic Thinking: Hist & Forms in Lit/Film",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1510",
+            "course_name": "Pleasures of Negativity: On Adorno",
+            "description": "GERM-GA 1510 Pleasures of Negativity: On Adorno",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1512",
+            "course_name": "Kafka",
+            "description": "GERM-GA 1512 Kafka \nKafka?s work in the light of his preoccupation with language, particularly with the way this preoccupation affected his writing. The point of departure is the problematization of the referential function of language. An examination of Kafka?s diaries and letters follows.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1513",
+            "course_name": "Bertolt Brecht: Lit, Mod, & The Avant Garde",
+            "description": "GERM-GA 1513 Bertolt Brecht: Lit, Mod, & The Avant Garde \nTopics may include the disintegration of human and sexual relations in the early works; the destruction of identity and the construction of a ?collective individuality?; the experience of the modern metropolis; Brecht?s Marxism and his contribution to a new dialectics; Brecht?s formal innovations in drama and poetry; and Brecht?s theatre theories.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1514",
+            "course_name": "Gunter Grass",
+            "description": "GERM-GA 1514 Gunter Grass",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1520",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17537",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 566A",
+                    "time": "Thu 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Bronfen, Elizabeth; Frey, Christiane"
+                }
+            ],
+            "course_name": "Modern German Drama",
+            "description": "GERM-GA 1520 Modern German Drama",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-GA 1530",
+            "course_name": "Gdr Literature:Tradition and Discontinuity",
+            "description": "GERM-GA 1530 Gdr Literature:Tradition and Discontinuity",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1540",
+            "course_name": "Modern German Novel",
+            "description": "GERM-GA 1540 Modern German Novel",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1550",
+            "course_name": "German Poetry",
+            "description": "GERM-GA 1550 German Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1568",
+            "course_name": "Marx Literary Criticism",
+            "description": "GERM-GA 1568 Marx Literary Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1570",
+            "course_name": "Representatn of Fascism",
+            "description": "GERM-GA 1570 Representatn of Fascism",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1600",
+            "course_name": "Theory Clashes: Modern- Avant Garde-Traditional",
+            "description": "GERM-GA 1600 Theory Clashes: Modern- Avant Garde-Traditional",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1601",
+            "course_name": "Anna Seghers/Christa Wolf",
+            "description": "GERM-GA 1601 Anna Seghers/Christa Wolf",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1650",
+            "course_name": "Visual Culture",
+            "description": "GERM-GA 1650 Visual Culture \nFocuses on the role of visuality in modernist thought, with an emphasis on the German tradition. Examines how epistemological models are oriented to a subject defined as a viewer and producer of images. Readings in critical theory, art history, and theories of film and photography.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1655",
+            "course_name": "Archive, Image, Text: Myth/Reality of Archives",
+            "description": "GERM-GA 1655 Archive, Image, Text: Myth/Reality of Archives",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1695",
+            "course_name": "Kleist",
+            "description": "GERM-GA 1695 Kleist",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1698",
+            "course_name": "",
+            "description": "GERM-GA 1698\n\n   Photography & The World\n\nAn investigation into the ways photography has been conceptualized since its inception until its recent transformation brought about by the advent of digital imaging. Particular attention is paid to the notion of the ?world? as it informs most theoretical attempts to grasp photography; the way in which the rise of photography is indissociably linked to the emergence of psychoanalysis and phenomenology; theories of perception; issues of veracity, mimesis, and aesthetics; and the relation between photography andAn investigation into the ways photography has been conceptualized since its inceptio...\n\n      more description for GERM-GA 1698 \u00bb\n\n      \n\n\n\nAn investigation into the ways photography has been conceptualized since its inception until its recent transformation brought about by the advent of digital imaging. Particular attention is paid to the notion of the ?world? as it informs most theoretical attempts to grasp photography; the way in which the rise of photography is indissociably linked to the emergence of psychoanalysis and phenomenology; theories of perception; issues of veracity, mimesis, and aesthetics; and the relation between photography andAn investigation into the ways photography has been conceptualized since its inception until its recent transformation brought about by the advent of digital imaging. Particular attention is paid to the notion of the ?world? as it informs most theoretical attempts to grasp photography; the way in which the rise of photography is indissociably linked to the emergence of psychoanalysis and phenomenology; theories of perception; issues of veracity, mimesis, and aesthetics; and the relation between photography and its historical moment.\n\n      less description for GERM-GA 1698 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1700",
+            "course_name": "Romanticism",
+            "description": "GERM-GA 1700 Romanticism",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1716",
+            "course_name": "Autobiographical Writing",
+            "description": "GERM-GA 1716 Autobiographical Writing",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1720",
+            "course_name": "Echoes of Antiquity",
+            "description": "GERM-GA 1720 Echoes of Antiquity",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1733",
+            "course_name": "Heine & Vormarz",
+            "description": "GERM-GA 1733 Heine & Vormarz",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1734",
+            "course_name": "Martin Buber'S Translat of Hassidic Texts",
+            "description": "GERM-GA 1734 Martin Buber'S Translat of Hassidic Texts",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1771",
+            "course_name": "The German Novelle",
+            "description": "GERM-GA 1771 The German Novelle",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1772",
+            "course_name": "19th Cent German Novel",
+            "description": "GERM-GA 1772 19th Cent German Novel",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1800",
+            "course_name": "The Very Idea of a University",
+            "description": "GERM-GA 1800 The Very Idea of a University",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1811",
+            "course_name": "German Realism & Beyond: T. Fontane'S Late Novel",
+            "description": "GERM-GA 1811 German Realism & Beyond: T. Fontane'S Late Novel",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1822",
+            "course_name": "Eta Hoffmann: Impact On Modernity",
+            "description": "GERM-GA 1822 Eta Hoffmann: Impact On Modernity",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1823",
+            "course_name": "Mod Masculinity/Sexualit",
+            "description": "GERM-GA 1823 Mod Masculinity/Sexualit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1824",
+            "course_name": "Images War &Violence in Modernism: War/Text/Imag",
+            "description": "GERM-GA 1824 Images War &Violence in Modernism: War/Text/Imag",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1825",
+            "course_name": "The End of Art",
+            "description": "GERM-GA 1825 The End of Art",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1842",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16541",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC13",
+                    "time": "Wed 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Ulfers, Friedrich"
+                }
+            ],
+            "course_name": "Nietzsche'S Impact On 20th-Century Thought",
+            "description": "GERM-GA 1842 Nietzsche'S Impact On 20th-Century Thought \nExamination of Nietzsche?s terms ?Appollonian? and ?Dionysian? in The Birth of Tragedy that serves as the basis for an investigation of his aesthetic theory, epistemology, and ethics. Uses other writings as background and source. Traces Nietzsche?s impact on 20th-century literature.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-GA 1852",
+            "course_name": "Islamic Law & Society",
+            "description": "GERM-GA 1852 Islamic Law & Society",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1860",
+            "course_name": "Rilke",
+            "description": "GERM-GA 1860 Rilke",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1861",
+            "course_name": "Gottfried Benn",
+            "description": "GERM-GA 1861 Gottfried Benn",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1862",
+            "course_name": "Nietzsche/Freud/Fontane",
+            "description": "GERM-GA 1862 Nietzsche/Freud/Fontane",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1863",
+            "course_name": "Psychoanaly & Philosophy",
+            "description": "GERM-GA 1863 Psychoanaly & Philosophy \nExplores the fundamental structures of psychoanalysis with a view to its philosophical implications. Readings range from scrupulous analyses of Freud, Lacan, Klein, Derrida, Lacoue-Labarthe, and Nancy to ?Heideggerian psychoanalysis? or cryptonymy (Abraham and Torok).",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1868",
+            "course_name": "Robert Musil",
+            "description": "GERM-GA 1868 Robert Musil \nIntroduction to a major author of early 20th-century German literature. Selected essays and fictional texts are studied as examples of modernism in German prose literature: Der Mann ohne Eigenschaften, Drei Frauen, Nachlass zu Lebzeiten.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1887",
+            "course_name": "Arnold Zweig",
+            "description": "GERM-GA 1887 Arnold Zweig",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1894",
+            "course_name": "German Expressionism",
+            "description": "GERM-GA 1894 German Expressionism",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1900",
+            "course_name": "Skepticism & Mod Lit",
+            "description": "GERM-GA 1900 Skepticism & Mod Lit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1919",
+            "course_name": "Lit of Weimar Period",
+            "description": "GERM-GA 1919 Lit of Weimar Period \nTopics include Weimar modernity, Weimar theatre, women, Jewish aspects and anti-Semitism, the rise of fascism, and the postexpressionist aesthetics of Neue Sachlichkeit (New Sobriety) in novels, drama, poetry, and journalism, with an interdisciplinary interest in the other arts. Works by Roth, brothers Mann, Brecht, Seghers, Horv?th, Fleisser, Tucholsky, Polgar, and Kisch.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1920",
+            "course_name": "Cult/Crit:Frankfurt Thry",
+            "description": "GERM-GA 1920 Cult/Crit:Frankfurt Thry",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1933",
+            "course_name": "Exile Literature",
+            "description": "GERM-GA 1933 Exile Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1934",
+            "course_name": "Nazi Period & Holocaust in Postwar Lit",
+            "description": "GERM-GA 1934 Nazi Period & Holocaust in Postwar Lit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1936",
+            "course_name": "Fascism and Sexuality",
+            "description": "GERM-GA 1936 Fascism and Sexuality",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1945",
+            "course_name": "Postwar Modernism: Max Frisch/Peter Weiss",
+            "description": "GERM-GA 1945 Postwar Modernism: Max Frisch/Peter Weiss \nMax Frisch and Peter Weiss, outsiders who confronted Germans with the Nazi past and became key figures in the reconstitution of (West) German postwar literature. Emphasis is on the experimental and innovative aspects of their works and on theories of diaristic and autobiographical prose.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1946",
+            "course_name": "Max Frisch",
+            "description": "GERM-GA 1946 Max Frisch",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1947",
+            "course_name": "Peter Weiss",
+            "description": "GERM-GA 1947 Peter Weiss",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1948",
+            "course_name": "Derrida'S Greatest Hits:",
+            "description": "GERM-GA 1948 Derrida'S Greatest Hits:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1964",
+            "course_name": "Trivialliteratur",
+            "description": "GERM-GA 1964 Trivialliteratur",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1990",
+            "course_name": "Suepticism & Modern Lit",
+            "description": "GERM-GA 1990 Suepticism & Modern Lit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1992",
+            "course_name": "Poetics of Witnessing",
+            "description": "GERM-GA 1992 Poetics of Witnessing",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1994",
+            "course_name": "Realism: Problems in 19th Century Prose",
+            "description": "GERM-GA 1994 Realism: Problems in 19th Century Prose \nSystematic introduction to problems of representation in 19th-century prose. Authors include Tieck, Hebbel, Keller, Stifter, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 1995",
+            "course_name": "Experimental Prose Around 1900",
+            "description": "GERM-GA 1995 Experimental Prose Around 1900",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2000",
+            "course_name": "Advanced Writing Seminar",
+            "description": "GERM-GA 2000 Advanced Writing Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2001",
+            "course_name": "Infinite Conver: Maurice Blanchot & German Lit",
+            "description": "GERM-GA 2001 Infinite Conver: Maurice Blanchot & German Lit",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2002",
+            "course_name": "Derrida'S Greatest Hits",
+            "description": "GERM-GA 2002 Derrida'S Greatest Hits",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2006",
+            "course_name": "Spec Std Literary Genre:",
+            "description": "GERM-GA 2006 Spec Std Literary Genre:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2111",
+            "course_name": "Dutch",
+            "description": "GERM-GA 2111 Dutch",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2112",
+            "course_name": "Dutch",
+            "description": "GERM-GA 2112 Dutch",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2121",
+            "course_name": "Old Norse",
+            "description": "GERM-GA 2121 Old Norse",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2122",
+            "course_name": "Conspiracy Theories: Paranoid Fict Aftr Freud",
+            "description": "GERM-GA 2122 Conspiracy Theories: Paranoid Fict Aftr Freud",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2124",
+            "course_name": "Mod Scandinavian",
+            "description": "GERM-GA 2124 Mod Scandinavian",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2201",
+            "course_name": "Gothic",
+            "description": "GERM-GA 2201 Gothic",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2205",
+            "course_name": "Old High German",
+            "description": "GERM-GA 2205 Old High German",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2206",
+            "course_name": "Old Saxon & Old Frisian",
+            "description": "GERM-GA 2206 Old Saxon & Old Frisian",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2221",
+            "course_name": "Contrastive Grammer of German & English",
+            "description": "GERM-GA 2221 Contrastive Grammer of German & English",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2250",
+            "course_name": "Post 1945 Germany",
+            "description": "GERM-GA 2250 Post 1945 Germany",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2530",
+            "course_name": "Euro Since 1989:from Revol to Restoration",
+            "description": "GERM-GA 2530 Euro Since 1989:from Revol to Restoration",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2540",
+            "course_name": "Germany 1945-1995: Polit Hist, Society & Culture",
+            "description": "GERM-GA 2540 Germany 1945-1995: Polit Hist, Society & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2585",
+            "course_name": "Enlightenment",
+            "description": "GERM-GA 2585 Enlightenment",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2600",
+            "course_name": "Interdscp Apprch to Lit:",
+            "description": "GERM-GA 2600 Interdscp Apprch to Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2601",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17526",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 431",
+                    "time": "Wed 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Weatherby, Leif; Zizek, Slavoj"
+                }
+            ],
+            "course_name": "Tpcs 19Thc Culture: The Concept of Security",
+            "description": "GERM-GA 2601 Tpcs 19Thc Culture: The Concept of Security",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-GA 2610",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1986",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 507"
+                }
+            ],
+            "course_name": "Special Topcs in Theory:",
+            "description": "GERM-GA 2610 Special Topcs in Theory:",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-GA 2643",
+            "course_name": "Goethe'S Narrative Prose",
+            "description": "GERM-GA 2643 Goethe'S Narrative Prose",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2700",
+            "course_name": "Tpcs: Mod Political Phil from Hegel to Marx",
+            "description": "GERM-GA 2700 Tpcs: Mod Political Phil from Hegel to Marx",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2701",
+            "course_name": "Theory Lit Generes:",
+            "description": "GERM-GA 2701 Theory Lit Generes:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2702",
+            "course_name": "Nietzsche & The Feminie",
+            "description": "GERM-GA 2702 Nietzsche & The Feminie",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2703",
+            "course_name": "Poetics & Theory Seminar",
+            "description": "GERM-GA 2703 Poetics & Theory Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2733",
+            "course_name": "Heinrich Heine and His Period",
+            "description": "GERM-GA 2733 Heinrich Heine and His Period",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2811",
+            "course_name": "German Literature from 1800 to Ww I",
+            "description": "GERM-GA 2811 German Literature from 1800 to Ww I",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2895",
+            "course_name": "Contemporary Prose",
+            "description": "GERM-GA 2895 Contemporary Prose",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2896",
+            "course_name": "Contemp German Fiction",
+            "description": "GERM-GA 2896 Contemp German Fiction",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2897",
+            "course_name": "Lit of The Metropoles: New York and Berlin",
+            "description": "GERM-GA 2897 Lit of The Metropoles: New York and Berlin",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2900",
+            "course_name": "Criticism, Critique & Crisis:",
+            "description": "GERM-GA 2900 Criticism, Critique & Crisis:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2912",
+            "course_name": "Literature & Philosophy",
+            "description": "GERM-GA 2912 Literature & Philosophy \nTaught annually in conjunction with the Departments of German, English, and Comparative Literature. Ronell. 4 points.\nRecent themes include ?forgiveness and violence,? ?sovereignty,? ?trauma.?",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 2964",
+            "course_name": "Lit as Social Document: Fascination of Evil",
+            "description": "GERM-GA 2964 Lit as Social Document: Fascination of Evil",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 3000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1466",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 337",
+                    "time": "Sat 2.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "Weatherby, Leif"
+                }
+            ],
+            "course_name": "Independent Research",
+            "description": "GERM-GA 3000 Independent Research \nOpen to advanced students with permission of the director of graduate studies and chair of the department.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-GA 3001",
+            "course_name": "Sem: Literature Since 1945",
+            "description": "GERM-GA 3001 Sem: Literature Since 1945",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 3100",
+            "course_name": "Sem in Polit Theory:",
+            "description": "GERM-GA 3100 Sem in Polit Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 3399",
+            "course_name": "Comparative Poetics: Lyric Poetry",
+            "description": "GERM-GA 3399 Comparative Poetics: Lyric Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 3610",
+            "course_name": "Immanence and Modernity",
+            "description": "GERM-GA 3610 Immanence and Modernity",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 3700",
+            "course_name": "Early Modern German Culture",
+            "description": "GERM-GA 3700 Early Modern German Culture",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-GA 3900",
+            "course_name": "Metaphors Are No Arguments",
+            "description": "GERM-GA 3900 Metaphors Are No Arguments",
+            "offering": false
+        }
+    ]
+}

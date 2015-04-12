@@ -1,0 +1,36 @@
+{
+    "major_id": "STVNS-UA",
+    "file": "./2015-2016/Engineering_Pgm_with_Stevens_(STVNS-UA).html",
+    "courses": [
+        {
+            "course_id": "STVNS-UA 111",
+            "course_name": "Engineering Design Laboratory I",
+            "description": "STVNS-UA  111 Engineering Design Laboratory I \nIntroductory course in engineering practices and principles of design of a new product. Groups design, construct, and test projects in response to stated requirements, within necessary constraints, and from among alternative solutions. Computer use, sketching, oral communications, basic measurements, reverse engineering, and performance testing are included. Teamwork is emphasized.",
+            "offering": false
+        },
+        {
+            "course_id": "STVNS-UA 112",
+            "course_name": "Engineering Design Laboratory II",
+            "description": "STVNS-UA  112 Engineering Design Laboratory II",
+            "offering": false
+        },
+        {
+            "course_id": "STVNS-UA 5126",
+            "course_name": "Mechanics of Solids",
+            "description": "STVNS-UA 5126 Mechanics of Solids \nFundamental concepts of particle statics, equivalent force systems, equilibrium of rigid bodies, analysis of trusses and frames, forces in beam and machine parts, stress and strain, tension, shear and bending moment, flexure, combined loading, energy methods, statically indeterminate structures.",
+            "offering": false
+        },
+        {
+            "course_id": "STVNS-UA 5211",
+            "course_name": "Graphics Design and Lab",
+            "description": "STVNS-UA 5211 Graphics Design and Lab \nBasics of engineering graphics including perspective projection, parallel projection, multiview projection, descriptive geometry, auxiliary views, reading and production of technical drawings, and preparation and presentation of engineering data.",
+            "offering": false
+        },
+        {
+            "course_id": "STVNS-UA 7245",
+            "course_name": "Circuits and Systems",
+            "description": "STVNS-UA 7245 Circuits and Systems \nIdeal circuit elements; Kirchoff laws and nodal analysis; source transformation; Thevenin/Norton theorems; operational amplifiers; response of RL, RC, and RLC circuits; sinusoidal sources and steady state analysis; analysis in frequency domain; average and RMS power; linear and ideal transformer; linear models for transistors and diodes; analysis in the s-domain; Laplace transforms, transfer functions.",
+            "offering": false
+        }
+    ]
+}

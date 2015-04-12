@@ -1,0 +1,174 @@
+{
+    "major_id": "CHEM-SHU",
+    "file": "./2015-2016/Chemistry_(CHEM-SHU).html",
+    "courses": [
+        {
+            "course_id": "CHEM-SHU 125",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17425",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17426",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17427",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17428",
+                    "section": "004",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17429",
+                    "section": "005",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Foundations of Chemistry  I",
+            "description": "CHEM-SHU  125 Foundations of Chemistry  I",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-SHU 126",
+            "course_name": "Foundations of Chemistry II",
+            "description": "CHEM-SHU  126 Foundations of Chemistry II",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 127",
+            "course_name": "Fos Chemistry Laboratory",
+            "description": "CHEM-SHU  127 Fos Chemistry Laboratory",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 225",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13265",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Pross, Addy; Pross, Nella Nathalia",
+                    "time": "Tue,Thu 11.15 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "13266",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Pross, Addy; Pross, Nella Nathalia",
+                    "time": "Tue 1.15 PM - 5.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19068",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Pross, Nella Nathalia; Pross, Addy",
+                    "time": "Thu 3.15 PM - 4.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Organic Chemistry I",
+            "description": "CHEM-SHU  225 Organic Chemistry I \nThis course uses an interactive, problems-based approach to study the structure and bonding of organic materials, conformational analysis, stereochemistry, and spectroscopy, topics that partly trace their roots to the development of quantum theory. The topics covered include basic reaction mechanisms such as substitution and elimination, and the reactions of aliphatic and aromatic hydrocarbons, alcohols, ethers, amines, carbonyl compounds, and carboxylic acids. The course incorporates modern analytical methods that are the cornerstone of contemporary organic chemistry. Prerequisite SCIE-110",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-SHU 226",
+            "course_name": "",
+            "description": "CHEM-SHU  226\n\n   Organic Chemistry II\n\nThis is a continuation of the course ORGANIC CHEMISTRY I directing to the same objectives: An introduction to the world of Organic Chemistry; learning the main classes of compounds, their structure, nomenclature, reactivity and reactions. Students who complete the course should be able to understand the symbolism used in organic chemistry, the three-dimensional structure of organic molecules, and how that influences organic reactions.  Students should be able to reproduce reaction mechanisms and relate those to compounds and reactions they have not encountered.  Students should be able to pred...\n\n      more description for CHEM-SHU  226 \u00bb\n\n      \n\n\n\nThis is a continuation of the course ORGANIC CHEMISTRY I directing to the same objectives: An introduction to the world of Organic Chemistry; learning the main classes of compounds, their structure, nomenclature, reactivity and reactions. Students who complete the course should be able to understand the symbolism used in organic chemistry, the three-dimensional structure of organic molecules, and how that influences organic reactions.  Students should be able to reproduce reaction mechanisms and relate those to compounds and reactions they have not encountered.  Students should be able to predict the major product of simple reactions on organic compounds containing only one functional group and apply those same principles to more complex compounds containing multiple functional groups.  Students should be able to design simple organic syntheses. Students should be able to read and comprehend articles from the current literature.  Prerequisite CHEM-201\n\n      less description for CHEM-SHU  226 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 285",
+            "course_name": "Experimental Biochemistry",
+            "description": "CHEM-SHU  285 Experimental Biochemistry \nIntroduction to molecular analysis of biomolecules. Selected experiments and instruction in analytical techniques used in biochemical research, including chromatography, spectrophotometry, and electrophoresis; isolation and characterization of selected biomolecules; kinetic analysis of enzymatic activity; and analysis of protein-protein and protein-DNA interactions that direct basic biochemical pathways. Prerequisite CHEM-282.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 310",
+            "course_name": "",
+            "description": "CHEM-SHU  310\n\n   Biophysical Chemistry\n\nApplications of physical and chemical principles to topics of biochemical and biological interest with an emphasis on the basic principles underlying biophysical techniques that are used to study important macromolecules such as proteins and nucleic acids. Topics include molecular spectro- scopic techniques such as light absorption, fluorescence, and circular dichroism, as well as nuclear magnetic resonance and vibrational spectroscopy. Applications of these methods to important biophysical, biochemical, and biological problems of current interest such as protein folding, imaging, and protein-...\n\n      more description for CHEM-SHU  310 \u00bb\n\n      \n\n\n\nApplications of physical and chemical principles to topics of biochemical and biological interest with an emphasis on the basic principles underlying biophysical techniques that are used to study important macromolecules such as proteins and nucleic acids. Topics include molecular spectro- scopic techniques such as light absorption, fluorescence, and circular dichroism, as well as nuclear magnetic resonance and vibrational spectroscopy. Applications of these methods to important biophysical, biochemical, and biological problems of current interest such as protein folding, imaging, and protein-DNA and protein-protein interactions are discussed. Prerequisites CHEM-251, 282, and 301.\n\n      less description for CHEM-SHU  310 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 312",
+            "course_name": "Organic Analysis",
+            "description": "CHEM-SHU  312 Organic Analysis \nEmphasizes the application of spectroscopic methods in organic chemistry in determining molecular structure, including proton and carbon NMR, infrared spectroscopy, ultravioletvisible spectroscopy, modern methods of mass spectroscopy, and chiroptical spectroscopy. This course is particularly suitable for chemists interested in pharmaceutical fields of research and development, and applications to studies of the chemistry, properties and interactions of biologically important molecules. Prerequisite CHEM-251",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 651",
+            "course_name": "Physical Chemistry: Quantum Mechanics and Spectroscopy",
+            "description": "CHEM-SHU  651 Physical Chemistry: Quantum Mechanics and Spectroscopy \nAn introduction to quantum mechanics\u2014general principles and applications to important model systems. Covers electronic structure of one- and many-electron atoms, theory of chemical bonding in diatomic and polyatomic molecules. Includes principles and applications of molecular spectroscopy: rotational, vibrational, electronic, and nuclear magnetic resonance. Elements of photochemistry are also included.  Prerequisites CCSC-114 and MATH-112.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 652",
+            "course_name": "Physical Chemistry: Thermodynamics and Kinetics",
+            "description": "CHEM-SHU  652 Physical Chemistry: Thermodynamics and Kinetics \nDevelops the close connection between the microscopic world of quantum mechanics and the macroscopic world of thermodynamics. Topics include properties of gases, kinetics, elementary statistical thermodynamics, and thermodynamics of single and multicomponent systems. Prerequisites CCSC-114 and MATH-112.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 661",
+            "course_name": "",
+            "description": "CHEM-SHU  661\n\n   Physical Chemistry Laboratory\n\nIntroduction to the principles and practices of experimental methods widely used in analytical and research laboratories. Emphasizes understanding of background physicochemical theory, as well as capabilities and limitations of methods and interpretations of data. Covers instrumental methods, such as UV/visible spectroscopy, FT-IR, NMR, and fluorescence, for the systematic characterization of compounds and the use of interfaced computers for data collection and spreadsheet analysis. Studies also include an introduction to computer modeling of molecular properties. Optional experiments include ...\n\n      more description for CHEM-SHU  661 \u00bb\n\n      \n\n\n\nIntroduction to the principles and practices of experimental methods widely used in analytical and research laboratories. Emphasizes understanding of background physicochemical theory, as well as capabilities and limitations of methods and interpretations of data. Covers instrumental methods, such as UV/visible spectroscopy, FT-IR, NMR, and fluorescence, for the systematic characterization of compounds and the use of interfaced computers for data collection and spreadsheet analysis. Studies also include an introduction to computer modeling of molecular properties. Optional experiments include fluorescence studies of protein denaturation and laser studies of excited state kinetics. Prerequisites CHEM-301 and CHEM-302.\n\n      less description for CHEM-SHU  661 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 711",
+            "course_name": "Inorganic Chemistry",
+            "description": "CHEM-SHU  711 Inorganic Chemistry \nStudies of methods in inorganic chemistry that make use of symmetry to describe bonding and spectra of inorganic compounds with an interdisciplinary emphasis whenever feasible. Reactions and kinetics are also discussed for inorganic, organometallic, and bioinorganic compounds. Selected topics in main group chemistry are also included.  Prerequisites CHEM-201, 301 and 302",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 881",
+            "course_name": "Biochemistry I",
+            "description": "CHEM-SHU  881 Biochemistry I \nThis course offers deeper and more complete treatments of the chemistry of living cells and biological chemistry than in the Foundations of Science courses. Topics include structure and function of proteins, lipids, carbohydrates, and nucleic acids; enzyme structure, mechanism and regulation of enzyme activity, and membrane structure and transport; mechanisms of cellular processes and cellular physiology, including ion channels and pumps, cell motility, and the immune response. Prerequisite CHEM-201",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-SHU 882",
+            "course_name": "Biochemistry II",
+            "description": "CHEM-SHU  882 Biochemistry II \nBuilding on the lessons of Biochemistry 1, Biochemistry 2 emphasizes analysis of basic metabolic pathways, including glycolysis, electron transport, and oxidative phosphorylation, as well as mechanisms of metabolic regulation and integration. Prerequisite CHEM-281.",
+            "offering": false
+        }
+    ]
+}

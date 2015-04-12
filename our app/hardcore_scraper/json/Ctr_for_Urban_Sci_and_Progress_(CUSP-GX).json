@@ -1,0 +1,206 @@
+{
+    "major_id": "CUSP-GX",
+    "file": "./2015-2016/Ctr_for_Urban_Sci_and_Progress_(CUSP-GX).html",
+    "courses": [
+        {
+            "course_id": "CUSP-GX 1000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6069",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Bonilla, JeanCarlo; Thomas, Micah",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "City Week Challenge",
+            "description": "CUSP-GX 1000 City Week Challenge \nThe purpose of the week is to build cohesion among incoming students, introduce them to research and ongoing projects at CUSP, and provide an overview of urban informatics and city operations. The week combines lectures, guest speakers, site visits, and social events",
+            "offering": true
+        },
+        {
+            "course_id": "CUSP-GX 1001",
+            "course_name": "Urban Computing Skills Lab",
+            "description": "CUSP-GX 1001 Urban Computing Skills Lab \nThe UCSL at CUSP is a series of online sessions designed to build a common skillset and familiarity with techniques, concepts, and models for urban informatics computing. The online sessions focus on data explorations, programming skills and statistical methods needed for scientific computing in the field of Urban Informatics.",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 2599",
+            "course_name": "Science in the City Project",
+            "description": "CUSP-GX 2599 Science in the City Project",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 5001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6066",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Kontokosta, Constantine",
+                    "time": "Tue 9.30 AM - 12.20 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CUSP-GX 5001\n\n   Foundations of Urban Science\n\nThis course is the introductory theory course in the program.  It explores a systems approach to the operation and growth of cities and describes emerging frameworks for a scientific theory of how a city works. It discusses economic and political theories of the city and emerging models of city function, growth, and the dynamics of complex sociotechnical systems.  Topics include spatial growth models, scaling and size distributions, networks and flows, entropy in urban systems, and an introduction to spatial interaction models. Specific applications of urban models to domains, such as transpor...\n\n      more description for CUSP-GX 5001 \u00bb\n\n      \n\n\n\nThis course is the introductory theory course in the program.  It explores a systems approach to the operation and growth of cities and describes emerging frameworks for a scientific theory of how a city works. It discusses economic and political theories of the city and emerging models of city function, growth, and the dynamics of complex sociotechnical systems.  Topics include spatial growth models, scaling and size distributions, networks and flows, entropy in urban systems, and an introduction to spatial interaction models. Specific applications of urban models to domains, such as transportation and sustainable development, are provided, together with empirical examples. Basic principles of systems analysis are discussed. This course presents the opportunities and constraints of data-driven solutions and problem solving to urban issues, including the influence of human behavior on outcomes.\n\n      less description for CUSP-GX 5001 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CUSP-GX 5002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6073",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Kleiman, Neil S",
+                    "time": "Mon 9.30 AM - 12.20 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6070",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CUSP-GX 5002\n\n   Urban ICT and City Operations\n\nThis course provides an overview of the role of information and communication technologies in urban operations and introduces students to the full range of urban domains and their interactions. Specific attention is given to energy and building efficiency, transportation, public health and emergency response, waste, water and wastewater, and connectivity and how urban informatics can be used to improve operational and resource efficiencies. In addition, principles and metrics for urban resilience are presented. The role of civic engagement and community participation in the context of open dat...\n\n      more description for CUSP-GX 5002 \u00bb\n\n      \n\n\n\nThis course provides an overview of the role of information and communication technologies in urban operations and introduces students to the full range of urban domains and their interactions. Specific attention is given to energy and building efficiency, transportation, public health and emergency response, waste, water and wastewater, and connectivity and how urban informatics can be used to improve operational and resource efficiencies. In addition, principles and metrics for urban resilience are presented. The role of civic engagement and community participation in the context of open data and citizen science is explored, as well as the evolving relationship between, and influence of, informatics on urban governance. Top-down and bottom-up models of innovative service delivery are discussed and debated in the context of public decision-making. Economic and cost-benefit analysis techniques are introduced with methods to evaluate alternative infrastructure investments and risk scenarios. Case studies and best practice examples are used extensively.\n\n      less description for CUSP-GX 5002 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CUSP-GX 5003",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6067",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Silva, Claudio",
+                    "time": "Thu 9.30 AM - 12.20 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6068",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Silva, Claudio",
+                    "time": "Thu 5.40 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CUSP-GX 5003\n\n   Principles of Urban Informatics\n\nThis course is the introduction to the core disciplines of data acquisition and management, integration, and analytics. In this course, the student will learn the major concepts, tools, and techniques for what informatics can do for cities. It includes background in data management, visualization, and data science, and also includes material not usually covered in computer science courses, including how to best handle spatial-temporal data, and issues related to citizen science and participatory sensing. It presents software tools, frameworks for problem-solving and model selection parameters ...\n\n      more description for CUSP-GX 5003 \u00bb\n\n      \n\n\n\nThis course is the introduction to the core disciplines of data acquisition and management, integration, and analytics. In this course, the student will learn the major concepts, tools, and techniques for what informatics can do for cities. It includes background in data management, visualization, and data science, and also includes material not usually covered in computer science courses, including how to best handle spatial-temporal data, and issues related to citizen science and participatory sensing. It presents software tools, frameworks for problem-solving and model selection parameters using data science in the urban context, including basic modeling and analytical methods; visualization techniques, including geographic information systems; working with large datasets and understanding data sources, including instrumentation, physical sensors, imagery, and mobile sensing platforms; explores issues of data ethics, privacy, etc.; and provides an introduction to citizen science, crowd-sourcing, and participatory sensing.\n\n      less description for CUSP-GX 5003 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CUSP-GX 5004",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6072",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Savage, Timothy; Dobler, Gregory",
+                    "time": "Mon 5.40 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CUSP-GX 5004\n\n   Applied Data Science\n\nThis course introduces students to the theory, principles and applications of mathematical and computer modeling of data as applied to cities.  It will be based on two unified themes: foundations for predictive analytics and decision-making followed by applications in data science. The 1st half of the course will cover predictive modeling using a wide array of examples, including predictive modeling, an advanced treatment of regression, visualization and graphics, and automated analysis for high dimensional data. The second half will introduce students to applications in data science such as a...\n\n      more description for CUSP-GX 5004 \u00bb\n\n      \n\n\n\nThis course introduces students to the theory, principles and applications of mathematical and computer modeling of data as applied to cities.  It will be based on two unified themes: foundations for predictive analytics and decision-making followed by applications in data science. The 1st half of the course will cover predictive modeling using a wide array of examples, including predictive modeling, an advanced treatment of regression, visualization and graphics, and automated analysis for high dimensional data. The second half will introduce students to applications in data science such as analytics of images and video as well as subjective data processing and analysis.\n\n      less description for CUSP-GX 5004 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CUSP-GX 5005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6071",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Riccio, Lucius",
+                    "time": "Tue 5.40 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CUSP-GX 5005\n\n   Urban Decision Models\n\nThis course provides an introduction to computer-based optimization and simulation models for decision-making for government officials and policy makers.  The emphasis is on models that are widely used in diverse functional areas, including every day operations such as waste collection, policing and transportation to policy making on environment/climate change to sheltering the homeless.  Applications will include resource allocation, workforce planning, revenue management, asset-liability management (public sector finance models), environmental policy modeling, pension and bonding planning, a...\n\n      more description for CUSP-GX 5005 \u00bb\n\n      \n\n\n\nThis course provides an introduction to computer-based optimization and simulation models for decision-making for government officials and policy makers.  The emphasis is on models that are widely used in diverse functional areas, including every day operations such as waste collection, policing and transportation to policy making on environment/climate change to sheltering the homeless.  Applications will include resource allocation, workforce planning, revenue management, asset-liability management (public sector finance models), environmental policy modeling, pension and bonding planning, and political campaign management, among others.  The aim of the course is to help students become intelligent consumers of these methods.  To this end, the course will cover the basic elements of modeling -- how to formulate a model and how to use and interpret the information a model produces.  The course will attempt to instill a critical viewpoint towards decision models, recognizing that they are powerful but limited tools.\n\n      less description for CUSP-GX 5005 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CUSP-GX 6001",
+            "course_name": "",
+            "description": "CUSP-GX 6001\n\n   Science of Cities Seminar\n\nThe CUSP Seminar brings together researchers from the CUSP Partners and outside institutions to discuss the latest thinking on urban informatics and smart cities. In this teaching seminar, weekly presentations provide students with the unique opportunity to learn and discuss current research, case studies, and best practices from those directly involved with developing and implementing data-driven solution. The seminar is designed to offer graduate students in the final semester of their degree with a thorough understanding of the current opportunities and challenges they will address followin...\n\n      more description for CUSP-GX 6001 \u00bb\n\n      \n\n\n\nThe CUSP Seminar brings together researchers from the CUSP Partners and outside institutions to discuss the latest thinking on urban informatics and smart cities. In this teaching seminar, weekly presentations provide students with the unique opportunity to learn and discuss current research, case studies, and best practices from those directly involved with developing and implementing data-driven solution. The seminar is designed to offer graduate students in the final semester of their degree with a thorough understanding of the current opportunities and challenges they will address following their graduation. It also introduces them to research methods and approaches in the field of urban informatics, allowing them to work individually on a topic of interest in their chosen domain and discipline specializations. The seminar also serves as a networking opportunity for students on the job market and for those interested in pursuing research careers. Specific topics will be selected by the instructor.\n\n      less description for CUSP-GX 6001 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 6002",
+            "course_name": "",
+            "description": "CUSP-GX 6002\n\n   Building Efficiency and Performance\n\nThis course provides an advanced introduction to building energy efficiency and the role of data in understanding and impacting building performance. The course explores resources for building data and discusses the role of multiple stakeholders affecting energy consumption and efficiency in buildings. Students are introduced to green building rating and certification programs, as well as the potential of performance and prescriptive-based codes to influence building design and patterns of energy use. The growing significance of building instrumentation and controls is presented in the context...\n\n      more description for CUSP-GX 6002 \u00bb\n\n      \n\n\n\nThis course provides an advanced introduction to building energy efficiency and the role of data in understanding and impacting building performance. The course explores resources for building data and discusses the role of multiple stakeholders affecting energy consumption and efficiency in buildings. Students are introduced to green building rating and certification programs, as well as the potential of performance and prescriptive-based codes to influence building design and patterns of energy use. The growing significance of building instrumentation and controls is presented in the context of new data sources and techniques for building performance optimization. The course engages students to consider behavioral, financial, and policy-driven feedback loops in the potential for global reductions in energy consumption and improvements in efficiency. Finally, students are challenged to view buildings as a system of systems and to analyze energy efficiency at the building, district, portfolio, and city scale.\n\n      less description for CUSP-GX 6002 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 6003",
+            "course_name": "",
+            "description": "CUSP-GX 6003\n\n   Civic Technology Strategy and Management\n\nThe complexity of the urban context - defined by a rich, interlacing network of infrastructure, systems, and process that cuts across all sectors: public,private, and non-profit - requires that any large and/or innovative technology project take into account the many factors that go into developing a feasible, viable, and desirable project scope, as well as planning and managing against it. This course will be a case-based investigation into frameworks, methods, and tools for developing the strategic perspective in which to scope, plan, and manage technology projects in the urban context. Some...\n\n      more description for CUSP-GX 6003 \u00bb\n\n      \n\n\n\nThe complexity of the urban context - defined by a rich, interlacing network of infrastructure, systems, and process that cuts across all sectors: public,private, and non-profit - requires that any large and/or innovative technology project take into account the many factors that go into developing a feasible, viable, and desirable project scope, as well as planning and managing against it. This course will be a case-based investigation into frameworks, methods, and tools for developing the strategic perspective in which to scope, plan, and manage technology projects in the urban context. Some the methods and tools we will consider include those drawn from different schools of strategy and management.  They include: BOSCARD / Project Charter, Three-Point Estimating, Work Breakdown Structures (WBS), PERT, Critical Path Method, RACI Matrix, RAID Logs, MARCI Charts, Product Backlogs, Sprint Backlogs,\nUser Stories, and Scrum Taskboards.\n\n      less description for CUSP-GX 6003 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 6004",
+            "course_name": "",
+            "description": "CUSP-GX 6004\n\n   Advanced Topics in Urban Informatics Seminar\n\nThis course is designed to address timely issues in one of the informatics disciplines, broadly grouped into data collection and management, data integration and visualization, and data analytics. The course is a survey of the latest applications of the field of urban informatics, selected based on current projects and research undertaken at the Center for Urban Science and Progress. It combines lectures, guest speakers, and hands-on application of informatics using urban datasets. The course is divided into three components, including data collection and management as it relates to the specia...\n\n      more description for CUSP-GX 6004 \u00bb\n\n      \n\n\n\nThis course is designed to address timely issues in one of the informatics disciplines, broadly grouped into data collection and management, data integration and visualization, and data analytics. The course is a survey of the latest applications of the field of urban informatics, selected based on current projects and research undertaken at the Center for Urban Science and Progress. It combines lectures, guest speakers, and hands-on application of informatics using urban datasets. The course is divided into three components, including data collection and management as it relates to the specialization of the course, discipline-specific skills in areas of big data, and application of the informatics. Students will work directly with actual datasets on current, real-world city problems in various urban domains, as well as applications to theoretical problem sets.\n\n      less description for CUSP-GX 6004 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 6005",
+            "course_name": "",
+            "description": "CUSP-GX 6005\n\n   Monitoring Cities\n\nThe world\u2019s urban population is growing by nearly 60 million per year; equivalent to four cities like New York annually. Monitoring the chronological growth of key attributes of cities, as well as quantifying their current conditions presents a great potential for positive change. Through the acquisition of new data, there are immediate opportunities to influence the sustainable growth of small and medium size cities. There is also the potential for alleviating the extremes in Megacities, where conditions have reached a critical and unmanageable state. \n\nLooking at cities as interdependent net...\n\n      more description for CUSP-GX 6005 \u00bb\n\n      \n\n\n\nThe world\u2019s urban population is growing by nearly 60 million per year; equivalent to four cities like New York annually. Monitoring the chronological growth of key attributes of cities, as well as quantifying their current conditions presents a great potential for positive change. Through the acquisition of new data, there are immediate opportunities to influence the sustainable growth of small and medium size cities. There is also the potential for alleviating the extremes in Megacities, where conditions have reached a critical and unmanageable state. \n\nLooking at cities as interdependent networks of physical, natural and human systems, this course provides a perspective on how to monitor the function and wellness of these systems. Students obtain an understanding of needs assessment, planning, and technical approaches for instrumenting a city. This includes monitoring patterns of activity, mobility, energy, land use, physical and lifeline infrastructure, urban ecology, vegetation, atmosphere and air quality. The expected outcomes of this course is a comprehensive understanding of what can be instrumented and the monitoring architecture for acquiring and generating new data about cities.\n\n      less description for CUSP-GX 6005 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 7007",
+            "course_name": "",
+            "description": "CUSP-GX 7007\n\n   Spatial Analytics\n\nUrban Spatial Analytics focuses on developing spatial analysis skills specifically in urban context, which cuts across various interdisciplinary fields like urban land-use planning, socio-economic development, education, public health, real estate, criminal justice,environmental studies, transportation, and urban demography.\n\nThis course will equip students with Geographic Information System (GIS) concepts to collect, understand, organize, store, analyze and visualize complex urban geospatial data. Students will learn about combining and overlaying local urban datasets (like MapPLUTO, Taxi/Cab...\n\n      more description for CUSP-GX 7007 \u00bb\n\n      \n\n\n\nUrban Spatial Analytics focuses on developing spatial analysis skills specifically in urban context, which cuts across various interdisciplinary fields like urban land-use planning, socio-economic development, education, public health, real estate, criminal justice,environmental studies, transportation, and urban demography.\n\nThis course will equip students with Geographic Information System (GIS) concepts to collect, understand, organize, store, analyze and visualize complex urban geospatial data. Students will learn about combining and overlaying local urban datasets (like MapPLUTO, Taxi/Cab data, Tree Census,Transportation & other datasets) with regional and national datasets like US Cen-sus, in order to understand spatial relationships and foster critical thinking in addressing urban issues that informs urban and regional policies.\n\nStudents will gain hands-on training on geospatial data management, advance analyses (geo-statistics, proximity analysis, site suitability analysis,cluster analysis..) , visualization techniques, and applications onsolving real world problems, using ESRI's product - ArcGIS (ArcInfo withadvanced extensions) as a primary software, however students will be exposed to other web tools like CartoDB, Google Fusion Tables, and others.\n\n      less description for CUSP-GX 7007 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 8007",
+            "course_name": "Energy",
+            "description": "CUSP-GX 8007 Energy",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 9001",
+            "course_name": "Urban Science Intensive I",
+            "description": "CUSP-GX 9001 Urban Science Intensive I \nThis course introduces the student team to the CUSP partners involved in the USI project; develops team-building; students meet with various officials at the relevant agencies and industry partners, tour relevant projects and facilities, and begin to engage the community. Student teams define the problem and craft a strategy to identify solutions, inventory available and needed datasets, and explore possibilities for new instrumentation and citizen engagement to support project objectives. This course is a combination of student team project work, lectures, site visits, and guest speakers.",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 9002",
+            "course_name": "",
+            "description": "CUSP-GX 9002\n\n   Urban Science Intensive II\n\nStudent teams engage in projects through the integration and analysis of data, definition and testing of possible solutions, identification of implementation strategies and constraints, and recommendation of a preferred solution and implementation plan. Student teams are challenged to utilize urban informatics within the real-world constraints of city operations and development, while cognizant of political, policy, and financial considerations and issues of data privacy, validity, and transparency. In so doing, student teams will be tasked with creating innovative and replicable solutions to ...\n\n      more description for CUSP-GX 9002 \u00bb\n\n      \n\n\n\nStudent teams engage in projects through the integration and analysis of data, definition and testing of possible solutions, identification of implementation strategies and constraints, and recommendation of a preferred solution and implementation plan. Student teams are challenged to utilize urban informatics within the real-world constraints of city operations and development, while cognizant of political, policy, and financial considerations and issues of data privacy, validity, and transparency. In so doing, student teams will be tasked with creating innovative and replicable solutions to pressing urban problems. The end product of the Intensive sequence is intended to be the result of the integration of multiple skill sets from each student\u2019s area of specialization in domain, discipline, and entrepreneurial/organizational leadership focus.\n\n      less description for CUSP-GX 9002 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CUSP-GX 9007",
+            "course_name": "Data-driven Traffic Modeling and Simulation",
+            "description": "CUSP-GX 9007 Data-driven Traffic Modeling and Simulation \nThe goal of this course is to provide the students with the tools and methods to understand basics of traffic flow theory, modeling and simulation.  The emphasis will be on the use of real-world data to supplement the understanding of the theory behind the models. Small scale simulation models will be developed, tested and validated against real-world data.",
+            "offering": false
+        }
+    ]
+}

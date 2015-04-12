@@ -1,0 +1,348 @@
+{
+    "major_id": "NURSE-UN",
+    "file": "./2015-2016/Nursing_-_Undergraduate_(NURSE-UN).html",
+    "courses": [
+        {
+            "course_id": "NURSE-UN 1",
+            "course_name": "Integrative Seminar I",
+            "description": "NURSE-UN    1 Integrative Seminar I",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 2",
+            "course_name": "Integrative Seminar II",
+            "description": "NURSE-UN    2 Integrative Seminar II",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 3",
+            "course_name": "Integrative Seminar III",
+            "description": "NURSE-UN    3 Integrative Seminar III",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 4",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20658",
+                    "section": "001",
+                    "period": "09/02/2015 - 09/02/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "TISC LC509/30/2015 - 09/30/2015 Wed 3.30 PM - 4.45 PM at TISC LC510/14/2015 - 10/14/2015 Wed 3.30 PM - 4.45 PM at TISC LC510/28/2015 - 10/28/2015 Wed 3.30 PM - 4.45 PM at TISC LC511/11/2015 - 11/11/2015 Wed 3.30 PM - 4.45 PM at TISC LC512/02/2015 - 12/02/2015 Wed 3.30 PM - 4.45 PM at TISC LC509/16/2015 - 09/16/2015 Wed 3.30 PM - 4.45 PM at TISC LC5"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "20659",
+                    "section": "002",
+                    "period": "09/09/2015 - 09/09/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "TISC LC509/23/2015 - 09/23/2015 Wed 3.30 PM - 4.45 PM at TISC LC510/07/2015 - 10/07/2015 Wed 3.30 PM - 4.45 PM at TISC LC510/21/2015 - 10/21/2015 Wed 3.30 PM - 4.45 PM at TISC LC511/04/2015 - 11/04/2015 Wed 3.30 PM - 4.45 PM at TISC LC511/18/2015 - 11/18/2015 Wed 3.30 PM - 4.45 PM at TISC LC512/09/2015 - 12/09/2015 Wed 3.30 PM - 4.45 PM at TISC LC5"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "20660",
+                    "section": "003",
+                    "period": "09/03/2015 - 09/03/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "12WV L11409/17/2015 - 09/17/2015 Thu 9.30 AM - 10.45 AM at 12WV L11410/01/2015 - 10/01/2015 Thu 9.30 AM - 10.45 AM at 12WV L11410/15/2015 - 10/15/2015 Thu 9.30 AM - 10.45 AM at 12WV L11410/29/2015 - 10/29/2015 Thu 9.30 AM - 10.45 AM at 12WV L11411/12/2015 - 11/12/2015 Thu 9.30 AM - 10.45 AM at 12WV L11412/03/2015 - 12/03/2015 Thu 9.30 AM - 10.45 AM at 12WV L114"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "20661",
+                    "section": "004",
+                    "period": "09/10/2015 - 09/10/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "12WV L11409/24/2015 - 09/24/2015 Thu 9.30 AM - 10.45 AM at 12WV L11410/08/2015 - 10/08/2015 Thu 9.30 AM - 10.45 AM at 12WV L11410/22/2015 - 10/22/2015 Thu 9.30 AM - 10.45 AM at 12WV L11411/05/2015 - 11/05/2015 Thu 9.30 AM - 10.45 AM at 12WV L11411/19/2015 - 11/19/2015 Thu 9.30 AM - 10.45 AM at 12WV L11412/10/2015 - 12/10/2015 Thu 9.30 AM - 10.45 AM at 12WV L114"
+                }
+            ],
+            "course_name": "Nursing Cohort Seminar",
+            "description": "NURSE-UN    4 Nursing Cohort Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "NURSE-UN 5",
+            "course_name": "Current Trends Nurse Pract",
+            "description": "NURSE-UN    5 Current Trends Nurse Pract \n30 hours. 2 credits. This course considers issues and trends in current professional nursing practice.  Historical development of the profession will be reviewed.  Issues covered will include current health care financing, the impact of the nursing shortage the effect of technology on nursing practice, and the on-going debate on entry level education.  On-site experience will provide opportunities to learn about the emerging roles in nursing in health care facilities in New York City.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 70",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20052",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "SILV 405"
+                }
+            ],
+            "course_name": "Anatomy & Physiology",
+            "description": "NURSE-UN   70 Anatomy & Physiology \n45 hours lecture plus lab. 3 credits. The course focuses on the structure and function of the human body and how it affects health and wellbeing. The structure and function of each body system is studied and their inter-relationships explained.",
+            "offering": true
+        },
+        {
+            "course_id": "NURSE-UN 75",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20053",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "19W4 101"
+                }
+            ],
+            "course_name": "",
+            "description": "NURSE-UN   75\n\n   Microbiology\n\n45 hours lecture.  3 credits. This course introduces the principles of the infectious disease process with respect to the properties of infectious agents, modes of transmission, manifestations of infections, their prevention and treatment, and the properties of the immune system. Major infectious disease45 hours lecture.  3 credits. This course introduces the principles of the infectious disease process with respect to the properties of infectious agents, modes of transmission, manifestations of infections, their prevention and treatment, and the properties of the immune system. Major infectio...\n\n      more description for NURSE-UN   75 \u00bb\n\n      \n\n\n\n45 hours lecture.  3 credits. This course introduces the principles of the infectious disease process with respect to the properties of infectious agents, modes of transmission, manifestations of infections, their prevention and treatment, and the properties of the immune system. Major infectious disease45 hours lecture.  3 credits. This course introduces the principles of the infectious disease process with respect to the properties of infectious agents, modes of transmission, manifestations of infections, their prevention and treatment, and the properties of the immune system. Major infectious diseases in humans, including the methods used for their identification in the clinical lab, are covered. Modes of transmission are described, as well as  treatments and prevention. The application of principles of microbiology to the work of health professionals is also discussed.\n\n      less description for NURSE-UN   75 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "NURSE-UN 80",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20054",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "5WP 101"
+                }
+            ],
+            "course_name": "Statistics I",
+            "description": "NURSE-UN   80 Statistics I \n45 hours lecture. 3 credits. This course is an introduction for undergraduate students into the field of statistics as it is used in nursing, epidemiology, public health, and clinical research. It will concentrate on understanding what the statistics are used for and what they tell us rather than mathematical theory. Knowledge of high school algebra is assumed.",
+            "offering": true
+        },
+        {
+            "course_id": "NURSE-UN 120",
+            "course_name": "Ther/Res Base Nrsng Prac",
+            "description": "NURSE-UN  120 Ther/Res Base Nrsng Prac \n45 hours lecture. 3 credits. The course focuses on the conceptual and research development of nursing knowledge that forms the basis of evidence-based practice. Areas of nursing inquiry currently investigated are presented. The validity of quantitative and the conformability of qualitative methods used to answer nursing research questions are discussed. Students critically evaluate current nursing research and assess applicability to clinical practice. They also evaluate and assess applicability of related research reported in the media.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 239",
+            "course_name": "Health Assessment & Promotion",
+            "description": "NURSE-UN  239 Health Assessment & Promotion \n22.5 hours lecture plus lab. 3 credits. This course focuses on the development of comprehensive health assessment skills, including measures of physical and functional status, documentation of the assessment findings, and health promotion strategies for each body system. Considerations of racial and cultural differences are discussed with respect to health assessment as well as health promotion strategies.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 240",
+            "course_name": "Adult & Elder Nursing I",
+            "description": "NURSE-UN  240 Adult & Elder Nursing I \n45 hours lecture plus clinical and lab. 6 credits. This course focuses on the development of the concepts and skills used by the professional nurse. Using nursing theory, students apply the nursing process and nursing skills in the on-campus laboratory practice and in the care of adult clients and their significant others in clinical settings such as acute care facilities and skilled nursing facilities.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 241",
+            "course_name": "Acute Care Psych Nrse",
+            "description": "NURSE-UN  241 Acute Care Psych Nrse \n22.5 hours lecture plus clinical. 3 credits. This course focuses on bio-psychosocial models as a perspective for viewing health promotion of persons and groups experiencing vulnerabilities and alterations in mental health across the life span. The nursing process is applied to individuals and groups in acute care mental health settings.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 252",
+            "course_name": "Theoretical Bases in Nursing Science",
+            "description": "NURSE-UN  252 Theoretical Bases in Nursing Science",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1000",
+            "course_name": "Independent Study:",
+            "description": "NURSE-UN 1000 Independent Study:",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1003",
+            "course_name": "Comp Health Systems",
+            "description": "NURSE-UN 1003 Comp Health Systems \n45 hours: 3 credits. The course examines the delivery of health services in the United States drawing on social, historical, behavioral, and health sciences to examine the antecedents of health care in the U.S.? Aspects of the U.S. system in comparison to systems in other Western and non-Western countries are evaluated.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1200",
+            "course_name": "Independent Study",
+            "description": "NURSE-UN 1200 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1234",
+            "course_name": "Community Nursing Simulation",
+            "description": "NURSE-UN 1234 Community Nursing Simulation",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1241",
+            "course_name": "Adult & Elder Nursing II",
+            "description": "NURSE-UN 1241 Adult & Elder Nursing II \n45 hours lecture plus clinical and lab. 6 credits. The focus of this course is on professional nursing care for individuals and their significant others experiencing acute and/or chronic illness. The nursing process is applied in caring for adults and their significant others across health care settings such as the hospital, skilled nursing facilities, and home care.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1242",
+            "course_name": "Maternity Nursing",
+            "description": "NURSE-UN 1242 Maternity Nursing \n22.5 hours lecture plus clinical and Recitation. 3 credits. This course focuses on providing a nursing process framework for examining families in the childbearing years. Individual, societal, cultural, and environmental variables and health care disparities relating to childbearing and parenting are identified. Delivery of nursing care to pregnant, laboring, and postpartum mothers and their newborns is the clinical focus, with a goal of maximizing the health potential of young families.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1243",
+            "course_name": "Adult & Elder Nursing III",
+            "description": "NURSE-UN 1243 Adult & Elder Nursing III \n45 hours lecture plus clinical and Lab. 6 credits. This course focuses on the interactions among aging, disease, functional ability, the environment, and health disparities of adults and elders. Emphasis is placed on the application of the nursing process to health promotion/maintenance and disease management relating to orthopedics, neurology, cognition and decision making, genitourinary, rehabilitation, immune dysfunction, and elimination in the adult and older adult populations.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1244",
+            "course_name": "",
+            "description": "NURSE-UN 1244\n\n   Community Health Nursing\n\n45 hours lecture plus clinical. 5 credits. This course focuses on understanding and applying the theoretical principles of and evidence base for public health nursing to culturally competent, community health nursing practice and professional role development. The focus of community health nursing practice is on protecting and enhancing the health of communities and humanly diverse populations, including those at risk and those challenged by health disparities, developmental needs, and mental health concerns and for clients living with poverty. Emphasis is placed on health promotion, health ca...\n\n      more description for NURSE-UN 1244 \u00bb\n\n      \n\n\n\n45 hours lecture plus clinical. 5 credits. This course focuses on understanding and applying the theoretical principles of and evidence base for public health nursing to culturally competent, community health nursing practice and professional role development. The focus of community health nursing practice is on protecting and enhancing the health of communities and humanly diverse populations, including those at risk and those challenged by health disparities, developmental needs, and mental health concerns and for clients living with poverty. Emphasis is placed on health promotion, health care policy, and ethics.\n\n      less description for NURSE-UN 1244 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1245",
+            "course_name": "",
+            "description": "NURSE-UN 1245\n\n   Leadership & Management in Nursing\n\n45 hours lecture plus clinical and Lab: 5 credits. The goal of this course is to facilitate the paradigm shift from student to professional nurse. The focus is on the understanding, synthesis, and application of the evidence- base for using leadership and management principles in prioritizing and delivering nursing care to groups of patients as a team member within the health care organization. The course prepares the student nurse for entry into professional nursing practice after graduation. It addresses health policy, economic issues, and the integration of ethical and legal aspects of care...\n\n      more description for NURSE-UN 1245 \u00bb\n\n      \n\n\n\n45 hours lecture plus clinical and Lab: 5 credits. The goal of this course is to facilitate the paradigm shift from student to professional nurse. The focus is on the understanding, synthesis, and application of the evidence- base for using leadership and management principles in prioritizing and delivering nursing care to groups of patients as a team member within the health care organization. The course prepares the student nurse for entry into professional nursing practice after graduation. It addresses health policy, economic issues, and the integration of ethical and legal aspects of care.\n\n      less description for NURSE-UN 1245 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1246",
+            "course_name": "",
+            "description": "NURSE-UN 1246\n\n   Complex Health Topics in Nursing Care\n\n45 hours: 3 credits. This course prepares students to assess the patient with a complex, critical illness and deliver holistic, patient-centered, evidence-based nursing care. Utilizing the Synergy Model as a theoretical framework, students will link nurse competencies with patient characteristics to promote improved patient outcomes.  The class will assist students to understand and integrate knowledge of patho-physiologic concepts, mechanical ventilation, advanced hemodynamic monitoring, and interpretation of electrocardiographic monitoring, to emphasize patient assessment, treatment and eval...\n\n      more description for NURSE-UN 1246 \u00bb\n\n      \n\n\n\n45 hours: 3 credits. This course prepares students to assess the patient with a complex, critical illness and deliver holistic, patient-centered, evidence-based nursing care. Utilizing the Synergy Model as a theoretical framework, students will link nurse competencies with patient characteristics to promote improved patient outcomes.  The class will assist students to understand and integrate knowledge of patho-physiologic concepts, mechanical ventilation, advanced hemodynamic monitoring, and interpretation of electrocardiographic monitoring, to emphasize patient assessment, treatment and evaluation of outcomes.  The student will learn to apply the nursing process as they collect, analyze, synthesize and interpret patient data and clinical information, establish priorities for the care of a critically ill patient, and develop a patient-centered, evidence-based collaborative plan of care for a patient and  his/her family.   The importance of the critical care nurse as patient advocate within the multidisciplinary team will be examined and strategies to improve communication between the team and the family will be discussed.\n\n      less description for NURSE-UN 1246 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1247",
+            "course_name": "Foundations of Genetics and Genomics for Health Care",
+            "description": "NURSE-UN 1247 Foundations of Genetics and Genomics for Health Care",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1253",
+            "course_name": "Community Nursng for Rns",
+            "description": "NURSE-UN 1253 Community Nursng for Rns",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1254",
+            "course_name": "Nursing Science VI: Leadership",
+            "description": "NURSE-UN 1254 Nursing Science VI: Leadership",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1255",
+            "course_name": "",
+            "description": "NURSE-UN 1255\n\n   Pediatric Nursing\n\n45 hours Lect Plus Clinical and Lab: 5 credits.This course provides a family theory and nursing process framework for examining families in the child-rearing years from infancy through adolescence. Individual, societal, cultural, and environmental variables and health care disparities relating to childrearing and parenting are identified. Delivery of nursing care adapted to the unique health and developmental needs of children and th45 hours Lect Plus Clinical and Lab: 5 credits.This course provides a family theory and nursing process framework for examining families in the child-rearing years...\n\n      more description for NURSE-UN 1255 \u00bb\n\n      \n\n\n\n45 hours Lect Plus Clinical and Lab: 5 credits.This course provides a family theory and nursing process framework for examining families in the child-rearing years from infancy through adolescence. Individual, societal, cultural, and environmental variables and health care disparities relating to childrearing and parenting are identified. Delivery of nursing care adapted to the unique health and developmental needs of children and th45 hours Lect Plus Clinical and Lab: 5 credits.This course provides a family theory and nursing process framework for examining families in the child-rearing years from infancy through adolescence. Individual, societal, cultural, and environmental variables and health care disparities relating to childrearing and parenting are identified. Delivery of nursing care adapted to the unique health and developmental needs of children and their families is the clinical focus, with a goal of maximizing the health potential of young families. There is a strong health promotion, risk reduction, and disease prevention component.\n\n      less description for NURSE-UN 1255 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1261",
+            "course_name": "",
+            "description": "NURSE-UN 1261\n\n   Professional Nursing\n\n45 hours: 3 credits. This course explores historical assumptions about nursing as a basis for understanding professional roles and the image of nursing in today?s society. Nursing is identified as a learned, valued profession; emphasis is on the influence of history in its evolution. Contemporary nursing workforce, educational trends, and practice issues are explored as primary factors in professional status. Ethical and legal aspects of nursing practice are discussed. Political and economic factors shaping nursing practice in the health care delivery system are defined, evaluated, and compare...\n\n      more description for NURSE-UN 1261 \u00bb\n\n      \n\n\n\n45 hours: 3 credits. This course explores historical assumptions about nursing as a basis for understanding professional roles and the image of nursing in today?s society. Nursing is identified as a learned, valued profession; emphasis is on the influence of history in its evolution. Contemporary nursing workforce, educational trends, and practice issues are explored as primary factors in professional status. Ethical and legal aspects of nursing practice are discussed. Political and economic factors shaping nursing practice in the health care delivery system are defined, evaluated, and compared to other health systems.\n\n      less description for NURSE-UN 1261 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1264",
+            "course_name": "Interdidc Concepts in Nursing",
+            "description": "NURSE-UN 1264 Interdidc Concepts in Nursing",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1265",
+            "course_name": "Sr Nrsg Prac:Applic of Interdisc Concepts Nrsg",
+            "description": "NURSE-UN 1265 Sr Nrsg Prac:Applic of Interdisc Concepts Nrsg",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1267",
+            "course_name": "Nursing Care of Unitary Human Being",
+            "description": "NURSE-UN 1267 Nursing Care of Unitary Human Being",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1301",
+            "course_name": "Global Perspt Child Hlth",
+            "description": "NURSE-UN 1301 Global Perspt Child Hlth \n45 hours: 3 credits. This course explores the bio-psychosocial, environmental, political and economic forces that influence the health of children in developed and developing countries. Health disparities and access to care will be assessed and analyzed as factors in promoting optimal health for all children world wide.  The importance of national and inter-national  health organizations to promote global childhood health will be explored along with the role of nurses and other health care professionals.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1302",
+            "course_name": "Oncology Nursing",
+            "description": "NURSE-UN 1302 Oncology Nursing \n45 hours: 3 credits. This course focuses on the application of concepts and skills that professional nurses need to provide care for adult patients with cancer and to improve patient outcomes. Theories and research will be analyzed in the context of evidence-based practice in terms of best practices related to assessing, developing nursing diagnosis and treatment plans for managing symptoms associated with cancer and treatment.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1303",
+            "course_name": "",
+            "description": "NURSE-UN 1303\n\n   Comfort & Suffering\n\n45 hours: 3 credtis. The purpose of this seminar is to explore the nature of comfort and suffering as a human experience. This seminar will challenge you to think critically about what our society considers fair and just care, and require you full and active participation as seminar participants. We will examine related readings through the lens of the health care system paradigm, and will use case studies to explore the wellness-illness continuum of human experiences. Students will become familiar with conceptual frameworks used by nurses, physicians, and social workers as they assist patient...\n\n      more description for NURSE-UN 1303 \u00bb\n\n      \n\n\n\n45 hours: 3 credtis. The purpose of this seminar is to explore the nature of comfort and suffering as a human experience. This seminar will challenge you to think critically about what our society considers fair and just care, and require you full and active participation as seminar participants. We will examine related readings through the lens of the health care system paradigm, and will use case studies to explore the wellness-illness continuum of human experiences. Students will become familiar with conceptual frameworks used by nurses, physicians, and social workers as they assist patients through the illness experience, which is continually balanced between comfort and suffering.  Our discussions on the nature of comfort and suffering will focus on writings from a variety of sources including ancient works such as the Bible and the Koran, which will be contrasted with contemporary editorials and publications, in order to examine historical changes in the way individuals think about these important dimensions of the human experience.\n\n      less description for NURSE-UN 1303 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1304",
+            "course_name": "Rural Nursing",
+            "description": "NURSE-UN 1304 Rural Nursing",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1305",
+            "course_name": "Global Perspectives on Women's Health",
+            "description": "NURSE-UN 1305 Global Perspectives on Women's Health",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1306",
+            "course_name": "Professional Nursing/Social Change: Principles/Practices of Social Entrepreneurship",
+            "description": "NURSE-UN 1306 Professional Nursing/Social Change: Principles/Practices of Social Entrepreneurship",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1307",
+            "course_name": "Perioperative Nursing",
+            "description": "NURSE-UN 1307 Perioperative Nursing",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1309",
+            "course_name": "Complex Care of the Older Adult II",
+            "description": "NURSE-UN 1309 Complex Care of the Older Adult II",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1399",
+            "course_name": "Topics: Epidem of Infect Dis in Marginal Popul",
+            "description": "NURSE-UN 1399 Topics: Epidem of Infect Dis in Marginal Popul",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1435",
+            "course_name": "Pathophysiology",
+            "description": "NURSE-UN 1435 Pathophysiology \n45 hours: 3 credits. Emphasis is placed on the relationship of usual health patterns of major body systems to changes that occur during the illness experience. Major pathophysiologic concepts are explored using a body systems approach. Theories relating etiology, pathogenesis, and clinical manifestations are used to study common disease processes. Concepts from anatomy, physiology, and chemistry courses provide the foundation for exploring human dysfunction. Concepts learned in this course are basic to nursing practice.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1436",
+            "course_name": "Nrsg Pharmacotherapeutic",
+            "description": "NURSE-UN 1436 Nrsg Pharmacotherapeutic \n45 hours: 3 credits. This course provides students with the knowledge of pharmacologic preparations used in the maintenance of health and prevention of illness. The content focuses on the drug actions, therapeutic response, patient-teaching responsibilities, and nursing implications in identifying areas of side effects, adverse effects, drug interactions, and safe administration of medications for patients of diverse racial and cultural backgrounds. Evidence-based research and legal/ethical issues are also addressed in the context of the nurse?s role in pharmacotherapy.",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1437",
+            "course_name": "Scientific Methods in Nursing",
+            "description": "NURSE-UN 1437 Scientific Methods in Nursing",
+            "offering": false
+        },
+        {
+            "course_id": "NURSE-UN 1500",
+            "course_name": "Special Topics",
+            "description": "NURSE-UN 1500 Special Topics",
+            "offering": false
+        }
+    ]
+}

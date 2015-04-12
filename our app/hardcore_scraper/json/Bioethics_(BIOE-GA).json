@@ -1,0 +1,166 @@
+{
+    "major_id": "BIOE-GA",
+    "file": "./2015-2016/Bioethics_(BIOE-GA).html",
+    "courses": [
+        {
+            "course_id": "BIOE-GA 1005",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1666",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 566B",
+                    "time": "Tue 6.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Rini, Regina"
+                }
+            ],
+            "course_name": "Advanced Introduction to Bioethics",
+            "description": "BIOE-GA 1005 Advanced Introduction to Bioethics",
+            "offering": true
+        },
+        {
+            "course_id": "BIOE-GA 1006",
+            "course_name": "Advanced Introduction to Environmental Ethics",
+            "description": "BIOE-GA 1006 Advanced Introduction to Environmental Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 1008",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2208",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Mon 6.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Liao, Sen-Jee"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "16689",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                }
+            ],
+            "course_name": "Topics in Bioethics:Justice in Health & HealthcareMoral Indeterminacy",
+            "description": "BIOE-GA 1008 Topics in Bioethics:Justice in Health & HealthcareMoral Indeterminacy",
+            "offering": true
+        },
+        {
+            "course_id": "BIOE-GA 1011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1667",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Cromar, Kevin"
+                }
+            ],
+            "course_name": "Global Issues in Environmental Health",
+            "description": "BIOE-GA 1011 Global Issues in Environmental Health",
+            "offering": true
+        },
+        {
+            "course_id": "BIOE-GA 1165",
+            "course_name": "Research Ethics:",
+            "description": "BIOE-GA 1165 Research Ethics:",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 1170",
+            "course_name": "Neuroethics",
+            "description": "BIOE-GA 1170 Neuroethics",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 1175",
+            "course_name": "Life and Death",
+            "description": "BIOE-GA 1175 Life and Death",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 1178",
+            "course_name": "Philosophical Problems of Medicine",
+            "description": "BIOE-GA 1178 Philosophical Problems of Medicine",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 1211",
+            "course_name": "Health Policy Seminar",
+            "description": "BIOE-GA 1211 Health Policy Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 1797",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1809",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.00 PM - 1.15 PM",
+                    "open": true,
+                    "professor": "GCASL 38309/02/2015 - 12/15/2015 Tue 2.00 PM - 3.15 PM at GODD B02"
+                }
+            ],
+            "course_name": "Health Law",
+            "description": "BIOE-GA 1797 Health Law",
+            "offering": true
+        },
+        {
+            "course_id": "BIOE-GA 2222",
+            "course_name": "Clinical Ethics",
+            "description": "BIOE-GA 2222 Clinical Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "BIOE-GA 3000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1668",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "BIOE-GA 3000 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "BIOE-GA 3555",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1801",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": "BOBS LL140",
+                    "time": "Thu 6.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Liao, Sen-Jee"
+                }
+            ],
+            "course_name": "Bioethics Practicum",
+            "description": "BIOE-GA 3555 Bioethics Practicum",
+            "offering": true
+        }
+    ]
+}

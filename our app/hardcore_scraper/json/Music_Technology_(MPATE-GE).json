@@ -1,0 +1,701 @@
+{
+    "major_id": "MPATE-GE",
+    "file": "./2015-2016/Music_Technology_(MPATE-GE).html",
+    "courses": [
+        {
+            "course_id": "MPATE-GE 2013",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "3784",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Tucker, Allan",
+                    "time": "Wed 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Audio Mastering",
+            "description": "MPATE-GE 2013 Audio Mastering \nAn exploration of advanced techniques in professional mastering and compact disc preparation with an emphasis on Sonic Solution's Digital Audio Workstation.  In addition to hands-on experience, students receive extensive training in digital signal processing and audio editing.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2036",
+            "course_name": "Adv Musical Acoust",
+            "description": "MPATE-GE 2036 Adv Musical Acoust \nA continuation of the principles covered in E85.1035.  The semester is divided into three modules - Room Acoustics, Physics of Vibration and Issues in Synthesis and Sound Design - designed to address critical yet broad areas concerning the science and art of producing sound in space. Students are responsible for hands-on projects on each modules, quizzes on reading assignments and a final project.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2037",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "3791",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cohen, Jean-Luc",
+                    "time": "Thu 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Software Synthesis",
+            "description": "MPATE-GE 2037 Software Synthesis \nAn introduction to Cecilia and Sound as well as other silicon graphic sound applications. (Appropriate UNIX experience is required for SIG applications) Programming knowledge acquired is then applied to sound processing, composition, and mixing. A final project is required which may include a composition or a programming project for one of the above software.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2038",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4131",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Subotnick, Morton",
+                    "time": "Mon 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Creating With Interact Media",
+            "description": "MPATE-GE 2038 Creating With Interact Media \nA study of the principles and practice of interactive media; surveying strategies, aesthetics, techniques, and software. Various works will be analyzed for insight into creative process as applied to interactive media. Resources utilized include the Yamaha Disclavier and Nights Multimedia facilities.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2047",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "3796",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Park, Tae Hong",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "3797",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Chadabe, Joel",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Computer Music Composition",
+            "description": "MPATE-GE 2047 Advanced Computer Music Composition \nAdvanced computer music composition, incorporating aesthetic and technical considerations on multiple levels. With access to the Departmental studios, as well as the multimedia facilities of the Art Technology Studio, seminar participants work on a series of projects leading to a short composition to be presented at a public concert.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2300",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4227",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Peacock, Kenneth",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4326",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Geluso, Paul",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MPATE-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point.  Independent study cannot be applied to the established professional education sequence in teaching curricula.  Each departmental program has established its own maximum credit allowance for independent study.  This information may be obtained from a student's  department prior to registering for independent study, each student obtain an independent study approval from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2590",
+            "course_name": "Introduction to Music Technology/Non-Majors",
+            "description": "MPATE-GE 2590 Introduction to Music Technology/Non-Majors \nA general introduction to the fundamental concepts of music technology, including: sound propagation, the principles of microphone operation, the use of speakers and mixers, the MIDI standard and its implementation, the basics of digital systems, waveform editing and audio file formats and compression. The lectures will be complemented by practical assignments and demonstrations, through which students will gain a basic understanding of how to use technology to enhance and demonstrate their musical work.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2598",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "4002",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Esparza, Tlacael",
+                    "time": "Fri 10.00 AM - 11.40 AM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4003",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Mohanraj, Hariharan",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fundamentals of Digital Signal Theory Lab",
+            "description": "MPATE-GE 2598 Fundamentals of Digital Signal Theory Lab \nHands-on lab accompanying Fundamentals of Digital Signal Theory Lab E85.2599. Lab sessions will contain exercises and implementation in Matlab to reinforce topics including signal representation, Fourier transform, spectrum analysis, transfer functions, convolution, and filtering",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2599",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4004",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Madden, Andrew",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fundamentals of Digital Signal Theory",
+            "description": "MPATE-GE 2599 Fundamentals of Digital Signal Theory \nTheoretical and practical foundations for digital signal processing. Topics covered include signal representation in time and frequency domains. Fourier transform, spectrum analysis, transfer functions, convolution, filter theory and implementation. Lectures are reinforced with a co-requisite weekly lab using Matlab.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2600",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4005",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Peacock, Kenneth",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Mus Tech Digi Aud Proc I",
+            "description": "MPATE-GE 2600 Mus Tech Digi Aud Proc I \nStudy of the theoretical foundations of digital audio processing through lecture as well as student review and discussion of the writings of prominent researchers in the field.  Participants research several topics in this broad area that are specifically related to their personal educational interest.  Short written/oral reports as well as a final presentation provide students the opportunity to share their discoveries with the group.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2601",
+            "course_name": "Mus Tech Dig Aud Proc II",
+            "description": "MPATE-GE 2601 Mus Tech Dig Aud Proc II \nContinuation of the study of digital audio processing techniques through the analysis of digital processing systems.  The seminar format of Digital Audio Processing I is continued, with discussions of current literature and development.  Short reports and a final presentation are required.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2602",
+            "course_name": "Comm Mus Into Deliv Sgst",
+            "description": "MPATE-GE 2602 Comm Mus Into Deliv Sgst \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2603",
+            "course_name": "Digitally Controlled Music Systems",
+            "description": "MPATE-GE 2603 Digitally Controlled Music Systems \nProgramming for MIDI devices using MAX and csound as well as other software is explored.  Design and implementation of sequences, interface drivers, and interactive multimedia are implemented.  A basic knowledge of computer programming is required.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2604",
+            "course_name": "Game Audio I",
+            "description": "MPATE-GE 2604 Game Audio I \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2605",
+            "classes": [
+                {}
+            ],
+            "course_name": "Grad Intern Music Tech",
+            "description": "MPATE-GE 2605 Grad Intern Music Tech \nAssignment to studios, mastering labs, or other music technology-related firms for advanced on-the-job training.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2607",
+            "course_name": "Digital Signal Theory",
+            "description": "MPATE-GE 2607 Digital Signal Theory \nTheoretical and practical foundations for programming and digital signal processing at an advanced level.  Topics covered include signal and system representation, time and frequency domains, phase vocoding, and filter theory and implementation.  Lectures, covering concepts important to the implementation of DSP, are reinforced with assignments utilizing MATLAB to digitally manipulate sound files.  A background in mathematics and computer programming is recommended, but not required.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2608",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4007",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Didkovsky, Nicholas",
+                    "time": "Tue 3.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Java Music Systems",
+            "description": "MPATE-GE 2608 Java Music Systems \nExplores real-time music using two new JAVA music technologies: JMSL and JYSN. JAVA Music Specification Language (JMSL) is a programming environment for experiments in music performance, algorithmic composition, and intelligent music design. JYSN is a software package with which the programmer/composer can build virtual musical instruments. JSYN delivers CD-quality stereo audio in real-time. Students will be programming extensively in JAVA and should be prepared to spend considerable time outside class developing their software.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2609",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4008",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Naphtali, Dafna"
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4523",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Naphtali, Dafna"
+                }
+            ],
+            "course_name": "Electronic Music Performance",
+            "description": "MPATE-GE 2609 Electronic Music Performance \nThrough discussions with guest performers, students study the conceptualization and production of live electronics performance pieces.  Individual proposals for several pieces are created, followed by a final live performance project, in which live electronics are an integral part of the concept.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2610",
+            "course_name": "Advanced Max/Msp/ Jitter Programming",
+            "description": "MPATE-GE 2610 Advanced Max/Msp/ Jitter Programming \nAs a follow-up to MIDI II: Intro to Mx/MSP, this course will focus on the creation of a larger and more intricate programming projects -- for building useable and robust interactive music performance environments, algorithmic composition systems and sound installations -- including live audio and video processing/analysis using Mx/MSP/Jitter. Frequent student presentation of current or completed projects. Designed for composers, performers, audio programmers and engineers.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2611",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4009",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Doczi, Thomas",
+                    "time": "Tue 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4010",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Doczi, Thomas",
+                    "time": "Wed 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Concert Recording I",
+            "description": "MPATE-GE 2611 Concert Recording I \nIntroduction to the concepts of the live concert recording.  Microphone selection, characteristics, and placement, as well as the acoustic problems encountered in concert halls will be discussed.  Students will have the opportunity to apply the lecture material by recording undergraduate rehearsals and recitals.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2612",
+            "course_name": "Concert Recording II",
+            "description": "MPATE-GE 2612 Concert Recording II \nAdvanced techniques in concert recording.  Topics include refinement of microphone placement and the use of artificial reverberation techniques to enhance the natural acoustics of concert halls.  Students will have the opportunity to apply lecture material by recording graduate and faculty concerts.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2613",
+            "course_name": "3 D Audio",
+            "description": "MPATE-GE 2613 3 D Audio \nAn interdisciplinary course about the theory, techniques and applications of 3D and spatial audio. Topics include the psychoacoustics of directional hearing, physical acoustics of spatial sound, stereo and multi-speaker sound reproduction, and spatial sound applications in virtual reality and other fields.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2614",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4011",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Fried, Joshua",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Max Programming I",
+            "description": "MPATE-GE 2614 Max Programming I \nProgramming for MIDI, C, and other appropriate techniques. Design and implementation of software sequencers, interface drivers, and hardware applications will be the focus.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2615",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4132",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Walker, Saul"
+                }
+            ],
+            "course_name": "Electronics By Computer Simulation",
+            "description": "MPATE-GE 2615 Electronics By Computer Simulation",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2616",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "4012",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Roginska, Agnieszka",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Colloquium",
+                    "class_id": "4828",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Colloquium",
+                    "class_id": "4828",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Colloquy in Music Tech",
+            "description": "MPATE-GE 2616 Colloquy in Music Tech \nThe final masters project in Music Technology reflects some contribution to the field, and will bring together the student's class work experience and interests during the two year Masters program.  Possible directions include documented performance techniques, analysis or software applications/development to music.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2617",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "4480",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Nieto-Caballero, Oriol",
+                    "time": "Mon 1.00 PM - 2.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "C Programming for Music Technology Lab",
+            "description": "MPATE-GE 2617 C Programming for Music Technology Lab \nC programming for music technology lab is taken concurrently with MPATE-GE 2618 & provides students with hands-on instruction in algorithmic design & general programming concepts. Example code is implemented, discussed, & demonstrated in detail in order to provide students with step-by-step examples of programming design paradigms",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2618",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4133",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Nieto-Caballero, Oriol",
+                    "time": "Tue,Thu 1.00 PM - 2.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "C Programming for Music Technology",
+            "description": "MPATE-GE 2618 C Programming for Music Technology \nA graduate-level introductory course in programming for audio & music applications. Extensive C programming assignments cover topics including software designs, algorithms, & data representation for digital signal processing & other audio applications. No prior programming experience is required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2619",
+            "course_name": "Live Sound Reinforcement",
+            "description": "MPATE-GE 2619 Live Sound Reinforcement \nA focus on basic knowledge of live sound reinforcement; applicable to interested students in music theatre, or the performing arts. Course topics introduce mixing consoles, room EQ, speakers, amplification, systems, monitoring systems and electrical requirements, as appropriate to the field.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2620",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4182",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Diaz-Cassou, Isabel",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4013",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Diaz-Cassou, Isabel",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4014",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Crawford, Langdon",
+                    "time": "Wed 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Audio for Video I",
+            "description": "MPATE-GE 2620 Audio for Video I \nAn introduction to the concepts and applications of audio production for video, television and film.  Current production techniques frequently used in the post-production industry will be explored with special emphasis on synchronization and the interfacing of SMPTE time code, and multi-track audio-sweetening techniques including music editing, sound effects design, foley, and dialog replacement.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2621",
+            "course_name": "Audio for Video II",
+            "description": "MPATE-GE 2621 Audio for Video II \nA continuation of E85.2620. This is an advanced detailed study of the audio-visual production and post-production process including digital recording techniques with special emphasis on synchronization and the interfacing of SMPTE time code. Multi-track audio-sweetening techniques including music editing, sound effects design, foley and playback will be discussed, as well as other issues that concern stare-of-the-art post-production.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2623",
+            "course_name": "Music Info Retrieval",
+            "description": "MPATE-GE 2623 Music Info Retrieval \nComprehensive overview of research in the multi-disciplinary field of Music Information Retrieval (MIR) which uses knowledge from diverse areas such as signal processing, machine learning and information and music theory. Exploration of how this knowledge can be used to develop novel methodologies for browsing and retrieval of large music collections. Emphasis would be given to audio signal processing techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2624",
+            "course_name": "Comp Music Snythesis: Fundamental Techniques",
+            "description": "MPATE-GE 2624 Comp Music Snythesis: Fundamental Techniques \nIntroduction for teachers, composers, and performers to explore potentials of computer music synthesis.  Basic concepts of music synthesis presented through the use of a microcomputer, keyboard, and appropriate software.  System may be used as a real-time performance instrument or as a studio composition instrument.  Educators may explore potentials for classroom application.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2626",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4846",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Roginska, Agnieszka",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4845",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4845",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Thesis in Music Technology",
+            "description": "MPATE-GE 2626 Thesis in Music Technology \nMaster\u2019s thesis preparation & presentation class. The class will cover academic writing, research methods, testing with human subjects, data analysis, oral presentation techniques, & feature class discussions about published papers & theses. It will conclude with an oral thesis defense required of all graduating master\u2019s students.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2627",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4015",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Wojcik, Leszek",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Aesthetics of Recording",
+            "description": "MPATE-GE 2627 Aesthetics of Recording \nA critical listening study of music recordings developing the student's ability to define and evaluate aesthetic elements of recorded music, and discussion of the means to capture artistic performances.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2628",
+            "course_name": "Audio for The Web",
+            "description": "MPATE-GE 2628 Audio for The Web \nThis advanced course focuses on the technical development, production, and delivery of audio and multimedia content for the Internet using industry-standard tools and technologies. Topics include web dynamic applications, audio formats, internet protocols, audio compression, broadcasting and podcasting.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2629",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4016",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Pras, Amandine",
+                    "time": "Tue 6.45 PM - 9.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Audio Production",
+            "description": "MPATE-GE 2629 Adv Audio Production \nAn advanced examination of technology and production techniques related to recorded music. Topics include evaluating artistic elements of sound in audio reproductions, the listening space, sonic characteristics of analog and digital mediums, mono, stereo, quad and surround microphone techniques, signal processing and mixing.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2630",
+            "course_name": "Adv Topics Music Tech",
+            "description": "MPATE-GE 2630 Adv Topics Music Tech \nThis is an umbrella course that explores specific, topics in the area of audio engineering. Through class lectures, exercises, assignments and projects, students will gain a deep understanding of advanced areas in audio engineering.  Topics may include broadcasting, digital audio effects, mastering for specific applications, special techniques in sound recording, the art of sound reinforcement, technical ear training, and other related topics.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2631",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4017",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Fastenow, William",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Topics Music Tech: Art Sound Reinforcement",
+            "description": "MPATE-GE 2631 Adv Topics Music Tech: Art Sound Reinforcement \nThis course focuses on the theory, practice, and practical applications of sound reinforcement. Topics covered include specific microphone techniques, for live sound, audio system components and configuration, stage monitoring, film, and corporate events, permanent sound installation, and Broadway productions. Onsite visits will be included.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2632",
+            "course_name": "",
+            "description": "MPATE-GE 2632\n\n   Advanced Topics in Music Technology:  Introduction to Audio Coding\n\nThis course gives an introduction to the perceptual, signal processing elements from which digital audio codecs are built:  the human auditory system, hearing acuity, modeling of noise masking in human hearing & sound localization in space; filter banks, transforms, predictors, quantization & coding. Several aspects of audio perception that can be exploited for coding gain will be investigated:\nthe critical band structure of hearing, monophonic simultaneous masking, monophonic pre- & post-masking, stereo masking, lower acuity of hearing in the higher frequency band & perceptual\ncorrelates to...\n\n      more description for MPATE-GE 2632 \u00bb\n\n      \n\n\n\nThis course gives an introduction to the perceptual, signal processing elements from which digital audio codecs are built:  the human auditory system, hearing acuity, modeling of noise masking in human hearing & sound localization in space; filter banks, transforms, predictors, quantization & coding. Several aspects of audio perception that can be exploited for coding gain will be investigated:\nthe critical band structure of hearing, monophonic simultaneous masking, monophonic pre- & post-masking, stereo masking, lower acuity of hearing in the higher frequency band & perceptual\ncorrelates to sound localization in a 3-D space. These principles will be illustrated by investigating several MPEG audio coding architectures: MPEG-1 Layer III (MP3), MPEG-4 Advanced Audio Coding (AAC), MPEG-4 High-Efficiency Advanced Audio Coding (HE-AAC), MPEG Surround, MPEG Spatial Audio Object Coding (SAOC) & MPEG Unified Speech & Audio Coding (USAC). Students will create a complete audio codec as a final project.\n\n      less description for MPATE-GE 2632 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2633",
+            "course_name": "",
+            "description": "MPATE-GE 2633\n\n   Advanced Topics in Music Technology:  Multichannel Media Installation Performance\n\nMultichannel Media Installation & Performance is a course designed for composers & artists who want to work in a performance or installation context with immersive sound & image technology.  The course focuses on software & hardware workflows for the creative applications of multi-channel sound & immersive video for the creation of fixed, generative, reactive, performance-based, & interactive systems that can be experienced in a gallery context or a live performance.  Students will develop a semester-length project to use scale & immersion to creative effect.  The course will feature regular c...\n\n      more description for MPATE-GE 2633 \u00bb\n\n      \n\n\n\nMultichannel Media Installation & Performance is a course designed for composers & artists who want to work in a performance or installation context with immersive sound & image technology.  The course focuses on software & hardware workflows for the creative applications of multi-channel sound & immersive video for the creation of fixed, generative, reactive, performance-based, & interactive systems that can be experienced in a gallery context or a live performance.  Students will develop a semester-length project to use scale & immersion to creative effect.  The course will feature regular creative critique as well as an overview of relevant interaction design strategies for creating interactive spaces using sensors & cameras.\n\n      less description for MPATE-GE 2633 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2634",
+            "course_name": "",
+            "description": "MPATE-GE 2634\n\n   Adv Topics in Music Tech: Applications on iOS Platform\n\nThis course focuses on the development of applications on the iOS platform (e.g. iPhone), with an emphasis on audio engineering. The goal is to provide students with an understanding of the iOS development environment from a music technology perspective: its languages, its tools, its advantages, & its limitations. After this course, students should be ready to build their own stand-alone music apps & have a deeper understanding of low-level audio development. Course work will include several programming assignments designed to put concepts & ideas into practice, & a final project to capture a ...\n\n      more description for MPATE-GE 2634 \u00bb\n\n      \n\n\n\nThis course focuses on the development of applications on the iOS platform (e.g. iPhone), with an emphasis on audio engineering. The goal is to provide students with an understanding of the iOS development environment from a music technology perspective: its languages, its tools, its advantages, & its limitations. After this course, students should be ready to build their own stand-alone music apps & have a deeper understanding of low-level audio development. Course work will include several programming assignments designed to put concepts & ideas into practice, & a final project to capture a large portion of what they have learned in this course.\n\n      less description for MPATE-GE 2634 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2635",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4524",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cohen, Jean-Luc",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MPATE-GE 2635\n\n   Audio for Games and Immersive Environments\n\nThis course explores audio implementation & scripting/programming for interactive environments with an emphasis on gaming & the specific requirements & demands of this medium. Using code, visual scripting tools & professional level designer software, students will construct dynamic virtual environments, build interactive prototypes of complex audio objects, & learn techniques of interactive mixing for games & immersive environments. A hands-on approach will be used & students are encouraged to experiment with the tools & techniques discussed in class in new & creative ways.  The course is taug...\n\n      more description for MPATE-GE 2635 \u00bb\n\n      \n\n\n\nThis course explores audio implementation & scripting/programming for interactive environments with an emphasis on gaming & the specific requirements & demands of this medium. Using code, visual scripting tools & professional level designer software, students will construct dynamic virtual environments, build interactive prototypes of complex audio objects, & learn techniques of interactive mixing for games & immersive environments. A hands-on approach will be used & students are encouraged to experiment with the tools & techniques discussed in class in new & creative ways.  The course is taught using powerful tools, software & techniques in use throughout the gaming industry.\n\n      less description for MPATE-GE 2635 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2636",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4811",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Feynberg, Rebecca",
+                    "time": "Thu 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Topics Music Tech: History/Preservation Early Sound Rec",
+            "description": "MPATE-GE 2636 Adv Topics Music Tech: History/Preservation Early Sound Rec \nThis course traces the history of recording sound technologies from the earliest of pre phonograph devices up until the development of magnetic tape. Examination & live demonstrations of these formats will be implemented, familiarizing students with handling, identification, & playback of some of the tools & mediums used to record sound in the 19th & early 20th centuries. Current best practices & methods for preserving these recordings will be covered and demonstrated.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 2640",
+            "course_name": "Issues and Strategies in Creating/Performing Electronic Music",
+            "description": "MPATE-GE 2640 Issues and Strategies in Creating/Performing Electronic Music \nThe course will offer a historic & practical foundation for understanding & identifying the issues surrounding the creation of music with new technology. The lectures will present a series of alternative strategies in composing & performing with digitally assisted analog equipment. The ongoing class assignments will support both technical & cognitive understanding & usage of the hybrid approach.  The resources will be: The Buchla 200e synth, Ableton Live, ProTools & Korg Nano MIDI Controllers.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-GE 2650",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4810",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Geluso, Paul",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ear Training for Audio Engineers",
+            "description": "MPATE-GE 2650 Ear Training for Audio Engineers \nThis course will examine theories & techniques related to analyzing recorded & environmental sounds. Students will sharpen listening skills with comprehensive ear training exercises & guided  listening explorations. Topics include frequency discrimination, reverberation, dynamics, distortion, sonic effects, sound ecology & other related topics.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 3060",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4030",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Park, Tae Hong",
+                    "time": "Wed 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Symposium in Music Technology",
+            "description": "MPATE-GE 3060 Doctoral Symposium in Music Technology \nFocuses on current issues in the field and brings to bear various research methodologies in reviewing current literature and developing novel approaches to the underlying problem.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-GE 9555",
+            "course_name": "",
+            "description": "MPATE-GE 9555\n\n   Sound Spatialization/Synthesis/Computer-Aided Composition\n\nCourse Description: This course focuses on three important areas in music\ntechnology: spatialization, computer aided composition, analysis &\nsynthesis techniques. In each area, concepts & implementations will be\nexplored in a variety of artistic & technological contexts. Students will\nwork with the latest technologies including IRCAM Tools, Spat plugin, Max\nBach library, Ambisonics, & Wave Field Synthesis. The course includes a\n3-hour weekly lecture, 3-hour studio lab, & workshops at IRCAM. This course\nis taught in collaboration with IRCAM in Paris, one of the world leading\ninstitutions in com...\n\n      more description for MPATE-GE 9555 \u00bb\n\n      \n\n\n\nCourse Description: This course focuses on three important areas in music\ntechnology: spatialization, computer aided composition, analysis &\nsynthesis techniques. In each area, concepts & implementations will be\nexplored in a variety of artistic & technological contexts. Students will\nwork with the latest technologies including IRCAM Tools, Spat plugin, Max\nBach library, Ambisonics, & Wave Field Synthesis. The course includes a\n3-hour weekly lecture, 3-hour studio lab, & workshops at IRCAM. This course\nis taught in collaboration with IRCAM in Paris, one of the world leading\ninstitutions in computer music and acoustics\n\n      less description for MPATE-GE 9555 \u00ab",
+            "offering": false
+        }
+    ]
+}

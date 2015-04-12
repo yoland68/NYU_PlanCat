@@ -1,0 +1,649 @@
+{
+    "major_id": "IE-GY",
+    "file": "./2015-2016/Industrial_Engineering_(IE-GY).html",
+    "courses": [
+        {
+            "course_id": "IE-GY 531",
+            "course_name": "INTRO DIGITAL COMPUTING",
+            "description": "IE-GY  531 INTRO DIGITAL COMPUTING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 600",
+            "course_name": "ENGINEERING ECONOMY",
+            "description": "IE-GY  600 ENGINEERING ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 601",
+            "course_name": "INTRO TO DGTL COMPUTERS",
+            "description": "CS-GY  531 | IE-GY  601 INTRO TO DGTL COMPUTERS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 606",
+            "course_name": "WORK DSGN & MEASUREMENT",
+            "description": "IE-GY  606 WORK DSGN & MEASUREMENT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 607",
+            "course_name": "ANALY METHODS",
+            "description": "IE-GY  607 ANALY METHODS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 608",
+            "course_name": "STATISTICS",
+            "description": "IE-GY  608 STATISTICS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 608",
+            "course_name": "| MA-GY  608 FUND. OF MATHEMATICS II",
+            "description": "IE-GY  608 | MA-GY  608 FUND. OF MATHEMATICS II",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 613",
+            "course_name": "MODELING SOCIAL SYSTS I",
+            "description": "IE-GY  613 MODELING SOCIAL SYSTS I",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 614",
+            "course_name": "MODELNG OF MGRL/SOC SYST",
+            "description": "IE-GY  614 MODELNG OF MGRL/SOC SYST",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 614",
+            "course_name": "| MG-GY  714 MODELNG OF SOC/MGRL SYST",
+            "description": "IE-GY  614 | MG-GY  714 MODELNG OF SOC/MGRL SYST",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 615",
+            "course_name": "MODELING SOCIAL SYSTS II",
+            "description": "IE-GY  615 MODELING SOCIAL SYSTS II",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 618",
+            "course_name": "INVENTORY MODELS",
+            "description": "IE-GY  618 INVENTORY MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 619",
+            "course_name": "| MN-GY  619 PROD,PLANNING & CONTROL",
+            "description": "IE-GY  619 | MN-GY  619 PROD,PLANNING & CONTROL",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 622",
+            "course_name": "QUEUING THEORY",
+            "description": "IE-GY  622 QUEUING THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 624",
+            "course_name": "COMP STUDIES MGMT",
+            "description": "IE-GY  624 COMP STUDIES MGMT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 627",
+            "course_name": "OR:DETERMINISTIC MODELS",
+            "description": "IE-GY  627 OR:DETERMINISTIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 628",
+            "course_name": "OR:STOCHASTIC MODELS",
+            "description": "IE-GY  628 OR:STOCHASTIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 631",
+            "course_name": "| MA-GY  813 LINEAR PROGRAMMING",
+            "description": "IE-GY  631 | MA-GY  813 LINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 631",
+            "course_name": "| MA-GY  813 LINEAR PROGRAMMING",
+            "description": "IE-GY  631 | MA-GY  813 LINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 632",
+            "course_name": "| MA-GY  818 NONLINEAR PROGRAMMING",
+            "description": "IE-GY  632 | MA-GY  818 NONLINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 633",
+            "course_name": "| MA-GY  814 INTEGER PROGRAMMING",
+            "description": "IE-GY  633 | MA-GY  814 INTEGER PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 634",
+            "course_name": "DYNAMIC PROGRAMMING",
+            "description": "IE-GY  634 DYNAMIC PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 635",
+            "course_name": "ADV LINEAR PROGRAMMING",
+            "description": "IE-GY  635 ADV LINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 636",
+            "course_name": "NETWRK FLOWS APPLICATION",
+            "description": "IE-GY  636 NETWRK FLOWS APPLICATION",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 645",
+            "course_name": "| MG-GY  645 PRODUCTIVITY MGMT",
+            "description": "IE-GY  645 | MG-GY  645 PRODUCTIVITY MGMT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 645",
+            "course_name": "| MG-GY  645 PRODUCTIVITY MGMT",
+            "description": "IE-GY  645 | MG-GY  645 PRODUCTIVITY MGMT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 650",
+            "course_name": "QUEUING SYSTEMS I",
+            "description": "IE-GY  650 QUEUING SYSTEMS I",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 651",
+            "course_name": "QUEUING SYSTEMS II",
+            "description": "IE-GY  651 QUEUING SYSTEMS II",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 665",
+            "course_name": "MICROECONOMIC MODELS",
+            "description": "IE-GY  665 MICROECONOMIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 666",
+            "course_name": "MACROECONOMIC MODELS",
+            "description": "IE-GY  666 MACROECONOMIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 671",
+            "course_name": "| MG-GY  671 BUSN/ECONOMIC FORECSTNG",
+            "description": "IE-GY  671 | MG-GY  671 BUSN/ECONOMIC FORECSTNG",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 673",
+            "course_name": "TIME SERIES:FRCST/CNTRL",
+            "description": "IE-GY  673 TIME SERIES:FRCST/CNTRL",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 674",
+            "course_name": "| SS-GY  713 ECONOMETRIC MDLS",
+            "description": "IE-GY  674 | SS-GY  713 ECONOMETRIC MDLS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 680",
+            "course_name": "SYSTEM SIMULATION I",
+            "description": "IE-GY  680 SYSTEM SIMULATION I",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 681",
+            "course_name": "SYSTEM SIMULATION II",
+            "description": "IE-GY  681 SYSTEM SIMULATION II",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 685",
+            "course_name": "SYSTEM RELIABILITY",
+            "description": "EL-GY  617 | IE-GY  685 SYSTEM RELIABILITY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 685",
+            "course_name": "SYSTEM RELIABILITY",
+            "description": "EL-GY  617 | IE-GY  685 SYSTEM RELIABILITY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 686",
+            "course_name": "COMPONENT RELIABILITY",
+            "description": "EL-GY  618 | IE-GY  686 COMPONENT RELIABILITY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 709",
+            "course_name": "INVENTORY THEORY",
+            "description": "IE-GY  709 INVENTORY THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 716",
+            "course_name": "DATA PROCESS SYST DSGN",
+            "description": "IE-GY  716 DATA PROCESS SYST DSGN",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 720",
+            "course_name": "OPTIMUM SEEKING MTH",
+            "description": "IE-GY  720 OPTIMUM SEEKING MTH",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 727",
+            "course_name": "| MG-GY  727 CASE STUDIES MGMT",
+            "description": "IE-GY  727 | MG-GY  727 CASE STUDIES MGMT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 727",
+            "course_name": "| MG-GY  727 CASE STUDIES MGT SCI",
+            "description": "IE-GY  727 | MG-GY  727 CASE STUDIES MGT SCI",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 750",
+            "course_name": "LOGISTICS ANALYSIS",
+            "description": "IE-GY  750 LOGISTICS ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 754",
+            "course_name": "| TR-GY  754 LOGISTICS ANALYSIS",
+            "description": "IE-GY  754 | TR-GY  754 LOGISTICS ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 757",
+            "course_name": "| SS-GY  357 | SS-GY  675 TECH TRANS DEV COUN",
+            "description": "IE-GY  757 | SS-GY  357 | SS-GY  675 TECH TRANS DEV COUN",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 757",
+            "course_name": "| MG-GY  757 | SS-GY  675 TECH TRANS DEV COUNTRIES",
+            "description": "IE-GY  757 | MG-GY  757 | SS-GY  675 TECH TRANS DEV COUNTRIES",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 758",
+            "course_name": "| MG-GY  758 | SS-GY  676 HUM RSRCE DEV COUNT",
+            "description": "IE-GY  758 | MG-GY  758 | SS-GY  676 HUM RSRCE DEV COUNT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 765",
+            "course_name": "HUM FACTOR ENG DESN",
+            "description": "IE-GY  765 HUM FACTOR ENG DESN",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 770",
+            "course_name": "| MG-GY  619 | MN-GY  770 EMPLOYEE SCHEDULING",
+            "description": "IE-GY  770 | MG-GY  619 | MN-GY  770 EMPLOYEE SCHEDULING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 775",
+            "course_name": "INDUST SAFETY ENG",
+            "description": "IE-GY  775 INDUST SAFETY ENG",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 776",
+            "course_name": "| MN-GY  776 MANUF. RESOURCE PLANNING",
+            "description": "IE-GY  776 | MN-GY  776 MANUF. RESOURCE PLANNING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 776",
+            "course_name": "| MN-GY  776 MANUF RESOURCES PLANNING",
+            "description": "IE-GY  776 | MN-GY  776 MANUF RESOURCES PLANNING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 777",
+            "course_name": "MFGR. IMPROVEMNT CURVES",
+            "description": "IE-GY  777 MFGR. IMPROVEMNT CURVES",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 778",
+            "course_name": "ADV PRODUCTION PLANNING",
+            "description": "IE-GY  778 ADV PRODUCTION PLANNING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 779",
+            "course_name": "ADV WORK SYSTEM DES",
+            "description": "IE-GY  779 ADV WORK SYSTEM DES",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 790",
+            "course_name": "PRODCT DSGN FOR MANUFACT",
+            "description": "IE-GY  790 PRODCT DSGN FOR MANUFACT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 846",
+            "course_name": "URBAN SYSTEMS ANALY",
+            "description": "IE-GY  846 URBAN SYSTEMS ANALY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 851",
+            "course_name": "STOCHASTIC PROCESS",
+            "description": "IE-GY  851 STOCHASTIC PROCESS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 852",
+            "course_name": "APPL REGRESS ANALY",
+            "description": "IE-GY  852 APPL REGRESS ANALY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 853",
+            "course_name": "DESIGN OF EXPERIMENTS",
+            "description": "IE-GY  853 DESIGN OF EXPERIMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 870",
+            "course_name": "GAMES & DECISIONS",
+            "description": "IE-GY  870 GAMES & DECISIONS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 911",
+            "course_name": "| IE-UY  911 | MG-GY  975 | MG-UY  392 | MG-UY  975 Leadership and team Development",
+            "description": "IE-GY  911 | IE-UY  911 | MG-GY  975 | MG-UY  392 | MG-UY  975 Leadership and team Development",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 912",
+            "course_name": "SEL TOP:EL DATA INTERCH",
+            "description": "IE-GY  912 SEL TOP:EL DATA INTERCH",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 913",
+            "course_name": "SEL TOP OPER MGMT",
+            "description": "IE-GY  913 SEL TOP OPER MGMT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 920",
+            "course_name": "RESEARCH SEMINAR",
+            "description": "IE-GY  920 RESEARCH SEMINAR",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 930",
+            "course_name": "| IE-GY 9303 Readings in Industrial Engineering I",
+            "description": "IE-GY  930 | IE-GY 9303 Readings in Industrial Engineering I \nIn this course, students individually read selected papers and current literature in specialized area and are guided by a faculty member. | Prerequisite: Approval of adviser, instructor and department head.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 931",
+            "course_name": "READINGS IN IE II",
+            "description": "IE-GY  931 READINGS IN IE II",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 935",
+            "course_name": "ENGR PROJCT PUBLIC ADMIN",
+            "description": "IE-GY  935 ENGR PROJCT PUBLIC ADMIN",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 997",
+            "course_name": "M.S. THESIS",
+            "description": "IE-GY  997 M.S. THESIS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 998",
+            "course_name": "ENGR DEGREE PROJECT",
+            "description": "IE-GY  998 ENGR DEGREE PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 999",
+            "course_name": "PH.D.DISSERTATION",
+            "description": "IE-GY  999 PH.D.DISSERTATION",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6003",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "ENGINEERING ECONOMICS",
+            "description": "IE-GY 6003 ENGINEERING ECONOMICS",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 6063",
+            "classes": [
+                {}
+            ],
+            "course_name": "WORK DESIGN AND MESUREMENT",
+            "description": "IE-GY 6063 WORK DESIGN AND MESUREMENT",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 6113",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "IE-GY 6113\n\n   Quality Control and Improvement\n\nThis course provides students with a solid foundation in the cost of quality, quality assurance and quality management. Emphasis is on the basic tools of quality control such as control charts and their use, the concept of \u201cout of control,\u201d acceptance sampling, variables and attributes charts and producer\u2019s and consumer\u2019s risk. A unique aspect of this course is the demonstration of the power of teams of people with different expertise to improve quality. A course project is required. | Prerequisite: MA-GY 6513 or familiarity with the concepts of probability and statistics. Also listed under MN...\n\n      more description for IE-GY 6113 \u00bb\n\n      \n\n\n\nThis course provides students with a solid foundation in the cost of quality, quality assurance and quality management. Emphasis is on the basic tools of quality control such as control charts and their use, the concept of \u201cout of control,\u201d acceptance sampling, variables and attributes charts and producer\u2019s and consumer\u2019s risk. A unique aspect of this course is the demonstration of the power of teams of people with different expertise to improve quality. A course project is required. | Prerequisite: MA-GY 6513 or familiarity with the concepts of probability and statistics. Also listed under MN-GY 6113.\n\n      less description for IE-GY 6113 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 6123",
+            "course_name": "Quality Engineering Using Robust Design",
+            "description": "IE-GY 6123 Quality Engineering Using Robust Design \nThis course provides a broad review of procedures to improve manufacturing quality. By employing both Taguchi techniques, such as the use of signal-to-noise ratio representations and other techniques less sensitive to parameter interactions, a full spectrum of robust design methods are presented. Applications of these procedures are reviewed, including online trouble-shooting methods to assure manufacturing quality. | Prerequisite: IE-GY 6113. Also listed under MN-GY 6123.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6163",
+            "course_name": "",
+            "description": "IE-GY 6163\n\n   Job and Workplace Design\n\nThis course examines theory, research and applications of job and workplace design. Job design is presented from an interdisciplinary perspective, focusing on how job design influences attitudes and work behavior within organizations. Students are exposed to diagnostic tools for measuring and evaluating jobs and the psycho-social aspects of the workplace environment, as well as the principles of work redesign. Topics include influences on work design by innovations in information technology, modern manufacturing, virtual work arrangements and open office systems; design and support of effectiv...\n\n      more description for IE-GY 6163 \u00bb\n\n      \n\n\n\nThis course examines theory, research and applications of job and workplace design. Job design is presented from an interdisciplinary perspective, focusing on how job design influences attitudes and work behavior within organizations. Students are exposed to diagnostic tools for measuring and evaluating jobs and the psycho-social aspects of the workplace environment, as well as the principles of work redesign. Topics include influences on work design by innovations in information technology, modern manufacturing, virtual work arrangements and open office systems; design and support of effective work teams; re-engineering and total quality management; and privacy and communication in the workplace. | *An online version is available.\n\n      less description for IE-GY 6163 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6183",
+            "course_name": "INVENTORY MODELS",
+            "description": "IE-GY 6183 INVENTORY MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6193",
+            "classes": [
+                {}
+            ],
+            "course_name": "Production Planning and Control",
+            "description": "IE-GY 6193 Production Planning and Control \nThis is a survey course in basic and advanced manufacturing planning and control systems, covering short-term forecasting systems, master production scheduling, material requirements planning, inventory management, capacity management, production activity control and just-in-time.",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 6203",
+            "course_name": "Project Planning and Control (Project Management)",
+            "description": "IE-GY 6203 Project Planning and Control (Project Management) \nThis course discusses the knowledge and process required to manage a project through its life cycle, from concept to completion. Topics include engineering analysis, screening and selection, configuration and total quality management, scheduling using Program Evaluation and Review Technique (PERT) and Critical Path Method (CPM), budgeting and resource management, computer support and software. Case studies are used to illustrate the process.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6213",
+            "classes": [
+                {}
+            ],
+            "course_name": "Facility Planning and Design",
+            "description": "IE-GY 6213 Facility Planning and Design \nTopics in this course include facilities design for global competitiveness, strategic master-site planning, site selection, factory layout and design, facility-management systems and materials handling and storage planning. Also presented are guidance on selecting alternative facility plans and application of queuing methods and computer modeling for facility design and evaluation.",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 6273",
+            "course_name": "OPERATIONS RESEARCH: DETERMINISTIC MODELS",
+            "description": "IE-GY 6273 OPERATIONS RESEARCH: DETERMINISTIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6283",
+            "course_name": "OPERATIONS RESEARCH: STOCHASTIC MODELS",
+            "description": "IE-GY 6283 OPERATIONS RESEARCH: STOCHASTIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6453",
+            "course_name": "PRODUCTIVITY MANAGEMENT",
+            "description": "IE-GY 6453 PRODUCTIVITY MANAGEMENT \nThis course examines modern approaches to productivity measurement, evaluation, planning and improvement in both manufacturing and service industries. Participants develop productivity models for various types of organizations.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6503",
+            "course_name": "QUEUING SYSTEMS I",
+            "description": "IE-GY 6503 QUEUING SYSTEMS I",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 6823",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Factory Simulation",
+            "description": "IE-GY 6823 Factory Simulation \nThis course examines modeling and simulation of complex industrial, commercial and service systems, such as factories and hospitals. Students develop, run and test several simulation models using different software packages. | Prerequisite: Computer literacy.",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 6853",
+            "course_name": "SYSTEM RELIABILITY",
+            "description": "IE-GY 6853 SYSTEM RELIABILITY",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7113",
+            "course_name": "",
+            "description": "IE-GY 7113\n\n   ENGINEERING PRACTICES IN THE BUSINESS ENVIRONMENT 1\n\nThis course immerses the student into actual engineering problems in operating businesses. It emphasizes experiential, hands-on learning that includes project planning and management, and application of industrial engineering and manufacturing engineering techniques to real world problems with real world constraints. The student experiences, first hand, the actual practice of engineering and applies the engineering education to solution of industrial operations. For the project, students work in a client company under the academic supervision of a faculty member. Course will focus on applying ...\n\n      more description for IE-GY 7113 \u00bb\n\n      \n\n\n\nThis course immerses the student into actual engineering problems in operating businesses. It emphasizes experiential, hands-on learning that includes project planning and management, and application of industrial engineering and manufacturing engineering techniques to real world problems with real world constraints. The student experiences, first hand, the actual practice of engineering and applies the engineering education to solution of industrial operations. For the project, students work in a client company under the academic supervision of a faculty member. Course will focus on applying theory and academic knowledge to analysis and improvement of processes, products and operations. Students will also experience the demands of meeting deadlines and providing cost-benefit solutions in the practice of engineering.\n\n      less description for IE-GY 7113 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7213",
+            "course_name": "",
+            "description": "IE-GY 7213\n\n   ENGINEERING PRACTICES IN THE BUSINESS ENVIRONMENT 2\n\nThis course immerses the student into actual engineering problems in operating businesses. It emphasizes experiential, hands-on learning that includes project planning and management, and application of industrial engineering and manufacturing engineering techniques to real world problems with real world constraints. The student experiences, first hand, the actual practice of engineering and applies the engineering education to solution of industrial operations. For the project, students work in a client company under the academic supervision of a faculty member. Course will focus on applying ...\n\n      more description for IE-GY 7213 \u00bb\n\n      \n\n\n\nThis course immerses the student into actual engineering problems in operating businesses. It emphasizes experiential, hands-on learning that includes project planning and management, and application of industrial engineering and manufacturing engineering techniques to real world problems with real world constraints. The student experiences, first hand, the actual practice of engineering and applies the engineering education to solution of industrial operations. For the project, students work in a client company under the academic supervision of a faculty member. Course will focus on applying theory and academic knowledge to analysis and improvement of processes, products and operations. Students will also experience the demands of meeting deadlines and providing cost-benefit solutions in the practice of engineering. | Prerequisite: IE-GY 7113, Required courses in major or permission from Program Director\n\n      less description for IE-GY 7213 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7503",
+            "course_name": "TARGET COSTING",
+            "description": "IE-GY 7503 TARGET COSTING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7504",
+            "course_name": "TARGET COSTING",
+            "description": "IE-GY 7504 TARGET COSTING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7653",
+            "course_name": "Human Factors in Engineering Design",
+            "description": "IE-GY 7653 Human Factors in Engineering Design \nHuman Factors is a body of knowledge about human abilities, human limitations, and other human characteristics that are relevant to design. Human factors engineering is the application of human factors information to the design of tools, machines, systems, tasks, jobs, and environments for safe, comfortable, and effective human use.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7753",
+            "course_name": "INDUSTRIAL SAFETY ENGINEERING",
+            "description": "IE-GY 7753 INDUSTRIAL SAFETY ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7763",
+            "classes": [
+                {}
+            ],
+            "course_name": "MANUFACTURING SYSTEM RESOURCES",
+            "description": "IE-GY 7763 MANUFACTURING SYSTEM RESOURCES \nThis course studies computerized systems to effectively run a manufacturing business. Also covered is the process of software specification, evaluation, selection and implementation. Topics include Manufacturing Resources Planning (MRP) logic, enterprise resource planning, manufacturing execution systems, inventory management and bill of materials. Several software systems and their features are highlighted. Also listed under MN-GY 7763.",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 7853",
+            "course_name": "COMPUTER INTEGRATED MANUFACTURING SYSTEMS (CIMS)",
+            "description": "IE-GY 7853 COMPUTER INTEGRATED MANUFACTURING SYSTEMS (CIMS) \nThis course examines the basic concepts of manufacturing complex products with complex processes. It relies heavily on computer and data processing  technologies, which are introduced. Also a variety of perspectives are addressed from all aspects relative to products and processes-planning, design, manufacturing and shipping. Students explore techniques for managing and optimizing manufacturing productivity. Also listed under MN-GY 7853.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7873",
+            "course_name": "LEAN MANUFACTURING",
+            "description": "IE-GY 7873 LEAN MANUFACTURING \nThis course provides an overview to the basic principles, and theories of lean manufacturing which involves identifying and eliminating non-value-adding activities in design, production, and supply chain management.  Students will learn an integrated approach to efficient manufacturing with emphasis on synchronized product, quick changeover, cell design, visual factory, value stream, one-piece flow and learn metrics.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7883",
+            "course_name": "Manufacturing Systems Engineering",
+            "description": "IE-GY 7883 Manufacturing Systems Engineering \nTopics in this course concentrate on contemporary techniques for product design and manufacture, including financials of the manufacturing firm, quality, reliability, Taguchi methods of product and process design, scale-up and partitioning, production flows, modern manufacturing methods such as JIT/TQC, pull and synchronized manufacturing. Cultural factors are also discussed. Also listed under MN-GY 7883.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7923",
+            "course_name": "Design for Manufacturability",
+            "description": "IE-GY 7923 Design for Manufacturability \nThis course introduces concepts and techniques for economical, functionally sound and high-quality product design for manufacture. Emphasis is on designing for easy assembly, manually and with robotics and on the effective use of plastics to reduce manufacturing costs. Managerial and organizational approaches and case studies of successful designs are reviewed. | Also listed under MN-GY 7923.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 7933",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "IE-GY 7933\n\n   Environmental Health and Safety\n\nThis course presents an overview of environmental, health and safety management, and introduces students to management systems within a manufacturing operation. The course explores motivations and strategies for environmental, health and safety management. Students learn about the mandatory standards understanding the technical and legal rationale for insuring that workers are provided with a safe and healthy workplace. These skills are needed to work effectively in operations, human resources and employee development as well as in industrial relations, since the law provides workers specific ...\n\n      more description for IE-GY 7933 \u00bb\n\n      \n\n\n\nThis course presents an overview of environmental, health and safety management, and introduces students to management systems within a manufacturing operation. The course explores motivations and strategies for environmental, health and safety management. Students learn about the mandatory standards understanding the technical and legal rationale for insuring that workers are provided with a safe and healthy workplace. These skills are needed to work effectively in operations, human resources and employee development as well as in industrial relations, since the law provides workers specific safety and health rights. | Also listed under MN-GY 7933.\n\n      less description for IE-GY 7933 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 7993",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "IE-GY 7993\n\n   SUPPLY CHAIN ENGINEERING\n\nStudents in this course gain an understanding of how companies plan, source, make and deliver their products with a global competitive advantage. The course stresses the engineering components in developing an integrated supply chain that covers the entire manufacturing enterprise. It looks at the supply-chain infrastructure and the velocities of different models. The focus is on understanding and detecting the constraints of the infrastructure and the lowest common denominator of the information system used. Students also gain an understanding of logistical networks and the optimizing of the ...\n\n      more description for IE-GY 7993 \u00bb\n\n      \n\n\n\nStudents in this course gain an understanding of how companies plan, source, make and deliver their products with a global competitive advantage. The course stresses the engineering components in developing an integrated supply chain that covers the entire manufacturing enterprise. It looks at the supply-chain infrastructure and the velocities of different models. The focus is on understanding and detecting the constraints of the infrastructure and the lowest common denominator of the information system used. Students also gain an understanding of logistical networks and the optimizing of the various traffic and location alternatives. Synchronization of supply and demand is examined in detail, looking at variability in both processes with the objective of maximizing throughput and capacity, emphasizing partnering, e-commerce and the bullwhip effect. Finally, the course establishes global performance measurements that compare companies in different industries.\n\n      less description for IE-GY 7993 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "IE-GY 9113",
+            "course_name": "Selected Topics in IE",
+            "description": "IE-GY 9113 Selected Topics in IE \nThese topics cover areas not covered in other courses. Specific topics vary according to instructor, who may be a visiting professor. Topics and prerequisites announced during the term before classes.",
+            "offering": false
+        },
+        {
+            "course_id": "IE-GY 930",
+            "course_name": "| IE-GY 9303 Readings in Industrial Engineering I",
+            "description": "IE-GY  930 | IE-GY 9303 Readings in Industrial Engineering I \nIn this course, students individually read selected papers and current literature in specialized area and are guided by a faculty member. | Prerequisite: Approval of adviser, instructor and department head.",
+            "offering": false
+        }
+    ]
+}

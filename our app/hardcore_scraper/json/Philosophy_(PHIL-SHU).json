@@ -1,0 +1,54 @@
+{
+    "major_id": "PHIL-SHU",
+    "file": "./2015-2016/Philosophy_(PHIL-SHU).html",
+    "courses": [
+        {
+            "course_id": "PHIL-SHU 70",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19361",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Weslake, Brad",
+                    "time": "Tue,Thu 1.45 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Logic",
+            "description": "PHIL-SHU   70 Logic \nThis is an introductory course in formal logic. No prior knowledge of logic, mathematics or philosophy will be assumed. We will study a number of logical systems, and learn some methods for producing derivations and determining validity in these systems.  We will also learn how to translate sentences and arguments from ordinary language into these systems, and examine some applications of logic to traditional philosophical problems. Prerequisite: None.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-SHU 90",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19362",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Weslake, Brad",
+                    "time": "Tue,Thu 11.15 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "PHIL-SHU   90\n\n   Philosophy of Science\n\nThis is a survey course in general philosophy of science. Our topics include: Is scientific knowledge different from other forms of knowledge? Should the history of science be seen as an ever-increasing advance of knowledge? Given that most scientific theories have turned out to be false, are we justified in believing that our current theories are true?  What are scientific explanations, and what makes an explanation better than another? Do the laws of nature govern the world or simply encapsulate some interesting patterns in the world? What is the relationship between more and less fundamenta...\n\n      more description for PHIL-SHU   90 \u00bb\n\n      \n\n\n\nThis is a survey course in general philosophy of science. Our topics include: Is scientific knowledge different from other forms of knowledge? Should the history of science be seen as an ever-increasing advance of knowledge? Given that most scientific theories have turned out to be false, are we justified in believing that our current theories are true?  What are scientific explanations, and what makes an explanation better than another? Do the laws of nature govern the world or simply encapsulate some interesting patterns in the world? What is the relationship between more and less fundamental scientific theories? We will examine these questions through readings drawn from both the history and philosophy of science.  Prerequisites: None.\n\n      less description for PHIL-SHU   90 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-SHU 90",
+            "course_name": "Philosophy of Science",
+            "description": "PHIL-SHU   90 Philosophy of Science",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-SHU 150",
+            "course_name": "Central Problems in Philosophy",
+            "description": "PHIL-SHU  150 Central Problems in Philosophy \nThis course is an introduction to the problems and methods of contemporary philosophy. Topics may include: 1. What is the relationship between mind and body? 2. Can belief in the existence of the external world be justified? 3. Are there any good arguments for the existence of God? 4. Can we act freely if everything that we do is determined by laws of nature? 5. Is there a theory of how we ought to live?",
+            "offering": false
+        }
+    ]
+}

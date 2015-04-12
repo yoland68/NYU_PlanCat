@@ -1,0 +1,188 @@
+{
+    "major_id": "CSCI-SHU",
+    "file": "./2015-2016/Computer_Science_(CSCI-SHU).html",
+    "courses": [
+        {
+            "course_id": "CSCI-SHU 11",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19767",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19768",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-SHU   11\n\n   Introduction to Computer Programming\n\nAn introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous pr...\n\n      more description for CSCI-SHU   11 \u00bb\n\n      \n\n\n\nAn introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. \nPrerequisite: None.\n\n      less description for CSCI-SHU   11 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-SHU 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13278",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Zhang, Zheng",
+                    "time": "Tue,Thu 3.15 PM - 5.05 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Introduction to Computer Science",
+            "description": "CSCI-SHU  101 Introduction to Computer Science \nThis course has three goals. First, the mastering of a modern object-oriented programming language, enough to allow students to tackle real-world problems of important significance. Second, gaining an appreciation of computational thinking, a process that provides the foundations for solving real-world problems. Finally, providing an overview of the very diverse and exciting  field of computer science - a field which, arguably more than any other, impacts  how we work, live, and play today. \nPrerequisite: Introduction to Computer Programming or other previous programming experience.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-SHU 210",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13280",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Data Structures",
+            "description": "CSCI-SHU  210 Data Structures \nUse and design of data structures, which organize information in computer memory. Stacks, queues, linked lists, binary trees: how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them. Programming assignments. Prerequisite: CSCI-101",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-SHU 215",
+            "course_name": "Operating Systems",
+            "description": "CSCI-SHU  215 Operating Systems \nCovers the principles and design of operating systems. Topics include process scheduling and synchronization, deadlocks, memory management (including virtual memory), input-output, and file systems. Programming assignments. Prerequisite: COMPE-202 and CSCI-210",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 220",
+            "course_name": "Algorithms",
+            "description": "CSCI-SHU  220 Algorithms \nIntroduction to the study of algorithms. Presents two main themes: designing appropriate data structures and analyzing the efficiency of the algorithms that use them. Algorithms studied include sorting, searching, graph algorithms, and maintaining dynamic data structures. Homework assignments, not necessarily involving programming. Prerequisites: MATH-251 and CSCI-210",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 222",
+            "course_name": "Introduction to Game Programming",
+            "description": "CSCI-SHU  222 Introduction to Game Programming \nA programming intensive introduction to the creation of computer games. Using mostly two-dimensional sprite-based programming, we examine and experiment with animation, physics, artificial intelligence and audio. In addition, the course explores the mathematics of transformations (both 2D and 3D) and the ways they may be represented. Prerequisite: CSCI-101",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 304",
+            "course_name": "Network Security",
+            "description": "CSCI-SHU  304 Network Security \nThis course covers reviews networking. Topics: Basic notations of confidentiality, integrity, availability; cryptographic systems, coding and decoding messages. Cryptographic protocols for privacy, integrity, key exchange and access control. TCP/IP security; Firewalls, IPSec; secure ecommerce. Intrusion detection, prevention, response. Advanced topics are included.  Prerequisite: CSCI-215",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 308",
+            "course_name": "",
+            "description": "CSCI-SHU  308\n\n   Computer Networking\n\nThis course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP pro...\n\n      more description for CSCI-SHU  308 \u00bb\n\n      \n\n\n\nThis course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and linklayer switches. The course includes simple quantitative delay and throughput modeling, socket programming and network application development and Ethereal labs. Prerequisite: CSCI-215\n\n      less description for CSCI-SHU  308 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 310",
+            "course_name": "UNIX System Programming",
+            "description": "CSCI-SHU  310 UNIX System Programming \nThis course covers programming and system administration of UNIX systems. Also covered: Shell programming, special purpose languages, UNIX utilities, UNIX programming tools, systems programming and system administration. Prerequisites: CSCI-215 and 220",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 323",
+            "course_name": "Interactive Computer Graphics",
+            "description": "CSCI-SHU  323 Interactive Computer Graphics \nThis course introduces the fundamentals of computer graphics with hands-on graphics programming experiences. Topics include graphics software and hardware, 2D line segment-scan conversion, 2D and 3D transformations, viewing, clipping, polygon-scan conversion, hidden surface removal, illumination and shading, compositing, texture mapping, ray tracing, radiosity and scientific visualization. Prerequisites: CSCI-101, MATH-110 & MATH-230",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 330",
+            "course_name": "Computer Vision and Scene Analysis",
+            "description": "CSCI-SHU  330 Computer Vision and Scene Analysis \nAn important goal of artificial intelligence is to equip computers with the capability to interpret visual inputs. Computer vision and scene analysis is an AI area that deals with constructing explicit, meaningful descriptions of physical objects from images. It includes many techniques from image processing, pattern recognition, geometric modeling and cognitive processing. This course introduces the many techniques and applications of computer vision and scene analysis. Prerequisites: CSCI-101; MATH-110",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 358",
+            "course_name": "Theory of Computation",
+            "description": "CSCI-SHU  358 Theory of Computation \nTakes a mathematical approach to studying topics in computer science, such as regular languages and some of their representations (deterministic finite automata, nondeterministic finite automata, regular expressions) and proof of nonregularity. Context-free languages and pushdown automata; proofs that languages are not context-free. Elements of computability theory. Brief introduction to NP-completeness. Prerequisites: CSCI-215 and 220 and MATH-228",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 360",
+            "course_name": "Machine Learning and Data Mining",
+            "description": "CSCI-SHU  360 Machine Learning and Data Mining \nThis course introduces the field of machine learning and data mining. It covers standard machine-learning techniques, such as decision trees, nearest neighbor, Bayesian methods, support vector machines and logistic regression. The coursealso addresses methods for evaluating and comparing machine learning techniques. Prerequisite: CSCI-101; MATH-121.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 370",
+            "course_name": "",
+            "description": "CSCI-SHU  370\n\n   Object-Oriented Programming\n\nOverview\nThis course presents a conceptual and practical introduction to object\noriented programming, exemplified by Java. Students attending this\ncourse are expected to acquire skills in Java application development\nbut also to develop a deep understanding of the key concepts of\nobject-oriented programming and their support in different programming\nlanguages. The course will also introduce important concepts in\ncomputer science such as data structures, the associated algorithms,\nand computational efficiency. The course should enable students to\ndevelop programs that support experimentation an...\n\n      more description for CSCI-SHU  370 \u00bb\n\n      \n\n\n\nOverview\nThis course presents a conceptual and practical introduction to object\noriented programming, exemplified by Java. Students attending this\ncourse are expected to acquire skills in Java application development\nbut also to develop a deep understanding of the key concepts of\nobject-oriented programming and their support in different programming\nlanguages. The course will also introduce important concepts in\ncomputer science such as data structures, the associated algorithms,\nand computational efficiency. The course should enable students to\ndevelop programs that support experimentation and simulation in other\nparts of their curriculum. Topics covered include class construction,\nexception handling, threads, graphics, applet construction, animation,\nand networking.\n\nLearning outcomes\n- have a deep understanding of the fundamentals of object-oriented\nprogramming technology.\n- use recursion and object-oriented programming concepts (e.g.\nclasses, objects, inheritance, and interfaces) for object-oriented\nproblem solving.\n- be able to design and implement Java program in specific areas (such\nas user interfaces or networking interfaces), and subsequently analyze\nits behavior.\n- Understand asymptotic complexity of algorithms and be able to\nanalyze programs to determine their running times.\n\nIt is recommended that the student has taken a previous course or has\nintermediate knowledge in problem solving and imperative programming\nwith C; \nPrereq: CSCI-SHU 210\n\n      less description for CSCI-SHU  370 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 372",
+            "course_name": "Artificial Intelligence",
+            "description": "CSCI-SHU  372 Artificial Intelligence \nMany cognitive tasks that people can do easily and almost unconsciously have proven extremely difficult to program on a computer. Artificial intelligence tackles the problem of developing computer systems that can carry out these tasks. Focus is on three central areas in AI: representation and reasoning, machine learning, and natural language processing. Prerequisites: CSCI-215 and 220",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 378",
+            "course_name": "Introduction to Cryptography",
+            "description": "CSCI-SHU  378 Introduction to Cryptography \nProvides an introduction to the principles and practice of cryptography and its application to network security. Topics include symmetric-key encryption (block ciphers, modes of operations, AES), message authentication (pseudorandom functions, CBC-MAC), public-key encryption (RSA, ElGamal), digital signatures (RSA, Fiat-Shamir), authentication applications (identification, zero-knowledge), and others, time permitting. Prerequisite: CSCI-220",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 402",
+            "course_name": "Advanced Algorithms",
+            "description": "CSCI-SHU  402 Advanced Algorithms \nThis course covers techniques in advanced design and analysis of algorithms. Topics: Amortized analysis of algorithms. Advanced data structures, binomial heaps, Fibonacci heaps, data structures for disjoint sets, analysis of union by rank with path compression. Graph algorithms: elementary graph algorithms, maximum flow, matching algorithms. Randomized algorithms. Theory of NP completeness and approach to finding (approximate) solutions to NP complete problems. Selected additional topics that may vary. Prerequisite: CSCI-220",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 410",
+            "course_name": "",
+            "description": "CSCI-SHU  410\n\n   Software Engineering\n\nAn intense hands-on study of practical techniques and methods of software engineering. Topics include: advanced object-oriented design, design patterns, refactoring, code optimization, universal modeling language, threading, user interface design, enterprise application development and development tools. All topics are integrated and applied during the semester-long group project. The aim of the project is to prepare students for dynamics in a real workplace. Members of the group will meet on a regular basis to discuss the project and to assign individual tasks. Students will be judged primari...\n\n      more description for CSCI-SHU  410 \u00bb\n\n      \n\n\n\nAn intense hands-on study of practical techniques and methods of software engineering. Topics include: advanced object-oriented design, design patterns, refactoring, code optimization, universal modeling language, threading, user interface design, enterprise application development and development tools. All topics are integrated and applied during the semester-long group project. The aim of the project is to prepare students for dynamics in a real workplace. Members of the group will meet on a regular basis to discuss the project and to assign individual tasks. Students will be judged primarily on the final project presentations.  Prerequisites: CSCI-215 and 220\n\n      less description for CSCI-SHU  410 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-SHU 2314",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13287",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13288",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "| MATH-SHU  237 Discrete Mathematics",
+            "description": "CSCI-SHU 2314 | MATH-SHU  237 Discrete Mathematics \nThis course is an introduction to discrete mathematics, emphasizing proof and abstraction, as well as applications to the computational sciences. Topics include sets, relations, and functions, graphs and trees, algorithms, proof techniques, and order of magnitude analysis, Boolean algebra and combinatorial circuits, formal logic and languages, automata, and combinatorics, probability, and statistics. Prerequisite: Grade of C or better in MATH-SHU 121 or MATH-SHU 201.",
+            "offering": true
+        }
+    ]
+}

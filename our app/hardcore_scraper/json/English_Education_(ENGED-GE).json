@@ -1,0 +1,444 @@
+{
+    "major_id": "ENGED-GE",
+    "file": "./2015-2016/English_Education_(ENGED-GE).html",
+    "courses": [
+        {
+            "course_id": "ENGED-GE 2023",
+            "course_name": "Lang & Lrng Across Curric",
+            "description": "ENGED-GE 2023 Lang & Lrng Across Curric \nExamines how active talking and writing facilitate learning in all the content areas. Explores how a focus on the learner's use of language can provide an opportunity for curriculum collaboration among teachers of social studies, math, and science as well as English and the language arts.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2028",
+            "course_name": "Eval Lrn in English & Humanities",
+            "description": "ENGED-GE 2028 Eval Lrn in English & Humanities \nExamines major perspectives an assessing student performance in the English language arts. Explores the possible relationships among evaluative procedures, curricula, and pupil performance. Suggests ways of perceiving learning in English in terms of both individual and group developmental patterns.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2039",
+            "course_name": "Prof Writing",
+            "description": "ENGED-GE 2039 Prof Writing",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2041",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "3298",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 379",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Baumgarten, Robin"
+                }
+            ],
+            "course_name": "Teaching/Learning English Language Arts Middle & HS",
+            "description": "ENGED-GE 2041 Teaching/Learning English Language Arts Middle & HS \nExplores multiple materials & methods - including technology - for involving students in purposeful reading, writing, speaking & listening. Considers innovative approaches for organizing the classroom to address a range of abilities & disabilities & diverse cultural perspectives. Emphasizes the process whereby individual talent contributes to the building of democratic communities. Develops the capacity for formal & informal assessment of literacy development over time.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2042",
+            "course_name": "Teach/Learn Eng Lang Arts in The High Schl",
+            "description": "ENGED-GE 2042 Teach/Learn Eng Lang Arts in The High Schl \nExplores multiple materials - including technology - for involving students in purposeful reading, writing, speaking and listening. Considers innovative approaches for organizing the classroom to address a range of abilities and disabilities and diverse cultural perspectives. Emphasizes the process whereby individual talent contributes to the building of democratic communities. Develops flexible ways, both formal and informal, for assessing literacy development over time.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2044",
+            "course_name": "Teaching of Language and Literature",
+            "description": "ENGED-GE 2044 Teaching of Language and Literature \nExamines how students' intentions and processes of meaning-making form the basis for classroom experiences in reading, literature, and composition. Places such classroom practices within the context of our society to see to the extent to which they further democratic goals.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2045",
+            "course_name": "Hip Hop and The Teaching of English",
+            "description": "ENGED-GE 2045 Hip Hop and The Teaching of English \nExamines ways that hip hop culture, texts, and language exists as valuable resources worthy of serious study in secondary English classrooms. Students will learn to teach English by learning hip hop, learning about hip hop, and learning through hip hop. Group projects focus on grounded investigations in the area of critical literacy, sociolinguistics, and English language arts teaching/learning. Readings will cover divergent voices in contemporary society as students consider ways to integrate such voices into existing language and literacy curriculums, K through college",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2049",
+            "course_name": "Teaching in the City",
+            "description": "ENGED-GE 2049 Teaching in the City \nFocuses on the social, political, cultural, and sociolinguistic issues related to teaching adolescents in urban schools. Explores how issues of race, class, ethnicity, and priviledge affect learning and instruction. Topics include: multicultural literature, linguistic diversity, and issues surrounding high-stakes testing.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2083",
+            "course_name": "Research Approaches to English Lang Arts Educ",
+            "description": "ENGED-GE 2083 Research Approaches to English Lang Arts Educ \nEnables doctoral students to evaluate major published research in language and literacy education. Considers both the hypothesis-generating (descriptive, naturalistic, and case-study) designs. Explores the strengths and weaknesses of these research approaches in terms of the student's own candidacy paper and dissertation.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2093",
+            "course_name": "Literature & Values",
+            "description": "ENGED-GE 2093 Literature & Values",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2101",
+            "course_name": "Pract Indiv Writing Inst",
+            "description": "ENGED-GE 2101 Pract Indiv Writing Inst \nFocuses on conferencing strategies for assessing and working with an individual's writing processes and problems.  Analyzes teaching-learning dialogues in whole-class and tutoring contexts to explore the role of conversation in encouraging the revision process.  Includes working with an individual writer.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2119",
+            "course_name": "Practicum:Teaching",
+            "description": "ENGED-GE 2119 Practicum:Teaching \nInquires into perspectives, methods, and materials in the teaching of composition to those secondary school or college students who are having difficulty with fluency, clarity, and/or correctness.  Explores the effects of shifts in cultural contexts on writing development.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4113",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Beck, Sarah"
+                }
+            ],
+            "course_name": "Curriculum & Research in Literacy/Language Arts",
+            "description": "ENGED-GE 2120 Curriculum & Research in Literacy/Language Arts \nExplores how the curriculum and instructional practice are shaped by research in Literacy and English Language Arts. Topics to be discussed include teacher-initiated research on curriculum and instruction, the relationship between research and curriculum development, and the role of the teacher in interpreting research. This course fulfills the culminating experience requirement for English Education MA degrees.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2149",
+            "course_name": "Eng Curric Impl Contem Rsch",
+            "description": "ENGED-GE 2149 Eng Curric Impl Contem Rsch \nA critical examination of selected major research studies with implications for curriculum developments and instructional practice in English education. Recent large-scale investigations such as those conducted by Applebee, Bussis, Meek, and Purvis are considered.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2191",
+            "course_name": "New Perspectives in Engl Language Arts",
+            "description": "ENGED-GE 2191 New Perspectives in Engl Language Arts \nThis course explores the practical implications of teaching English in a pluralistic society. Ways of negotiating and elaborating the multiple responses of students are considered, along with opportunities for including multicultural voices in the ongoing curriculum.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2233",
+            "course_name": "Cur Iss in Ed Linguistic",
+            "description": "ENGED-GE 2233 Cur Iss in Ed Linguistic \nA topical course focusing on a contemporary issue in language education.  Previous issues have included the politics of literacy, assessment of language ability, & social constructivism.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3299",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Beck, Sarah",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4346",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Gouck, Maura",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4664",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Kieffer, Michael J",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4345",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "McDonald, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "ENGED-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2310",
+            "course_name": "Sem in Classroom Tehng",
+            "description": "ENGED-GE 2310 Sem in Classroom Tehng",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2384",
+            "course_name": "Social Context of Lang Devel:British Perspect",
+            "description": "ENGED-GE 2384 Social Context of Lang Devel:British Perspect",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2397",
+            "course_name": "Lang Devel & Reading Lit",
+            "description": "ENGED-GE 2397 Lang Devel & Reading Lit \nBy writing fragments of a reading autobiography, students explore the impact of their language development of literary texts read at home and at school.  These experiences are then reflected upon to explore implications for the teaching of literature from preschool through college.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2402",
+            "course_name": "",
+            "description": "ENGED-GE 2402\n\n   Mentorship in English Ed\n\nThis course is designed for elementary and secondary teachers who will be mentoring new teachers, or for those already engaged in such work who want to refine their skills. This is an increasingly important role in context of teacher career development and the retention of high quality educators in the public school. The course will include a critical examination of theories of teaching learning including the dynamics of the mentor-novice relationship as a teaching-learning experience. Particular attention will be paid to methods of mentoring including team-teaching, critical friendship, inter...\n\n      more description for ENGED-GE 2402 \u00bb\n\n      \n\n\n\nThis course is designed for elementary and secondary teachers who will be mentoring new teachers, or for those already engaged in such work who want to refine their skills. This is an increasingly important role in context of teacher career development and the retention of high quality educators in the public school. The course will include a critical examination of theories of teaching learning including the dynamics of the mentor-novice relationship as a teaching-learning experience. Particular attention will be paid to methods of mentoring including team-teaching, critical friendship, inter visitations, and study groups, and how these work in the school context. Course participants will be required to engage in a 'mentoring' activity in their school &, using this as a case example, develop the capacity to engage in self-evaluation of the effectiveness of their role as mentor.\n\n      less description for ENGED-GE 2402 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2411",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4568",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Ahmed, Nada; Taylor, Ayanna",
+                    "time": "Sat 9.00 AM - 2.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Residency I: English Language Arts",
+            "description": "ENGED-GE 2411 Residency I: English Language Arts",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2412",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4569",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Residency 2: English Language Arts",
+            "description": "ENGED-GE 2412 Residency 2: English Language Arts",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2413",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4570",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Taylor, Ayanna",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Residency 3: English Language arts",
+            "description": "ENGED-GE 2413 Residency 3: English Language arts",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2416",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4671",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Taylor, Ayanna",
+                    "time": "Wed 5.30 PM - 7.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "ENGED-GE 2416\n\n   Community of Practice I\n\nThis year-long mentored experience accompanies the post-residency first-year paid teaching assignment. The approach to mentoring will follow closely the practices of the New Teacher Center, which include a formative assessment system based on the Danielson Framework, self-directed inquiry & professional growth planning, attention to teaching artifacts like student work, videos of practice, & synchronous as well as asynchronous online protocols to guide collective learning conversations about how to improve participants' teaching practice.  Participants, under the guidance of the NYU faculty me...\n\n      more description for ENGED-GE 2416 \u00bb\n\n      \n\n\n\nThis year-long mentored experience accompanies the post-residency first-year paid teaching assignment. The approach to mentoring will follow closely the practices of the New Teacher Center, which include a formative assessment system based on the Danielson Framework, self-directed inquiry & professional growth planning, attention to teaching artifacts like student work, videos of practice, & synchronous as well as asynchronous online protocols to guide collective learning conversations about how to improve participants' teaching practice.  Participants, under the guidance of the NYU faculty mentor, will attempt to solve real-time problems, share resources, improve existing teaching tools & develop new ones, observe best practices, & learn from master teachers.\n\n      less description for ENGED-GE 2416 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2417",
+            "course_name": "",
+            "description": "ENGED-GE 2417\n\n   Community of Practice II\n\nThis year-long mentored experience accompanies the post-residency first-year paid teaching assignment. The approach to mentoring will follow closely the practices of the New Teacher Center, which include a formative assessment system based on the Danielson Framework, self-directed inquiry & professional growth planning, attention to teaching artifacts like student work, videos of practice, & synchronous as well as asynchronous online protocols to guide collective learning conversations about how to improve participants' teaching practice.  Participants, under the guidance of the NYU faculty me...\n\n      more description for ENGED-GE 2417 \u00bb\n\n      \n\n\n\nThis year-long mentored experience accompanies the post-residency first-year paid teaching assignment. The approach to mentoring will follow closely the practices of the New Teacher Center, which include a formative assessment system based on the Danielson Framework, self-directed inquiry & professional growth planning, attention to teaching artifacts like student work, videos of practice, & synchronous as well as asynchronous online protocols to guide collective learning conversations about how to improve participants' teaching practice.  Participants, under the guidance of the NYU faculty mentor, will attempt to solve real-time problems, share resources, improve existing teaching tools & develop new ones, observe best practices, & learn from master teachers.\n\n      less description for ENGED-GE 2417 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2501",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3300",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Kirkland, David"
+                }
+            ],
+            "course_name": "Masters Sem:Eng Ed",
+            "description": "ENGED-GE 2501 Masters Sem:Eng Ed \nIntroduces students to seminal ideas and perspectives that inform our discipline.  Begins inquiry into several complex questions: How might English be conceived as a school subject?  How might language be learned and used?  How and why might literature be read and experienced?  What are the possible relationships among reading, talking, listening and thinking?  What issues are influencing the teaching of English today?  What are the possible roles for the English teacher?",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2505",
+            "course_name": "Found of Ed Linguistics",
+            "description": "ENGED-GE 2505 Found of Ed Linguistics \nIntroduces the systematic study of language.  Prepares educators to understand theory and research on language use and development.  Explores implications of such study for English teaching, reading and composition teaching, foreign language teaching, and working with people with language disorders.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2507",
+            "course_name": "Dramatic Activities in The English Classroom",
+            "description": "ENGED-GE 2507 Dramatic Activities in The English Classroom \nThe student examines aspects of linguistic behavior central to the oral communication process by analyzing his own oral behavior and relating his analysis to the observation of that process in others and to the investigation of strategies for the teaching of oral communication suggested by authorities in the field. The relationship of oral communication to the teaching of reading, writing, and literature is also explored.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2509",
+            "course_name": "Tchng Reading in The Eng Classroom",
+            "description": "ENGED-GE 2509 Tchng Reading in The Eng Classroom \nDevelops insights into the nature of narratives.  Explores stories, autobiographical and fictional, as ways of organizing,understanding, and coming to terms with our own experiences and as a means of imagining alternative realities.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2511",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "3301",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 384",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Beck, Sarah"
+                }
+            ],
+            "course_name": "Pract Tchg Expository Writing",
+            "description": "ENGED-GE 2511 Pract Tchg Expository Writing \nHelps teachers increase their awareness of the nature of writing and of the contexts and approaches that promote writing abilities.  Explores the assessment of student writing processes and performances, the creation and sequencing of writing prompts, and the role of response in the revision process.  Encourages a workshop approach to the reaching of writing.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2515",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3302",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Kirkland, David"
+                }
+            ],
+            "course_name": "Linguistics,Soc & Tchr",
+            "description": "ENGED-GE 2515 Linguistics,Soc & Tchr \nExploration of the relationships between the study of language and such phenomena as culture, social class, and community. Examination of such problems as the effects of mass communication and urban society on the individual and his use of language. Consideration of the social and pedagogical implications of the use of different dialects of teachers.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2521",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4611",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-4",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Fredrick, Tim"
+                }
+            ],
+            "course_name": "Lit & The Adolescent Experience",
+            "description": "ENGED-GE 2521 Lit & The Adolescent Experience \nExplores the ways in which literary works, in whatever media, contribute to the adolescent's sense of himself and his society. Examines a wide range of literary and sub literary representations of the adolescent experience and the equally wide range of the adolescent's expectations, responses, and attitudes toward the literary experience and its relationship to his life.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2540",
+            "course_name": "The English Teacher as Reflective Practioner",
+            "description": "ENGED-GE 2540 The English Teacher as Reflective Practioner \nExplores the nature of reflective practice and teacher research. Enable English teachers to observe, record, and reflect on teaching and learning processes, and share their insights with others. Includes a research project that investigates the individual teacher's practice within the social constraints that characterize  the school's context and environment.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2561",
+            "course_name": "Tchg Lit from Polit Pers",
+            "description": "ENGED-GE 2561 Tchg Lit from Polit Pers",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2577",
+            "course_name": "Teaching American Literature in the 21st Century:  Tradition and Innovation",
+            "description": "ENGED-GE 2577 Teaching American Literature in the 21st Century:  Tradition and Innovation \nInvestigates the canon's stranglehold on the traditional literature curriculum.  Explores pluralistic approaches to cultural literacy by reading divergent voices and considering how to integrate them into the traditional curriculum, K through college.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2578",
+            "course_name": "Critical Media Literacy: Teach The Word/The World",
+            "description": "ENGED-GE 2578 Critical Media Literacy: Teach The Word/The World",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 2911",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3303",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Soponis, Trevor"
+                }
+            ],
+            "course_name": "Student Teaching in the English Language Arts: Placement I",
+            "description": "ENGED-GE 2911 Student Teaching in the English Language Arts: Placement I \nThis combined seminar & practicum includes mentored student teaching, supplementary instruction in English & general methods, & guided visits to classrooms beyond the student teaching placement. Except by advisement, ENGED-GE 2911 should be taken in the same semester as ENGED-GE 2041 (Methods in Teaching English Language Arts).",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 2922",
+            "course_name": "Student Teaching in the English Language Arts: Placement II",
+            "description": "ENGED-GE 2922 Student Teaching in the English Language Arts: Placement II \nA critical analysis of one\u2019s student teaching in a middle or high school English class during the semester is designed to promote teacher self-assessment as a way of enhancing student learning & strengthening professional development. Course work involves hypothesizing appropriate learning goals, negotiating & enacting appropriate  learning experiences, assessing pupil learning & revising one\u2019s teaching on the basis of pupil performance in the English classroom. This critical analyses applies directly to the submission of work for edTPA assessment & completion of a professional portfolio.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 3013",
+            "course_name": "Doct Sem in Curric and Instruction",
+            "description": "ENGED-GE 3013 Doct Sem in Curric and Instruction \nExplores models and theories appropriate to English language arts curricula at all levels.  Provides lenses through which language educators can examine their practice, reflect on their decision making, and plan their future teaching.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-GE 3014",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16866",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 157",
+                    "time": "Fri 12.00 PM - 1.40 PM",
+                    "open": true,
+                    "professor": "Kieffer, Michael J"
+                }
+            ],
+            "course_name": "Doctoral Seminar in Reading Comprehension",
+            "description": "ENGED-GE 3014 Doctoral Seminar in Reading Comprehension \nThis course provides an introduction to the content & methods of current research on reading comprehension.  The course draws on a developmental & componential view of literacy that emphasizes the multidimensional, interactive nature of reading comprehension.  Key topics include theoretical models of reading comprehension development, individual differences in reading skills, bilingual & second-language reading development, discipline-specific reading processes, & evidence-based instructional approaches to improve students\u2019 reading comprehension.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-GE 3919",
+            "course_name": "Doctoral Seminar in Written Discourse",
+            "description": "ENGED-GE 3919 Doctoral Seminar in Written Discourse \nExamines theory and research in the teaching of composition.  Also considers the role of the practitioner in creating knowledge in the areas of composition teaching.",
+            "offering": false
+        }
+    ]
+}

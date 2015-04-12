@@ -1,0 +1,417 @@
+{
+    "major_id": "NUTR-UE",
+    "file": "./2015-2016/Nutrition_&_Dietetics_(NUTR-UE).html",
+    "courses": [
+        {
+            "course_id": "NUTR-UE 21",
+            "course_name": "Computers in Nutrition Food Service",
+            "description": "NUTR-UE   21 Computers in Nutrition Food Service \nApplication and evaluation of basic computer tools and techniques for nutritional analysis and food service management.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-UE 85",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10311",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Castro, Lourdes; Del Campo, Lourdes"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11456",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Aronson, Joan"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10312",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Tue 1.30 PM - 4.15 PM",
+                    "open": true,
+                    "professor": "Castro, Lourdes; Del Campo, Lourdes"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10313",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Castro, Lourdes; Del Campo, Lourdes"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10314",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Wed 1.30 PM - 4.15 PM",
+                    "open": true,
+                    "professor": "Castro, Lourdes; Del Campo, Lourdes"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10315",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Castro, Lourdes; Del Campo, Lourdes"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "11365",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "EDUC 1079"
+                }
+            ],
+            "course_name": "Intro to Foods and Food Science",
+            "description": "NUTR-UE   85 Intro to Foods and Food Science \nIntroduction to the foods of various world regions and the techniques used to prepare them through hand-on food preparation, demonstrations, lectures and field trips.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 91",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10316",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 279",
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Green, Claudia"
+                }
+            ],
+            "course_name": "Food Management Theory",
+            "description": "NUTR-UE   91 Food Management Theory \nOrganization and management of commercial and institutional food service facilities in hotels, restaurants, and educational and community program sites.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 119",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10318",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 383"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10319",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "194M 306"
+                }
+            ],
+            "course_name": "Nutrition and Health",
+            "description": "NUTR-UE  119 Nutrition and Health \nIntroduction to nutrition science and its role in health and society: nutrient characteristics, requirements, and food sources, energy balance, weight control, dietary guides and food planning, and social and economic factors that affect food production and consumption.\n\nLiberal Arts Core/CORE equivalent \u2013 satisfies the requirement for Natural Sciences.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10320",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 11.15 AM",
+                    "open": true,
+                    "professor": "GCASL 375"
+                }
+            ],
+            "course_name": "Theories & Techniques of Nutrition Ed Counseling",
+            "description": "NUTR-UE  120 Theories & Techniques of Nutrition Ed Counseling \nTheory and practice of nutritional education and dietary behavior change; methods of nutrition counseling in a variety of settings.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1023",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10322",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Tue 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "Palmieri, Michael"
+                }
+            ],
+            "course_name": "Food Microbiology & Sanitation",
+            "description": "NUTR-UE 1023 Food Microbiology & Sanitation \nFood safety, processing, and regulatory issues related to the role of microorganisms in food processing and preservation.  The use of Hazard Analysis Critical Control Points (HACCP) to prevent contamination of food, equipment, and personnel.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1048",
+            "course_name": "Food Microbiology and Sanitation:Safety Certif",
+            "description": "NUTR-UE 1048 Food Microbiology and Sanitation:Safety Certif \nThis course covers food service sanitation procedures: facilities, food handling, codes, and management responsibilities. It prepares students to take the National Restaurant Association examination for food-safety certification (SERVSAFE).",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-UE 1052",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10323",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Thu 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "Murzin, Sandra"
+                },
+                {}
+            ],
+            "course_name": "Food Production and Management",
+            "description": "NUTR-UE 1052 Food Production and Management \nInstitutional and commercial food preparation and service, menu planning and pricing, recipe standardization integrated with techniques, methods, principles, standards of food purchasing, receiving, merchandising, and staff supervision.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1064",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10325",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Wardley, Bridget"
+                }
+            ],
+            "course_name": "Nutritional Biochemistry",
+            "description": "NUTR-UE 1064 Nutritional Biochemistry \nStudy of the role of nutrients in the human body at the cellular level and in metabolism",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1068",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10326",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 408",
+                    "time": "Tue,Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Pinero, Domingo"
+                }
+            ],
+            "course_name": "Introduction to Human Physiology",
+            "description": "NUTR-UE 1068 Introduction to Human Physiology \nIntroduction to Human Physiology is a one-semester course for students with an interest in health care. Little exposure to biology is assumed for this course.  This course is heavily concerned with the basic concepts of structural and functional organization of the human body, the terminology involved in the areas of physiology and anatomy, and the understanding of the different anatomo-physiological systems.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Natural Sciences",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1117",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11660",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1078",
+                    "time": "Tue 10.00 AM - 11.40 AM",
+                    "open": true,
+                    "professor": "Gilbride, Judith"
+                }
+            ],
+            "course_name": "Current Research in Nutrition",
+            "description": "NUTR-UE 1117 Current Research in Nutrition \nCritical evaluation of recent research through seminars and class discussions.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1184",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10327",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1080",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Raghavan, Sree"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10328",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Mon 6.45 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "Raghavan, Sree"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10329",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Mon 6.45 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "Raghavan, Sree"
+                }
+            ],
+            "course_name": "Food Science & Tech",
+            "description": "NUTR-UE 1184 Food Science & Tech \nScientific and sensory principles of food evaluation; professional methods, quality assurance, and objective experiments in advanced food preparation.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1185",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10330",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 361",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Chio, Linda"
+                }
+            ],
+            "course_name": "Clinical Nutrition Assessment Intervention",
+            "description": "NUTR-UE 1185 Clinical Nutrition Assessment Intervention \nAdvanced study of the effects of disease on nutrient and energy requirements and metabolism, assessment and treatment of disease-indused malnutrition, nutritional support methods applied to case management. Emphasizes assessment of anthropometric and biochemical indicators, clinical symptoms, and development of individual nutritional care plans. For advanced undergraduates and graduate students requiring preparation for clinical course.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1187",
+            "course_name": "",
+            "description": "NUTR-UE 1187\n\n   Introduction to Global Issues in Nutrition\n\nThis course introduces the current issues related to global nutrition. It integrates basic information about food intake and nutrition into discussions of major nutrition-related problems around the world. The course will present and discuss international, national and community-level policies and programs designed to improve the nutritional status of populations and to overcome barriers to their implementation. This course will also discuss nutritional status as a \u201ccontinuum\u201d whereby populations can simultaneously have members with severe under-nutrition, good nutritional status, and over-nut...\n\n      more description for NUTR-UE 1187 \u00bb\n\n      \n\n\n\nThis course introduces the current issues related to global nutrition. It integrates basic information about food intake and nutrition into discussions of major nutrition-related problems around the world. The course will present and discuss international, national and community-level policies and programs designed to improve the nutritional status of populations and to overcome barriers to their implementation. This course will also discuss nutritional status as a \u201ccontinuum\u201d whereby populations can simultaneously have members with severe under-nutrition, good nutritional status, and over-nutrition. The course will focus on the burden of under-nutrition but will also discuss several \u201cemerging\u201d or special topics including the nutrition transition, weaning and complementary feeding, and women and health.\n\n      less description for NUTR-UE 1187 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-UE 1198",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10331",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC6",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Tripp, Frederick"
+                }
+            ],
+            "course_name": "Fieldwork",
+            "description": "NUTR-UE 1198 Fieldwork \nParticipation and experience in the professional field of major interest.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1200",
+            "course_name": "Food Preparation Tech: Photography",
+            "description": "NUTR-UE 1200 Food Preparation Tech: Photography \nIntroduction to methods involved in preparing food to be photographed for use in print and other media formats.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-UE 1209",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10333",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1078",
+                    "time": "Thu 11.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "Sparks, Rebecca"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10334",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Sparks, Rebecca"
+                }
+            ],
+            "course_name": "Community Nutrition",
+            "description": "NUTR-UE 1209 Community Nutrition \nRationale for development of community nutrition programs and their design, implementation, and evaluation.  Lectures and individual and group projects.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1260",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10336",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 369"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11428",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 410",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Klein, Dana"
+                }
+            ],
+            "course_name": "Diet Assessment and Planning",
+            "description": "NUTR-UE 1260 Diet Assessment and Planning \nAssessment of the food intake and needs of individuals of diverse ages and backgrounds. Taking into consideration the genetic, cultural, social, and economic factors that affect dietary choices, students will develop dietary plans that meet current recommendations for a variety of health conditions using exchange systems, food composition data, menus, recipes, and product labels.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 1269",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10337",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 307",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Sasson, Lisa"
+                }
+            ],
+            "course_name": "Nutrition and Life Cycle",
+            "description": "NUTR-UE 1269 Nutrition and Life Cycle \nAnalysis and application of the physiological, biological, and biochemical basis for differences in nutritional requirements throughout the principle stages of the life cycle - pregnancy, infancy, childhood, adolescence, adulthood, older adulthood - and the ways in which social and environmental factors influence nutritional status at each stage.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-UE 9187",
+            "course_name": "Introduction to Global Issues in NutritionThe African Perspective",
+            "description": "NUTR-UE 9187 Introduction to Global Issues in NutritionThe African Perspective \nIntroduction to world food problems & their nutritional, economic, & social effects.",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "major_id": "LAGC-UF",
+    "file": "./2015-2016/Latin_American_Cultures-_GlobalCultures_(LAGC-UF).html",
+    "courses": [
+        {
+            "course_id": "LAGC-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12116",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 567",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Navia, Patricio"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12117",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 567",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Navia, Patricio"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12244",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 261",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Ramos, Luis"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12243",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-2",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ramos, Luis"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12205",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 567",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Navia, Patricio"
+                }
+            ],
+            "course_name": "Latin American Cultures",
+            "description": "LAGC-UF  101 Latin American Cultures \nThis course is intended to give a general view of the great diversity in the areas south of the United States. Given the influences of Europe, the United States, Africa and indigenous Indian cultures on the region?s varied cultures and societies, the course may cover different topics and time periods, such as the historical background to the social, political, economic, and/or ethnological issues of the twentieth and twenty-first centuries; the course may also explore the artistic developments in different countries and their relationship to larger social structures.",
+            "offering": true
+        }
+    ]
+}

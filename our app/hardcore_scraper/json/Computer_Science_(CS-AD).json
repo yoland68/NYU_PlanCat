@@ -1,0 +1,288 @@
+{
+    "major_id": "CS-AD",
+    "file": "./2015-2016/Computer_Science_(CS-AD).html",
+    "courses": [
+        {
+            "course_id": "CS-AD 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12727",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 002",
+                    "time": "Tue,Thu 2.10 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Zaki, Yasir"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "12895",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 002",
+                    "time": "Mon,Wed 2.10 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "White, Jerome"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "13085",
+                    "section": "003",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "CAMP W005",
+                    "time": "Mon,Wed 9.15 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "White, Jerome"
+                }
+            ],
+            "course_name": "",
+            "description": "CS-AD  101\n\n   Introduction to Computer Science\n\nComputer Science is an innovative and exciting field that focuses on producing efficient solutions for solving problems in any field. This course introduces students to the foundations of computer science. Students learn how to design algorithms to solve problems and how to translate these algorithms into working computer programs using a high-level programming language. The course covers core programming concepts including basic computation; data structures; control structure; iterative structures; file input/output and exception handling; recursion, sorting, searching, and functions. Student...\n\n      more description for CS-AD  101 \u00bb\n\n      \n\n\n\nComputer Science is an innovative and exciting field that focuses on producing efficient solutions for solving problems in any field. This course introduces students to the foundations of computer science. Students learn how to design algorithms to solve problems and how to translate these algorithms into working computer programs using a high-level programming language. The course covers core programming concepts including basic computation; data structures; control structure; iterative structures; file input/output and exception handling; recursion, sorting, searching, and functions. Students also learn the elements of Object Oriented Programming (OOP), such as objects, classes, inheritance, abstraction, polymorphism, and interface. OOP is a programming paradigm used to solve complex systems. Students produce programs focusing on scientific concepts, graphics, games, and web common gateway interface (CGI) implementation. Students design, test, and develop innovative software applications such as games, interactive websites, and other projects related to different fields. In a final project, they develop a fully functioning, interactive, fun game that employs a clean design, intuitive graphical user interface (GUI), simple to moderate strategy, and event-handling techniques.\n\n      less description for CS-AD  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 103",
+            "course_name": "",
+            "description": "CS-AD  103\n\n   Data Structures\n\nOrganizing and managing large quantities of data using computer programs is increasingly essential to all scientific and engineering disciplines. This course teaches students the principles of data organization in a computer, and how to work efficiently with large quantities of data. Students learn how to design data structures for representing information in computer memory, emphasizing abstract data types and their implementation, and designing algorithms using these representations. Topics include recursion, asymptotic analysis of algorithms, lists, stacks, queues, trees, hashing, priority ...\n\n      more description for CS-AD  103 \u00bb\n\n      \n\n\n\nOrganizing and managing large quantities of data using computer programs is increasingly essential to all scientific and engineering disciplines. This course teaches students the principles of data organization in a computer, and how to work efficiently with large quantities of data. Students learn how to design data structures for representing information in computer memory, emphasizing abstract data types and their implementation, and designing algorithms using these representations. Topics include recursion, asymptotic analysis of algorithms, lists, stacks, queues, trees, hashing, priority queues, sorting, dictionaries, and Huffman Codes. This course is taught using the C++ programming language.\n\n      less description for CS-AD  103 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 104",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12761",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 003",
+                    "time": "Mon,Wed 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Chen, Jay"
+                }
+            ],
+            "course_name": "Computer Systems Organization",
+            "description": "CS-AD  104 Computer Systems Organization \nThe course focuses on understanding lower-level issues in computer design and programming. The course starts with the C programming language, moves down to assembly and machine-level code, and concludes with basic operating systems and architectural concepts. Students learn to read assembly code and reverse-engineer programs in binary. Topics covered include the C programming language, data representation, machine-level code, memory organization and management, performance evaluation and optimization, and concurrency.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 105",
+            "course_name": "",
+            "description": "CS-AD  105\n\n   Algorithms\n\nAlgorithms lie at the very heart of computer science. An algorithm is an effective procedure, expressed as a finite list of precisely defined instructions, for solving problems that arise in applications in any domain of knowledge. All computer programs are translations of algorithms into some programming language. Often the most difficult parts of designing an algorithm are to make sure that when it is programmed in a computer, it runs as fast as possible and does what it was designed to do. This course covers the foundations of the design and analysis of algorithms at an advanced level, focu...\n\n      more description for CS-AD  105 \u00bb\n\n      \n\n\n\nAlgorithms lie at the very heart of computer science. An algorithm is an effective procedure, expressed as a finite list of precisely defined instructions, for solving problems that arise in applications in any domain of knowledge. All computer programs are translations of algorithms into some programming language. Often the most difficult parts of designing an algorithm are to make sure that when it is programmed in a computer, it runs as fast as possible and does what it was designed to do. This course covers the foundations of the design and analysis of algorithms at an advanced level, focusing on proving the correctness of algorithms, analyzing their computational efficiency, and designing efficient algorithms. The algorithms studied are taken from a variety of applications such as robotics, artificial intelligence, heuristic search, pattern recognition, machine learning, music, bioinformatics, arithmetic, algebra, and geometry.\n\n      less description for CS-AD  105 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 106",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17292",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 002",
+                    "time": "Mon,Wed 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Abouzied, Azza"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19547",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 002",
+                    "time": "Sun 9.15 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Abouzied, Azza"
+                }
+            ],
+            "course_name": "",
+            "description": "CS-AD  106\n\n   Operating Systems\n\nA digital computer consists of hardware and software that users employ to solve problems in a wide variety of applications. The operating system in a computer is a collection of software functioning as the chief manager that oversees the interactions between the users and the applications, the software and the hardware, and is responsible for scheduling the many tasks involved in an efficient and user-friendly manner. This course covers high-level design of key operating system concepts such as process scheduling and synchronization; concurrency, deadlocks and their prevention; memory manageme...\n\n      more description for CS-AD  106 \u00bb\n\n      \n\n\n\nA digital computer consists of hardware and software that users employ to solve problems in a wide variety of applications. The operating system in a computer is a collection of software functioning as the chief manager that oversees the interactions between the users and the applications, the software and the hardware, and is responsible for scheduling the many tasks involved in an efficient and user-friendly manner. This course covers high-level design of key operating system concepts such as process scheduling and synchronization; concurrency, deadlocks and their prevention; memory management, including (demand) paging and segmentation; and I/O and file systems. Students learn about the design and implementation of the operating systems that run on your personal computers and smartphones. This is a hands-on course where students implement (in C, C++, Java, or C#) operating system components like those found in Windows, UNIX/Linux, and Android.\n\n      less description for CS-AD  106 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 116",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17297",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 002",
+                    "time": "Mon,Wed 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Toussaint, Godfried"
+                }
+            ],
+            "course_name": "",
+            "description": "CS-AD  116\n\n   Discrete Mathematics\n\nDiscrete mathematics concerns the study of mathematical structures that are discrete rather than continuous, and provides a powerful language for investigating many areas of computer science. Discrete structures are characterized by distinct elements, which are often represented by integers. Continuous mathematics on the other hand deals with real numbers. Topics include most of the following: sets, counting techniques, Boolean logic, threshold logic, logic circuits, types of induction, proof techniques, solving recurrence relations, order of magnitude analysis, number theory, probability, sta...\n\n      more description for CS-AD  116 \u00bb\n\n      \n\n\n\nDiscrete mathematics concerns the study of mathematical structures that are discrete rather than continuous, and provides a powerful language for investigating many areas of computer science. Discrete structures are characterized by distinct elements, which are often represented by integers. Continuous mathematics on the other hand deals with real numbers. Topics include most of the following: sets, counting techniques, Boolean logic, threshold logic, logic circuits, types of induction, proof techniques, solving recurrence relations, order of magnitude analysis, number theory, probability, statistics, Bayes' Rule, relations, graph theory, and discrete geometry. These mathematical tools are illustrated with applications in computer science.\n\n      less description for CS-AD  116 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 170",
+            "course_name": "",
+            "description": "CS-AD  170\n\n   Computer Security | Introduction to Computer Security\n\nTechnology increasingly permeates every aspect of our lives (including communication, finance, health, utilities, etc.), and the security of the computer systems that enable these services has become a critical issue. This course is an introduction to fundamental cybersecurity concepts, principles, and techniques. In this course students learn basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and the theory behind common attack and defense techniques. The course goes over formal models as well as the inner workings of real-wo...\n\n      more description for CS-AD  170 \u00bb\n\n      \n\n\n\nTechnology increasingly permeates every aspect of our lives (including communication, finance, health, utilities, etc.), and the security of the computer systems that enable these services has become a critical issue. This course is an introduction to fundamental cybersecurity concepts, principles, and techniques. In this course students learn basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and the theory behind common attack and defense techniques. The course goes over formal models as well as the inner workings of real-world security exploits, with emphasis on building hands-on experience.\n\n      less description for CS-AD  170 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 209",
+            "course_name": "",
+            "description": "CS-AD  209\n\n   Software Engineering\n\nAs the need for web and mobile applications grows every year, it is crucial to use efficient software engineering techniques to design software applications. This course is an intensive, hands-on study of practical techniques and methods of software engineering. Topics include design patterns, refactoring, code optimization, universal modeling language, threading, advanced object-oriented design, user interface design, web and mobile development, and enterprise application development tools. All topics are integrated and applied during a semester-long group project. The aim of the project is t...\n\n      more description for CS-AD  209 \u00bb\n\n      \n\n\n\nAs the need for web and mobile applications grows every year, it is crucial to use efficient software engineering techniques to design software applications. This course is an intensive, hands-on study of practical techniques and methods of software engineering. Topics include design patterns, refactoring, code optimization, universal modeling language, threading, advanced object-oriented design, user interface design, web and mobile development, and enterprise application development tools. All topics are integrated and applied during a semester-long group project. The aim of the project is to prepare students for dynamics in a real workplace, focusing on web and mobile applications.\n\n      less description for CS-AD  209 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 210",
+            "course_name": "Unix Tools",
+            "description": "CS-AD  210 Unix Tools \nThe contents of this course will be regularly revised to track developing technologies, so the following are only representative topics. Basic Unix tools, such as shells, windowing systems, awk, grep, and tar. Security using PGP and Truecrypt. Scripting languages, such as Perl. Collaborative tools such as version control systems and wikis. Typesetting systems such as LaTex. Computational tools such as Matlab. Web development tools, such as HTML, JavaScript, and CGI.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 211",
+            "course_name": "Programming Languages",
+            "description": "CS-AD  211 Programming Languages \nAn in-depth examination of the four major categories of programming languages: imperative, object-oriented, functional, and logic languages. Specific languages will be chosen for illustration. Fundamental issues of programming languages, such as type systems, scoping, concurrency, modularization, control flow, and semantics, are discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 212",
+            "course_name": "Artificial Intelligence",
+            "description": "CS-AD  212 Artificial Intelligence \nThere are many cognitive tasks that people do easily and almost unconsciously but that have proven extremely difficult to program on a computer. Artificial intelligence is the problem of developing computer systems that can carry out these tasks. Topics to be covered include heuristic search (A* Algorithm); problem solving; automated reasoning; reasoning with uncertainty; machine learning; perceptrons; Bayesian networks; hidden Markov models; and applications to areas such as computer vision, natural language processing, music processing, computer games, robotics, and planning.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 213",
+            "course_name": "Computer Architecture",
+            "description": "CS-AD  213 Computer Architecture \nFundamentals of computer design. Topics include instruction-set architecture, pipelining, branch prediction, dynamic scheduling, hardware speculation and super scalars, VLIW, memory system (cache and main memory), multiprocessing (snooping protocol and directory protocol), interconnection networks, and case studies.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 214",
+            "course_name": "",
+            "description": "CS-AD  214\n\n   Database Systems | Databases\n\nInformation technology is ubiquitous in our modern society. We all use this technology routinely to obtain information about almost anything in our daily lives. A database is a site that stores information or data in an organized way, together with supporting data structures and database languages that permit users to effect operations such as visualizing data, searching data, deleting old data, and inserting new data, in a secure way. In this course students learn the basic techniques for designing and managing databases useful in a variety of applications ranging from websites and banking sy...\n\n      more description for CS-AD  214 \u00bb\n\n      \n\n\n\nInformation technology is ubiquitous in our modern society. We all use this technology routinely to obtain information about almost anything in our daily lives. A database is a site that stores information or data in an organized way, together with supporting data structures and database languages that permit users to effect operations such as visualizing data, searching data, deleting old data, and inserting new data, in a secure way. In this course students learn the basic techniques for designing and managing databases useful in a variety of applications ranging from websites and banking systems, to video games.\n\n      less description for CS-AD  214 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 215",
+            "course_name": "",
+            "description": "CS-AD  215\n\n   Compilers\n\nAt the lowest level of data manipulation and computation in a computer, information is stored as binary sequences of ones and zeros. In order to make a computer execute any function, a program is required that manipulates these binary sequences. Such programs are written in a language called machine code or assembly language. Programming a computer in machine code is very cumbersome for human beings. However, humans are comfortable programming in high-level computer languages that resemble natural languages. A compiler is a computer program that translates (transforms) a program written in a h...\n\n      more description for CS-AD  215 \u00bb\n\n      \n\n\n\nAt the lowest level of data manipulation and computation in a computer, information is stored as binary sequences of ones and zeros. In order to make a computer execute any function, a program is required that manipulates these binary sequences. Such programs are written in a language called machine code or assembly language. Programming a computer in machine code is very cumbersome for human beings. However, humans are comfortable programming in high-level computer languages that resemble natural languages. A compiler is a computer program that translates (transforms) a program written in a high-level language to one in machine code. In this course students learn how to design state of the art compilers.\n\n      less description for CS-AD  215 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 216",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13039",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 003",
+                    "time": "Mon,Wed 3.35 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Ray, Saurabh"
+                }
+            ],
+            "course_name": "Computer Graphics | Foundations of Computer Graphics",
+            "description": "CS-AD  216 Computer Graphics | Foundations of Computer Graphics \nHuman beings communicate with computers using text, sound, and a variety of other modalities. Computer graphics deals with almost everything other than text and sound, and is therefore dominated by the visual aspects of computing. It is concerned with the design of algorithms, programs, graphics languages, graphics data structures, display devices, and systems for creating realistic images, and processing visual inputs such as photographs, drawings, movies, animations, or simulations.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 217",
+            "course_name": "",
+            "description": "CS-AD  217\n\n   Computer Networks\n\nHave you ever wondered how the Internet or Facebook is able to support a billion simultaneous users? This course teaches students the design and implementation of such Internet-scale networks and networked systems. Students learn about the principles and techniques used to construct large scale networks and systems. Topics include routing protocols, network congestion control, wireless networking, overlay networks and applications, network security, and peer-to-peer systems. Upon completing this course students are able to initiate and critique research ideas, implement their own working syste...\n\n      more description for CS-AD  217 \u00bb\n\n      \n\n\n\nHave you ever wondered how the Internet or Facebook is able to support a billion simultaneous users? This course teaches students the design and implementation of such Internet-scale networks and networked systems. Students learn about the principles and techniques used to construct large scale networks and systems. Topics include routing protocols, network congestion control, wireless networking, overlay networks and applications, network security, and peer-to-peer systems. Upon completing this course students are able to initiate and critique research ideas, implement their own working systems, and evaluate such systems. To make the issues more concrete, the class includes several multi-week projects requiring significant design and implementation.  The goal is for students to learn not only what computer networks are and how they work today, but also why they are designed the way they are and how they are likely to evolve in the future. Examples are drawn primarily from the Internet.\n\n      less description for CS-AD  217 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 218",
+            "course_name": "Advanced Algorithms | Theory of Computation",
+            "description": "CS-AD  218 Advanced Algorithms | Theory of Computation \nCan a digital computer solve any computation problem in principle? If it can, how long might it take to arrive at a solution? Indeed, what is meant by digital computation? These are the central questions that drive the theory of computation to shed light on the nature of computation. In this theoretical computer science course, a digital computer is considered as a precise mathematical model of computation. Such models are analyzed in terms of what they can and cannot do, and the computational complexity of the algorithms they use for solving a variety of important and fundamental problems.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 219",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20142",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Mon,Wed 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Zaki, Yasir"
+                }
+            ],
+            "course_name": "Special Topics in Computer Science",
+            "description": "CS-AD  219 Special Topics in Computer Science \nAdvanced courses, varying each semester. Topics may include: natural language processing; computer vision; cryptography and security; game programming; machine learning; software engineering; wireless networks; information retrieval; and user interfaces. \n \nSoftware proficiency: a basic programming skills in some language is necessary for the completion of certain assignments.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 220",
+            "course_name": "Natural Language Processing",
+            "description": "CS-AD  220 Natural Language Processing \nThe field of natural language processing (NLP), also known as computational linguistics, is interested in the modeling and processing of human (i.e., natural) languages. This course covers foundational NLP concepts and ideas, such as finite state methods, n-gram modeling, hidden Markov models, part-of-speech tagging, context free grammars, syntactic parsing and semantic representations. The course will survey a range of NLP applications such as information retrieval, summarization and machine translation. Concepts taught in class will be reinforced in practice by hands-on assignments.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 298",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17291",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CS-AD  298\n\n   Directed Study | Directed Study in Computer Science\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in computer science. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration r...\n\n      more description for CS-AD  298 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in computer science. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Research in computer science are available from the Office of the Dean of Science.\n\n      less description for CS-AD  298 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 299",
+            "course_name": "",
+            "description": "CS-AD  299\n\n   Directed Study | Directed Study in Computer Science\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in computer science. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration r...\n\n      more description for CS-AD  299 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in computer science. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Research in computer science are available from the Office of the Dean of Science.\n\n      less description for CS-AD  299 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-AD 390",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17290",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "COMP_RES 002"
+                }
+            ],
+            "course_name": "",
+            "description": "CS-AD  390\n\n   Computer Science Capstone Seminar\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD computer scientists and others in related fields. Through exposure to NYUAD faculty research, students will identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth computer science capstone proposal. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their se...\n\n      more description for CS-AD  390 \u00bb\n\n      \n\n\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD computer scientists and others in related fields. Through exposure to NYUAD faculty research, students will identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth computer science capstone proposal. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.  Beginning in 2015-16 all science majors are expected to take this course in the junior year; it will be offered every Spring semester.\n\n      less description for CS-AD  390 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 400",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13040",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CS-AD  400\n\n   Capstone Project\n\nThe senior Capstone Experience in computer science requires students to engage in a long-term, mentored learning experience that culminates in a piece of original research. The specific project is developed during junior year as part of the Capstone Seminar. Students may carry out either an applied or theoretical project. Students choosing to complete an applied research project may develop a significant software application applying an efficient algorithmic-based solution to a fundamental problem in any field such as health, arts, environment, science, engineering, business, or education. A s...\n\n      more description for CS-AD  400 \u00bb\n\n      \n\n\n\nThe senior Capstone Experience in computer science requires students to engage in a long-term, mentored learning experience that culminates in a piece of original research. The specific project is developed during junior year as part of the Capstone Seminar. Students may carry out either an applied or theoretical project. Students choosing to complete an applied research project may develop a significant software application applying an efficient algorithmic-based solution to a fundamental problem in any field such as health, arts, environment, science, engineering, business, or education. A senior thesis comprising either an applied or theoretical research project should fit standards of publication as outlined by a top-tier international journal or conference.\n\n      less description for CS-AD  400 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-AD 401",
+            "course_name": "",
+            "description": "CS-AD  401\n\n   Capstone Project\n\nThe senior Capstone Experience in computer science requires students to engage in a long-term, mentored learning experience that culminates in a piece of original research. The specific project is developed during junior year as part of the Capstone Seminar. Students may carry out either an applied or theoretical project. Students choosing to complete an applied research project may develop a significant software application applying an efficient algorithmic-based solution to a fundamental problem in any field such as health, arts, environment, science, engineering, business, or education. A s...\n\n      more description for CS-AD  401 \u00bb\n\n      \n\n\n\nThe senior Capstone Experience in computer science requires students to engage in a long-term, mentored learning experience that culminates in a piece of original research. The specific project is developed during junior year as part of the Capstone Seminar. Students may carry out either an applied or theoretical project. Students choosing to complete an applied research project may develop a significant software application applying an efficient algorithmic-based solution to a fundamental problem in any field such as health, arts, environment, science, engineering, business, or education. A senior thesis comprising either an applied or theoretical research project should fit standards of publication as outlined by a top-tier international journal or conference.\n\n      less description for CS-AD  401 \u00ab",
+            "offering": false
+        }
+    ]
+}

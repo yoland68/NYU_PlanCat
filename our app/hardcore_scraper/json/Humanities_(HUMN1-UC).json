@@ -1,0 +1,186 @@
+{
+    "major_id": "HUMN1-UC",
+    "file": "./2015-2016/Humanities_(HUMN1-UC).html",
+    "courses": [
+        {
+            "course_id": "HUMN1-UC 6401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9759",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "GODD B07",
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Busbee, Mary"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9760",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "TISC LC7",
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Robbennolt, Ray"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9761",
+                    "section": "003",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "GODD B07",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Diyanni, Robert"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9762",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "SILV 506",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Lapiner, Robert"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9763",
+                    "section": "005",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "GODD B04",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Hulley, Kathleen"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9764",
+                    "section": "006",
+                    "period": "09/05/2015 - 12/19/2015",
+                    "location": "25W4 C-16",
+                    "time": "Sat 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Rivera, Elena"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9912",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Diyanni, Robert",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Critical Thinking",
+            "description": "HUMN1-UC 6401 Critical Thinking \nStudents learn the fundamental questions to ask in order to analyze visual and written material. Students interrogate ideas, images, and texts within their rhetorical and historical contexts. They learn various tools for analyzing the structure of arguments and logical strategies. At the same time, students read texts that challenge them to reexamine the cultural realities we take for granted.",
+            "offering": true
+        },
+        {
+            "course_id": "HUMN1-UC 6403",
+            "course_name": "Foundations of Philosophical Thought",
+            "description": "HUMN1-UC 6403 Foundations of Philosophical Thought \nAn introduction to philosophy, using the original writings of several philosophers from the ancient and medieval periods, focusing on the origins and development of Western philosophy among the ancient Greeks. Students typically examine works by pre-Socratic writers, Socrates, Plato, and Artistotle, and move on to the works by modern philosophers such as Descartes, Spinoza, Locke, Hume, and Kant.",
+            "offering": false
+        },
+        {
+            "course_id": "HUMN1-UC 7900",
+            "course_name": "",
+            "description": "HUMN1-UC 7900\n\n   Humanities Research Seminar\n\nThe goal of this research methodology course is to enable the student to do humanities research, particularly in the fields of Art History, Literature, and Media Studies. It begins with bibliographic research, emphasizing the full range of available tools: library catalogues, online databases, indices of periodical literature, and archives of the visual media. It also strengthens the student's understanding of the manner in which material is gathered and how it can be critically analyzed, synthesized, paraphrased, compared, and contrasted in the research paper. Finally, it allows the student t...\n\n      more description for HUMN1-UC 7900 \u00bb\n\n      \n\n\n\nThe goal of this research methodology course is to enable the student to do humanities research, particularly in the fields of Art History, Literature, and Media Studies. It begins with bibliographic research, emphasizing the full range of available tools: library catalogues, online databases, indices of periodical literature, and archives of the visual media. It also strengthens the student's understanding of the manner in which material is gathered and how it can be critically analyzed, synthesized, paraphrased, compared, and contrasted in the research paper. Finally, it allows the student to identify a topic, develop an argument, and begin the research required for research papers or the Senior Project Seminar.\n\n      less description for HUMN1-UC 7900 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HUMN1-UC 7941",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9782",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Carryl, Colin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study - Humanities",
+            "description": "HUMN1-UC 7941 Independent Study - Humanities \nStudents conduct an independent investigation of selected topics outside the boundaries of the classroom. Independent study allows students to pursue specialized interests, within the framework of the curriculum, that are not available in existing courses. Although  self-directed,  students  work closely with a faculty mentor who guides and evaluates their work.",
+            "offering": true
+        },
+        {
+            "course_id": "HUMN1-UC 7942",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9783",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Burns, William",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship: Humanities",
+            "description": "HUMN1-UC 7942 Internship: Humanities",
+            "offering": true
+        },
+        {
+            "course_id": "HUMN1-UC 7991",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9784",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "BOBS 836",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Burns, William"
+                }
+            ],
+            "course_name": "Senior Project: Humanities",
+            "description": "HUMN1-UC 7991 Senior Project: Humanities \nOnline section offered. Students are assisted in defining and undertaking an individually designed Senior Project. They complete a research paper or a creative project related to their concentration. Students work closely with the Senior Project faculty member and meet regularly with fellow students in discussion groups. The final result is the summation of work done in the Bachelor of Arts Program.",
+            "offering": true
+        },
+        {
+            "course_id": "HUMN1-UC 7992",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9785",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "GODD B07",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Burns, William"
+                }
+            ],
+            "course_name": "Snr Project: Internship Humanities",
+            "description": "HUMN1-UC 7992 Snr Project: Internship Humanities \nStudents may undertake a Senior Project Internship, which typically entails out-placement in an organization related to the student's academic concentration as well as a written component. Among recent internships, students have been placed at Memorial Sloan-Kettering Hospital, the New York City Arts Commission, and Covenant House. Interested students should discuss this program with the Paul McGhee Division Internship Coordinator.",
+            "offering": true
+        },
+        {
+            "course_id": "HUMN1-UC 7993",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9786",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Carryl, Colin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Proj: Humanities Independent Study",
+            "description": "HUMN1-UC 7993 Senior Proj: Humanities Independent Study",
+            "offering": true
+        }
+    ]
+}

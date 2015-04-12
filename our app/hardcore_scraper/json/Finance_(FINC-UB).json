@@ -1,0 +1,592 @@
+{
+    "major_id": "FINC-UB",
+    "file": "./2015-2016/Finance_(FINC-UB).html",
+    "courses": [
+        {
+            "course_id": "FINC-UB 2",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9254",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC25",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Savov, Alexi"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9255",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 200",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Drechsler, Itamar"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9256",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 200",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Drechsler, Itamar"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9257",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC25",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Kuchler, Anna"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9258",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC25",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kuchler, Anna"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9575",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC25",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Kuchler, Anna"
+                }
+            ],
+            "course_name": "Foundations of Finance",
+            "description": "FINC-UB    2 Foundations of Finance \nA rigorous course that develops the basic concepts and tools of modern finance. It explores in detail basic concepts of return and risk with a view to understanding how financial markets work and how different kinds of financial instruments are valued. These instruments, including equities, fixed income securities, options, and other derivative securities, become vehicles for exploring various financial markets and the utilization of these markets by managers in different kinds of financial institutions to enhance return and manage risk.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 7",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9259",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 200",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Liberman, Andres"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9260",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Parlatore Siritto, Cecilia"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9261",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Parlatore Siritto, Cecilia"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9262",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Parlatore Siritto, Cecilia"
+                }
+            ],
+            "course_name": "Corporate Finance",
+            "description": "FINC-UB    7 Corporate Finance \nThis course helps students develop an analytical framework for understanding how organizations make investment and financing decisions. Students also learn the theory and practice of various valuation techniques. There is an emphasis on understanding the theory and its applications to the real world as well as appreciating the limitations of the tools in practical settings. Specific topics include capital budgeting, investment decision rules, discounted cash flow valuation, real options, cost of capital, capital structure, dividend policy, and valuation methods such as WACC and APV.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 8",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9263",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Marciano, Anthony"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB    8\n\n   Advanced Corp Finance\n\nThe purpose of this course is to familiarize students with the core concepts and theory underlying much of the general understanding of corporate finance and its impact on corporate valuation. The first part of the course consists of lectures on corporate finance theory which explore the links between a firm's financing decisions, its investment decisions, and corporate structure through the lenses of taxes, information asymmetries, and the conflicts of interest between its various stakeholders. The second part of the course consists of case studies which illustrate the relevance of the theore...\n\n      more description for FINC-UB    8 \u00bb\n\n      \n\n\n\nThe purpose of this course is to familiarize students with the core concepts and theory underlying much of the general understanding of corporate finance and its impact on corporate valuation. The first part of the course consists of lectures on corporate finance theory which explore the links between a firm's financing decisions, its investment decisions, and corporate structure through the lenses of taxes, information asymmetries, and the conflicts of interest between its various stakeholders. The second part of the course consists of case studies which illustrate the relevance of the theoretical framework for (understanding and designing) real-world corporate financial strategy and for (understanding and dealing with) strategic issues in corporate valuation. The course material is organized around central corporate finance \"concepts\" (debt overhang, risk-shifting, managerial agency, adverse selection, etc.) and \"applications\" (bankruptcy and restructuring, IPOs and valuation, M&A, corporate governance, etc.).\n\n      less description for FINC-UB    8 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 11",
+            "course_name": "The Financial Crisis of 2007-2009 and its Aftermath",
+            "description": "FINC-UB   11 The Financial Crisis of 2007-2009 and its Aftermath \nThis course describes the causes leading up to the financial crisis of 2007-2009, the events of the crisis, and the resulting financial legislation enacted in the aftermath. The focus of the course will be on understanding the economics of what happened, and on providing a critical analysis of the legislation that now impacts financial markets and the broader economy.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 15",
+            "course_name": "",
+            "description": "FINC-UB   15\n\n   Alternative Investments I: Principles & Strategies\n\nThis course provides both a theoretical and practical look into the world of managing alternative investments, in particular, hedge funds. The course is organized from the perspective of an asset manager (e.g. pension fund, endowment, family office, fund of funds, etc.) having to chose amongst a cross-section of hedge funds. Students are introduced to the dimensions and institutional features of the hedge fund sector, and then proceed to study how various classic hedge fund strategies are executed as well as more advanced quantitative strategies. Performance evaluation, risk management, and du...\n\n      more description for FINC-UB   15 \u00bb\n\n      \n\n\n\nThis course provides both a theoretical and practical look into the world of managing alternative investments, in particular, hedge funds. The course is organized from the perspective of an asset manager (e.g. pension fund, endowment, family office, fund of funds, etc.) having to chose amongst a cross-section of hedge funds. Students are introduced to the dimensions and institutional features of the hedge fund sector, and then proceed to study how various classic hedge fund strategies are executed as well as more advanced quantitative strategies. Performance evaluation, risk management, and due diligence in the formation and execution of strategies are also covered. Students will have access to a proprietary software platform (Focus/Vidrio) that helps them work through and understand various aspects of the manager selection and due diligence process. This course is cross-listed with and meets jointly with MBA students in FINC-GB.2350.\n\n      less description for FINC-UB   15 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 16",
+            "course_name": "",
+            "description": "FINC-UB   16\n\n   Alternative Investments II: Practices & Application\n\nThis is the second half of the two-semester sequence on Alternative Investments. This course is designed to offer students practical, hands-on experience for the identification and vetting of a fund manager suitable for an institutional investor mandate. Teams of students are assigned an investment strategy and supervisor at Focus/Vidrio. Using their theoretical and empirical knowledge of the hedge fund sector and data available through the platform, students will select an appropriate manager for their assigned strategy and then undertake a complete due diligence process to assess the manager...\n\n      more description for FINC-UB   16 \u00bb\n\n      \n\n\n\nThis is the second half of the two-semester sequence on Alternative Investments. This course is designed to offer students practical, hands-on experience for the identification and vetting of a fund manager suitable for an institutional investor mandate. Teams of students are assigned an investment strategy and supervisor at Focus/Vidrio. Using their theoretical and empirical knowledge of the hedge fund sector and data available through the platform, students will select an appropriate manager for their assigned strategy and then undertake a complete due diligence process to assess the manager\u2019s suitability to meet an investment mandate as well as other essential fiduciary considerations. The process will include on-site visits with the investment manager and others (i.e. risk manager, compliance officer, auditor, etc.) involved in the investment process. Students present their class project to a panel of professors and investment professionals. This course is cross-listed with and meets jointly with MBA students in FINC-GB.2351.\n\n      less description for FINC-UB   16 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 22",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9264",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-120",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Philippon, Thomas"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9265",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Cebenoyan, Ahmet"
+                }
+            ],
+            "course_name": "Risk Management in Financial Institutions",
+            "description": "FINC-UB   22 Risk Management in Financial Institutions \nThis course examines the management of risks in a wide range of financial activities, with a particular focus on market risk, credit risk, and liquidity risk. It uses quantitative models to estimate credit losses, economic capital and value at risk, and to perform stress tests and scenario analysis. The course also analyzes the consequences of technological change, globalization, monetary policy, and the entry of new types of institutions into existing financial markets. It emphasizes the importance of systemic risk, moral hazard, and new regulations in light of the recent financial crisis.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 23",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9266",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "KMEC 4-120"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   23\n\n   Emerging Markets Finance\n\nThe perspective in this course is that of an investment manager specializing in emerging and frontier markets and responsible for optimizing performance of investment portfolios at a bank, pension, endowment, or mutual fund. Investment opportunities in emerging financial markets around the world are examined in the context of performance optimization and global risk diversification against a typical backdrop of high per capita income growth, low leverage, favorable demographics, accelerating urbanization, and improving transparency at both the macro-policy and corporate governance levels. Chal...\n\n      more description for FINC-UB   23 \u00bb\n\n      \n\n\n\nThe perspective in this course is that of an investment manager specializing in emerging and frontier markets and responsible for optimizing performance of investment portfolios at a bank, pension, endowment, or mutual fund. Investment opportunities in emerging financial markets around the world are examined in the context of performance optimization and global risk diversification against a typical backdrop of high per capita income growth, low leverage, favorable demographics, accelerating urbanization, and improving transparency at both the macro-policy and corporate governance levels. Challenges considered include political risk, currency risk, asymmetric information, speculative pressure, and market manipulation. Liquidity limitations, legal constraints, and varying accounting rules and standards also pose challenges to emerging market investors. These unique challenges also provide unique opportunities not available in developed markets. Asset classes range from equities, currencies, bonds, and derivatives to real estate and private equity. Class discussion and reading focus on both the theoretical background as well as practical knowledge necessary to successfully navigate the opportunities and pitfalls of emerging and frontier market investing. The course also includes a select group of guest speakers who share their firsthand knowledge and accounts of investing and operating in emerging markets.\n\n      less description for FINC-UB   23 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 26",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9268",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Carpenter, Jennifer"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   26\n\n   Debt Instruments and Markets\n\nThis course describes important fixed income securities and markets and develops tools for valuing debt instruments and managing interest rate risk. The course covers traditional bond pricing, term structure, and interest rate risk concepts. It also covers the analytical and institutional aspects of fixed income derivatives, such as interest rate swaps, forwards, futures, and options, as well as bonds with embedded options and mortgage-backed securities. Topics also include credit risk, bond portfolio management, financial engineering, and international fixed income. The study of fixed income ...\n\n      more description for FINC-UB   26 \u00bb\n\n      \n\n\n\nThis course describes important fixed income securities and markets and develops tools for valuing debt instruments and managing interest rate risk. The course covers traditional bond pricing, term structure, and interest rate risk concepts. It also covers the analytical and institutional aspects of fixed income derivatives, such as interest rate swaps, forwards, futures, and options, as well as bonds with embedded options and mortgage-backed securities. Topics also include credit risk, bond portfolio management, financial engineering, and international fixed income. The study of fixed income is quantitative and technical by nature.\n\n      less description for FINC-UB   26 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 29",
+            "course_name": "",
+            "description": "FINC-UB   29\n\n   Behavioral Finance\n\nThis course uses human psychology and market frictions to shed light on asset returns, corporate finance patterns, and various Wall Street institutional practices. It starts with motivating evidence of return predictability in stock, bond, foreign exchange, and other markets. The course then proceeds to themes including the role of arbitrageurs in financial markets, the psychological and judgmental biases of average investors, and the financing patterns (such as capital structure and dividend policies) of firms that raise capital in inefficient securities markets and/or are led by irrational m...\n\n      more description for FINC-UB   29 \u00bb\n\n      \n\n\n\nThis course uses human psychology and market frictions to shed light on asset returns, corporate finance patterns, and various Wall Street institutional practices. It starts with motivating evidence of return predictability in stock, bond, foreign exchange, and other markets. The course then proceeds to themes including the role of arbitrageurs in financial markets, the psychological and judgmental biases of average investors, and the financing patterns (such as capital structure and dividend policies) of firms that raise capital in inefficient securities markets and/or are led by irrational managers.\n\n      less description for FINC-UB   29 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 30",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9689",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Levich, Richard"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17924",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Levich, Richard"
+                }
+            ],
+            "course_name": "Int'L Financial Mgmt",
+            "description": "FINC-UB   30 Int'L Financial Mgmt \nThis course examines the operation of international currency exchange and capital markets and applies financial management principles to the financial decisions of multinational corporations. It addresses such topics as economic determinants of exchange rates, currency market efficiency, exchange rate forecasting, techniques for measuring and managing exposure to exchange and political risk and financing alternatives and capital budgeting decisions of multinational corporations. Readings and case studies are employed.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 35",
+            "course_name": "",
+            "description": "FINC-UB   35\n\n   Real Estate Investment Strategies\n\nThe course is designed students with a strong interest in real estate capital markets. Its target audience is students specializing in Real Estate, for whom this is a capstone course, but is also open to finance-oriented students who wish to gain an in-depth understanding of real estate investment analysis. Topics covered will span the real estate equity and debt markets, both public and private. The bulk of the course focuses on commercial real estate, but we will spend some time studying the housing markets. There are three major sections in the course: Structured finance and the CMBS market...\n\n      more description for FINC-UB   35 \u00bb\n\n      \n\n\n\nThe course is designed students with a strong interest in real estate capital markets. Its target audience is students specializing in Real Estate, for whom this is a capstone course, but is also open to finance-oriented students who wish to gain an in-depth understanding of real estate investment analysis. Topics covered will span the real estate equity and debt markets, both public and private. The bulk of the course focuses on commercial real estate, but we will spend some time studying the housing markets. There are three major sections in the course: Structured finance and the CMBS market, REITs and Publicly-Traded Real Estate, the Private Real Estate Market. The class will contain a mixture of standard lectures, guest speakers, and case discussions. It will meet once per week for three hours to accommodate the relatively high number of outside speakers and cases in the course.\n\n      less description for FINC-UB   35 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 38",
+            "course_name": "",
+            "description": "FINC-UB   38\n\n   Real Estate Capital Mkts\n\nThis course introduces students to real estate securitization from both an equity and debt perspective. It analyzes alternative types of equity securitization vehicles including real estate investment trusts (REITs), commingled real estate funds (CREFs), real estate limited partnerships (RELPs), master limited partnerships (MLPs), and real estate swaps. The course also introduces students to mortgage-backed securities (MBSs) as an example of real estate debt securitization, and explores differences in their cash flows, prepayment, and default probabilities. It discusses the dynamics of mortgag...\n\n      more description for FINC-UB   38 \u00bb\n\n      \n\n\n\nThis course introduces students to real estate securitization from both an equity and debt perspective. It analyzes alternative types of equity securitization vehicles including real estate investment trusts (REITs), commingled real estate funds (CREFs), real estate limited partnerships (RELPs), master limited partnerships (MLPs), and real estate swaps. The course also introduces students to mortgage-backed securities (MBSs) as an example of real estate debt securitization, and explores differences in their cash flows, prepayment, and default probabilities. It discusses the dynamics of mortgage prepayments and pricing the embedded call option in a mortgage, followed by real-world applications. Students explore such mortgage derivatives as mortgage pass-throughs, interest-only and principal-only strips, floaters and inverse floaters, and various types of collateralized mortgage obligations such as planned amortization classes.\n\n      less description for FINC-UB   38 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 39",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9269",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "KMEC 5-140"
+                }
+            ],
+            "course_name": "Real Estate Primary Markets",
+            "description": "FINC-UB   39 Real Estate Primary Markets \nThis course covers the theory and measurement of return and risk on real estate financial decisions. Topics include loan valuation theory, determination of future costs, discounting procedures for cash flows of income-producing properties, and utilization of negative cash flows. Finance theory is applied to real estate decisions regarding land subdivision, property development, lender strategies, and the role of government agencies in real estate.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 41",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9270",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Segram, Haran"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17925",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Segram, Haran"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   41\n\n   Equity Valuation\n\nThis course covers the valuation of stocks and businesses. Real life valuations of companies are an inherent part of the content. By the end of the course, students should be able to: (1) apply discounted cash flow analysis to find the intrinsic value of an asset; (2) define, describe, analyze, and apply any multiple (PE, Value/EBITDA, Price/Book Value, etc.) to find the relative value of an asset; (3) value any publicly traded firm, small or large, domestic or foreign, healthy or troubled; (4) value any private business for owners or investors (private equity, venture capital, IPO); and (5) s...\n\n      more description for FINC-UB   41 \u00bb\n\n      \n\n\n\nThis course covers the valuation of stocks and businesses. Real life valuations of companies are an inherent part of the content. By the end of the course, students should be able to: (1) apply discounted cash flow analysis to find the intrinsic value of an asset; (2) define, describe, analyze, and apply any multiple (PE, Value/EBITDA, Price/Book Value, etc.) to find the relative value of an asset; (3) value any publicly traded firm, small or large, domestic or foreign, healthy or troubled; (4) value any private business for owners or investors (private equity, venture capital, IPO); and (5) separate fact from fiction, sense from nonsense, and real analysis from sales pitch in equity research reports, valuations, and general discourse.\n\n      less description for FINC-UB   41 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 42",
+            "course_name": "Microfinance",
+            "description": "FINC-UB   42 Microfinance \nMicrofinance refers to the provision of financial services to low-income clients. This course is designed to analyze the economics of microfinance and a range of related issues including product design and strategic choices for reaching clients, the impact of culture and regulation, the feasibility of for-profit or venture models of microfinance, and the impact of microfinance on economic growth and poverty.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 43",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9271",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Figlewski, Stephen"
+                }
+            ],
+            "course_name": "Futures & Options",
+            "description": "FINC-UB   43 Futures & Options \nThis course covers the theoretical and practical aspects of futures, options, and other derivative instruments, which have become some of the most important tools of modern finance. While the primary focus is on financial derivatives, contracts based on commodities, credit risk, and other nonfinancial variables are also covered. Topics include market institutions and trading practices, valuation models, hedging, and other risk management techniques. The course requires relatively extensive use of quantitative methods and theoretical reasoning.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 44",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17889",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Whitelaw, Robert"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   44\n\n   Portfolio Management\n\nPortfolio management: The art and science of making decisions about investment mix and policy, matching investments to objectives, asset allocation for individuals and institutions, and balancing risk against performance. (Investopedia)\nThere has been a proliferation of new products and strategies in the asset management space in recent years, e.g., smart beta, alternative beta, fundamental indexing, low volatility, and leveraged and inverse ETFs. This course applies portfolio theory to understand and evaluate these products and strategies in the context of the empirical evidence about return ...\n\n      more description for FINC-UB   44 \u00bb\n\n      \n\n\n\nPortfolio management: The art and science of making decisions about investment mix and policy, matching investments to objectives, asset allocation for individuals and institutions, and balancing risk against performance. (Investopedia)\nThere has been a proliferation of new products and strategies in the asset management space in recent years, e.g., smart beta, alternative beta, fundamental indexing, low volatility, and leveraged and inverse ETFs. This course applies portfolio theory to understand and evaluate these products and strategies in the context of the empirical evidence about return patterns across assets (i.e., the factors such as value/growth, momentum, and carry that drive returns) in multiple markets/asset classes (e.g., US and international equities and bonds, currencies, and commodities). Key questions include:\n\u2022\tWhat factors drive asset returns? Is it risk or mispricing?\n\u2022\tCan this structure of returns be used to construct better portfolios and products?\n\u2022\tHow should the performance of existing products be evaluated given the empirical evidence?\nThe basic theoretical framework is standard portfolio theory, as developed in Foundations of Finance, and its extensions, and the course will rely heavily on Excel modeling using real world data.\n\n      less description for FINC-UB   44 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 45",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9511",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Militello, Frederick C"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17888",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 2-60",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Murphy, Charles"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   45\n\n   Investment Banking\n\nThis course provides a broad overview of investment banking and of the forces that are continuing to change it worldwide. It focuses on three big questions: (1) How are things done in this business? (2) Why are they done that way? (3) How are they likely to be done in the future? The approach is to examine each of the principal businesses in which various financial service firms have been involved, including raising capital, financial advisory, broker/dealer positions, trading, investing the firm's own capital, managing the assets of others, both institutions and individuals, and risk manageme...\n\n      more description for FINC-UB   45 \u00bb\n\n      \n\n\n\nThis course provides a broad overview of investment banking and of the forces that are continuing to change it worldwide. It focuses on three big questions: (1) How are things done in this business? (2) Why are they done that way? (3) How are they likely to be done in the future? The approach is to examine each of the principal businesses in which various financial service firms have been involved, including raising capital, financial advisory, broker/dealer positions, trading, investing the firm's own capital, managing the assets of others, both institutions and individuals, and risk management. Throughout, there are a number of overarching themes. Among these are the interplay of regulation, politics, globalization, and technology; the emergence of private equity funds and hedge funds as both critical clients and potential competitors for the major investment banks; the search for new, high-margin products, and whether that process has reached its limits; and the changing relationships among the different groups within the financial service company.\n\n      less description for FINC-UB   45 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 47",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20689",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/14/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Futures and Options",
+            "description": "FINC-UB   47 Advanced Futures and Options",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 49",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9684",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-75",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Hasbrouck, Joel"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17928",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-75",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Hasbrouck, Joel"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   49\n\n   Principles of Securities Trading\n\nMost finance courses focus on how securities are defined, valued and used. This course is about how securities are traded: the design, operation and regulation of trading processes, mechanisms and protocols. Today's markets for stocks, bonds, and derivatives span a wide range in sophistication and complexity. For some securities, the market has evolved to an integrated network that offers very high levels of access and transparency. At the other extreme we have markets that operate as small dealer networks sustained by reputation and relationship. Some mechanisms are new (the open electronic l...\n\n      more description for FINC-UB   49 \u00bb\n\n      \n\n\n\nMost finance courses focus on how securities are defined, valued and used. This course is about how securities are traded: the design, operation and regulation of trading processes, mechanisms and protocols. Today's markets for stocks, bonds, and derivatives span a wide range in sophistication and complexity. For some securities, the market has evolved to an integrated network that offers very high levels of access and transparency. At the other extreme we have markets that operate as small dealer networks sustained by reputation and relationship. Some mechanisms are new (the open electronic limit order book)\u037e some are as old as antiquity (the single price call auction). We have a general sense that all markets are heading toward some sort of electronic future, but the speed of progress and convergence varies widely. Our\nmarkets are infused with tensions between efficiency and fairness, competition and regulation, consolidation and fragmentation, speed and stability, and so on.\nThe course is based on a realistic picture of the trading process, so we go into a fair amount of institutional detail, as well as some law and market regulation. The intellectual framework for the material comes from mainstream economics, financial economics, and the newer subfield of financial economics known as market microstructure.\n\n      less description for FINC-UB   49 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 50",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9529",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/20/2015",
+                    "location": "KMEC 5-140",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Amihud, Yakov"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   50\n\n   Mergers, Acquisitions, & Restructuring\n\nThis course presents the theories and empirical evidence on mergers, acquisitions, and restructuring, and analyzes the effects of various policy options on the stock values of acquirer and target companies. Findings about the reaction of stock prices to information on control transactions are used to analyze the effects of various policy options in such transactions. Topics related to M&A include evaluating acquisition targets, methods of payment in acquisitions, acquisition strategies, the use of leverage in acquisitions and the effects of acquisitions on bond values, major legal issues, case...\n\n      more description for FINC-UB   50 \u00bb\n\n      \n\n\n\nThis course presents the theories and empirical evidence on mergers, acquisitions, and restructuring, and analyzes the effects of various policy options on the stock values of acquirer and target companies. Findings about the reaction of stock prices to information on control transactions are used to analyze the effects of various policy options in such transactions. Topics related to M&A include evaluating acquisition targets, methods of payment in acquisitions, acquisition strategies, the use of leverage in acquisitions and the effects of acquisitions on bond values, major legal issues, case law, and defensive measures against hostile acquisitions. The course combines lecture material, case analysis, quantitative and qualitative analysis, and discussions of relevant news of such transactions. There is an emphasis on fundamental concepts of valuation and other areas of corporate finance related to M&As.\n\n      less description for FINC-UB   50 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 61",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17890",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Smith, Roy"
+                }
+            ],
+            "course_name": "Entrepreneurial Finance",
+            "description": "FINC-UB   61 Entrepreneurial Finance \nThis course seeks to provide an understanding of the financial and transactional skills required to fund new businesses and mature firms. The course integrates both an academic and practitioner view of the challenges facing entrepreneurs and investors involved in business start-up, venture capital, and private equity investment activities. The course presents frameworks and techniques needed to evaluate high-risk opportunities and structure appropriate investment transactions.",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 66",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9557",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Jog, Manjiree"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   66\n\n   Hedge Fund Strategies\n\nThis course aims to provide an in-depth understanding of the strategies used by hedge funds, employing a hands-on approach based on case studies and real data. The hedge fund industry has grown rapidly over the last decade aided in part by the private nature of funds and light regulation that has enabled managers to employ strategies not available to traditional fund managers. The course examines critical aspects of hedge fund investment styles including the trading mechanism, risk-return profiles of investment styles, trading costs, risk management and performance measurement..Strategies cove...\n\n      more description for FINC-UB   66 \u00bb\n\n      \n\n\n\nThis course aims to provide an in-depth understanding of the strategies used by hedge funds, employing a hands-on approach based on case studies and real data. The hedge fund industry has grown rapidly over the last decade aided in part by the private nature of funds and light regulation that has enabled managers to employ strategies not available to traditional fund managers. The course examines critical aspects of hedge fund investment styles including the trading mechanism, risk-return profiles of investment styles, trading costs, risk management and performance measurement..Strategies covered include event driven strategies, equity, debt, FX, cross-market strategies, global macro and shareholder activism. Distinguished guest speakers will be invited to provide a real-life perspective and to discuss key issues.\n\n      less description for FINC-UB   66 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 68",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17895",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.30 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "TISC UC04"
+                }
+            ],
+            "course_name": "",
+            "description": "FINC-UB   68\n\n   Financial Analysis in Emt\n\nThe course is designed to reinforce and develop the concepts learned in the introductory corporate finance course by applying them to entertainment, media and technology (EMT) companies. Students will explore the distinctive characteristics of EMT companies/sector while practicing and building on fundamental analytical skills. Similar skills are critical to analytical needs in investment banking, equity and fixed income valuation, and corporate development. Students will analyze recent and ongoing transactions to make the material more topical and relevant. We will be using SEC filings found o...\n\n      more description for FINC-UB   68 \u00bb\n\n      \n\n\n\nThe course is designed to reinforce and develop the concepts learned in the introductory corporate finance course by applying them to entertainment, media and technology (EMT) companies. Students will explore the distinctive characteristics of EMT companies/sector while practicing and building on fundamental analytical skills. Similar skills are critical to analytical needs in investment banking, equity and fixed income valuation, and corporate development. Students will analyze recent and ongoing transactions to make the material more topical and relevant. We will be using SEC filings found on Edgar for primary research on many of the companies studied\n\n      less description for FINC-UB   68 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-UB 81",
+            "course_name": "Risk and Insurance",
+            "description": "FINC-UB   81 Risk and Insurance \nProvides the background for understanding the role of insurance and risk management as it applies to business and personal pursuits. Includes a review of the major elements of life insurance, property and casualty insurance, and health insurance; the focus is on basic terminology, contract analysis, and investment implications. Risk issues from the view of both the insurance company and corporate user of insurance are considered. Illustrations apply to both corporate needs and an individual?s estate planning and insurance.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 87",
+            "course_name": "",
+            "description": "FINC-UB   87\n\n   Global Banking & Capital Markets\n\nWholesale banking, which encompasses capital raising and investing for governments, corporations, and institutional investors, has become one of the most important industries in the global economy. This industry is centered in capital markets which today represent more than $220 trillion of market value, most of which has been raised and is traded outside the United States. The top ten global wholesale banks, which account for 75% of all new issue activity, are comprised of five US and five European banks. All of these banks look to business opportunities and market developments beyond their h...\n\n      more description for FINC-UB   87 \u00bb\n\n      \n\n\n\nWholesale banking, which encompasses capital raising and investing for governments, corporations, and institutional investors, has become one of the most important industries in the global economy. This industry is centered in capital markets which today represent more than $220 trillion of market value, most of which has been raised and is traded outside the United States. The top ten global wholesale banks, which account for 75% of all new issue activity, are comprised of five US and five European banks. All of these banks look to business opportunities and market developments beyond their home countries for their future development. For example, the Euromarket for bonds, stocks and derivatives now represents about half of the new issue value of all global securities, and the prospects of higher growth rates and market reforms in China, India, Latin America, Eastern Europe and Southeast Asia have caused banks to allocate considerable resources to these \u201cemerging markets.\u201d Meanwhile, the future of the global banking industry has been confused and complicated by the consequences and aftermath of the Global Financial Crisis of 2007-2008, the most economically damaging since the 1930s. The ability of banks to compete in the new market environment of the post-crisis era is still being shaped by important regulatory changes and political events in the US, Europe and Asia. This course addresses all of these issues for students interested in global financial services and markets. It addresses differences between investment banking practices and competition in the US and the other market areas, it focuses on how international regulatory and other changes since the crisis will affect the ability of banks to compete effectively on the global stage, and how these factors will affect their business strategies and ability to satisfy shareholders and other investors.\n\n      less description for FINC-UB   87 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 91",
+            "course_name": "",
+            "description": "FINC-UB   91\n\n   Research Seminar in Finance\n\nThis course is an advanced elective designed to introduce students to the excitement of doing research in the field of  finance. The course will usually focus on a sub-category of Finance, such as Corporate Finance, Asset Management, Market Microstucture, or other topics depending upon the faculty interest. Students will be required to read original research articles and develop an understanding of the research process from the development of testable hypotheses, collection of suitable data, application of appropriate analytic or statistical methodology, and ultimately to an understanding of r...\n\n      more description for FINC-UB   91 \u00bb\n\n      \n\n\n\nThis course is an advanced elective designed to introduce students to the excitement of doing research in the field of  finance. The course will usually focus on a sub-category of Finance, such as Corporate Finance, Asset Management, Market Microstucture, or other topics depending upon the faculty interest. Students will be required to read original research articles and develop an understanding of the research process from the development of testable hypotheses, collection of suitable data, application of appropriate analytic or statistical methodology, and ultimately to an understanding of research findings and their limitations. Deliverables in the course will typically include written literature surveys and projects that replicate classic research studies or develop new research ideas.\n\n      less description for FINC-UB   91 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 94",
+            "course_name": "Ind Study in Finance",
+            "description": "FINC-UB   94 Ind Study in Finance \nProvides an opportunity for a select group of seniors each year to work one-on-one with a faculty member on a topic selected by the student and approved by the supervising faculty member. Each student is expected to spend as much time on the independent study as would be spent on a regular course and the topic selected may not replicate an existing course. An information sheet in on Independent Study is available at the front desk of the Finance Department office (KMC 9-190) or online at stern.nyu.edu/finance.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 96",
+            "course_name": "Ind Study in Finance",
+            "description": "FINC-UB   96 Ind Study in Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 98",
+            "course_name": "",
+            "description": "FINC-UB   98\n\n   Ind Study in Finance\n\nIndependent study provides an opportunity for a select group of seniors each year to work one-on-one with a faculty member on a topic selected by the student and approved by the supervising faculty member. Each student is expected to spend as much time on the independent study as would be spent on a regular course, and the topic selected may not replicate an existing course. An information sheet on Independent Study is available from the Stern Office of Academic Advising or online at http://web-docs.stern.nyu.edu/old_web/finance/docs/pdfs/Outlines/Independent_Study_Authorization_Undergraduate_...\n\n      more description for FINC-UB   98 \u00bb\n\n      \n\n\n\nIndependent study provides an opportunity for a select group of seniors each year to work one-on-one with a faculty member on a topic selected by the student and approved by the supervising faculty member. Each student is expected to spend as much time on the independent study as would be spent on a regular course, and the topic selected may not replicate an existing course. An information sheet on Independent Study is available from the Stern Office of Academic Advising or online at http://web-docs.stern.nyu.edu/old_web/finance/docs/pdfs/Outlines/Independent_Study_Authorization_Undergraduate_Program.pdf.\n\n      less description for FINC-UB   98 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 99",
+            "course_name": "Ind Study in Finance",
+            "description": "FINC-UB   99 Ind Study in Finance \nIndependent study provides an opportunity for a select group of seniors each year to work one-on-one with a faculty member on a topic selected by the student and approved by the supervising faculty member. Each student is expected to spend as much time on the independent study as would be spent on a regular course, and the topic selected may not replicate an existing course. An information sheet on Independent Study is available at the front desk of the Finance Department office (KMC 9-190) or online at stern.nyu.edu/finance.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 230",
+            "course_name": "Global Macroeconomics",
+            "description": "FINC-UB  230 Global Macroeconomics",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9001",
+            "course_name": "Info Tech in Business & Society",
+            "description": "FINC-UB 9001 Info Tech in Business & Society",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9002",
+            "course_name": "Foundations of Finance",
+            "description": "FINC-UB 9002 Foundations of Finance \nThis is a rigorous course developing the basic concepts and tools of modern finance. It explores in detail basic concepts of return and risk with a view to understanding how financial markets work and how different kinds of financial instruments are valued. These instruments, including equities, fixed income securities, options, and other derivative securities become vehicles for exploring various financial markets and the utilization of these markets by managers in different kinds of financial institutions to enhance return and manage risk.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9007",
+            "course_name": "Corporate Finance",
+            "description": "FINC-UB 9007 Corporate Finance \nThis course helps students develop an analytical framework for understanding how organizations make investment and financing decisions. Students also learn the theory and practice of various valuation techniques. There is an emphasis on understanding the theory and its applications to the real world as well as appreciating the limitations of the tools in practical settings. Specific topics include capital budgeting, investment decision rules, discounted cash flow valuation, real options, cost of capital, capital structure, dividend policy, and valuation methods such as WACC and APV.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9022",
+            "course_name": "",
+            "description": "FINC-UB 9022\n\n   Risk Management in Financial Institutions\n\nThis course examines the management of risks in a wide range\nof financial activities, with a particular focus on market risk, credit\nrisk, and liquidity risk. It uses quantitative models to estimate credit\nlosses, economic capital and value at risk, and to perform stress tests and\nscenario analysis. The course also analyzes the consequences of\ntechnological change, globalization, monetary policy, and the entry of new\ntypes of institutions into existing financial markets. It emphasizes the\nimportance of systemic risk, moral hazard, and new regulations in light of\nthe recent financial cr...\n\n      more description for FINC-UB 9022 \u00bb\n\n      \n\n\n\nThis course examines the management of risks in a wide range\nof financial activities, with a particular focus on market risk, credit\nrisk, and liquidity risk. It uses quantitative models to estimate credit\nlosses, economic capital and value at risk, and to perform stress tests and\nscenario analysis. The course also analyzes the consequences of\ntechnological change, globalization, monetary policy, and the entry of new\ntypes of institutions into existing financial markets. It emphasizes the\nimportance of systemic risk, moral hazard, and new regulations in light of\nthe recent financial crisis.\n\n      less description for FINC-UB 9022 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9029",
+            "course_name": "Behavioral Finance",
+            "description": "FINC-UB 9029 Behavioral Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9043",
+            "course_name": "Futures & Options",
+            "description": "FINC-UB 9043 Futures & Options",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-UB 9045",
+            "course_name": "",
+            "description": "FINC-UB 9045\n\n   Investment Banking\n\nThis course provides a broad overview of investment banking\nand of the forces that are continuing to change it worldwide. It focuses on\nthree big questions: (1) How are things done in this business? (2) Why are\nthey done that way? (3) How are they likely to be done in the future? The\napproach is to examine each of the principal businesses in which various\nfinancial service firms have been involved, including raising capital,\nfinancial advisory, broker/dealer positions, trading, investing the firm's\nown capital, managing the assets of others, both institutions and\nindividuals, and risk ...\n\n      more description for FINC-UB 9045 \u00bb\n\n      \n\n\n\nThis course provides a broad overview of investment banking\nand of the forces that are continuing to change it worldwide. It focuses on\nthree big questions: (1) How are things done in this business? (2) Why are\nthey done that way? (3) How are they likely to be done in the future? The\napproach is to examine each of the principal businesses in which various\nfinancial service firms have been involved, including raising capital,\nfinancial advisory, broker/dealer positions, trading, investing the firm's\nown capital, managing the assets of others, both institutions and\nindividuals, and risk management. Throughout, there are a number of\noverarching themes. Among these are the interplay of regulation, politics,\nglobalization, and technology; the emergence of private equity funds and\nhedge funds as both critical clients and potential competitors for the\nmajor investment banks; the search for new, high-margin products, and\nwhether that process has reached its limits; and the changing relationships\namong the different groups within the financial service company.\n\n      less description for FINC-UB 9045 \u00ab",
+            "offering": false
+        }
+    ]
+}

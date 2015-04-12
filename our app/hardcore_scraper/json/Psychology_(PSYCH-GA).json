@@ -1,0 +1,2016 @@
+{
+    "major_id": "PSYCH-GA",
+    "file": "./2015-2016/Psychology_(PSYCH-GA).html",
+    "courses": [
+        {
+            "course_id": "PSYCH-GA 1016",
+            "course_name": "Masters Statistics",
+            "description": "PSYCH-GA 1016 Masters Statistics \nBasic statistics for psychological research. Includes brief introduction to descriptive statistics, t-tests, power, correlation and regression, ANOVA (through two-way mixed designs), and chi-square tests. The use of statistical software is introduced.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 1058",
+            "course_name": "Mathematical Statistics",
+            "description": "PSYCH-GA 1058 Mathematical Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 1080",
+            "course_name": "Psychoanalytic Theory",
+            "description": "PSYCH-GA 1080 Psychoanalytic Theory \nThe development of Freudian psychoanalysis in historical perspective. Guided reading of primary texts.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 1089",
+            "course_name": "Life Events/Scl Supp/Str",
+            "description": "PSYCH-GA 1089 Life Events/Scl Supp/Str",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 1090",
+            "course_name": "Psychoanalytic Theory: Brit Object Relations",
+            "description": "PSYCH-GA 1090 Psychoanalytic Theory: Brit Object Relations",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 1091",
+            "course_name": "Creativity",
+            "description": "PSYCH-GA 1091 Creativity",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 1092",
+            "course_name": "Soc Iss & Com Act",
+            "description": "PSYCH-GA 1092 Soc Iss & Com Act",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2001",
+            "course_name": "Psych of Visual Art",
+            "description": "PSYCH-GA 2001 Psych of Visual Art",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2002",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1682",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Psychology of Music",
+            "description": "PSYCH-GA 2002 Psychology of Music",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2003",
+            "course_name": "Psych of Art Adv Tpcs I",
+            "description": "PSYCH-GA 2003 Psych of Art Adv Tpcs I",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2005",
+            "course_name": "Lab in Experimental Psyc",
+            "description": "PSYCH-GA 2005 Lab in Experimental Psyc",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2008",
+            "course_name": "M.a. Teaching Seminar",
+            "description": "PSYCH-GA 2008 M.a. Teaching Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2010",
+            "course_name": "Principles of Learning",
+            "description": "PSYCH-GA 2010 Principles of Learning \nExamines major theories of learning with relevance to instrumental and Pavlovian conditioning, motivation, and affect. Explores relevant research on traditional and contemporary issues in learning. Emphasis is on human learning and behavior modification.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2011",
+            "course_name": "Sensation and Perception",
+            "description": "PSYCH-GA 2011 Sensation and Perception \nExperimental foundations and theoretical approaches to problems of sensing, perceiving, and interpreting sensory information. Receptor function and physiology, discrimination, adaptation, attention, perceptual learning, and psychophysical methods of research and assessment.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2012",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1683",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Physio Basis of Behavior",
+            "description": "PSYCH-GA 2012 Physio Basis of Behavior \nSurvey of biological and chemical cSurvey of biological and chemical correlates of behavior, especially concerning the central nervous system, the autonomic nervous system, and the endocrine system, as related to sensation, drive, emotion, learning, and memory.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2014",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2181",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2417",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Psych of Soc Behavior",
+            "description": "PSYCH-GA 2014 Psych of Soc Behavior \nCurrent theory and research in social behavior and social issues. Topics include social cognition, attribution, affiliation and social comparison, aggression, equity and social exchange, attitudes and attitude change, conformity, and group dynamics. Applications are discussed.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2015",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1684",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "HEBU 506"
+                }
+            ],
+            "course_name": "Theories of Personality",
+            "description": "PSYCH-GA 2015 Theories of Personality \nCurrent theories and research are reviewed from several perspectives, including psychoanalytic, humanistic, trait, social-learning, and cognitive. Topics include personality development and consistency, personality change, biological determinants, sex differences, anxiety, the self and self-esteem, and personality as a social inference.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2016",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1685",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1686",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1817",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                }
+            ],
+            "course_name": "Masters Statistics",
+            "description": "PSYCH-GA 2016 Masters Statistics \nTopics in experimental design and correlational analysis, including multiple correlation and regression, selected complex factorial designs, and multiple comparisons. Introduction to the use of statistical computer software.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2018",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2306",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "HEBU 506"
+                }
+            ],
+            "course_name": "Philosophy, History, & Systems of Psychology",
+            "description": "PSYCH-GA 2018 Philosophy, History, & Systems of Psychology",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2020",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1687",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "Child Development",
+            "description": "PSYCH-GA 2020 Child Development \nMajor issues in child development, examined in light of current research and theoretical formulations. Cognitive development, social development, origins of temperament, the role of early experience, language acquisition, concept formation, the origin of play, moral development, and intelligence testing, from several theoretical points of view, including learning theory, Piagetian system, and psychoanalysis.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2021",
+            "course_name": "Emotion and Its Development",
+            "description": "PSYCH-GA 2021 Emotion and Its Development",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2025",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1688",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU 506"
+                }
+            ],
+            "course_name": "Cognitive Psychology",
+            "description": "PSYCH-GA 2025 Cognitive Psychology \nSurvey of what modern cognitive psychology says about problem solving and reasoning, memory, language, imagery, and pathology of language and thought.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2027",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1995",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Cognitive Neuroscience",
+            "description": "PSYCH-GA 2027 Cognitive Neuroscience",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2029",
+            "course_name": "Psychopharmacology",
+            "description": "PSYCH-GA 2029 Psychopharmacology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2030",
+            "course_name": "Physio Basis Abnrml Bhvr",
+            "description": "PSYCH-GA 2030 Physio Basis Abnrml Bhvr \nExamines recent developments in the attempt to relate basic biological processes to behavioral disorders and/or mental illness. Discusses animal models of abnormal behavior, their usefulness in making discoveries, and their relevance to human disorders. Topics include physiological influences on anxiety, particularly the role of hormones, biochemical factors in depression, and relationship of stress to these changes; biochemical theories of schizophrenia; genetics and abnormal behavior; and psychosomatic disorders.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2031",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1689",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Neuropsychology",
+            "description": "PSYCH-GA 2031 Neuropsychology \nIntroduction to human brain behavior relationships, with emphasis on the organization of higher mental functions and the roles of the major cerebral areas. Topics include neural basis and common disorders of language, perception, movement, memory, and behavior control; aging and dementia; developmental disabilities; differences between the hemispheres; and clinical evaluation procedures.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2032",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1690",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "I/O Psychology",
+            "description": "PSYCH-GA 2032 I/O Psychology \nPersonal, social, and environmental factors related to people?s attitudes and performance in industrial and other organizations. Topics include personnel selection and evaluation, training and development, job analysis, attitudes and motivation, leadership, group dynamics, organizational structure and climate, and job design and working conditions.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2033",
+            "course_name": "Community Psychology",
+            "description": "PSYCH-GA 2033 Community Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2034",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1691",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Foundations of Psychopathology",
+            "description": "PSYCH-GA 2034 Foundations of Psychopathology \nCovers several broad categories of disordered psychological functioning as classified by the current psychiatric nomenclature. Focuses on a select number of major diagnostic entities. Emphasizes the formal, structural, experiential, and intrapsychic factors that serve as a foundation for understanding such behavior. Course helps students develop an understanding of the consistencies between behavior that is considered normal and that which is considered pathological.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2035",
+            "course_name": "Psychology of Aging",
+            "description": "PSYCH-GA 2035 Psychology of Aging",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2036",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1692",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Psychology of Violence",
+            "description": "PSYCH-GA 2036 Psychology of Violence \nSurveys the current clinical, theoretical, and research approaches to studying aggressive and violent behavior? including cognitive models and biological variables?in relation to mental illness. Students review the literature on the antecedents of violent behavior as well as the evaluation and treatment of violent patients, along with related forensic issues.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2037",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1693",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Personality Disorders",
+            "description": "PSYCH-GA 2037 Personality Disorders",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2038",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1694",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Forensic Psychology",
+            "description": "PSYCH-GA 2038 Forensic Psychology \nCovers several areas that form the interface between the legal system and psychology. Topics include the causes, treatment, and prevention of criminal behavior; eyewitness testimony, expert witnesses, jury composition, and the role that psychologicalCovers several areas that form the interface between the legal system and psychology. Topics include the causes, treatment, and prevention of criminal behavior; eyewitness testimony, expert witnesses, jury composition, and the role that psychological factors play in the presentation of a course case; and the role of punishment.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2039",
+            "course_name": "Advanced Forensics",
+            "description": "PSYCH-GA 2039 Advanced Forensics \nCovers latest advances in forensic psychology by means of invited speakers and detailed analyses of key legal cases.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2040",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1695",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Current Topics:Modern Psychological Treatments",
+            "description": "PSYCH-GA 2040 Current Topics:Modern Psychological Treatments",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2041",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20113",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Current Topics:Regression & Multivariate Statistics",
+            "description": "PSYCH-GA 2041 Current Topics:Regression & Multivariate Statistics",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2042",
+            "course_name": "Contemp Iss in Psychodyn Psychotherapy",
+            "description": "PSYCH-GA 2042 Contemp Iss in Psychodyn Psychotherapy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2043",
+            "course_name": "Current Topics:",
+            "description": "PSYCH-GA 2043 Current Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2045",
+            "course_name": "Childhood Stress,Coping & Adjustment",
+            "description": "PSYCH-GA 2045 Childhood Stress,Coping & Adjustment",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2046",
+            "course_name": "Clinical Research Design",
+            "description": "PSYCH-GA 2046 Clinical Research Design",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2047",
+            "course_name": "The Psych of Judgement & Decision Making",
+            "description": "PSYCH-GA 2047 The Psych of Judgement & Decision Making",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2048",
+            "course_name": "Relationship Between The Sexes",
+            "description": "PSYCH-GA 2048 Relationship Between The Sexes",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2049",
+            "course_name": "Affective Neuroscience",
+            "description": "PSYCH-GA 2049 Affective Neuroscience",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2050",
+            "course_name": "Stress and Coping",
+            "description": "PSYCH-GA 2050 Stress and Coping",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2051",
+            "course_name": "Health Psychology",
+            "description": "PSYCH-GA 2051 Health Psychology \nBasic overview of the field, including behavior modification, stress, coronary heart disease, hypertension and stroke, pain, the immune system, AIDS and cancer, issues in pediatric health psychology, smoking, and weight control.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2052",
+            "course_name": "Modern Psychological Treatments",
+            "description": "PSYCH-GA 2052 Modern Psychological Treatments",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2053",
+            "course_name": "Gender Roles",
+            "description": "PSYCH-GA 2053 Gender Roles \nExamines the complex, interrelated topics of sex and gender differences; the psychology of women; the psychology of men; and the social and personal ?realities? created by gender interactions.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2054",
+            "course_name": "Dev Psychopathology",
+            "description": "PSYCH-GA 2054 Dev Psychopathology \nOverview of the major categories of psychopathology in childhood and adolescence. Theoretical, empirical, and clinical studies are examined and discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2055",
+            "course_name": "Theories of Motivation",
+            "description": "PSYCH-GA 2055 Theories of Motivation",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2056",
+            "course_name": "Psycyhology of Women",
+            "description": "PSYCH-GA 2056 Psycyhology of Women",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2057",
+            "course_name": "Traumatic Stress Reactions",
+            "description": "PSYCH-GA 2057 Traumatic Stress Reactions \nDeals with the spectrum of psychological, biological, and social sequelae of experiences of traumatic stress. Traumatic stressors studied include combat exposure, childhood sexual abuse, natural and man-made disasters, and political prisoner/refugee experiences. Relevant research illustrates the differential effects of traumatic experiences across groups (e.g., gender, developmental level) and over time.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2058",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2183",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Consumer Behavior",
+            "description": "PSYCH-GA 2058 Consumer Behavior",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2059",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2178",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Psychology of Decision- Making",
+            "description": "PSYCH-GA 2059 Psychology of Decision- Making \nExploration of the psychological processes that underlie people?s judgments and decision making. First identifies some general rules that capture the way people make decisions. Then explores how people make decisions in numerous domains, including consumer, social, clinical, managerial, and organizational decision making. Looks at both rational and irrational patterns in the way people select options. Also examines how the impact of the media and different ways of presenting options and different decision-making strategies can influence decision outcomes.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2060",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1697",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU *"
+                }
+            ],
+            "course_name": "Intro to Psych Testing",
+            "description": "PSYCH-GA 2060 Intro to Psych Testing \nBroad introduction to the field of psychological assessment, including an understanding of the conceptual issues underlying different approaches to testing and assessment. Surveys the major types of tests used in the field of assessment and addresses the development of the most commonly used instruments. Examines testing with regard to psychometrics (reliability, validity).",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2061",
+            "course_name": "Forensic Assessment",
+            "description": "PSYCH-GA 2061 Forensic Assessment",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2062",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1698",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "411L 331"
+                }
+            ],
+            "course_name": "Theories of Cognitive Behavioral Therapy",
+            "description": "PSYCH-GA 2062 Theories of Cognitive Behavioral Therapy \nExposes students to the full range of cognitive-behavioral therapy and the underlying assumptions and theoretical models (including its empirical foundations in classical and operant conditioning as well as social learning theory). Also provides students with the practical application of these theories to a wide spectrum of specific psychological problems and psychiatric disorders.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2063",
+            "course_name": "Psychology of Addiction",
+            "description": "PSYCH-GA 2063 Psychology of Addiction",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2064",
+            "course_name": "Research Seminar On Eating Disorders",
+            "description": "PSYCH-GA 2064 Research Seminar On Eating Disorders",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2065",
+            "course_name": "Lab in Experimental Psych",
+            "description": "PSYCH-GA 2065 Lab in Experimental Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2066",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20114",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "HEBU 507"
+                }
+            ],
+            "course_name": "Clinical Research Design",
+            "description": "PSYCH-GA 2066 Clinical Research Design \nBasic principles of research design, with emphasis on methods and strategies used in the area of clinical psychology.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2067",
+            "course_name": "Applied Research Methods",
+            "description": "PSYCH-GA 2067 Applied Research Methods \nDevelopment and design of field research and quasi-experimental techniques addressed to applied and theoretical questions: problems of control, selection of variables, nonobtrusive measures, sampling, etc. Evaluation research is emphasized.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2068",
+            "course_name": "Human Psychophysiology",
+            "description": "PSYCH-GA 2068 Human Psychophysiology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2069",
+            "course_name": "Consumer Research Methods",
+            "description": "PSYCH-GA 2069 Consumer Research Methods",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2070",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1771",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Personnel Selection",
+            "description": "PSYCH-GA 2070 Personnel Selection \nDevelopment and evaluation of personnel selection techniques, including mental ability tests, personality inventories, interviews, work simulations, biographical information, and drug tests. Strategies for evaluating the validity, fairness, and overall utility of a selection process are addressed.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2071",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1699",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Performance Measurement & Rewards",
+            "description": "PSYCH-GA 2071 Performance Measurement & Rewards \nConsiders the conceptual and practical issues concerning job analysis, criterion development, and performance measurement. Critical review of alternative approaches and evaluation of their use in providing information to meet various organizational objectives, including performance appraisal, training and development, personnel selection, administrative decisions, and compensation.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2072",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1700",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.30 PM - 7.20 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "Work Motivation & Attitudes",
+            "description": "PSYCH-GA 2072 Work Motivation & Attitudes \nAnalysis and application of motivational theories and principles to individuals and groups in the workplace. Evaluation of the theory and application of various programs and techniques tried previously, including job enrichment, participative management, improved supervision, compensation systems, goal setting, management by objectives, reinforcement, and leadership development and influence techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2073",
+            "course_name": "Training in Organizatns",
+            "description": "PSYCH-GA 2073 Training in Organizatns \nDevelopment of skills in designing and evaluating training programs. Examination of stated or intended purposes of training programs and methods used to analyze training needs.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2074",
+            "course_name": "Organizational Develpmnt",
+            "description": "PSYCH-GA 2074 Organizational Develpmnt \nSurvey of methodological approaches to planned change, including organizational diagnosis, data collection, interventions, feedback, and evaluation. Specific types of interventions covered include strategic planning, organizational design, culture change, team building, survey feedback, goal setting, and career development.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2075",
+            "course_name": "Counseling Psychology",
+            "description": "PSYCH-GA 2075 Counseling Psychology \nReview of basic counseling theory and techniques. Covers processes underlying individual and group counseling, identification and evaluation of behavioral outcomes, case management, and counseling ethics. Surveys specialized counseling approaches and the needs of special populations.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2076",
+            "course_name": "Leadership & Strategic Change",
+            "description": "PSYCH-GA 2076 Leadership & Strategic Change \nThe nature and evolving definition of leadership is traced from early conceptualizations of trait, social exchange, and behavioral contingency theories to current approaches involving charismatic, transactional, and transformational leadership. Power, influence, information, and politics are examined as these relate to effective leadership. The importance of leadership behavior in promoting adaptive learning and high-performance organizations is considered in light of leadership selection, development, and succession planning.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2077",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1701",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 307"
+                }
+            ],
+            "course_name": "Personality and Organizational Behavior",
+            "description": "PSYCH-GA 2077 Personality and Organizational Behavior \nReviews theory and empirical research in industrial/organizational and personality psychology to explore the effects of individual differences on workplace outcomes, such as job performance, work attitudes, leadership, and turnover. Examines the Big Five personality model; such specific dispositions as self-esteem, achievement motive, emotional intelligence, and explanatory style; and interactionist, psychodynamic, and evolutionary personality theories in order to better understand the relationship between personality and organizational behavior.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2078",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20110",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Management Consulting",
+            "description": "PSYCH-GA 2078 Management Consulting \nThe consulting process through the lens of industrial/organizational principles and practices. Students learn and demonstrate the skills of client problem definition, analysis, solution, and presentation.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2079",
+            "course_name": "Executive Coaching and Development",
+            "description": "PSYCH-GA 2079 Executive Coaching and Development \nCoaching is a tailored learning program for behavioral change and optimized performance. This seminar focuses on how coaching in the organization can help individuals achieve optimal leadership competencies; better delivery of strategic objectives; greater resilience in response to organizational change; and improved quality in personal and professional development. Although the focus of the course is on individual coaching, applications to team development are included",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2080",
+            "course_name": "Intro to Family Therapy",
+            "description": "PSYCH-GA 2080 Intro to Family Therapy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2081",
+            "course_name": "Seminar On The Family",
+            "description": "PSYCH-GA 2081 Seminar On The Family",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2082",
+            "course_name": "",
+            "description": "PSYCH-GA 2082\n\n   Psych of Adolescence\n\nIn-depth study of selected topics in adolescent psychology through a reading of primary sources. The readings follow a historic line, beginning with psychoanalytic contributions in the 1930s (Anna Freud, Karen Horney) and continuing through Erikson, Piaget, Elkind, Youniss, and Gilligan. Topics covered include early theoretical conceptions, cognitive development, identity, peer relations, and more recent papers concerned with multicultural and gender issues. Two psychopathological conditions (suicidal behavior and eating disorders) are studied, as prototypes of adolescent problems, along with ...\n\n      more description for PSYCH-GA 2082 \u00bb\n\n      \n\n\n\nIn-depth study of selected topics in adolescent psychology through a reading of primary sources. The readings follow a historic line, beginning with psychoanalytic contributions in the 1930s (Anna Freud, Karen Horney) and continuing through Erikson, Piaget, Elkind, Youniss, and Gilligan. Topics covered include early theoretical conceptions, cognitive development, identity, peer relations, and more recent papers concerned with multicultural and gender issues. Two psychopathological conditions (suicidal behavior and eating disorders) are studied, as prototypes of adolescent problems, along with descriptions of adolescent psychotherapies.\n\n      less description for PSYCH-GA 2082 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2083",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1702",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Group Dynamics",
+            "description": "PSYCH-GA 2083 Group Dynamics \nA study of the processes by which individuals start functioning as a team. Considers the developmental stages of team development and the patterns of making decisions and relating to group leaders from a systemic, social, and psychological point of view. Includes a combination of didactic and experiential methods that would be of interest to future team consultants, to people who belong to work teams, to the social psychologist studying how people function in groups, and to the future clinician interested in conducting group therapy.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2084",
+            "course_name": "Cross-Cultural Identities",
+            "description": "PSYCH-GA 2084 Cross-Cultural Identities \nIntroduces the fundamental concepts, perspectives, values, and strategies of cross-cultural psychology, which focuses on understanding human behavior in its sociocultural context. Psychological processes can be compared for similarities and differences across cultures, as well as analyzed in their ?indigenous? forms, which means that the psyche has both universal and culture-specific components. Thus, while some phenomena (e.g., depression) exist in almost all cultures, their causes, manifestations, and meanings may be culture-specific and not comparable.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2085",
+            "course_name": "Interpers Approaches to Psychpthlgy & Psychthrpy",
+            "description": "PSYCH-GA 2085 Interpers Approaches to Psychpthlgy & Psychthrpy \nExamines a variety of interpersonal approaches to psychopathology and psychotherapy through consideration of theory, research, and practice. Considers long-standing, fundamental issues regarding (1) the role of interpersonal relationships in human nature and (2) how to conceptualize interpersonal behavior. Includes some discussion of recent critiques of work on psychopathology and psychotherapy, which argue that efforts?even including certain supposedly interpersonal efforts?reflect and support an overly individualistic view of the person.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2086",
+            "course_name": "Organizational Climate & Culture",
+            "description": "PSYCH-GA 2086 Organizational Climate & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2087",
+            "course_name": "Surveying Organizations",
+            "description": "PSYCH-GA 2087 Surveying Organizations",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2088",
+            "course_name": "Psychology of Diversity",
+            "description": "PSYCH-GA 2088 Psychology of Diversity",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2089",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2270",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Culture, Thought, and Emotion",
+            "description": "PSYCH-GA 2089 Culture, Thought, and Emotion",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2090",
+            "course_name": "Quality of Worklife",
+            "description": "PSYCH-GA 2090 Quality of Worklife \nConsiders major theories, research, and best practices contributing to quality of work life as a core part of business strategy. Topics include work-life quality as a function of organizational structure and design; assessment, evaluation, and intervention schemas; stress management; organizational culture and diversity; and the application of emotional intelligence to leadership and team building.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2110",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1703",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "PSYCH-GA 2110 Independent Study \nSupervised reading and/or research with a faculty member on a topic selected by the student.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2121",
+            "course_name": "Theory of Psychotherapy",
+            "description": "PSYCH-GA 2121 Theory of Psychotherapy \nOverview of the theories of therapeutic change, covering the various interventions currently practiced, ranging from psychodynamic and cognitive-behavioral-based techniques through the existential-based, nondirective and Gestalt modalities.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2125",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1704",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fieldwork",
+            "description": "PSYCH-GA 2125 Fieldwork \nSupervised practicum in a selected agency, clinic, or human resources departSupervised practicum in a selected agency, clinic, or human resources department. Placement, according to occupational needs and goals of the student, may vary from planning and administration to clinical practice. Joint supervision by the academic and qualified agency staff.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2126",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1705",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2070",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "MEYR 551"
+                }
+            ],
+            "course_name": "Research Methods & Experience",
+            "description": "PSYCH-GA 2126 Research Methods & Experience \nStudents do collaborative research for about 10 hours a week under the supervision of faculty or other qualified researchers. In addition, weekly class meetings provide information on a variety of research methods and experimental design issues. The course is often taken by students who plan to expand their research into a master?s thesis and by students who plan to apply to a Ph.D. program.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2140",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1706",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Research",
+            "description": "PSYCH-GA 2140 Independent Research",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2199",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1707",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "411L 331"
+                }
+            ],
+            "course_name": "Masters Seminar",
+            "description": "PSYCH-GA 2199 Masters Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2201",
+            "course_name": "Cellular, Molecular & Development Neurscience",
+            "description": "PSYCH-GA 2201 Cellular, Molecular & Development Neurscience",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2202",
+            "course_name": "Sensory & Motor Neural Science",
+            "description": "PSYCH-GA 2202 Sensory & Motor Neural Science",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2203",
+            "course_name": "Lab in Neural Science I",
+            "description": "PSYCH-GA 2203 Lab in Neural Science I",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2204",
+            "course_name": "Lab in Sensory & Motor Neural Science",
+            "description": "PSYCH-GA 2204 Lab in Sensory & Motor Neural Science",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2205",
+            "course_name": "Physio Psych III",
+            "description": "PSYCH-GA 2205 Physio Psych III",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2206",
+            "course_name": "Behavioral Neuroscience",
+            "description": "PSYCH-GA 2206 Behavioral Neuroscience",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2207",
+            "course_name": "Categories and Concepts",
+            "description": "PSYCH-GA 2207 Categories and Concepts",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2208",
+            "course_name": "Neuroanatomy",
+            "description": "PSYCH-GA 2208 Neuroanatomy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2209",
+            "course_name": "",
+            "description": "PSYCH-GA 2209\n\n   Cognitive Development\n\nIntroduction to central issues in the study of cognitive development, which aims to (1) provide breadth by reviewing the major theoretical approaches, classic tasks, and paradigms for studying and understanding cognitive development (constructivist, nativist, biological, information processing, and systems approaches) and (2) provide depth by considering the strengths and shortcomings of each theory and the pros and cons of different research strategies for investigating the central questions of cognitive development (characterizing change, underlying change mechanisms, generality of change, a...\n\n      more description for PSYCH-GA 2209 \u00bb\n\n      \n\n\n\nIntroduction to central issues in the study of cognitive development, which aims to (1) provide breadth by reviewing the major theoretical approaches, classic tasks, and paradigms for studying and understanding cognitive development (constructivist, nativist, biological, information processing, and systems approaches) and (2) provide depth by considering the strengths and shortcomings of each theory and the pros and cons of different research strategies for investigating the central questions of cognitive development (characterizing change, underlying change mechanisms, generality of change, and stability of behaviors across individuals and circumstances).\n\n      less description for PSYCH-GA 2209 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2211",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1708",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": "MEYR 81509/02/2015 - 12/15/2015 Fri 9.00 AM - 12.00 PM at MEYR 815"
+                }
+            ],
+            "course_name": "Math Tools for Cognitive Science and Neuroscience",
+            "description": "PSYCH-GA 2211 Math Tools for Cognitive Science and Neuroscience \nIntensive course in basic mathematical techniques for analysis and modeling of behavioral and neural data, including tools from linear systems and statistics. In 2008, first semester Math Tools is being offered jointly for students from Neural Science and Psychology, as an alternative for the first-semester of the two-semester psychology sequence.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2212",
+            "course_name": "Math Tools for Cognitive Science &Neuroscience II",
+            "description": "PSYCH-GA 2212 Math Tools for Cognitive Science &Neuroscience II \nCovers normative and descriptive theories of individual decision making, the classical experimental literature, and recent work, such as the Prospect Theory of Kahneman and Tversky.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2214",
+            "course_name": "Language Acquisition",
+            "description": "PSYCH-GA 2214 Language Acquisition",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2215",
+            "course_name": "Exper Conts to Pers",
+            "description": "PSYCH-GA 2215 Exper Conts to Pers",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2216",
+            "course_name": "Theories of Social Psych",
+            "description": "PSYCH-GA 2216 Theories of Social Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2217",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1709",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Methods in S/P",
+            "description": "PSYCH-GA 2217 Research Methods in S/P \nThe basics of conducting social and personality psychology research. Students receive practical instruction in research design, methodologies, statistical analysis, and evaluation of published research articles for soundness of design and validity of conclusions.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2219",
+            "course_name": "Computational Models of Cognitive Science",
+            "description": "PSYCH-GA 2219 Computational Models of Cognitive Science \nIntroduction to computational modeling, connectionist and symbolic, in cognition and language; why modeling is important, what makes a good model, and how models can inform experimental work. Topics include object permanence, linguistic inflection, and the acquisition of grammar.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2221",
+            "course_name": "Cognitive Neuroscience",
+            "description": "PSYCH-GA 2221 Cognitive Neuroscience",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2222",
+            "course_name": "Mathematical & Computat Methods in Psycology",
+            "description": "PSYCH-GA 2222 Mathematical & Computat Methods in Psycology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2223",
+            "course_name": "Perception",
+            "description": "PSYCH-GA 2223 Perception \nIn-depth survey of psychophysical and modeling methodology, and vision and auditory research. Topic areas include linear systems theory, signal detection theory, optics, spatial vision, motion analysis, depth perception, color vision, auditory coding of intensity and frequency, sound localization, and speech perception.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2224",
+            "course_name": "Proseminar in Gognition and Perception",
+            "description": "PSYCH-GA 2224 Proseminar in Gognition and Perception",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2225",
+            "course_name": "Memory",
+            "description": "PSYCH-GA 2225 Memory",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2226",
+            "course_name": "Psycholinguistics",
+            "description": "PSYCH-GA 2226 Psycholinguistics \nGraduate-level introduction to the cognitive processes and linguistic structures that enable language compre- hension and production, with an emphasis on lexical, syntactic, and semantic structures and processes.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2227",
+            "course_name": "Animal Cognition",
+            "description": "PSYCH-GA 2227 Animal Cognition",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2228",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1710",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 11.20 AM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Interm Stat Methods",
+            "description": "PSYCH-GA 2228 Interm Stat Methods \nReview of introductory statistical methods, with special emphasis on sampling distributions, statistical inference and estimation, statistical power, and sample size estimation for common statistical tests. Methods include measures of association, t-tests, ANOVA, and chi-square. Use of statistical computer software.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2229",
+            "course_name": "Regression",
+            "description": "PSYCH-GA 2229 Regression \nMultiple regression/correlation as a general data analytic system. Sets of variables as units of analyses, representing group membership, curvilinear relationships, missing data, interactions, the analysis of covariance and its generalization; logistic regression; nonparametric statistics. Computer applications.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2230",
+            "course_name": "Data Analysis",
+            "description": "PSYCH-GA 2230 Data Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2231",
+            "course_name": "Theories of Personality & Psychotherapy",
+            "description": "PSYCH-GA 2231 Theories of Personality & Psychotherapy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2233",
+            "course_name": "Simulation & Data Analy",
+            "description": "PSYCH-GA 2233 Simulation & Data Analy \nCovers topics in numerical analysis, probability theory, and mathematical statistics essential to developing Monte Carlo models of complex cognitive and neural processes and testing them empirically. Most homework assignments include programming exercises in the MATLAB language.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2234",
+            "course_name": "Clinical Interviewing",
+            "description": "PSYCH-GA 2234 Clinical Interviewing",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2235",
+            "course_name": "Basic Psychodynamic Conc",
+            "description": "PSYCH-GA 2235 Basic Psychodynamic Conc",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2236",
+            "course_name": "Linear Systems",
+            "description": "PSYCH-GA 2236 Linear Systems \nIntroduction to linear systems theory and the Fourier transform. Intended for those working in biological vision or audition, computer vision, and neuroscience and assumes only a modest mathematical background.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2237",
+            "course_name": "Bio Basis",
+            "description": "PSYCH-GA 2237 Bio Basis",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2238",
+            "course_name": "Rsch in Psychopathology",
+            "description": "PSYCH-GA 2238 Rsch in Psychopathology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2239",
+            "course_name": "Anova",
+            "description": "PSYCH-GA 2239 Anova \nComplex analysis of variance designs and their computation.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2240",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2257",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Psychophysics",
+            "description": "PSYCH-GA 2240 Psychophysics",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2241",
+            "course_name": "Work Attit & Motivation",
+            "description": "PSYCH-GA 2241 Work Attit & Motivation",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2242",
+            "course_name": "Organizational Psych I: Individual Behavior",
+            "description": "PSYCH-GA 2242 Organizational Psych I: Individual Behavior",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2243",
+            "course_name": "Psychometric Theory",
+            "description": "PSYCH-GA 2243 Psychometric Theory \nTheory and practice of measurement; classical test theory (reliability and validity); item response theory; latent trait methods, including factor analysis; and logistic latent trait models. Provides computer experience with methods.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2244",
+            "course_name": "Multivariate Statistics",
+            "description": "PSYCH-GA 2244 Multivariate Statistics \nTheory and application of multivariate statistical methods in the behavioral sciences. Topics include matrix algebra, univariate/multivariate general linear models, multivariate analysis of variance, discriminant analysis, canonical correlation, and principal components analysis. Emphasis is on computer applications in the analysis of multivariate data.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2245",
+            "course_name": "",
+            "description": "PSYCH-GA 2245\n\n   Functional Magnetic Resonance Imaging Lab\n\nThis course covers the major topics and issues in the field of fMRI. With this background, students will be able to design and implement their own fMRI experiments. There are weekly lab projects that will involve acquiring and analyzing fMRI data, and submitted written lab reports. Final grades are based on the lab reports. The lectures provide background information useful in performing the labs, along with additional information for a broader and deeper understanding of fMRI methods. Prerequisites: Graduate standing in Psychology or Neural Science or permission of the instructors. Recommende...\n\n      more description for PSYCH-GA 2245 \u00bb\n\n      \n\n\n\nThis course covers the major topics and issues in the field of fMRI. With this background, students will be able to design and implement their own fMRI experiments. There are weekly lab projects that will involve acquiring and analyzing fMRI data, and submitted written lab reports. Final grades are based on the lab reports. The lectures provide background information useful in performing the labs, along with additional information for a broader and deeper understanding of fMRI methods. Prerequisites: Graduate standing in Psychology or Neural Science or permission of the instructors. Recommended: some experience with Matlab programming, statistics, and linear algebra.\n\n      less description for PSYCH-GA 2245 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2247",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2258",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": "MEYR 551"
+                }
+            ],
+            "course_name": "Advanced Sem: Structural Equations",
+            "description": "PSYCH-GA 2247 Advanced Sem: Structural Equations \nStudents apply and critique structural equation methods for studying relationships among multiple variables, including path analysis, confirmatory factor analysis, latent variable regression models, and methods designed for categorical data. Emphasis is on practical data analysis and public presentations of findings.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 2248",
+            "course_name": "Methods for The Analysis of Change",
+            "description": "PSYCH-GA 2248 Methods for The Analysis of Change \nCurrent issues and methods involving the analysis of change in the behavioral and social sciences, including latent change approaches, hierarchical linear models, and survival analysis, as well as classical methods for the analysis of change, including change scores, mixed model ANOVA, regression, and MANOVA.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2249",
+            "course_name": "Child Psychopathology",
+            "description": "PSYCH-GA 2249 Child Psychopathology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2252",
+            "course_name": "Adv Projects in I/O",
+            "description": "PSYCH-GA 2252 Adv Projects in I/O",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2253",
+            "course_name": "Advanced Projects II",
+            "description": "PSYCH-GA 2253 Advanced Projects II",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2254",
+            "course_name": "Leadership & Supervision",
+            "description": "PSYCH-GA 2254 Leadership & Supervision",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2256",
+            "course_name": "Psych of Group Behavior",
+            "description": "PSYCH-GA 2256 Psych of Group Behavior",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2257",
+            "course_name": "Law and Psychology",
+            "description": "PSYCH-GA 2257 Law and Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2258",
+            "course_name": "Psychology of Justice",
+            "description": "PSYCH-GA 2258 Psychology of Justice \nIntroduction to psychological theories about social justice. Examines the four major theoretical frameworks of justice theory: relative deprivation, distributive justice, procedural justice, and retributive justice. Using these frameworks, the course examines the role of justice in social attitudes and behavior, the influence of justice on the advantaged and disadvantaged, the scope of justice concerns, the nature of the justice motive, and cultural differences in conceptions of justice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2261",
+            "course_name": "Psychodynamic Approach to Adult Psychpathology",
+            "description": "PSYCH-GA 2261 Psychodynamic Approach to Adult Psychpathology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2265",
+            "course_name": "Assessment I",
+            "description": "PSYCH-GA 2265 Assessment I",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2266",
+            "course_name": "Intro Prct Persnlty Assm",
+            "description": "PSYCH-GA 2266 Intro Prct Persnlty Assm",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2268",
+            "course_name": "Environmental Psychology",
+            "description": "PSYCH-GA 2268 Environmental Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2269",
+            "course_name": "Intervention and Social Change",
+            "description": "PSYCH-GA 2269 Intervention and Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2270",
+            "course_name": "Scl Adaptatn",
+            "description": "PSYCH-GA 2270 Scl Adaptatn",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2271",
+            "course_name": "Community Mental Health",
+            "description": "PSYCH-GA 2271 Community Mental Health",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2272",
+            "course_name": "Primary Prevention",
+            "description": "PSYCH-GA 2272 Primary Prevention",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2275",
+            "course_name": "Psychodyn Psychotherapy",
+            "description": "PSYCH-GA 2275 Psychodyn Psychotherapy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2276",
+            "course_name": "Res Mthds in Clin Psych",
+            "description": "PSYCH-GA 2276 Res Mthds in Clin Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2277",
+            "course_name": "Sem Clinic Interventions in Multicutural Contexts",
+            "description": "PSYCH-GA 2277 Sem Clinic Interventions in Multicutural Contexts",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2279",
+            "course_name": "Sem On Social Psych",
+            "description": "PSYCH-GA 2279 Sem On Social Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2280",
+            "course_name": "Automaticity",
+            "description": "PSYCH-GA 2280 Automaticity",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2281",
+            "course_name": "Relationships",
+            "description": "PSYCH-GA 2281 Relationships",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2282",
+            "course_name": "Decision Analysis in Soc Situations",
+            "description": "PSYCH-GA 2282 Decision Analysis in Soc Situations",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2283",
+            "course_name": "Motivation & Volition",
+            "description": "PSYCH-GA 2283 Motivation & Volition",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2284",
+            "course_name": "Basic Rsch Methods",
+            "description": "PSYCH-GA 2284 Basic Rsch Methods",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2285",
+            "course_name": "Adv Res Methods in I/O",
+            "description": "PSYCH-GA 2285 Adv Res Methods in I/O",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2286",
+            "course_name": "Person Perception:",
+            "description": "PSYCH-GA 2286 Person Perception:",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2290",
+            "course_name": "Orgnz & Commun Processes",
+            "description": "PSYCH-GA 2290 Orgnz & Commun Processes",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2291",
+            "course_name": "Social Cognition",
+            "description": "PSYCH-GA 2291 Social Cognition",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2292",
+            "course_name": "Psych Theory/Social Issu",
+            "description": "PSYCH-GA 2292 Psych Theory/Social Issu",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2293",
+            "course_name": "Evaluation Research",
+            "description": "PSYCH-GA 2293 Evaluation Research",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2294",
+            "course_name": "Ecological Assessment",
+            "description": "PSYCH-GA 2294 Ecological Assessment",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2295",
+            "course_name": "Adolescent Development",
+            "description": "PSYCH-GA 2295 Adolescent Development",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 2296",
+            "course_name": "Cogn: Behavioral Assess & Treatment",
+            "description": "PSYCH-GA 2296 Cogn: Behavioral Assess & Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3201",
+            "course_name": "Adv Topics Data Analysis",
+            "description": "PSYCH-GA 3201 Adv Topics Data Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3202",
+            "course_name": "Recent Devl Multiv Stats",
+            "description": "PSYCH-GA 3202 Recent Devl Multiv Stats",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3209",
+            "course_name": "Curr Rsch Cogn & Percep:",
+            "description": "PSYCH-GA 3209 Curr Rsch Cogn & Percep:",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3210",
+            "course_name": "Sem in Psycholinguistics",
+            "description": "PSYCH-GA 3210 Sem in Psycholinguistics \nIn-depth examination of topical issues in language comprehension, production, and acquisition. Sample topics: mechanisms for syntactic and interpretative processing; modular and nonmodular approaches to language comprehension; statistical and rule-based approaches to language acquisition.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3214",
+            "course_name": "Social Development",
+            "description": "PSYCH-GA 3214 Social Development \nPresentation of major theories and issues concerning the development of children?s social awareness and behavior, including early attachment processes, socialization, social perception, and social behavioPresentation of major theories and issues concerning the development of children?s social awareness and behavior, including early attachment processes, socialization, social perception, and social behavior and motivation.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3215",
+            "course_name": "Empathy & Moral Intern",
+            "description": "PSYCH-GA 3215 Empathy & Moral Intern",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3219",
+            "course_name": "Learning",
+            "description": "PSYCH-GA 3219 Learning",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3220",
+            "course_name": "Models of Higher-Order Cognition",
+            "description": "PSYCH-GA 3220 Models of Higher-Order Cognition \nAdvanced topics in developmental psychology. Topics may include conceptual development, language acquisition, motor skill acquisition, and perceptual learning and development.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3225",
+            "course_name": "Computer Models of Sens Percep & Cognition",
+            "description": "PSYCH-GA 3225 Computer Models of Sens Percep & Cognition",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3233",
+            "course_name": "Seminar in Perception",
+            "description": "PSYCH-GA 3233 Seminar in Perception \nAdvanced topics in perception. Topics have included object recognition, space perception, binocular stereopsis, visual cue combination, feature analysis, visual-motor coordination, visual attention, and fMRI methods in perception.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3250",
+            "course_name": "Sem in Verb Learning & Verbal Behavior",
+            "description": "PSYCH-GA 3250 Sem in Verb Learning & Verbal Behavior",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3273",
+            "course_name": "Prob & Prac in I/O Psych",
+            "description": "PSYCH-GA 3273 Prob & Prac in I/O Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3280",
+            "course_name": "Area Sem-Clinical",
+            "description": "PSYCH-GA 3280 Area Sem-Clinical",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3282",
+            "course_name": "Area Sem in Soc/Pers",
+            "description": "PSYCH-GA 3282 Area Sem in Soc/Pers \nConsiders significant current research areas in social/personality psychology. Presentations by guest speakers and by students engaged in their own research programs constitute a major portion of this course.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3283",
+            "course_name": "Intermediate Assessment",
+            "description": "PSYCH-GA 3283 Intermediate Assessment",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3284",
+            "course_name": "Advanced Assessment",
+            "description": "PSYCH-GA 3284 Advanced Assessment",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3285",
+            "course_name": "Assessment IV/Child",
+            "description": "PSYCH-GA 3285 Assessment IV/Child",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3286",
+            "course_name": "Attitude Theory",
+            "description": "PSYCH-GA 3286 Attitude Theory \nContemporary theories of attitude formation, structure, and change; attitude measurement; derivative research and current controversies among the leading theories; related concepts such as beliefs, values, and public opinion.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3287",
+            "course_name": "Pract in Comm Rsch",
+            "description": "PSYCH-GA 3287 Pract in Comm Rsch",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3288",
+            "course_name": "Community Practicum",
+            "description": "PSYCH-GA 3288 Community Practicum",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3289",
+            "course_name": "Masters Seminar in Community Psychology",
+            "description": "PSYCH-GA 3289 Masters Seminar in Community Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3290",
+            "course_name": "Adv Sem Community Psych",
+            "description": "PSYCH-GA 3290 Adv Sem Community Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3291",
+            "course_name": "Fieldwork Clin Psycholog",
+            "description": "PSYCH-GA 3291 Fieldwork Clin Psycholog",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3292",
+            "course_name": "Fldwk Clinical Psycholog",
+            "description": "PSYCH-GA 3292 Fldwk Clinical Psycholog",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3296",
+            "course_name": "Adv Topics Orgnztnl Psyc",
+            "description": "PSYCH-GA 3296 Adv Topics Orgnztnl Psyc",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3301",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1711",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation Research",
+            "description": "PSYCH-GA 3301 Dissertation Research \nDiscussion of proposals and methodology for doctoral dissertation, planning of dissertation work, and reports of progress.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3302",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1712",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation ResearchPaper",
+            "description": "PSYCH-GA 3302 Dissertation ResearchPaper \nDiscussion of proposals and methodology for doctoral dissertation, planning of dissertation work, and reports of progress.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3303",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1713",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1714",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Pre-Doctoral Research in Psychology (Paper)",
+            "description": "PSYCH-GA 3303 Pre-Doctoral Research in Psychology (Paper) \nResearch for one or two terms in addition to the doctoral research.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3304",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1715",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Predoctoral Research in Psychology",
+            "description": "PSYCH-GA 3304 Predoctoral Research in Psychology \nResearch for one or two terms in addition to the doctoral research.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3305",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1716",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course in Psych",
+            "description": "PSYCH-GA 3305 Reading Course in Psych \nPlanned program of intensive readings in a defined area of psychology with supervision of a member of the department.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3306",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1717",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course in Psych",
+            "description": "PSYCH-GA 3306 Reading Course in Psych \nPlanned program of intensive readings in a defined area of psychology with supervision of a member of the department.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3309",
+            "course_name": "Pract in Psychotherapy",
+            "description": "PSYCH-GA 3309 Pract in Psychotherapy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3310",
+            "course_name": "Pract in Psychotherapy",
+            "description": "PSYCH-GA 3310 Pract in Psychotherapy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3315",
+            "course_name": "Sem in Math Psych",
+            "description": "PSYCH-GA 3315 Sem in Math Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3317",
+            "course_name": "Sem in Psych Dev:",
+            "description": "PSYCH-GA 3317 Sem in Psych Dev:",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3321",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1718",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rsch Problems in Psych",
+            "description": "PSYCH-GA 3321 Rsch Problems in Psych \nSupervised research on a special problem apart from the doctoral thesis, in addition to G89.3303, 3304.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3322",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1719",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rsch Problems in Psych",
+            "description": "PSYCH-GA 3322 Rsch Problems in Psych \nSupervised research on a special problem apart from the doctoral thesis, in addition to G89.3303, 3304.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3326",
+            "course_name": "Seminar in Memory & Cognition",
+            "description": "PSYCH-GA 3326 Seminar in Memory & Cognition \nIn-depth examination of topical issues in memory and cognition. Sample topics: mathematical models of memory and cognitive processes; aging, memory, and cognitive control; imaging methods in cognitive tasks; current controversies in categorization.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3380",
+            "course_name": "Prejudice & Stereotyping",
+            "description": "PSYCH-GA 3380 Prejudice & Stereotyping",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3381",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2305",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "MEYR 551"
+                }
+            ],
+            "course_name": "Social Neuroscience",
+            "description": "PSYCH-GA 3381 Social Neuroscience",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3390",
+            "course_name": "Area Seminar",
+            "description": "PSYCH-GA 3390 Area Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3391",
+            "course_name": "Area Sem Sens & Percep",
+            "description": "PSYCH-GA 3391 Area Sem Sens & Percep \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3392",
+            "course_name": "Area Seminar:",
+            "description": "PSYCH-GA 3392 Area Seminar: \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3393",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1720",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Special Topics in PsychSt: Self-Regulation",
+            "description": "PSYCH-GA 3393 Special Topics in PsychSt: Self-Regulation \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3394",
+            "course_name": "Sem On Relationships",
+            "description": "PSYCH-GA 3394 Sem On Relationships \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3395",
+            "course_name": "Social Dev. of The Afr.-Am. Child",
+            "description": "PSYCH-GA 3395 Social Dev. of The Afr.-Am. Child \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3396",
+            "course_name": "Psych of Conflict & Its Resolution",
+            "description": "PSYCH-GA 3396 Psych of Conflict & Its Resolution \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3397",
+            "course_name": "Adv Sem On Cog SCI:",
+            "description": "PSYCH-GA 3397 Adv Sem On Cog SCI: \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3398",
+            "course_name": "Current Top. in Multiv. Stat.",
+            "description": "PSYCH-GA 3398 Current Top. in Multiv. Stat. \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3399",
+            "course_name": "Spec Topics in Psych",
+            "description": "PSYCH-GA 3399 Spec Topics in Psych \nThe department offers several seminars each term, reflecting the interest of advanced students or members of the faculty in contemporary problems in psychology theory, research, or practice.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3400",
+            "course_name": "Org Psych:",
+            "description": "PSYCH-GA 3400 Org Psych:",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3401",
+            "course_name": "Field & Intervent Rsch Design & Methods",
+            "description": "PSYCH-GA 3401 Field & Intervent Rsch Design & Methods",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3402",
+            "course_name": "Area Sem in Dev Psych",
+            "description": "PSYCH-GA 3402 Area Sem in Dev Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3403",
+            "course_name": "Spec Topics/Adolesc Dev",
+            "description": "PSYCH-GA 3403 Spec Topics/Adolesc Dev",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3404",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1881",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 1.00 PM - 2.50 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2452",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Topics:Intergroup Inequality and ConflictSocial Vision",
+            "description": "PSYCH-GA 3404 Topics:Intergroup Inequality and ConflictSocial Vision",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3405",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20672",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 3.20 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                }
+            ],
+            "course_name": "Special Topics:Scientific Program & Computing for the Behav Scien",
+            "description": "PSYCH-GA 3405 Special Topics:Scientific Program & Computing for the Behav Scien",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-GA 3406",
+            "course_name": "Cognition-Adv",
+            "description": "PSYCH-GA 3406 Cognition-Adv",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-GA 3407",
+            "course_name": "Conflict & Negotiations",
+            "description": "PSYCH-GA 3407 Conflict & Negotiations",
+            "offering": false
+        }
+    ]
+}

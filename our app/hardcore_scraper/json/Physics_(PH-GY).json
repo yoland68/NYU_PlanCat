@@ -1,0 +1,609 @@
+{
+    "major_id": "PH-GY",
+    "file": "./2015-2016/Physics_(PH-GY).html",
+    "courses": [
+        {
+            "course_id": "PH-GY 523",
+            "course_name": "ELECTRICITY & MAGNETISM",
+            "description": "PH-GY  523 ELECTRICITY & MAGNETISM",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 524",
+            "course_name": "ELECTRICITY & MAGNETISM",
+            "description": "PH-GY  524 ELECTRICITY & MAGNETISM",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 535",
+            "course_name": "QUANTUM PHYSICS I",
+            "description": "PH-GY  535 QUANTUM PHYSICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 536",
+            "course_name": "QUANTUM PHYSICS II",
+            "description": "PH-GY  536 QUANTUM PHYSICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 548",
+            "course_name": "MODERN OPTICS LAB",
+            "description": "PH-GY  548 MODERN OPTICS LAB",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 595",
+            "course_name": "INSTRUMENTATION OF DOSIMETRY",
+            "description": "PH-GY  595 INSTRUMENTATION OF DOSIMETRY",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 601",
+            "course_name": "PHYSICS FOR CHEMISTS I",
+            "description": "PH-GY  601 PHYSICS FOR CHEMISTS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 602",
+            "course_name": "PHYSICS FOR CHEMISTS II",
+            "description": "PH-GY  602 PHYSICS FOR CHEMISTS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 603",
+            "course_name": "GRADUATE LABORATORY",
+            "description": "PH-GY  603 GRADUATE LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 604",
+            "course_name": "PHYSICS OF STARS",
+            "description": "PH-GY  604 PHYSICS OF STARS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 605",
+            "course_name": "SPCL TCHNQ:EXPER PHYS I",
+            "description": "PH-GY  605 SPCL TCHNQ:EXPER PHYS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 606",
+            "course_name": "SPCL TCHNQ:EXPER PHYS II",
+            "description": "PH-GY  606 SPCL TCHNQ:EXPER PHYS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 607",
+            "course_name": "MATH METHODS OF PHYS I",
+            "description": "PH-GY  607 MATH METHODS OF PHYS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 608",
+            "course_name": "MATH METHODS OF PHYS II",
+            "description": "PH-GY  608 MATH METHODS OF PHYS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 612",
+            "course_name": "MICRO INSTR FOR SCI RESC",
+            "description": "PH-GY  612 MICRO INSTR FOR SCI RESC",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 615",
+            "course_name": "THEORETICAL MECHANICS I",
+            "description": "PH-GY  615 THEORETICAL MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 616",
+            "course_name": "THEORETICAL MECHANICS II",
+            "description": "PH-GY  616 THEORETICAL MECHANICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 623",
+            "course_name": "ELECTROMAG THEORY I",
+            "description": "PH-GY  623 ELECTROMAG THEORY I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 624",
+            "course_name": "ELECTROMAG THEORY 1",
+            "description": "PH-GY  624 ELECTROMAG THEORY 1",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 625",
+            "course_name": "ELECDYNAMICS FLDS MATRLS",
+            "description": "EL-GY  673 | PH-GY  625 ELECDYNAMICS FLDS MATRLS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 625",
+            "course_name": "ELECTROMAGNETIC THEORY 2",
+            "description": "EL-GY  673 | PH-GY  625 ELECTROMAGNETIC THEORY 2",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 633",
+            "course_name": "INTRO-NUC/PARTCL PHYS I",
+            "description": "PH-GY  633 INTRO-NUC/PARTCL PHYS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 634",
+            "course_name": "INTRO-NUC/PARTCL PHYS II",
+            "description": "PH-GY  634 INTRO-NUC/PARTCL PHYS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 635",
+            "course_name": "BIOPHYSICS I",
+            "description": "BE-GY  603 | PH-GY  635 BIOPHYSICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 636",
+            "course_name": "BIOPHYSICS II",
+            "description": "PH-GY  636 BIOPHYSICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 637",
+            "course_name": "RADIATION PHYSICS",
+            "description": "BE-GY  612 | PH-GY  637 RADIATION PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 638",
+            "course_name": "QUANTUM MECH WITH APPL",
+            "description": "PH-GY  638 QUANTUM MECH WITH APPL",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 643",
+            "course_name": "PHYSICAL OPTICS 1",
+            "description": "PH-GY  643 PHYSICAL OPTICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 644",
+            "course_name": "PHYSICAL OPTICS",
+            "description": "PH-GY  644 PHYSICAL OPTICS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 663",
+            "course_name": "STATISTICAL MECHANICS I",
+            "description": "EL-GY  651 | PH-GY  663 STATISTICAL MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 663",
+            "course_name": "STATISTICAL MECHANICS I",
+            "description": "EL-GY  651 | PH-GY  663 STATISTICAL MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 664",
+            "course_name": "STATISTICAL MECHANICS II",
+            "description": "EL-GY  652 | PH-GY  664 STATISTICAL MECHANICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 664",
+            "course_name": "STATISTICAL MECHANICS II",
+            "description": "EL-GY  652 | PH-GY  664 STATISTICAL MECHANICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 667",
+            "course_name": "QUANTUM MECHANICS I",
+            "description": "EL-GY  655 | PH-GY  667 QUANTUM MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 667",
+            "course_name": "QUANTUM MECHANICS I",
+            "description": "EL-GY  655 | PH-GY  667 QUANTUM MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 668",
+            "course_name": "QUANTUM MECHANICS II",
+            "description": "EL-GY  656 | PH-GY  668 QUANTUM MECHANICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 668",
+            "course_name": "QUANTUM MECHANICS II",
+            "description": "EL-GY  656 | PH-GY  668 QUANTUM MECHANICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 669",
+            "course_name": "QUANTUM MECHANICS III",
+            "description": "PH-GY  669 QUANTUM MECHANICS III",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 670",
+            "course_name": "QUANTUM MECHANICS IV",
+            "description": "PH-GY  670 QUANTUM MECHANICS IV",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 671",
+            "course_name": "X-RAY DIFFRACTION I",
+            "description": "PH-GY  671 X-RAY DIFFRACTION I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 672",
+            "course_name": "X-RAY DIFFRACTION II",
+            "description": "PH-GY  672 X-RAY DIFFRACTION II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 673",
+            "course_name": "X-RAY DIFFRAC. TCHNQS I",
+            "description": "PH-GY  673 X-RAY DIFFRAC. TCHNQS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 674",
+            "course_name": "X-RAY DIFFRAC. TCHNQS II",
+            "description": "PH-GY  674 X-RAY DIFFRAC. TCHNQS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 676",
+            "course_name": "MTHD:CRYSTAL STRUCT DTRM",
+            "description": "PH-GY  676 MTHD:CRYSTAL STRUCT DTRM",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 704",
+            "course_name": "CHEMICAL PHYSICS II",
+            "description": "PH-GY  704 CHEMICAL PHYSICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 751",
+            "course_name": "THEORY OF SOLIDS I",
+            "description": "PH-GY  751 THEORY OF SOLIDS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 752",
+            "course_name": "THEORY OF SOLIDS II",
+            "description": "PH-GY  752 THEORY OF SOLIDS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 753",
+            "course_name": "CRYSTAL DYNAMICS I",
+            "description": "PH-GY  753 CRYSTAL DYNAMICS I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 754",
+            "course_name": "CRYSTAL DYNAMICS II",
+            "description": "PH-GY  754 CRYSTAL DYNAMICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 761",
+            "course_name": "REL QNT MECH/FLD THRY I",
+            "description": "PH-GY  761 REL QNT MECH/FLD THRY I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 762",
+            "course_name": "REL QNT MECH/FLD THRY II",
+            "description": "PH-GY  762 REL QNT MECH/FLD THRY II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 763",
+            "course_name": "NUCLEAR THEORY I",
+            "description": "PH-GY  763 NUCLEAR THEORY I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 764",
+            "course_name": "NUCLEAR THEORY II",
+            "description": "PH-GY  764 NUCLEAR THEORY II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 765",
+            "course_name": "HI-ENRGY PHY/PART THRY I",
+            "description": "PH-GY  765 HI-ENRGY PHY/PART THRY I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 766",
+            "course_name": "HI-ENRGY PHY/PART THRY 2",
+            "description": "PH-GY  766 HI-ENRGY PHY/PART THRY 2",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 780",
+            "course_name": "SPCL/GENL THRY-RELATIVTY",
+            "description": "PH-GY  780 SPCL/GENL THRY-RELATIVTY",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 810",
+            "course_name": "GENERAL PHYSICS 1",
+            "description": "PH-GY  810 GENERAL PHYSICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 811",
+            "course_name": "GENERAL PHYSICS 2",
+            "description": "PH-GY  811 GENERAL PHYSICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 814",
+            "course_name": "ENGINEERING PHYSICS 2",
+            "description": "PH-GY  814 ENGINEERING PHYSICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 901",
+            "course_name": "PHYSICS COLLOQUIUM I",
+            "description": "PH-GY  901 PHYSICS COLLOQUIUM I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 902",
+            "course_name": "PHYSICS COLLOQUIUM II",
+            "description": "PH-GY  902 PHYSICS COLLOQUIUM II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 953",
+            "course_name": "GRADUATE SEMINAR I",
+            "description": "PH-GY  953 GRADUATE SEMINAR I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 954",
+            "course_name": "GRADUATE SEMINAR II",
+            "description": "PH-GY  954 GRADUATE SEMINAR II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 955",
+            "course_name": "X READINGS IN APPLIED PHYSICS",
+            "description": "PH-GY  955X READINGS IN APPLIED PHYSICS \nThese guided studies courses in physics are supervised by faculty member. | Prerequisite: Graduate Physics advisor approval.  Note: Course may be repeated for additional credit.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 956",
+            "course_name": "READING IN PHYSICS II",
+            "description": "PH-GY  956 READING IN PHYSICS II",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 961",
+            "course_name": "SEM X-RAY DIFFRACT 1",
+            "description": "PH-GY  961 SEM X-RAY DIFFRACT 1",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 962",
+            "course_name": "SEM X-RAY DIFFRACT 2",
+            "description": "PH-GY  962 SEM X-RAY DIFFRACT 2",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 981",
+            "course_name": "RESEARCH IN PHYSICS",
+            "description": "PH-GY  981 RESEARCH IN PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 982",
+            "course_name": "RESEARCH IN PHYSICS",
+            "description": "PH-GY  982 RESEARCH IN PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 983",
+            "course_name": "RESEARCH IN PHYSICS",
+            "description": "PH-GY  983 RESEARCH IN PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 984",
+            "course_name": "RESEARCH IN PHYSICS",
+            "description": "PH-GY  984 RESEARCH IN PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 997",
+            "classes": [
+                {}
+            ],
+            "course_name": "X MS THESIS IN APPLIED PHYSICS",
+            "description": "PH-GY  997X MS THESIS IN APPLIED PHYSICS \nIndependent research project performed under guidance of thesis advisor. Bound thesis volume and oral defense in presence of at least three faculty members. Continuous registration with total 9 credits required.",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 999",
+            "classes": [
+                {}
+            ],
+            "course_name": "X PHD DISSERTATION IN APPLIED PHYSICS",
+            "description": "PH-GY  999X PHD DISSERTATION IN APPLIED PHYSICS \nAn original investigation in some branch of physics, which may serve as basis for the PhD degree, is performed under the direction of a member of the department. The number of research credits registered for each semester should realistically reflect the time devoted to research. | Prerequisites: Passing grade in RE-GY 9990 PhD Qualifying Exam, degree status and graduate advisers and research director\u2019s consent.",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 5343",
+            "course_name": "Physical Basis of Nanotechnology",
+            "description": "PH-GY 5343 Physical Basis of Nanotechnology \nThis course focuses on the underlying physical basis of nanotechnology. Introduction to nanotechnology, examples of nanoscale systems. Systematics in miniaturization from the mm to the nm scale. Limits to miniaturization. Quantum concepts and elementary Schrodinger theory. Quantum effects in the behavior of chemical matter. Examples of self-assembled nanosystems from nature and from contemporary industrial products. | Prerequisite: PH-UY 2004 or PH-UY 2033",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 5443",
+            "course_name": "PHYSICAL TECHNIQUES AND APPLICATION OF NANOTECHNOLOGY",
+            "description": "PH-GY 5443 PHYSICAL TECHNIQUES AND APPLICATION OF NANOTECHNOLOGY \nThis course focuses on physical techniques and applications of nanotechnology. Scanning probe microscopes for observation and fabrication. Photolithographic methods of patterning, deposition techniques. Dense memory based on arrays of cantilevers. Magnetic Tunnel Junctions as elements of magnetic disc memory read heads and in Magnetic Random Access Memory. Nanoscale high-electric-field devices. Nanoscale confinement techniques and devices. Applications of carbon nanotubes and semiconductor nanowires. Assembly  methods for nanoscale objects. | Prerequisite: PH-UY 2004 or PH-UY 2033",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 5473",
+            "course_name": "Modern Optics",
+            "description": "PH-GY 5473 Modern Optics \nThe course covers the physics of optics, using both classical and semi-classical descriptions. Topics include the classical and quantum interactions of light with matter. Diffraction of waves and wave packets by obstacles. Fourier transform optics, holography, Fourier transform spectroscopy. Coherence and quantum aspects of light. Geometrical optics. Matrix optics. Crystal optics. Introduction to electro-optics and nonlinear optics. | Prerequisites: MA-UY 2122 and PH-UY 3234 equivalents.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 5481",
+            "course_name": "MODERN OPTICS LAB",
+            "description": "PH-GY 5481 MODERN OPTICS LAB \nThe modern optics laboratory includes experimental investigations into laser modes, velocity of light by time-of-flight, Fourier optics, holography, Fourier transform spectroscopy, crystal optics and nonlinear optics. | Corequisite: PH-UY 5473 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 5493",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "PH-GY 5493\n\n   Physics of Nanoelectronics\n\nThis course covers limits to the ongoing miniaturization (Moore\u2019s Law) of the successful silicon-device technology imposed by physical limitations of energy dissipation, quantum tunneling and discrete quantum electron states. Quantum physical concepts and elementary Schrodinger theory. Conductance quantum and magnetic flux quantum. Alternative physical concepts appropriate for devices of size scales of 1 to 10 nanometers, emphasizing role of power dissipation. Tunnel diode, resonant tunnel diode, electron wave transistor; spin valve, tunnel valve, magnetic disk and random access memory; single...\n\n      more description for PH-GY 5493 \u00bb\n\n      \n\n\n\nThis course covers limits to the ongoing miniaturization (Moore\u2019s Law) of the successful silicon-device technology imposed by physical limitations of energy dissipation, quantum tunneling and discrete quantum electron states. Quantum physical concepts and elementary Schrodinger theory. Conductance quantum and magnetic flux quantum. Alternative physical concepts appropriate for devices of size scales of 1 to 10 nanometers, emphasizing role of power dissipation. Tunnel diode, resonant tunnel diode, electron wave transistor; spin valve, tunnel valve, magnetic disk and random access memory; single electron transistor, molecular crossbar latch, quantum cellular automata including molecular and magnetic realizations. Josephson junction and \u201crapid single flux quantum\u201d computation. Photo- and x-ray lithographic patterning, electron beam patterning, scanning probe microscopes for observation and for fabrication; cantilever array as dense memory, use of carbon nanotubes and of DNA and related biological elements as building blocks and in self-assembly strategies. | Prerequisites: PH-UY  2004 or PH-UY  2033.\n\n      less description for PH-GY 5493 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 5543",
+            "course_name": "",
+            "description": "PH-GY 5543\n\n   Physics of Nanomaterials and Graphene\n\nAn introductory graduate course for science and engineering students on the basic properties, preparations and applications of Nanomaterials and Graphene. This course will emphasize forms of carbon, including graphitic carbon composites that are a leading structural material in aircraft; and diamond, carbon black, activated charcoal, carbon nanotubes and graphene. Review of the Schrodinger equation as applied to carbon atoms, to diamond, to graphite and to graphene. Trigonal planar bonding as distinguished from tetrahedral bonding. Methods of making graphene including  chemical vapor depositio...\n\n      more description for PH-GY 5543 \u00bb\n\n      \n\n\n\nAn introductory graduate course for science and engineering students on the basic properties, preparations and applications of Nanomaterials and Graphene. This course will emphasize forms of carbon, including graphitic carbon composites that are a leading structural material in aircraft; and diamond, carbon black, activated charcoal, carbon nanotubes and graphene. Review of the Schrodinger equation as applied to carbon atoms, to diamond, to graphite and to graphene. Trigonal planar bonding as distinguished from tetrahedral bonding. Methods of making graphene including  chemical vapor deposition, exfoliation of graphite. Application of graphene as transparent conductor in solar cells and opto-electronic devices. | Prerequisites: PH-UY 2033 or Graduate Standing.\n\n      less description for PH-GY 5543 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 5553",
+            "course_name": "",
+            "description": "PH-GY 5553\n\n   Physics of Quantum Computing\n\nThis course explores limits to the performance of binary computers, traveling salesman and factorization problems, security of encryption. The concept of the quantum computer based on linear superposition of basis states. The information content of the qubit. Algorithmic improvements enabled in the hypothetical quantum computer. Isolated two-level quantum systems, the principle of linear superposition as well established. Coherence as a limit on quantum computer realization. Introduction of concepts underlying the present approaches to realizing qubits (singly and in interaction) based on phys...\n\n      more description for PH-GY 5553 \u00bb\n\n      \n\n\n\nThis course explores limits to the performance of binary computers, traveling salesman and factorization problems, security of encryption. The concept of the quantum computer based on linear superposition of basis states. The information content of the qubit. Algorithmic improvements enabled in the hypothetical quantum computer. Isolated two-level quantum systems, the principle of linear superposition as well established. Coherence as a limit on quantum computer realization. Introduction of concepts underlying the present approaches to realizing qubits (singly and in interaction) based on physical systems. The systems in present consideration are based on light photons in fiber optic systems; electron charges in double well potentials, analogous to the hydrogen molecular ion; nuclear spins manipulated via the electron-nuclear spin interaction, and systems of ions such as Be and Cd which are trapped in linear arrays using methods of ultra-high vacuum, radiofrequency trapping and laser-based cooling and manipulation of atomic states. Summary and comparison of the several approaches. | Prerequisites: PH-UY 2004 or PH-UY 2033\n\n      less description for PH-GY 5553 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 5663",
+            "course_name": "",
+            "description": "PH-GY 5663\n\n   Physics of Alternative Energy\n\nThe course examines non-petroleum sources of energy including photovoltaic cells, photocatalytic generators of hydrogen from water, and nuclear fusion reactors. The advanced physics of these emerging technical areas are introduced in this course. Semiconductor junctions, optical absorption in semiconductors, photovoltaic effect. Energy conversion efficiency of the silicon solar cell. Single crystal, polycrystal, and thin film types of solar cells. Excitons in bulk and in confined geometries. Excitons in energy transport within an absorbing structure. Methods of making photocatalytic surfaces a...\n\n      more description for PH-GY 5663 \u00bb\n\n      \n\n\n\nThe course examines non-petroleum sources of energy including photovoltaic cells, photocatalytic generators of hydrogen from water, and nuclear fusion reactors. The advanced physics of these emerging technical areas are introduced in this course. Semiconductor junctions, optical absorption in semiconductors, photovoltaic effect. Energy conversion efficiency of the silicon solar cell. Single crystal, polycrystal, and thin film types of solar cells. Excitons in bulk and in confined geometries. Excitons in energy transport within an absorbing structure. Methods of making photocatalytic surfaces and structures for water splitting. Conditions for nuclear fusion. Plasmas and plasma compression. The toroidal chamber with magnetic coils as it appears in recent designs. Nuclear fusion by laser compression (inertial fusion). Small scale exploratory approaches to fusion based on liquid compression and electric field ionization of deuterium gas. | Prerequisites: PH-UY 2004 or PH-UY 2033\n\n      less description for PH-GY 5663 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6153",
+            "course_name": "THEORETICAL MECHANICS I",
+            "description": "PH-GY 6153 THEORETICAL MECHANICS I \nPrinciples of particle and rigid body dynamics. Lagrange's equations. Small vibrations of coupled systems, normal modes of oscillation. | Prerequisites: Graduate standing, or for undergraduates, PH-UY 2104 or equivalent and physics graduate advisor\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6163",
+            "course_name": "THEORETICAL MECHANICS II",
+            "description": "PH-GY 6163 THEORETICAL MECHANICS II \nHamiltonian mechanics. Transformation theories of mechanics including the Poisson Bracket and Hamilton-Jacobi formulations.  Lagrangian formulation of mechanics of continuous media. | Prerequisite: PH-GY  6153.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6243",
+            "course_name": "ELECTROMAGNETIC THEORY I",
+            "description": "PH-GY 6243 ELECTROMAGNETIC THEORY I \nElectro- and Magneto-statics. Boundary value problems in three dimensions. Green's functions and multipole expansions.  Polarization and magnetization. Scalar and vector potentials and gauges. Maxwell's equations. | Prerequisites: Graduate Standing, or for Undergraduates, PH-UY 3234 or equivalent and Physics Graduate Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6253",
+            "course_name": "ELECTROMAGNETIC THEORY II",
+            "description": "PH-GY 6253 ELECTROMAGNETIC THEORY II \nElectromagnetic waves.  Propagation in free space and in dielectric and conducting media.  Polarization, dissipation and dispersion.  Guided waves and cavities.  Special Relativity.  Scattering. | Prerequisites: PH-GY 6243 Electromagnetic Theory I",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6403",
+            "classes": [
+                {}
+            ],
+            "course_name": "Physical Concepts of Polymer Nanocomposites",
+            "description": "PH-GY 6403 Physical Concepts of Polymer Nanocomposites \nThis course presents fundamental aspects of polymer nanocomposites and updates on recent advancements and modern applications. Topics include nanostructured materials; assembly at interfaces; interactions on surfaces; properties of polymer nanocomposites; reliability; nanodevices.",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 6513",
+            "course_name": "Introduction to Solid-State Physics I",
+            "description": "PH-GY 6513 Introduction to Solid-State Physics I \nPhenomena and theory of physics of crystalline solids. Topics from thermal, magnetic, electrical and optical properties of metals, insulators and semiconductors. | Prerequisite: PH-UY 2344 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6523",
+            "course_name": "Introduction to Solid-State Physics II",
+            "description": "PH-GY 6523 Introduction to Solid-State Physics II \nPhenomena and theory of physics of crystalline solids. Topics from thermal, magnetic, electrical and optical properties of metals, insulators and semiconductors. |  Prerequisite: PH-GY 6513",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6553",
+            "course_name": "ADVANCED QUANTUM COMPUTING",
+            "description": "PH-GY 6553 ADVANCED QUANTUM COMPUTING \nAdvanced topics in quantum computation are explored. | Prerequisites: PH-GY 5553.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6633",
+            "course_name": "STATISTICAL MECHANICS I",
+            "description": "PH-GY 6633 STATISTICAL MECHANICS I \nEquilibrium distributions. Relationships to laws of thermodynamics. Quantum effects. Maxwell-Boltzmann, Fermi-Dirac, Bose-Einstein distributions. Applications to bulk properties phenomena using Boltzmann transport equation. | Prerequisites: PH-UY 4364 or PH-GY 6673",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6643",
+            "course_name": "STATISTICAL MECHANICS II",
+            "description": "PH-GY 6643 STATISTICAL MECHANICS II \nMicro-, macro-, and grand-canonical ensembles and principles of classical statistical mechanics. Condensation phenomena. Treatment of fluctuation and transport phenomena. Density matrix formalism of quantum statistical mechanics. Many-body problems. | Prerequisites: PH-GY 6633.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 6673",
+            "classes": [
+                {}
+            ],
+            "course_name": "QUANTUM MECHANICS I",
+            "description": "PH-GY 6673 QUANTUM MECHANICS I \nQuantum mechanics with applications to atomic systems. The use of Schrodinger\u2019s equations. Angular momentum and spin. Semi-classical theory of field-matter interaction. | Prerequisites: MA-UY 2122, PH-UY 3234 equivalents.",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 6683",
+            "course_name": "QUANTUM MECHANCIS II",
+            "description": "PH-GY 6683 QUANTUM MECHANCIS II \nQuantum mechanics with applications to atomic systems. The use of Schrodinger\u2019s equations. Angular momentum and spin. Semi-classical theory of field-matter interaction. | Prerequisites PH-GY 6673.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 8013",
+            "classes": [
+                {}
+            ],
+            "course_name": "Selected Topics in Advanced PhysicsCOMMUNICATION FOR PHD CANDIDATES",
+            "description": "PH-GY 8013 Selected Topics in Advanced PhysicsCOMMUNICATION FOR PHD CANDIDATES \nCurrent or advanced topics of particular interest to graduate students are examined. Subject matter is determined each year by students and faculty. The course may be given in more than one section. Consult department office for current offerings. | Note: this course is not offered every semester.",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 8023",
+            "course_name": "Selected Topics in Advanced Physics",
+            "description": "PH-GY 8023 Selected Topics in Advanced Physics \nCurrent or advanced topics of particular interest to graduate students are examined. Subject matter is determined each year by students and faculty. The course may be given in more than one section. Consult department office for current offerings. | Note: this course is not offered every semester.",
+            "offering": false
+        },
+        {
+            "course_id": "PH-GY 9531",
+            "classes": [
+                {}
+            ],
+            "course_name": "GRADUATE SEMINAR I",
+            "description": "PH-GY 9531 GRADUATE SEMINAR I \nStudents presenting current topics in Physics in a seminar setting to other students and supervising faculty.  Topics chosen by the student with guidance from faculty.",
+            "offering": true
+        },
+        {
+            "course_id": "PH-GY 9541",
+            "course_name": "GRADUATE SEMINAR II",
+            "description": "PH-GY 9541 GRADUATE SEMINAR II \nStudents presenting current topics in Physics in a seminar setting to other students and supervising faculty.  Topics chosen by the student with guidance from faculty.",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "major_id": "CSCD-UE",
+    "file": "./2015-2016/Communicative_Sciences_&_Disorders(CSCD-UE).html",
+    "courses": [
+        {
+            "course_id": "CSCD-UE 8",
+            "course_name": "Anatomy/Physiology of Speech/Hearing Mechanism",
+            "description": "CSCD-UE    8 Anatomy/Physiology of Speech/Hearing Mechanism \nA comprehensive study of the anatomical, physiological, bases of speech production, and  perception. The structures and mechanics of respiration, fountain, resonation, articulation, and speech perception are studied.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 9",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10339",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Mon 11.20 AM - 1.50 PM",
+                    "open": true,
+                    "professor": "Canterucci, Gina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10340",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Thu 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "Bridges, Kelly"
+                }
+            ],
+            "course_name": "Neuroanatomy and Physiology/Communication",
+            "description": "CSCD-UE    9 Neuroanatomy and Physiology/Communication \nA comprehensive study of the neurological bases of speech and language production, speech and language perception, and swallowing. The neurological basis of language, respiration, phonation, resonation, articulation, speech perception, and swallowing are studied",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 17",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10341",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Canterucci, Gina"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11031",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Fri 11.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Elias, Penelope"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11032",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Fri 12.30 PM - 1.20 PM",
+                    "open": true,
+                    "professor": "Elias, Penelope"
+                }
+            ],
+            "course_name": "Intro to Communicative Sciences and Disorders",
+            "description": "CSCD-UE   17 Intro to Communicative Sciences and Disorders \nA presentation of clinically normal voice, speech, and language processes provides a foundation of the overview of major categories of communication disabilities.  Includes etiologies and typical symptomatology of major communication disorders.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 18",
+            "course_name": "Intro to Communicative Sciences & Disorders II",
+            "description": "CSCD-UE   18 Intro to Communicative Sciences & Disorders II \nA presentation of clinically normal voice, speech, and language processes provides a foundation of the overview of major categories of communication disabilities.  Includes etiologies and typical symptomatology of major communication disorders.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 32",
+            "course_name": "Voice and Diction",
+            "description": "CSCD-UE   32 Voice and Diction \nAnalysis of student's voice and diction; elements of the speaking voice; study of English sounds, stress, and intonation; application of principles.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 33",
+            "course_name": "",
+            "description": "CSCD-UE   33\n\n   Voices and Listeners\n\nThe course provides a comprehensive, interdisciplinary overview of the multifaceted role that vocal expression plays in everyday communication.  Familiar voice recognition, perception of emotion, attitude & personality, & interactions between speech & voice perception are described from sociological, psychological, physiological, & neurological perspectives.  Evolutionary biology, cultural differences, singing, & uses in media & courtroom are discussed.  Clinical studies examine self-awareness of vocal expression & the influence of vocal quality on personal identity. Voice as communication veh...\n\n      more description for CSCD-UE   33 \u00bb\n\n      \n\n\n\nThe course provides a comprehensive, interdisciplinary overview of the multifaceted role that vocal expression plays in everyday communication.  Familiar voice recognition, perception of emotion, attitude & personality, & interactions between speech & voice perception are described from sociological, psychological, physiological, & neurological perspectives.  Evolutionary biology, cultural differences, singing, & uses in media & courtroom are discussed.  Clinical studies examine self-awareness of vocal expression & the influence of vocal quality on personal identity. Voice as communication vehicle for speaker & listener is fully explored.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Natural Sciences\n\n      less description for CSCD-UE   33 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 61",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10342",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Thu 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Levi, Susannah"
+                }
+            ],
+            "course_name": "Phonetics and Phonemics",
+            "description": "CSCD-UE   61 Phonetics and Phonemics \nA study of the production, description, and classification of speech sounds; English sounds, stress, and intonation; phonemes and allophones, ear training, phonetic and phonemic transcription.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 402",
+            "course_name": "Acoustic Phonetics",
+            "description": "CSCD-UE  402 Acoustic Phonetics \nA broad-based study of acoustic phonetics including acoustic theory and measurement; distinctive feature systems; integration of physiologic and perceptual characteristics with concomitant acoustic features.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10343",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Van Lancker Sidtis, Diana",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10344",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Reuterskiold, Eva",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10345",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Buchwald, Adam",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10346",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Grigos, Maria",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10347",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Levi, Susannah",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10348",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Byun, Tara",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10349",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Molfenter, Sonja M",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10350",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Klein, Harriet",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10351",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Stewart, Celia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "CSCD-UE 1000 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1012",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10352",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Mon 3.45 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Stewart, Celia"
+                }
+            ],
+            "course_name": "Introduction to Neurogen Communication Disorders",
+            "description": "CSCD-UE 1012 Introduction to Neurogen Communication Disorders \nStudy of the nature, course, and severity of the most commonly occurring communication disorders resulting from neurological injury or disease. Analysis of the neurological basis of aphasia, dementia, traumatic brain injury, and motor speech impairment on communication skills. Investigation into current evaluation strategies and treatment programs employed by speech-language pathologists for these and related disorders.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1015",
+            "course_name": "",
+            "description": "CSCD-UE 1015\n\n   Communication Disorders and Aging\n\nStudy of the communication disorders and disabilities experienced by elders and the role of the speech-language pathologist within the field of gerontology. Analysis of communication disability within the larger context of the aging process. Investigation of the aspects of normal and pathological aging, contrasted with the stereotypes of aging, and verbal communication and swallowing disabilities e.g., effects of aging on the voice, the hearing mechanism, and cognition. Explore the concepts of prevention of communication disorders and functional treatment approaches geared to the specific comm...\n\n      more description for CSCD-UE 1015 \u00bb\n\n      \n\n\n\nStudy of the communication disorders and disabilities experienced by elders and the role of the speech-language pathologist within the field of gerontology. Analysis of communication disability within the larger context of the aging process. Investigation of the aspects of normal and pathological aging, contrasted with the stereotypes of aging, and verbal communication and swallowing disabilities e.g., effects of aging on the voice, the hearing mechanism, and cognition. Explore the concepts of prevention of communication disorders and functional treatment approaches geared to the specific communication needs of elders.\n\n      less description for CSCD-UE 1015 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 1045",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10353",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Buchwald, Adam"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11027",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Thu 2.30 PM - 3.20 PM",
+                    "open": true,
+                    "professor": "Wilson, Emily"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11028",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Thu 4.00 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Wilson, Emily"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11029",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Fri 11.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Wilson, Emily"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11030",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Fri 12.30 PM - 1.20 PM",
+                    "open": true,
+                    "professor": "Wilson, Emily"
+                }
+            ],
+            "course_name": "Science of Language",
+            "description": "CSCD-UE 1045 Science of Language \nThis course provides an overview of the scientific study of the human language faculty, focusing on the cognitive & neural processing mechanisms that underlie linguistic knowledge & use. We describe contemporary approaches to delineating levels of language structure & review various scientific methodologies used to study language. Topics include language knowledge & use as well as language change & variation.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Natural Science",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1065",
+            "course_name": "",
+            "description": "CSCD-UE 1065\n\n   Intro Mthds/Mtrls Diag Therapy/Comm Disorders\n\nIntroduction to contemporary issues of clinical practice in the field of communication disorders across the lifespan. Emphasis on integration of previous coursework with observations of diagnostic and treatment sessions with individuals with a variety of communication disorders. Each student completes 25 hours of direct observation outside of class under the supervision of an individual holding an American Speech Language Hearing Association (ASHA) Certificate of Clinical Competence. Introduction to clinical settings through study of fundamental concepts and current methods of clinical assessm...\n\n      more description for CSCD-UE 1065 \u00bb\n\n      \n\n\n\nIntroduction to contemporary issues of clinical practice in the field of communication disorders across the lifespan. Emphasis on integration of previous coursework with observations of diagnostic and treatment sessions with individuals with a variety of communication disorders. Each student completes 25 hours of direct observation outside of class under the supervision of an individual holding an American Speech Language Hearing Association (ASHA) Certificate of Clinical Competence. Introduction to clinical settings through study of fundamental concepts and current methods of clinical assessment, client interviewing, treatment planning, clinical writing, and implementation of treatment plans within culturally appropriate contexts. Special attention to professional conduct and ethics of clinical practicum as set forth by ASHA.\n\n      less description for CSCD-UE 1065 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 1066",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11034",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Wed 9.45 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Case, Julie"
+                }
+            ],
+            "course_name": "Diagnostic Methods in Communicative Sciences and Disorders",
+            "description": "CSCD-UE 1066 Diagnostic Methods in Communicative Sciences and Disorders \nIntroduction to basic diagnostic principles & their application to speech, language, & swallowing disorders across the lifespan. Course will build on a working knowledge of common speech, language & swallowing disorders & focus on identifying appropriate standardized & non-standardized diagnostic procedures, compiling case histories, & developing test administration & report-writing skills.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11369",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Thu 9.00 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "Grigos, Maria"
+                }
+            ],
+            "course_name": "Intro to Artic Disor Pho Disor:Assmnt & Remediati",
+            "description": "CSCD-UE 1101 Intro to Artic Disor Pho Disor:Assmnt & Remediati \nAn introduction to the study of articulation problems associated with functional and organic disturbances.  Basic diagnostic and therapeutic procedures for children and adults.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1205",
+            "course_name": "Audiology: Intervention Strategies Across the Lifespan",
+            "description": "CSCD-UE 1205 Audiology: Intervention Strategies Across the Lifespan \nPrinciples and techniques of audiologic evaluation and management of hearing impaired infants and children. Both personal and assistive amplification listening systems are covered. Speech reading and auditory training techniques. Educational and communicative options for children of different ages with different types and degrees of hearing loss. The cochlear implant: implications for rehabilitation and education of profoundly hearing-impaired children are included.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 1207",
+            "course_name": "Intro to Lang Disorders in Children",
+            "description": "CSCD-UE 1207 Intro to Lang Disorders in Children \nAn introduction to language disorders associated with various categories of disability.  Basic assignment and remediating approaches are addressed.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCD-UE 1230",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11598",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Tue 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "An, Leejung"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10354",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 669",
+                    "time": "Wed 6.00 PM - 7.40 PM",
+                    "open": true,
+                    "professor": "An, Leejung"
+                }
+            ],
+            "course_name": "Intro to Audiology",
+            "description": "CSCD-UE 1230 Intro to Audiology \nPrinciples and techniques of pure tone and speech audiometer; interpretation of ideograms; consideration of etiologies and auditory characteristics of major types of hearing impairment.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10355",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Tue 3.45 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Ebani, Raquel"
+                }
+            ],
+            "course_name": "Language Development in Preschool Years",
+            "description": "CSCD-UE 1601 Language Development in Preschool Years \nFocuses on research on normal language acquisition and development with reference to three oral language components: form, content, and use.  Implication for facilitation of language in children delayed in language development are discussed.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 1990",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20111",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "665B 917"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCD-UE 1990\n\n   Honors Research Seminar\n\nThis is a semester-long seminar for students in the Honors Program in the Department of Communicative Sciences & Disorders. The seminar has three main objectives: (a) provide a forum where students engage in a serious intellectual discussion about the process of conducting independent research, (b) provide guidance & structure to students in the process of conducting their independent research projects, & (c) prepare students for presentation of their honors thesis in a professional forum. Participation in this course is restricted to students who have been admitted to the Honors Program in Co...\n\n      more description for CSCD-UE 1990 \u00bb\n\n      \n\n\n\nThis is a semester-long seminar for students in the Honors Program in the Department of Communicative Sciences & Disorders. The seminar has three main objectives: (a) provide a forum where students engage in a serious intellectual discussion about the process of conducting independent research, (b) provide guidance & structure to students in the process of conducting their independent research projects, & (c) prepare students for presentation of their honors thesis in a professional forum. Participation in this course is restricted to students who have been admitted to the Honors Program in Communicative Sciences & Disorders.\n\n      less description for CSCD-UE 1990 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCD-UE 9650",
+            "course_name": "Contemporary Issues in Health Services in the United Kingdom",
+            "description": "CSCD-UE 9650 Contemporary Issues in Health Services in the United Kingdom",
+            "offering": false
+        }
+    ]
+}

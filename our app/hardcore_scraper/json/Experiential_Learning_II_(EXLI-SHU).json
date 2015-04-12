@@ -1,0 +1,24 @@
+{
+    "major_id": "EXLI-SHU",
+    "file": "./2015-2016/Experiential_Learning_II_(EXLI-SHU).html",
+    "courses": [
+        {
+            "course_id": "EXLI-SHU 9301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19531",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Ro, Raymond",
+                    "time": "Tue 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Experiential Learning",
+            "description": "EXLI-SHU 9301 Experiential Learning \nThis course aims to complement and enhance the internship experience. Students will learn to critically examine their fieldwork in order to reflect upon what their particular, concrete experience reveals about life in contemporary Shanghai.",
+            "offering": true
+        }
+    ]
+}

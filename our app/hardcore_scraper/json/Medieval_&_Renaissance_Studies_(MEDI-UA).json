@@ -1,0 +1,1614 @@
+{
+    "major_id": "MEDI-UA",
+    "file": "./2015-2016/Medieval_&_Renaissance_Studies_(MEDI-UA).html",
+    "courses": [
+        {
+            "course_id": "MEDI-UA 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7230",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 300",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Krinsky, Carol"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7231",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 302"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7232",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 307"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7233",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 302"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7234",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 302"
+                }
+            ],
+            "course_name": "History of Western Art I",
+            "description": "MEDI-UA    1 History of Western Art I \nIntroduction to the history of painting, sculpture, and architecture from ancient times to the dawn of the Renaissance, emphasizing the place of the visual arts in the history of civilization. Includes the study of significant works in New York museums, such as the Metropolitan Museum of Art, the Cloisters, and the Brooklyn Museum.",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 2",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7235",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 300",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Silver, Kenneth"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7236",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 302"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7237",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 307"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7238",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 302"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7239",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 302"
+                }
+            ],
+            "course_name": "History of Western Art II",
+            "description": "MEDI-UA    2 History of Western Art II \nIntroduction to the history of painting, sculpture, and architecture from the early Renaissance to the present day. Includes the study of significant works in New York museums, such as the Metropolitan Museum of Art, the Frick Collection, the Guggenheim Museum, and the Museum of Modern Art.",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 3",
+            "course_name": "Medieval Technology",
+            "description": "MEDI-UA    3 Medieval Technology \nGives a tour of the mills, factories, schools, travel technology, cathedral builders, miners, merchants, masons, weavers, and nobles of the Middle Ages. Examines the impact of new technology on the lives of both the rich and the ordinary, men, women, and children, and on medieval beliefs and politics. Also looks at the start of the process that propelled Western Europe from a pastoral backwater to the dominant region of the globe. No background in medieval history or science/technology is needed for this course.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 8",
+            "course_name": "Origins of Astronomy",
+            "description": "MEDI-UA    8 Origins of Astronomy \nIntroduction to the historical development of astronomy, from earliest times through the Copernican revolution. Traces the changes in our perception of the heavens and the influences that led to those changes, from astrology to the discoveries of Galileo and the physics of Newton. Includes descriptive astronomy of the solar system and a trip to the Hayden Planetarium.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 11",
+            "course_name": "Civilization & Culture of The Middle Ages",
+            "description": "MEDI-UA   11 Civilization & Culture of The Middle Ages \nConcentrates on the culture of medieval Europe, a world that produced castles and crusades, cathedrals and tapestries, mystery plays and epics, and plainsong and philosophy. Examines the richness and diversity of medieval creativity through lectures, class discussions, literature, slides, and museum visits.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 12",
+            "course_name": "Literature & Culture of Renaissance",
+            "description": "MEDI-UA   12 Literature & Culture of Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 17",
+            "course_name": "Masterpieces of Renaissance Literature",
+            "description": "MEDI-UA   17 Masterpieces of Renaissance Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 18",
+            "course_name": "Stdys Prose Genres: Renaissance Romance",
+            "description": "MEDI-UA   18 Stdys Prose Genres: Renaissance Romance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 20",
+            "course_name": "Medieval Art",
+            "description": "MEDI-UA   20 Medieval Art",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 25",
+            "course_name": "",
+            "description": "MEDI-UA   25\n\n   Judaism, Christianity, & Islam\n\nThis course seeks to uncover the differences and similarities between Judaism, Christianity, and Islam as religious traditions, and to assess their roles and interactions in the formation and functions of human societies. We will examine the ancient origins and contemporary relevance of these monotheistic traditions through the methodological and theoretical frameworks of the academic discipline of religious studies to gain an understanding of their connections to culture, society, and politics. We will root our study in consideration of ancient and medieval sources of each religion, while sim...\n\n      more description for MEDI-UA   25 \u00bb\n\n      \n\n\n\nThis course seeks to uncover the differences and similarities between Judaism, Christianity, and Islam as religious traditions, and to assess their roles and interactions in the formation and functions of human societies. We will examine the ancient origins and contemporary relevance of these monotheistic traditions through the methodological and theoretical frameworks of the academic discipline of religious studies to gain an understanding of their connections to culture, society, and politics. We will root our study in consideration of ancient and medieval sources of each religion, while simultaneously reflecting upon the significance of their development for modern societies. We will emphasize the immense variety of expression found among Jews, Christians, and Muslims. Indeed, our study will uncover the existence of Judaisms, Christianities, and Islams, rather than a trio of theological monoliths. Such variation will be placed in tension with the strong similarities\u2014family resemblances\u2014shared among these religions.\n\n      less description for MEDI-UA   25 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 40",
+            "course_name": "Midrashic Literature",
+            "description": "MEDI-UA   40 Midrashic Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 51",
+            "course_name": "Rabbinic & Medieval Hebrew Literature",
+            "description": "MEDI-UA   51 Rabbinic & Medieval Hebrew Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 60",
+            "course_name": "Philosophy in The Middle Ages",
+            "description": "MEDI-UA   60 Philosophy in The Middle Ages \nStudy of major medieval philosophers, their issues, schools, and current philosophic interests. Includes, among others, Augustine, Anselm, Thomas Aquinas, Duns Scotus, and William of Ockham.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 76",
+            "course_name": "Etymology",
+            "description": "MEDI-UA   76 Etymology",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 86",
+            "course_name": "Gender in Early Christianity",
+            "description": "MEDI-UA   86 Gender in Early Christianity",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 91",
+            "course_name": "Topics",
+            "description": "MEDI-UA   91 Topics",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 98",
+            "course_name": "Art in The Islamic World",
+            "description": "MEDI-UA   98 Art in The Islamic World",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 101",
+            "course_name": "Medieval & Renaissance Music",
+            "description": "MEDI-UA  101 Medieval & Renaissance Music \nTopics include the music of the medieval church; the codification and extension of the plainsong repertory and the emergence and development of polyphony; music of the medieval court (troubadours, trouv?res, and minnesingers); the ascendancy of secular polyphony in the 14th century and the subsequent Renaissance balance between sacred and secular; mass and motet, and chanson and madrigal; the beginnings of an autonomous repertory for instruments in the 16th century.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 103",
+            "course_name": "Romanticism and The 20th Century",
+            "description": "MEDI-UA  103 Romanticism and The 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 104",
+            "course_name": "Ev Lit Arch: The Iliad & Its Legacies in Drama",
+            "description": "MEDI-UA  104 Ev Lit Arch: The Iliad & Its Legacies in Drama",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 105",
+            "course_name": "History of Christian Thought",
+            "description": "MEDI-UA  105 History of Christian Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 106",
+            "course_name": "The Epic Poem from Homer to Milton",
+            "description": "MEDI-UA  106 The Epic Poem from Homer to Milton",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 107",
+            "course_name": "Medieval Song",
+            "description": "MEDI-UA  107 Medieval Song",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 111",
+            "course_name": "The Early Middle Ages",
+            "description": "MEDI-UA  111 The Early Middle Ages \nEurope in the early Middle Ages was created out of a mixture of ingredients?the legacy of the Roman Empire; the growth and development of Christianity; invading peoples who settled within the boundaries of the former Roman Empire; the clash of competing languages, religions, and legal systems. This tumultuous time forged a new entity, medieval Europe, whose development, growing pains, and creative successes this course examines. Uses the records and artifacts of the period itself as central elements for investigating the period.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 112",
+            "course_name": "Byzantine Civilization",
+            "description": "MEDI-UA  112 Byzantine Civilization",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 113",
+            "course_name": "Topics in The Crusades",
+            "description": "MEDI-UA  113 Topics in The Crusades \nThe history of the Crusades (1095-1291), an important first chapter in European imperialism and a manifestation of deep religious conviction. Examines the background in Europe leading to the Crusades; the social, political, and economic situation in the eastern Mediterranean before the Crusades; the fortunes of the Crusader (Latin) Kingdom of Jerusalem; and the reactions of Europeans and Easterners to one another. Examines and reevaluates the legacy of the Crusades on both the Eastern and Western worlds.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 114",
+            "course_name": "The High Middle Ages",
+            "description": "MEDI-UA  114 The High Middle Ages \nCovers the period from the late 11th century to the close of the 14th century. Major topics and themes: the explosion of energy in the 12th century and the expansion of Europe on all levels, geographic (including the Crusades) as well as intellectual; development of agriculture and cities; the diversity that gave rise to our university system; movements of reform and dissent; and the waning of the Middle Ages.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 115",
+            "course_name": "Readings in Medieval and Renaissance Literature",
+            "description": "MEDI-UA  115 Readings in Medieval and Renaissance Literature \nIntroductory-level literature course that, through a close reading of authors such as Dante, Boccaccio, Petrarch, Machiavelli, and Ariosto, focuses on how to understand a literary text in Italian. Covers Italian literature from its origins to the 17th century.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 116",
+            "course_name": "Environmental History of The Early Modern World",
+            "description": "MEDI-UA  116 Environmental History of The Early Modern World",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 117",
+            "course_name": "Medieval Church: St. Francis to St. John",
+            "description": "MEDI-UA  117 Medieval Church: St. Francis to St. John",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 120",
+            "course_name": "Early Medieval Italy",
+            "description": "MEDI-UA  120 Early Medieval Italy",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 121",
+            "course_name": "The Renaissance",
+            "description": "MEDI-UA  121 The Renaissance \nThe history of the Renaissance from its origins in the 14th century to its waning at the end of the 16th century. Focuses on developments in Italy, especially the development of republican city-states, the social basis for the explosion in artistic and intellectual production, and the emergence of new forms of political and scientific analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 122",
+            "course_name": "Protestant/Catholic Reformations",
+            "description": "MEDI-UA  122 Protestant/Catholic Reformations",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 123",
+            "course_name": "Italy in The Renaissance",
+            "description": "MEDI-UA  123 Italy in The Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 124",
+            "course_name": "Social & Political Ideas of Renaissance Humanism",
+            "description": "MEDI-UA  124 Social & Political Ideas of Renaissance Humanism",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 125",
+            "course_name": "Fr Riots\\Revolution Erly Mod Europe: 1500-1700",
+            "description": "MEDI-UA  125 Fr Riots\\Revolution Erly Mod Europe: 1500-1700",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 127",
+            "course_name": "History of Drama and Theater II",
+            "description": "MEDI-UA  127 History of Drama and Theater II",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 128",
+            "course_name": "Liv & Work: Early Mod EU",
+            "description": "MEDI-UA  128 Liv & Work: Early Mod EU",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 130",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  130 Topics: \nVarying in content from term to term, these courses are designed to\nintroduce students to the Middle Ages and/or Renaissance through the lens\nof a broadly defined topic: for instance, a defining cultural preoccupation\nor ambition, such as \"world-making\"; an influential cultural production or\nphenomenon, such as the literature of exploration and travel; or the\norigins and development of a material and social structure, such as the\ncity.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 132",
+            "course_name": "Italy in The Age of Dante",
+            "description": "MEDI-UA  132 Italy in The Age of Dante",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 133",
+            "course_name": "Christians & Spices",
+            "description": "MEDI-UA  133 Christians & Spices",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 135",
+            "course_name": "Fiction Before The Novel",
+            "description": "MEDI-UA  135 Fiction Before The Novel",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 136",
+            "course_name": "Pre-Modern Science",
+            "description": "MEDI-UA  136 Pre-Modern Science",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 138",
+            "course_name": "Golden Age of Spain",
+            "description": "MEDI-UA  138 Golden Age of Spain",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 141",
+            "course_name": "Spanish Medieval Epic & Mester De Clercia",
+            "description": "MEDI-UA  141 Spanish Medieval Epic & Mester De Clercia",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 145",
+            "course_name": "Love &War Renaiss Italy: Chivalric Romance & Epic",
+            "description": "MEDI-UA  145 Love &War Renaiss Italy: Chivalric Romance & Epic",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 147",
+            "course_name": "Machiavelli",
+            "description": "MEDI-UA  147 Machiavelli",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 148",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20455",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CASA 201"
+                }
+            ],
+            "course_name": "Giordano Bruno and the Art of Memory",
+            "description": "MEDI-UA  148 Giordano Bruno and the Art of Memory",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 150",
+            "course_name": "World Medieval Crafts",
+            "description": "MEDI-UA  150 World Medieval Crafts",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 151",
+            "course_name": "Women'S Writing in Italy 1500 -1650",
+            "description": "MEDI-UA  151 Women'S Writing in Italy 1500 -1650",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 152",
+            "course_name": "Masterpieces of Ren Lit: Drama of Early Modn Per",
+            "description": "MEDI-UA  152 Masterpieces of Ren Lit: Drama of Early Modn Per",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 155",
+            "course_name": "Colloq: Shakespeare",
+            "description": "MEDI-UA  155 Colloq: Shakespeare",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 159",
+            "course_name": "Renaissance Atlantic",
+            "description": "MEDI-UA  159 Renaissance Atlantic",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 160",
+            "course_name": "Foundations of Christian -Jewish  Argument",
+            "description": "MEDI-UA  160 Foundations of Christian -Jewish  Argument",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 161",
+            "course_name": "Civilization of The Ital Renaissance",
+            "description": "MEDI-UA  161 Civilization of The Ital Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 163",
+            "course_name": "Italian Cult of The Mid Ages & The Renais",
+            "description": "MEDI-UA  163 Italian Cult of The Mid Ages & The Renais",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 164",
+            "course_name": "Foundations of Common Law",
+            "description": "MEDI-UA  164 Foundations of Common Law",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 170",
+            "course_name": "Medieval Jewish History",
+            "description": "MEDI-UA  170 Medieval Jewish History",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 171",
+            "course_name": "Renaissance in Florence",
+            "description": "MEDI-UA  171 Renaissance in Florence",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 172",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  172 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 173",
+            "course_name": "Topics in Italian Cult: Jewish Experience",
+            "description": "MEDI-UA  173 Topics in Italian Cult: Jewish Experience",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 182",
+            "course_name": "The Consolation of Philosophy:  Boethius and Boethian Literature in the Middle Ages",
+            "description": "MEDI-UA  182 The Consolation of Philosophy:  Boethius and Boethian Literature in the Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 184",
+            "course_name": "Medieval Indian Ocean World",
+            "description": "MEDI-UA  184 Medieval Indian Ocean World",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 190",
+            "course_name": "Gendering The Middle Ages",
+            "description": "MEDI-UA  190 Gendering The Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 197",
+            "course_name": "Women in Western World:",
+            "description": "MEDI-UA  197 Women in Western World:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 200",
+            "course_name": "Medieval Art",
+            "description": "MEDI-UA  200 Medieval Art",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 201",
+            "course_name": "Art of Early Mid Ages",
+            "description": "MEDI-UA  201 Art of Early Mid Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 202",
+            "course_name": "Romanesque Art",
+            "description": "MEDI-UA  202 Romanesque Art",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 203",
+            "course_name": "Gothic Art Northern Eur",
+            "description": "MEDI-UA  203 Gothic Art Northern Eur",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 204",
+            "course_name": "Art and Architecture in The Age of Giotto",
+            "description": "MEDI-UA  204 Art and Architecture in The Age of Giotto",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 205",
+            "course_name": "",
+            "description": "MEDI-UA  205\n\n   Medieval Architecture\n\nSurveys the architecture of the Middle Ages in Western Europe with emphasis on the period from ca. 1000\u20131500 C.E., from the emergence of the Romanesque to the late Gothic period. Examines monumental religious and secular projects, such as the soaring cathedral of Amiens and the civic palaces of communal Italy, from stylistic, technical, functional, iconographic, and ideological perspectives. Topics include regionalism, patronage, the status of the \"architect,\" and the concept of the multimedia ensemble. Also situates buildings within their social, religious, and political contexts and examines...\n\n      more description for MEDI-UA  205 \u00bb\n\n      \n\n\n\nSurveys the architecture of the Middle Ages in Western Europe with emphasis on the period from ca. 1000\u20131500 C.E., from the emergence of the Romanesque to the late Gothic period. Examines monumental religious and secular projects, such as the soaring cathedral of Amiens and the civic palaces of communal Italy, from stylistic, technical, functional, iconographic, and ideological perspectives. Topics include regionalism, patronage, the status of the \"architect,\" and the concept of the multimedia ensemble. Also situates buildings within their social, religious, and political contexts and examines the advantages and shortcomings of different approaches to the study of medieval architecture.\n\n      less description for MEDI-UA  205 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 210",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7241",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 206"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7242",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC LC3"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7243",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7244",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7245",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL146"
+                }
+            ],
+            "course_name": "British Literature I",
+            "description": "MEDI-UA  210 British Literature I \nSurvey of English literature from its origins in the Anglo-Saxon epic through Milton. Close reading of representative works, with attention to the historical, intellectual, and social contexts of the period.",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 211",
+            "course_name": "Medieval Literature",
+            "description": "MEDI-UA  211 Medieval Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 215",
+            "course_name": "Readings in Spanish Literature",
+            "description": "MEDI-UA  215 Readings in Spanish Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 240",
+            "course_name": "Varieties of Mystical Experience",
+            "description": "MEDI-UA  240 Varieties of Mystical Experience",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 250",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  250 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 260",
+            "course_name": "Sem:Medieval People",
+            "description": "MEDI-UA  260 Sem:Medieval People",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 265",
+            "course_name": "Seminar: The Crusades",
+            "description": "MEDI-UA  265 Seminar: The Crusades",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 266",
+            "course_name": "Christianizing The Roman Empire &Early Mod Europe",
+            "description": "MEDI-UA  266 Christianizing The Roman Empire &Early Mod Europe",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 270",
+            "course_name": "Sem:",
+            "description": "MEDI-UA  270 Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 271",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9092",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CASA AUD"
+                }
+            ],
+            "course_name": "Dante'S Divine Comedy",
+            "description": "MEDI-UA  271 Dante'S Divine Comedy",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 272",
+            "course_name": "Tudor & Stuart England",
+            "description": "MEDI-UA  272 Tudor & Stuart England",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 273",
+            "course_name": "Travelers and Travel Lit in The Spanish Renaiss",
+            "description": "MEDI-UA  273 Travelers and Travel Lit in The Spanish Renaiss",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 274",
+            "course_name": "Topics in Medieval History:",
+            "description": "MEDI-UA  274 Topics in Medieval History:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 276",
+            "course_name": "Sem: Topics in Med Hist Apocalyptic Lit",
+            "description": "MEDI-UA  276 Sem: Topics in Med Hist Apocalyptic Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 279",
+            "course_name": "Sem: Early Mod Europe:",
+            "description": "MEDI-UA  279 Sem: Early Mod Europe:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 280",
+            "course_name": "Family & Sexuality in Medieval Europe",
+            "description": "MEDI-UA  280 Family & Sexuality in Medieval Europe",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 281",
+            "course_name": "Sem: Topics in The Renaissance",
+            "description": "MEDI-UA  281 Sem: Topics in The Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 283",
+            "course_name": "Sem Classical Tradition in The Middle Ages",
+            "description": "MEDI-UA  283 Sem Classical Tradition in The Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 284",
+            "course_name": "Twelfth Century Renaissance",
+            "description": "MEDI-UA  284 Twelfth Century Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 285",
+            "course_name": "Topics in Italian Lit:",
+            "description": "MEDI-UA  285 Topics in Italian Lit: \nCourses on subjects of special interest taught by either a regular or a visiting faculty member. For specific courses, please consult the current class schedule.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 286",
+            "course_name": "Topics in Renaissance:",
+            "description": "MEDI-UA  286 Topics in Renaissance:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 290",
+            "course_name": "Seminar:",
+            "description": "MEDI-UA  290 Seminar:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 300",
+            "course_name": "Primary Herioc Poetry",
+            "description": "MEDI-UA  300 Primary Herioc Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 301",
+            "course_name": "European Architecture of The Renaissance",
+            "description": "MEDI-UA  301 European Architecture of The Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 302",
+            "course_name": "European Architecture of The Baroque",
+            "description": "MEDI-UA  302 European Architecture of The Baroque",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 303",
+            "course_name": "",
+            "description": "MEDI-UA  303\n\n   Northern Renaissance Art, 1400-1530\n\nAddresses painting north of the Alps, ca. 1380\u20131530, partly late medieval, partly Renaissance. Examines the connection of breathtaking technique and deeply religious aspects of the art to function, symbolic thought, patronage, and changes in the society to which painting was related. Also explains ways in which we write history when most of the vital written documents are missing or destroyed. Artists discussed include Jan van Eyck, the Master of Flemalle, Rogier van der Weyden, Jean Fouquet, Hugo van der Goes, Enguerrand Quarton, Jerome Bosch, Albrecht D\u00fcrer, Matthias Gr\u00fcnewald, and Hans Holb...\n\n      more description for MEDI-UA  303 \u00bb\n\n      \n\n\n\nAddresses painting north of the Alps, ca. 1380\u20131530, partly late medieval, partly Renaissance. Examines the connection of breathtaking technique and deeply religious aspects of the art to function, symbolic thought, patronage, and changes in the society to which painting was related. Also explains ways in which we write history when most of the vital written documents are missing or destroyed. Artists discussed include Jan van Eyck, the Master of Flemalle, Rogier van der Weyden, Jean Fouquet, Hugo van der Goes, Enguerrand Quarton, Jerome Bosch, Albrecht D\u00fcrer, Matthias Gr\u00fcnewald, and Hans Holbein.\n\n      less description for MEDI-UA  303 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 304",
+            "course_name": "16th Century Art North of The Alps",
+            "description": "MEDI-UA  304 16th Century Art North of The Alps",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 305",
+            "course_name": "Italian Renaissance Sculpture",
+            "description": "MEDI-UA  305 Italian Renaissance Sculpture",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 306",
+            "course_name": "Early Masters of Italian Renaissance Painting",
+            "description": "MEDI-UA  306 Early Masters of Italian Renaissance Painting",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 307",
+            "course_name": "Age of Leonardo, Raphael & Michelangelo",
+            "description": "MEDI-UA  307 Age of Leonardo, Raphael & Michelangelo",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 308",
+            "course_name": "Golden Age of Venetian Painting",
+            "description": "MEDI-UA  308 Golden Age of Venetian Painting",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 309",
+            "course_name": "Italian Art in The Age of The Baroque",
+            "description": "MEDI-UA  309 Italian Art in The Age of The Baroque",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 310",
+            "course_name": "Medieval Literature in Translation",
+            "description": "MEDI-UA  310 Medieval Literature in Translation",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 311",
+            "course_name": "Dutch & Flemish Painting 1600-1700",
+            "description": "MEDI-UA  311 Dutch & Flemish Painting 1600-1700 \nIn Antwerp, Rubens overturned all previous concepts of painting. The first to deserve the term \"Baroque,\" he dominated Flanders. Van Dyck, his pupil, took Rubens's style to England. Dutch painters, including Hals, Rembrandt, and Vermeer, moved in a different direction, addressing every aspect of their country and society: the peasant, the quiet life of the well-ordered household, the sea and landscape, views of the cities, and church interiors.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 312",
+            "course_name": "Medieval Visionary Lit",
+            "description": "MEDI-UA  312 Medieval Visionary Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 313",
+            "course_name": "French Art Renaissance to Rococo",
+            "description": "MEDI-UA  313 French Art Renaissance to Rococo",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 314",
+            "course_name": "Literature of The French Renaissance",
+            "description": "MEDI-UA  314 Literature of The French Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 316",
+            "course_name": "Lit of The Vikings",
+            "description": "MEDI-UA  316 Lit of The Vikings",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 320",
+            "course_name": "Colloquium: Chaucer",
+            "description": "MEDI-UA  320 Colloquium: Chaucer \nIntroduction to Geoffrey Chaucer's major poetry, with particular attention to The Canterbury Tales. Chaucer's language and versification are studied briefly but intensively so that students are able to read his 14th-century London dialect with comprehension and pleasure. Special critical attention is given to his narrative skills, methods of characterization, wide range of styles and forms, and other rhetorical strategies. Students are also encouraged to explore Chaucer's artistry as a reflection of late medieval social and cultural history.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 321",
+            "course_name": "Religion & Religious Life in Byzantium",
+            "description": "MEDI-UA  321 Religion & Religious Life in Byzantium",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 333",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8922",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 300",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Rice, Louise"
+                }
+            ],
+            "course_name": "",
+            "description": "MEDI-UA  333\n\n   Renaissance Art\n\nAn introduction to Renaissance and baroque art and architecture, 1400\u20131750. The course situates major developments in the arts against the context of historical, cultural, religious, technological, and social change. Topics include the emergence of humanism and its engagement with the ancient past; the development of transformative new techniques and technologies for making art; the function of art in religious, public, and domestic settings; the role of the patron; the impact of the Protestant and Catholic Reformations on art and society; the ever-expanding range of iconography; and the proli...\n\n      more description for MEDI-UA  333 \u00bb\n\n      \n\n\n\nAn introduction to Renaissance and baroque art and architecture, 1400\u20131750. The course situates major developments in the arts against the context of historical, cultural, religious, technological, and social change. Topics include the emergence of humanism and its engagement with the ancient past; the development of transformative new techniques and technologies for making art; the function of art in religious, public, and domestic settings; the role of the patron; the impact of the Protestant and Catholic Reformations on art and society; the ever-expanding range of iconography; and the proliferation of new genres. Emphasis is placed on the great masters in each phase, and close study of works in the Metropolitan Museum of Art and the Frick Collection is an integral part of the course.\n\n      less description for MEDI-UA  333 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 335",
+            "course_name": "Cervantes &  Don Quijote",
+            "description": "MEDI-UA  335 Cervantes &  Don Quijote",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 340",
+            "course_name": "Law & Culture in The Renaissance",
+            "description": "MEDI-UA  340 Law & Culture in The Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 350",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8924",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8924",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Special Topics:Poetry and Passion",
+            "description": "MEDI-UA  350 Special Topics:Poetry and Passion",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 360",
+            "course_name": "Medieval Mysticism",
+            "description": "MEDI-UA  360 Medieval Mysticism",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 365",
+            "course_name": "The Saints: Lore and Legend",
+            "description": "MEDI-UA  365 The Saints: Lore and Legend \nFocuses on the saint as a major figure in Western culture. Examines definitions of holiness and models of sanctity in the Old and New Testaments and in the early Christian church and then explores the important role played by saints in medieval culture and beyond. Topics considered: the theology of devotion to the saints and to the Virgin Mary in Catholicism and Eastern Orthodoxy, determination of sainthood, and gender differences among saints. Uses literary, historical, artistic, and religious documents.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 371",
+            "course_name": "Cervantes & Don Quijote",
+            "description": "MEDI-UA  371 Cervantes & Don Quijote \nA reading of Cervantes?s Don Quixote that explores its privileged position as first modern novel while also attending to the rich and complex historical context from which it emerged.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 400",
+            "course_name": "Renaissance in England",
+            "description": "MEDI-UA  400 Renaissance in England",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 405",
+            "course_name": "Medieval Ireland",
+            "description": "MEDI-UA  405 Medieval Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 410",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17850",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL 275"
+                }
+            ],
+            "course_name": "Shakespeare I",
+            "description": "MEDI-UA  410 Shakespeare I",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 411",
+            "course_name": "Shakespeare Survey II",
+            "description": "MEDI-UA  411 Shakespeare Survey II \nIntroduction to the reading of Shakespeare. Examines approximately 10 plays each term. The first term covers the early comedies, tragedies, and histories up to Hamlet. The second term covers the later tragedies, the problem plays, and the romances, concluding with The Tempest.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 412",
+            "course_name": "Shakespeare and Elizabethan Theatre",
+            "description": "MEDI-UA  412 Shakespeare and Elizabethan Theatre",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 415",
+            "course_name": "Colloquium: Shakespeare",
+            "description": "MEDI-UA  415 Colloquium: Shakespeare",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 420",
+            "course_name": "English Drama to 1642",
+            "description": "MEDI-UA  420 English Drama to 1642 \nThe courtly love lyric, one of the most enduring genres of Western literature, portrayed love as an experience ranging from a degrading passion to an ennobling force, often crucial to poetic inspiration. The course traces the medieval love lyric from its beginnings in 11th-century Proven?al through its developments in Latin, German, Italian, French, Spanish, Portuguese, and English. Examines how the themes and conventions of this lyric are transformed in the Renaissance by such major love poets as Petrarch, Sidney, Shakespeare, and Donne.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 421",
+            "course_name": "Theater & Poetry of Spanish Golden Age",
+            "description": "MEDI-UA  421 Theater & Poetry of Spanish Golden Age \nSelected texts from 16th- and 17th-century Spain (traditionally considered a ?Golden Age? of art and literature), read in the context of Counter-Reformation culture and Spain?s changing place in early-modern Europe. Authors include Garcilaso, Lope de Vega, Tirso de Molina, Calder?n de la Barca, Quevedo, and G?ngora. The course may be taught with a focus on theatre or poetry or both.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 425",
+            "course_name": "Jewish Philosophy in The Medieval World",
+            "description": "MEDI-UA  425 Jewish Philosophy in The Medieval World \nReadings (in translation) and analysis of representative selections from the writings of the major Jewish philosophers of the Middle Ages. Emphasizes the Kuzari of Yehuda Halevi and the Guide to the Perplexed of Moses Maimonides. Special attention is paid to the cultural context in which these works were produced.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 430",
+            "course_name": "Jewish Mysticism & Hasidism",
+            "description": "MEDI-UA  430 Jewish Mysticism & Hasidism",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 438",
+            "course_name": "Forms of Picaresque in Spain & Spanish America",
+            "description": "MEDI-UA  438 Forms of Picaresque in Spain & Spanish America",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 440",
+            "course_name": "17th Century Literature",
+            "description": "MEDI-UA  440 17th Century Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 441",
+            "course_name": "Collq:Milton/Marvell",
+            "description": "MEDI-UA  441 Collq:Milton/Marvell",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 443",
+            "course_name": "Seminar Topics:",
+            "description": "MEDI-UA  443 Seminar Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 445",
+            "course_name": "Colloquium:",
+            "description": "MEDI-UA  445 Colloquium:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 450",
+            "course_name": "Colloquium: Milton",
+            "description": "MEDI-UA  450 Colloquium: Milton \nEmphasis on the major poems\u2014Paradise Lost, Paradise Regained, and Samson Agonistes\u2014with some attention to the early poems and the prose. Traces the poet's sense of vocation, analyzes the gradual development of the Miltonic style, and assesses Milton's position in the history of English literature, politics, and theology.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 488",
+            "course_name": "Medieval Misogyny",
+            "description": "MEDI-UA  488 Medieval Misogyny",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 510",
+            "course_name": "Medieval Christian Theology",
+            "description": "MEDI-UA  510 Medieval Christian Theology",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 518",
+            "course_name": "Tpcs in Mideast History:",
+            "description": "MEDI-UA  518 Tpcs in Mideast History:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 533",
+            "course_name": "Tpcs Eurasian History:",
+            "description": "MEDI-UA  533 Tpcs Eurasian History:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 550",
+            "course_name": "Topics: Scholasticism & Hermeneutics",
+            "description": "MEDI-UA  550 Topics: Scholasticism & Hermeneutics",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 599",
+            "course_name": "Pro-Seminar: Art of The Byzantine World",
+            "description": "MEDI-UA  599 Pro-Seminar: Art of The Byzantine World",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 600",
+            "course_name": "Philosophy in The Middle Ages",
+            "description": "MEDI-UA  600 Philosophy in The Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 610",
+            "course_name": "Bonaventure & Aquinas",
+            "description": "MEDI-UA  610 Bonaventure & Aquinas",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 621",
+            "course_name": "The Irish Renaissance",
+            "description": "MEDI-UA  621 The Irish Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 627",
+            "course_name": "Christianity",
+            "description": "MEDI-UA  627 Christianity",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 640",
+            "course_name": "The Making of The Muslim Middle East, 600-1400",
+            "description": "MEDI-UA  640 The Making of The Muslim Middle East, 600-1400",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 649",
+            "course_name": "Cultural Pluralism in The Ottoman Empire",
+            "description": "MEDI-UA  649 Cultural Pluralism in The Ottoman Empire",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 650",
+            "course_name": "Art & Society in 20th Century Ireland",
+            "description": "MEDI-UA  650 Art & Society in 20th Century Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 651",
+            "course_name": "The Ottoman Empire in World History",
+            "description": "MEDI-UA  651 The Ottoman Empire in World History",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 655",
+            "course_name": "The Jews in European Art",
+            "description": "MEDI-UA  655 The Jews in European Art",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 681",
+            "course_name": "History of Judaism II",
+            "description": "MEDI-UA  681 History of Judaism II",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 683",
+            "course_name": "Judaism: from Medieval to Modern Times",
+            "description": "MEDI-UA  683 Judaism: from Medieval to Modern Times",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 688",
+            "course_name": "Tpcs: Interreligious Encounters",
+            "description": "MEDI-UA  688 Tpcs: Interreligious Encounters",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 692",
+            "course_name": "Sociology of Islam",
+            "description": "MEDI-UA  692 Sociology of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 700",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  700 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 706",
+            "course_name": "Muslim Spain: Literature & Society",
+            "description": "MEDI-UA  706 Muslim Spain: Literature & Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 710",
+            "course_name": "Masterpieces of Middle Eastern Literature",
+            "description": "MEDI-UA  710 Masterpieces of Middle Eastern Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 714",
+            "course_name": "The Arabian Nights",
+            "description": "MEDI-UA  714 The Arabian Nights \nThe Arabian Nights have been an essential and dynamic literary meeting point between Arabic/Islamic literature and the Western canon. This course examines both sides of this cultural dichotomy. Literary analysis of the tales includes close reading of the structure of the original as well as modern variations by authors such as Poe and Rushdie.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 718",
+            "course_name": "Major Playwrights:",
+            "description": "MEDI-UA  718 Major Playwrights:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 720",
+            "course_name": "Intro to Islamic Texts",
+            "description": "MEDI-UA  720 Intro to Islamic Texts",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 750",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  750 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 760",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  760 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 761",
+            "course_name": "Myths and Culture of The Ancient Celts",
+            "description": "MEDI-UA  761 Myths and Culture of The Ancient Celts",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 775",
+            "course_name": "Theology of Reformation",
+            "description": "MEDI-UA  775 Theology of Reformation",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 781",
+            "course_name": "The Qu'Ran and Its Interpretation",
+            "description": "MEDI-UA  781 The Qu'Ran and Its Interpretation",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 782",
+            "course_name": "Tpcs in Islamic Studies: Medieval Education",
+            "description": "MEDI-UA  782 Tpcs in Islamic Studies: Medieval Education",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 786",
+            "course_name": "Reason & Faith in Islam",
+            "description": "MEDI-UA  786 Reason & Faith in Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 787",
+            "course_name": "Gender & Sexuality in Medieval Islamic Soc",
+            "description": "MEDI-UA  787 Gender & Sexuality in Medieval Islamic Soc",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 800",
+            "course_name": "Arthurian Legend",
+            "description": "MEDI-UA  800 Arthurian Legend \nBeginning with early stories of King Arthur and the knights of the Round Table, the course focuses on masterpieces of French, English, and German medieval literature. Through the European literary tradition, students examine larger problems of the development of medieval literature: the conception of history, the rise of the romance genre, the themes of courtly love, the code of chivalry, and philosophical and theological questions as the Arthurian material is developed through the stories of the Holy Grail.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 801",
+            "course_name": "Dante and His World",
+            "description": "MEDI-UA  801 Dante and His World \nInterdisciplinary introduction to late medieval culture, using Dante, its foremost literary artist, as a focus. Attention not only to the literature, art, and music, but also to the political, religious, and social developments of the time as well as to new philosophical and scientific currents. Emphasizes the continuity of the Western tradition, especially the classical backgrounds of medieval culture and its transmission to the modern world. Cinematic re-creations, documentaries, other visual aids, and museum trips.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 802",
+            "course_name": "Inventing The Middle Ages",
+            "description": "MEDI-UA  802 Inventing The Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 811",
+            "course_name": "Renaissance Man Revisited",
+            "description": "MEDI-UA  811 Renaissance Man Revisited",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 824",
+            "course_name": "Medieval Latin",
+            "description": "MEDI-UA  824 Medieval Latin",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 845",
+            "course_name": "Early Christian Gnosticism",
+            "description": "MEDI-UA  845 Early Christian Gnosticism",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 846",
+            "course_name": "Birth of Church",
+            "description": "MEDI-UA  846 Birth of Church",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 863",
+            "course_name": "Sufis: Mystics in Islam",
+            "description": "MEDI-UA  863 Sufis: Mystics in Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 865",
+            "course_name": "Topics Age of Chivalry",
+            "description": "MEDI-UA  865 Topics Age of Chivalry",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 868",
+            "course_name": "",
+            "description": "MEDI-UA  868\n\n   Acting Medieval Literature\n\nThis course presents medieval literature as a set of springboards to performance rather than as a series of ?books? to be read. In this strongly performance-oriented course, students approach this ?literature? as works that were acted out, sung, and narrated from memory as part of a storytelling tradition. Students are invited to draw on their dramatic and musical skills and interests, and stage medieval works. For their final project, students participate in staging and putting on a play; perform a substantial piece of narrative poetry; or sing or play a body of medieval songs; etc. Works stu...\n\n      more description for MEDI-UA  868 \u00bb\n\n      \n\n\n\nThis course presents medieval literature as a set of springboards to performance rather than as a series of ?books? to be read. In this strongly performance-oriented course, students approach this ?literature? as works that were acted out, sung, and narrated from memory as part of a storytelling tradition. Students are invited to draw on their dramatic and musical skills and interests, and stage medieval works. For their final project, students participate in staging and putting on a play; perform a substantial piece of narrative poetry; or sing or play a body of medieval songs; etc. Works studied/performed include songs of the troubadours and trouv?res; The Song of Roland; Chr?tien de Troyes?s romance, Yvain; French fabliaux; Sir Gawain and the Green Knight.\n\n      less description for MEDI-UA  868 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 869",
+            "course_name": "Topics in French Literature",
+            "description": "MEDI-UA  869 Topics in French Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 871",
+            "course_name": "Dante",
+            "description": "MEDI-UA  871 Dante",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 900",
+            "course_name": "Wksp: Formation of Eur Cult,Roman Empire-11Thc",
+            "description": "MEDI-UA  900 Wksp: Formation of Eur Cult,Roman Empire-11Thc",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 913",
+            "course_name": "",
+            "description": "MEDI-UA  913\n\n   The Jews in Medieval Spain\n\nThe 700 years from the Muslim conquest of Spain in the eighth century to the expulsion of the Jews in 1492 saw the greatest levels of mutual toleration and coexistence among Jews, Christians, and Muslims achieved at any time during the Middle Ages. This course uses contemporary sources, from philosophical treatises to religious polemics to erotic love poetry, to introduce the history of this important Jewish community and its relationship to the Muslim and Christian societies that surrounded it. It considers economic, cultural, and religious interactions, mutual influence, and violent conflict...\n\n      more description for MEDI-UA  913 \u00bb\n\n      \n\n\n\nThe 700 years from the Muslim conquest of Spain in the eighth century to the expulsion of the Jews in 1492 saw the greatest levels of mutual toleration and coexistence among Jews, Christians, and Muslims achieved at any time during the Middle Ages. This course uses contemporary sources, from philosophical treatises to religious polemics to erotic love poetry, to introduce the history of this important Jewish community and its relationship to the Muslim and Christian societies that surrounded it. It considers economic, cultural, and religious interactions, mutual influence, and violent conflict.\n\n      less description for MEDI-UA  913 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 950",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19816",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "BOBS 736"
+                }
+            ],
+            "course_name": "Topics:",
+            "description": "MEDI-UA  950 Topics:",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 951",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  951 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 960",
+            "course_name": "",
+            "description": "MEDI-UA  960\n\n   Introductory Old English\n\nAn introduction to the Old English language and literature as well as the culture of England before the Norman Conquest of 1066. Students learn the grammar and vocabulary of this earliest surviving form of English, while being introduced to topics such as the heroic code; conversion and cultural syncretism; the rise of English national identity; monasticism and spirituality; the law and customs of the Anglo-Saxons; the Viking invasions and the Norman Conquest; and hybridity and multilingualism. Concludes with reading excerpts from Beowulf in the original and orally performing scenes from the p...\n\n      more description for MEDI-UA  960 \u00bb\n\n      \n\n\n\nAn introduction to the Old English language and literature as well as the culture of England before the Norman Conquest of 1066. Students learn the grammar and vocabulary of this earliest surviving form of English, while being introduced to topics such as the heroic code; conversion and cultural syncretism; the rise of English national identity; monasticism and spirituality; the law and customs of the Anglo-Saxons; the Viking invasions and the Norman Conquest; and hybridity and multilingualism. Concludes with reading excerpts from Beowulf in the original and orally performing scenes from the poem.\n\n      less description for MEDI-UA  960 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 961",
+            "course_name": "Passion & Desire in The Middle Ages",
+            "description": "MEDI-UA  961 Passion & Desire in The Middle Ages \nStudy of the kinds of loves and desires portrayed in medieval literature: passionate love, refined ?courtly? love, sexual or ?carnal? love; love of kin; love of country; love of God. Discusses how literary genres can be largely defined by the nature of the desires represented, explores medieval theorists? views of human love, and investigates the conflicts among different kinds of love for medieval people.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 968",
+            "course_name": "Chivalry in The Mid Ages",
+            "description": "MEDI-UA  968 Chivalry in The Mid Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 983",
+            "course_name": "",
+            "description": "MEDI-UA  983\n\n   Topics:\n\nThis course, varying in content from term to term, focuses on special themes. Recent offerings include Tolkien and Lewis: The Medievalist?s Answer to Modernism; Religion and Identity in Medieval Europe; The Kiss; Gothic Romance; Music and Cosmology; Poets, Patrons, and Public in Medieval Lyric; Gender Issues in the Art of the Middle Ages; Myths and Legends of the Middle Ages; Doomsday: The Last Judgment in Medieval Culture; Medieval Minstrels; Angels; Sexual Transgression in the Middle Ages and Renaissance; Saints: Lore and Legend; The Troubadours: Lyrics, Love, and War; Early Irish Art; The M...\n\n      more description for MEDI-UA  983 \u00bb\n\n      \n\n\n\nThis course, varying in content from term to term, focuses on special themes. Recent offerings include Tolkien and Lewis: The Medievalist?s Answer to Modernism; Religion and Identity in Medieval Europe; The Kiss; Gothic Romance; Music and Cosmology; Poets, Patrons, and Public in Medieval Lyric; Gender Issues in the Art of the Middle Ages; Myths and Legends of the Middle Ages; Doomsday: The Last Judgment in Medieval Culture; Medieval Minstrels; Angels; Sexual Transgression in the Middle Ages and Renaissance; Saints: Lore and Legend; The Troubadours: Lyrics, Love, and War; Early Irish Art; The Middle Ages at the Movies; The Medieval Book (held at the Pierpont Morgan Library).\n\n      less description for MEDI-UA  983 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 984",
+            "course_name": "",
+            "description": "MEDI-UA  984\n\n   Topics\n\nVaries in content from term to term, focusing on special themes. Recent offerings include Tolkien and Lewis: The Medievalist's Answer to Modernism; Religion and Identity in Medieval Europe; The Kiss; Gothic Romance; Music and Cosmology; Poets, Patrons, and Public in Medieval Lyric; Gender Issues in the Art of the Middle Ages; Myths and Legends of the Middle Ages; Doomsday: The Last Judgment in Medieval Culture; Medieval Minstrels; Angels; Sexual Transgression in the Middle Ages and Renaissance; Saints: Lore and Legend; The Troubadours: Lyrics, Love, and War; Early Irish Art; The Middle Ages at...\n\n      more description for MEDI-UA  984 \u00bb\n\n      \n\n\n\nVaries in content from term to term, focusing on special themes. Recent offerings include Tolkien and Lewis: The Medievalist's Answer to Modernism; Religion and Identity in Medieval Europe; The Kiss; Gothic Romance; Music and Cosmology; Poets, Patrons, and Public in Medieval Lyric; Gender Issues in the Art of the Middle Ages; Myths and Legends of the Middle Ages; Doomsday: The Last Judgment in Medieval Culture; Medieval Minstrels; Angels; Sexual Transgression in the Middle Ages and Renaissance; Saints: Lore and Legend; The Troubadours: Lyrics, Love, and War; Early Irish Art; The Middle Ages at the Movies; and The Medieval Book (held at the Pierpont Morgan Library).\n\n      less description for MEDI-UA  984 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 985",
+            "course_name": "Medieval Architecture at The Cloisters",
+            "description": "MEDI-UA  985 Medieval Architecture at The Cloisters \nThis course, varying in content from term to term, focuses on special themes. Recent offerings include Love, Marriage, and the Family in Medieval Europe; Medieval Peasantry; Medieval Architecture at the Cloisters; The Medieval Manuscript and the Book of Hours; Medieval Theatre; The Wisdom Tradition; Medieval Literature in the Movies; Law and Moral Issues in Medieval Philosophy; Martyrs, Mystics, and Prophets; Happiness in the Christian Middle Ages; The Medieval Book: Materials, Forms, and Uses; Two Medieval Minds.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 986",
+            "course_name": "Shakespeare and The London Theatre",
+            "description": "MEDI-UA  986 Shakespeare and The London Theatre \nThis course, varying in content from term to term, focuses on special themes. Recent offerings include Love, Marriage, and the Family in Medieval Europe; Medieval Peasantry; Medieval Architecture at the Cloisters; The Medieval Manuscript and the Book of Hours; Medieval Theatre; The Wisdom Tradition; Medieval Literature in the Movies; Law and Moral Issues in Medieval Philosophy; Martyrs, Mystics, and Prophets; Happiness in the Christian Middle Ages; The Medieval Book: Materials, Forms, and Uses; and Two Medieval Minds.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 990",
+            "course_name": "Bible in The Middle Ages & Renaissance",
+            "description": "MEDI-UA  990 Bible in The Middle Ages & Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 991",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7246",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 567",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Bedos-Rezak, Brigitte"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "8961",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 508"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19783",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-12",
+                    "time": "Tue 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Duffy, Timothy"
+                }
+            ],
+            "course_name": "",
+            "description": "MEDI-UA  991\n\n   Seminar:Epistolary Archives and ConfessionsMedieval RomanceThe Medieval Life Cycle: Birth to Rebirth\n\nEach semester, the course is devoted to a topic chosen for its interdisciplinary character. Recent offerings have included The Bible in the Middle Ages; Renaissance Libraries; Millenarianism; 1497-1498: The Renaissance at Full Tilt; Visions of Medieval History; The Age of Chivalry; The World of the Celts; Apocalypse, Then: Visions of the End in the Middle Ages and the Renaissance; Journey in Medieval Christian Theology; Interpreting the Medieval World; Idealization and Satire in the Sixteenth Century; The 12th-Century Renaissance; The Classical Tradition in the Middle Ages; Christian Culture i...\n\n      more description for MEDI-UA  991 \u00bb\n\n      \n\n\n\nEach semester, the course is devoted to a topic chosen for its interdisciplinary character. Recent offerings have included The Bible in the Middle Ages; Renaissance Libraries; Millenarianism; 1497-1498: The Renaissance at Full Tilt; Visions of Medieval History; The Age of Chivalry; The World of the Celts; Apocalypse, Then: Visions of the End in the Middle Ages and the Renaissance; Journey in Medieval Christian Theology; Interpreting the Medieval World; Idealization and Satire in the Sixteenth Century; The 12th-Century Renaissance; The Classical Tradition in the Middle Ages; Christian Culture in the Middle Ages; Literature and Culture of the Renaissance; Renaissance Monarchy; Medieval and Renaissance Travel Journals; and The Structure of Knowledge in the Renaissance.\n\n      less description for MEDI-UA  991 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 992",
+            "course_name": "",
+            "description": "MEDI-UA  992\n\n   Interdisiplinary Seminar\n\nEach semester, the course is devoted to a topic chosen for its interdisciplinary character. Recent offerings have included Chaucer\u2019s Italy; The Bible in the Middle Ages; Renaissance Libraries; Millenarianism; 1497-1498: The Renaissance at Full Tilt; Visions of Medieval History; The Age of Chivalry; The World of the Celts; Apocalypse, Then: Visions of the End in the Middle Ages and the Renaissance; Journey in Medieval Christian Theology; Interpreting the Medieval World; Idealization and Satire in the 16th Century; The 12th-Century Renaissance; The Classical Tradition in the Middle Ages; Christi...\n\n      more description for MEDI-UA  992 \u00bb\n\n      \n\n\n\nEach semester, the course is devoted to a topic chosen for its interdisciplinary character. Recent offerings have included Chaucer\u2019s Italy; The Bible in the Middle Ages; Renaissance Libraries; Millenarianism; 1497-1498: The Renaissance at Full Tilt; Visions of Medieval History; The Age of Chivalry; The World of the Celts; Apocalypse, Then: Visions of the End in the Middle Ages and the Renaissance; Journey in Medieval Christian Theology; Interpreting the Medieval World; Idealization and Satire in the 16th Century; The 12th-Century Renaissance; The Classical Tradition in the Middle Ages; Christian Culture in the Middle Ages; Literature and Culture of the Renaissance; Renaissance Monarchy; Medieval and Renaissance Travel Journals; and The Structure of Knowledge in the Renaissance.\n\n      less description for MEDI-UA  992 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 993",
+            "course_name": "Topics",
+            "description": "MEDI-UA  993 Topics \nThis course, varying in content from term to term, focuses on special themes. Recent offerings include The Court Masque and Renaissance Politics; Mary and Popular Religion; Material Culture of the Renaissance; Renaissance Fools and Foolery; Shakespeare and Chivalry; A Renaissance of Curiosity: Travel Books, Maps, and Marvels; The Printed Book in the Renaissance (held at the New York Public Library).",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 994",
+            "course_name": "Topics:",
+            "description": "MEDI-UA  994 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 995",
+            "course_name": "Love in The Renaissance",
+            "description": "MEDI-UA  995 Love in The Renaissance \nThis course, varying in content from term to term, focuses on special themes. Recent offerings include Love in the Renaissance; French Women Writers of the Middle Ages and the Renaissance; Classics in the Middle Ages and Renaissance; Pagan Mythology in the Middle Ages and Renaissance; Renaissance Philosophy; Renaissance 2000 (Telecourse).",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 996",
+            "course_name": "Topics",
+            "description": "MEDI-UA  996 Topics \nThis course, varying in content from term to term, focuses on special themes. Recent offerings include Love in the Renaissance; French Women Writers of the Middle Ages and the Renaissance; Classics in the Middle Ages and Renaissance; Pagan Mythology in the Middle Ages and Renaissance; Renaissance Philosophy; and Renaissance 2000 (Telecourse).",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7247",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MEDI-UA  997 Independent Study \nPrerequisite: written permission of the director of the program. Counts toward majors and minors only. May not duplicate the content of a regularly scheduled course. 1 to 4 points per term.",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 998",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7248",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MEDI-UA  998\n\n   Independent Study\n\nPrerequisite: permission of the director of undergraduate studies. Open only to majors. Provides an opportunity for graduating seniors majoring in medieval and renaissance studies who have excelled academically to engage in a substantial, original research project on a topic related to their major field(s) of study and chosen by them in consultation with a faculty adviser and the director of undergraduate studies. It introduces students to appropriate critical methodologies, to the tools available in Bobst Library for advanced research, to the field standards for preparing research papers (for...\n\n      more description for MEDI-UA  998 \u00bb\n\n      \n\n\n\nPrerequisite: permission of the director of undergraduate studies. Open only to majors. Provides an opportunity for graduating seniors majoring in medieval and renaissance studies who have excelled academically to engage in a substantial, original research project on a topic related to their major field(s) of study and chosen by them in consultation with a faculty adviser and the director of undergraduate studies. It introduces students to appropriate critical methodologies, to the tools available in Bobst Library for advanced research, to the field standards for preparing research papers (forms of documentation, citation, and bibliography), and to current theories in the field of literary and cultural criticism.\n\n      less description for MEDI-UA  998 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 999",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7249",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CASA 201"
+                }
+            ],
+            "course_name": "Senior Honors Seminar",
+            "description": "MEDI-UA  999 Senior Honors Seminar \nOpen only to majors. Students meet regularly with their faculty advisers as they complete the research and writing of the 40-page senior honors thesis.",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-UA 5161",
+            "course_name": "Renaissance 2000",
+            "description": "MEDI-UA 5161 Renaissance 2000",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9017",
+            "course_name": "Mediev Church: Religious Hist of Crisis & Creativ",
+            "description": "MEDI-UA 9017 Mediev Church: Religious Hist of Crisis & Creativ",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9106",
+            "course_name": "The Medieval Renaissance",
+            "description": "MEDI-UA 9106 The Medieval Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9117",
+            "course_name": "Mediev Church:Religious Hist of Crisis & Creativ",
+            "description": "MEDI-UA 9117 Mediev Church:Religious Hist of Crisis & Creativ",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9123",
+            "course_name": "Italy During The Renaissance: Florence",
+            "description": "MEDI-UA 9123 Italy During The Renaissance: Florence",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9138",
+            "course_name": "Golden Age of Spain (in English)",
+            "description": "MEDI-UA 9138 Golden Age of Spain (in English)",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9270",
+            "course_name": "Family & Gender in Late Med & Renaissance Italy",
+            "description": "MEDI-UA 9270 Family & Gender in Late Med & Renaissance Italy",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9306",
+            "course_name": "Early Masters of Italian Renaissance Painting",
+            "description": "MEDI-UA 9306 Early Masters of Italian Renaissance Painting",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9650",
+            "course_name": "Florentine Art & Archit of Early Renaissance",
+            "description": "MEDI-UA 9650 Florentine Art & Archit of Early Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9660",
+            "course_name": "Two Mediterranean Wrlds:",
+            "description": "MEDI-UA 9660 Two Mediterranean Wrlds:",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9694",
+            "course_name": "Islam and The West",
+            "description": "MEDI-UA 9694 Islam and The West",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9800",
+            "course_name": "The Arthurian Legend",
+            "description": "MEDI-UA 9800 The Arthurian Legend",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9824",
+            "course_name": "Renaissance of The Twelfth Century",
+            "description": "MEDI-UA 9824 Renaissance of The Twelfth Century",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9991",
+            "course_name": "Pagan Mythology in The Christian World",
+            "description": "MEDI-UA 9991 Pagan Mythology in The Christian World",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9993",
+            "course_name": "Topics",
+            "description": "MEDI-UA 9993 Topics",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9995",
+            "course_name": "Magic, Religion & Inquisition",
+            "description": "MEDI-UA 9995 Magic, Religion & Inquisition",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-UA 9996",
+            "course_name": "The Art Market in Renaissance Florence:",
+            "description": "MEDI-UA 9996 The Art Market in Renaissance Florence:",
+            "offering": false
+        }
+    ]
+}

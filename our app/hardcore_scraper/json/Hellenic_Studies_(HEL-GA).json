@@ -1,0 +1,60 @@
+{
+    "major_id": "HEL-GA",
+    "file": "./2015-2016/Hellenic_Studies_(HEL-GA).html",
+    "courses": [
+        {
+            "course_id": "HEL-GA 1124",
+            "course_name": "Tpcs: Nationalism",
+            "description": "HEL-GA 1124 Tpcs: Nationalism",
+            "offering": false
+        },
+        {
+            "course_id": "HEL-GA 1997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1505",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "HEL-GA 1997 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "HEL-GA 2021",
+            "course_name": "Constantinople: Profile of The City",
+            "description": "HEL-GA 2021 Constantinople: Profile of The City",
+            "offering": false
+        },
+        {
+            "course_id": "HEL-GA 2300",
+            "course_name": "Novel Spaces of Hellenism",
+            "description": "HEL-GA 2300 Novel Spaces of Hellenism",
+            "offering": false
+        },
+        {
+            "course_id": "HEL-GA 3002",
+            "course_name": "Parthenon Revisited",
+            "description": "HEL-GA 3002 Parthenon Revisited",
+            "offering": false
+        },
+        {
+            "course_id": "HEL-GA 9150",
+            "course_name": "A Land of Ligh t& Shadows: Modern Greek Lit & Phtg",
+            "description": "HEL-GA 9150 A Land of Ligh t& Shadows: Modern Greek Lit & Phtg",
+            "offering": false
+        },
+        {
+            "course_id": "HEL-GA 9997",
+            "course_name": "Independent Study",
+            "description": "HEL-GA 9997 Independent Study",
+            "offering": false
+        }
+    ]
+}

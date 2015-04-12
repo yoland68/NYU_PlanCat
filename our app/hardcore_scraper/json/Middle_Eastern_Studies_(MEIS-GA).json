@@ -1,0 +1,2002 @@
+{
+    "major_id": "MEIS-GA",
+    "file": "./2015-2016/Middle_Eastern_Studies_(MEIS-GA).html",
+    "courses": [
+        {
+            "course_id": "MEIS-GA 1001",
+            "course_name": "Theories & Methods in The Study of Religion",
+            "description": "MEIS-GA 1001 Theories & Methods in The Study of Religion",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1623",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KEVO LL1",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ferhadi, Ahmed"
+                }
+            ],
+            "course_name": "Advanced Arabic I",
+            "description": "MEIS-GA 1005 Advanced Arabic I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1006",
+            "course_name": "Advanced Arabic II",
+            "description": "MEIS-GA 1006 Advanced Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1040",
+            "course_name": "Intro to Ancient Studies",
+            "description": "MEIS-GA 1040 Intro to Ancient Studies",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1065",
+            "course_name": "Performing Cultures in Middle East & N Africa",
+            "description": "MEIS-GA 1065 Performing Cultures in Middle East & N Africa",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1100",
+            "course_name": "Prosem Arbc/Turk/Pers Li",
+            "description": "MEIS-GA 1100 Prosem Arbc/Turk/Pers Li",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1103",
+            "course_name": "Akkadian III",
+            "description": "MEIS-GA 1103 Akkadian III",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1104",
+            "course_name": "Akkadian IV",
+            "description": "MEIS-GA 1104 Akkadian IV",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1107",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1624",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Advanced Urdu I",
+            "description": "MEIS-GA 1107 Advanced Urdu I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1108",
+            "course_name": "Advanced Urdu II",
+            "description": "MEIS-GA 1108 Advanced Urdu II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1111",
+            "course_name": "Trans Fr Class Antiquity",
+            "description": "MEIS-GA 1111 Trans Fr Class Antiquity",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1112",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1625",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KEVO LL1",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Ferhadi, Ahmed"
+                }
+            ],
+            "course_name": "Contemporary Literary and Media Arabic I",
+            "description": "MEIS-GA 1112 Contemporary Literary and Media Arabic I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1113",
+            "course_name": "Contemporary Literary and Media Arabic II",
+            "description": "MEIS-GA 1113 Contemporary Literary and Media Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1114",
+            "course_name": "Medieval Arabic Lit:",
+            "description": "MEIS-GA 1114 Medieval Arabic Lit: \nReadings in selected authors from the 8th century to the 12th century",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1115",
+            "course_name": "Classical Arabic Texts: Poetry",
+            "description": "MEIS-GA 1115 Classical Arabic Texts: Poetry \nReadings in selected poets from the 8th century to the 12th century.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1116",
+            "course_name": "Classical Arabic Texts:",
+            "description": "MEIS-GA 1116 Classical Arabic Texts: \nTraining in reading texts in medieval Arabic",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1117",
+            "course_name": "Arabic Lit: Modern Prose & Poetry",
+            "description": "MEIS-GA 1117 Arabic Lit: Modern Prose & Poetry \nIntroduction to the genres of modern Arabic prose and poetry, with readings in each.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1118",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "16548",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B01",
+                    "time": "Mon,Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hassan, Amani"
+                }
+            ],
+            "course_name": "Colloquial Arabic",
+            "description": "MEIS-GA 1118 Colloquial Arabic",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1119",
+            "course_name": "Col Arabic Syro-Lebanese",
+            "description": "MEIS-GA 1119 Col Arabic Syro-Lebanese",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1120",
+            "course_name": "Arabic Composition",
+            "description": "MEIS-GA 1120 Arabic Composition",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1121",
+            "course_name": "Arabian Nights: East & West & Present",
+            "description": "MEIS-GA 1121 Arabian Nights: East & West & Present",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1122",
+            "course_name": "Other Lit & The New Transnationalism",
+            "description": "MEIS-GA 1122 Other Lit & The New Transnationalism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1123",
+            "course_name": "Hittite Lang & Cuneiform Writing",
+            "description": "MEIS-GA 1123 Hittite Lang & Cuneiform Writing",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1124",
+            "course_name": "Recog/Anagnorisis in Arabic & European Narrat",
+            "description": "MEIS-GA 1124 Recog/Anagnorisis in Arabic & European Narrat \nInvestigates narrative epistemology (the themes and dynamic of knowledge, ignorance, and discovery) in Islamic and European narrative from the ancient world to the modern novel.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1125",
+            "course_name": "Palestinian Arabic Language",
+            "description": "MEIS-GA 1125 Palestinian Arabic Language",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1126",
+            "course_name": "Arabic Translation: Theories & Practices",
+            "description": "MEIS-GA 1126 Arabic Translation: Theories & Practices",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1127",
+            "course_name": "Intro to Classical Arabic",
+            "description": "MEIS-GA 1127 Intro to Classical Arabic",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1128",
+            "course_name": "Intro to Classical Arabic II",
+            "description": "MEIS-GA 1128 Intro to Classical Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1130",
+            "course_name": "God in Islamic Philosophy",
+            "description": "MEIS-GA 1130 God in Islamic Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1200",
+            "course_name": "Departmental Colloquium",
+            "description": "MEIS-GA 1200 Departmental Colloquium",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1215",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1626",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 10.10 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Sanskrit I",
+            "description": "MEIS-GA 1215 Elementary Sanskrit I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1216",
+            "course_name": "Elementary Sanskrit II",
+            "description": "MEIS-GA 1216 Elementary Sanskrit II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1217",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1627",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.10 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Sanskrit I",
+            "description": "MEIS-GA 1217 Intermediate Sanskrit I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1218",
+            "course_name": "Intermediate Sanskrit II",
+            "description": "MEIS-GA 1218 Intermediate Sanskrit II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1219",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1628",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.10 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Advanced Sanskrit",
+            "description": "MEIS-GA 1219 Advanced Sanskrit",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1220",
+            "course_name": "Advanced Sanskrit",
+            "description": "MEIS-GA 1220 Advanced Sanskrit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1300",
+            "course_name": "Prosem Hbrw Litery Trdtn",
+            "description": "MEIS-GA 1300 Prosem Hbrw Litery Trdtn",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1310",
+            "course_name": "Academic Hebrew I",
+            "description": "MEIS-GA 1310 Academic Hebrew I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1313",
+            "course_name": "Dead Sea Scrolls",
+            "description": "MEIS-GA 1313 Dead Sea Scrolls",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1316",
+            "course_name": "Israeli Literature",
+            "description": "MEIS-GA 1316 Israeli Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1318",
+            "course_name": "Aramaic I: Early Aramaic",
+            "description": "MEIS-GA 1318 Aramaic I: Early Aramaic",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1326",
+            "course_name": "Modern Hebrew Linguistic",
+            "description": "MEIS-GA 1326 Modern Hebrew Linguistic",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1327",
+            "course_name": "History of Israelite Religion",
+            "description": "MEIS-GA 1327 History of Israelite Religion",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1328",
+            "course_name": "Israel: Struggle for Independence",
+            "description": "MEIS-GA 1328 Israel: Struggle for Independence",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1329",
+            "course_name": "Topics in Hebrew Literature:",
+            "description": "MEIS-GA 1329 Topics in Hebrew Literature:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1361",
+            "course_name": "Akkadian I",
+            "description": "MEIS-GA 1361 Akkadian I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1362",
+            "course_name": "Akkadian II",
+            "description": "MEIS-GA 1362 Akkadian II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1363",
+            "course_name": "Akkadian III",
+            "description": "MEIS-GA 1363 Akkadian III",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1364",
+            "course_name": "Akkadian IV",
+            "description": "MEIS-GA 1364 Akkadian IV",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1366",
+            "course_name": "Sumerian",
+            "description": "MEIS-GA 1366 Sumerian",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1370",
+            "course_name": "Northwest Semitic Inscriptions",
+            "description": "MEIS-GA 1370 Northwest Semitic Inscriptions",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1376",
+            "course_name": "Ugaritic I",
+            "description": "MEIS-GA 1376 Ugaritic I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1377",
+            "course_name": "Ugaritic II",
+            "description": "MEIS-GA 1377 Ugaritic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1378",
+            "course_name": "Aramaic I",
+            "description": "MEIS-GA 1378 Aramaic I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1379",
+            "course_name": "Aramaic II",
+            "description": "MEIS-GA 1379 Aramaic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1380",
+            "course_name": "Aramaic III",
+            "description": "MEIS-GA 1380 Aramaic III",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1381",
+            "course_name": "Aramaic IV",
+            "description": "MEIS-GA 1381 Aramaic IV",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1412",
+            "course_name": "Adv Persian:  Historical & Biographical Texts",
+            "description": "MEIS-GA 1412 Adv Persian:  Historical & Biographical Texts",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1413",
+            "course_name": "Advanced Persian: Poetry",
+            "description": "MEIS-GA 1413 Advanced Persian: Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1414",
+            "course_name": "Persian Mystical Texts",
+            "description": "MEIS-GA 1414 Persian Mystical Texts",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1415",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1631",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Advanced Persian Contemporary Lit",
+            "description": "MEIS-GA 1415 Advanced Persian Contemporary Lit",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1416",
+            "course_name": "Advanced Persian:",
+            "description": "MEIS-GA 1416 Advanced Persian:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1417",
+            "course_name": "Persian Literary Texts: Drama",
+            "description": "MEIS-GA 1417 Persian Literary Texts: Drama",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1450",
+            "course_name": "Topics in Byzantine History",
+            "description": "MEIS-GA 1450 Topics in Byzantine History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1454",
+            "course_name": "Crusades: a Reevaluation",
+            "description": "MEIS-GA 1454 Crusades: a Reevaluation",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1510",
+            "course_name": "Ottoman Turkish I",
+            "description": "MEIS-GA 1510 Ottoman Turkish I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1511",
+            "course_name": "Ottoman Turkish II",
+            "description": "MEIS-GA 1511 Ottoman Turkish II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1512",
+            "course_name": "Readings in Ottoman Historical Texts I",
+            "description": "MEIS-GA 1512 Readings in Ottoman Historical Texts I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1513",
+            "course_name": "Adv Readings in Ottoman Historical Texts II",
+            "description": "MEIS-GA 1513 Adv Readings in Ottoman Historical Texts II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1514",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1632",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "KEVO LL1"
+                }
+            ],
+            "course_name": "Advanced Turkish: Mod Turkish Lit I",
+            "description": "MEIS-GA 1514 Advanced Turkish: Mod Turkish Lit I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1515",
+            "course_name": "Adv Turkish: Modern Turkish Literature II",
+            "description": "MEIS-GA 1515 Adv Turkish: Modern Turkish Literature II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1516",
+            "course_name": "Zionism & Health",
+            "description": "MEIS-GA 1516 Zionism & Health",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1575",
+            "course_name": "Womn/Scl Change 3Rd Worl",
+            "description": "MEIS-GA 1575 Womn/Scl Change 3Rd Worl",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1600",
+            "course_name": "History of Ancient N E",
+            "description": "MEIS-GA 1600 History of Ancient N E",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1601",
+            "course_name": "Archaeology of Israel",
+            "description": "MEIS-GA 1601 Archaeology of Israel",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1609",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16554",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Intro to The Qur'An",
+            "description": "MEIS-GA 1609 Intro to The Qur'An",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1610",
+            "course_name": "World Cult:Middle East",
+            "description": "MEIS-GA 1610 World Cult:Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1611",
+            "course_name": "History of Ancient Egypt",
+            "description": "MEIS-GA 1611 History of Ancient Egypt",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1612",
+            "course_name": "Topics in The Sociology of The Mod Middle East",
+            "description": "MEIS-GA 1612 Topics in The Sociology of The Mod Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1614",
+            "course_name": "Culture, Meaning and Society",
+            "description": "MEIS-GA 1614 Culture, Meaning and Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1615",
+            "course_name": "Post Colonial Theory & Performance",
+            "description": "MEIS-GA 1615 Post Colonial Theory & Performance",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1616",
+            "course_name": "Represent The Mid East: Issues in Pol of Culture",
+            "description": "MEIS-GA 1616 Represent The Mid East: Issues in Pol of Culture",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1619",
+            "course_name": "The Prophet Muhammad: History, Law Ritual",
+            "description": "MEIS-GA 1619 The Prophet Muhammad: History, Law Ritual",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1620",
+            "course_name": "The N.E. from Alexander to Mohammed",
+            "description": "MEIS-GA 1620 The N.E. from Alexander to Mohammed",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1621",
+            "course_name": "The N.E. Under The Greeks and Romans",
+            "description": "MEIS-GA 1621 The N.E. Under The Greeks and Romans",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1622",
+            "course_name": "Comp Relig Div & Unity",
+            "description": "MEIS-GA 1622 Comp Relig Div & Unity",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1626",
+            "course_name": "Cities of The Middle East",
+            "description": "MEIS-GA 1626 Cities of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1628",
+            "course_name": "Islamic City: Law & Arch",
+            "description": "MEIS-GA 1628 Islamic City: Law & Arch",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1629",
+            "course_name": "Archaeology - The Holy Land",
+            "description": "MEIS-GA 1629 Archaeology - The Holy Land",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1630",
+            "course_name": "Fatimid/Ayyubid Culture",
+            "description": "MEIS-GA 1630 Fatimid/Ayyubid Culture",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1632",
+            "course_name": "From Byzantium to Islam",
+            "description": "MEIS-GA 1632 From Byzantium to Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1633",
+            "course_name": "Roman/Syrian/Arabian His",
+            "description": "MEIS-GA 1633 Roman/Syrian/Arabian His",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1634",
+            "course_name": "The Umayyads of Syria",
+            "description": "MEIS-GA 1634 The Umayyads of Syria",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1636",
+            "course_name": "Anthropology for Middle Eastern Studies",
+            "description": "MEIS-GA 1636 Anthropology for Middle Eastern Studies",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1639",
+            "course_name": "Islamic Humanism",
+            "description": "MEIS-GA 1639 Islamic Humanism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1640",
+            "course_name": "History of The Mid East: 600-1200",
+            "description": "MEIS-GA 1640 History of The Mid East: 600-1200",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1641",
+            "course_name": "History of Middle East: 1200-1800",
+            "description": "MEIS-GA 1641 History of Middle East: 1200-1800",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1642",
+            "course_name": "Hist of Mid East: 1750 - Present",
+            "description": "MEIS-GA 1642 Hist of Mid East: 1750 - Present",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1643",
+            "course_name": "Literature of The Field:",
+            "description": "MEIS-GA 1643 Literature of The Field:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1644",
+            "course_name": "Lit of The Field: Modern Middle East History II",
+            "description": "MEIS-GA 1644 Lit of The Field: Modern Middle East History II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1645",
+            "course_name": "Methods & Approaches to Mod Mid East History",
+            "description": "MEIS-GA 1645 Methods & Approaches to Mod Mid East History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1646",
+            "course_name": "Topics in Medieval Islamic History",
+            "description": "MEIS-GA 1646 Topics in Medieval Islamic History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1647",
+            "course_name": "Communities of Knowledge Medieval Identities",
+            "description": "MEIS-GA 1647 Communities of Knowledge Medieval Identities",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1648",
+            "course_name": "Medieval Historical Texts:",
+            "description": "MEIS-GA 1648 Medieval Historical Texts:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1649",
+            "course_name": "Contemporary Turkey",
+            "description": "MEIS-GA 1649 Contemporary Turkey",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1650",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19274",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Peirce, Leslie"
+                }
+            ],
+            "course_name": "The Ottoman Empire in Europe, 1350-1750",
+            "description": "MEIS-GA 1650 The Ottoman Empire in Europe, 1350-1750",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1651",
+            "course_name": "Early Modern Ottoman History, 1350-1750",
+            "description": "MEIS-GA 1651 Early Modern Ottoman History, 1350-1750",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1652",
+            "course_name": "Late Ottoman Empire, 1800-1914",
+            "description": "MEIS-GA 1652 Late Ottoman Empire, 1800-1914",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1653",
+            "course_name": "Sem in Mod M.E  Hist I",
+            "description": "MEIS-GA 1653 Sem in Mod M.E  Hist I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1654",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16552",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL1"
+                }
+            ],
+            "course_name": "Seminar in Modern Middle Eastern Hist:Modern Palestine",
+            "description": "MEIS-GA 1654 Seminar in Modern Middle Eastern Hist:Modern Palestine",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1656",
+            "course_name": "Imperialism in The Middle East",
+            "description": "MEIS-GA 1656 Imperialism in The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1658",
+            "course_name": "Topics in Mamluk History",
+            "description": "MEIS-GA 1658 Topics in Mamluk History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1660",
+            "course_name": "Medieval Iran (650-1500)",
+            "description": "MEIS-GA 1660 Medieval Iran (650-1500)",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1661",
+            "course_name": "Modern Iran: 1600- Present",
+            "description": "MEIS-GA 1661 Modern Iran: 1600- Present",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1662",
+            "course_name": "Parthian & Sasanian Iran",
+            "description": "MEIS-GA 1662 Parthian & Sasanian Iran",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1663",
+            "course_name": "Anct Egyptian Cult Hist",
+            "description": "MEIS-GA 1663 Anct Egyptian Cult Hist",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1664",
+            "course_name": "Egypt in Modern Times",
+            "description": "MEIS-GA 1664 Egypt in Modern Times",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1665",
+            "course_name": "Cultures of Capitalism Pol Econ of Early Mod Me",
+            "description": "MEIS-GA 1665 Cultures of Capitalism Pol Econ of Early Mod Me",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1666",
+            "course_name": "Hist of Muslim, Central Asia, India & Iran",
+            "description": "MEIS-GA 1666 Hist of Muslim, Central Asia, India & Iran",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1668",
+            "course_name": "Sufism",
+            "description": "MEIS-GA 1668 Sufism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1670",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "16551",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KEVO LL2",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Saeed, Tahir"
+                }
+            ],
+            "course_name": "Nationalisms & Nation State in The Middle East",
+            "description": "MEIS-GA 1670 Nationalisms & Nation State in The Middle East",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1671",
+            "course_name": "Near East Leadership in The 20th C",
+            "description": "MEIS-GA 1671 Near East Leadership in The 20th C",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1675",
+            "course_name": "Mecca & The Haj: The Pilgrimage of Islam",
+            "description": "MEIS-GA 1675 Mecca & The Haj: The Pilgrimage of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1676",
+            "course_name": "Hist of Islamic World 1500-1800",
+            "description": "MEIS-GA 1676 Hist of Islamic World 1500-1800",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1677",
+            "course_name": "The Middle East in The 20th Century",
+            "description": "MEIS-GA 1677 The Middle East in The 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1678",
+            "course_name": "Hist of U.S. Relations With The Middle East",
+            "description": "MEIS-GA 1678 Hist of U.S. Relations With The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1680",
+            "course_name": "Soviet and Post-Soviet Policy in The Near East",
+            "description": "MEIS-GA 1680 Soviet and Post-Soviet Policy in The Near East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1687",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1633",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Prob & Meth in Mideast Studies",
+            "description": "MEIS-GA 1687 Prob & Meth in Mideast Studies",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1688",
+            "course_name": "Seminar in Syrian Civilization",
+            "description": "MEIS-GA 1688 Seminar in Syrian Civilization",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1692",
+            "course_name": "History of Jews in Late Antiguity",
+            "description": "MEIS-GA 1692 History of Jews in Late Antiguity",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1693",
+            "course_name": "Palestine & the Politics of History",
+            "description": "MEIS-GA 1693 Palestine & the Politics of History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1694",
+            "course_name": "From Jews to Christians Origin/Dev Jesus Movemnt",
+            "description": "MEIS-GA 1694 From Jews to Christians Origin/Dev Jesus Movemnt",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1695",
+            "course_name": "Jewish Soc in Mid East",
+            "description": "MEIS-GA 1695 Jewish Soc in Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1700",
+            "course_name": "Intro to Islamic Studies",
+            "description": "MEIS-GA 1700 Intro to Islamic Studies",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1701",
+            "course_name": "Proseminar in Medieval Judaism",
+            "description": "MEIS-GA 1701 Proseminar in Medieval Judaism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1703",
+            "course_name": "Arts & Science of Islam",
+            "description": "MEIS-GA 1703 Arts & Science of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1704",
+            "course_name": "Introduction to Islamic Sciences",
+            "description": "MEIS-GA 1704 Introduction to Islamic Sciences",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1705",
+            "course_name": "Intro to Islamic Texts",
+            "description": "MEIS-GA 1705 Intro to Islamic Texts",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1706",
+            "course_name": "Seminar Iranian Stud",
+            "description": "MEIS-GA 1706 Seminar Iranian Stud",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1708",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16550",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Classical Islamic Lit of Ethics and Advice",
+            "description": "MEIS-GA 1708 Classical Islamic Lit of Ethics and Advice",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1710",
+            "course_name": "20th Century Arabic Lit in English",
+            "description": "MEIS-GA 1710 20th Century Arabic Lit in English \nIntroduction to 20th-century Arabic literature.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1711",
+            "course_name": "Proseminar in Arabic Literary Tradition",
+            "description": "MEIS-GA 1711 Proseminar in Arabic Literary Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1712",
+            "course_name": "Comp Lit in Arab Context:",
+            "description": "MEIS-GA 1712 Comp Lit in Arab Context:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1715",
+            "course_name": "Modern Arabic Literary Theory",
+            "description": "MEIS-GA 1715 Modern Arabic Literary Theory",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1718",
+            "course_name": "Eco of Middle East",
+            "description": "MEIS-GA 1718 Eco of Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1720",
+            "course_name": "Reporting The Mid East",
+            "description": "MEIS-GA 1720 Reporting The Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1730",
+            "course_name": "Media of Displacement: Gender, Nation & Postcol",
+            "description": "MEIS-GA 1730 Media of Displacement: Gender, Nation & Postcol",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1735",
+            "course_name": "Imaging Palestin/Israel: Issues/Pol of Representn",
+            "description": "MEIS-GA 1735 Imaging Palestin/Israel: Issues/Pol of Representn",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1736",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16553",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Arab Jews & The Writing of Memory",
+            "description": "MEIS-GA 1736 Arab Jews & The Writing of Memory",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 1740",
+            "course_name": "History and Society of Saudi Arabia",
+            "description": "MEIS-GA 1740 History and Society of Saudi Arabia",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1750",
+            "course_name": "Shi'I Islam",
+            "description": "MEIS-GA 1750 Shi'I Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1770",
+            "course_name": "Topics:",
+            "description": "MEIS-GA 1770 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1771",
+            "course_name": "Pain, Punishment, & Torture in Middle Ages",
+            "description": "MEIS-GA 1771 Pain, Punishment, & Torture in Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1777",
+            "course_name": "Mod Arabic Lit Crit",
+            "description": "MEIS-GA 1777 Mod Arabic Lit Crit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1778",
+            "course_name": "Topics: Drama in The Contemporary Arab World",
+            "description": "MEIS-GA 1778 Topics: Drama in The Contemporary Arab World \nThis seminar investigates the origins of modern Arabic drama and its intimate interfacing with mass media in contemporary Arab societies.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1781",
+            "course_name": "Econ of The Middle East",
+            "description": "MEIS-GA 1781 Econ of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1782",
+            "course_name": "Topics in The Economic & Social Hist of Mid East",
+            "description": "MEIS-GA 1782 Topics in The Economic & Social Hist of Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1783",
+            "course_name": "Sem in Waqf Studies",
+            "description": "MEIS-GA 1783 Sem in Waqf Studies",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1784",
+            "course_name": "Politics of Finan Mkts in Arabian Gulf",
+            "description": "MEIS-GA 1784 Politics of Finan Mkts in Arabian Gulf",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1785",
+            "course_name": "Islam and Politics",
+            "description": "MEIS-GA 1785 Islam and Politics",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1802",
+            "course_name": "Proseminar in Near East Religions",
+            "description": "MEIS-GA 1802 Proseminar in Near East Religions",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1803",
+            "course_name": "Islam in The Contemp World",
+            "description": "MEIS-GA 1803 Islam in The Contemp World",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1806",
+            "course_name": "Islam & The West: Diplomacy & Trade",
+            "description": "MEIS-GA 1806 Islam & The West: Diplomacy & Trade",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1810",
+            "course_name": "Jerusalem: The Contested Inheritance",
+            "description": "MEIS-GA 1810 Jerusalem: The Contested Inheritance",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1851",
+            "course_name": "Islamic Legal Thought",
+            "description": "MEIS-GA 1851 Islamic Legal Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1852",
+            "course_name": "Islamic Law & Society",
+            "description": "MEIS-GA 1852 Islamic Law & Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1853",
+            "course_name": "Courts and the Administration of Justice in Early Islamic Law and Society",
+            "description": "MEIS-GA 1853 Courts and the Administration of Justice in Early Islamic Law and Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1854",
+            "course_name": "Women & Islamic Law",
+            "description": "MEIS-GA 1854 Women & Islamic Law \nIslamic law and its treatment of women in theory and practice",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1855",
+            "course_name": "Islam & Politics",
+            "description": "MEIS-GA 1855 Islam & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1857",
+            "course_name": "Muhammad & The Qur'An",
+            "description": "MEIS-GA 1857 Muhammad & The Qur'An",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1865",
+            "course_name": "Cultures of Capitalism",
+            "description": "MEIS-GA 1865 Cultures of Capitalism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1901",
+            "course_name": "Judaism, Christianity & Islam",
+            "description": "MEIS-GA 1901 Judaism, Christianity & Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 1999",
+            "course_name": "Gender Nation & Empire in Mideast & South Asia",
+            "description": "MEIS-GA 1999 Gender Nation & Empire in Mideast & South Asia",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2001",
+            "course_name": "Departmental Seminar",
+            "description": "MEIS-GA 2001 Departmental Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2245",
+            "course_name": "Texts from Judean Desert",
+            "description": "MEIS-GA 2245 Texts from Judean Desert",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2300",
+            "course_name": "Studies in Prose Genres: Autobiography",
+            "description": "MEIS-GA 2300 Studies in Prose Genres: Autobiography",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2320",
+            "course_name": "Tpcs Performing Culture: Rel & Sec Modernities",
+            "description": "MEIS-GA 2320 Tpcs Performing Culture: Rel & Sec Modernities",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2432",
+            "course_name": "Socio of Religion:Islam",
+            "description": "MEIS-GA 2432 Socio of Religion:Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2551",
+            "course_name": "Probs in Safavid History",
+            "description": "MEIS-GA 2551 Probs in Safavid History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2590",
+            "course_name": "Middle Eastern Gov'T and Politics",
+            "description": "MEIS-GA 2590 Middle Eastern Gov'T and Politics",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2639",
+            "course_name": "Age of Justinian",
+            "description": "MEIS-GA 2639 Age of Justinian",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2652",
+            "course_name": "Turks in The 20th Cent",
+            "description": "MEIS-GA 2652 Turks in The 20th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2656",
+            "course_name": "The Islamic City",
+            "description": "MEIS-GA 2656 The Islamic City",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2660",
+            "course_name": "Sem in Early Mod Central Asia",
+            "description": "MEIS-GA 2660 Sem in Early Mod Central Asia",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2677",
+            "course_name": "Sem:Russia & Middle East",
+            "description": "MEIS-GA 2677 Sem:Russia & Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2679",
+            "course_name": "Graduate Seminar: The Modern Near East",
+            "description": "MEIS-GA 2679 Graduate Seminar: The Modern Near East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2680",
+            "course_name": "Sem in Ottoman Hist I: Late Ottoman Empire",
+            "description": "MEIS-GA 2680 Sem in Ottoman Hist I: Late Ottoman Empire",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2691",
+            "course_name": "Sem:Palestine Under The Greeks & Romans",
+            "description": "MEIS-GA 2691 Sem:Palestine Under The Greeks & Romans",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2703",
+            "course_name": "Arts & Sciences of Islam",
+            "description": "MEIS-GA 2703 Arts & Sciences of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2720",
+            "course_name": "Islamic Philosophy & Theology",
+            "description": "MEIS-GA 2720 Islamic Philosophy & Theology",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2725",
+            "course_name": "Problems & Methods in Study of Islam",
+            "description": "MEIS-GA 2725 Problems & Methods in Study of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2754",
+            "course_name": "The Mandate System in The Middle East",
+            "description": "MEIS-GA 2754 The Mandate System in The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2785",
+            "course_name": "Sociology of The Middle East",
+            "description": "MEIS-GA 2785 Sociology of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2787",
+            "course_name": "Population Policies of The Middle East",
+            "description": "MEIS-GA 2787 Population Policies of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2789",
+            "course_name": "Modern Bodies: Constrct, Reg,& Gov Bodies in Mod",
+            "description": "MEIS-GA 2789 Modern Bodies: Constrct, Reg,& Gov Bodies in Mod",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2855",
+            "course_name": "Islamic Institutions",
+            "description": "MEIS-GA 2855 Islamic Institutions",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2901",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1634",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "MA Thesis Research",
+            "description": "MEIS-GA 2901 MA Thesis Research",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 2902",
+            "course_name": "Masters Thesis Research",
+            "description": "MEIS-GA 2902 Masters Thesis Research",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2903",
+            "course_name": "Masters Thesis Research",
+            "description": "MEIS-GA 2903 Masters Thesis Research",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2961",
+            "course_name": "Directed Study in Middle East History",
+            "description": "MEIS-GA 2961 Directed Study in Middle East History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2962",
+            "course_name": "Directed Study in Middle East Histtory II",
+            "description": "MEIS-GA 2962 Directed Study in Middle East Histtory II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2971",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1635",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dir Study in Arabic Lit",
+            "description": "MEIS-GA 2971 Dir Study in Arabic Lit",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 2972",
+            "course_name": "Dir Std/Arabic Lang I",
+            "description": "MEIS-GA 2972 Dir Std/Arabic Lang I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2973",
+            "course_name": "Directed Study in Arabic",
+            "description": "MEIS-GA 2973 Directed Study in Arabic",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 2997",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1636",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1637",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MEIS-GA 2997 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 2998",
+            "course_name": "Independent Study",
+            "description": "MEIS-GA 2998 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3100",
+            "course_name": "Sem:Hist Mod Near East",
+            "description": "MEIS-GA 3100 Sem:Hist Mod Near East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3101",
+            "course_name": "Directed Study Arabic Literature",
+            "description": "MEIS-GA 3101 Directed Study Arabic Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3102",
+            "course_name": "Directed Study Arabic Literature",
+            "description": "MEIS-GA 3102 Directed Study Arabic Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3110",
+            "course_name": "Rdgs/Islamic Humanism",
+            "description": "MEIS-GA 3110 Rdgs/Islamic Humanism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3111",
+            "course_name": "Topics in Islamic Phil: Shi-I Thought",
+            "description": "MEIS-GA 3111 Topics in Islamic Phil: Shi-I Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3112",
+            "course_name": "Rdgs in Arabic Lit: Judeo-Arabic Lit",
+            "description": "MEIS-GA 3112 Rdgs in Arabic Lit: Judeo-Arabic Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3114",
+            "course_name": "Rdgs/Arabic Lit, History Geography, Travel",
+            "description": "MEIS-GA 3114 Rdgs/Arabic Lit, History Geography, Travel",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3115",
+            "course_name": "Rdgs in Arabic Lit Philosop,Theol,SCI",
+            "description": "MEIS-GA 3115 Rdgs in Arabic Lit Philosop,Theol,SCI",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3116",
+            "course_name": "Readings in Arabic Lit Preislamic Poetry",
+            "description": "MEIS-GA 3116 Readings in Arabic Lit Preislamic Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3117",
+            "course_name": "Readings in Arabic Lit Modern Prose Lit",
+            "description": "MEIS-GA 3117 Readings in Arabic Lit Modern Prose Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3118",
+            "course_name": "Rdgs in Arabic Lit Qur'An and Tafsir",
+            "description": "MEIS-GA 3118 Rdgs in Arabic Lit Qur'An and Tafsir",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3119",
+            "course_name": "Readings in Arabic Lit Arabic Manuscripts",
+            "description": "MEIS-GA 3119 Readings in Arabic Lit Arabic Manuscripts",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3120",
+            "course_name": "Rdgs in Arabic Lit Rhetoric,Grammar,Ling",
+            "description": "MEIS-GA 3120 Rdgs in Arabic Lit Rhetoric,Grammar,Ling",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3121",
+            "course_name": "Rdgs in Arabic Lit Mod Tech Prs Non-Fiction",
+            "description": "MEIS-GA 3121 Rdgs in Arabic Lit Mod Tech Prs Non-Fiction",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3122",
+            "course_name": "Readings in Arabic Lit Classical Poetry",
+            "description": "MEIS-GA 3122 Readings in Arabic Lit Classical Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3123",
+            "course_name": "Readings in Arabic Lit Mahjar Poetry",
+            "description": "MEIS-GA 3123 Readings in Arabic Lit Mahjar Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3124",
+            "course_name": "Readings in Arabic Lit Modern Poetry",
+            "description": "MEIS-GA 3124 Readings in Arabic Lit Modern Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3125",
+            "course_name": "Readings in Arabic Lit Medieval Prose Lit",
+            "description": "MEIS-GA 3125 Readings in Arabic Lit Medieval Prose Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3126",
+            "course_name": "Readings in Arabic Lit Mahjar Prose Lit",
+            "description": "MEIS-GA 3126 Readings in Arabic Lit Mahjar Prose Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3127",
+            "course_name": "Readings in Arabic Lit Hadith,Law,Jurisprudence",
+            "description": "MEIS-GA 3127 Readings in Arabic Lit Hadith,Law,Jurisprudence",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3192",
+            "course_name": "Seminar in Medieval Arabic Literature",
+            "description": "MEIS-GA 3192 Seminar in Medieval Arabic Literature \nSelected topics in medieval Arabic literature.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3193",
+            "course_name": "Seminar in Modern Arabic Literature I",
+            "description": "MEIS-GA 3193 Seminar in Modern Arabic Literature I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3195",
+            "course_name": "Sem in Arabic Philology",
+            "description": "MEIS-GA 3195 Sem in Arabic Philology",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3197",
+            "course_name": "Sem in Mod Arabic Lit II",
+            "description": "MEIS-GA 3197 Sem in Mod Arabic Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3211",
+            "course_name": "Readings in Ancient Hist of Fertile Crescent I",
+            "description": "MEIS-GA 3211 Readings in Ancient Hist of Fertile Crescent I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3212",
+            "course_name": "Readings in Ancient Hist of Fertile Crescent II",
+            "description": "MEIS-GA 3212 Readings in Ancient Hist of Fertile Crescent II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3213",
+            "course_name": "Readings in The Ancient History of Egypt I",
+            "description": "MEIS-GA 3213 Readings in The Ancient History of Egypt I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3214",
+            "course_name": "Readings in The Ancient Hist of Egypt II",
+            "description": "MEIS-GA 3214 Readings in The Ancient Hist of Egypt II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3215",
+            "course_name": "Rdgs in The Ancient Hist of Mesopotamia I",
+            "description": "MEIS-GA 3215 Rdgs in The Ancient Hist of Mesopotamia I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3216",
+            "course_name": "Rdgs in The Ancient Hist of Mesopotamia II",
+            "description": "MEIS-GA 3216 Rdgs in The Ancient Hist of Mesopotamia II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3217",
+            "course_name": "Rdgs in The Ancient Egyptian Lit I",
+            "description": "MEIS-GA 3217 Rdgs in The Ancient Egyptian Lit I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3218",
+            "course_name": "Rdgs in The Ancient Egyptian Lit II",
+            "description": "MEIS-GA 3218 Rdgs in The Ancient Egyptian Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3219",
+            "course_name": "Rdgs in Cultural History of Egypt I",
+            "description": "MEIS-GA 3219 Rdgs in Cultural History of Egypt I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3220",
+            "course_name": "Rdgs in Cultural History",
+            "description": "MEIS-GA 3220 Rdgs in Cultural History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3221",
+            "course_name": "Readings:",
+            "description": "MEIS-GA 3221 Readings:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3222",
+            "course_name": "Readings: Old Egyptian Text II",
+            "description": "MEIS-GA 3222 Readings: Old Egyptian Text II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3301",
+            "course_name": "Directed Study Hebrew Li",
+            "description": "MEIS-GA 3301 Directed Study Hebrew Li",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3305",
+            "course_name": "Topics in Ancient Near East Lit",
+            "description": "MEIS-GA 3305 Topics in Ancient Near East Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3314",
+            "course_name": "Rdg Heb Lit Babyln Talmu",
+            "description": "MEIS-GA 3314 Rdg Heb Lit Babyln Talmu",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3401",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1638",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Study: Persian Lit I",
+            "description": "MEIS-GA 3401 Directed Study: Persian Lit I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 3402",
+            "course_name": "Directed Study Persian Lit II",
+            "description": "MEIS-GA 3402 Directed Study Persian Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3403",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1639",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Study: Persian Language I",
+            "description": "MEIS-GA 3403 Directed Study: Persian Language I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 3404",
+            "course_name": "Directed Study: Persian Language II",
+            "description": "MEIS-GA 3404 Directed Study: Persian Language II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3410",
+            "course_name": "Readings in Persian Lit:",
+            "description": "MEIS-GA 3410 Readings in Persian Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3416",
+            "course_name": "Readings in Persian Lit Iranian Manuscript",
+            "description": "MEIS-GA 3416 Readings in Persian Lit Iranian Manuscript",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3420",
+            "course_name": "Shi'Ite Islam",
+            "description": "MEIS-GA 3420 Shi'Ite Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3460",
+            "course_name": "Tpcs in Jewish Philosphy",
+            "description": "MEIS-GA 3460 Tpcs in Jewish Philosphy",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3491",
+            "course_name": "Sem in Persian Lit:",
+            "description": "MEIS-GA 3491 Sem in Persian Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3492",
+            "course_name": "Sem in Persian Lit",
+            "description": "MEIS-GA 3492 Sem in Persian Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3493",
+            "course_name": "Sem in Persian Lit",
+            "description": "MEIS-GA 3493 Sem in Persian Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3494",
+            "course_name": "Sem in Persian Lit",
+            "description": "MEIS-GA 3494 Sem in Persian Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3501",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1640",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Study: Turkish Language",
+            "description": "MEIS-GA 3501 Directed Study: Turkish Language",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 3505",
+            "course_name": "The Ottoman 17th Century",
+            "description": "MEIS-GA 3505 The Ottoman 17th Century",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3510",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3510 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3511",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3511 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3512",
+            "course_name": "Readings in Turkish Lit Ottoman Historical Texts",
+            "description": "MEIS-GA 3512 Readings in Turkish Lit Ottoman Historical Texts",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3513",
+            "course_name": "Readings in Turkish Lit Modern Turkish Lit",
+            "description": "MEIS-GA 3513 Readings in Turkish Lit Modern Turkish Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3514",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3514 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3515",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3515 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3516",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3516 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3517",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3517 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3518",
+            "course_name": "Turkish Readings",
+            "description": "MEIS-GA 3518 Turkish Readings",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3611",
+            "course_name": "Readings Church History",
+            "description": "MEIS-GA 3611 Readings Church History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3612",
+            "course_name": "Readings Greek Fathers",
+            "description": "MEIS-GA 3612 Readings Greek Fathers",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3613",
+            "course_name": "Rdgs Near East Hist Text",
+            "description": "MEIS-GA 3613 Rdgs Near East Hist Text",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3614",
+            "course_name": "Rdgs Near East Hist Text Political History",
+            "description": "MEIS-GA 3614 Rdgs Near East Hist Text Political History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3615",
+            "course_name": "Rdg Near East Hist Text Social History",
+            "description": "MEIS-GA 3615 Rdg Near East Hist Text Social History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3616",
+            "course_name": "Rdgs/Ancient Egypt Lit",
+            "description": "MEIS-GA 3616 Rdgs/Ancient Egypt Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3617",
+            "course_name": "Rdg/Ancient Egypt Hist",
+            "description": "MEIS-GA 3617 Rdg/Ancient Egypt Hist",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3618",
+            "course_name": "Readings in Ancient Egyptian",
+            "description": "MEIS-GA 3618 Readings in Ancient Egyptian",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3619",
+            "course_name": "Readings in Ancient Egyptian Literature",
+            "description": "MEIS-GA 3619 Readings in Ancient Egyptian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3620",
+            "course_name": "Reading in Coptic Grammer 1",
+            "description": "MEIS-GA 3620 Reading in Coptic Grammer 1",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3621",
+            "course_name": "Readings in Coptic Grammer II",
+            "description": "MEIS-GA 3621 Readings in Coptic Grammer II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3701",
+            "course_name": "Probs in Islamic Thought",
+            "description": "MEIS-GA 3701 Probs in Islamic Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3702",
+            "course_name": "Probs in Islamic Thought",
+            "description": "MEIS-GA 3702 Probs in Islamic Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-GA 3801",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1641",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation Research",
+            "description": "MEIS-GA 3801 Dissertation Research",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-GA 3802",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1642",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation Research",
+            "description": "MEIS-GA 3802 Dissertation Research",
+            "offering": true
+        }
+    ]
+}

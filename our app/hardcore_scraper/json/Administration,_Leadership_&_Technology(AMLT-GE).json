@@ -1,15 +1,19 @@
 {
+    "major_id": "AMLT-GE",
+    "file": "./2015-2016/Administration,_Leadership_&_Technology(AMLT-GE).html",
     "courses": [
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2000",
+            "course_name": "Future Studies and Strategic Planning in Education",
             "description": "AMLT-GE 2000 Future Studies and Strategic Planning in Education \nIntroduction to the interdisciplinary field of societal & educational futures studies; the literature of futures studies; instructional methods & materials for teaching futures studies in elementary & secondary, & higher education; special emphasis on use of futures studies in long-range strategic planning; overview of the methodology of futures research; experience with selected futures research methods.",
-            "offering": true
+            "offering": false
         },
         {
+            "course_id": "AMLT-GE 2053",
             "classes": [
                 {
-                    "classId": "4078",
-                    "format": "Seminar ",
+                    "format": "Seminar",
+                    "class_id": "4078",
                     "section": "001",
                     "period": "09/02/2015 - 12/15/2015",
                     "location": "EAST 207",
@@ -18,85 +22,99 @@
                     "professor": "Astuto, Terry"
                 }
             ],
+            "course_name": "Organizational Theory I",
             "description": "AMLT-GE 2053 Organizational Theory I \nBasic principles of development & explication of theory about organization.  Survey of theories on the structure & design of organizations, with emphasis on application of theories & concepts to educational organizations.",
             "offering": true
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2054",
+            "course_name": "Organizational Theory II",
             "description": "AMLT-GE 2054 Organizational Theory II \nExamination of theories of individual, interpersonal, & group behavior in organizations.  Emphasis on development of skills in analyzing theory & research to understand & study complex organizations.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2055",
+            "course_name": "Introduction to Management and Information Science",
             "description": "AMLT-GE 2055 Introduction to Management and Information Science \nThe administration of complex organizations.  Development of administration skills in planning, decision making, leadership, training, & assessment in education & other management settings.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2063",
+            "course_name": "Field-Based Projects on South Africa's Reforms",
             "description": "AMLT-GE 2063 Field-Based Projects on South Africa's Reforms \nThe course provides students with an opportunity to study a topic of interest relevant to social transformation & educational reform in South Africa. The first part covers the practical side of identifying appropriate study topics & sites for their projects. The second part is the actual field based project where students work with/meet/interview those in the setting, culminating in a formal paper on their experiences & what they have learned.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2072",
+            "course_name": "International Perspectives on Educational Reforms",
             "description": "AMLT-GE 2072 International Perspectives on Educational Reforms \nAn in-depth study of education reform in an international context. The goal is to understand education policy reform, with attention to the contexts & variables contributing to reform initiatives, With emphasis on original research & the exchange of ideas, students will explore educational reform\u2019s contextual variables & the push & pull factors such as globalization & key international institutions involved in reform. Different theoretical frameworks used to understand educational reform will be examined.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2073",
+            "course_name": "Education & Social Reform in South Africa",
             "description": "AMLT-GE 2073 Education & Social Reform in South Africa \nAn in-depth study of education reform in an international context. The goal is to understand education policy reform, with attention to the contexts & variables contributing to reform initiatives, With emphasis on original research & the exchange of ideas, students will explore educational reform\u2019s contextual variables & the push & pull factors such as globalization & key international institutions involved in reform. Different theoretical frameworks used to understand educational reform will be examined.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2080",
+            "course_name": "Introduction to Information Systems",
             "description": "AMLT-GE 2080 Introduction to Information Systems \nA survey of the major technologies, both hardware & software, used to support end users-managers, professional/technical staff, sales, & administrative support.  With an emphasis on technology selection & implementation, the course assists the student in understanding the hardware & software options available & how to manage their introduction & use in organizations.  Text, data, image, & video based technologies as well as major vendors are examined in terms of their evolution, current state of maturity, & future directions",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2083",
+            "course_name": "Human Factors in Information Technology",
             "description": "AMLT-GE 2083 Human Factors in Information Technology \nA study of the contemporary office & the impact information technology has on the needs & skills  of the individual, the workshops, & the design of the workplace.  Specific topics include usability analysis, hardware design, & environmental ergonomics.  Current research & practices are examined; field experiences are included.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2084",
+            "course_name": "Information Systems Analysis and Design",
             "description": "AMLT-GE 2084 Information Systems Analysis and Design \nAn introduction to systems analysis & design with emphasis on theory & practice related to information systems assessment, design, implementation & evaluation.  Research findings relative to information systems are examined; field experiences are included.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2086",
+            "course_name": "Information Resource Management:: Cases and Problems",
             "description": "AMLT-GE 2086 Information Resource Management:: Cases and Problems \nIntegrated experiences in the design, implementation, & evaluation of information systems. Emphasis on case studies & field experiences where appropriate. Includes the synthesis of research & discussion of current topics.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2300",
+            "course_name": "Independent Study",
             "description": "AMLT-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student\u2019s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 2428",
+            "course_name": "Application of Computers to Administration",
             "description": "AMLT-GE 2428 Application of Computers to Administration \nProvides a basic understanding of computers & telecommunications. Initial competencies are developed in using the computer to meet the administrative & research needs of education.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 3027",
+            "course_name": "Quantitative Methods in Organization and Administrative Studies I",
             "description": "AMLT-GE 3027 Quantitative Methods in Organization and Administrative Studies I \nThe application of quantitative methods to organizational analysis, problem-solving, & research. Utilizes appropriate computer hardware & software technology for analyzing empirical data drawn from practical organizational & administrative settings.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 3028",
+            "course_name": "Quantitative Methods in Organization and Administrative Studies II",
             "description": "AMLT-GE 3028 Quantitative Methods in Organization and Administrative Studies II \nThe application of quantitative methods to organizational analysis, problem-solving, & research. Utilizes appropriate computer hardware & software technology for analyzing empirical data drawn from practical organizational & administrative settings.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 3301",
+            "course_name": "Educational Reform and Leadership",
             "description": "AMLT-GE 3301 Educational Reform and Leadership \nExploration of educational reform & leadership in the context of fundamental economic, cultural & technological changes that have occurred globally particularly in the last 30 years. Study of its impact on the policy, organizational, & classroom levels, as well as implications for the concept of an \u201ceducated person,\u201d private & public social spheres, racialized & gendered identities, & youth culture. Classical liberal & neo-liberal economic & political issues will be explored along with their impact on educational institutions.",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "AMLT-GE 3400",
+            "course_name": "Dissertation Proposal Seminar",
             "description": "AMLT-GE 3400 Dissertation Proposal Seminar \nFacilitate the design & critical review of proposed doctoral research for students who have completed a literature review & identified a prospective dissertation chair. Serves an integrating function for the study prior to undertaking full-scale doctoral research.",
-            "offering": true
+            "offering": false
         }
-    ],
-    "file": "2015-2016//Administration,_Leadership_&_Technology(AMLT-GE).html",
-    "majorID": "AMLT-GE"
+    ]
 }

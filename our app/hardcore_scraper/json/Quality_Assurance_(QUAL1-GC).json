@@ -1,0 +1,54 @@
+{
+    "major_id": "QUAL1-GC",
+    "file": "./2015-2016/Quality_Assurance_(QUAL1-GC).html",
+    "courses": [
+        {
+            "course_id": "QUAL1-GC 3010",
+            "course_name": "Globalization & Higher Education Reforms",
+            "description": "QUAL1-GC 3010 Globalization & Higher Education Reforms",
+            "offering": false
+        },
+        {
+            "course_id": "QUAL1-GC 3020",
+            "course_name": "Building & Maintaining Institutional Quality",
+            "description": "QUAL1-GC 3020 Building & Maintaining Institutional Quality",
+            "offering": false
+        },
+        {
+            "course_id": "QUAL1-GC 3030",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2718",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "External Quality Assurance",
+            "description": "QUAL1-GC 3030 External Quality Assurance",
+            "offering": true
+        },
+        {
+            "course_id": "QUAL1-GC 3040",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2719",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Operating a Quality Assurance Agency",
+            "description": "QUAL1-GC 3040 Operating a Quality Assurance Agency",
+            "offering": true
+        }
+    ]
+}

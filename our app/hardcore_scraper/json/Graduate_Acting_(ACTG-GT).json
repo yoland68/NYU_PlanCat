@@ -1,0 +1,318 @@
+{
+    "major_id": "ACTG-GT",
+    "file": "./2015-2016/Graduate_Acting_(ACTG-GT).html",
+    "courses": [
+        {
+            "course_id": "ACTG-GT 1000",
+            "course_name": "Music for Theatre",
+            "description": "ACTG-GT 1000 Music for Theatre",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1001",
+            "course_name": "Production  Crew/Act",
+            "description": "ACTG-GT 1001 Production  Crew/Act",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1002",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5568",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wing-Davey, Mark; Ward, Jonathon",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Production Crew/Act",
+            "description": "ACTG-GT 1002 Production Crew/Act",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1003",
+            "course_name": "Production Crew/Act",
+            "description": "ACTG-GT 1003 Production Crew/Act",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1005",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5569",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wing-Davey, Mark; Zarish, Janet; Benavides-Nelson, Lisa; Ward, Jonathon; Isola, Kevin; Simpson, Fay; Skibell, Steven",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Acting III",
+            "description": "ACTG-GT 1005 Acting III",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1006",
+            "course_name": "Acting III",
+            "description": "ACTG-GT 1006 Acting III",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1010",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5570",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Burgess, Hovey; Agustinovich, Vincent; Piper, Annie; Dos Santos, Carla; Illingworth, Scott; Ward, Jonathon; Calder, Jim; Skraastad, Danielle; Simpson, Fay; Isola, Kevin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Stage Movement III",
+            "description": "ACTG-GT 1010 Stage Movement III",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1011",
+            "course_name": "Stage Movement III",
+            "description": "ACTG-GT 1011 Stage Movement III",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1020",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5571",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lapidus, Deborah; Yurman, Lawrence; Ward, Jonathon; Miller, Scott; Silverman, Miriam",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Voice and Speech III",
+            "description": "ACTG-GT 1020 Voice and Speech III",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1021",
+            "course_name": "Voice and Speech III",
+            "description": "ACTG-GT 1021 Voice and Speech III",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1200",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5572",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Maslon, Laurence; Feldman, Richard; Wing-Davey, Mark; Ward, Jonathon",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Acting IV",
+            "description": "ACTG-GT 1200 Acting IV",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1201",
+            "course_name": "Acting IV",
+            "description": "ACTG-GT 1201 Acting IV",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1210",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5573",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Calder, Jim; White, J; Jessor, Kim; Piper, Annie; Stiles, Mona; Raine, Michael; Ward, Jonathon; Simpson, Fay",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Stage Movement IV",
+            "description": "ACTG-GT 1210 Stage Movement IV",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1211",
+            "course_name": "Stage Movement IV",
+            "description": "ACTG-GT 1211 Stage Movement IV",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1220",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5574",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lapidus, Deborah; Younts, Shane; Miller, Scott; Yurman, Lawrence; Ward, Jonathon; Joynt, Liam",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Voice and Speech IV",
+            "description": "ACTG-GT 1220 Voice and Speech IV",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1221",
+            "course_name": "Voice and Speech IV",
+            "description": "ACTG-GT 1221 Voice and Speech IV",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1500",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5575",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study/Acting",
+            "description": "ACTG-GT 1500 Ind Study/Acting",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 1501",
+            "course_name": "Ind Study/Acting",
+            "description": "ACTG-GT 1501 Ind Study/Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1510",
+            "course_name": "Rep Theatre Intern I Acting",
+            "description": "ACTG-GT 1510 Rep Theatre Intern I Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1511",
+            "course_name": "Rep Theatre Intern I Acting",
+            "description": "ACTG-GT 1511 Rep Theatre Intern I Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1512",
+            "course_name": "Rep Theatre Intern II Acting",
+            "description": "ACTG-GT 1512 Rep Theatre Intern II Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 1513",
+            "course_name": "Rep Theatre Intern II Acting",
+            "description": "ACTG-GT 1513 Rep Theatre Intern II Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 2000",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5576",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Zarish, Janet; Maslon, Laurence; Merlin, Joanna; Tichler, Rosemarie; Benavides-Nelson, Lisa; Ward, Jonathon; Illingworth, Scott; Wing-Davey, Mark",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Graduate Acting",
+            "description": "ACTG-GT 2000 Graduate Acting",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 2001",
+            "course_name": "Graduate Acting",
+            "description": "ACTG-GT 2001 Graduate Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 2010",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5577",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Calder, Jim; White, J; Piper, Annie; Stiles, Mona; Ward, Jonathon; Simpson, Fay",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Graduate Stage Movement",
+            "description": "ACTG-GT 2010 Graduate Stage Movement",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 2011",
+            "course_name": "Graduate Stage Movement",
+            "description": "ACTG-GT 2011 Graduate Stage Movement",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 2020",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5578",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Younts, Shane; Miller, Scott; Lapidus, Deborah; Yurman, Lawrence; Ward, Jonathon",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Grad Voice and Speech",
+            "description": "ACTG-GT 2020 Grad Voice and Speech",
+            "offering": true
+        },
+        {
+            "course_id": "ACTG-GT 2021",
+            "course_name": "Graduate Voice & Speech",
+            "description": "ACTG-GT 2021 Graduate Voice & Speech",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 2300",
+            "course_name": "Graduate Intern in Actng",
+            "description": "ACTG-GT 2300 Graduate Intern in Actng",
+            "offering": false
+        },
+        {
+            "course_id": "ACTG-GT 2301",
+            "course_name": "Graduate Intern in Actng",
+            "description": "ACTG-GT 2301 Graduate Intern in Actng",
+            "offering": false
+        }
+    ]
+}

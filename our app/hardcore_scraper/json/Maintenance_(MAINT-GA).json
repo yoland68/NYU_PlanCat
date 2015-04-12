@@ -1,0 +1,54 @@
+{
+    "major_id": "MAINT-GA",
+    "file": "./2015-2016/Maintenance_(MAINT-GA).html",
+    "courses": [
+        {
+            "course_id": "MAINT-GA 4747",
+            "classes": [
+                {
+                    "format": "Maintaining Matriculation",
+                    "class_id": "1425",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Maintaining Matriculation",
+                    "class_id": "1426",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Maintaining Matriculation",
+                    "class_id": "1427",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Maintaining Matriculation",
+                    "class_id": "1428",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Maintain Matriculation",
+            "description": "MAINT-GA 4747 Maintain Matriculation",
+            "offering": true
+        }
+    ]
+}

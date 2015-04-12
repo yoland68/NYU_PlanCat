@@ -1,0 +1,1350 @@
+{
+    "major_id": "MPATC-GE",
+    "file": "./2015-2016/Music_Performance-Theory_&_Composition(MPATC-GE).html",
+    "courses": [
+        {
+            "course_id": "MPATC-GE 2016",
+            "course_name": "Analysis 19th 20th C Mus",
+            "description": "MPATC-GE 2016 Analysis 19th 20th C Mus \nExamination and application of extant methods of analyses appropriate to 19th- and 20th century music.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2018",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4335",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4335",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "16th-Century Counterpoint",
+            "description": "MPATC-GE 2018 16th-Century Counterpoint \nStudy of compositional approaches in the 16th & 18th century including species counterpoint & fugue.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2019",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19152",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 307",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Marlowe, Sarah Rose"
+                }
+            ],
+            "course_name": "18th-Century Counterpoint",
+            "description": "MPATC-GE 2019 18th-Century Counterpoint \nStudy of compositional approaches in the 18th century. Students will engage with 18th-century practice through analysis and model composition.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2020",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "4662",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Suozzo, Mark",
+                    "time": "Fri 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Orchestration",
+            "description": "MPATC-GE 2020 Adv Orchestration \nWriting for the full symphony orchestra.  From classical to contemporary styles the principles of orchestral scoring are examined through both detailed score analysis and writing projects, as well as related topics including transportation, score format, and new notation.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2022",
+            "course_name": "Expanded Music Impact On Teaching",
+            "description": "MPATC-GE 2022 Expanded Music Impact On Teaching \nExploration and use of electronic, multimedia, and other techniques in music programs for the public schools. Conversations with leading contemporary composers.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2023",
+            "course_name": "Tchg Theory: Styl Apprch",
+            "description": "MPATC-GE 2023 Tchg Theory: Styl Apprch \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2026",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "3786",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rowe, Robert",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Colloquy in Music",
+            "description": "MPATC-GE 2026 Colloquy in Music \nDesigned primarily for Master's candidates in music performance and/or composition.  Synthesis for learning based on performace.  Recital and a Master's final written project are required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2028",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3788",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Wolfe, Julia",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Seminar in Composition",
+            "description": "MPATC-GE 2028 Seminar in Composition \nContemporary issues in music composition examined through coordinated individual compositional projects.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2034",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4214",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Wolfe, Julia",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4233",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bush, Christopher",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Instrumental Techniques and Materials: Chamber Music",
+            "description": "MPATC-GE 2034 Instrumental Techniques and Materials: Chamber Music \nRehearsal techniques and special problems in ensemble performance.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2039",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3792",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Underwood, Kent",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Contemporary Music",
+            "description": "MPATC-GE 2039 Contemporary Music \nIn-depth study of selected topics in music since 1945 emphasizing developments in the recent avant-garde.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2042",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4635",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Upham, Finn",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Psychology of Music",
+            "description": "MPATC-GE 2042 Psychology of Music \nThis course considers the effect of music on the human mind. Concepts discussed include our perception of music, psychoacoustics, expressive performance, representations of music, computational models, and the relations between music theory and our perceptions of music.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2046",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3795",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Kozinn, Allan",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Music Criticism",
+            "description": "MPATC-GE 2046 Music Criticism \nExplores the role of critics in the development of individual careers and in more general tendencies in music and the arts.  The approach is largely practical, with discussions of the 'real world' of music and journalism, analysis of published and unpublished reviews, examination of the criteria that go into critical thinking, and the writing of several reviews.  Reading assignments provide historical and theoretical contexts.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2048",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "3798",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Fisch, Irwin",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "3799",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Fisch, Irwin",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Scoring for Film & Multi Media",
+            "description": "MPATC-GE 2048 Scoring for Film & Multi Media \nThe creative and technical processes of composing music for moving image are accomplished through film composition techniques, live recordings, and critical assessments. The practical application of software addresses electronic and live recordings and critical assessment integrating key aspects of timings, MIDI-Mockups, score preparation, and music editing. Scores are composed for graduate films and animated works from the Tisch School of the Arts, as well as a library of pre-exisitng professional rough-cuts.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2049",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4653",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Casanelles, Sergi; Orkin, Andrew",
+                    "time": "Fri 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4656",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Casanelles, Sergi; Orkin, Andrew",
+                    "time": "Fri 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Contemporary Scoring: Creative & Technological Practices",
+            "description": "MPATC-GE 2049 Contemporary Scoring: Creative & Technological Practices \nThis hands-on course is designed to sharpen a composer\u2019s aesthetic as well as proficiency with industry-standard software necessary for composing & producing in film and media.  Students will acquire the skills expected of media composers to produce pristine, professional sounding music required for film, TV, video games, songs & even Broadway productions.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2069",
+            "course_name": "Opera in The 20th Cent",
+            "description": "MPATC-GE 2069 Opera in The 20th Cent \nAn examination of opera from the beginning of the 20th century to the present. An overview of the important works composed within this time period and an in-depth musical examination of selected pre-1950 works. Discussion of issues in present day composition and production of opera, including perspectives from prominent people in the field.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2072",
+            "course_name": "Orchestral Music:1950 to Present",
+            "description": "MPATC-GE 2072 Orchestral Music:1950 to Present \nAn examination of the important orchestral works written from the mid-piont of the 20th century to the present day. A survbey and trends with analysis of selected works by composers of different nationalities. Guest lecture by at least one prominent visiting composer.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2073",
+            "course_name": "Music Lit Classic Era",
+            "description": "MPATC-GE 2073 Music Lit Classic Era \nAn examination of significant works and composers in the classical era.  Historical style and performance practices are researched, discussed, and presented in individual student projects.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2090",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3817",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Galdston, Philip",
+                    "time": "Thu 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Song Writers Forum",
+            "description": "MPATC-GE 2090 Song Writers Forum \nThe Songwriters Forum is an advanced seminar geared toward those students who are experienced in writing popular songs. The class operates as a series of master classes wherein students write  & develop their songs throughout the semester, with numerous opportunities for critique & comment by professional songwriters. Collaborative efforts are encouraged, often pairing lyricists with composers.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2091",
+            "course_name": "Performance Practice",
+            "description": "MPATC-GE 2091 Performance Practice \nReview of historically significant treatises on performance practice.  Application to musical works through papers and class performances.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2095",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4826",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Galdston, Philip; Zanes, Richard",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Songwriting History and Criticism",
+            "description": "MPATC-GE 2095 Songwriting History and Criticism \nThis course will explore the history & development of classic  popular music of the past 60 years. Through a detailed study of 14  profoundly influential songs & recordings, we will examine how art  affects, & is affected by, its cultural & historical moment. Over  the course of the semester, students will engage in musical analysis,  critical listening, & a detailed study of songwriting & recording  techniques. They will also view archival films of relevant musical  artists, & engage in close analysis of selected musical  performances.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2109",
+            "course_name": "Narrative Writing for Music Analysis",
+            "description": "MPATC-GE 2109 Narrative Writing for Music Analysis \nThe course introduces students to the stylistic and analytical norms of writing compelling and well-grounded analyses of music. Students will progress through a series of exercises leading to a substantial music analysis in written narrative form. Students will develop and expand their writing skills in preparation for advanced coursework in music theory and literature, as well as scholarly writing in music.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2123",
+            "course_name": "Analysis of Contemp Prac",
+            "description": "MPATC-GE 2123 Analysis of Contemp Prac \nSeminar in music analysis with emphasis on contemporary composition.  Selected works by Stravinsky, Bartok, Schoenberg, Sessions, Bait, and Carter are discussed using structural and linear reductive analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2127",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3828",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Dello Joio, Justin",
+                    "time": "Fri 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Aesthetics/Compositional Process in Symphony",
+            "description": "MPATC-GE 2127 Aesthetics/Compositional Process in Symphony \nStudents examine the impact of a large scale form on the compositional process.  The course focuses on an in-depth study of the many issues raised in planning and composing symphonic works and the specific aesthetic concerns of composers in the structuring of large-scale symphonic works.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2151",
+            "course_name": "Sonata in 19th Century",
+            "description": "MPATC-GE 2151 Sonata in 19th Century \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2200",
+            "course_name": "Seminar in Music Theory",
+            "description": "MPATC-GE 2200 Seminar in Music Theory \nUnder this general title various courses will be offered that explore music theoretic and analytical topics of current interest. These topics will range from (i) the study and application of an important theoretical framework or analytical approach, to (ii) the close examination of a particular repertory and the theoretical/analytical tools developed for it.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19153",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1102",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Marlowe, Sarah Rose"
+                }
+            ],
+            "course_name": "Seminar Music Theory: Schenkerian Analysis",
+            "description": "MPATC-GE 2201 Seminar Music Theory: Schenkerian Analysis \nThis course will provide students with a thorough grounding in Heinrich Schenker's theory of tonal structure. The associated analytical technique will be developed through weekly assignments and a final project. A number of specialized topics - including the theory's implications to performance, composition, and improvisation - will be explored through readings from the Schenkerian literature.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2202",
+            "course_name": "Sem in Music Theory:The Dissolution of Tonality",
+            "description": "MPATC-GE 2202 Sem in Music Theory:The Dissolution of Tonality \nWhile the music of the turn of the 20th century continues to hold immense fascination for us, the understanding of that music has continued to be a source of controversy in music theory. Different ideas about the relationship between 'late tonality' and 'early tonality' continue to be developed, many of which emphasize continuity rather than rupture. We shall explore these issues through careful study of selected transitional works of the late 19th and early 20th century, including music by Strauss, Schoenberg, Scriabin, Debussy, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2203",
+            "course_name": "",
+            "description": "MPATC-GE 2203\n\n   Music Minimalism\n\nThis course will explore the history and literature of Minimalism in music, focusing on the major American composers grouped under the heading, including La Monte Young, Terry Riley, Steve Reich, and Philip Glass, and including a consideration of a variety of European 'fellow travelers', in particular Louis Andriessen. Minimalism poses particular challenges to the discipline of musical analysis; the course will introduce various models that have been proposed to study features of the repertoire, and develop others. Yet this is very much a 'hands-on' course; we will be performing as well as lis...\n\n      more description for MPATC-GE 2203 \u00bb\n\n      \n\n\n\nThis course will explore the history and literature of Minimalism in music, focusing on the major American composers grouped under the heading, including La Monte Young, Terry Riley, Steve Reich, and Philip Glass, and including a consideration of a variety of European 'fellow travelers', in particular Louis Andriessen. Minimalism poses particular challenges to the discipline of musical analysis; the course will introduce various models that have been proposed to study features of the repertoire, and develop others. Yet this is very much a 'hands-on' course; we will be performing as well as listening and analyzing.\n\n      less description for MPATC-GE 2203 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2204",
+            "course_name": "Music Cognition",
+            "description": "MPATC-GE 2204 Music Cognition \nThis course covers a range of specialized topics in music cognition with a focus on how research in the field can inform the study of music theory and analysis. Topics discussed include the perception of musical structures such as harmony and rhythm as well as higher-level phenomena like expectation and tension. Implications for analysis in the domains of performance, composition, and improvisation are explored. All topics are approached from multiples perspectives including theoretical modeling, experimental psychology, and computation.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2205",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4812",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1102",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Mavromatis, Panayotis"
+                }
+            ],
+            "course_name": "Concepts Time 20Cent Mus",
+            "description": "MPATC-GE 2205 Concepts Time 20Cent Mus",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2206",
+            "course_name": "Sem in Music Theory:The Music of Igor Stravinsky",
+            "description": "MPATC-GE 2206 Sem in Music Theory:The Music of Igor Stravinsky",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2207",
+            "course_name": "",
+            "description": "MPATC-GE 2207\n\n   Seminar In Music Theory:  Recent Approaches to Music Analysis\n\nThe range of music analytical techniques continues to expand as music theory begins to incorporate more and more insights from fields as far flung as mathematics, cognitive psychology, and performance studies while branching out into the study of repertories far removed from the standard canon. In addition, while pitch has long remained the focus of theoretical modeling, new theories of rhythm, form, and timbre have brought increasing sophistication to our understanding of these subdisciplines. This course will provide students with the background to explore a broad spectrum of recent work in ...\n\n      more description for MPATC-GE 2207 \u00bb\n\n      \n\n\n\nThe range of music analytical techniques continues to expand as music theory begins to incorporate more and more insights from fields as far flung as mathematics, cognitive psychology, and performance studies while branching out into the study of repertories far removed from the standard canon. In addition, while pitch has long remained the focus of theoretical modeling, new theories of rhythm, form, and timbre have brought increasing sophistication to our understanding of these subdisciplines. This course will provide students with the background to explore a broad spectrum of recent work in music theory and analysis\n\n      less description for MPATC-GE 2207 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2230",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19646",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Krause, Drew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19647",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Sze, Eva"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19648",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Hough, Matthew T"
+                }
+            ],
+            "course_name": "Review of Tonal Theory I",
+            "description": "MPATC-GE 2230 Review of Tonal Theory I \nThis course will review & extend the material covered in a standard undergraduate music theory sequence, from the phrase of model through elements of tonal counterpoint & chromaticism to a study of large-scale forms.  The focus will be on the Western European tonal traditions of the 18th & 19th centuries, with excursions into 20th century repertory as appropriate.  Lectures will consider the pedagogy of music theory as well as a range of theoretical viewpoints.  Weekly problem sets & analytical assignments will reinforce the class content.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2231",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19660",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Sze, Eva"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19661",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 6.45 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "Dipaolo, Daniel M"
+                }
+            ],
+            "course_name": "Review of Tonal Theory II",
+            "description": "MPATC-GE 2231 Review of Tonal Theory II \nThis course will review & extend the material covered in a standard undergraduate music theory sequence, from the phrase model through elements of tonal counterpoint & chromaticism to a study of large-scale forms.  The focus will be on the Western European tonal tradition of the 18th & 19th centuries, with excursions into 20th century repertories as appropriate.  Lectures will consider the pedagogy of music theory as well as a range of theoretical viewpoints.  Weekly problem sets & analytical assignments will reinforce the class content.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3835",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Park, Tae Hong",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3836",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wolfe, Julia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3837",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ferrara, Lawrence",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3838",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ruthmann, Stephen A",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3839",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Sadoff, Ronald",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3840",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Farbood, Morwaread",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3841",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Suozzo, Mark",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3842",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3843",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3844",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3845",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Peacock, Kenneth",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3846",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rowe, Robert",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3847",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3848",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Mavromatis, Panayotis",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3849",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3850",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3851",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3852",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3853",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3854",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3855",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Bello, Juan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3856",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Roginska, Agnieszka",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3857",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3858",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3859",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3860",
+                    "section": "027",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "MPATC-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2321",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3861",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ha, Young",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3862",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Didkovsky, Nicholas",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3863",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Greenhut, Barry",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3864",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "MacFarlane, Thomas",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3865",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "La Barbara, Joan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3866",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Struck-Marcell, Andrew",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3867",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Oblak, Jerica",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3868",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Krause, Drew",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3869",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Henriques Da Silva, Pedro",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3870",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Naphtali, Dafna",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3871",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rosenhaus, Steven",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3872",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Danila, Sebastian",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3873",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Steckler, Matthew",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3874",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wolfe, Julia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3875",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Consoli, Marc",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3876",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Dello Joio, Justin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3877",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Vinao, Ezequiel",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3878",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Galdston, Philip",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3879",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Swanson, Stefan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3880",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Newborn, Ira",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3881",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Suozzo, Mark",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3882",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Church, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3883",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Patterson, William",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3884",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Eastmond, Barry",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3885",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Kompanek, Rudolph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3886",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Chihara, Paul S",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3887",
+                    "section": "027",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rowe, Robert",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3888",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Subotnick, Morton",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3889",
+                    "section": "029",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wolfert, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3890",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Garfein, Herschel",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3891",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Casanelles, Sergi",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3892",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Fisch, Irwin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3893",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Calitri, Dana",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3894",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3895",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pardo-Tristan, Emiliano",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3896",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Gordon, Michael R",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3897",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Park, Tae Hong",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3898",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Seidman, William L",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3899",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3900",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3901",
+                    "section": "041",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3902",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4183",
+                    "section": "043",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Composition (Private Lessons)",
+            "description": "MPATC-GE 2321 Composition (Private Lessons) \nComposition in all forms and styles including electronic. Electronic laboratory by assignment. Weekly attendance at department Composer's Forum required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2440",
+            "course_name": "Musical Literature of The Baroque Period",
+            "description": "MPATC-GE 2440 Musical Literature of The Baroque Period \nUnder this general title, various courses will be offered that explore the music literature of the Baroque period from various perspectives. These perspectives include (i) aspects of musical style and/or performance practice; (ii) the evolution of musical language as seen through the work of a specific composer and/or genre; and (iii) connections between a repertory and its cultural contexts, including various political, literary, or other currents as they shed light on musical processes.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2441",
+            "course_name": "Baroque Performance Practice",
+            "description": "MPATC-GE 2441 Baroque Performance Practice \nThis course offers students the opportunity to explore topics in historical performance practice ca. 1600-1750. Topics include performance context, phrasing and rhetoric, ornamentation and improvisation, continuo realization, rhythm and notation, tuning and pitch, orchestral and vocal forces, opera, and period instrument construction. Students with performance experience are encouraged to take Baroque Ensemble (E85.1080/2034) in parallel with this course if interested in immediate practical application of the subject matter in a performance setting.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2460",
+            "course_name": "Music Literature of The Romantic Period",
+            "description": "MPATC-GE 2460 Music Literature of The Romantic Period \nUnder this general title, various courses will be offered that explore the music literature of the Romantic period from various perspectives. These perspectives include (i) aspects of musical style and/or performance practice; (ii) the evolution of musical language as seen through the work of a specific composer and/or genre; and (iii) connections between a repertory and its cultural contexts, including various political, literary, or other currents as they shed light on musical processes.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2461",
+            "course_name": "Chamber Music Mendelessohn",
+            "description": "MPATC-GE 2461 Chamber Music Mendelessohn \nAn intensive study of the chamber music of Felix Mendelssohn, across a wide span of his creative life. Representative works will be examined in their entirety. Questions of form at all levels will be studied in relation to current theories, but also for the light they shed on the composer's singular imagination; we shall explore Mendelssohn's roots in Beethoven and Goethe, as well as his links to contemporaries. Issues of analysis and its relation to performance may also be covered.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2471",
+            "course_name": "",
+            "description": "MPATC-GE 2471\n\n   Music of the 20 Century: The Music  of Debussy and Ravel\n\nWhile the traditional grouping of Debussy & Ravel as \"Impressionists\" is unsatisfactory, there are still many reasons to consider them in tandem.  We will explore ways in which both composers tackled the problems of form & of tonality, their relationship to 19th century precursors, the range of influences - literary, non-Western, popular - that helped shape their work & their reception & appropriation by later composers.  The music they produced has long challenged established analytical models, & we shall also focus on the occasionally contradictory solutions that scholars have proposed in re...\n\n      more description for MPATC-GE 2471 \u00bb\n\n      \n\n\n\nWhile the traditional grouping of Debussy & Ravel as \"Impressionists\" is unsatisfactory, there are still many reasons to consider them in tandem.  We will explore ways in which both composers tackled the problems of form & of tonality, their relationship to 19th century precursors, the range of influences - literary, non-Western, popular - that helped shape their work & their reception & appropriation by later composers.  The music they produced has long challenged established analytical models, & we shall also focus on the occasionally contradictory solutions that scholars have proposed in response.\n\n      less description for MPATC-GE 2471 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATC-GE 2550",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4000",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Sadoff, Ronald",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Film Music:Historical Aesthetics/Perspectives",
+            "description": "MPATC-GE 2550 Film Music:Historical Aesthetics/Perspectives \nFrom the pianists & pit orchestra for silent films, to current hybrid scores produced within a digital production landscape, seminal scores drawn from Max Steiner's \"Golden Age\" - to Jerry Goldsmith - to Howard Shore - are analyzed through the lenses of aesthetics, culture, technology & compositional technique.  In the Fall Semester, this class is largely limited to Film Scoring majors.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2555",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4001",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Kasow, Todd",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Music Editing for Film and Multimedia",
+            "description": "MPATC-GE 2555 Music Editing for Film and Multimedia \nMusical, aesthetic, and technical processes of assembling and shaping a film's soundtrack in collaboration with the filmmaker and composer. Collaborative projects encompassing film score recording sessions, an understanding of the music editor's position, responsibilities, and techniques in the post-production process of a film.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2930",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19649",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Krause, Drew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19650",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Sze, Eva"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19651",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Hough, Matthew T"
+                }
+            ],
+            "course_name": "Review of Tonal Theory I",
+            "description": "MPATC-GE 2930 Review of Tonal Theory I \nThis course will review & extend the material covered in a standard undergraduate music theory sequence, from the phrase model through elements of tonal counterpoint & chromaticism to a study of large-scale forms.  The focus will be on the Western European tonal tradition of the 18th & 19th centuries, with excursions into 20th century repertories as appropriate.  Lectures will consider the pedagogy of music theory as well as a range of theoretical viewpoints.  Weekly problem sets & analytical assignments will reinforce the class content.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 2931",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19662",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Sze, Eva"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19663",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1101",
+                    "time": "Tue,Thu 6.45 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "Dipaolo, Daniel M"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19664",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": "EDUC 1101"
+                }
+            ],
+            "course_name": "Review of Tonal Theory II",
+            "description": "MPATC-GE 2931 Review of Tonal Theory II \nThis course will review & extend the material covered in a standard undergraduate music theory sequence, from the phrase model through elements of tonal counterpoint & chromaticism to a study of large-scale forms.  The focus will be on the Western European tonal tradition of the 18th & 19th centuries, with excursions into 20th century repertories as appropriate.  Lectures will consider the pedagogy of music theory as well as a range of theoretical viewpoints.  Weekly problem sets & analytical assignments will reinforce the class content.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATC-GE 3026",
+            "course_name": "Sem in Music+Music Ed",
+            "description": "MPATC-GE 3026 Sem in Music+Music Ed \nDesigned for doctoral students. Study directed toward fulfillment of degree requirements in performance and/or compsition.",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "major_id": "APSC-GA",
+    "file": "./2015-2016/Earth_System_Science_(APSC-GA).html",
+    "courses": [
+        {
+            "course_id": "APSC-GA 1205",
+            "course_name": "Energy Sources and Utilization I",
+            "description": "APSC-GA 1205 Energy Sources and Utilization I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1206",
+            "course_name": "Energy Sources and Utilization II",
+            "description": "APSC-GA 1206 Energy Sources and Utilization II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1210",
+            "course_name": "Pollution Sources and Diffusion I",
+            "description": "APSC-GA 1210 Pollution Sources and Diffusion I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1211",
+            "course_name": "Pollution Sources and Diffusion II",
+            "description": "APSC-GA 1211 Pollution Sources and Diffusion II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1222",
+            "course_name": "Analytical Methods I",
+            "description": "APSC-GA 1222 Analytical Methods I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1223",
+            "course_name": "Analytical Methods II",
+            "description": "APSC-GA 1223 Analytical Methods II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1230",
+            "course_name": "Comp-Aided Solution of Partial Diff Equations",
+            "description": "APSC-GA 1230 Comp-Aided Solution of Partial Diff Equations",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1300",
+            "course_name": "Applied Thermodynamics",
+            "description": "APSC-GA 1300 Applied Thermodynamics",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1302",
+            "course_name": "Applied Fluid Mechanics",
+            "description": "APSC-GA 1302 Applied Fluid Mechanics",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1304",
+            "course_name": "Applied Modern Physics",
+            "description": "APSC-GA 1304 Applied Modern Physics",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1306",
+            "course_name": "Reaction Kinetics",
+            "description": "APSC-GA 1306 Reaction Kinetics",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1400",
+            "course_name": "Fund of Energy I & Geophy SCI I",
+            "description": "APSC-GA 1400 Fund of Energy I & Geophy SCI I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1401",
+            "course_name": "Fund Energy&Geophy Science II",
+            "description": "APSC-GA 1401 Fund Energy&Geophy Science II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1404",
+            "course_name": "Heat & Mass Transfer I",
+            "description": "APSC-GA 1404 Heat & Mass Transfer I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1405",
+            "course_name": "Heat & Mass Transfer II",
+            "description": "APSC-GA 1405 Heat & Mass Transfer II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1410",
+            "course_name": "Atmospheres & Oceans I",
+            "description": "APSC-GA 1410 Atmospheres & Oceans I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1411",
+            "course_name": "Atmospheres & Oceans II",
+            "description": "APSC-GA 1411 Atmospheres & Oceans II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1412",
+            "course_name": "Policy Issues I",
+            "description": "APSC-GA 1412 Policy Issues I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 1413",
+            "course_name": "Policy Issues II",
+            "description": "APSC-GA 1413 Policy Issues II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2206",
+            "course_name": "Fuel Processing",
+            "description": "APSC-GA 2206 Fuel Processing",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2210",
+            "course_name": "Atmosph Fluid Dynamcs I",
+            "description": "APSC-GA 2210 Atmosph Fluid Dynamcs I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2211",
+            "course_name": "Atomsph Fluid Dynamcs II",
+            "description": "APSC-GA 2211 Atomsph Fluid Dynamcs II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2212",
+            "course_name": "Physical Climatology",
+            "description": "APSC-GA 2212 Physical Climatology",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2300",
+            "course_name": "Materials Science",
+            "description": "APSC-GA 2300 Materials Science",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2302",
+            "course_name": "Fossil Energy Systems I",
+            "description": "APSC-GA 2302 Fossil Energy Systems I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2303",
+            "course_name": "Fossol Energy Systems II",
+            "description": "APSC-GA 2303 Fossol Energy Systems II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2304",
+            "course_name": "Turbulence I",
+            "description": "APSC-GA 2304 Turbulence I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2305",
+            "course_name": "Turbulence II",
+            "description": "APSC-GA 2305 Turbulence II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2306",
+            "course_name": "Energy Conversion",
+            "description": "APSC-GA 2306 Energy Conversion",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2307",
+            "course_name": "Enrg Transmission/Storag",
+            "description": "APSC-GA 2307 Enrg Transmission/Storag",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2308",
+            "course_name": "Solar Energy I",
+            "description": "APSC-GA 2308 Solar Energy I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2309",
+            "course_name": "Solar Energy II",
+            "description": "APSC-GA 2309 Solar Energy II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2310",
+            "course_name": "Advanced Oceanography I",
+            "description": "APSC-GA 2310 Advanced Oceanography I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2311",
+            "course_name": "Advanced Oceanography II",
+            "description": "APSC-GA 2311 Advanced Oceanography II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2312",
+            "course_name": "Fission & Fusion I",
+            "description": "APSC-GA 2312 Fission & Fusion I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2313",
+            "course_name": "Fission & Fusion II",
+            "description": "APSC-GA 2313 Fission & Fusion II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2501",
+            "course_name": "Exp Fluid Mechanics I",
+            "description": "APSC-GA 2501 Exp Fluid Mechanics I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2502",
+            "course_name": "Exp Fluid Mechanics II",
+            "description": "APSC-GA 2502 Exp Fluid Mechanics II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2570",
+            "course_name": "Robotics I",
+            "description": "APSC-GA 2570 Robotics I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2571",
+            "course_name": "Robotics II",
+            "description": "APSC-GA 2571 Robotics II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 2830",
+            "course_name": "Numerical Weather Prediction",
+            "description": "APSC-GA 2830 Numerical Weather Prediction",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3200",
+            "course_name": "Gaia: Earth as a System",
+            "description": "APSC-GA 3200 Gaia: Earth as a System",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3201",
+            "course_name": "Stars,Planets & Life",
+            "description": "APSC-GA 3201 Stars,Planets & Life",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3202",
+            "course_name": "Independent Study",
+            "description": "APSC-GA 3202 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3203",
+            "course_name": "Independent Study",
+            "description": "APSC-GA 3203 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3204",
+            "course_name": "Problems in Energy Sc I",
+            "description": "APSC-GA 3204 Problems in Energy Sc I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3205",
+            "course_name": "Problems in Energy Sc II",
+            "description": "APSC-GA 3205 Problems in Energy Sc II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3208",
+            "course_name": "Problems in Env SCI I",
+            "description": "APSC-GA 3208 Problems in Env SCI I",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3209",
+            "course_name": "Problems in Env SCI II",
+            "description": "APSC-GA 3209 Problems in Env SCI II",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3210",
+            "course_name": "Atm Radiation + Photoche",
+            "description": "APSC-GA 3210 Atm Radiation + Photoche",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3220",
+            "course_name": "Earth System Science",
+            "description": "APSC-GA 3220 Earth System Science",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3402",
+            "course_name": "Dissertation Research",
+            "description": "APSC-GA 3402 Dissertation Research",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3403",
+            "course_name": "Dissertation Research",
+            "description": "APSC-GA 3403 Dissertation Research",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3404",
+            "course_name": "Dissertation Research",
+            "description": "APSC-GA 3404 Dissertation Research",
+            "offering": false
+        },
+        {
+            "course_id": "APSC-GA 3405",
+            "course_name": "Dissertation Research",
+            "description": "APSC-GA 3405 Dissertation Research",
+            "offering": false
+        }
+    ]
+}

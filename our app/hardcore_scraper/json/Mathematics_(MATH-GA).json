@@ -1,0 +1,1656 @@
+{
+    "major_id": "MATH-GA",
+    "file": "./2015-2016/Mathematics_(MATH-GA).html",
+    "courses": [
+        {
+            "course_id": "MATH-GA 1001",
+            "course_name": "Intro to Analysis for Bilingual H.S.Tchr Math",
+            "description": "MATH-GA 1001 Intro to Analysis for Bilingual H.S.Tchr Math",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 1002",
+            "course_name": "Multivariable Analysis",
+            "description": "MATH-GA 1002 Multivariable Analysis \nCalculus of several variables: partial differentiation, vector calculus, Stokes? theorem, divergence theorem, infinite series, Taylor?s theorem.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 1003",
+            "course_name": "Int Math Grad St Comp SCI I",
+            "description": "MATH-GA 1003 Int Math Grad St Comp SCI I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 1004",
+            "course_name": "Int Math Grad St Comp SCI II",
+            "description": "MATH-GA 1004 Int Math Grad St Comp SCI II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 1010",
+            "course_name": "Hist of Mathematics I",
+            "description": "MATH-GA 1010 Hist of Mathematics I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 1011",
+            "course_name": "Hist of Mathematics II",
+            "description": "MATH-GA 1011 Hist of Mathematics II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 1410",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1547",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Germain, Pierre"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1548",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 7.15 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Intro to Math Analysis I",
+            "description": "MATH-GA 1410 Intro to Math Analysis I \nRigorous treatment of limits and continuity. Riemann integral. Taylor series. Absolute and uniform convergence. Elements of ordinary and partial differential equations. Functions of several variables and their derivatives. The implicit function theorem, optimization, and Lagrange multipliers. Theorems of Gauss, Stokes, and Green. Fourier series and integrals",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 1420",
+            "course_name": "Intro to Math Analy II",
+            "description": "MATH-GA 1420 Intro to Math Analy II \nRigorous treatment of limits and continuity. Riemann integral. Taylor series. Absolute and uniform convergence. Elements of ordinary and partial differential equations. Functions of several variables and their derivatives. The implicit function theorem, optimization, and Lagrange multipliers. Theorems of Gauss, Stokes, and Green. Fourier series and integrals",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1549",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Stadler, Georg"
+                }
+            ],
+            "course_name": "Numerical Methods I",
+            "description": "MATH-GA 2010 Numerical Methods I \nNumerical linear algebra. Approxima-tion theory. Quadrature rules and numerical integration. Nonlinear equations and optimization. Ordinary differential equations. Elliptic equations. Iterative methods for large, sparse systems. Parabolic and hyperbolic equations.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1774",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 1302"
+                }
+            ],
+            "course_name": "Adv Tpcs in Numerical Analysis:",
+            "description": "MATH-GA 2011 Adv Tpcs in Numerical Analysis:",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2012",
+            "course_name": "Adv Tpcs in Numerical Analysis:",
+            "description": "MATH-GA 2012 Adv Tpcs in Numerical Analysis:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2020",
+            "course_name": "Numerical Methods II",
+            "description": "MATH-GA 2020 Numerical Methods II \nNumerical linear algebra. Approxima-tion theory. Quadrature rules and numerical integration. Nonlinear equations and optimization. Ordinary differential equations. Elliptic equations. Iterative methods for large, sparse systems. Parabolic and hyperbolic equations.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2030",
+            "course_name": "Adv Numerical Analysis:",
+            "description": "MATH-GA 2030 Adv Numerical Analysis: \nProblems from applications such as gas dynamics, combustion, and oil reservoir simulation. Flows with shocks and discontinuities. Adaptive methods. Issues of algorithm design and computer implementation. Parallel computation.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2031",
+            "course_name": "Adv Numerical Analysis:",
+            "description": "MATH-GA 2031 Adv Numerical Analysis: \nConstrained and unconstrained optimization. Topics: Newton?s method and modifications, conjugate gradient and other methods suited to large, sparse systems, conditions of optimality; linear and quadratic programming.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2032",
+            "course_name": "Adv Numerical Analysis:",
+            "description": "MATH-GA 2032 Adv Numerical Analysis:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2040",
+            "course_name": "Adv Numerical Analysis: Finite Element Methods",
+            "description": "MATH-GA 2040 Adv Numerical Analysis: Finite Element Methods \nBasic theory of elliptic equations and calculus of variations. Conforming finite elements. Approximation and interpolation by piecewise polynomial functions. Error bounds. Numerical integration. Nonconforming and isoparametric elements. Mixed methods. Problems of parabolic type.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2041",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1551",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "Computing in Finance",
+            "description": "MATH-GA 2041 Computing in Finance \nAn integrated introduction to software skills and their applications in finance including trading, research, hedging, and portfolio management. Students develop object-oriented software, gaining skill in effective problem solving and the proper use of data structures and algorithms while working with real financial models using historical and market data.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2043",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1552",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Donev, Aleksandar"
+                }
+            ],
+            "course_name": "Scientific Computing",
+            "description": "MATH-GA 2043 Scientific Computing \nMethods for numerical applications in the physical and biological sciences, engineerMethods for numerical applications in the physical and biological sciences, engineering, and finance. Basic principles and algorithms; specific problems from various application areas; use of standard software packages.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2044",
+            "course_name": "Monte Carlo Methods",
+            "description": "MATH-GA 2044 Monte Carlo Methods \nPrinciples of Monte Carlo: sampling methods and statistics, importance sampling and variance reduction, Markov chains and the Metropolis algorithm. Advanced topics such as acceleration strategies, data analysis, and quantum Monte Carlo and the fermion problem.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2045",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1553",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                }
+            ],
+            "course_name": "Computational Mthd for Finance",
+            "description": "MATH-GA 2045 Computational Mthd for Finance \nComputational methods for calibrating models; valuing, hedging, and optimizing portfolios; and assessing risk. Approaches include finite difference methods, Monte Carlo simulation, and fast-Fourier-transform-based methods.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2046",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2399",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 101"
+                }
+            ],
+            "course_name": "Advanced Econometric Modeling and big Data",
+            "description": "MATH-GA 2046 Advanced Econometric Modeling and big Data",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2048",
+            "course_name": "Scientific Computing in Finance",
+            "description": "MATH-GA 2048 Scientific Computing in Finance",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2050",
+            "course_name": "Elem of Discrete Math",
+            "description": "MATH-GA 2050 Elem of Discrete Math",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2053",
+            "course_name": "Scientific Computing",
+            "description": "MATH-GA 2053 Scientific Computing",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2060",
+            "course_name": "Logic,Automata&Languages",
+            "description": "MATH-GA 2060 Logic,Automata&Languages",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2061",
+            "course_name": "Combinatorics/Probabilty",
+            "description": "MATH-GA 2061 Combinatorics/Probabilty",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2062",
+            "course_name": "Combinatorics/Probabilit",
+            "description": "MATH-GA 2062 Combinatorics/Probabilit",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2063",
+            "course_name": "Discrete&Comput Geometry",
+            "description": "MATH-GA 2063 Discrete&Comput Geometry",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2095",
+            "course_name": "Computational Methods for Finance",
+            "description": "MATH-GA 2095 Computational Methods for Finance",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1554",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Kleeman, Richard"
+                }
+            ],
+            "course_name": "Linear Algebra I",
+            "description": "MATH-GA 2110 Linear Algebra I \nLinear spaces and mappings. Matrices and linear equations. Eigenvalues and eigenvectors. Jordan form. Special classes of matrices, spectral theory.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2111",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1555",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Thu 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Rangan, Aaditya"
+                }
+            ],
+            "course_name": "Linear Algebra",
+            "description": "MATH-GA 2111 Linear Algebra \nLinear operators. Spectral theory. Duality theorems. Euclidean and symplectic structure. Matrix valued functions. Matrix inequalities. Convexity.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2120",
+            "course_name": "Linear Algebra II",
+            "description": "MATH-GA 2120 Linear Algebra II \nLinear spaces and mappings. Matrices and linear equations. Eigenvalues and eigenvectors. Jordan form. Special classes of matrices, spectral theory.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2130",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1556",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Thu 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Tschinkel, Yuri"
+                }
+            ],
+            "course_name": "Algebra I",
+            "description": "MATH-GA 2130 Algebra I \nBasic concepts including groups, rings, modules, polynomial rings, field theory, and Galois theory.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2140",
+            "course_name": "Algebra II",
+            "description": "MATH-GA 2140 Algebra II \nBasic concepts including groups, rings, modules, polynomial rings, field theory, and Galois theory.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2150",
+            "course_name": "Adv Tpcs in Algebra:",
+            "description": "MATH-GA 2150 Adv Tpcs in Algebra:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2160",
+            "course_name": "Adv Tpcs in Algebra:",
+            "description": "MATH-GA 2160 Adv Tpcs in Algebra:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2163",
+            "course_name": "Adv Tpcs in Discrete & Comp Geometry:",
+            "description": "MATH-GA 2163 Adv Tpcs in Discrete & Comp Geometry:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2164",
+            "course_name": "Adv Tpcs in Discrete & Comp Geometry:",
+            "description": "MATH-GA 2164 Adv Tpcs in Discrete & Comp Geometry:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2170",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2092",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Mon 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "Regev, Oded"
+                }
+            ],
+            "course_name": "Intro to Cryptography",
+            "description": "MATH-GA 2170 Intro to Cryptography",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2180",
+            "course_name": "Advanced Cryptography",
+            "description": "MATH-GA 2180 Advanced Cryptography",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2210",
+            "course_name": "Elementary Number Thry I",
+            "description": "MATH-GA 2210 Elementary Number Thry I \nIntroduction to the elementary methods of number theory. Topics: arithmetic functions, congruences, the prime number theorem, primes in arithmetic progression, quadratic reciprocity, the arithmetic of quadratic fields.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2220",
+            "course_name": "Elem Number Theory II",
+            "description": "MATH-GA 2220 Elem Number Theory II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2250",
+            "course_name": "Adv Tpcs in Number Theory:",
+            "description": "MATH-GA 2250 Adv Tpcs in Number Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2260",
+            "course_name": "Adv Tpcs in Number Theory:",
+            "description": "MATH-GA 2260 Adv Tpcs in Number Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2270",
+            "course_name": "Topics Math Logic I",
+            "description": "MATH-GA 2270 Topics Math Logic I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2271",
+            "course_name": "Theory of Computation I",
+            "description": "MATH-GA 2271 Theory of Computation I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2272",
+            "course_name": "Theory of Computation II",
+            "description": "MATH-GA 2272 Theory of Computation II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2280",
+            "course_name": "Topics Math Logic II",
+            "description": "MATH-GA 2280 Topics Math Logic II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2281",
+            "course_name": "Adv Tpcs in Math Logic:",
+            "description": "MATH-GA 2281 Adv Tpcs in Math Logic:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2282",
+            "course_name": "Adv Tpcs in Math Logic:",
+            "description": "MATH-GA 2282 Adv Tpcs in Math Logic:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1557",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Young, Robert Ji Wai"
+                }
+            ],
+            "course_name": "Topology I",
+            "description": "MATH-GA 2310 Topology I \nSurvey of point-set topology. Funda-mental groups, homotopy, covering spaces. Singular homology, calculation of homology groups, applications. Homology and cohomology of manifolds. Poincar? duality. Vector bundles. De Rham cohomology and differential forms.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2317",
+            "course_name": "Chem/Phys Carcinogenesis",
+            "description": "MATH-GA 2317 Chem/Phys Carcinogenesis",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2320",
+            "course_name": "Topology II",
+            "description": "MATH-GA 2320 Topology II \nSurvey of point-set topology. Funda-mental groups, homotopy, covering spaces. Singular homology, calculation of homSurvey of point-set topology. Funda-mental groups, homotopy, covering spaces. Singular homology, calculation of homology groups, applications. Homology and cohomology of manifolds. Poincar? duality. Vector bundles. De Rham cohomology and differential forms.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2333",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17315",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Thu 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Cappell, Sylvain"
+                }
+            ],
+            "course_name": "Adv Tpcs in Topology:",
+            "description": "MATH-GA 2333 Adv Tpcs in Topology:",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2334",
+            "course_name": "Adv Tpcs in Topology:",
+            "description": "MATH-GA 2334 Adv Tpcs in Topology:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2350",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1558",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Mon 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Cheeger, Jeff"
+                }
+            ],
+            "course_name": "Differential Geometry I",
+            "description": "MATH-GA 2350 Differential Geometry I \nTheory of curves and surfaces. Riemannian geometry: manifolds, differential forms, and integration. Covariant derivatives and curvature. Differential geometry in the large. Curvature, geodesics, Jacobi fields, comparison theorems, and Gauss-Bonnet theorem.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2360",
+            "course_name": "Differential Geometry II",
+            "description": "MATH-GA 2360 Differential Geometry II \nTheory of curves and surfaces. Riemannian geometry: manifolds, differential forms, and integration. Covariant derivatives and curvature. Differential geometry in the large. Curvature, geodesics, Jacobi fields, comparison theorems, and Gauss-Bonnet theorem.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2400",
+            "course_name": "Adv Tpcs in Geometry:",
+            "description": "MATH-GA 2400 Adv Tpcs in Geometry:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2410",
+            "course_name": "Adv Tpcs in Geometry:",
+            "description": "MATH-GA 2410 Adv Tpcs in Geometry:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2430",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1559",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Mon,Wed 9.35 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Austin, Timothy"
+                }
+            ],
+            "course_name": "Real Variables I",
+            "description": "MATH-GA 2430 Real Variables I \nBasics of the theory of measure and integration, elements of Banach spaces. Metric spaces, Ascoli-Arzela theorem, Radon-Nikodym theorem, Fourier transform, distributions. Sobolev spaces and imbedding theorems. Geometric measure theory, harmonic analysis, functional analysis. Measure theory and convergence theorems.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2440",
+            "course_name": "Real Variables II",
+            "description": "MATH-GA 2440 Real Variables II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2450",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1560",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Tue 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Hang, Fengbo"
+                }
+            ],
+            "course_name": "Complex Variables I",
+            "description": "MATH-GA 2450 Complex Variables I \nAnalytic functions. Cauchy?s theorem and its many consequences. Fractional linear transformations and conformal mappings. Introduction to Riemann surfaces. The Riemann mapping theorems. Entire functions. Special functions.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2451",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1561",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Tue,Thu 1.25 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "Varadhan, Srinivasa"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-GA 2451\n\n   Complex Variables\n\nComplex numbers, the complex plane. Power series, differentiability of convergent power series. Cauchy-Riemann equations, harmonic functions. Conformal maComplex numbers, the complex plane. Power series, differentiability of convergent power series. Cauchy-Riemann equations, harmonic functions. Conformal mapping, linear fractional transformation. Integration, Cauchy integral theorem, Cauchy integral formula. Morera?s theorem. Taylor series, residue calculus. Maximum modulus theorem. Poisson formula. Liouville theorem. Rouche?s theorem. Weierstrass and Mittag-Leffler representation theorems. Si...\n\n      more description for MATH-GA 2451 \u00bb\n\n      \n\n\n\nComplex numbers, the complex plane. Power series, differentiability of convergent power series. Cauchy-Riemann equations, harmonic functions. Conformal maComplex numbers, the complex plane. Power series, differentiability of convergent power series. Cauchy-Riemann equations, harmonic functions. Conformal mapping, linear fractional transformation. Integration, Cauchy integral theorem, Cauchy integral formula. Morera?s theorem. Taylor series, residue calculus. Maximum modulus theorem. Poisson formula. Liouville theorem. Rouche?s theorem. Weierstrass and Mittag-Leffler representation theorems. Singularities of analytic functions, poles, branch points, essential singularities, branch points. Analytic continuation, monodromy theorem, Schwarz reflection principle. Compactness of families of uniformly bounded analytic functions. Integral representations of special functions. Distribution of function values of entire functions.\n\n      less description for MATH-GA 2451 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2453",
+            "course_name": "Sp Top in Complex Variable I",
+            "description": "MATH-GA 2453 Sp Top in Complex Variable I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2454",
+            "course_name": "Sp Top in Complex Variable II",
+            "description": "MATH-GA 2454 Sp Top in Complex Variable II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2460",
+            "course_name": "Complex Variables II",
+            "description": "MATH-GA 2460 Complex Variables II \nAnalytic functions. Cauchy?s theorem and its many consequences. Fractional linear transformations and conformal mappings. Introduction to Riemann surfaces. The Riemann mapping theorems. Entire functions. Special functions.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2470",
+            "course_name": "Ordinary Diff Equatns I",
+            "description": "MATH-GA 2470 Ordinary Diff Equatns I \nExistence, uniqueness, and continuous dependence. Linear ODE. Stability of equilibria. Floquet theory. Poincar?-Bendixson theorem. Additional topics may include bifurcation theory, Hamiltonian mechanics, and singular ODE in the complex plane.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2480",
+            "course_name": "Ordinary Diff Equatns II",
+            "description": "MATH-GA 2480 Ordinary Diff Equatns II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2490",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1562",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Tue 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Masmoudi, Nader"
+                }
+            ],
+            "course_name": "Partial Diff Equations I",
+            "description": "MATH-GA 2490 Partial Diff Equations I \nFirst-order equations. Cauchy-Kowalewsky theorem. Constant-coefficient, second-order equations: Laplace?s, heat, and wave equations. Explicit representation formulas and qualitative methods, such as the maximum principle. Nonlinear equations, e.g., Burger?s and minimal surface equations.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2500",
+            "course_name": "Partial Diff Equation II",
+            "description": "MATH-GA 2500 Partial Diff Equation II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2530",
+            "course_name": "Hilbert Space I",
+            "description": "MATH-GA 2530 Hilbert Space I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2540",
+            "course_name": "Hilbert Space II",
+            "description": "MATH-GA 2540 Hilbert Space II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2550",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17132",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Thu 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Deift, Percy"
+                }
+            ],
+            "course_name": "Functional Analysis I",
+            "description": "MATH-GA 2550 Functional Analysis I \nBanach spaces. Functionals and operators. Principle of uniform boundedness and closed graph theorem. Completely continuous mappings. Invariant subspaces. Linear operators, spectral theorem for self-adjoint operators. Hilbert- Schmidt operators. Semigroups. Fixed-point theorem. Applications.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2560",
+            "course_name": "Functional Analysis II",
+            "description": "MATH-GA 2560 Functional Analysis II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2561",
+            "course_name": "Adv Tpcs in Functional Analysis",
+            "description": "MATH-GA 2561 Adv Tpcs in Functional Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2562",
+            "course_name": "Adv Tpcs in Functional Analysis:",
+            "description": "MATH-GA 2562 Adv Tpcs in Functional Analysis:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2563",
+            "course_name": "Harmonic Analysis",
+            "description": "MATH-GA 2563 Harmonic Analysis \nHardy-Littlewood maximal functions and Marcinkiewicz integrals, singular integrals. Fourier series and Fourier integrals. Interpolation theorems. Applications in partial differential equations.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2564",
+            "course_name": "Harmonic Analysis II",
+            "description": "MATH-GA 2564 Harmonic Analysis II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2610",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2272",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Wed 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Lin, Fang-Hua"
+                }
+            ],
+            "course_name": "Adv Tpcs in Pde:",
+            "description": "MATH-GA 2610 Adv Tpcs in Pde:",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2615",
+            "course_name": "Adv Tpcs in Ode",
+            "description": "MATH-GA 2615 Adv Tpcs in Ode",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2616",
+            "course_name": "Adv Tpcs in Ode",
+            "description": "MATH-GA 2616 Adv Tpcs in Ode",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2620",
+            "course_name": "Adv Tpcs in Pde:",
+            "description": "MATH-GA 2620 Adv Tpcs in Pde:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2650",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1564",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Austin, Timothy"
+                }
+            ],
+            "course_name": "Adv Tpcs in Analysis:",
+            "description": "MATH-GA 2650 Adv Tpcs in Analysis:",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2660",
+            "course_name": "Adv Tpcs in Analysis:",
+            "description": "MATH-GA 2660 Adv Tpcs in Analysis:",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2701",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1565",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Mon 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Giannakis, Dimitrios"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-GA 2701\n\n   Methods of Applied Mathematics\n\nConvergent and divergent asymptotic series. Asymptotic expansion of integrals: steepest descents, Laplace principle, Watson?s lemma, and methods of stationary phase. Regular and singular perturbations of differential equations, the WKB method, boundary-layer theory, matched asymptotic expansions, and multiple-scale analysis. Rayleigh-Schr?dinger perturbatioConvergent and divergent asymptotic series. Asymptotic expansion of integrals: steepest descents, Laplace principle, Watson?s lemma, and methods of stationary phase. Regular and singular perturbations of differential equations, the WKB metho...\n\n      more description for MATH-GA 2701 \u00bb\n\n      \n\n\n\nConvergent and divergent asymptotic series. Asymptotic expansion of integrals: steepest descents, Laplace principle, Watson?s lemma, and methods of stationary phase. Regular and singular perturbations of differential equations, the WKB method, boundary-layer theory, matched asymptotic expansions, and multiple-scale analysis. Rayleigh-Schr?dinger perturbatioConvergent and divergent asymptotic series. Asymptotic expansion of integrals: steepest descents, Laplace principle, Watson?s lemma, and methods of stationary phase. Regular and singular perturbations of differential equations, the WKB method, boundary-layer theory, matched asymptotic expansions, and multiple-scale analysis. Rayleigh-Schr?dinger perturbation theory for linear eigenvalue problems, summation of series, Pade approximation, averaging methods, renormalization groups, weakly nonlinear waves, and geometric optics.\n\n      less description for MATH-GA 2701 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2702",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1784",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Wed 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Hameiri, Eliezer"
+                }
+            ],
+            "course_name": "Fluid Dynamics",
+            "description": "MATH-GA 2702 Fluid Dynamics \nConservation of mass, momentum, and energy. Eulerian and Lagrangian formulations. Basic theory of inviscid incompressible and barotropic fluids. Kinematics and dynamics of vorticity and circulation. Special solutions to the Euler equations: potential flows, rotational flows, conformal mapping methods. The Navier-Stokes equations and special solutions thereof. Boundary layer theory. Boundary conditions. The Stokes equations.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2703",
+            "course_name": "Applied Func Analysis",
+            "description": "MATH-GA 2703 Applied Func Analysis \nGreen?s functions, theory of distributions, generalized Fourier Series, Hilbert and Banach spaces, Riesz representation theorem, integral equations, Fredholm alternative, potential theory, Hilbert-Schmidt kernels, Rayleigh-Ritz method, spectral theory and Sturm-Liouville problems, boundary value problems, elasticity and finite elements, optimization, quadratic variational problems and duality, calculus of variations.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2704",
+            "course_name": "Applied Stochastic Analysis",
+            "description": "MATH-GA 2704 Applied Stochastic Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2706",
+            "course_name": "Pde for Finance",
+            "description": "MATH-GA 2706 Pde for Finance \nPartial differential equations and advanced probability for financial applications. Dynamic programming, Hamilton-Jacobi equations, and viscosity solutions. Parabolic equations, diffusions, and Feynman-Kac. Stochastic games, stopping times, and free boundary problems.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2707",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1566",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "Time Series Analysis & Statistical Arbitrage",
+            "description": "MATH-GA 2707 Time Series Analysis & Statistical Arbitrage \nAn introduction to econometric aspects of financial markets, focusing on the observation and quantification of volatility and on practical strategies for statistical arbitrage.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2708",
+            "course_name": "",
+            "description": "MATH-GA 2708\n\n   Algorithmic Trading & Quantitative Strategies\n\nDevelopment of a quantitative investment and trading framework:  mechanics of trading in the financial markets, some typical trading strategies, modelDevelopment of a quantitative investment and trading framework:  mechanics of trading in the financial markets, some typical trading strategies, modeling of high- frequency data; transaction costs and market impact models, portfolio construction and robust optimization, and optimal betting and execution strategies; simulation techniques, back-testing strategies, and performance measurement. Use of advanced econometric tools and model risk mitigat...\n\n      more description for MATH-GA 2708 \u00bb\n\n      \n\n\n\nDevelopment of a quantitative investment and trading framework:  mechanics of trading in the financial markets, some typical trading strategies, modelDevelopment of a quantitative investment and trading framework:  mechanics of trading in the financial markets, some typical trading strategies, modeling of high- frequency data; transaction costs and market impact models, portfolio construction and robust optimization, and optimal betting and execution strategies; simulation techniques, back-testing strategies, and performance measurement. Use of advanced econometric tools and model risk mitigation techniques throughout the course.\n\n      less description for MATH-GA 2708 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2709",
+            "course_name": "Financial Engineering Model for Corp Finance",
+            "description": "MATH-GA 2709 Financial Engineering Model for Corp Finance \nAdvanced stochastic modeling applications. This course uses simulation as a unifying tool to model all major types of market, credit, and actuarial risks. Application of financial theory to the conceptualization and solution of multifaceted real-world problems.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2710",
+            "course_name": "Mechanics I",
+            "description": "MATH-GA 2710 Mechanics I \nNewtonian mechanics. Lagrangian and Hamiltonian mechanics. Integrable systems. Billiards. Method of averaging. KAM theory. Melnikov method.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2720",
+            "course_name": "Mechanics II",
+            "description": "MATH-GA 2720 Mechanics II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2721",
+            "course_name": "Wave Propagation I",
+            "description": "MATH-GA 2721 Wave Propagation I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2724",
+            "course_name": "Wave Propagation II",
+            "description": "MATH-GA 2724 Wave Propagation II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2730",
+            "course_name": "Elasticity",
+            "description": "MATH-GA 2730 Elasticity",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2740",
+            "course_name": "Adv Tpcs in Elasticity",
+            "description": "MATH-GA 2740 Adv Tpcs in Elasticity",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2741",
+            "course_name": "Linear Programming",
+            "description": "MATH-GA 2741 Linear Programming",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2742",
+            "course_name": "Operations Research",
+            "description": "MATH-GA 2742 Operations Research",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2750",
+            "course_name": "Introduction to Finance",
+            "description": "MATH-GA 2750 Introduction to Finance",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2751",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1567",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Tue 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Kolm, Petter"
+                }
+            ],
+            "course_name": "Risk & Portfolio Mngmnt With Econometrics",
+            "description": "MATH-GA 2751 Risk & Portfolio Mngmnt With Econometrics \nA mathematically sophisticated introduction to the analysis of investments. Core topics include expected utility, risk and return, mean-variance analysis, equilibrium asset pricing models, and arbitrage pricing theory.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2752",
+            "course_name": "Active Portfolio Management",
+            "description": "MATH-GA 2752 Active Portfolio Management \nTheoretical aspects of portfolio construction and optimization, focusing on advanced techniques in portfolio construction, addressing the extensions to traditional mean-variance optimization including robust optimization, dynamical programming and Bayesian choice. Econometric issues associated with portfolio optimization, including estimation of returns, covariance structure, predictability, and the necessary econometric techniques to succeed in portfolio management will be covered.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2753",
+            "course_name": "Advanced Risk Management",
+            "description": "MATH-GA 2753 Advanced Risk Management \nMeasuring and managing the risk of trading and investment positions: interest rate positions, vanilla options positions, and exotic options positions. The portfolio risk management technique of Value-at-Risk, stress testing, and credit risk modeling.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2754",
+            "course_name": "Case Studies & Fin. Modeling",
+            "description": "MATH-GA 2754 Case Studies & Fin. Modeling \nAdvanced topics in quantitative finance, such as dynamic hedging; the volatility surface; local volatility and stochastic volatility models; jump-diffusions; volatility-dependent options; power-law tails and their consequences; behavioral finance.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2755",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1568",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Kolm, Petter"
+                }
+            ],
+            "course_name": "Project & Presentation",
+            "description": "MATH-GA 2755 Project & Presentation",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2756",
+            "course_name": "Capstone Project & Presentation in Scientific Computing",
+            "description": "MATH-GA 2756 Capstone Project & Presentation in Scientific Computing",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2757",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2400",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 101"
+                }
+            ],
+            "course_name": "Regulation and Regulatory Risk Models",
+            "description": "MATH-GA 2757 Regulation and Regulatory Risk Models",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2761",
+            "course_name": "Celestial Mechanics I",
+            "description": "MATH-GA 2761 Celestial Mechanics I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2770",
+            "course_name": "Fluid Dynamics I",
+            "description": "MATH-GA 2770 Fluid Dynamics I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2780",
+            "course_name": "Fluid Dynamics II",
+            "description": "MATH-GA 2780 Fluid Dynamics II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2781",
+            "course_name": "Mathematical Modeling",
+            "description": "MATH-GA 2781 Mathematical Modeling",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2791",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1569",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Wed 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Avellaneda, Marco"
+                }
+            ],
+            "course_name": "Derivative Securities",
+            "description": "MATH-GA 2791 Derivative Securities \nA first course in derivatives valuation. Arbitrage, risk neutral pricing, binomial trees. Black-Scholes theory, early exercise, barriers, interest rate models, floors, caps, swaptions. Introduction to credit-based instruments.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2792",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1570",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 517"
+                }
+            ],
+            "course_name": "Continuous Time Finance",
+            "description": "MATH-GA 2792 Continuous Time Finance \nAdvanced option pricing and hedging using continuous time models: the martingale approach to arbitrage pricing; interests rate models including the Heath-Jarrow-Morton approach and short rate models; the volatility smile/ skew and approaches to accounting for it.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2794",
+            "course_name": "Interest Rate & Credit Models",
+            "description": "MATH-GA 2794 Interest Rate & Credit Models \nAn introduction to widely used fixed income models, emphasizing their implementation and applications to pricing, hedging, and trading strategies. Topics include extraction of the yield curve from market data; pricing and hedging of interest-based instruments using binomial and trinomial tree models calibrated to market data; and credit risk models including applications to the pricing of collateralized debt obligations and the evaluation of credit risk in loan portfolios.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2796",
+            "course_name": "Securitized Products and Energy Derivatives",
+            "description": "MATH-GA 2796 Securitized Products and Energy Derivatives \nTheoretical aspects of portfolio construction and optimization, focusing on advanced techniques in portfolio construction, addressing the extensions to traditional mean-variance optimization including robust optimization, dynamical programming and Bayesian choice. Econometric issues associated with portfolio optimization, including estimation of returns, covariance structure, predictability, and the necessary econometric techniques to succeed in portfolio management.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2797",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1571",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 1302"
+                }
+            ],
+            "course_name": "Credit Markets & Models",
+            "description": "MATH-GA 2797 Credit Markets & Models",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2798",
+            "course_name": "Interest Rate & Fx Models",
+            "description": "MATH-GA 2798 Interest Rate & Fx Models",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2810",
+            "course_name": "Math Methods Electromag Theory I",
+            "description": "MATH-GA 2810 Math Methods Electromag Theory I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2820",
+            "course_name": "Math Method Electromagtc Theory II",
+            "description": "MATH-GA 2820 Math Method Electromagtc Theory II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2830",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1572",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Thu 3.20 PM - 5.05 PM",
+                    "open": true,
+                    "professor": "Majda, Andrew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19190",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Mon 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "O'Neil, Michael"
+                }
+            ],
+            "course_name": "Adv Tpcs in Applied Math",
+            "description": "MATH-GA 2830 Adv Tpcs in Applied Math",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2840",
+            "course_name": "Adv Tpcs in Applied Math",
+            "description": "MATH-GA 2840 Adv Tpcs in Applied Math",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2851",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17446",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 512"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19598",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1314",
+                    "time": "Mon 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Peskin, Charles"
+                }
+            ],
+            "course_name": "Adv Tpcs in Math Biology",
+            "description": "MATH-GA 2851 Adv Tpcs in Math Biology",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2852",
+            "course_name": "Adv Tpcs in Math Biology",
+            "description": "MATH-GA 2852 Adv Tpcs in Math Biology",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2855",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1573",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1314",
+                    "time": "Wed 2.30 PM - 4.20 PM",
+                    "open": true,
+                    "professor": "Rinzel, John"
+                }
+            ],
+            "course_name": "Adv Tpcs in Math Physiology",
+            "description": "MATH-GA 2855 Adv Tpcs in Math Physiology",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2856",
+            "course_name": "Adv Tpcs in Math Physiology",
+            "description": "MATH-GA 2856 Adv Tpcs in Math Physiology",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2861",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17136",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "CIWW 512"
+                }
+            ],
+            "course_name": "Adv Tpcs Fluid Dynamics",
+            "description": "MATH-GA 2861 Adv Tpcs Fluid Dynamics",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2862",
+            "course_name": "Adv Tpcs Fluid Dynamics",
+            "description": "MATH-GA 2862 Adv Tpcs Fluid Dynamics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2863",
+            "course_name": "Adv Tpcs in Math Physics",
+            "description": "MATH-GA 2863 Adv Tpcs in Math Physics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2864",
+            "course_name": "Adv Tpcs in Math Physics",
+            "description": "MATH-GA 2864 Adv Tpcs in Math Physics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2870",
+            "course_name": "Math Methods of Quantum Mech I",
+            "description": "MATH-GA 2870 Math Methods of Quantum Mech I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2880",
+            "course_name": "Math Methods of Quantum Mech II",
+            "description": "MATH-GA 2880 Math Methods of Quantum Mech II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2883",
+            "course_name": "Statistical Mechanics & Kinetic Theory",
+            "description": "MATH-GA 2883 Statistical Mechanics & Kinetic Theory",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2884",
+            "course_name": "Statistical Mechanics II",
+            "description": "MATH-GA 2884 Statistical Mechanics II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2885",
+            "course_name": "Plasma Physics I",
+            "description": "MATH-GA 2885 Plasma Physics I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2886",
+            "course_name": "Plasma Physics II",
+            "description": "MATH-GA 2886 Plasma Physics II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2887",
+            "course_name": "Magnetofluid Dynamics",
+            "description": "MATH-GA 2887 Magnetofluid Dynamics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2901",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1574",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Wed 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Bourgade, Paul"
+                }
+            ],
+            "course_name": "Basic Probability",
+            "description": "MATH-GA 2901 Basic Probability \nProbability as a tool in computer science, finance, statistics, and the natural and social sciences. Independence. Random variables and their distributions. Conditional probability. Laws of large numbers. Central limit theorem. Random walk, Markov chains, and Brownian motion. Selected applications.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2902",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1575",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Goodman, Jonathan"
+                }
+            ],
+            "course_name": "Stochastic Calculus",
+            "description": "MATH-GA 2902 Stochastic Calculus \nAn application-oriented introduction to those aspects of diffusion processes most relevant to finance. Topics include Markov chains; Brownian motion; stochastic differential equations; the Ito calculus; the forward and backward Kolmogorov equations; and Girsanov?s theorem.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2911",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1576",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Wed 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Lubetzky, Eyal"
+                }
+            ],
+            "course_name": "Prob: Limit Theorems I",
+            "description": "MATH-GA 2911 Prob: Limit Theorems I \nThe classical limit theorems: laws of large numbers, central limit theorem, iterated logarithm, arcsine law. Further topics: large deviation theory, martingales, Birkhoff?s ergodic theorem, Markov chains, Shannon?s theory of information, infinitely divisible and stable laws, Poisson processes, and Brownian motion. Applications.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2912",
+            "course_name": "Prob: Limit Theorems II",
+            "description": "MATH-GA 2912 Prob: Limit Theorems II \nThe classical limit theorems: laws of large numbers, central limit theorem, iterated logarithm, arcsine law. Further topics: large deviation theory, martingales, Birkhoff?s ergodic theorem, Markov chains, Shannon?s theory of information, infinitely divisible and stable laws, Poisson processes, and Brownian motion. Applications.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2931",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1577",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Tue,Thu 3.20 PM - 5.05 PM",
+                    "open": true,
+                    "professor": "Zeitouni, Ofer"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17133",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Wed,Fri 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Newman, Charles"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17134",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Mon 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Bakhtin, Yury"
+                }
+            ],
+            "course_name": "Adv Tpcs in Probability:",
+            "description": "MATH-GA 2931 Adv Tpcs in Probability:",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 2932",
+            "course_name": "Adv Tpcs Probability II",
+            "description": "MATH-GA 2932 Adv Tpcs Probability II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2936",
+            "course_name": "Adv Tpcs in Applied Probability",
+            "description": "MATH-GA 2936 Adv Tpcs in Applied Probability",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2962",
+            "course_name": "Mathematical Statistics",
+            "description": "MATH-GA 2962 Mathematical Statistics \nPrinciples and methods of statistical inference. Topics: large sample theory, minimum variance unbiased estimates, method of maximum likelihood, sufficient statistics, Neyman-Pearson theory of hypothesis testing, confidence intervals, regression, nonparametric methods.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 2990",
+            "course_name": "Sem:Current Top in Prob",
+            "description": "MATH-GA 2990 Sem:Current Top in Prob",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3000",
+            "course_name": "Sem:Current Top in Prob",
+            "description": "MATH-GA 3000 Sem:Current Top in Prob",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1578",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Tue 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Buhler, Oliver"
+                }
+            ],
+            "course_name": "Geophys Fluid Dynamics",
+            "description": "MATH-GA 3001 Geophys Fluid Dynamics",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3002",
+            "course_name": "Applied Math for Aos",
+            "description": "MATH-GA 3002 Applied Math for Aos",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3003",
+            "course_name": "Ocean Dynamics",
+            "description": "MATH-GA 3003 Ocean Dynamics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3004",
+            "course_name": "Atmosphere Dynamics",
+            "description": "MATH-GA 3004 Atmosphere Dynamics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1855",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 103",
+                    "time": "Wed 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Holland, David"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17135",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Tue 1.25 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Smith, Kendall"
+                }
+            ],
+            "course_name": "Adv Tpcs in Aos",
+            "description": "MATH-GA 3010 Adv Tpcs in Aos",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3011",
+            "course_name": "Adv Top in Atmosphere",
+            "description": "MATH-GA 3011 Adv Top in Atmosphere",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3040",
+            "course_name": "Seminar in Num Analysis",
+            "description": "MATH-GA 3040 Seminar in Num Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3410",
+            "course_name": "Literature Seminar",
+            "description": "MATH-GA 3410 Literature Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3771",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1579",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MATH-GA 3771 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3772",
+            "course_name": "Independent Study",
+            "description": "MATH-GA 3772 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3773",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1580",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MATH-GA 3773 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3774",
+            "course_name": "Independent Study",
+            "description": "MATH-GA 3774 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3775",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2435",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Practical Training",
+            "description": "MATH-GA 3775 Advanced Practical Training",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3881",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1581",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Master'S Thesis Research",
+            "description": "MATH-GA 3881 Master'S Thesis Research",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3991",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1582",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "MATH-GA 3991 Research",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3992",
+            "course_name": "PhD Research",
+            "description": "MATH-GA 3992 PhD Research",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3993",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1583",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "MATH-GA 3993 Research",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3994",
+            "course_name": "PhD Research",
+            "description": "MATH-GA 3994 PhD Research",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3995",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1584",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "MATH-GA 3995 Research",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3996",
+            "course_name": "PhD Research",
+            "description": "MATH-GA 3996 PhD Research",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-GA 3997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1585",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "MATH-GA 3997 Research",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-GA 3998",
+            "course_name": "PhD Research",
+            "description": "MATH-GA 3998 PhD Research",
+            "offering": false
+        }
+    ]
+}

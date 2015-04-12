@@ -1,0 +1,214 @@
+{
+    "major_id": "PHYS-SHU",
+    "file": "./2015-2016/Physics_(PHYS-SHU).html",
+    "courses": [
+        {
+            "course_id": "PHYS-SHU 11",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13311",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Physics I",
+            "description": "CCSC-SHU   50 | PHYS-SHU   11 Physics I",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-SHU 71",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "17417",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Wang, Xingyu",
+                    "time": "Tue 1.15 PM - 5.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "17418",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Wang, Xingyu",
+                    "time": "Wed 1.15 PM - 5.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "FoS Physics Laboratory",
+            "description": "PHYS-SHU   71 FoS Physics Laboratory",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-SHU 91",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17430",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Band, Yehuda",
+                    "time": "Wed,Thu 8.15 AM - 9.30 AM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17431",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17432",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17433",
+                    "section": "004",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17434",
+                    "section": "005",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Foundations of Physics  I",
+            "description": "PHYS-SHU   91 Foundations of Physics  I",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-SHU 93",
+            "course_name": "Foundations of Physcis II",
+            "description": "PHYS-SHU   93 Foundations of Physcis II",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 95",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17420",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17419",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17421",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Foundations of Physics III",
+            "description": "PHYS-SHU   95 Foundations of Physics III",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-SHU 106",
+            "course_name": "Mathematical Physics",
+            "description": "PHYS-SHU  106 Mathematical Physics \nMathematical preparation for the junior and senior courses in physics. Vector analysis, Fourier series and integrals, ordinary differential equations, matrices, partial differential equations, and boundary-value problems.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 210",
+            "course_name": "Computational Physics",
+            "description": "PHYS-SHU  210 Computational Physics \nIntroduction to computational physics, with an emphasis on fields of current research interest where numerical techniques provide unique physical insight. Topics are chosen from various branches of physics, including numerical solution of ordinary and partial differential equations, eigenvalue problems, Monte Carlo methods\u2028in statistical mechanics, field theory, dynamical systems, and chaos. Prerequisites: CCSC-114 & MATH-112.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 250",
+            "course_name": "Mechanics",
+            "description": "PHYS-SHU  250 Mechanics \nIntermediate-level course on the principles and applications of dynamics. Topics include rotational kinematics and dynamics, conservation laws, central force motion, Lagrange\u2019s and Hamilton\u2019s equations, normal modes and small oscillations, accelerated reference frames, Fourier analysis, and chaos theory. Prerequisites: CCSC-114 & MATH-112.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 251",
+            "course_name": "Electricity and Magnetism",
+            "description": "PHYS-SHU  251 Electricity and Magnetism \nIntroduction to Maxwell's equations with applications to physical problems. Topics include electrostatics, magnetostatics, the solution of the Laplace and Poisson equations, dielectrics and magnetic materials, electromagnetic waves and radiation, Fresnel equations, transmission lines, and wave guides. Prerequisites: CCSC-114 & MATH-112.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 252",
+            "course_name": "Solid State Physics",
+            "description": "PHYS-SHU  252 Solid State Physics \nSolid state physics cover the principles of crystallography; crystal structure; lattice vibrations; band theory\u2014metals and insulators; semiconductors; magnetism; and superconductivity. Topics of current interest such as high temperature super- conductivity, quantum Hall Effect, and fullerenes may be included, depending on interest. Prerequisite: PHYS-250.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 255",
+            "course_name": "Biophysics",
+            "description": "PHYS-SHU  255 Biophysics \nIntroduction to the physical mechanisms underlying biological processes.  Elements of equilibrium and nonequilibrium statistical mechanics are used to explain how the molecular-scale components of biological cells store and process information, how they organize themselves into functional structures, and how these structures cooperatively endow organisms with the ability to eat, move, respond to the environment, communicate and reproduce. Prerequisite: PHYS-250.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 301",
+            "course_name": "Quantum Mechanics",
+            "description": "PHYS-SHU  301 Quantum Mechanics \nDesigned to provide a rigorous mathematical introduction to quantum mechanics, this course covers the Schr\u00f6dinger and Heisenberg description of quantum systems, application to basic atomic structure and simple boundary condition problems, quantum statistics, and perturbation theory. Prerequisites: CCSC-114 & MATH-160.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 302",
+            "course_name": "Statistical Mechanics and Thermodynamics",
+            "description": "PHYS-SHU  302 Statistical Mechanics and Thermodynamics \nTopics include relation of entropy to probability and energy to temperature, the laws of thermodynamics, Maxwell-Boltzmann, Bose-Einstein, and Fermi-Dirac statistics, equations of state for simple gases and chemical and magnetic systems, and elementary theory of phase transitions. Prerequisite: PHYS-250.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 314",
+            "course_name": "Astrophysics",
+            "description": "PHYS-SHU  314 Astrophysics \nIntroduction to modern astrophysical problems with an emphasis on the physical concepts involved: radio, optical, and X-ray astronomy; stellar structure and evolution; white dwarfs, pulsars, and black holes; and galaxies, quasars, and cosmology. Prerequisite: PHYS-250.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-SHU 315",
+            "course_name": "Nuclear and Particle Physics",
+            "description": "PHYS-SHU  315 Nuclear and Particle Physics \nThe phenomenology and experimental foundations of nuclear and particle physics are explored in this course, with emphasis on the fundamental forces underlying particle interactions. Prerequisite: PHYS-250.",
+            "offering": false
+        }
+    ]
+}

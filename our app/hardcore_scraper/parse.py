@@ -5,13 +5,18 @@ import json
 
 def parse_classes(dict, course_el):
     class_el_ls = course_el.find_all("div", id=re.compile("divNYU_CLS_DERIVED_HTMLAREA"))
-    dict["description"] = class_el_ls[0].text.strip()
     class_data_ls = []
     for i in range(1, len(class_el_ls)):
         tmp_dict = parse_classes_text(class_el_ls[i].text)
-        # tmp_dict = class_el_ls[i].text
         class_data_ls.append(tmp_dict)
     dict["classes"] = class_data_ls
+
+def parse_base_course_info(course_dict, course_el):
+    course_dict["description"] = course_el.find("div", id=re.compile("divNYU_CLS_DERIVED_HTMLAREA")).text.strip()
+    course_id_search = re.search(r"{major_id} +\d+".format(major_id=dict["major_id"]), course_dict["description"])
+    whites = re.search(" +", course_id_search.group()).group()
+    course_dict["course_id"] = course_id_search.group().replace(whites, u' ')
+    course_dict["course_name"] = re.search(".*", course_dict["description"][course_id_search.end():]).group().strip()
 
 def parse_classes_text(text):
     text = text.strip()
@@ -21,12 +26,10 @@ def parse_classes_text(text):
     dict = {}
     try:
         if " at " in text and " with " in text:
-            # print("### Has both ###")
             search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) ([MTWFS]{1}.{15,40}M) at (.*) with (.*)", text)
             parts = search.groups()
         elif " at " in text and " with " not in text:
-            # print("### Has only at ###")
-            if re.search("2015 +with", text):
+            if re.search("2015 +at", text):
                 search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) at (.*)", text)
                 parts = list(search.groups())
                 parts.insert(4, None)
@@ -37,7 +40,7 @@ def parse_classes_text(text):
                 parts.insert(5, None) #Location is None
         elif " at " not in text and " with " in text:
             # print("### Has only with ###")
-            if re.search("2015 +at", text):
+            if re.search("2015 +with", text):
                 search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) with (.*)", text)
                 parts = list(search.groups())
                 parts.insert(4, None)
@@ -54,11 +57,13 @@ def parse_classes_text(text):
         else:
             import ipdb; ipdb.set_trace()
 
-        dict["classId"], dict["section"], dict["format"], dict["period"], dict["time"], dict["location"], dict["professor"] = parts
+        dict["class_id"], dict["section"], dict["format"], dict["period"], dict["time"], dict["location"], dict["professor"] = parts
+        dict["format"] = dict["format"].strip()
         dict["open"] = True if "Open" in text else False
     except:
         import traceback; traceback.print_exc();
-        import ipdb; ipdb.set_trace()
+        sys.exit()
+        # import ipdb; ipdb.set_trace()
     return dict
 
 
@@ -66,9 +71,10 @@ def parse_classes_text(text):
 if __name__ == "__main__":
     dict = {}
     file_name = sys.argv[1] if len(sys.argv) == 2 else "./2015-2016/Economics_(ECON-UA).html"
+    print("\n###\n{0}".format(file_name))
     with open(file_name, "r") as f:
         soup = BeautifulSoup(f.read())
-        dict["majorID"]=re.search("\(.*\)", file_name).group().replace("(", "").replace(")", "")
+        dict["major_id"]=re.search("\(.*\)", file_name).group().replace("(", "").replace(")", "")
         dict["file"]=file_name
 
     course_ls = soup.find_all("table", id=re.compile("ACE_NYU_CLS_SBDTLVW_CRSE_ID")) #find all courses
@@ -77,11 +83,10 @@ if __name__ == "__main__":
         course_dict = {}
         if "No Classes Scheduled for the Terms Offered" in str(course_el.find("span", "SSSTEXTBLUE")):
             course_dict["offering"]=False
-            course_dict["description"] = course_el.find("div", id=re.compile("divNYU_CLS_DERIVED_HTMLAREA")).text.strip()
-            import ipdb; ipdb.set_trace()
-            course_dict["courseID"] = re.search("{0} \d+".format(dict["majorID"]), course_dict["description"]).group()
+            parse_base_course_info(course_dict, course_el)
         else:
-            course_dict["offering"]=True
+            course_dict["offering"] = True
+            parse_base_course_info(course_dict, course_el)
             parse_classes(course_dict, course_el)
         course_data.append(course_dict)
     dict["courses"] = course_data

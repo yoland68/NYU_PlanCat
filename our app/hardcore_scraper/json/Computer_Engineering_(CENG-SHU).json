@@ -1,0 +1,94 @@
+{
+    "major_id": "CENG-SHU",
+    "file": "./2015-2016/Computer_Engineering_(CENG-SHU).html",
+    "courses": [
+        {
+            "course_id": "CENG-SHU 201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13285",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "13286",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CENG-SHU  201\n\n   Digital Logic\n\nThis module provides a rigorous introduction to topics in digital logic design. Introductory topics include: classification of digital systems, number systems and binary arithmetic, error detection and correction, and switching algebra. Combinational design analysis and synthesis topics include: logic function optimization, arithmetic units such as adders and subtractors, and control units such as decoders and multiplexers. In-depth discussions on memory elements such as various types of latches and flip-flops, finite state machine analysis and design, random access memories, FPGAs, and high-l...\n\n      more description for CENG-SHU  201 \u00bb\n\n      \n\n\n\nThis module provides a rigorous introduction to topics in digital logic design. Introductory topics include: classification of digital systems, number systems and binary arithmetic, error detection and correction, and switching algebra. Combinational design analysis and synthesis topics include: logic function optimization, arithmetic units such as adders and subtractors, and control units such as decoders and multiplexers. In-depth discussions on memory elements such as various types of latches and flip-flops, finite state machine analysis and design, random access memories, FPGAs, and high-level hardware description language programming such as VHDL or Verilog. Timing hazards, both static and dynamic, programmable logic devices, PLA, PAL and FPGA will also be covered. Prerequisite: None.\n\n      less description for CENG-SHU  201 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CENG-SHU 202",
+            "course_name": "",
+            "description": "CENG-SHU  202\n\n   Computer Architecture\n\nThe main ambition of this course is to teach you how a modern computer works, starting from its most elementary components (transistors, resistors, capacitors) and then climbing up the ladder of abstraction to reach a high-level programming language like C and its compilation in machine code. In this excursion, we will learn (among other things) how to turn electrons into digital logic, how to make machine instructions execute faster through pipelining and prediction, and how to organize memory in hierarchies in order to make it more efficient. Since the only way to learn computer architecture...\n\n      more description for CENG-SHU  202 \u00bb\n\n      \n\n\n\nThe main ambition of this course is to teach you how a modern computer works, starting from its most elementary components (transistors, resistors, capacitors) and then climbing up the ladder of abstraction to reach a high-level programming language like C and its compilation in machine code. In this excursion, we will learn (among other things) how to turn electrons into digital logic, how to make machine instructions execute faster through pipelining and prediction, and how to organize memory in hierarchies in order to make it more efficient. Since the only way to learn computer architecture is by practicing it, we will design a register transfer level (RTL) implementation of a MIPS-like processor in Verilog, and implement a simulator of the very same architecture in C. \n\nPreliminary syllabus of the course.\n\nGeneral introduction to the course \nDataflow and parallelism \nFrom silicon to transistors \nThe digital abstraction \nNumber systems \nProgramming in C: basic types and control flow \nProgramming in C: arrays, strings and functions \nProgramming in C: pointers, structures and unions \nProgramming in C: linked lists and beyond\nProgramming in C: the Unix System interface \nBoolean logic \nKarnaugh maps \nLatches and flip-flops \nFinite state machines \nBinary and Synchronous Decision Diagrams \nProgramming and simulating in Verilog [part I] \nProgramming and simulating in Verilog [part II] \nDigital building blocks \nCompilation from C to MIPS \nSingle-cycle microarchitectures \nMulti-cycle microarchitectures \nPipelining and dependence hazards \nOut-of-order execution\nMemory hierarchies and cache\nVirtual memory \nMemory models and multiprocessor programming\n\n      less description for CENG-SHU  202 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 213",
+            "course_name": "Database Systems",
+            "description": "CENG-SHU  213 Database Systems \nThe course covers modeling an application and logical database design, the relational model and relational data definition and data manipulation languages, design of relational databases and normalization theory, physical database design, query processing and optimization, transaction processing focusing on concurrency and recovery. The labs emphasize experiential learning of database systems and applications and an insight into various database management systems and query languages. Prerequisite: CSCI-101.",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 302",
+            "course_name": "Compilers",
+            "description": "CENG-SHU  302 Compilers \nTopics include: structure of one-pass and multiple-pass compilers, symbol table management, lexical analysis; traditional and automated parsing techniques including recursive descent and LR parsing; syntax-directed translation and semantic analysis, run-time storage management, intermediate code generation; and introduction to optimization, code generation; and interpreters. Prerequisites: CSCI-101and 370.",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 303",
+            "course_name": "",
+            "description": "CENG-SHU  303\n\n   Parallel and Distributed Computing\n\nThis subject aims to help students to get the most out of parallel and distributed computer systems, i.e. to understand the interaction between hardware and software parts of the system, to understand the power and limitations of parallel and distributed systems and to understand the beneficial and challenging aspects of parallelism. Upon completion of this subject the student should be able to understand the fundamental aspects of parallel and distributed processing and the theoretical limitations of parallel computing such as intractability, become familiar with taxonomies of parallel system...\n\n      more description for CENG-SHU  303 \u00bb\n\n      \n\n\n\nThis subject aims to help students to get the most out of parallel and distributed computer systems, i.e. to understand the interaction between hardware and software parts of the system, to understand the power and limitations of parallel and distributed systems and to understand the beneficial and challenging aspects of parallelism. Upon completion of this subject the student should be able to understand the fundamental aspects of parallel and distributed processing and the theoretical limitations of parallel computing such as intractability, become familiar with taxonomies of parallel systems and performance measures for parallel systems, and write efficient parallel application program. Prerequisite: CENG-202\n\n      less description for CENG-SHU  303 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 304",
+            "course_name": "Computer Security",
+            "description": "CENG-SHU  304 Computer Security \nThis course covers cryptographic systems. Topics: Capability and access control mechanisms, authentication models, protection models. Database and operating system security issues, mobile code, security kernels. Malicious code, Trojan horses and computer viruses. Security policy formation and enforcement, legal aspects and ethical aspects. Prerequisites: CSCI-215 and CENG-350.",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 306",
+            "course_name": "",
+            "description": "CENG-SHU  306\n\n   Intelligent Systems\n\nThis course gives an introduction to artificial intelligence. The students will learn about intelligent agents that can make near-optimal decisions in a timely manner with incomplete information and limited computational resources. The course will address search with single and multiple agents, Markov decision processes, reinforcement learning, and tracking. The course includes problem solving and search algorithms, reasoning and fuzzy and probabilistic methods, pattern recognition and neural networks, and genetic algorithms and a brief overview of natural language processing and computer visi...\n\n      more description for CENG-SHU  306 \u00bb\n\n      \n\n\n\nThis course gives an introduction to artificial intelligence. The students will learn about intelligent agents that can make near-optimal decisions in a timely manner with incomplete information and limited computational resources. The course will address search with single and multiple agents, Markov decision processes, reinforcement learning, and tracking. The course includes problem solving and search algorithms, reasoning and fuzzy and probabilistic methods, pattern recognition and neural networks, and genetic algorithms and a brief overview of natural language processing and computer vision. The course will provide an engineering context to the mind, psychology, and neuroscience. Prerequisite: CENG-202.\n\n      less description for CENG-SHU  306 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 350",
+            "course_name": "Embedded Systems",
+            "description": "CENG-SHU  350 Embedded Systems \nThis course presents an overview of Embedded Systems covering a selection of topics including Microcontroller Architecture, Assembler Programming, Interrupts, Peripheral Interfacing, Embedded System Design, Higher-Level Languages on Embedded Systems, as well as a brief introduction to Real-Time Operating Systems. Practical Lab Exercises complement the lectures. The students will further specialize and consolidate their knowledge through semester-long hands-on projects. Prerequisite: CENG-202.",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 351",
+            "course_name": "",
+            "description": "CENG-SHU  351\n\n   Computer Networks\n\nThe course introduces the basic concepts of computer and communication networks, like flow control, congestion control, end-to-end reliability, routing, framing, error-recovery, multiple access and statistical multiplexing. In-depth presentation of the different networking layers, with emphasis on the Internet reference model. Protocols and architectures such as the TCP, IP, Ethernet, wireless networks etc. are described in order to illustrate important networking concepts. Introduction to quantitative analysis and modeling of networks. The labs cover basic concepts of computer networking and ...\n\n      more description for CENG-SHU  351 \u00bb\n\n      \n\n\n\nThe course introduces the basic concepts of computer and communication networks, like flow control, congestion control, end-to-end reliability, routing, framing, error-recovery, multiple access and statistical multiplexing. In-depth presentation of the different networking layers, with emphasis on the Internet reference model. Protocols and architectures such as the TCP, IP, Ethernet, wireless networks etc. are described in order to illustrate important networking concepts. Introduction to quantitative analysis and modeling of networks. The labs cover basic concepts of computer networking and applications, and require students to use existing networking APIs to create and build computer network prototypes and real-life applications. Prerequisite: CSCI-101.\n\n      less description for CENG-SHU  351 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 400",
+            "course_name": "Senior Capstone Design Project I",
+            "description": "CENG-SHU  400 Senior Capstone Design Project I \nSenior Capstone Design Project I. Prerequisite: Senior Standing.",
+            "offering": false
+        },
+        {
+            "course_id": "CENG-SHU 401",
+            "course_name": "Senior Capstone Design Project II",
+            "description": "CENG-SHU  401 Senior Capstone Design Project II \nSenior Capstone Design Project II. Prerequisite: CENG-400.",
+            "offering": false
+        }
+    ]
+}

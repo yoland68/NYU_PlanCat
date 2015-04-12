@@ -1,0 +1,741 @@
+{
+    "major_id": "MPADE-GE",
+    "file": "./2015-2016/Dance_Education_(MPADE-GE).html",
+    "courses": [
+        {
+            "course_id": "MPADE-GE 2001",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4038",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Damast, Deborah; Saenz, Belinda09/02/2015 - 12/15/2015 Fri 10.00 AM - 11.00 AM",
+                    "time": "Fri 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4628",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cohen, Patricia; Porter, Claire09/02/2015 - 12/15/2015 Fri 1.30 PM - 2.30 PM with Cohen, Patricia; Porter, Claire",
+                    "time": "Fri 1.30 PM - 3.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Common-Hour Dance",
+            "description": "MPADE-GE 2001 Common-Hour Dance",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2010",
+            "course_name": "Dnc/Mut Hlth Wk Holistic",
+            "description": "MPADE-GE 2010 Dnc/Mut Hlth Wk Holistic",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2012",
+            "course_name": "Contemp Dance Orig/Trend",
+            "description": "MPADE-GE 2012 Contemp Dance Orig/Trend",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2014",
+            "course_name": "Pers Grp Dynam & Ment Il",
+            "description": "MPADE-GE 2014 Pers Grp Dynam & Ment Il",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2015",
+            "course_name": "Dance Therapy Colloquium",
+            "description": "MPADE-GE 2015 Dance Therapy Colloquium",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2016",
+            "course_name": "Dance Movem Therapy Colloquium II",
+            "description": "MPADE-GE 2016 Dance Movem Therapy Colloquium II",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2017",
+            "course_name": "Dance for Older Adult Treatment",
+            "description": "MPADE-GE 2017 Dance for Older Adult Treatment \nApplication of techniques of dance to problems of aging.  Survey of dance to problems of aging.  Survey of the physiological, psychological, and sociological aspects of the aging process with particular implications for those working in the mental health field.  Identification of problems related to limited movement capabilities and the leader's role in expanding these capabilities.  Field trips arranged; registrants pay for their own travel.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2019",
+            "course_name": "Dance Movem Ther Primary Treatment",
+            "description": "MPADE-GE 2019 Dance Movem Ther Primary Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2021",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4112",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Saenz, Belinda",
+                    "time": "Thu 2.15 PM - 4.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intercultural Dance",
+            "description": "MPADE-GE 2021 Intercultural Dance \nStudy of dance as cultural practice, exploring dance from a broad spectrum of cultures. Focus on theoretical and practical application of key concepts and dance forms as they relate to cultural identity, representation, and education. Includes critical analysis of dance in the studio, film, and written materials. Implications for curriculum and instruction are stressed.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2022",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17743",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Webb, Carolyn; McBee, Ronald",
+                    "time": "Wed 6.45 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4111",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cooper, Kelvin; Wentworth, Bradley",
+                    "time": "Wed 1.00 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "African Dance",
+            "description": "MPADE-GE 2022 African Dance \nA survey course in African dance with accompanying songs, music, and simple instructions of the regions of West, East, Central, and South Africa.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2023",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4475",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Blumenfeld, Barry",
+                    "time": "Fri 4.00 PM - 6.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Tap Dance",
+            "description": "MPADE-GE 2023 Tap Dance \nBasic course in jazz tap, waltz clog, and soft-shoe styles of tap dance.  Relates the cultural and generic origins of these styles to their introduction to and development in theatre as performing art.  Includes fundamental skills and traditional steps and sequences for creating tap dance choreography.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2025",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4629",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Elliott, Kimberly",
+                    "time": "Wed 6.45 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4649",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Elliott, Kimberly",
+                    "time": "Wed 4.15 PM - 6.20 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MPADE-GE 2025\n\n   Hip  Hop Dance Technique and Pedagogy\n\nExploration of the vernacular & theatrically influenced forms of Hip Hop dance including but not limited to Breaking, Popping, Locking & Krumping & identifying commonalities & differences within the Hip Hop practices. Focusing on the historical & cultural context & its importance to education in the various schools of dance sectors, students will experience pedagogical approaches, along with approaches to technique, improvisation & cognitive content. Classes will be conducted to Hip Hop, house & dance music from the past three decades. Classes will be begin with a set warm-up & follow with str...\n\n      more description for MPADE-GE 2025 \u00bb\n\n      \n\n\n\nExploration of the vernacular & theatrically influenced forms of Hip Hop dance including but not limited to Breaking, Popping, Locking & Krumping & identifying commonalities & differences within the Hip Hop practices. Focusing on the historical & cultural context & its importance to education in the various schools of dance sectors, students will experience pedagogical approaches, along with approaches to technique, improvisation & cognitive content. Classes will be conducted to Hip Hop, house & dance music from the past three decades. Classes will be begin with a set warm-up & follow with stretching & conditioning exercises. Depending on the week\u2019s focus, there will be across-the-floor progression series & practice techniques of that week\u2019s particular hip-hop dance form. Class will always conclude with a combination that incorporates that week\u2019s dance form & other hip-hop dance forms.\n\n      less description for MPADE-GE 2025 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2029",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4039",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Webb, Carolyn",
+                    "time": "Mon 6.45 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Jazz Dance Techniques",
+            "description": "MPADE-GE 2029 Jazz Dance Techniques \nAnalysis of jazz as a dance discipline- introductory level.  Includes composition.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2039",
+            "course_name": "Myth & Image in Dance of Isadora Duncan",
+            "description": "MPADE-GE 2039 Myth & Image in Dance of Isadora Duncan \nDuncan form and content explored in individual creative processes and her movement visualizations. Relationships become evident through class analysis of myth, masterworks in art history, letters, and Isadora's technique, choreography, and improvisation.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2040",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4040",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Damast, Deborah09/02/2015 - 12/15/2015 Tue 4.55 PM - 8.00 PM with Damast, Deborah",
+                    "time": "Tue 4.55 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MPADE-GE 2040\n\n   Intermediate Technique: Modern Dance\n\nThis course focuses on developing conceptual, experiential, & pedagogic knowledge in five historical dance education traditions: Graham, Hawkins, Dunham, Horton, & Taylor, & 2 modern fusion techniques that incorporate working with differently abled populations. The course will introduce students to the theories & kinesthetic ideas of each of these choreographer/educators, & students will work closely with the accompanist to learn techniques of accompaniment for these styles. Students will investigate the concepts & constructs of a dance \u201ctechnique\u201d & what purpose technique classes serve to the...\n\n      more description for MPADE-GE 2040 \u00bb\n\n      \n\n\n\nThis course focuses on developing conceptual, experiential, & pedagogic knowledge in five historical dance education traditions: Graham, Hawkins, Dunham, Horton, & Taylor, & 2 modern fusion techniques that incorporate working with differently abled populations. The course will introduce students to the theories & kinesthetic ideas of each of these choreographer/educators, & students will work closely with the accompanist to learn techniques of accompaniment for these styles. Students will investigate the concepts & constructs of a dance \u201ctechnique\u201d & what purpose technique classes serve to the dancer & choreographer, including the use of technology & assessment to enhance student experience & comprehension.\n\n      less description for MPADE-GE 2040 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2041",
+            "course_name": "Primer Pedagogy I Duncan",
+            "description": "MPADE-GE 2041 Primer Pedagogy I Duncan \nTechnique, choreography, and pedagogy of Isadora; an  entry-level study of sources and principles of Duncan Dance.  Includes participation in the techniques and observation of ongoing children's classes: Turtle Bay Music School or other locations.  Students must pay for their own transportation.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2042",
+            "course_name": "Effort/Shape Analysis II",
+            "description": "MPADE-GE 2042 Effort/Shape Analysis II \nFurther exploration of effort elements and their combinations as well as an introduction to more complex spatial orientations and adaptations.  Provides training in skills and recognition of movement patterning and increased familiarity with symbolic representation and notation of movement qualities.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2044",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4041",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Barylick, Martha",
+                    "time": "Mon 4.35 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4630",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Porter, Claire",
+                    "time": "Mon 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Laban Movement Analysis",
+            "description": "MPADE-GE 2044 Laban Movement Analysis \nIntroductory experience in Laban's sytem of qualitative movement analysis, including the basic body, space, and dynamic elements. Provides skill practice and observation, particularly in understanding one's personal movement style.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2050",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17741",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Flores, Carla",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Analysis of Dance Technique and Performance",
+            "description": "MPADE-GE 2050 Analysis of Dance Technique and Performance",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2075",
+            "course_name": "Advanced Technique and Pedagogy:",
+            "description": "MPADE-GE 2075 Advanced Technique and Pedagogy: \nThis course centers on advanced skills in modern dance technique with focus on movement precision, musicality, & performance leading to pedagogy. Emphasis is on expanding individual\u2019s technical & expressive capabilities & developing instructional ability in modern pedagogy. Students will investigate the concepts & constructs of their home dance \u201ctechnique\u201d from a pedagogical perspective, including the use of technology & assessment to enhance student experience & comprehension.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2077",
+            "course_name": "Advanced Dance Practicum",
+            "description": "MPADE-GE 2077 Advanced Dance Practicum \nIndividualized projects in dance, research, production, choreography, or related arts for advanced students in the arts.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2257",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4670",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lukens, Raymond",
+                    "time": "Mon,Wed,Thu 9.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MPADE-GE 2257\n\n   Theory/Methodology in Ballet Pedagogy\n\nDuring this course, students examine the American Ballet Theatre National Training Curriculum Level Pre-Primary to Level 5 with attention to established theory, terminology & methodology. Students will learn the sequence, as well as common teaching & learning faults of the program through technique class as well as seminars in pedagogy & dancer health. Includes music studies as related to the needs of class work. Students take the Pre-Primary to Level 3 ABT National Training Curriculum certification examination. Culminating project is an analysis of the Pre-Primary to level 3 National Training...\n\n      more description for MPADE-GE 2257 \u00bb\n\n      \n\n\n\nDuring this course, students examine the American Ballet Theatre National Training Curriculum Level Pre-Primary to Level 5 with attention to established theory, terminology & methodology. Students will learn the sequence, as well as common teaching & learning faults of the program through technique class as well as seminars in pedagogy & dancer health. Includes music studies as related to the needs of class work. Students take the Pre-Primary to Level 3 ABT National Training Curriculum certification examination. Culminating project is an analysis of the Pre-Primary to level 3 National Training Curriculum.\n\n      less description for MPADE-GE 2257 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2263",
+            "course_name": "Methods of Dance Assessment",
+            "description": "MPADE-GE 2263 Methods of Dance Assessment \nCourse covers all forms of evaluation & testing that define & record levels of aptitude & achievement within the dance classroom. In this course, we will explore tacit understandings & expectations.  The course will also strive to understand the tools & instruments of assessment as we attempt to embody & design them organically in teaching & learning.  We will also envision how assessment can make an educator more reflective, responsive & effective to meet the needs of the students, school community & his or her own teaching practice.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2265",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4042",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Koff, Susan",
+                    "time": "Wed 4.30 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Meth/Mat in Tch Dance",
+            "description": "MPADE-GE 2265 Meth/Mat in Tch Dance \nLearning in, through, and about dance is the focus of this course which investigates contemporary educational theory, curriculum development and assessment approaches basic to the establishment of a teaching method in dance. Focus on understanding dance education in the context of general education learning environments (K-12) in multicultural settings, incorporating the National, State, and New York City Standards in Dance Education; and exploring how dance enhances social and cognitive skills critical to the developing child. Learning through and about dance is the focus of this course.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2266",
+            "course_name": "Arts Resources for Dance Education",
+            "description": "MPADE-GE 2266 Arts Resources for Dance Education \nExploration of major arts and education venues in the NYC community. Students will engage in experiential fieldtrips to research centers, performance-based education centers, professional development venues and materials venues (ex. NYPL Performing Arts Library, the Joyce Theatre, The Field, Materials for the Arts). Students will network with education directors, assess program designs and learn about volunteer and employment opportunities.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2267",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4043",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lukens, Raymond",
+                    "time": "Mon,Wed,Thu 9.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Theory/Method Ballet Pedagogy ABT Training Curriculum",
+            "description": "MPADE-GE 2267 Theory/Method Ballet Pedagogy ABT Training Curriculum \nStudents examine a model Ballet syllaus for ages 5-18 with attnetion to established theory, terminology and methodology.  Students will learn the sequence of as well as common teaching and learning faults of the children's syllabus through a daily class as well as a pedagogy seminar. Including survey of the different kinds of accompaniment (live and recorded music, percussion scores, the spoken word). Students select or prepare accompaniment for dance techniques and compositions.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2268",
+            "course_name": "Teaching Apprenticeship in Ballet Pedagogy",
+            "description": "MPADE-GE 2268 Teaching Apprenticeship in Ballet Pedagogy \nStudents plan, conduct and evaluate a teaching apprenticeship for ages 5-12 in which they demonstrate proficiency in use of biomechanics, artistic imagery, musical accompaniment and insight on the needs of the developing dance student's professioanl and recreational tracks of study.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2269",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4044",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lukens, Raymond09/02/2015 - 12/15/2015 Tue,Thu,Fri 10.00 AM - 12.00 PM",
+                    "time": "Tue,Thu,Fri 9.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Analysis & Teaching Apprenticeship in Ballet",
+            "description": "MPADE-GE 2269 Adv Analysis & Teaching Apprenticeship in Ballet \nStudents place, conduct and evaluate a teaching apprenticeship for adolescents in which they demonstrate proficiency in the use of biomechanics, artistic imagery, musical accompaniment and insight on the needs of the developing dance student at professional and recreational tracks of study.  Additionally, students will examine and prepare a Ballet choreography and differentiate its elements according to the developmental needs of students ages 5-9, 10-13, and 14-18.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2272",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4167",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cohen, Patricia",
+                    "time": "Mon 6.45 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Jazz Dance Culture & Pedagogy",
+            "description": "MPADE-GE 2272 Jazz Dance Culture & Pedagogy",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2273",
+            "course_name": "Internship in Dance",
+            "description": "MPADE-GE 2273 Internship in Dance \nSupervised internships in dance.  Placements in pre approved public or private schools, colleges, special schools, or community agencies.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2274",
+            "course_name": "Intern Dance Mov Therapy",
+            "description": "MPADE-GE 2274 Intern Dance Mov Therapy",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2276",
+            "classes": [
+                {}
+            ],
+            "course_name": "Fldwrk Dance:Elem/Scndry Schools",
+            "description": "MPADE-GE 2276 Fldwrk Dance:Elem/Scndry Schools \nSupervised fieldwork in dance inclusive of both elementary and secondary placements in public or private school settings. Fieldwork includes classroom observations, critical field reports, goal setting and feedback conferences, as well as assisting, teaching, and participation in school dance projects.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2277",
+            "classes": [
+                {}
+            ],
+            "course_name": "Fieldwork in Dance:High Educ and Professions",
+            "description": "MPADE-GE 2277 Fieldwork in Dance:High Educ and Professions \nObservations, conferences, and apprenticeships in dance in postgraduate, professional studio, community or therapeutic settings.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2278",
+            "course_name": "Dance in Higher Educ",
+            "description": "MPADE-GE 2278 Dance in Higher Educ \nCurrent trends in college dance curricula are explored.  Principles of curriculum development and administration of dance programs in educational settings.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2280",
+            "course_name": "Costuming for Dance",
+            "description": "MPADE-GE 2280 Costuming for Dance",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2285",
+            "course_name": "Summer Ballet Intensive",
+            "description": "MPADE-GE 2285 Summer Ballet Intensive",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2288",
+            "course_name": "Summer Dance Intensive",
+            "description": "MPADE-GE 2288 Summer Dance Intensive \nConcentrated daily course in a selected dance technique (beginner/intermediate level), followed by a focused improvisation, application, of aesthetic principles to choreography within that style.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2289",
+            "course_name": "Dance Workshop",
+            "description": "MPADE-GE 2289 Dance Workshop \nFor advanced students in dance.  Emphasis on development of each student's personal approach to choreography and on dance production.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2290",
+            "course_name": "Choreog Musical Theatre",
+            "description": "MPADE-GE 2290 Choreog Musical Theatre \nAdaptation of choreographic assignments, in-class critiques, and analyses permit students to evolve a personal, original style appropriate to the non-concert dance form.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2291",
+            "course_name": "Comp in Contemp Dance",
+            "description": "MPADE-GE 2291 Comp in Contemp Dance \nOpportunity to work in advanced and experimental form in composition.  Effort is made to develop skill in interpreting, analyzing, staging, and evaluating dance composition.  Guest artist teachers.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2292",
+            "course_name": "Dance Archiv/Archiv Mng",
+            "description": "MPADE-GE 2292 Dance Archiv/Archiv Mng",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2293",
+            "course_name": "Historical Development of Dance",
+            "description": "MPADE-GE 2293 Historical Development of Dance \nStudy of various epochs of dance to be selected from pre-Renaissance to modern times but excluding American dance.  Emphasis is on practice, performance, dance style, technique, and theoretical innovations.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "4047",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Koff, Susan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "MPADE-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2309",
+            "course_name": "Methods of Accompaniment for Dance",
+            "description": "MPADE-GE 2309 Methods of Accompaniment for Dance \nSurvey of the different kinds of accompaniment (live and recorded music, percussion scores, the spoken word).  Students select or prepare accompaniment for dance techniques and compositions.  Consideration of historical and stylistic factors.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2310",
+            "course_name": "Sound as Lang Dnc Choreo",
+            "description": "MPADE-GE 2310 Sound as Lang Dnc Choreo",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2401",
+            "course_name": "Historical Study of Dance",
+            "description": "MPADE-GE 2401 Historical Study of Dance",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2403",
+            "course_name": "Research in Dance",
+            "description": "MPADE-GE 2403 Research in Dance \nExamines theoretical perspectives, modes of inquiry, methodologies and procedures for conducting research in dance and education. Focus on developing qualitative research and writing skills, and tools in movement assessment. Case study applications in dance education are stressed.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2405",
+            "course_name": "Writing Dance Criticism",
+            "description": "MPADE-GE 2405 Writing Dance Criticism \nSeminar in writing criticism on the dance.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2452",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4048",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Damast, Deborah",
+                    "time": "Wed 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Teaching Creative Movement",
+            "description": "MPADE-GE 2452 Teaching Creative Movement \nExamines theories, methods and assessment tools in the teaching of creative movement to children in grades K-6.  Concentrates on basics of movement learning, developmentally appropriate activities , lesson planning, and skill in classroom instruction. Integration of dance in K-6 curriculum and multicultural environment is discussed. Observation of dance classroom settings required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2453",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4049",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Duggan, Diane; Duggan-Ali, Diane",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dance for Students with Special Needs",
+            "description": "MPADE-GE 2453 Dance for Students with Special Needs \nSeminar & laboratory experiences integrating multiple movement choices within a developmental framework so that students can create differentiated dance activities to engage the strengths & meet the needs of children & adolescents who have emotional, behavioral, learning, sensory, &/or physical challenges.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2454",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4050",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Dunn, Douglas",
+                    "time": "Thu 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "4490",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Sloan, Randi",
+                    "time": "Thu 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Teaching Performance of Dance & Related Educ",
+            "description": "MPADE-GE 2454 Teaching Performance of Dance & Related Educ \nExplores approaches to choreographing, directing, and performing for and with children and adolescents in a variety of educational settings. Specific attention paid to differentiated instruction, culturally and developmentally appropriate source materials and activities , and the use of performance in developing communication and social skills. Performance as formative and summative assessment is discussed.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2502",
+            "course_name": "Principal of Dance Movement Therapy",
+            "description": "MPADE-GE 2502 Principal of Dance Movement Therapy \nTheories, principles and techniques of movement in the dance therapy field. Topics include the symbolic aspects of the body; the physiological basis of emotion; movement from a developmental perspective; and cultural differences in movement behavior.  The creative process as analogous to the therapeutic process is explored. A lexicon of movement elements is examined as a systematic tool for observation and interpretation. The relationship to education is emphasized.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2504",
+            "course_name": "Indiv Dance Movem Ther for Neurot Client:  Meth",
+            "description": "MPADE-GE 2504 Indiv Dance Movem Ther for Neurot Client:  Meth",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2507",
+            "course_name": "Eval Rsch in Dance Thera",
+            "description": "MPADE-GE 2507 Eval Rsch in Dance Thera",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2509",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4051",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 265",
+                    "time": "Mon 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "Koff, Susan"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "4052",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Koff, Susan; Sevilla, John-Mario"
+                }
+            ],
+            "course_name": "Seminar in Dance Educ",
+            "description": "MPADE-GE 2509 Seminar in Dance Educ \nProgram seminar addresses issues confronting dance educators. Emphasis on integrating theory and practice and on the generation of new ideas, approaches and perspectives in dance education. Required culminating project or dance-related research or curriculum design for elementary, secondary, or post-secondary settings. Particular attention paid to report writing.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2520",
+            "course_name": "Community Building through Teaching, Creating, Performing: Dance Educ in Uganda",
+            "description": "MPADE-GE 2520 Community Building through Teaching, Creating, Performing: Dance Educ in Uganda \nCourse focuses on fostering community building through tee performing arts & takes place in abroad sites.  Students will learn & perform traditional dances, study the pedagogic practices of the region, & participate in collaborative teaching & learning with students, teachers professional dancers, & children from the local area.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2543",
+            "course_name": "African Dance II",
+            "description": "MPADE-GE 2543 African Dance II \nEmphasis on dance performance skills characterizing the distinctive style of dominant groups in selected African regions.  Continuation of study of songs, music, and simple instruments that accompany authentic dances.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17738",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cole, Michelle",
+                    "time": "Tue 10.45 AM - 12.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Anthropology of Dance I",
+            "description": "MPADE-GE 2601 Anthropology of Dance I \nFirst term: Study of dancing as a cultural phenomenon its relation to diverse, contexts and its connection with the primary social fact of language.  Anthropology perspectives on cultural systems, including dance.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2602",
+            "course_name": "Anthropology of Dance II",
+            "description": "MPADE-GE 2602 Anthropology of Dance II \nContinuation of E89.2601.  Beginning analyses of anthropological research theory methodologies and models.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2605",
+            "course_name": "Theory & Meth Dance & Hum Mvt",
+            "description": "MPADE-GE 2605 Theory & Meth Dance & Hum Mvt \nOverview of major theories and methods of movement analysis used in the study of the dance in modern social anthropology, e.g., kinetics, proxemics 'emic/etic' analysis, choreometreics, and semasiology.  Particular attention is given to units of analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2607",
+            "classes": [
+                {}
+            ],
+            "course_name": "Student Teach in Dance: Elementary School",
+            "description": "MPADE-GE 2607 Student Teach in Dance: Elementary School \nSupervised student teaching of dance on the elementary school level (grades K-6). Weekly seminar involves developing appropriate goals, negotiating and enacting appropriate learning experiences, and assessing student learning in dance activities.  Student teachers will observe, plan, teach and evaluate dance activities.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2608",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4054",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lamberg, Suzanne",
+                    "time": "Tue 3.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Student Teach in Dance: Secondary School",
+            "description": "MPADE-GE 2608 Student Teach in Dance: Secondary School \nSupervised student teaching of dance on the secondary school level (grades 7-12).   Weekly seminar involves developing appropriate goals, negotiating and enacting appropriate learning experiences, and assessing student learning in dance activities. The critical analysis of student teaching in the secondary classroom is designed to promote the student's development as a reflective practitioner.",
+            "offering": true
+        },
+        {
+            "course_id": "MPADE-GE 2701",
+            "course_name": "Computer Studies in Human Movement I",
+            "description": "MPADE-GE 2701 Computer Studies in Human Movement I \nFirst term: The use of computers as applied to dance and other human movement, including such software as Lifeforms for choreography and Labanwriter for notation.  Basic computer knowledge required.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2702",
+            "course_name": "Computer Studies in Human Movement II",
+            "description": "MPADE-GE 2702 Computer Studies in Human Movement II \nMore advanced topics in using computer technologies  for both analytic and creative purposes.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2810",
+            "course_name": "Anatomy and Kinesiology for The Dancer",
+            "description": "MPADE-GE 2810 Anatomy and Kinesiology for The Dancer \nStudy of the basic mechanical principles affecting the physiological functioning and anatomical structure of the human body.  Dance laboratory application of these principles to body alignment, placement, and dynamic posture for dance.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 2811",
+            "course_name": "Ideokinesiology",
+            "description": "MPADE-GE 2811 Ideokinesiology \nApplication of the Todd and Sweigard neuromuscular educational principles to problematic areas of the body that frequently hamper the full development of a dancer.  Concentration on visual and tactile aids and on imagery for teaching dance and body reeducation.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 3095",
+            "course_name": "Doct Seminar in Dance",
+            "description": "MPADE-GE 3095 Doct Seminar in Dance \nServes an integrating function for majors following various dance roles in culture as concert artists, educators, critics, therapists, and administration.  Extensive readings in current literature and group field visitations.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 3275",
+            "course_name": "Dance Curriculum Development",
+            "description": "MPADE-GE 3275 Dance Curriculum Development \nStudy of the processes of teaching, administering, and researching dance theories, techniques, procedures, and practices appropriate for grades K-12; emphasis on understanding the diversity of tasks, responsibilities, and leadership roles necessary for introducing specific grade-level and community-based dance curricula.",
+            "offering": false
+        },
+        {
+            "course_id": "MPADE-GE 3400",
+            "course_name": "Sem in Hist-Crit Dance",
+            "description": "MPADE-GE 3400 Sem in Hist-Crit Dance",
+            "offering": false
+        }
+    ]
+}

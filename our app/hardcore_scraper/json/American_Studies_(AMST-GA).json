@@ -1,0 +1,456 @@
+{
+    "major_id": "AMST-GA",
+    "file": "./2015-2016/American_Studies_(AMST-GA).html",
+    "courses": [
+        {
+            "course_id": "AMST-GA 1008",
+            "course_name": "Culture and Economy",
+            "description": "AMST-GA 1008 Culture and Economy",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 1722",
+            "course_name": "Society & Culture in 20th Century America",
+            "description": "AMST-GA 1722 Society & Culture in 20th Century America",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 1730",
+            "course_name": "Media of Displacement: Gender, Nation & Postcol",
+            "description": "AMST-GA 1730 Media of Displacement: Gender, Nation & Postcol",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 1739",
+            "course_name": "Transnational Approaches to American History",
+            "description": "AMST-GA 1739 Transnational Approaches to American History",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 1750",
+            "course_name": "Race Matters in Contemp American Culture",
+            "description": "AMST-GA 1750 Race Matters in Contemp American Culture",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 1853",
+            "course_name": "American Culture in The Era of The Mexican War",
+            "description": "AMST-GA 1853 American Culture in The Era of The Mexican War",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2015",
+            "course_name": "Race, Slavery, & Freedom in The Atlantic World",
+            "description": "AMST-GA 2015 Race, Slavery, & Freedom in The Atlantic World",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2100",
+            "course_name": "Tpcs in Critical Theory:",
+            "description": "AMST-GA 2100 Tpcs in Critical Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2150",
+            "course_name": "Lit/Hist/Pol: Rdg Global South:Uneven Development",
+            "description": "AMST-GA 2150 Lit/Hist/Pol: Rdg Global South:Uneven Development",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2227",
+            "course_name": "Sex and Gender",
+            "description": "AMST-GA 2227 Sex and Gender",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2250",
+            "course_name": "War and Media Theory",
+            "description": "AMST-GA 2250 War and Media Theory",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2255",
+            "course_name": "Grounds of War: Asian- America in The 20th Cent",
+            "description": "AMST-GA 2255 Grounds of War: Asian- America in The 20th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2301",
+            "course_name": "Colloq in Amer Studies:",
+            "description": "AMST-GA 2301 Colloq in Amer Studies:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2302",
+            "course_name": "Colloq in Amer Studies:",
+            "description": "AMST-GA 2302 Colloq in Amer Studies:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2303",
+            "course_name": "Gender, Race and Imperialism",
+            "description": "AMST-GA 2303 Gender, Race and Imperialism",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2304",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1853",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "20CS 4CONF"
+                }
+            ],
+            "course_name": "Seminar:Security and Freedom",
+            "description": "AMST-GA 2304 Seminar:Security and Freedom",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 2305",
+            "course_name": "Feminist/Queer Theories",
+            "description": "AMST-GA 2305 Feminist/Queer Theories",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2306",
+            "course_name": "Dissertation Proposal Writing",
+            "description": "AMST-GA 2306 Dissertation Proposal Writing",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2307",
+            "course_name": "American Studies & The Long 20th Century",
+            "description": "AMST-GA 2307 American Studies & The Long 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2308",
+            "course_name": "Inter-American Studies",
+            "description": "AMST-GA 2308 Inter-American Studies",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2309",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2282",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2424",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "American Studies Exam Preparation",
+            "description": "AMST-GA 2309 American Studies Exam Preparation",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 2310",
+            "course_name": "Technology & Nature",
+            "description": "AMST-GA 2310 Technology & Nature",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2311",
+            "course_name": "Social Theories of Citizenship",
+            "description": "AMST-GA 2311 Social Theories of Citizenship",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2312",
+            "course_name": "Historicizing American Literature",
+            "description": "AMST-GA 2312 Historicizing American Literature",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2313",
+            "course_name": "Marxist Thght & Crit Critical Practice:",
+            "description": "AMST-GA 2313 Marxist Thght & Crit Critical Practice:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2314",
+            "course_name": "Critical Histiographies:",
+            "description": "AMST-GA 2314 Critical Histiographies:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2315",
+            "course_name": "Literary Into Culture St",
+            "description": "AMST-GA 2315 Literary Into Culture St",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2316",
+            "course_name": "Race in The Americas",
+            "description": "AMST-GA 2316 Race in The Americas",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2317",
+            "course_name": "Prblms in Representation of Blackness",
+            "description": "AMST-GA 2317 Prblms in Representation of Blackness",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2318",
+            "course_name": "Cultural Policy",
+            "description": "AMST-GA 2318 Cultural Policy",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2319",
+            "course_name": "Group Research Seminar",
+            "description": "AMST-GA 2319 Group Research Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2320",
+            "course_name": "Urban & Suburban Stdies",
+            "description": "AMST-GA 2320 Urban & Suburban Stdies",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2321",
+            "course_name": "Cultural Contradictions of Globalization",
+            "description": "AMST-GA 2321 Cultural Contradictions of Globalization",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2322",
+            "course_name": "U.S Ethnography:",
+            "description": "AMST-GA 2322 U.S Ethnography:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2323",
+            "course_name": "Seminar On Culture & Consumption",
+            "description": "AMST-GA 2323 Seminar On Culture & Consumption",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2324",
+            "course_name": "Migrations, Populations & Ideas:",
+            "description": "AMST-GA 2324 Migrations, Populations & Ideas:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2326",
+            "course_name": "Roots of Race Thinking",
+            "description": "AMST-GA 2326 Roots of Race Thinking",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2327",
+            "course_name": "Tpcs in Amer Lit: Race Matters in Contemp Amer",
+            "description": "AMST-GA 2327 Tpcs in Amer Lit: Race Matters in Contemp Amer",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2328",
+            "course_name": "Comparative Ethnic Studies",
+            "description": "AMST-GA 2328 Comparative Ethnic Studies",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2329",
+            "course_name": "Studies in Work",
+            "description": "AMST-GA 2329 Studies in Work",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2330",
+            "course_name": "Human Rights & Cultural Politics",
+            "description": "AMST-GA 2330 Human Rights & Cultural Politics",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2331",
+            "course_name": "The Commodity",
+            "description": "AMST-GA 2331 The Commodity",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2451",
+            "course_name": "Family & Sexuality",
+            "description": "AMST-GA 2451 Family & Sexuality",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2561",
+            "course_name": "Theorizing Race and Slavery",
+            "description": "AMST-GA 2561 Theorizing Race and Slavery",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2600",
+            "course_name": "Colloq in Women'S Hist: Race & Reproduction",
+            "description": "AMST-GA 2600 Colloq in Women'S Hist: Race & Reproduction",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2771",
+            "course_name": "Cold War as Global Conflict",
+            "description": "AMST-GA 2771 Cold War as Global Conflict",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2802",
+            "course_name": "Afro-Latino Culture & History",
+            "description": "AMST-GA 2802 Afro-Latino Culture & History",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 2901",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2210",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "20CS 4SEM"
+                }
+            ],
+            "course_name": "TopicsFoucault",
+            "description": "AMST-GA 2901 TopicsFoucault",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 3212",
+            "course_name": "Topics in Black Urban Studies:",
+            "description": "AMST-GA 3212 Topics in Black Urban Studies:",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 3213",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2292",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2298",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "244G 306"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2347",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 413"
+                }
+            ],
+            "course_name": "Topics:Black ExperimentalismComparative Latin@Latin American StudiesReading the Global South",
+            "description": "AMST-GA 3213 Topics:Black ExperimentalismComparative Latin@Latin American StudiesReading the Global South",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 3301",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1048",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 4CONF",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Gopinath, Gayatri"
+                }
+            ],
+            "course_name": "American Studies Seminar",
+            "description": "AMST-GA 3301 American Studies Seminar \nIntroductory analysis of topics central to the six fields offered by the program.",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 3302",
+            "course_name": "Sem American Studies",
+            "description": "AMST-GA 3302 Sem American Studies",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 3303",
+            "course_name": "Strategies for Social and Cultural Analysis",
+            "description": "AMST-GA 3303 Strategies for Social and Cultural Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "AMST-GA 3309",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2280",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading in American Studies",
+            "description": "AMST-GA 3309 Reading in American Studies \nRestricted ordinarily to matriculated doctoral candidates. Independent study.",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 3310",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2281",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research in American Studies",
+            "description": "AMST-GA 3310 Research in American Studies \nRestricted ordinarily to matriculated doctoral candidates. Independent study.",
+            "offering": true
+        },
+        {
+            "course_id": "AMST-GA 3701",
+            "course_name": "Topics: In American History",
+            "description": "AMST-GA 3701 Topics: In American History",
+            "offering": false
+        }
+    ]
+}

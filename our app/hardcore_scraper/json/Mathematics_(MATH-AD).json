@@ -1,0 +1,423 @@
+{
+    "major_id": "MATH-AD",
+    "file": "./2015-2016/Mathematics_(MATH-AD).html",
+    "courses": [
+        {
+            "course_id": "MATH-AD 50",
+            "course_name": "Algebra",
+            "description": "MATH-AD   50 Algebra \nThis is an Opportunities Program course designed to prepare students for college-level precalculus.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12739",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "WEST_ADMIN 005"
+                },
+                {},
+                {
+                    "format": "Seminar",
+                    "class_id": "13082",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "WEST_ADMIN 005"
+                },
+                {}
+            ],
+            "course_name": "",
+            "description": "MATH-AD  101\n\n   Mathematical Functions\n\nA fundamental understanding of mathematical functions is critical before engaging in the rigors of calculus. This course examines single variable functions, including their algebraic and geometric properties. By necessity, the course begins with a rigorous exploration of the following question: What is a function, and how can it be represented geometrically as a graph? The course delves into standard function manipulations and examines a range of mathematical functions, including polynomial, rational, trigonometric, exponential, and logarithmic functions. Placement into Mathematical Functions ...\n\n      more description for MATH-AD  101 \u00bb\n\n      \n\n\n\nA fundamental understanding of mathematical functions is critical before engaging in the rigors of calculus. This course examines single variable functions, including their algebraic and geometric properties. By necessity, the course begins with a rigorous exploration of the following question: What is a function, and how can it be represented geometrically as a graph? The course delves into standard function manipulations and examines a range of mathematical functions, including polynomial, rational, trigonometric, exponential, and logarithmic functions. Placement into Mathematical Functions is decided by discussion with mentors and the results of a mathematics placement examination.\n\n      less description for MATH-AD  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 102",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12897",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "COMP_RES 003"
+                },
+                {}
+            ],
+            "course_name": "",
+            "description": "MATH-AD  102\n\n   Introduction to Vector Mathematics\n\nA vector is a mathematical measure of change in magnitude and direction of a physical event.  A displacement from one location to another in a two or three-dimensional space, and the quantity and direction of force applied to move an object are examples of vectors. This course studies the algebra of vector addition, subtraction, and the dot product and cross product multiplications. The course further provides an in-depth study of trigonometric functions, trigonometric equations and trigonometric identities, including double angle and half angle formulas and their application. The concepts of ...\n\n      more description for MATH-AD  102 \u00bb\n\n      \n\n\n\nA vector is a mathematical measure of change in magnitude and direction of a physical event.  A displacement from one location to another in a two or three-dimensional space, and the quantity and direction of force applied to move an object are examples of vectors. This course studies the algebra of vector addition, subtraction, and the dot product and cross product multiplications. The course further provides an in-depth study of trigonometric functions, trigonometric equations and trigonometric identities, including double angle and half angle formulas and their application. The concepts of average rate of change, limit and derivatives for both scalars and vectors in two and three-dimensional coordinates are discussed and the merits of each are presented. Systems of linear equations are presented using matrices. Finite and infinite sequences are discussed. Some basic properties of real and complex numbers are reviewed and several applications of the algebra of complex numbers are presented to illustrate how to use them in applications.\n\n      less description for MATH-AD  102 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 103",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19225",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Tue,Thu 3.35 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Pycke, Jean-Renaud"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-AD  103\n\n   Foundations of Mathematics\n\nMathematics is a convenient and powerful language, providing a deep, unified framework for all scientific developments. All existing results from the three fundamental categories of mathematics -- geometry, algebra, and analysis -- can be formally expressed in terms of set theory, predicates, quantifiers and logical connectives. This course explores the axiomatic method, some elements of logic and formal languages, and set theory. In addition, the system of real numbers and all other fundamental number systems can be firmly established on the ground of natural numbers; therefore, the course in...\n\n      more description for MATH-AD  103 \u00bb\n\n      \n\n\n\nMathematics is a convenient and powerful language, providing a deep, unified framework for all scientific developments. All existing results from the three fundamental categories of mathematics -- geometry, algebra, and analysis -- can be formally expressed in terms of set theory, predicates, quantifiers and logical connectives. This course explores the axiomatic method, some elements of logic and formal languages, and set theory. In addition, the system of real numbers and all other fundamental number systems can be firmly established on the ground of natural numbers; therefore, the course introduces elementary arithmetic and the universal method of constructing new objects from already known sets by means of equivalence relations. Abstract concepts are introduced through basic but fundamental and universal examples or problems, carefully chosen as illuminants of broader ideas and sources of new theoretical and practical applications.\n\n      less description for MATH-AD  103 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 110",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12734",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "WEST_ADMIN 005",
+                    "time": "Tue,Thu 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Camia, Federico"
+                },
+                {}
+            ],
+            "course_name": "",
+            "description": "MATH-AD  110\n\n   Calculus\n\nThis course presents the foundations of calculus by examining functions and their derivatives and integrals, with an emphasis on proofs and theorems and an introduction to basic mathematical analysis. While the derivative measures the instantaneous rate of change of a function, the definite integral measures the total accumulation of a function over an interval. Indeed, the relationship between differentiation (finding a derivative) and integration (determining an integral) is described in the Fundamental Theorem of Calculus. In addition to two weekly lectures, students attend a weekly recitat...\n\n      more description for MATH-AD  110 \u00bb\n\n      \n\n\n\nThis course presents the foundations of calculus by examining functions and their derivatives and integrals, with an emphasis on proofs and theorems and an introduction to basic mathematical analysis. While the derivative measures the instantaneous rate of change of a function, the definite integral measures the total accumulation of a function over an interval. Indeed, the relationship between differentiation (finding a derivative) and integration (determining an integral) is described in the Fundamental Theorem of Calculus. In addition to two weekly lectures, students attend a weekly recitation that provides opportunities for rigorous analysis of proofs and theorems associated with the material. This course is primarily intended for students considering Mathematics as a major. Placement into Calculus is decided by discussion with mentors and the results of a mathematics placement examination. With permission of the program in mathematics, Calculus with Applications may substitute for Calculus.\n\n      less description for MATH-AD  110 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 111",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12751",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Tue,Thu 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Russell, Esra"
+                },
+                {},
+                {
+                    "format": "Seminar",
+                    "class_id": "13077",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "WEST_ADMIN 002",
+                    "time": "Mon,Wed 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Saied, Faisal"
+                },
+                {},
+                {
+                    "format": "Seminar",
+                    "class_id": "13079",
+                    "section": "003",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Mon,Wed 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Ghoul, Tej-eddine"
+                },
+                {}
+            ],
+            "course_name": "",
+            "description": "MATH-AD  111\n\n   Calculus with Applications\n\nThis course presents the foundations of calculus by examining functions and their derivatives and integrals with a special emphasis placed on the utilitarian nature of the subject material. Applications to other disciplines are emphasized. Since the derivative measures the instantaneous rate of change of a function and the definite integral measures the total accumulation of a function over an interval, these two ideas form the basis for nearly all mathematical formulas in science, engineering, economics, and other fields. This course also provides instruction in how to model situations in ord...\n\n      more description for MATH-AD  111 \u00bb\n\n      \n\n\n\nThis course presents the foundations of calculus by examining functions and their derivatives and integrals with a special emphasis placed on the utilitarian nature of the subject material. Applications to other disciplines are emphasized. Since the derivative measures the instantaneous rate of change of a function and the definite integral measures the total accumulation of a function over an interval, these two ideas form the basis for nearly all mathematical formulas in science, engineering, economics, and other fields. This course also provides instruction in how to model situations in order to solve problems. Applications include graphing, and maximizing and minimizing functions. In addition to two weekly lectures, students attend a weekly recitation focused on applications. Placement into Calculus with Applications is decided by discussion with mentors and the results of a mathematics placement examination.\n\n      less description for MATH-AD  111 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 112",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12785",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "COMP_RES 001"
+                }
+            ],
+            "course_name": "Multivariable Calculus",
+            "description": "MATH-AD  112 Multivariable Calculus \nThis course explores functions of several variables and has applications to science and engineering as well as economics. Specific topics include: vectors in the plane and space; partial derivatives with applications; double and triple integrals; spherical and cylindrical coordinates; surface and line integrals; and divergence, gradient, and curl. In addition, the theorems of Gauss and Stokes are rigorously introduced.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 116",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12759",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Mon,Wed 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Mimar, Arman"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "13061",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Mon,Wed 3.35 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Gandolfi, Alberto"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-AD  116\n\n   Linear Algebra\n\nIn many applications of mathematics, a response of some systems is nearly a linear function of the input. These linear systems, which arise in elasticity, in electrical engineering, and in economics for example, involve linear equations in many unknowns. The associated matrix algebra is a rich and beautiful field of mathematics. It is also central to the analysis of linear ordinary and partial differential equations. The material in this course includes systems of linear equations, Gaussian elimination, matrices, determinants, Cramer\u2019s rule, vectors, vector spaces, basis and dimension, linear ...\n\n      more description for MATH-AD  116 \u00bb\n\n      \n\n\n\nIn many applications of mathematics, a response of some systems is nearly a linear function of the input. These linear systems, which arise in elasticity, in electrical engineering, and in economics for example, involve linear equations in many unknowns. The associated matrix algebra is a rich and beautiful field of mathematics. It is also central to the analysis of linear ordinary and partial differential equations. The material in this course includes systems of linear equations, Gaussian elimination, matrices, determinants, Cramer\u2019s rule, vectors, vector spaces, basis and dimension, linear transformations, eigenvalues, eigenvectors, and quadratic forms.\n\n      less description for MATH-AD  116 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 121",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12750",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Mon,Wed 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Bouarroudj, Sofiane"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "13062",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Mon,Wed 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Ghoul, Tej-eddine"
+                }
+            ],
+            "course_name": "Ordinary Differential Equations",
+            "description": "MATH-AD  121 Ordinary Differential Equations \nOrdinary differential equations arise in virtually all fields of applied mathematics. Newton\u2019s equations of motion, the rate equations of chemical reactions, the currents flowing in electric circuits, all can be expressed as ordinary differential equations. The solutions of these equations usually evolve a combination of analytic and numerical methods. The course studies first- and second-order equations, solutions using infinite series, Laplace transforms, linear systems, numerical methods.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 150",
+            "course_name": "",
+            "description": "MATH-AD  150\n\n   Introduction to Probability and Statistics\n\nAn introduction to the mathematical treatment of random phenomena occurring in the natural, physical, and social sciences as well as in engineering and finance. The course is designed to acquaint the student with both probability and statistics. It requires familiarity with mathematical concepts and reasoning. \n\nIn probability: mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; law of large numbers and normal approximation; application to coin-tossing, radioactive decay; introduction to random vectors and Markov chains.\n \nIn statistics: sampling; es...\n\n      more description for MATH-AD  150 \u00bb\n\n      \n\n\n\nAn introduction to the mathematical treatment of random phenomena occurring in the natural, physical, and social sciences as well as in engineering and finance. The course is designed to acquaint the student with both probability and statistics. It requires familiarity with mathematical concepts and reasoning. \n\nIn probability: mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; law of large numbers and normal approximation; application to coin-tossing, radioactive decay; introduction to random vectors and Markov chains.\n \nIn statistics: sampling; estimation; empirical distribution; testing of hypotheses from data; confidence intervals; correlation and regression; introduction to R.\n\n      less description for MATH-AD  150 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12760",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Mon,Wed 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Bouarroudj, Sofiane"
+                }
+            ],
+            "course_name": "Abstract Algebra 1",
+            "description": "MATH-AD  201 Abstract Algebra 1 \nAlgebra is a part of every field of mathematics, and has applications in the discrete systems of computer science. Fractions, together with their familiar laws of addition, multiplication, and division, provide an example of algebra. The complex numbers form another. This course introduces more general algebras, and their properties and applications. Topics considered in this course include groups, homomorphisms, automorphisms and permutation groups. Rings, ideals and quotient rings, Euclidean rings, and polynomial rings are also considered.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 202",
+            "course_name": "Abstract Algebra 2",
+            "description": "MATH-AD  202 Abstract Algebra 2 \nThis course is a continuation of the study of algebraic structures started in Abstract Algebra 1. The notion of rings, and fields are thoroughly studied, as well as polynomials over rings such as the ring of integers. This course develops ideas to prepare the students to study Galois theory, one of the most important theories in Algebra. The topics include Euclidean domains, principal ideal domains, unique factorization domains, imaginary and real quadratic number fields, extension fields and roots of polynomials, constructions with straight edge and compass, and elements of Galois theory.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 210",
+            "course_name": "Introduction to Cryptography",
+            "description": "MATH-AD  210 Introduction to Cryptography \nThis course will introduce both the theory and practice of cryptography. The modern study of cryptography generates techniques for facilitating interactions between entities in a distrustful context. Modern day examples include secure wireless networks, Internet banking, satellite communications as well as bank ATMs. Topics include: Symmetric-key encryption, message authentication, public-key encryption (RSA, ElGamal), digital signatures (RSA, Fiat-Shamir), applications to authentication (such as identification and zero-knowledge), and time permitting, other applications.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 211",
+            "course_name": "",
+            "description": "MATH-AD  211\n\n   Dynamical Systems\n\nMany of the complex systems of natural science can be formulated as a dynamical system\u2014one whose changes are determined only by the current state. These systems are typically nonlinear, and often exhibit the random behavior associated with chaos. Topics of the course include dynamics of maps and of first-order and second-order differential equations, stability, bifurcations, limit cycles, dissection of systems with fast and slow time scales. The geometric viewpoint is stressed, including phase planes. Chaotic behavior is introduced in the context of one-variable maps (the logistic), and fracta...\n\n      more description for MATH-AD  211 \u00bb\n\n      \n\n\n\nMany of the complex systems of natural science can be formulated as a dynamical system\u2014one whose changes are determined only by the current state. These systems are typically nonlinear, and often exhibit the random behavior associated with chaos. Topics of the course include dynamics of maps and of first-order and second-order differential equations, stability, bifurcations, limit cycles, dissection of systems with fast and slow time scales. The geometric viewpoint is stressed, including phase planes. Chaotic behavior is introduced in the context of one-variable maps (the logistic), and fractal sets. Applications are drawn from physics and biology.\n\n      less description for MATH-AD  211 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 212",
+            "course_name": "",
+            "description": "MATH-AD  212\n\n   Functions of Complex Variables\n\nComplex analysis, also known as the theory of functions of a complex variable, is the branch of mathematical analysis devoted to complex valued functions of complex variable. It is further used in other branches of mathematics, including algebraic geometry and number theory, and also has diverse applications in science and engineering: fluid dynamics, elasticity, nuclear and electrical engineering, to name just a few examples. The geometrical content of analysis in the complex plane is especially appealing. Topics covered include: complex numbers and complex functions; differentiation and the ...\n\n      more description for MATH-AD  212 \u00bb\n\n      \n\n\n\nComplex analysis, also known as the theory of functions of a complex variable, is the branch of mathematical analysis devoted to complex valued functions of complex variable. It is further used in other branches of mathematics, including algebraic geometry and number theory, and also has diverse applications in science and engineering: fluid dynamics, elasticity, nuclear and electrical engineering, to name just a few examples. The geometrical content of analysis in the complex plane is especially appealing. Topics covered include: complex numbers and complex functions; differentiation and the Cauchy-Riemann equations, Cauchy\u2019s theorem, and the Cauchy integral formula; singularities, residues, Taylor and Laurent series; fractional linear transformations and conformal mapping; analytic continuation and Riemann theorem (time permitting).\n\n      less description for MATH-AD  212 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 213",
+            "course_name": "",
+            "description": "MATH-AD  213\n\n   Introduction to Mathematical Modeling\n\nOften, the most difficult task of the applied mathematician is the formulation of an analyzable model in the face of a perplexing phenomenon or data set. This course gives students an introduction to all aspects of this process. It consists of several modules, each a self-contained problem, taken from biology, economics, and other areas of science. In the process the student experiences the formulation and analysis of a model and its validation by numerical simulation and comparison with data. The mathematical tools to be developed include dimensional analysis, optimization, simulation, probab...\n\n      more description for MATH-AD  213 \u00bb\n\n      \n\n\n\nOften, the most difficult task of the applied mathematician is the formulation of an analyzable model in the face of a perplexing phenomenon or data set. This course gives students an introduction to all aspects of this process. It consists of several modules, each a self-contained problem, taken from biology, economics, and other areas of science. In the process the student experiences the formulation and analysis of a model and its validation by numerical simulation and comparison with data. The mathematical tools to be developed include dimensional analysis, optimization, simulation, probability, and elementary differential equations. The necessary mathematical and scientific background is developed as needed. Students participate in formulating models as well as in analyzing them.\n\n      less description for MATH-AD  213 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 214",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12838",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Tue,Thu 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Saied, Faisal"
+                }
+            ],
+            "course_name": "Numerical Methods",
+            "description": "MATH-AD  214 Numerical Methods \nThis course explores how mathematical problems can be analyzed and solved using numerical methods. As such, the subject has very broad applications in applied mathematics, physics, engineering, finance, and the life sciences. Topics covered in this course include numerical algorithms for solving linear and nonlinear systems of equations, least squares problems, eigenvalue problems, interpolation, numerical quadrature, optimization, and differential equations. Theory and practical examples using Matlab are combined to study these topics.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 215",
+            "course_name": "Number Theory",
+            "description": "MATH-AD  215 Number Theory \nIt has applications to cryptography and computer science in general. Simple statements notoriously hard to prove abound in the field: the recently proved Fermat's Last Theorem, the still conjectural Riemann Hypothesis etc. Topics to be covered include: divisibility theory and prime numbers, linear and quadratic congruences, the classical number-theoretic functions, continued fractions, and Diophantine equations (equations whose solutions are sought in the integers).",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 216",
+            "course_name": "Partial Differential Equations",
+            "description": "MATH-AD  216 Partial Differential Equations \nMany laws of physics are formulated as partial differential equations, e.g., the propagation of sound waves, the diffusion of a gas, and the flow of a fluid. This course discusses the simplest examples of such laws as embodied in the wave equation, the diffusion equation, and Laplace\u2019s equation. The course also discusses nonlinear conservation laws and the theory of shock waves. Applications to physics, chemistry, biology, and population dynamics are given.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 218",
+            "course_name": "Theoretical Mechanics",
+            "description": "MATH-AD  218 Theoretical Mechanics \nThis course provides a mathematical introduction to Lagrangian and Hamiltonian mechanics, and their application to rigid body motion and systems of many degrees of freedom. Topics to be studied include the basic conservation laws, motions of a rigid body, Hamilton\u2019s equations, Canonical transformations, and the Hamilton-Jacobi equation.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 221",
+            "course_name": "Vector Analysis",
+            "description": "MATH-AD  221 Vector Analysis \nThis course is a review of the calculus of several variables where the notion of a manifold is introduced, emphasizing on vector methods. Topics to be treated include: functions of several variables; partial derivatives, chain rule, change of variables, Lagrange multipliers; inverse and implicit function theorems; vector calculus (divergence, gradient, and curl); theorems of Gauss, Green, and Stokes with applications to fluids, gravity, electromagnetism, and the like. The course also treats an introduction to differential forms and degree and fixed points of mappings with applications.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 231",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12775",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Tue,Thu 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Spitkovsky, Ilya"
+                }
+            ],
+            "course_name": "Real Analysis 1",
+            "description": "MATH-AD  231 Real Analysis 1 \nReal Analysis builds a more rigorous foundation for calculus and prepares the way for more advanced courses. The emphasis is on the careful formulation of the concepts of calculus, and the formulation and proof of key theorems. The goal is to understand the need for and the nature of a mathematical proof. The course studies the real number system, the convergence of sequences and series, functions of one real variable, continuity, connectedness, compactness, and metric spaces.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 232",
+            "course_name": "Real Analysis 2",
+            "description": "MATH-AD  232 Real Analysis 2 \nThe second part of the analysis series is devoted to the calculus of functions of several variables. The transition from a single variable to many variables involves important new concepts, which are essential to understanding applications to the natural world. The course covers rigorous study of functions of several variables, limits and continuity, differentiable functions, the implicit function theorem, Riemann integral, Stokes formula and an introduction to Lebesgue integration.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 298",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12896",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-AD  298\n\n   Directed Study | Directed Study in Mathematics\n\nThis course is intended for students who are highly motivated and seek the opportunity to conduct field research with a faculty sponsor from the NYUAD program in Mathematics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission ...\n\n      more description for MATH-AD  298 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to conduct field research with a faculty sponsor from the NYUAD program in Mathematics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Mathematics are available from the Office of the Dean of Science.\n\n      less description for MATH-AD  298 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 299",
+            "course_name": "",
+            "description": "MATH-AD  299\n\n   Directed Study | Directed Study in Mathematics\n\nThis course is intended for students who are highly motivated and seek the opportunity to conduct field research with a faculty sponsor from the NYUAD program in Mathematics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission ...\n\n      more description for MATH-AD  299 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to conduct field research with a faculty sponsor from the NYUAD program in Mathematics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Mathematics are available from the Office of the Dean of Science.\n\n      less description for MATH-AD  299 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 320",
+            "course_name": "Special Topics in Mathematics",
+            "description": "MATH-AD  320 Special Topics in Mathematics \nThis course is designed by an instructor to explore topics of interest to him and to students. The topics may vary from year to year, and are usually not covered in any elective course at NYU Abu Dhabi. \n\nRequires instructor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-AD 331",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17296",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 004",
+                    "time": "Mon,Wed 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Mimar, Arman"
+                }
+            ],
+            "course_name": "Topology",
+            "description": "MATH-AD  331 Topology \nTopology is a major branch of mathematics, which is concerned with the geometry of sets of points in space of arbitrary dimension. One aspect of the subject deals with the classification of sets based upon their structure, not their specific shape. Topology has applications in physics, biology, and dynamical systems. The material includes metric spaces, topological spaces, compactness, connectedness, covering spaces, and homotopy groups.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 390",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12983",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "COMP_RES 002"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-AD  390\n\n   Mathematics Capstone Seminar\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD mathematicians and others in related fields. Through exposure to NYUAD faculty research, students will identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth mathematics capstone proposal. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year....\n\n      more description for MATH-AD  390 \u00bb\n\n      \n\n\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD mathematicians and others in related fields. Through exposure to NYUAD faculty research, students will identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth mathematics capstone proposal. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.  Beginning in 2014-15 all science majors are expected to take this course in the junior year; it will be offered every semester.\n\n      less description for MATH-AD  390 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 400",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13042",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Capstone Research Project",
+            "description": "MATH-AD  400 Senior Capstone Research Project \nThe senior Capstone Experience in mathematics requires students to engage in a long-term, mentored learning experience.  Students in the mathematics major are expected to engage with an active research topic and explore the existing literature. A senior thesis will be written according to the standards of articles published in major international journals.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-AD 401",
+            "course_name": "Senior Capstone Research Project",
+            "description": "MATH-AD  401 Senior Capstone Research Project \nThe senior Capstone Experience in mathematics requires students to engage in a long-term, mentored learning experience.  Students in the mathematics major are expected to engage with an active research topic and explore the existing literature. A senior thesis will be written according to the standards of articles published in major international journals.",
+            "offering": false
+        }
+    ]
+}

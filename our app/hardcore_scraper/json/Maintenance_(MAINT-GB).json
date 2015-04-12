@@ -1,0 +1,24 @@
+{
+    "major_id": "MAINT-GB",
+    "file": "./2015-2016/Maintenance_(MAINT-GB).html",
+    "courses": [
+        {
+            "course_id": "MAINT-GB 1001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20235",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/21/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "MAINTAINING MATRICULATION",
+            "description": "MAINT-GB 1001 MAINTAINING MATRICULATION \nMAINTAINING MATRICULATION",
+            "offering": true
+        }
+    ]
+}

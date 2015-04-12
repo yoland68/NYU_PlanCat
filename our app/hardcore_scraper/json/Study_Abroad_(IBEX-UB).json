@@ -1,0 +1,816 @@
+{
+    "major_id": "IBEX-UB",
+    "file": "./2015-2016/Study_Abroad_(IBEX-UB).html",
+    "courses": [
+        {
+            "course_id": "IBEX-UB 1",
+            "course_name": "IBEX Study Abroad-Unsw",
+            "description": "IBEX-UB    1 IBEX Study Abroad-Unsw",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2",
+            "course_name": "IBEX Study Abroad-Unsw",
+            "description": "IBEX-UB    2 IBEX Study Abroad-Unsw",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 3",
+            "course_name": "IBEX Study Abroad-Unsw",
+            "description": "IBEX-UB    3 IBEX Study Abroad-Unsw",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 4",
+            "course_name": "IBEX Study Abroad-Unsw",
+            "description": "IBEX-UB    4 IBEX Study Abroad-Unsw",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 5",
+            "course_name": "IBEX Study Abroad-Unsw",
+            "description": "IBEX-UB    5 IBEX Study Abroad-Unsw",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 6",
+            "course_name": "IBEX Study Abroad-Unsw",
+            "description": "IBEX-UB    6 IBEX Study Abroad-Unsw",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 7",
+            "course_name": "IBEX Study Abroad-CBS",
+            "description": "IBEX-UB    7 IBEX Study Abroad-CBS",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 8",
+            "course_name": "IBEX Study Abroad-CBS",
+            "description": "IBEX-UB    8 IBEX Study Abroad-CBS",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 9",
+            "course_name": "IBEX Study Abroad-CBS",
+            "description": "IBEX-UB    9 IBEX Study Abroad-CBS",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 10",
+            "course_name": "IBEX Study Abroad-CBS",
+            "description": "IBEX-UB   10 IBEX Study Abroad-CBS",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 11",
+            "course_name": "IBEX Study Abroad-CBS",
+            "description": "IBEX-UB   11 IBEX Study Abroad-CBS",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 12",
+            "course_name": "IBEX Study Abroad-CBS",
+            "description": "IBEX-UB   12 IBEX Study Abroad-CBS",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 13",
+            "course_name": "IBEX Study Abroad-Uman",
+            "description": "IBEX-UB   13 IBEX Study Abroad-Uman",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 14",
+            "course_name": "IBEX Study Abroad-Uman",
+            "description": "IBEX-UB   14 IBEX Study Abroad-Uman",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 15",
+            "course_name": "IBEX Study Abroad-Uman",
+            "description": "IBEX-UB   15 IBEX Study Abroad-Uman",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 16",
+            "course_name": "IBEX Study Abroad-Uman",
+            "description": "IBEX-UB   16 IBEX Study Abroad-Uman",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 17",
+            "course_name": "IBEX Study Abroad-Uman",
+            "description": "IBEX-UB   17 IBEX Study Abroad-Uman",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 18",
+            "course_name": "IBEX Study Abroad-Uman",
+            "description": "IBEX-UB   18 IBEX Study Abroad-Uman",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 19",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   19 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 20",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   20 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 21",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   21 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 22",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   22 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 23",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   23 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 24",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   24 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 25",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   25 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 26",
+            "course_name": "IBEX Study Abroad-Sp",
+            "description": "IBEX-UB   26 IBEX Study Abroad-Sp",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 27",
+            "course_name": "IBEX Study Abroad-Upd",
+            "description": "IBEX-UB   27 IBEX Study Abroad-Upd",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 28",
+            "course_name": "IBEX Study Abroad-Upd",
+            "description": "IBEX-UB   28 IBEX Study Abroad-Upd",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 29",
+            "course_name": "IBEX Study Abroad-Upd",
+            "description": "IBEX-UB   29 IBEX Study Abroad-Upd",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 30",
+            "course_name": "IBEX Study Abroad-Upd",
+            "description": "IBEX-UB   30 IBEX Study Abroad-Upd",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 31",
+            "course_name": "IBEX Study Abroad-Upd",
+            "description": "IBEX-UB   31 IBEX Study Abroad-Upd",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 32",
+            "course_name": "IBEX Study Abroad-Upd",
+            "description": "IBEX-UB   32 IBEX Study Abroad-Upd",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 33",
+            "course_name": "IBEX Study Abroad-Hkust",
+            "description": "IBEX-UB   33 IBEX Study Abroad-Hkust",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 34",
+            "course_name": "IBEX Study Abroad-Hkust",
+            "description": "IBEX-UB   34 IBEX Study Abroad-Hkust",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 35",
+            "course_name": "IBEX Study Abroad-Hkust",
+            "description": "IBEX-UB   35 IBEX Study Abroad-Hkust",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 36",
+            "course_name": "IBEX Study Abroad-Hkust",
+            "description": "IBEX-UB   36 IBEX Study Abroad-Hkust",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 37",
+            "course_name": "IBEX Study Abroad-Hkust",
+            "description": "IBEX-UB   37 IBEX Study Abroad-Hkust",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 38",
+            "course_name": "IBEX Study Abroad-Hkust",
+            "description": "IBEX-UB   38 IBEX Study Abroad-Hkust",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 39",
+            "course_name": "IBEX Study Abroad-Lb",
+            "description": "IBEX-UB   39 IBEX Study Abroad-Lb",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 40",
+            "course_name": "IBEX Study Abroad-Lb",
+            "description": "IBEX-UB   40 IBEX Study Abroad-Lb",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 41",
+            "course_name": "IBEX Study Abroad-Lb",
+            "description": "IBEX-UB   41 IBEX Study Abroad-Lb",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 42",
+            "course_name": "IBEX Study Abroad-Lb",
+            "description": "IBEX-UB   42 IBEX Study Abroad-Lb",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 43",
+            "course_name": "IBEX Study Abroad-Lb",
+            "description": "IBEX-UB   43 IBEX Study Abroad-Lb",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 44",
+            "course_name": "IBEX Study Abroad-Lb",
+            "description": "IBEX-UB   44 IBEX Study Abroad-Lb",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 45",
+            "course_name": "IBEX Study Abroad-Snu",
+            "description": "IBEX-UB   45 IBEX Study Abroad-Snu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 46",
+            "course_name": "IBEX Study Abroad-Snu",
+            "description": "IBEX-UB   46 IBEX Study Abroad-Snu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 47",
+            "course_name": "IBEX Study Abroad-Snu",
+            "description": "IBEX-UB   47 IBEX Study Abroad-Snu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 48",
+            "course_name": "IBEX Study Abroad-Snu",
+            "description": "IBEX-UB   48 IBEX Study Abroad-Snu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 49",
+            "course_name": "IBEX Study Abroad-Snu",
+            "description": "IBEX-UB   49 IBEX Study Abroad-Snu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 50",
+            "course_name": "IBEX Study Abroad-Snu",
+            "description": "IBEX-UB   50 IBEX Study Abroad-Snu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 51",
+            "course_name": "IBEX Study Abroad-Yu",
+            "description": "IBEX-UB   51 IBEX Study Abroad-Yu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 52",
+            "course_name": "IBEX Study Abroad-Yu",
+            "description": "IBEX-UB   52 IBEX Study Abroad-Yu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 53",
+            "course_name": "IBEX Study Abroad-Yu",
+            "description": "IBEX-UB   53 IBEX Study Abroad-Yu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 54",
+            "course_name": "IBEX Study Abroad-Yu",
+            "description": "IBEX-UB   54 IBEX Study Abroad-Yu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 55",
+            "course_name": "IBEX Study Abroad-Yu",
+            "description": "IBEX-UB   55 IBEX Study Abroad-Yu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 56",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   56 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 57",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   57 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 58",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   58 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 59",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   59 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 60",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   60 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 61",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   61 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 62",
+            "course_name": "IBEX Study Abroad-Mt",
+            "description": "IBEX-UB   62 IBEX Study Abroad-Mt",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 63",
+            "course_name": "IBEX Study Abroad-Mu",
+            "description": "IBEX-UB   63 IBEX Study Abroad-Mu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 64",
+            "course_name": "IBEX Study Abroad-Mu",
+            "description": "IBEX-UB   64 IBEX Study Abroad-Mu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 65",
+            "course_name": "IBEX Study Abroad-Mu",
+            "description": "IBEX-UB   65 IBEX Study Abroad-Mu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 66",
+            "course_name": "IBEX Study Abroad-Mu",
+            "description": "IBEX-UB   66 IBEX Study Abroad-Mu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 67",
+            "course_name": "IBEX Study Abroad Mu",
+            "description": "IBEX-UB   67 IBEX Study Abroad Mu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 68",
+            "course_name": "IBEX Study Abroad Mu",
+            "description": "IBEX-UB   68 IBEX Study Abroad Mu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 69",
+            "course_name": "IBEX Study Abroad - UAm",
+            "description": "IBEX-UB   69 IBEX Study Abroad - UAm",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 70",
+            "course_name": "IBEX Study Abroad - UAm",
+            "description": "IBEX-UB   70 IBEX Study Abroad - UAm",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 71",
+            "course_name": "IBEX Study Abroad - UAm",
+            "description": "IBEX-UB   71 IBEX Study Abroad - UAm",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 72",
+            "course_name": "IBEX Study Abroad - UAm",
+            "description": "IBEX-UB   72 IBEX Study Abroad - UAm",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 73",
+            "course_name": "IBEX Study Abroad - UAm",
+            "description": "IBEX-UB   73 IBEX Study Abroad - UAm",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 74",
+            "course_name": "IBEX Study Abroad - UAm",
+            "description": "IBEX-UB   74 IBEX Study Abroad - UAm",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 75",
+            "course_name": "IBEX Study Abroad Ntu",
+            "description": "IBEX-UB   75 IBEX Study Abroad Ntu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 76",
+            "course_name": "IBEX Study Abroad Ntu",
+            "description": "IBEX-UB   76 IBEX Study Abroad Ntu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 77",
+            "course_name": "IBEX Study Abroad Ntu",
+            "description": "IBEX-UB   77 IBEX Study Abroad Ntu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 78",
+            "course_name": "IBEX Study Abroad Ntu",
+            "description": "IBEX-UB   78 IBEX Study Abroad Ntu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 79",
+            "course_name": "IBEX Study Abroad Ntu",
+            "description": "IBEX-UB   79 IBEX Study Abroad Ntu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 80",
+            "course_name": "IBEX Study Abroad Ntu",
+            "description": "IBEX-UB   80 IBEX Study Abroad Ntu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 81",
+            "course_name": "IBEX Study Abroad Nus",
+            "description": "IBEX-UB   81 IBEX Study Abroad Nus",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 82",
+            "course_name": "IBEX Study Abroad Nus",
+            "description": "IBEX-UB   82 IBEX Study Abroad Nus",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 83",
+            "course_name": "IBEX Study Abroad Nus",
+            "description": "IBEX-UB   83 IBEX Study Abroad Nus",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 84",
+            "course_name": "IBEX Study Abroad Nus",
+            "description": "IBEX-UB   84 IBEX Study Abroad Nus",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 85",
+            "course_name": "IBEX Study Abroad Nus",
+            "description": "IBEX-UB   85 IBEX Study Abroad Nus",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 86",
+            "course_name": "IBEX Study Abroad Nus",
+            "description": "IBEX-UB   86 IBEX Study Abroad Nus",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 87",
+            "course_name": "IBEX Study Abroad-Chula",
+            "description": "IBEX-UB   87 IBEX Study Abroad-Chula",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 88",
+            "course_name": "IBEX Study Abroad-Chula",
+            "description": "IBEX-UB   88 IBEX Study Abroad-Chula",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 89",
+            "course_name": "IBEX Study Abroad-Chula",
+            "description": "IBEX-UB   89 IBEX Study Abroad-Chula",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 90",
+            "course_name": "IBEX Study Abroad-Chula",
+            "description": "IBEX-UB   90 IBEX Study Abroad-Chula",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 91",
+            "course_name": "IBEX Study Abroad-Chula",
+            "description": "IBEX-UB   91 IBEX Study Abroad-Chula",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 92",
+            "course_name": "IBEX Study Abroad-Chula",
+            "description": "IBEX-UB   92 IBEX Study Abroad-Chula",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 93",
+            "course_name": "IBEX Study Abroad Un",
+            "description": "IBEX-UB   93 IBEX Study Abroad Un",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 94",
+            "course_name": "IBEX Study Abroad Un",
+            "description": "IBEX-UB   94 IBEX Study Abroad Un",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 95",
+            "course_name": "IBEX Study Abroad Un",
+            "description": "IBEX-UB   95 IBEX Study Abroad Un",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 96",
+            "course_name": "IBEX Study Abroad Un",
+            "description": "IBEX-UB   96 IBEX Study Abroad Un",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 97",
+            "course_name": "IBEX Study Abroad Un",
+            "description": "IBEX-UB   97 IBEX Study Abroad Un",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 98",
+            "course_name": "IBEX Study Abroad Un",
+            "description": "IBEX-UB   98 IBEX Study Abroad Un",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 99",
+            "course_name": "IBEX Study Abroad Um",
+            "description": "IBEX-UB   99 IBEX Study Abroad Um",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 100",
+            "course_name": "IBEX Study Abroad Um",
+            "description": "IBEX-UB  100 IBEX Study Abroad Um",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 101",
+            "course_name": "IBEX Study Abroad Um",
+            "description": "IBEX-UB  101 IBEX Study Abroad Um",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 102",
+            "course_name": "IBEX Study Abroad Um",
+            "description": "IBEX-UB  102 IBEX Study Abroad Um",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 103",
+            "course_name": "IBEX Study Abroad Um",
+            "description": "IBEX-UB  103 IBEX Study Abroad Um",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 104",
+            "course_name": "IBEX Study Abroad Um",
+            "description": "IBEX-UB  104 IBEX Study Abroad Um",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 105",
+            "course_name": "IBEX Study Abroad - Hku",
+            "description": "IBEX-UB  105 IBEX Study Abroad - Hku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 106",
+            "course_name": "IBEX Study Abroad - Hku",
+            "description": "IBEX-UB  106 IBEX Study Abroad - Hku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 107",
+            "course_name": "IBEX Study Abroad - Hku",
+            "description": "IBEX-UB  107 IBEX Study Abroad - Hku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 108",
+            "course_name": "IBEX Study Abroad - Hku",
+            "description": "IBEX-UB  108 IBEX Study Abroad - Hku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 109",
+            "course_name": "IBEX Study Abroad - Hku",
+            "description": "IBEX-UB  109 IBEX Study Abroad - Hku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 110",
+            "course_name": "IBEX Study Abroad - Hku",
+            "description": "IBEX-UB  110 IBEX Study Abroad - Hku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 111",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  111 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 112",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  112 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 113",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  113 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 114",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  114 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 115",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  115 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 116",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  116 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 117",
+            "course_name": "IBEX Study Abraod - Pku",
+            "description": "IBEX-UB  117 IBEX Study Abraod - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 118",
+            "course_name": "IBEX Study Abroad - Yu",
+            "description": "IBEX-UB  118 IBEX Study Abroad - Yu",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 119",
+            "course_name": "IBEX Study Abroad - Pku",
+            "description": "IBEX-UB  119 IBEX Study Abroad - Pku",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 120",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  120 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 121",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  121 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 122",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  122 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 123",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  123 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 124",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  124 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 125",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  125 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 126",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  126 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 127",
+            "course_name": "IBEX Study Abroad - Hec",
+            "description": "IBEX-UB  127 IBEX Study Abroad - Hec",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 128",
+            "course_name": "IBEX Study Abroad - HEC",
+            "description": "IBEX-UB  128 IBEX Study Abroad - HEC",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2000",
+            "course_name": "IBEX Study Abroad - EGB",
+            "description": "IBEX-UB 2000 IBEX Study Abroad - EGB",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2001",
+            "course_name": "IBEX Study Abroad - CF",
+            "description": "IBEX-UB 2001 IBEX Study Abroad - CF",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2002",
+            "course_name": "IBEX Study Abroad - MO",
+            "description": "IBEX-UB 2002 IBEX Study Abroad - MO",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2003",
+            "course_name": "IBEX Study Abroad - IM",
+            "description": "IBEX-UB 2003 IBEX Study Abroad - IM",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2004",
+            "course_name": "IBEX Study Abroad - ISP",
+            "description": "IBEX-UB 2004 IBEX Study Abroad - ISP",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2005",
+            "course_name": "IBEX Study Abroad - OM",
+            "description": "IBEX-UB 2005 IBEX Study Abroad - OM",
+            "offering": false
+        },
+        {
+            "course_id": "IBEX-UB 2006",
+            "course_name": "IBEX Study Abroad - PRL",
+            "description": "IBEX-UB 2006 IBEX Study Abroad - PRL",
+            "offering": false
+        }
+    ]
+}

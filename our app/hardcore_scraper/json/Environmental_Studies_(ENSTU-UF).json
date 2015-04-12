@@ -1,0 +1,94 @@
+{
+    "major_id": "ENSTU-UF",
+    "file": "./2015-2016/Environmental_Studies_(ENSTU-UF).html",
+    "courses": [
+        {
+            "course_id": "ENSTU-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12118",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 207"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12119",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 308",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "King, Catherine"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12120",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 308",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "King, Catherine"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12121",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 207"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12122",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC9"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12123",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 507"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12124",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 157",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "King, Catherine"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12218",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 508"
+                }
+            ],
+            "course_name": "Environmental Studies",
+            "description": "ENSTU-UF  101 Environmental Studies \nThrough the application of fundamental physical and chemical processes, humans attempt to harness the environment for their particular needs. In examining this most significant dimension of modern life, this course emphasizes both its harmful and beneficial aspects and deals with such topics as air and water pollution, transportation, energy resources, and waste control. The political context in which these problems occur is also examined.",
+            "offering": true
+        }
+    ]
+}

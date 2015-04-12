@@ -1,0 +1,591 @@
+{
+    "major_id": "NUTR-GE",
+    "file": "./2015-2016/Nutrition_&_Dietetics_(NUTR-GE).html",
+    "courses": [
+        {
+            "course_id": "NUTR-GE 2000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4482",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1080",
+                    "time": "Mon 12.30 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Tripp, Frederick"
+                }
+            ],
+            "course_name": "Nutrition: New Graduate Student Seminar",
+            "description": "NUTR-GE 2000 Nutrition: New Graduate Student Seminar \nIntroduction to academic & professional resources at New York University & to career opportunities in nutrition.  Class meets five times during the first semester of study.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2021",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4610",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 274",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Gilbride, Judith"
+                }
+            ],
+            "course_name": "Nutrition & Food Writing",
+            "description": "NUTR-GE 2021 Nutrition & Food Writing \nPractical experience in writing reports, articles, pamphlets, & other information materials in the student\u2019s primary area of interest in nutrition, along with studies of classic readings in the field.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2037",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3457",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-9",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Romano, Maria"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4437",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.00 AM - 10.55 AM",
+                    "open": true,
+                    "professor": "7E12 121 (SB)"
+                }
+            ],
+            "course_name": "Medical Nutrition Thrpy",
+            "description": "NUTR-GE 2037 Medical Nutrition Thrpy \nStudy of the research basis of diet therapy for the principle nutrition related disease conditions through analysis of case histories.  The relationship of food and nutrition to medicine: physiological and clinical basis of disease processes and medical, surgical and diet therapies for acute and chronic disease conditions, through lectures, case discussions, assigned readings, programmed learning guides, and class presentations.  Course is restricted to diet interns.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2041",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3458",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Thu 6.40 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Wardley, Bridget"
+                }
+            ],
+            "course_name": "Pediatric Nutrition",
+            "description": "NUTR-GE 2041 Pediatric Nutrition \nPrinciples of nutrition applied to disorders of infants, children and adolescents, with emphasis on current  research; evaluation of diets of healthy children.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2042",
+            "course_name": "Maternal/Child Nutrition",
+            "description": "NUTR-GE 2042 Maternal/Child Nutrition \nPrinciples and application of nutrition for healthy mothers, infants, children, and adolescents with emphasis on current research related to normal growth and development.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2043",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3459",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 122",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Mueller, Charles"
+                }
+            ],
+            "course_name": "Critical Care Nutrition",
+            "description": "NUTR-GE 2043 Critical Care Nutrition \nPrinciples and skills for parental and enthrall nutrition (nutrition support) practice: inflammatory metabolism, indications, calculations, formulas and solutions, access, complications, and ethical considerations, along with professional practice issues and the regulatory status of nutrition support products.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2044",
+            "course_name": "Environmental Effects On Food and Nutririon",
+            "description": "NUTR-GE 2044 Environmental Effects On Food and Nutririon \nThis course addresses the emerging field of 'Econutrition:' the effects of food production, distribution, and marketing on nutrition and the environment and vice versa. It deals with biological and environmental factors that affect the nutrient content, value and safety of food in the human body: heat, light, irradiation, oxidation, bioavailability, biotechnology, and other such factors. It also considers the effects of food processing, preservation and fabrication.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2045",
+            "course_name": "Sports Nutrition",
+            "description": "NUTR-GE 2045 Sports Nutrition \nEvaluation and application of nutrition concepts related to the energy, fluid and nutrient requirements of athletes and physically active individuals: diet related physiology, trends in sports nutrition, special conditions affecting athletic performance and techniques for counseling athletes.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2060",
+            "course_name": "Prog Planning in Foods & Nutrition",
+            "description": "NUTR-GE 2060 Prog Planning in Foods & Nutrition \nIdentification of population-based needs for nutritional intervention and methods for development of programs to meet those needs. Through fieldwork, students assess need for nutrition programs and develop a formal intervention plan to meet the identified needs.  The course is designed primarily for students interest in public health nutrition, community nutrition, and nutrition education, and for professionals working in related fields.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2061",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4368",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 668",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Woolf, Kathleen"
+                }
+            ],
+            "course_name": "Research Applications in Nutrition",
+            "description": "NUTR-GE 2061 Research Applications in Nutrition \nTheoretical & applied aspects of research design, data analysis, & interpretation.  Students teams conduct, analyze, & present an evaluative or applied research project in nutrition.  Should be taken in the last year of study in the master's program.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2063",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3461",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ray, Krishnendu",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Res Appren in Foods & Nutrition",
+            "description": "NUTR-GE 2063 Res Appren in Foods & Nutrition \nPractical aspects of research on topics related to nutrition, foods, or food management.  Students assist a faculty member with an ongoing research project.  Depending on the nature of the specific project and the time available for assistance, qualified students may participate in one or more components of the research: study design bibliographic retrieval, data collection, data analysis, or writing for publication.  Permission of sponsoring professor required.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2077",
+            "classes": [
+                {}
+            ],
+            "course_name": "Field Experience",
+            "description": "NUTR-GE 2077 Field Experience \nParticipation and experience in the professional field of major interest and seminar discussion of professional career options and responsibilities.  Application must be filed during the previous term.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2115",
+            "course_name": "Int'L Issues Nutrition",
+            "description": "NUTR-GE 2115 Int'L Issues Nutrition \nStudents will examine the main factors affecting nutrition and health practices in the state of Puebla, Mexico, and focus on the impact of migration on these factors. Students will learn about traditional nutrition and health practices, nutrition programs and the Mexican health care system through a combination of lectures, seminars, field trips, fieldwork, and research.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2117",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20664",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "EDUC 1079"
+                }
+            ],
+            "course_name": "Current Issues in Nutrition:",
+            "description": "NUTR-GE 2117 Current Issues in Nutrition: \nCritical analysis of recent research, trends, and public policy issues in selected areas of nutrition and health.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2139",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3464",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Mon 6.45 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "Canty, David"
+                }
+            ],
+            "course_name": "Advanced Nutrition: Protein, Fats & Carbs",
+            "description": "NUTR-GE 2139 Advanced Nutrition: Protein, Fats & Carbs \nBiochemical, physiological, and clinical factors that affect the role of macronutrients in human health and disease, with an emphasis on critical analysis of recent research studies in this field.  May also include topics such as cholesterol, fiber, non-nutritive sweeteners, & alcohol.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2144",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3465",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 305",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "St-Jules, David E"
+                }
+            ],
+            "course_name": "Advanced Nutrition: Vitamins & Minerals",
+            "description": "NUTR-GE 2144 Advanced Nutrition: Vitamins & Minerals \nBiochemical, physiological, and clinical factors that affect the role of micronutritients in human health and disease, with an emphasis on critical analysis of recent research studies in this field.  Includes the role of selected vitamins and minerals in cancer, coronary heart disease, HIV infection, bone loss, and other conditions of topical interest.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2145",
+            "course_name": "Clinical Nutrit Services",
+            "description": "NUTR-GE 2145 Clinical Nutrit Services \nComparison of programs, services and systems designed for clinical practitioners who manage delivery of services in health care settings.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2146",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3466",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Sasson, Lisa",
+                    "time": "Thu 3.30 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Clin Prac in Dietetic I",
+            "description": "NUTR-GE 2146 Clin Prac in Dietetic I \nSeminar and supervised experience in clinical dietetics through observation, practice and research; food service systems, impatient and ambulatory nutrition care, specialty practice settings.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2147",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3467",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Sasson, Lisa",
+                    "time": "Thu 3.30 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Clin Prac in Dietetic II",
+            "description": "NUTR-GE 2147 Clin Prac in Dietetic II \nSeminar and supervised experience in clinical dietetics through observation, practice, and research; food service systems, inpatient and ambulatory nutrition care, specialty practice settings.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2165",
+            "course_name": "Interdisciplinary  Case-Based Management of Dysphagia",
+            "description": "NUTR-GE 2165 Interdisciplinary  Case-Based Management of Dysphagia",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2178",
+            "course_name": "Nutritional Assessment Research Methods",
+            "description": "NUTR-GE 2178 Nutritional Assessment Research Methods \nTheory and analysis of nutrition assessment methods in community and clinical settings. Dietary, clinical, anthropometric, and biochemical assessment methods and their limitations and strengths are discussed using current research.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2184",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3469",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1080",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Raghavan, Sree"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3470",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Mon 6.45 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "Raghavan, Sree"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3471",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1079",
+                    "time": "Mon 6.45 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "Raghavan, Sree"
+                }
+            ],
+            "course_name": "Food Science and Tech",
+            "description": "NUTR-GE 2184 Food Science and Tech \nScientific and sensory principles of food evaluation; professional methods, quality assurance, and objective experiments in advanced food preparation.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2187",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4813",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "GCASL 365"
+                }
+            ],
+            "course_name": "Global Issues in Nutrition",
+            "description": "NUTR-GE 2187 Global Issues in Nutrition \nIntroduction to world food problems and their nutritional, economic, and social effects.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2190",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4369",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 410",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Parekh, Niyati"
+                }
+            ],
+            "course_name": "Research Methods in Nutrition",
+            "description": "NUTR-GE 2190 Research Methods in Nutrition \nIntroduction to design, interpretation, & evaluation of research in nutrition.  To be taken first semester of the master's program.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2192",
+            "course_name": "Nutritional Epidemiology",
+            "description": "NUTR-GE 2192 Nutritional Epidemiology \nFundamentals of nutrition epidemiology focused on the collection, analysis, and interpretation of data on dietary intake and nutritional status of diverse population groups. The course emphasizes critical evaluation of dietary assessment methods and the results of research studies associating intake of foods and nutrients or food consumption patterns with the risk of cancer, coronary heart disease, and other chronic diseases.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2194",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3473",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 621",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Restuccia, Nancy"
+                }
+            ],
+            "course_name": "Weight Management",
+            "description": "NUTR-GE 2194 Weight Management \nEvaluation and application of theories of weight control and eating behavior to weight reduction and maintenance programs, with emphasis on development of scientifically based methods to promote appropriate body weight.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2196",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3474",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 1078",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Underwood, Susan"
+                }
+            ],
+            "course_name": "Nutrition-Focused Physical Assessment",
+            "description": "NUTR-GE 2196 Nutrition-Focused Physical Assessment \nEmphasis on broadening knowledge and skills in physical assessment applied to the nutrition evaluation of individuals.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2198",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3475",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL141",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Schultz, Lynn"
+                }
+            ],
+            "course_name": "Nutrition Counseling Theory & Practice",
+            "description": "NUTR-GE 2198 Nutrition Counseling Theory & Practice \nThis course integrates medical nutrition therapy and education with psychodynamics theory and technique to increase the efficacy of nutrition care in short- and long-term health care settings. Through the use of advanced cases and related theory, core learning methods include classroom discussion, role play, weekly logs, process recordings, and supervision.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2199",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4422",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Sparks, Rebecca"
+                }
+            ],
+            "course_name": "Nutrition Education and Counseling",
+            "description": "NUTR-GE 2199 Nutrition Education and Counseling \nPrinciples, methods, and materials for teaching nutrition to diverse groups in a variety of settings.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2208",
+            "course_name": "Int'L Studies in Foods and Nutrition",
+            "description": "NUTR-GE 2208 Int'L Studies in Foods and Nutrition \nThrough study and travel, this course explores how agriculture, food cuisine, nutrition, and health affect and are affected by the unique culture, history, climate, geography, and economic and political systems of selected countries.  The course draws on local academic and professional experts, food producers, and food service providers to investigate these interrelationships through field trips, site visits, interviews, lectures, seminars, and demonstrations, with an emphasis on cross-cultural perspectives.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2210",
+            "course_name": "Complementary and Altern Nutrtiton Therapies",
+            "description": "NUTR-GE 2210 Complementary and Altern Nutrtiton Therapies \nReview and analysis of the cultural context, rationale for, and applications of complementary and alternative nutritional therapies for acute and chronic conditions. The course emphasizes critical evaluation of scientific and other evidence for safety and clinical efficacy of products and methods, and of library, internet, and popular resources on this topic.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2215",
+            "course_name": "Nutrition in Food Stdies",
+            "description": "NUTR-GE 2215 Nutrition in Food Stdies \nAn accelerated survey of basic principles of nutrition applied to food studies: nutrient functions, nutritional requirements, food composition, menu planning and assessment, food safety, dietary patterns, diet and health issues, dietary recommendations, food products for nutritional purposes. For students with no previous training in nutrition or health.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2220",
+            "course_name": "Nutrition and Aging",
+            "description": "NUTR-GE 2220 Nutrition and Aging \nAnalysis of research, programs, and services related to the interaction between nutrition and aging, with emphasis on role of nutrition in comprehensive geriatric care",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2222",
+            "course_name": "Nutritional Aspects of Eating Disorders",
+            "description": "NUTR-GE 2222 Nutritional Aspects of Eating Disorders \nDefinition, diagnosis, assessment, and determinants of eating disorders from the nutritionist's perspective, with an emphasis on team approaches to treatment.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2280",
+            "course_name": "Sem in Advanced Nutrition",
+            "description": "NUTR-GE 2280 Sem in Advanced Nutrition \nThis course will explore selected current topics in advanced nutrition through the critical analysis of pertinent original research publications and class discussion.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2281",
+            "course_name": "Sem in Adv Nutrition: Landmark Studies",
+            "description": "NUTR-GE 2281 Sem in Adv Nutrition: Landmark Studies \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2282",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4756",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 205",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Wardley, Bridget"
+                }
+            ],
+            "course_name": "Sem in Adv Nutrition: Genetics and Pediatrics",
+            "description": "NUTR-GE 2282 Sem in Adv Nutrition: Genetics and Pediatrics \nNo Course Description Available",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 2283",
+            "course_name": "Ethical Issues in Nutrition/Health Care",
+            "description": "NUTR-GE 2283 Ethical Issues in Nutrition/Health Care \nEthics and ethical issues relevant to nutrition and health care. Emphasis is placed on the integration and application of ethics in clinical decision making across a variety of settings. Case studies provide students with opportunities to apply the Code of Ethics for the Profession of Dietetics and models of ethical deicision making in preventive, therapeutic, supportive, and palliative care with individuals and families across the life course and from diverse populations.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2284",
+            "course_name": "Bariatric Surgery Weight Loss",
+            "description": "NUTR-GE 2284 Bariatric Surgery Weight Loss \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2285",
+            "course_name": "Sem in Adv Nutrition: Obesity/Clinical Pract",
+            "description": "NUTR-GE 2285 Sem in Adv Nutrition: Obesity/Clinical Pract \nNo Course Description on File",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2286",
+            "course_name": "",
+            "description": "NUTR-GE 2286\n\n   Nutrition: Diseased Gut\n\nThis class is designed to strengthen students' clinical nutrition knowledge specifically as it relates to the management of acute Gastrointestinal Diseases and the consequences of major GI surgery. The course will have a surgical emphasis but will also cover non-surgical GI disease and the medical literature as it related to nutrition support. Students will expand their knowledge on the digestion and absorption through gaining a thorough understanding of the consequences of short bowel and intestinal failure. In addition through critical analysis of research studies they will learn evidence ba...\n\n      more description for NUTR-GE 2286 \u00bb\n\n      \n\n\n\nThis class is designed to strengthen students' clinical nutrition knowledge specifically as it relates to the management of acute Gastrointestinal Diseases and the consequences of major GI surgery. The course will have a surgical emphasis but will also cover non-surgical GI disease and the medical literature as it related to nutrition support. Students will expand their knowledge on the digestion and absorption through gaining a thorough understanding of the consequences of short bowel and intestinal failure. In addition through critical analysis of research studies they will learn evidence based practice as it related to feeding patients with severe GI disease/malnutrition /major surgery.\n\n      less description for NUTR-GE 2286 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2287",
+            "course_name": "Sem in Adv Nutrition: Nutrigenetics/Genomics",
+            "description": "NUTR-GE 2287 Sem in Adv Nutrition: Nutrigenetics/Genomics \nNo Course Description Available",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2288",
+            "course_name": "",
+            "description": "NUTR-GE 2288\n\n   Ethical Controversies in Nutr Fd Stds Public Hlth\n\nThis course deals with ethical values and moral judgments of right and wrong and good and bad -- related to the consequences of food production and marketing, dietary advice, and food choices for nutrition and public health. Through case studies involving extensive reading and analysis, it investigates current ethical dilemmas in such areas as the effects of industrial and alternative agriculture on farm animals. farm workers, and the environment; food product advertising, and marketing; food labeling; regulation of food safety; food assistance to the poor; food aid to developing countries; cr...\n\n      more description for NUTR-GE 2288 \u00bb\n\n      \n\n\n\nThis course deals with ethical values and moral judgments of right and wrong and good and bad -- related to the consequences of food production and marketing, dietary advice, and food choices for nutrition and public health. Through case studies involving extensive reading and analysis, it investigates current ethical dilemmas in such areas as the effects of industrial and alternative agriculture on farm animals. farm workers, and the environment; food product advertising, and marketing; food labeling; regulation of food safety; food assistance to the poor; food aid to developing countries; creation of nutritional standards; and dietary advice to the public. Each case examines  the ethical implications of current practices from the standpoint of diverse stakeholders in food systems: producers, marketers, government officials, health professionals, and the public.\n\n      less description for NUTR-GE 2288 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2289",
+            "course_name": "Sem Advanced Nutrition:",
+            "description": "NUTR-GE 2289 Sem Advanced Nutrition:",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2290",
+            "course_name": "Malnutrition Screening, Assessment & Intervention",
+            "description": "NUTR-GE 2290 Malnutrition Screening, Assessment & Intervention \nThis class is designed to strengthen students\u2019 clinical nutrition knowledge specifically as it relates to the definition, screening, & assessment of adult malnutrition & to evidence based intervention strategies for the prevention & management of adult malnutrition.  The class will focus on adult malnutrition of the hospitalized patient and of the oncology patient. Through critical analysis of published research studies, students will develop an understanding of evidence-based practice as it relates to these areas.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2291",
+            "course_name": "Adv Nutr: Ketogenic Diet in Epilepsy & Other Conditions",
+            "description": "NUTR-GE 2291 Adv Nutr: Ketogenic Diet in Epilepsy & Other Conditions \nStudents will explore the various types of ketogenic diets (KD) & applications, primarily in pediatric & adult epilepsy but also in other emerging areas, such as cancer & Alzheimer\u2019s. They will review the scientific evidence to support the use of the KD & consider the nutritional implications & practical applications. The culminating project will utilize the kitchen to prepare & evaluate different ketogenic meals.",
+            "offering": false
+        },
+        {
+            "course_id": "NUTR-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3480",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ray, Krishnendu",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "NUTR-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "NUTR-GE 3098",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3490",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Ray, Krishnendu",
+                    "time": "Fri 3.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Seminar",
+            "description": "NUTR-GE 3098 Doctoral Seminar \nCritical examination of research proposals, methods, data collection and analysis, other issues related to development and completion  of the doctoral dissertation.  Attendance is required every semester of graduate study.  Registration is required in lieu of the 1 point Doctoral Advisement Fee every semester in which students are enrolled for less than 3 points.  Credits do not count toward the doctoral degree.",
+            "offering": true
+        }
+    ]
+}

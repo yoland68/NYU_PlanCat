@@ -1,0 +1,539 @@
+{
+    "major_id": "CM-UY",
+    "file": "./2015-2016/Chemistry_(CM-UY).html",
+    "courses": [
+        {
+            "course_id": "CM-UY 1",
+            "course_name": "Pre-college Chemistry",
+            "description": "CM-UY    1 Pre-college Chemistry \nThe course covers mole concept and stoichiometry, gaseous molecular behavior, gas law equilibrium and Le Chatelaine\u2019s principle.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 91",
+            "course_name": "PRINCIPLS OF CHEMISTRY I",
+            "description": "CM-UY   91 PRINCIPLS OF CHEMISTRY I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 92",
+            "course_name": "PRINCIPLS OF CHEMSTRY II",
+            "description": "CM-UY   92 PRINCIPLS OF CHEMSTRY II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 101",
+            "course_name": "GENERAL CHEMISTRY 1",
+            "description": "CM-UY  101 GENERAL CHEMISTRY 1",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 103",
+            "course_name": "CHEMISTRY FOR ENGINEERS",
+            "description": "CM-UY  103 CHEMISTRY FOR ENGINEERS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 104",
+            "course_name": "General Chemistry 1",
+            "description": "CM-UY  104 General Chemistry 1",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 105",
+            "course_name": "General Chemistry 2",
+            "description": "CM-UY  105 General Chemistry 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 106",
+            "course_name": "GENERAL CHEMISTRY B",
+            "description": "CM-UY  106 GENERAL CHEMISTRY B",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 108",
+            "course_name": "INORGANIC CHEMISTRY",
+            "description": "CM-UY  108 INORGANIC CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 109",
+            "course_name": "INORGANIC CHEM LAB",
+            "description": "CM-UY  109 INORGANIC CHEM LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 111",
+            "course_name": "GENERAL CHEMISTRY LAB 1",
+            "description": "CM-UY  111 GENERAL CHEMISTRY LAB 1",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 112",
+            "course_name": "GENERAL CHEMISTRY LAB 2",
+            "description": "CM-UY  112 GENERAL CHEMISTRY LAB 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 113",
+            "course_name": "CHEM FOR ENGINEERS LAB",
+            "description": "CM-UY  113 CHEM FOR ENGINEERS LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 118",
+            "course_name": "CHEMICAL EQUILIBRIA",
+            "description": "CM-UY  118 CHEMICAL EQUILIBRIA",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 120",
+            "course_name": "ANALYTICAL CHEMISTRY LAB",
+            "description": "CM-UY  120 ANALYTICAL CHEMISTRY LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 122",
+            "course_name": "ORGANIC CHEMISTRY I",
+            "description": "CM-UY  122 ORGANIC CHEMISTRY I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 123",
+            "course_name": "ORGANIC CHEMISTRY II",
+            "description": "CM-UY  123 ORGANIC CHEMISTRY II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 124",
+            "course_name": "ORGANIC CHEM LAB I",
+            "description": "CM-UY  124 ORGANIC CHEM LAB I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 125",
+            "course_name": "ORGANIC CHEM LAB 2",
+            "description": "CM-UY  125 ORGANIC CHEM LAB 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 126",
+            "course_name": "HONORS ORGAN. CHEM LABI",
+            "description": "CM-UY  126 HONORS ORGAN. CHEM LABI",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 127",
+            "course_name": "HONOR ORG. CHEM LABII",
+            "description": "CM-UY  127 HONOR ORG. CHEM LABII",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 135",
+            "course_name": "ORGANIC CHEM FOR BIOENGR",
+            "description": "CM-UY  135 ORGANIC CHEM FOR BIOENGR",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 161",
+            "course_name": "PHYSICAL CHEMISTRY I",
+            "description": "CM-UY  161 PHYSICAL CHEMISTRY I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 162",
+            "course_name": "PHYSICAL CHEMISTRY II",
+            "description": "CM-UY  162 PHYSICAL CHEMISTRY II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 164",
+            "course_name": "PHY CHEM OF LIVING SYS",
+            "description": "CM-UY  164 PHY CHEM OF LIVING SYS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 175",
+            "course_name": "PHYSICAL CHEMISTRY III",
+            "description": "CM-UY  175 PHYSICAL CHEMISTRY III",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 177",
+            "course_name": "PHYSICAL CHEMISTRY LAB",
+            "description": "CM-UY  177 PHYSICAL CHEMISTRY LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 178",
+            "course_name": "HONORS PHYSICAL CHEM LAB",
+            "description": "CM-UY  178 HONORS PHYSICAL CHEM LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 182",
+            "course_name": "PHYS CHEM FOR BIOENGR",
+            "description": "CM-UY  182 PHYS CHEM FOR BIOENGR",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 193",
+            "course_name": "CHEMICAL LITERATURE",
+            "description": "CM-UY  193 CHEMICAL LITERATURE",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 201",
+            "course_name": "BIOCHEMISTRY I",
+            "description": "CM-UY  201 BIOCHEMISTRY I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 204",
+            "course_name": "BIOCHEMISTRY LABORATORY",
+            "description": "CM-UY  204 BIOCHEMISTRY LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 220",
+            "course_name": "TRANSFER OPERATIONS I",
+            "description": "CM-UY  220 TRANSFER OPERATIONS I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 221",
+            "course_name": "TRANSFER OPERATION 2",
+            "description": "CM-UY  221 TRANSFER OPERATION 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 223",
+            "course_name": "ORGANIC CHEMISTRY 2",
+            "description": "CM-UY  223 ORGANIC CHEMISTRY 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 251",
+            "course_name": "MULTI-SEPARAT PROCESS",
+            "description": "CM-UY  251 MULTI-SEPARAT PROCESS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 261",
+            "course_name": "MULT SEPARATION PROC",
+            "description": "CM-UY  261 MULT SEPARATION PROC",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 390",
+            "course_name": "UNDERGRAD RESEARCH IN CHEM",
+            "description": "CM-UY  390 UNDERGRAD RESEARCH IN CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 391",
+            "course_name": "BACHELOR'S THESIS CM 2",
+            "description": "CM-UY  391 BACHELOR'S THESIS CM 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 392",
+            "course_name": "BACHELOR'S THESIS CM 3",
+            "description": "CM-UY  392 BACHELOR'S THESIS CM 3",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 393",
+            "course_name": "BACHELOR'S THESIS CM 4",
+            "description": "CM-UY  393 BACHELOR'S THESIS CM 4",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 394",
+            "course_name": "BACHELOR'S THESIS CM 5",
+            "description": "CM-UY  394 BACHELOR'S THESIS CM 5",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 440",
+            "course_name": "| CM-UY 4414 Polymer Chemistry",
+            "description": "CM-GY  440 | CM-UY  440 | CM-UY 4414 Polymer Chemistry \nThis course introduces polymer chemistry. It covers the principles of various polymerization methods, characterization and physical chemistry of polymers. A laboratory is included. | Prerequisites: CM-UY 2214 and CM-UY 2514 or CM-UY 2614.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 441",
+            "course_name": "POLYMER LAB COURSE",
+            "description": "CM-UY  441 POLYMER LAB COURSE",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 471",
+            "course_name": "X Guided Studies in Chemistry",
+            "description": "CM-UY  471X Guided Studies in Chemistry \nSpecial project (experimental, theoretical, computational or literature search). Maximum 6 credits (including the credits of BMS-UY 471X) count toward the degree requirements. | Prerequisite: adviser\u2019s approval; CM-UY 5040, if project involves experiments, and either CM-UY 1004 or CM-UY 1014.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 503",
+            "course_name": "ORGAN CHEM FOR BIOENGRS",
+            "description": "CM-UY  503 ORGAN CHEM FOR BIOENGRS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 1004",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "General Chemistry for Engineers",
+            "description": "CM-UY 1004 General Chemistry for Engineers \nThis is a one-semester introductory course in general chemistry. It covers chemical equations, stoichiometry, thermodynamics, gases, atomic and molecular structure, periodic table, chemical bonding, states of matter, chemical equilibrium, organic, inorganic and polymeric materials and electrochemistry. | Corequisite: EX-UY 1",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 1004",
+            "course_name": "H General Chemistry for Honors Engineers",
+            "description": "CM-UY 1004H General Chemistry for Honors Engineers \nA one-semester introductory course in general chemistry. Chemical equations, stoichiometry, thermodynamics, gases, atomic and molecular structure, periodic table, chemical bonding, states of matter, chemical equilibrium, organic, inorganic, polymeric materials and electrochemistry. A discussion of chemical innovations will be introduced where appropriate. | Corequisite(s):  EX-UY 1, and must be in Honors Program",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 1014",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "GENERAL CHEMISTRY I",
+            "description": "CM-UY 1014 GENERAL CHEMISTRY I \nThis course covers chemical equations, chemical conservation laws,  stoichiometry, thermochemistry, properties of gases, atomic structure, periodic  table, chemical bonding and molecular structure. The course is required for  students in the Biomolecular Science Program. | Corequisite: EX-UY 1.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 1024",
+            "course_name": "General Chemistry II",
+            "description": "CM-UY 1024 General Chemistry II \nThis course covers states of matter, chemical thermodynamics and equilibria, kinetics, acid-base chemistry, electrochemistry, introduction to organic chemistry, natural and synthetic polymers. The course is required for students in the Biomolecular Science Program. | Prerequisite: CM-UY 1004 or CM-UY 1014. Corequisite: EX-UY 1.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 1032",
+            "course_name": "CHEMISTRY, THE CENTRAL SCIENCE",
+            "description": "CM-UY 1032 CHEMISTRY, THE CENTRAL SCIENCE \nThis is a one-semester overview course in chemistry, providing examples of important discoveries and important chemical innovators, with a strong emphasis on cutting-edge research. Field opportunities are developed to allow students to contribute to the discipline. | Prerequisite: Only first-year students are permitted to enroll in this introductory level course.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 1101",
+            "classes": [
+                {}
+            ],
+            "course_name": "Numerical Methods for Chemistry",
+            "description": "CM-UY 1101 Numerical Methods for Chemistry \nThis is a one-semester introductory course in numerical methods needed for BMS and CM courses. Students learn spreadsheet calculation, chart displays, curve fitting and good lab-record keeping. | Co-requisite: CM-UY 1014.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 2102",
+            "course_name": "MOLECULAR MODELING IN CHEMISTRY",
+            "description": "CM-UY 2102 MOLECULAR MODELING IN CHEMISTRY \nThis one-semester introductory course covers computer modeling of organic compounds.  Students learn to use Chem Draw and Chem3D, standard applications in chemistry. | Prerequisites: CM-UY 1101, CM-UY 2213, Co-requisite: CM-UY 2223.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 2211",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "ORGANIC CHEMISTRY LABORATORY I",
+            "description": "CM-UY 2211 ORGANIC CHEMISTRY LABORATORY I \nThis Laboratory course teaches students how to prepare, isolate and purify typical organic compounds. Experiments illustrate basic techniques. Lab fee required. | Co/prerequisite CM-UY 2213.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 2213",
+            "classes": [
+                {}
+            ],
+            "course_name": "ORGANIC CHEMISTRY I",
+            "description": "CM-UY 2213 ORGANIC CHEMISTRY I \nThis course covers chemistry of organic molecules: structure, nomenclature, properties and reactions of carbon compounds with emphasis on aliphatic compounds. It also introduces reaction mechanisms and stereochemistry. | Prerequisite: CM-UY 1004 or CM-UY 1024 and EX-UY 1.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 2214",
+            "course_name": "Organic Chemistry 1",
+            "description": "CM-UY 2214 Organic Chemistry 1",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 2221",
+            "course_name": "ORGANIC CHEMISTRY LABORATORY II",
+            "description": "CM-UY 2221 ORGANIC CHEMISTRY LABORATORY II \nThis laboratory stresses complex preparation, purification, characterization and identification of organic compounds by chemical and physical means. It introduces instrumental methods of analysis and identification. Lab fee required. | Prerequisite: CM-UY 2211, Co/prerequisite: CM-UY 2223.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 2223",
+            "classes": [
+                {}
+            ],
+            "course_name": "ORGANIC CHEMISTRY II",
+            "description": "CM-UY 2223 ORGANIC CHEMISTRY II \nThis course continues CM-UY 2213 and emphasizes finding the principles of organic chemistry in industrial practice and biochemical mechanisms. It introduces instrumental methods of analysis and identification. | Prerequisite: CM-UY 2213. Co-requisite EX-UY 1",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 2224",
+            "course_name": "ORGANIC CHEMISTRY II",
+            "description": "CM-UY 2224 ORGANIC CHEMISTRY II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 2234",
+            "course_name": "",
+            "description": "CM-UY 2234\n\n   Industrial Organic Chemistry\n\nThis course demonstrates the basic ideas of organic chemistry, using industrial processes and important commercial materials. It covers the petroleum-based foundations of organic materials and shows how these petroleum-derived molecules ultimately lead, via important chemical reactions and intermediates, to the commercial products produced by the chemical industry. The course demonstrates how the principles of organic chemistry are intertwined with the many changes that characterize the chemical industry. The material is couched in a historical context. | Prerequisite: CM-UY 1004 or equivalent...\n\n      more description for CM-UY 2234 \u00bb\n\n      \n\n\n\nThis course demonstrates the basic ideas of organic chemistry, using industrial processes and important commercial materials. It covers the petroleum-based foundations of organic materials and shows how these petroleum-derived molecules ultimately lead, via important chemical reactions and intermediates, to the commercial products produced by the chemical industry. The course demonstrates how the principles of organic chemistry are intertwined with the many changes that characterize the chemical industry. The material is couched in a historical context. | Prerequisite: CM-UY 1004 or equivalent.\n\n      less description for CM-UY 2234 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 2514",
+            "course_name": "Chemical and Biological Equilibria",
+            "description": "CM-UY 2514 Chemical and Biological Equilibria \nThis course covers chemical thermodynamics with applications to solution, phase and chemical equilibria, as well as chemical and biological kinetics. | Prerequisites: CM-UY 1004 and MA-UY 1124 or MA-UY 1154 and PH-UY 1004.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 2614",
+            "course_name": "Physical Chemistry I",
+            "description": "CM-UY 2614 Physical Chemistry I \nThis course covers chemical thermodynamics with applications to solutions, phase and chemical equilibria. Molecular motion and transport properties are also covered. | Prerequisites: CM-UY 1004 or CM-UY 1024 and MA-UY 1124 or MA-UY 1154 and PH-UY 1013.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 3114",
+            "course_name": "Inorganic Chemistry",
+            "description": "CM-UY 3114 Inorganic Chemistry \nThis course covers atomic structures of elements as the basis for periodic classification. Also covered is descriptive chemistry of elements and their compounds and theories of chemical bonds. Coordination chemistry is introduced. | Prerequisite: CM-UY 2514 or CM-UY 2614.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 3214",
+            "course_name": "INDUSTRIAL ORGANIC CHEMISTRY",
+            "description": "CM-UY 3214 INDUSTRIAL ORGANIC CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 3314",
+            "classes": [
+                {}
+            ],
+            "course_name": "Biochemistry I",
+            "description": "CM-UY 3314 Biochemistry I \nThis course surveys modern biochemistry and emphasizes current areas of research. Also covered are structure-function relationships in proteins; enzymes and their mechanisms of action; bioenergetics principles and energy production; and biochemical theories and techniques. | Prerequisites: CM-UY 2213 or CM-UY 2214 or CM-UY 2234 and CM-UY 2614 or CM-UY 2514 or instructor\u2019s permission.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 3324",
+            "course_name": "Biochemistry II",
+            "description": "CM-UY 3324 Biochemistry II \nThis course continues Biochemistry I. It covers principles of intermediary metabolism: energetic membrane structure and transport; structure and function of DNA and RNA; principles of molecular biology; the immune system; and hormonal regulation and cancer. | Prerequisite: CM-UY 3314 or instructor\u2019s permission.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 3514",
+            "course_name": "Analytical Chemistry",
+            "description": "CM-UY 3514 Analytical Chemistry \nThis course covers theories and applications of instrumentation techniques in modern analytical chemistry, including spectroscopy (UVVIS absorption, infrared absorption, fluorescence, Raman scattering, nuclear magnetic resonance), chromatography (gas, liquid) and other techniques (mass spectroscopy, electrophoresis). The accompanying laboratory part focuses on practical skills. | Prerequisite: CM-UY 2514 or CM-UY 2614.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 3614",
+            "course_name": "Physical Chemistry II",
+            "description": "CM-UY 3614 Physical Chemistry II \nThis course covers chemical kinetics and molecular structures and interactions and their relationship to the bulk properties of matter. The laboratory component introduces the experimental quantitative methods of analytical and physical chemistry, including volumetric, calorimetric and optical techniques. Also covered are computer analysis of data and report writing. | Prerequisite: CM-UY 2514 or CM-UY 2614.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 4011",
+            "course_name": "INFORMATION SOURCES FOR THE CHEMICAL SCIENCES",
+            "description": "CM-UY 4011 INFORMATION SOURCES FOR THE CHEMICAL SCIENCES \nThis hands-on course introduces methods and tools for searching. It includes both electronic (CD-ROM and online) and print databases. Students may emphasize topics related to their research. Required of all BS students in biomolecular science.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 4314",
+            "course_name": "Biomaterials",
+            "description": "CM-UY 4314 Biomaterials \nThis course covers natural macromolecules, including polypeptides, polysaccharides, lignin, biodegradable polymers and special characterizations of these biopolymers. | Prerequisite: CM-UY 4414 or CM-UY 4413.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 4413",
+            "classes": [
+                {}
+            ],
+            "course_name": "Polymer Science",
+            "description": "CM-UY 4413 Polymer Science \nThis course provides a broad perspective of polymer science and its application in everyday life. The course has three major components: a survey of polymers, polymer synthesis and aspects of polymer physics. | Prerequisites: CM-UY 2214 and CM-UY 2614 or CM-UY 2514.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-UY 440",
+            "course_name": "| CM-UY 4414 Polymer Chemistry",
+            "description": "CM-GY  440 | CM-UY  440 | CM-UY 4414 Polymer Chemistry \nThis course introduces polymer chemistry. It covers the principles of various polymerization methods, characterization and physical chemistry of polymers. A laboratory is included. | Prerequisites: CM-UY 2214 and CM-UY 2514 or CM-UY 2614.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 4914",
+            "course_name": "UNDERGRAD RESEARCH IN CHEMISTRY",
+            "description": "CM-UY 4914 UNDERGRAD RESEARCH IN CHEMISTRY \nIn this course, students conduct original investigations guided by staff members.  Careful literature research is required before laboratory work starts. Continued  reference to chemical literature is expected as well as active participation in  conferences and seminars, both of which are scheduled as work progresses. A  written report is required. Fulltime students are expected to register for 8 credits of  thesis during senior year. A research (lab) fee is required. | Prerequisites: CM-GY 5011 and CM-GY 5040.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 4924",
+            "course_name": "UNDERGRADUATE RESEARCH IN CHEMISTRY",
+            "description": "CM-UY 4924 UNDERGRADUATE RESEARCH IN CHEMISTRY \nIn this course, students conduct original investigations guided by staff members.  Careful literature research is required before laboratory work starts. Continued  reference to chemical literature is expected as well as active participation in  conferences and seminars, both of which are scheduled as work progresses. A  written report is required. Fulltime students are expected to register for 8 credits of  thesis during senior year. A research (lab) fee is required. | Prerequisites: CM-GY 5011 and CM-GY 5040.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 5024",
+            "course_name": "ENVIRONMENTAL CHEMISTRY",
+            "description": "CM-GY  502 | CM-UY 5024 ENVIRONMENTAL CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-UY 5444",
+            "course_name": "MOLECULAR MODELING & SIMULATION",
+            "description": "CM-UY 5444 MOLECULAR MODELING & SIMULATION",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "major_id": "ASL-UE",
+    "file": "./2015-2016/American_Sign_Language_(ASL-UE).html",
+    "courses": [
+        {
+            "course_id": "ASL-UE 91",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10440",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Mon,Tue,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Moskowitz, Carole"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10441",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 429",
+                    "time": "Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Morrow, Miriam"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10442",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Mon,Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Collins, Maureen"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10443",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Mon,Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Mowry, Randolph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10444",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Mon,Tue,Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Sweenie, Janna"
+                }
+            ],
+            "course_name": "American Sign Language I",
+            "description": "ASL-UE   91 American Sign Language I \nFundamental principles of grammar & syntax, a basic vocabulary, & conventions of conversational discourse in the deaf community.  Emphasis is placed on developing the visual perception skills critical to understanding ASL.  Taught in a visual-manual method using no spoken English.",
+            "offering": true
+        },
+        {
+            "course_id": "ASL-UE 92",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10445",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Mon,Tue,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Moskowitz, Carole"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10446",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 429",
+                    "time": "Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Morrow, Miriam"
+                }
+            ],
+            "course_name": "American Sign Languge II",
+            "description": "ASL-UE   92 American Sign Languge II \nContinues vocabulary development; introduces the student to intermediate grammatical & conversational techniques & aspects of deal culture & history.  Expressive skill development emphasizes smoothness & clarity in producing ASL.  Receptive skill development emphasizes understanding ASL and fingerspelling at a moderate rate.  Taught in a visual-manual method using no spoken English.",
+            "offering": true
+        },
+        {
+            "course_id": "ASL-UE 93",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10447",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Mon,Tue,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Sweenie, Janna"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10448",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 429",
+                    "time": "Tue,Wed,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "King, Carmen"
+                }
+            ],
+            "course_name": "American Sign Language III",
+            "description": "ASL-UE   93 American Sign Language III \nA continuation of ASL-UE 91 (American Sign Language I), ASL-UE 92 (American Sign Language II). Emphasis is on developing fluency in both expressive & receptive skills. Videotaping sessions also form an integral part of this course.",
+            "offering": true
+        },
+        {
+            "course_id": "ASL-UE 94",
+            "course_name": "American Sign Language IV",
+            "description": "ASL-UE   94 American Sign Language IV \nA continuation of ASL-UE 91 (American Sign Language I), ASL-UE 92 (American Sign Language II), ASL-UE 93 (American Sign Language III). Emphasis is on developing fluency in both expressive & receptive skills. Videotaping sessions also form an integral part of this course.",
+            "offering": false
+        },
+        {
+            "course_id": "ASL-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "11410",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Mowry, Randolph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "ASL-UE 1000 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student's department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "ASL-UE 1091",
+            "course_name": "Amer Sign Lang Level II",
+            "description": "ASL-UE 1091 Amer Sign Lang Level II",
+            "offering": false
+        },
+        {
+            "course_id": "ASL-UE 1092",
+            "course_name": "Amer Sign Lang Level II",
+            "description": "ASL-UE 1092 Amer Sign Lang Level II",
+            "offering": false
+        },
+        {
+            "course_id": "ASL-UE 9091",
+            "course_name": "American Sign Language I",
+            "description": "ASL-UE 9091 American Sign Language I \nFundamental principles of grammar & syntax, a basic vocabulary, & conventions of conversational discourse in the deaf community.  Emphasis is placed on developing the visual perception skills critical to understanding ASL.  Taught in a visual-manual method using no spoken English.",
+            "offering": false
+        },
+        {
+            "course_id": "ASL-UE 9092",
+            "course_name": "American Sign Language II",
+            "description": "ASL-UE 9092 American Sign Language II \nContinues vocabulary development; introduces the student to intermediate grammatical & conversational techniqes & aspects of deal culture and history.  Expressive skill development emphasizes smoothness & clarity in producing ASL.  Receptive skill development emphasizes understanding ASL & fingerspelling at a moderate rate.  Taught in a visual-manual method using no spoken English.",
+            "offering": false
+        },
+        {
+            "course_id": "ASL-UE 9093",
+            "course_name": "American Sign Language III",
+            "description": "ASL-UE 9093 American Sign Language III \nA continuation of ASL-UE 91 American Sign Language I, ASL-UE 92 American Sign Language II. Emphasis is on developing fluency in both expressive & receptive skills. Videotaping sessions also form an integral part of this course.",
+            "offering": false
+        }
+    ]
+}

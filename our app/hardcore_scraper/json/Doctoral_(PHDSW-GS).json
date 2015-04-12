@@ -1,0 +1,486 @@
+{
+    "major_id": "PHDSW-GS",
+    "file": "./2015-2016/Doctoral_(PHDSW-GS).html",
+    "courses": [
+        {
+            "course_id": "PHDSW-GS 3001",
+            "course_name": "Principles of Psychodynamic Theory",
+            "description": "PHDSW-GS 3001 Principles of Psychodynamic Theory",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3002",
+            "course_name": "Social Issues in Clinical Social Work",
+            "description": "PHDSW-GS 3002 Social Issues in Clinical Social Work",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3003",
+            "course_name": "Doctoral Seminar in Individual Treatment",
+            "description": "PHDSW-GS 3003 Doctoral Seminar in Individual Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3004",
+            "course_name": "Recent Dev in Ego Psych &Obj Relations Theory",
+            "description": "PHDSW-GS 3004 Recent Dev in Ego Psych &Obj Relations Theory",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3005",
+            "course_name": "Doctoral Seminar in Family Treatment",
+            "description": "PHDSW-GS 3005 Doctoral Seminar in Family Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3006",
+            "course_name": "Clinical Research I",
+            "description": "PHDSW-GS 3006 Clinical Research I",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3007",
+            "course_name": "Prin:Soc SCI Theory for Clinical Social Work",
+            "description": "PHDSW-GS 3007 Prin:Soc SCI Theory for Clinical Social Work",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3008",
+            "course_name": "Issues in Clinical Diagnosis",
+            "description": "PHDSW-GS 3008 Issues in Clinical Diagnosis",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3009",
+            "course_name": "Practicum Seminar I",
+            "description": "PHDSW-GS 3009 Practicum Seminar I",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3010",
+            "course_name": "Practicum I",
+            "description": "PHDSW-GS 3010 Practicum I",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3011",
+            "course_name": "Practicum Seminar II",
+            "description": "PHDSW-GS 3011 Practicum Seminar II",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3012",
+            "course_name": "Practicum II",
+            "description": "PHDSW-GS 3012 Practicum II",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3013",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20462",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "1WSN 404",
+                    "time": "Wed 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Guilamo, Vincent"
+                }
+            ],
+            "course_name": "Dissertation Proseminar",
+            "description": "PHDSW-GS 3013 Dissertation Proseminar",
+            "offering": true
+        },
+        {
+            "course_id": "PHDSW-GS 3014",
+            "course_name": "Clin Prog + Staff Dev Consultation&Supervision",
+            "description": "PHDSW-GS 3014 Clin Prog + Staff Dev Consultation&Supervision",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3015",
+            "course_name": "Doctoral Dissertation Independent Study",
+            "description": "PHDSW-GS 3015 Doctoral Dissertation Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3016",
+            "course_name": "Doctoral Dissertation Independent Study",
+            "description": "PHDSW-GS 3016 Doctoral Dissertation Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3017",
+            "course_name": "Doctoral Seminar in Group Treatment",
+            "description": "PHDSW-GS 3017 Doctoral Seminar in Group Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3023",
+            "course_name": "Doctoral Seminar in The Treatment of Adolescents",
+            "description": "PHDSW-GS 3023 Doctoral Seminar in The Treatment of Adolescents",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3024",
+            "course_name": "Clin Issues:Long-Term Psychosoc Intervention",
+            "description": "PHDSW-GS 3024 Clin Issues:Long-Term Psychosoc Intervention",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3025",
+            "course_name": "Doctoral Sem in Freud'S Case Studies",
+            "description": "PHDSW-GS 3025 Doctoral Sem in Freud'S Case Studies",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3026",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5308",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Guilamo, Vincent; Salazar, Genielle",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Dissertation Seminar",
+            "description": "PHDSW-GS 3026 Doctoral Dissertation Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "PHDSW-GS 3027",
+            "course_name": "",
+            "description": "PHDSW-GS 3027\n\n   Quantitative Methods\n\nThis course explores a range of quantitative social science research methodologies that can be applied to the study of clinical social work practice. Students acquire a critical understanding of the comparative advantages and disadvantages of different methods with reference to selected research problems.  The objectives of this course are to develop and deepen an understanding of quantitative methods used in clinical research; to identify the phases of conducting research; to acquaint course participants with a variety of approaches to the study of clinical practice. Special emphasis will be ...\n\n      more description for PHDSW-GS 3027 \u00bb\n\n      \n\n\n\nThis course explores a range of quantitative social science research methodologies that can be applied to the study of clinical social work practice. Students acquire a critical understanding of the comparative advantages and disadvantages of different methods with reference to selected research problems.  The objectives of this course are to develop and deepen an understanding of quantitative methods used in clinical research; to identify the phases of conducting research; to acquaint course participants with a variety of approaches to the study of clinical practice. Special emphasis will be placed on generating researchable questions, measurement, scale assessment, questionnaire and interview data collection instruments and their construction, the development of other types of instruments, sampling methods, and preparing data for analysis. The importance of sensitivity to measurement and response issues across diverse populations will be stressed. The course aims to provide students with some actual experience in the location and assessment of measures of constructs used in clinical research. Furthermore the course will provide experience in the development and piloting of an instrument, and an introduction to basic data handling.\n\n      less description for PHDSW-GS 3027 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3028",
+            "course_name": "Introductory Statistics",
+            "description": "PHDSW-GS 3028 Introductory Statistics \nThis course provides an introduction to basic methods of statistical analysis used in quantitative social work research. It will focus on both the conceptual understanding and the skills needed to analyze quantitative data. Skills will be applied using the Statistical Package for the Social Sciences (SPSS-PC).",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3029",
+            "course_name": "Contemporary Issues in Developmental Theory",
+            "description": "PHDSW-GS 3029 Contemporary Issues in Developmental Theory",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3030",
+            "course_name": "Psych & Dev Disorders in Child/Adolescents",
+            "description": "PHDSW-GS 3030 Psych & Dev Disorders in Child/Adolescents",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3031",
+            "course_name": "Thry/Trtmt Interv:Cli Sw Border Narc Child/Adoles",
+            "description": "PHDSW-GS 3031 Thry/Trtmt Interv:Cli Sw Border Narc Child/Adoles",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3032",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5309",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "1WSN 404",
+                    "time": "Tue 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "Padgett, Deborah"
+                }
+            ],
+            "course_name": "Qualitative Methods",
+            "description": "PHDSW-GS 3032 Qualitative Methods \nThis course is designed to introduce students to the principles and methods of qualitative methods and research. The course will cover the theoretical and disciplinary origins as well as applications of qualitative methods relevant to social work practice, programs, and policy.",
+            "offering": true
+        },
+        {
+            "course_id": "PHDSW-GS 3033",
+            "course_name": "",
+            "description": "PHDSW-GS 3033\n\n   Teaching Social Work\n\nThis doctoral seminar prepares students for teaching in social work. It introduces students to selected literature on teaching and learning in higher education, including theories of adult learning, the social work education literature, the range of roles and responsibilities of faculty members, and current issues in social work education. Modes of teaching and learning and their relationship to subject matter, settings, and educational outcomes will be considered, and students' concurrent teaching activities will be used for reflective learning.  In spring, the course will be project-based. S...\n\n      more description for PHDSW-GS 3033 \u00bb\n\n      \n\n\n\nThis doctoral seminar prepares students for teaching in social work. It introduces students to selected literature on teaching and learning in higher education, including theories of adult learning, the social work education literature, the range of roles and responsibilities of faculty members, and current issues in social work education. Modes of teaching and learning and their relationship to subject matter, settings, and educational outcomes will be considered, and students' concurrent teaching activities will be used for reflective learning.  In spring, the course will be project-based. Specifically, the MSW Program at NYU is asking for proposals on how best to evaluate the educational effectiveness of the Program. The instructor and the students will plan together how to develop one or more proposals as well as how the usual topics in the course can be addressed. Hence the course in spring, will offer a real-life exercise in educational planning and the evaluation of social work education.\n\n      less description for PHDSW-GS 3033 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3034",
+            "course_name": "Doctoral Seminar in Group Treatment",
+            "description": "PHDSW-GS 3034 Doctoral Seminar in Group Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3035",
+            "course_name": "Pract & Social Pol Issue in Forensic Mental Hlth",
+            "description": "PHDSW-GS 3035 Pract & Social Pol Issue in Forensic Mental Hlth",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3036",
+            "course_name": "Trauma:Theory & Treatmnt",
+            "description": "PHDSW-GS 3036 Trauma:Theory & Treatmnt",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3037",
+            "course_name": "Short Term Dynamic Treatment",
+            "description": "PHDSW-GS 3037 Short Term Dynamic Treatment",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3038",
+            "course_name": "New Direction Relational & Intersub Theor & Pract",
+            "description": "PHDSW-GS 3038 New Direction Relational & Intersub Theor & Pract",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3039",
+            "course_name": "Comparative Criminal Justice",
+            "description": "PHDSW-GS 3039 Comparative Criminal Justice",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3040",
+            "course_name": "Post Modern and Feminist Theory",
+            "description": "PHDSW-GS 3040 Post Modern and Feminist Theory",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3041",
+            "course_name": "Cult Issues in Theory, Policy, Practice & Rsrch",
+            "description": "PHDSW-GS 3041 Cult Issues in Theory, Policy, Practice & Rsrch",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3042",
+            "course_name": "Relational Theory for Clinical Pract & Rsrch",
+            "description": "PHDSW-GS 3042 Relational Theory for Clinical Pract & Rsrch",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3043",
+            "course_name": "Intro Statistics for Doctoral Students",
+            "description": "PHDSW-GS 3043 Intro Statistics for Doctoral Students",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3044",
+            "course_name": "Comparative Models of Clinical Practice",
+            "description": "PHDSW-GS 3044 Comparative Models of Clinical Practice",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3045",
+            "course_name": "Critical Prespect/Theor Clinical Social Wk Pract",
+            "description": "PHDSW-GS 3045 Critical Prespect/Theor Clinical Social Wk Pract",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3046",
+            "course_name": "Globalization/Hlth Care: Policy and Pract Issues",
+            "description": "PHDSW-GS 3046 Globalization/Hlth Care: Policy and Pract Issues",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3048",
+            "course_name": "",
+            "description": "PHDSW-GS 3048\n\n   History of Social Work & Social Welfare\n\nThe history of social work is closely aligned with changes in social welfare policy in the United States. In turn, social welfare policies have influenced, and continue to influence, the development of the profession of social work. In order to contribute to the further evolution of the profession, it is critical for students to understand policy inputs, including economic, social, political and cultural values that influence policy decisions, as well as to gain a critical understanding of theories of social work practice as they relate to the contemporary world. Moreover, as part of this proc...\n\n      more description for PHDSW-GS 3048 \u00bb\n\n      \n\n\n\nThe history of social work is closely aligned with changes in social welfare policy in the United States. In turn, social welfare policies have influenced, and continue to influence, the development of the profession of social work. In order to contribute to the further evolution of the profession, it is critical for students to understand policy inputs, including economic, social, political and cultural values that influence policy decisions, as well as to gain a critical understanding of theories of social work practice as they relate to the contemporary world. Moreover, as part of this process of inquiry, it is important to develop critical thinking about policy outputs, including the analysis of the process of policy implementation and policy products.  This course will provide a critical view of the development of social work as a discipline and as a profession in the United States. The past 100 years of social work will be examined within the contest of evolving social welfare policies and political events influencing policy choices. The tension and dialectic between elements of the social work profession itself will be analyzed with a view toward encouraging the student to develop his/her own nuanced view of the role of the profession in the future. The course will also examine the political processes, ideology and economic processes in terms of their relevance for the development of social policies. The influence of contemporary social forces on the profession will be explored as well as the reaction of social work to these phenomena. The relationship of theory to social policy will also be explored, including feminist theory. Finally, an introduction to the critical analysis of contemporary social policies as they relate to social work practice will be examined.\n\n      less description for PHDSW-GS 3048 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3049",
+            "course_name": "",
+            "description": "PHDSW-GS 3049\n\n   Methods of Inquiry\n\nThis course introduces students to the scientific method as a way of knowing and provides an overview of the research methods most commonly used in social work. The course will cover qualitative research, both group designs and the case study method. It will also review survey (descriptive), relational, experimental and single-system designs.  The emphasis in this course is on the differing purposes of each type of research design and the varying ways each typically approaches such issues as sampling and data collection. Coherence of design is emphasized. Examples of classic and recently publi...\n\n      more description for PHDSW-GS 3049 \u00bb\n\n      \n\n\n\nThis course introduces students to the scientific method as a way of knowing and provides an overview of the research methods most commonly used in social work. The course will cover qualitative research, both group designs and the case study method. It will also review survey (descriptive), relational, experimental and single-system designs.  The emphasis in this course is on the differing purposes of each type of research design and the varying ways each typically approaches such issues as sampling and data collection. Coherence of design is emphasized. Examples of classic and recently published studies illustrating each type of design will be examined in depth to understand its use. Because social work research takes place in a diverse world, the course covers enhancing the cultural competence of one's approach to research. Research ethics will also be considered because they are basic to all sound research designs. Thus this course serves as the foundation from which students will move on to consider qualitative and quantitative methods in greater depth.\n\n      less description for PHDSW-GS 3049 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3050",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5310",
+                    "section": "001",
+                    "period": "10/28/2015 - 12/16/2015",
+                    "location": "1WSN 404",
+                    "time": "Wed 2.30 PM - 6.30 PM",
+                    "open": true,
+                    "professor": "Wakefield, Jerome"
+                }
+            ],
+            "course_name": "",
+            "description": "PHDSW-GS 3050\n\n   Philosophy of Science & Knowledge Development\n\nThis course is designed to provide new doctoral students with an introduction to the philosophical foundations of scientific research within the social work field, and with some of the general intellectual tools they will need to be effective participants and leaders in our field's theoretical and intellectual dialogue. There will also be an initial segment focusing on the conceptual foundations of social work as a profession.  Philosophy of science enters into our work as intellectual leaders in the clinical-research domain in three ways. First, philosophy of science addresses fundamental gen...\n\n      more description for PHDSW-GS 3050 \u00bb\n\n      \n\n\n\nThis course is designed to provide new doctoral students with an introduction to the philosophical foundations of scientific research within the social work field, and with some of the general intellectual tools they will need to be effective participants and leaders in our field's theoretical and intellectual dialogue. There will also be an initial segment focusing on the conceptual foundations of social work as a profession.  Philosophy of science enters into our work as intellectual leaders in the clinical-research domain in three ways. First, philosophy of science addresses fundamental general issues concerning the nature of knowledge, the evaluation of research, and preferable research methodologies across the sciences, and how to reason scientifically. Second, within social work itself, the debates in philosophy of science have found expression in specific disputes and divisions among social work researchers that can only be understood in the context of philosophy of science. And third, philosophy of science, in addressing the nature of theory change and rational assessment of beliefs, can be construed as indirectly addressing a perennial question in clinical theory: how can the therapist come to understand the client's theory of the world, by what evidence (or other processes) is the client's theory of the world maintained, and by what techniques might this theory be changed? In the course of these sessions, we will attempt to consider all three of these facets or levels of the interaction of philosophy of science with clinical research.\n\n      less description for PHDSW-GS 3050 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHDSW-GS 3051",
+            "course_name": "Philosophy of Science & Knowledge Development",
+            "description": "PHDSW-GS 3051 Philosophy of Science & Knowledge Development",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3052",
+            "course_name": "Methods of Inquiry: Quantitative Methods",
+            "description": "PHDSW-GS 3052 Methods of Inquiry: Quantitative Methods",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3053",
+            "course_name": "Macro Level Theories in the Social Sciences",
+            "description": "PHDSW-GS 3053 Macro Level Theories in the Social Sciences \nThis course provides an overview of social science theories that are relevant to social work. Students will develop a critical understanding of the history and application of social science concepts. Wherever possible, we have selected theories that have an historical foundation and a forward trajectory toward contemporary issues. We also include articles or research with an alternative or critical view of the theories in question.",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3054",
+            "course_name": "Trauma Studies",
+            "description": "PHDSW-GS 3054 Trauma Studies",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3055",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5311",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Ind Study",
+            "description": "PHDSW-GS 3055 Doctoral Ind Study",
+            "offering": true
+        },
+        {
+            "course_id": "PHDSW-GS 3056",
+            "course_name": "Research On Social Work",
+            "description": "PHDSW-GS 3056 Research On Social Work",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3057",
+            "course_name": "Theories of Clinical Practice",
+            "description": "PHDSW-GS 3057 Theories of Clinical Practice \nThe course first will consider the definition of clinical social work, briefly review the evolution of the knowledge base of clinical social work, and consider key issues in the development of practice theory and empirical research. Then it will critically compare major current theories and practice models. Finally it will discuss some of the issues involved in clinical research.",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3058",
+            "course_name": "Multivariate Statistics",
+            "description": "PHDSW-GS 3058 Multivariate Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3059",
+            "course_name": "",
+            "description": "PHDSW-GS 3059\n\n   Policy Analysis & Social Practice\n\nThis course focuses on the analysis of social welfare policies and theories guiding direct practice within a social justice perspective. Historic tensions between social work's dual interest in changing individual behavior and the reform of institutional arrangements that constrain clients in their quest for self- actualization, assume new dimensions in the 21st century with the globalization of the economy, dislocation, increasing inequality, and world-wide violation of human rights. These trends challenge social work scholars, policy makers and practitioners to critically evaluate assumption...\n\n      more description for PHDSW-GS 3059 \u00bb\n\n      \n\n\n\nThis course focuses on the analysis of social welfare policies and theories guiding direct practice within a social justice perspective. Historic tensions between social work's dual interest in changing individual behavior and the reform of institutional arrangements that constrain clients in their quest for self- actualization, assume new dimensions in the 21st century with the globalization of the economy, dislocation, increasing inequality, and world-wide violation of human rights. These trends challenge social work scholars, policy makers and practitioners to critically evaluate assumptions underlying policy development and social theory to remain true to social work's s historic commitment to social justice within a society of increasing diversity and growing social exclusion. The course builds of content of the first year of doctoral study and encourages the use of critical thinking and the advancement of empirical knowledge to support socially just policy, practice and theory development in light of contemporary societal trends. Integrating social work's historic concern for social justice and the implications of societal trends for the equitable distribution of societal resources, the course encourages critical thinking and an expanded theoretical knowledge base to support varied approaches to direct services with diverse client groups anchored in a social justice perspective. The course initially examines the philosophical underpinnings of social work and social justice as an organizing principle of the profession, theories shaping contemporary direct social work practice and frameworks for social welfare policy analysis. The second half of the course applies this content in selected social welfare policy domains through in-class student presentations focused on a specific social problems and target populations. Finally, the course looks at implications of professional trends emphasizing evidence based-practice and leadership challenges for clinical social work in the 21st century.\n\n      less description for PHDSW-GS 3059 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3060",
+            "course_name": "Doctoral Statitics Refresher",
+            "description": "PHDSW-GS 3060 Doctoral Statitics Refresher",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3061",
+            "course_name": "Alcohol Tobacco and Other Drug Issues",
+            "description": "PHDSW-GS 3061 Alcohol Tobacco and Other Drug Issues",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3062",
+            "course_name": "",
+            "description": "PHDSW-GS 3062\n\n   Conducting Survey Rsch: a Practical Guide\n\nSurvey research is a form of research designed to collect self-report data from individuals about their opinions, beliefs, behaviors, experiences, life conditions, and subjective states.  Usually the survey researcher is collecting data from a sample of a larger population to which the researcher desires to generalize the findings.  This motive has significant implications for the sampling and data collection methods that are used.  This course is designed for individuals who are contemplating using survey methodology for conducting research.  The course will include the following:  when surve...\n\n      more description for PHDSW-GS 3062 \u00bb\n\n      \n\n\n\nSurvey research is a form of research designed to collect self-report data from individuals about their opinions, beliefs, behaviors, experiences, life conditions, and subjective states.  Usually the survey researcher is collecting data from a sample of a larger population to which the researcher desires to generalize the findings.  This motive has significant implications for the sampling and data collection methods that are used.  This course is designed for individuals who are contemplating using survey methodology for conducting research.  The course will include the following:  when survey research is and is not the best method to use; the modes of conducting surveys (paper questionnaire, on-line questionnaire, interview) and determining which is the best for a given study; sampling considerations and decisions (e.g. is a probability sample possible for a given study?  if not, how should one go about recruiting the sample?); sample size considerations; when is response rate important and methods for increasing it; designing a reliable, unbiased, and effective data collection instrument that will answer the study questions and hypotheses; the importance and value of independent variables; importance of and methods for pretesting instruments; survey management, data cleaning and preparation; and special issues in survey research, e.g. surveying about sensitive topics, cross-cultural surveys. Students will design and conduct a survey on a topic of their choice during the semester.\n\n      less description for PHDSW-GS 3062 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3063",
+            "course_name": "Systematic Reviews and Meta-Analysis",
+            "description": "PHDSW-GS 3063 Systematic Reviews and Meta-Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3064",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19705",
+                    "section": "001",
+                    "period": "10/29/2015 - 12/10/2015",
+                    "location": "1WSN 404",
+                    "time": "Thu 2.30 PM - 6.30 PM",
+                    "open": true,
+                    "professor": "McKay, Mary"
+                }
+            ],
+            "course_name": "Social and Behavioral Intervention Research",
+            "description": "PHDSW-GS 3064 Social and Behavioral Intervention Research",
+            "offering": true
+        },
+        {
+            "course_id": "PHDSW-GS 3065",
+            "course_name": "Spec Tpcs in Qualitative Reseach",
+            "description": "PHDSW-GS 3065 Spec Tpcs in Qualitative Reseach",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3066",
+            "course_name": "Depression: Conceptual Issues & Clinical Perspe",
+            "description": "PHDSW-GS 3066 Depression: Conceptual Issues & Clinical Perspe",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3067",
+            "course_name": "Conceptual & Methodology Issues in Applied Data",
+            "description": "PHDSW-GS 3067 Conceptual & Methodology Issues in Applied Data",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3068",
+            "course_name": "Narrative Inquiry for Teach, Learn, & Research",
+            "description": "PHDSW-GS 3068 Narrative Inquiry for Teach, Learn, & Research",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3069",
+            "course_name": "Structural Equation Modeling",
+            "description": "PHDSW-GS 3069 Structural Equation Modeling \nThis course is an introduction to structural equation models as applied to problems in the social sciences, broadly defined.  The major purpose of the course is to familiarize students with the technique of structural equation modeling and to provide them with working  knowledge of relevant computer programs. Topics include limited information versus full information estimation strategies, single indicator structural modeling, confirmatory factor analysis, latent variable modeling, mediation analysis, and strategies for dealing with diverse error structures in model estimation.",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3070",
+            "course_name": "",
+            "description": "PHDSW-GS 3070\n\n   Advanced Structural Equation Modeling\n\nThis course is a continuation of introductory course on structural equation models as applied to problems in the social sciences, broadly defined. The major purpose of the course is to familiarize students with the technique of structural equation modeling and to provide them with working knowledge of relevant computer programs. Topics include limited information versus full information estimation strategies, single indicator structural modeling, confirmatory factor analysis, latent variable modeling, mediation analysis, and strategies for dealing with diverse error structures in model estimat...\n\n      more description for PHDSW-GS 3070 \u00bb\n\n      \n\n\n\nThis course is a continuation of introductory course on structural equation models as applied to problems in the social sciences, broadly defined. The major purpose of the course is to familiarize students with the technique of structural equation modeling and to provide them with working knowledge of relevant computer programs. Topics include limited information versus full information estimation strategies, single indicator structural modeling, confirmatory factor analysis, latent variable modeling, mediation analysis, and strategies for dealing with diverse error structures in model estimation.\n\n      less description for PHDSW-GS 3070 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3071",
+            "course_name": "",
+            "description": "PHDSW-GS 3071\n\n   Adolescent Decision Making\n\nThis course focuses on adolescent decision making, emphasizing how \u201cnormal\u201d adolescents make decisions in everyday life.  The course provides an overview of major theories of adolescent decision making and teaches students how to use the theories to design effective prevention interventions to reduce adolescent problem behaviors. The course covers state of the art research on adolescent decision making and is strongly grounded in science.  Topics include the relationship between adolescent decision making and positive youth development, adolescent cognitive reasoning, social influences on adol...\n\n      more description for PHDSW-GS 3071 \u00bb\n\n      \n\n\n\nThis course focuses on adolescent decision making, emphasizing how \u201cnormal\u201d adolescents make decisions in everyday life.  The course provides an overview of major theories of adolescent decision making and teaches students how to use the theories to design effective prevention interventions to reduce adolescent problem behaviors. The course covers state of the art research on adolescent decision making and is strongly grounded in science.  Topics include the relationship between adolescent decision making and positive youth development, adolescent cognitive reasoning, social influences on adolescent decisions, the emotional bases of decision making, biological development and adolescent decision making, unconscious processes, impulsive/split second decision making, and contextual influences on decision making.  A general framework for organizing and synthesizing these diverse topics will be developed in conjunction with fundamental principles of intervention design.\n\n      less description for PHDSW-GS 3071 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHDSW-GS 3555",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "19890",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Independent Study",
+            "description": "PHDSW-GS 3555 Doctoral Independent Study \nIndependent study project under faculty supervision",
+            "offering": true
+        }
+    ]
+}

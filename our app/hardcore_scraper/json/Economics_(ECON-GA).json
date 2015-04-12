@@ -1,0 +1,1266 @@
+{
+    "major_id": "ECON-GA",
+    "file": "./2015-2016/Economics_(ECON-GA).html",
+    "courses": [
+        {
+            "course_id": "ECON-GA 1001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1254",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Wed 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Hodge, James"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1255",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC11",
+                    "time": "Fri 1.30 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "Arkonac, Seyhan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1256",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.25 PM - 9.55 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1257",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.35 PM - 5.05 PM",
+                    "open": true,
+                    "professor": "TISC LC11"
+                }
+            ],
+            "course_name": "Math for Economists (MA)",
+            "description": "ECON-GA 1001 Math for Economists (MA) \nApplications of mathematics to economics: functions, simultaneous equations; linear models and matrix algebra; determinants, inverse matrix, Cramer?s rule; differentiation and optimization of functions of one or more variables; quadratic forms, characteristic roots and vectors, constrained optimization; interpretation of the Lagrange multiplier. Techniques applied to examples from the theory of the firm and consumer behavior.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1003",
+            "course_name": "Microeconomics (MA)",
+            "description": "ECON-GA 1003 Microeconomics (MA) \nApplied microeconomics relating to the firm in various markets and household behavior.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1258",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Guaitoli, Danilo"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1259",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Tue 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Guaitoli, Danilo"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1260",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.25 PM - 9.55 PM",
+                    "open": true,
+                    "professor": "SILV 414"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1261",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.25 PM - 9.55 PM",
+                    "open": true,
+                    "professor": "SILV 414"
+                }
+            ],
+            "course_name": "Macroeconomics(MA)",
+            "description": "ECON-GA 1005 Macroeconomics(MA) \nMacroeconomic theory applied to aggregate supply and demand and their components, designing and implementing macroeconomic policy goals and forecasting GDP and its components.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1006",
+            "course_name": "Macroeconomic Theory II",
+            "description": "ECON-GA 1006 Macroeconomic Theory II \nMacroeconomic theory applied to current controversial topics in the field.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1021",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1262",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "19W4 51709/02/2015 - 12/15/2015 Wed 1.00 PM - 3.00 PM at 19W4 517"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1263",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "19W4 517"
+                }
+            ],
+            "course_name": "Math F/Economists I-PhD",
+            "description": "ECON-GA 1021 Math F/Economists I-PhD \nReviews theory of calculus, linear algebra, and constrained optimization. Theory and methods of differential equations, calculus of variations, optimal control theory, and dynamic programming applied to economic problems.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1022",
+            "course_name": "Math for Economists II (PhD)",
+            "description": "ECON-GA 1022 Math for Economists II (PhD) \nMethods and applications of optimal control theory to problems of economics. Discusses economic applications of stochastic processes, probability, measure theory, and topology.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1023",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1264",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 3-80",
+                    "time": "Tue,Thu 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "Bisin, Alberto; Rubinstein, Ariel"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1265",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "19W4 736"
+                }
+            ],
+            "course_name": "Microeconomics I (PhD)",
+            "description": "ECON-GA 1023 Microeconomics I (PhD) \nTheory of the firm and consumer behavior; introduction to the theory of perfectly competitive and monopolistic markets; pricing techniques; introduction to game theory.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1024",
+            "course_name": "Microeconomics II (PhD)",
+            "description": "ECON-GA 1024 Microeconomics II (PhD) \nIntroduction to general equilibrium theory, welfare economics, and imperfect competition.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1025",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1266",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517",
+                    "time": "Mon,Wed 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Ljungqvist, Lars; Sargent, Thomas"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1267",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "19W4 517"
+                }
+            ],
+            "course_name": "Macroeconomics (PhD)",
+            "description": "ECON-GA 1025 Macroeconomics (PhD) \nModels of national income determination; sectorial inflation; labor markets, production theories, and aggregate supply models; supply and demand for money; foreign trade and balance of payments.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1026",
+            "course_name": "Macroeconomics II (PhD)",
+            "description": "ECON-GA 1026 Macroeconomics II (PhD) \nClassical and Keynesian macroeconomic thought, modern-day microeconomic theories of money-wage and price determinations, and reconstruction of macro theory.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1041",
+            "course_name": "Marxian Economics",
+            "description": "ECON-GA 1041 Marxian Economics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1042",
+            "course_name": "Marxian Economics II",
+            "description": "ECON-GA 1042 Marxian Economics II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1268",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 102",
+                    "time": "Thu 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Lentzas, Georgio"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1269",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.25 PM - 10.25 PM",
+                    "open": true,
+                    "professor": "19UP 102"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1270",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 408",
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "McCarthy, Cornelia"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1271",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.25 PM - 10.25 PM",
+                    "open": true,
+                    "professor": "SILV 408"
+                }
+            ],
+            "course_name": "Appl Stat Econometric I (MA)",
+            "description": "ECON-GA 1101 Appl Stat Econometric I (MA) \nIntroduction to probability theory and statistics. Topics include discrete and continuous probability distributions, normal distribution, the use of t-statistics, hypothesis testing, confidence intervals, and analysis of variance. Familiarity with a regression software package is mandatory.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1102",
+            "course_name": "Applied Statistics & Econometrics II",
+            "description": "ECON-GA 1102 Applied Statistics & Econometrics II \nIntroduction to single-equation regression estimation; ordinary least-squares estimation, confidence intervals, and significance testing; lags, dummy variables; multicollinearity; autocorrelation; heteroscedasticity and variable selection. Students are required to use a standard computer regression package to test a model of their choosing.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1108",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1272",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 802",
+                    "time": "Tue 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Wolff, Edward"
+                }
+            ],
+            "course_name": "Income Distrib in U.S.",
+            "description": "ECON-GA 1108 Income Distrib in U.S. \nSurveys theories of income distribution and empirical evidence for the United States. The first part gives a historical overview of inequality in the United States in the 20th century. Human capital, Marxism, internal labor market, dual labor market, and structural theories of income inequality are then surveyed along with their supporting evidence. Also covered are topics on screening, ability and earnings, discrimination, and growth and inequality.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1202",
+            "course_name": "Origins of German Crit Thought II",
+            "description": "ECON-GA 1202 Origins of German Crit Thought II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1301",
+            "course_name": "Public Economics I",
+            "description": "ECON-GA 1301 Public Economics I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1302",
+            "course_name": "Public Economics II",
+            "description": "ECON-GA 1302 Public Economics II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1402",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1273",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306",
+                    "time": "Thu 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Skoorka, Bruce"
+                }
+            ],
+            "course_name": "Money & Banking (MA)",
+            "description": "ECON-GA 1402 Money & Banking (MA) \nThe role of money in the economy-monetary institutions, monetary theory (the old and new quantity and Keynesian theories), monetary policy goals, methods, and problems, with special emphasis on banking regulation.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1501",
+            "course_name": "Trade & Development",
+            "description": "ECON-GA 1501 Trade & Development \nThe balance of payments, foreign exchange markets, adjustment mechanisms, capital movements, gold and other monetary reserves, and reforms of the system.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1502",
+            "course_name": "Thry International Finan (PhD)",
+            "description": "ECON-GA 1502 Thry International Finan (PhD) \nComparative advantage; endowment, mobility, allocation, and earnings of productive factors; trade resComparative advantage; endowment, mobility, allocation, and earnings of productive factors; trade restriction (tariffs, quotas); customs unions.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1505",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2414",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "19W4 736"
+                }
+            ],
+            "course_name": "International Trade (MA)",
+            "description": "ECON-GA 1505 International Trade (MA) \nComparative advantage; endowment, mobility, allocation, and earnings of productive factors; trade restriction (tariffs, quotas); customs unions.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1506",
+            "course_name": "Internatn'L Finance (MA)",
+            "description": "ECON-GA 1506 Internatn'L Finance (MA) \nThe balance of payments, foreign exchange markets, adjustment mechanisms, capital movements, gold and other monetary reserves, reforms of the system.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1509",
+            "course_name": "European Union: Past Present and Future",
+            "description": "ECON-GA 1509 European Union: Past Present and Future",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1510",
+            "course_name": "Political Economy of The European Union",
+            "description": "ECON-GA 1510 Political Economy of The European Union",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1511",
+            "course_name": "The European Econ in a Globalized Market",
+            "description": "ECON-GA 1511 The European Econ in a Globalized Market",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1274",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Thu 2.05 PM - 4.05 PM",
+                    "open": true,
+                    "professor": "Easterly, William"
+                }
+            ],
+            "course_name": "Thry of Eco Dev I (PhD)",
+            "description": "ECON-GA 1601 Thry of Eco Dev I (PhD) \nThe historical and contemporary process of transformation of less-developed economies, internal and international sources of and barriers to development; strategies for effective use of internal and external finance; growth theory and development; models of dualistic development, unemployment, and migration; problems of income distribution, population growth, education, and rural development.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1602",
+            "course_name": "Economic Development II (PhD)",
+            "description": "ECON-GA 1602 Economic Development II (PhD) \nCurrent topics in economic development in their theoretical, empirical, and policy contexts. Issues include the north-south dialogue, appropriate technology, the role and limitations of the state, population and development policy, urbanization, human resource development, and prospects for private and public foreign assistance.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1603",
+            "course_name": "Econ Development I (MA)",
+            "description": "ECON-GA 1603 Econ Development I (MA)",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1605",
+            "course_name": "Latin Amer Economics",
+            "description": "ECON-GA 1605 Latin Amer Economics \nProvides an understanding of economic relationships in the Latin American-Caribbean region through an examination of the leading issues and key problems that these countries face in developing and modernizing their economies. Topics include a brief historical outline; a comparison of heterodox Latin American economic thought to neoclassical theories of growth and development; external equilibrium; foreign trade, balance of payments, exchange rates, foreign investments, and external debt.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1606",
+            "course_name": "Econ Development II (MA)",
+            "description": "ECON-GA 1606 Econ Development II (MA)",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1608",
+            "course_name": "Econ of Middle East",
+            "description": "ECON-GA 1608 Econ of Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1609",
+            "course_name": "Middle East Economics II",
+            "description": "ECON-GA 1609 Middle East Economics II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1701",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1275",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Wed 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Flinn, Christopher"
+                }
+            ],
+            "course_name": "",
+            "description": "ECON-GA 1701\n\n   Labor Economics I\n\nFocuses on dynamic models of labor market behavior. Reviews dynamic optimization theory and develops the model of job market search. The baseline model for analyses of labor market dynamics at the industrial level and the search model are used to discuss estimation issues and to build partial equilibrium models of the labor market. Other models of equilibrium wage determination include signaling models, matching models, and models with asymmetric information and moral hazard (efficiency wages). Considers theory and empirical implications of the human capital investment model, with applications...\n\n      more description for ECON-GA 1701 \u00bb\n\n      \n\n\n\nFocuses on dynamic models of labor market behavior. Reviews dynamic optimization theory and develops the model of job market search. The baseline model for analyses of labor market dynamics at the industrial level and the search model are used to discuss estimation issues and to build partial equilibrium models of the labor market. Other models of equilibrium wage determination include signaling models, matching models, and models with asymmetric information and moral hazard (efficiency wages). Considers theory and empirical implications of the human capital investment model, with applications to occupational choice and the effect of cohort size on human capital investment and earnings outcomes.\n\n      less description for ECON-GA 1701 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1702",
+            "course_name": "Labor Economics II",
+            "description": "ECON-GA 1702 Labor Economics II \nFocuses on household decision making in both static and dynamic contexts. Develops models of family decision making using both neoclassical and bargaining theories. Examines the differences in the empirical implications of the two types of models. Considers labor supply issues and the economics of the marriage market, fertility, welfare programs, econometric issues, and endogenous sample selection.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 1801",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1276",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Tue 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Jovanovic, Boyan"
+                }
+            ],
+            "course_name": "Indust Organization I",
+            "description": "ECON-GA 1801 Indust Organization I \nTechnological innovation, diffusion, research and development, firm behavior, market structure, and entry and exit of firms. Entrepreneurial choice. Schumpeterian competition. Welfare analysis of above topi",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 1802",
+            "course_name": "Industrial Organization II",
+            "description": "ECON-GA 1802 Industrial Organization II \nIntroduces standard and strategic models of market behavior and structure. Covers the firm, production and transaction costs, single-firm behavior, choice of quality and product differentiation, vertical integration and vertical restraints, static and dynamic oligopoly, supergames, and finite horizon models",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2021",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2057",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Mon 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Borovicka, Jaroslav"
+                }
+            ],
+            "course_name": "",
+            "description": "ECON-GA 2021\n\n   Financial Economics I\n\nIntroduction to the study of financial markets and asset pricing from the perspective of economic theory. Topics include equilibrium economies with a representative agent; equilibrium economies with incomplete markets, borrowing constraints and transaction costs, limited stock market participation, private information, limited commitment; optimal security design; behavioral finance. While the stress is on modeling and tools, the course also introduces the empirical methodologies and the calibration techniques used in financial economics, as well as some of the most controversial evidence on as...\n\n      more description for ECON-GA 2021 \u00bb\n\n      \n\n\n\nIntroduction to the study of financial markets and asset pricing from the perspective of economic theory. Topics include equilibrium economies with a representative agent; equilibrium economies with incomplete markets, borrowing constraints and transaction costs, limited stock market participation, private information, limited commitment; optimal security design; behavioral finance. While the stress is on modeling and tools, the course also introduces the empirical methodologies and the calibration techniques used in financial economics, as well as some of the most controversial evidence on asset prices.\n\n      less description for ECON-GA 2021 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 2022",
+            "course_name": "Financial Economics II",
+            "description": "ECON-GA 2022 Financial Economics II \nGives Ph.D. students an advanced survey of the field of financial economics and introduces them to some topics at the frontier of current research in financial economics. Discusses capital budgeting, capital structure, dividends, market for corporate control, bankruptcy and workouts, taxes, risk management, real options, signaling, general equilibrium approach to asset markets, microeconomics of banking, product market interactions, financial innovation, and comparative financial systems.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2023",
+            "course_name": "Empirical Asset Pricing",
+            "description": "ECON-GA 2023 Empirical Asset Pricing",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2041",
+            "course_name": "Evolution of Economic Thought",
+            "description": "ECON-GA 2041 Evolution of Economic Thought \nInterrelations between changing social formations and economic thought, from prehistory and the Greco-Roman world to classical economics and the rise of modern capitalism in the West. Ends with the crisis of classicism and the emergence of neoclassical economics.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2042",
+            "course_name": "Dev Eco Analy Since 1870",
+            "description": "ECON-GA 2042 Dev Eco Analy Since 1870",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2043",
+            "course_name": "Adv Economic Theory II",
+            "description": "ECON-GA 2043 Adv Economic Theory II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2044",
+            "course_name": "Eco of Uncert & Info",
+            "description": "ECON-GA 2044 Eco of Uncert & Info",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2045",
+            "course_name": "Hist Econ Thgt: Austrian School",
+            "description": "ECON-GA 2045 Hist Econ Thgt: Austrian School",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2047",
+            "course_name": "Economic Analysis of Law",
+            "description": "ECON-GA 2047 Economic Analysis of Law",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2048",
+            "course_name": "Invest R&D,Prod Anl/Spl, Pub Sector Capital I",
+            "description": "ECON-GA 2048 Invest R&D,Prod Anl/Spl, Pub Sector Capital I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2049",
+            "course_name": "Invest R&D,Prod Anl/Spl, Pub Sector Capital II",
+            "description": "ECON-GA 2049 Invest R&D,Prod Anl/Spl, Pub Sector Capital II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2050",
+            "course_name": "Economics of Welfare, Justice, & Ethics",
+            "description": "ECON-GA 2050 Economics of Welfare, Justice, & Ethics \nExploration of the interface between ethical theory and normative economics. Topics include the utilitarian foundation of modern welfare economics, economic basis of moral rules, interpersonal comparisons of utility, wealth maximization, social cost-benefit analysis, economic value of human life, and critique of utilitarianism.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1277",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517 with Montiel Olea, Jose; Menzel, Konrad09/02/2015 - 12/15/2015 Tue 12.30 PM - 2.30 PM at 19W4 517",
+                    "time": "Thu 2.15 PM - 4.15 PM",
+                    "open": true,
+                    "professor": "Montiel Olea, Jose; Menzel, Konrad"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1278",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 2.30 PM",
+                    "open": true,
+                    "professor": "19W4 517"
+                }
+            ],
+            "course_name": "Econometrics I",
+            "description": "ECON-GA 2100 Econometrics I \nConcise introduction to probability theory and to the problem and methods of statistical inference as encountered and applied in econometrics: maximum likelihood theory, method of moments, method of least squares, and hypothesis testing.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 2101",
+            "course_name": "Econometrics II (PhD)",
+            "description": "ECON-GA 2101 Econometrics II (PhD) \nEconometrics analysis of the general linear model; the estimation of distributed lag models; misspecification analysis; and models involving errors in variables.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2102",
+            "course_name": "Macroeconometrics",
+            "description": "ECON-GA 2102 Macroeconometrics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2103",
+            "course_name": "Microeconometrics",
+            "description": "ECON-GA 2103 Microeconometrics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2109",
+            "course_name": "Fund/Input-Output Analy",
+            "description": "ECON-GA 2109 Fund/Input-Output Analy",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2113",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1279",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Fri 12.45 PM - 2.45 PM",
+                    "open": true,
+                    "professor": "Mathevet, Laurent"
+                }
+            ],
+            "course_name": "Game Theory I",
+            "description": "ECON-GA 2113 Game Theory I \nIntroduction to noncooperative game theory. Covers Bayesian games, refinements of Nash equilibrium, repeated games, and optimal mechanism design.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 2114",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1280",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 802",
+                    "time": "Thu 1.45 PM - 3.45 PM",
+                    "open": true,
+                    "professor": "Frechette, Guillaume"
+                }
+            ],
+            "course_name": "Experimental Economics",
+            "description": "ECON-GA 2114 Experimental Economics \nStudies experimental methods and reviews the literature in an effort to give the student a working knowledge of experimental techniques. While the areas of application vary, the course is research oriented.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 2115",
+            "course_name": "Game Theory II",
+            "description": "ECON-GA 2115 Game Theory II \nCourse on decision theory and cooperative microeconomics. Covers classical theory of individual choice, theory of social choice, mechanism design, Nash bargaining, and theory of cooperative games.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2201",
+            "course_name": "Macro Models/Forecasting",
+            "description": "ECON-GA 2201 Macro Models/Forecasting",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2208",
+            "course_name": "Industry Model/Forecast I",
+            "description": "ECON-GA 2208 Industry Model/Forecast I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2209",
+            "course_name": "Indust Model&Forecast II",
+            "description": "ECON-GA 2209 Indust Model&Forecast II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2302",
+            "course_name": "Financing Urban Govt",
+            "description": "ECON-GA 2302 Financing Urban Govt \nThe special character of public finance in complexly interrelated metropolitan communities operating with fragmented and multilayered governmental structures; the intergovernmental fiscal system and its functioning in urban areas; taxes and charges as means of financing urban public services and their economic and land-use effects; the financing of specific urban governmental functions.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2305",
+            "course_name": "Urban Economic Growth",
+            "description": "ECON-GA 2305 Urban Economic Growth \nExplains the spatial aspects of economics and the problems and policies of urban economies. Students are taught to employ the tools of economic analysis to explain the economic structure of urban centers.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2306",
+            "course_name": "Economics of Urban Transportation",
+            "description": "ECON-GA 2306 Economics of Urban Transportation",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16977",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 802",
+                    "time": "Tue 4.30 PM - 6.30 PM",
+                    "open": true,
+                    "professor": "Prager, Jonas"
+                }
+            ],
+            "course_name": "Regulation of Financial Institutions",
+            "description": "ECON-GA 2401 Regulation of Financial Institutions \nConsideration of challenge facing regulators to design and operate an efficient and stable financial institutional framework in light of regulatory theory, historical developments, and current policy concerns. Focus is on the United States, but issues facing both developed and developing nations are also discussed.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 2403",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1281",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Wed 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Gertler, Mark"
+                }
+            ],
+            "course_name": "Adv Macroeconomics I",
+            "description": "ECON-GA 2403 Adv Macroeconomics I \nAnalyzes real models of economic fluctuations. Presents ?classical? models, i.e., models for which equilibrium allocations are efficient, and ?nonclassical? real models, including models with fiscal distortions, productive externalities, and imperfect competition.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 2404",
+            "course_name": "Adv Macroeconomics II",
+            "description": "ECON-GA 2404 Adv Macroeconomics II \nFocuses on the monetary and financial aspects of economic fluctuations and business cycle models discussed in Advanced Macroeconomics I, by introducing money, nominal rigidities, and financial intermediation. Emphasis is on the role and effects of monetary policy, both in theory and data.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2610",
+            "course_name": "Pol Econ of North-South Relations",
+            "description": "ECON-GA 2610 Pol Econ of North-South Relations \nIssues in restructuring the international economic system. Analyzes initiatives of the Western, socialist, and developing countries. Emphasis is on trade and monetary questions.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2611",
+            "course_name": "Social Cost-Benefit I",
+            "description": "ECON-GA 2611 Social Cost-Benefit I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2620",
+            "course_name": "Pol Econ Pacific Basin",
+            "description": "ECON-GA 2620 Pol Econ Pacific Basin \nEvaluates recent trends in East Asian and Pacific economic and political developments. The character of economic growth, the nature of the political systems, and implications of recent dynamism. Analyzes trends with discussion on three regions: Northeast Asia, Southeast Asia, and the Pacific Islands.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 2772",
+            "course_name": "Poltcl Economy of Defens",
+            "description": "ECON-GA 2772 Poltcl Economy of Defens",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1282",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Harper, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1283",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Cogley, Timothy",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Research",
+            "description": "ECON-GA 3000 Reading & Research",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1284",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Thu 4.15 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Ray, Debraj"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2235",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "194M 208"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1285",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Tue 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Fernandez, Raquel"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1286",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Mon 3.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Bisin, Alberto"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1287",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Tue 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Garlow, David"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1288",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517",
+                    "time": "Tue 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Chang, Beryl"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1290",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.00 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "19W4 517"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1291",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "McNevin, Bruce"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1292",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Wed 12.15 PM - 1.15 PM",
+                    "open": true,
+                    "professor": "Gertler, Mark; Midrigan, Virgiliu"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1897",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "19W4 736"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2060",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Wed 6.30 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "Wilson, Charles"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2061",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "19W4 624"
+                }
+            ],
+            "course_name": "Topics in Economics:Advanced Game TheoryCess Student WorkshopFinancial Econ WorkshopFinancial EconometricsFoundations of Financial EconomicsInequality Ed & MacroecoNew Research in Economic TheorySp Tpcs: Advanced Mathematical EconomicsSp Tpcs: Macro StudentTpcs in Econ: IndustrialTpcs in Econ: TBATpcs: Advanced Country",
+            "description": "ECON-GA 3001 Topics in Economics:Advanced Game TheoryCess Student WorkshopFinancial Econ WorkshopFinancial EconometricsFoundations of Financial EconomicsInequality Ed & MacroecoNew Research in Economic TheorySp Tpcs: Advanced Mathematical EconomicsSp Tpcs: Macro StudentTpcs in Econ: IndustrialTpcs in Econ: TBATpcs: Advanced Country \nTopics of current interest are examined in detail. Students are notified in advance of the topic(s) to be covered. Three or more sections are offered each semester, each covering a different topic.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3002",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1293",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 736",
+                    "time": "Mon 12.05 PM - 2.05 PM",
+                    "open": true,
+                    "professor": "Borovicka, Jaroslav"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1294",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17146",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Mon 4.10 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Harper, David"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2063",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Thu 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Menzel, Konrad"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1295",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517",
+                    "time": "Wed 6.15 PM - 8.15 PM",
+                    "open": true,
+                    "professor": "Steinberg, Edward"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1296",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517",
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Sareen, Samita"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1297",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "19W4 802"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1298",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.30 PM - 6.30 PM",
+                    "open": true,
+                    "professor": "19W4 802"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1903",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.00 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "19W4 802"
+                }
+            ],
+            "course_name": "Topics in Economics:Adv Math EconEconomic Analysis of LawEmpirical Methods for Dynamic MacroeconomicsTpcs in Econ: TBATpcs in Economics: Advanced EconometricsTpcs: Adv EconometricsTpcs: Colloq On Law,Tpcs: Sem in ArticleTpcs: Tracking The U.S.",
+            "description": "ECON-GA 3002 Topics in Economics:Adv Math EconEconomic Analysis of LawEmpirical Methods for Dynamic MacroeconomicsTpcs in Econ: TBATpcs in Economics: Advanced EconometricsTpcs: Adv EconometricsTpcs: Colloq On Law,Tpcs: Sem in ArticleTpcs: Tracking The U.S. \nTopics of current interest are examined in detail. Students are notified in advance of the topic(s) to be covered. Three or more sections are offered each semester, each covering a different topic.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3003",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1299",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "19W4 517"
+                }
+            ],
+            "course_name": "Microeconomics Workshop",
+            "description": "ECON-GA 3003 Microeconomics Workshop \nStudents, faculty members, and visitors present research in progress for discussion and critical comment.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3004",
+            "course_name": "Microecon Research Wkshp",
+            "description": "ECON-GA 3004 Microecon Research Wkshp \nStudents, faculty members, and visitors present research in progress for discussion and critical comment.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1300",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517",
+                    "time": "Thu 4.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Borovickova, Katarina"
+                }
+            ],
+            "course_name": "Macroeconomics Workshop",
+            "description": "ECON-GA 3005 Macroeconomics Workshop \nDoctoral-level course consisting of a series of seminar presentations in macroeconomics by students, faculty, and guests. Emphasis is on research in progress. Topics include inflation, employment and labor markets, monetary and fiscal theory and policy, consumption and saving behavior, investment and capital formation, and aggregate supply and growth.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3006",
+            "course_name": "Workshop in Macro",
+            "description": "ECON-GA 3006 Workshop in Macro \nDoctoral-level course consisting of a series of seminar presentations in macroeconomics by students, faculty, and guests. Emphasis is on research in progress. Topics include inflation, employment and labor markets, monetary and fiscal theory and policy, consumption and saving behavior, investment and capital formation, and aggregate supply and growth.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3007",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1301",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.15 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "19W4 517"
+                }
+            ],
+            "course_name": "Appl Econometric Wkshp",
+            "description": "ECON-GA 3007 Appl Econometric Wkshp \nDoctoral-level workshDoctoral-level workshop consisting of a series of seminar presentations in applied economics by students, faculty, and guests. Emphasis is on issues involving panel data, macro-, development, and labor economics.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3008",
+            "course_name": "Appl Econometrics Wkshp",
+            "description": "ECON-GA 3008 Appl Econometrics Wkshp \nDoctoral-level workshop consisting of a series of seminar presentations in applied economics by students, faculty, and guests. Emphasis is on issues involving panel data, macro-, development, and labor economics.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3009",
+            "course_name": "Tps:",
+            "description": "ECON-GA 3009 Tps:",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1302",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "19W4 736"
+                }
+            ],
+            "course_name": "Sem in Econometrics",
+            "description": "ECON-GA 3101 Sem in Econometrics",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3102",
+            "course_name": "Sem in Econometrics",
+            "description": "ECON-GA 3102 Sem in Econometrics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3103",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1303",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.00 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "19W4 517"
+                }
+            ],
+            "course_name": "C.E.S.S. Experimental Economics Workshop",
+            "description": "ECON-GA 3103 C.E.S.S. Experimental Economics Workshop",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3104",
+            "course_name": "C.E.S.S. Experimental Economics Workshop",
+            "description": "ECON-GA 3104 C.E.S.S. Experimental Economics Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3105",
+            "course_name": "Time Ser/Sto Pro Non-Lin Dynamical Processes I",
+            "description": "ECON-GA 3105 Time Ser/Sto Pro Non-Lin Dynamical Processes I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3106",
+            "course_name": "Time Ser/Sto Pro/Nonline Dynamical Processes II",
+            "description": "ECON-GA 3106 Time Ser/Sto Pro/Nonline Dynamical Processes II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3108",
+            "course_name": "Sem in Population & Dev",
+            "description": "ECON-GA 3108 Sem in Population & Dev",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3109",
+            "course_name": "Sem:Input-Output Analysi",
+            "description": "ECON-GA 3109 Sem:Input-Output Analysi",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GA 3200",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1304",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Thu 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Garlow, David"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2059",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 802",
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Levanon, Gad"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1305",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Wed 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Alonso, Irasema"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1306",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 802",
+                    "time": "Thu 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Leonard, Michel"
+                }
+            ],
+            "course_name": "Special Projects in Econ Research",
+            "description": "ECON-GA 3200 Special Projects in Econ Research \nStudents integrate economic theory, empirical techniques, and analytical tools to solve real-world problems. Students undertake (1) a comprehensive and critical literature survey ofStudents integrate economic theory, empirical techniques, and analytical tools to solve real-world problems. Students undertake (1) a comprehensive and critical literature survey of an applied topic in recent economic literature and (2) original analytical and/or empirical work on that topic.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3402",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1307",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 624",
+                    "time": "Mon 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "Rizzo, Mario"
+                }
+            ],
+            "course_name": "Colloquium On Market Institutions & Eco Procs",
+            "description": "ECON-GA 3402 Colloquium On Market Institutions & Eco Procs \nDiscussion of current research in the Austrian economics tradition. Themes treated include subjectivism, the market as dynamic process, and entrepreneurship. Ideas are applied to both micro and macro issues. Discusses papers written by students and by faculty from New York University and other universities.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3501",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "1308",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 517",
+                    "time": "Tue 4.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Fernandez, Raquel"
+                }
+            ],
+            "course_name": "Sem in Int'L Economics",
+            "description": "ECON-GA 3501 Sem in Int'L Economics \nAdvanced workshop for doctoral students pursuing dissertation topics in international trade and finance. Presentation of student research and dissertation proposals and original research papers by guests and members of the faculty.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GA 3502",
+            "course_name": "Seminar in Development Economics",
+            "description": "ECON-GA 3502 Seminar in Development Economics \nAdvanced workshop for doctoral students pursuing dissertation topics in international trade and finance. Presentation of student research and dissertation proposals and original research papers by guests and members of the faculty.",
+            "offering": false
+        }
+    ]
+}

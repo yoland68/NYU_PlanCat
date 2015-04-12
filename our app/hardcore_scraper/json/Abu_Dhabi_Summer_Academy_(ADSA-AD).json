@@ -1,16 +1,18 @@
 {
+    "major_id": "ADSA-AD",
+    "file": "./2015-2016/Abu_Dhabi_Summer_Academy_(ADSA-AD).html",
     "courses": [
         {
-            "classes": [],
+            "course_id": "ADSA-AD 101",
+            "course_name": "AD HS Summer Academy I",
             "description": "ADSA-AD  101 AD HS Summer Academy I \nAD HS Summer Academy I",
-            "offering": true
+            "offering": false
         },
         {
-            "classes": [],
+            "course_id": "ADSA-AD 102",
+            "course_name": "AD HS Summer Academy II",
             "description": "ADSA-AD  102 AD HS Summer Academy II \nAD HS Summer Academy II",
-            "offering": true
+            "offering": false
         }
-    ],
-    "file": "2015-2016//Abu_Dhabi_Summer_Academy_(ADSA-AD).html",
-    "majorID": "ADSA-AD"
+    ]
 }

@@ -1,0 +1,402 @@
+{
+    "major_id": "NEURL-GA",
+    "file": "./2015-2016/Neural_Science_(NEURL-GA).html",
+    "courses": [
+        {
+            "course_id": "NEURL-GA 1011",
+            "course_name": "Advanced Immunology: Neuroimmunology",
+            "description": "NEURL-GA 1011 Advanced Immunology: Neuroimmunology",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 1020",
+            "course_name": "Adv Top Cell/Molec Immun",
+            "description": "NEURL-GA 1020 Adv Top Cell/Molec Immun",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 1101",
+            "course_name": "Neuronal Plasticity",
+            "description": "NEURL-GA 1101 Neuronal Plasticity",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 1400",
+            "course_name": "Fundamentals of Electro- Physiology:",
+            "description": "NEURL-GA 1400 Fundamentals of Electro- Physiology:",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2200",
+            "course_name": "Computational Biology Student Seminar",
+            "description": "NEURL-GA 2200 Computational Biology Student Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1648",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 815",
+                    "time": "Mon,Wed 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": "Carter, Adam"
+                }
+            ],
+            "course_name": "Cellular Neuroscience",
+            "description": "NEURL-GA 2201 Cellular Neuroscience \nTeam-taught, intensive course. Lectures and readings cover basic biophysics and cellular, molecular, and developmental neuroscience",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 2202",
+            "course_name": "Sensory & Motor Neural Science",
+            "description": "NEURL-GA 2202 Sensory & Motor Neural Science \nTeam-taught intensive course. Lectures and readings concentrate on neural regulation of sensory and motor systems.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2203",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1649",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 612",
+                    "time": "Fri 12.30 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Carter, Adam"
+                }
+            ],
+            "course_name": "Lab Neural Science I",
+            "description": "NEURL-GA 2203 Lab Neural Science I \nTeam-taught, state-of-the-art teaching laboratory in neural science. The first semester includes histology and cellular and molecular neuroscience. The second semester includes neuroanatomy, sensory neurophysiology, modern neuroanatomical tracer techniques, psychophysics, and computational neuroscience",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 2204",
+            "course_name": "Lab in Neural Science II",
+            "description": "NEURL-GA 2204 Lab in Neural Science II \nTeam-taught, state-of-the-art teaching laboratory in neural science. The first semester includes histology and cellular and molecular neuroscience. The second semester includes neuroanatomy, sensory neurophysiology, modern neuroanatomical tracer techniques, psychophysics, and computational neuroscience",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2205",
+            "course_name": "Behavioral & Cognitive Neural Science",
+            "description": "NEURL-GA 2205 Behavioral & Cognitive Neural Science \nTeam-taught intensive course. Lectures, readings, and laboratory exercises cover neuroanatomy, cognitive neuroscience, learning, memory, Team-taught intensive course. Lectures, readings, and laboratory exercises cover neuroanatomy, cognitive neuroscience, learning, memory, and emotion.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2207",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1650",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": "MEYR 81509/02/2015 - 12/15/2015 Fri 9.00 AM - 12.00 PM at MEYR 815"
+                }
+            ],
+            "course_name": "Mathematical Tools for Neuroscience",
+            "description": "NEURL-GA 2207 Mathematical Tools for Neuroscience \nTeam-taught intensive course. Lectures, readings, and laboratory exercises cover basic mathematical techniques for analysis and modeling of neural systems. Homework sets are based on the MATLAB software package.",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 2210",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1651",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hawken, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Research I",
+            "description": "NEURL-GA 2210 Intro to Research I \nResearch component of the first-year core curriculum in neural science. Students participate in the research activities in several different laboratories to learn current questions and techniques in neuroscience. Performance is evaluated on the basis of learning the literature and proficiency in laboratory techniques, based on oral and/or written presentations with the laboratory group.",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 2211",
+            "course_name": "Intro to Research",
+            "description": "NEURL-GA 2211 Intro to Research \nResearch component of the first-year core curriculum in neural science. Students participate in the research activities in several different laboratories to learn current questions and techniques in neuroscience. Performance is evaluated on the basis of learning the literature and proficiency in laboratory techniques, based on oral and/or written presentations with the laboratory group.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2233",
+            "course_name": "Simulation & Data Analys",
+            "description": "NEURL-GA 2233 Simulation & Data Analys",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2236",
+            "course_name": "Linear/Sys/Fourier Trans",
+            "description": "NEURL-GA 2236 Linear/Sys/Fourier Trans",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2245",
+            "course_name": "Functional Magnetic Imaging Lab",
+            "description": "NEURL-GA 2245 Functional Magnetic Imaging Lab",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2522",
+            "course_name": "Func & Disfunc of Centr Auditory Processing",
+            "description": "NEURL-GA 2522 Func & Disfunc of Centr Auditory Processing",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 2855",
+            "course_name": "Special Topics in Math Physiology",
+            "description": "NEURL-GA 2855 Special Topics in Math Physiology",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3013",
+            "course_name": "Immunology Journal Club:",
+            "description": "NEURL-GA 3013 Immunology Journal Club:",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3041",
+            "course_name": "Spec Tpcs in Neural SCI",
+            "description": "NEURL-GA 3041 Spec Tpcs in Neural SCI \nAdvanced seminars led by the faculty to provide in-depth consideration of specific topic areas in neural science.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3042",
+            "course_name": "Special Topics in NS:",
+            "description": "NEURL-GA 3042 Special Topics in NS: \nAdvanced seminars led by the faculty to provide in-depth consideration of specific topic areas in neural science.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3121",
+            "course_name": "Representation & Analy of Visual Images I",
+            "description": "NEURL-GA 3121 Representation & Analy of Visual Images I",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3122",
+            "course_name": "Sp Tpcs Applied Math:",
+            "description": "NEURL-GA 3122 Sp Tpcs Applied Math:",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3201",
+            "course_name": "Spec Tpc Neural Science",
+            "description": "NEURL-GA 3201 Spec Tpc Neural Science \nAdvanced seminars led by the faculty to provide in-depth consideration of specific topic areas in neural science.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3202",
+            "course_name": "Spec Top in Neural SCI Independent Study",
+            "description": "NEURL-GA 3202 Spec Top in Neural SCI Independent Study \nAdvanced seminars led by the faculty to provide in-depth consideration of specific topic areas in neural science.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3233",
+            "course_name": "Advanced Seminar:",
+            "description": "NEURL-GA 3233 Advanced Seminar:",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3235",
+            "course_name": "Information Processing & Visual Pathways",
+            "description": "NEURL-GA 3235 Information Processing & Visual Pathways",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3236",
+            "course_name": "Classic Papers in Vision Research",
+            "description": "NEURL-GA 3236 Classic Papers in Vision Research",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3238",
+            "course_name": "Neural/Basis of Eye Move Control",
+            "description": "NEURL-GA 3238 Neural/Basis of Eye Move Control",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3241",
+            "course_name": "Behavioral Neuroscience",
+            "description": "NEURL-GA 3241 Behavioral Neuroscience",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3242",
+            "course_name": "Neuroanatomy",
+            "description": "NEURL-GA 3242 Neuroanatomy",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1653",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hawken, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation Research",
+            "description": "NEURL-GA 3301 Dissertation Research",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 3305",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1654",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hawken, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course in Neural Science",
+            "description": "NEURL-GA 3305 Reading Course in Neural Science",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 3306",
+            "course_name": "Reading Course in Neural Science",
+            "description": "NEURL-GA 3306 Reading Course in Neural Science",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3307",
+            "course_name": "Rdgs in Stress, Arousal, and Amygdala",
+            "description": "NEURL-GA 3307 Rdgs in Stress, Arousal, and Amygdala",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3310",
+            "course_name": "Beyond Filtering:",
+            "description": "NEURL-GA 3310 Beyond Filtering:",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3321",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1655",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hawken, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Problems in Neural Science",
+            "description": "NEURL-GA 3321 Research Problems in Neural Science",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 3322",
+            "course_name": "Research Problems in Neural Science",
+            "description": "NEURL-GA 3322 Research Problems in Neural Science",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3331",
+            "course_name": "Neural Control of Movmt",
+            "description": "NEURL-GA 3331 Neural Control of Movmt",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3380",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1656",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR ",
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Hawken, Michael"
+                }
+            ],
+            "course_name": "Fellows Seminar",
+            "description": "NEURL-GA 3380 Fellows Seminar \nOne-hour research colloquium given by members of the Center for Neural Science.",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 3381",
+            "course_name": "Fellows Seminar",
+            "description": "NEURL-GA 3381 Fellows Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3390",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1657",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR ",
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Hawken, Michael"
+                }
+            ],
+            "course_name": "Sem in Current Topics",
+            "description": "NEURL-GA 3390 Sem in Current Topics \nWeekly one-hour research colloquium given by the Center for Neural Science faculty or outside speakers.",
+            "offering": true
+        },
+        {
+            "course_id": "NEURL-GA 3391",
+            "course_name": "Sem in Current Topics",
+            "description": "NEURL-GA 3391 Sem in Current Topics",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3392",
+            "course_name": "Sem in Current Topics",
+            "description": "NEURL-GA 3392 Sem in Current Topics",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3400",
+            "course_name": "Special Topics in Math: Physiology",
+            "description": "NEURL-GA 3400 Special Topics in Math: Physiology",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3410",
+            "course_name": "Sem in Neuroeconomics",
+            "description": "NEURL-GA 3410 Sem in Neuroeconomics \nSeminar on the intersection of the fields of neuroscience, psychology, and economics.",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 3500",
+            "course_name": "Development &Dysfunction of The Nervous System",
+            "description": "NEURL-GA 3500 Development &Dysfunction of The Nervous System \nExplores how the nervous system develops in normal animals, and how genetic and epigenetic factors can disrupt these processes. The major goals of the course will be to understand the extent to which current theories can explain the etiology of each disorder, and to learn how basic research can best facilitate advances in our knowledge and, ultimately, lead to treatments or cures",
+            "offering": false
+        },
+        {
+            "course_id": "NEURL-GA 4414",
+            "course_name": "Disorders of The Nervous System",
+            "description": "NEURL-GA 4414 Disorders of The Nervous System",
+            "offering": false
+        }
+    ]
+}

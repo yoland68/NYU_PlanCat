@@ -1,0 +1,42 @@
+{
+    "major_id": "SCMTH-GE",
+    "file": "./2015-2016/Science_&_Mathematics_Education(SCMTH-GE).html",
+    "courses": [
+        {
+            "course_id": "SCMTH-GE 2000",
+            "course_name": "Cont. Issues in SCI Math Ed,Gen & Ethnicity",
+            "description": "SCMTH-GE 2000 Cont. Issues in SCI Math Ed,Gen & Ethnicity \nAddresses the application of research on the participation in mathematics and science. Students review the literature, discuss the implications, and design classroom strategies for increasing the mathematics and science participation of presently underrepresented groups.",
+            "offering": false
+        },
+        {
+            "course_id": "SCMTH-GE 2002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4177",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wallace, Robert; Fraser-Abder, Pamela",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rsch Intensh in SCI/Math",
+            "description": "SCMTH-GE 2002 Rsch Intensh in SCI/Math \nA six-week internship in a scientific laboratory that provides students with a personal experience of the scientific enterprise. Each intern works as a research associate with a practicing scientist and prepares a report on his or her experience.",
+            "offering": true
+        },
+        {
+            "course_id": "SCMTH-GE 2025",
+            "course_name": "",
+            "description": "SCMTH-GE 2025\n\n   Integrat Math & SCI in The Elem Ed\n\nThematic teaching across the curriculum is modeled in this course which is structured in order to provide opportunities to learn how to weave mathematics and science concepts into a comprehensive learning experience. Students will explore how children learn and what constitutes a developmentally appropriate mathematics curriculum that enhances the learning of all students. Social inequalities in mathematics/science classroom will be discussed. The course will be inquiry-based and exploratory in its approach. Emphasis will be placed on the use of technology to enhance learning, acquire informat...\n\n      more description for SCMTH-GE 2025 \u00bb\n\n      \n\n\n\nThematic teaching across the curriculum is modeled in this course which is structured in order to provide opportunities to learn how to weave mathematics and science concepts into a comprehensive learning experience. Students will explore how children learn and what constitutes a developmentally appropriate mathematics curriculum that enhances the learning of all students. Social inequalities in mathematics/science classroom will be discussed. The course will be inquiry-based and exploratory in its approach. Emphasis will be placed on the use of technology to enhance learning, acquire information, and communicate.\n\n      less description for SCMTH-GE 2025 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "SCMTH-GE 2300",
+            "course_name": "Ind Study",
+            "description": "SCMTH-GE 2300 Ind Study",
+            "offering": false
+        }
+    ]
+}

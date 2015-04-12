@@ -1,0 +1,298 @@
+{
+    "major_id": "LANED-GE",
+    "file": "./2015-2016/Language_Education_(LANED-GE).html",
+    "courses": [
+        {
+            "course_id": "LANED-GE 2003",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3425",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 388",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Chan, Lionel"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3426",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 407",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "DeFazio, Anthony"
+                }
+            ],
+            "course_name": "Linguistic Analysis",
+            "description": "LANED-GE 2003 Linguistic Analysis \nThe systematic study of phonological, grammatical, and discourse systems and of principles of language use across languages.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3427",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 569",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Lum, Man"
+                }
+            ],
+            "course_name": "",
+            "description": "LANED-GE 2005\n\n   Intercult Persp:in Multicultural Education\n\nCultural perspectives on language learning, language use and education. Focus on sociolinguistic issues in education and pedagogical implications for linguistic and cultural minority students. Central topics include cross-cultural communication in the classroom, including the role of ethnicity, race, gender and social class; the relationships between home/community language use patterns and school achievement; cultural perspectives on school-community relations; cross-cultural perspectives on parenting and language socialization; standard and nonstandard language varieties in the classroom; an...\n\n      more description for LANED-GE 2005 \u00bb\n\n      \n\n\n\nCultural perspectives on language learning, language use and education. Focus on sociolinguistic issues in education and pedagogical implications for linguistic and cultural minority students. Central topics include cross-cultural communication in the classroom, including the role of ethnicity, race, gender and social class; the relationships between home/community language use patterns and school achievement; cultural perspectives on school-community relations; cross-cultural perspectives on parenting and language socialization; standard and nonstandard language varieties in the classroom; and effective instructional approaches for linguistically and culturally diverse classrooms.\n\n      less description for LANED-GE 2005 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2035",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3428",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-16",
+                    "time": "Wed 6.45 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "Woodley, Heather"
+                }
+            ],
+            "course_name": "Seminar & Practicum in Adult Second/Foreign Language Educ",
+            "description": "LANED-GE 2035 Seminar & Practicum in Adult Second/Foreign Language Educ \nUniversity supervised practicum experience in TESOL or foreign language education at adult or college level for 20 days.  Practicum experiences are supported by a weekly seminar that addresses theoretical underpinnings & practical application of planning and curriculum implementation relative to adult and college level language learner populations.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2039",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3429",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC6",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Ebsworth, Miriam"
+                }
+            ],
+            "course_name": "Adv Indiv Proj Multi Ed",
+            "description": "LANED-GE 2039 Adv Indiv Proj Multi Ed \nProvides opportunity for students to engage in field-oriented of library research; to compare & contrast existing text materials; to prepare classroom materials, tests, & syllabi, or other projects, all under faculty guidance.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2040",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3430",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC2",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Coma, Ana; Blaber, Marian"
+                }
+            ],
+            "course_name": "Teach Scnd Lang in a Technological Society",
+            "description": "LANED-GE 2040 Teach Scnd Lang in a Technological Society \nThe class will explore how a variety of technological tools can promote and support more effective and student based language acquisition. Pre and in-service language teachers will learn how to use technology to provide native models of second language use in context, increase comprehensible input, facilitate meaningful oral and written production, and provide increased opportunities for authentic interaction.  They ill acquire the skills to develop instructional units employing technologies adapted to the needs and interests of particular learning communities.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2060",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3431",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC2",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Llosa, Lorena"
+                }
+            ],
+            "course_name": "Lang Eval & Assessment",
+            "description": "LANED-GE 2060 Lang Eval & Assessment \nWorkshop for development of placement, achievement, diagnostic, and proficiency tests for second language students for all language and ability levels.  Examination of language tests and such concepts as validity and reliability in testing.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2099",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3433",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC4",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Nero, Shondel"
+                }
+            ],
+            "course_name": "Culmitg Sem in Multi Ed",
+            "description": "LANED-GE 2099 Culmitg Sem in Multi Ed \nThe culminating and integrative experience of the master's programs.  Each student presents his or her findings on the problem of problems pursued and studies their implications relative to local, regional, and national professional issues.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3434",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC13",
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "Lo, Wen-Tsui"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3435",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B04",
+                    "time": "Wed 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "Gure, Elif"
+                }
+            ],
+            "course_name": "Second Lang Clssrm: Element & Secondary Sch",
+            "description": "LANED-GE 2201 Second Lang Clssrm: Element & Secondary Sch \nStudy of approaches, methods, and techniques used in teaching language skills and developing cross-cultural understandings to second/foreign language learners at the elementary and secondary levels  The emphasis of the course includes curriculum development, language development through different development stages and through content areas, language testing, lesson planning, and micro-teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2202",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3436",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Tue 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "Carpenter, Mary"
+                }
+            ],
+            "course_name": "The Second Lang Classrm: Colleges and Adults",
+            "description": "LANED-GE 2202 The Second Lang Classrm: Colleges and Adults \nStudy of materials, approaches, and techniques used in teaching language skills to adult second language learners.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2206",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3441",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC6",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Nero, Shondel"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4624",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC3",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Ebsworth, Miriam"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16911",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                }
+            ],
+            "course_name": "Second Language: Theory & Research",
+            "description": "LANED-GE 2206 Second Language: Theory & Research \nCurrent approaches and issues in second language acquisition including various acquisition models, multilingualism, discourse analysis, and the role of culture in language learning.  Hours arranged are for student collection and analysis of field data.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3444",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4359",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Llosa, Lorena",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4360",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Harvey, Robin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4358",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ebsworth, Miriam",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "LANED-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?S department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "LANED-GE 2800",
+            "course_name": "",
+            "description": "LANED-GE 2800\n\n   Advanced Research Seminar: TESOL/Foreign Language and Bilingual Education\n\nA review of selected current topics in second language & education research. Opportunity for students to enhance their knowledge of research approaches & content in areas such as second language acquisition, foreign language development, bilingual literacy, cross-cultural pragmatics, sociolinguistics, & psycholinguistics.  students will pursue individual areas of interest by completing a project under faculty guidance. (11/16/1999)\n\nTo be taken near the end of the student's program of study.  The culminating & integrative experience of the master's degree programs in foreign languages & bili...\n\n      more description for LANED-GE 2800 \u00bb\n\n      \n\n\n\nA review of selected current topics in second language & education research. Opportunity for students to enhance their knowledge of research approaches & content in areas such as second language acquisition, foreign language development, bilingual literacy, cross-cultural pragmatics, sociolinguistics, & psycholinguistics.  students will pursue individual areas of interest by completing a project under faculty guidance. (11/16/1999)\n\nTo be taken near the end of the student's program of study.  The culminating & integrative experience of the master's degree programs in foreign languages & bilingual education: each student presents his or her findings on the problem or problems he or she has pursued & studies their implications relative to local, regional & national professional issues.\n\n      less description for LANED-GE 2800 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "LANED-GE 3005",
+            "course_name": "Doctoral Sem: Biling Ed and Tesol",
+            "description": "LANED-GE 3005 Doctoral Sem: Biling Ed and Tesol \nIntegrative experience that includes a consideration and evaluation of periodical literature, research studies, and innovations in the field.",
+            "offering": false
+        },
+        {
+            "course_id": "LANED-GE 3006",
+            "course_name": "Doct Sem Multilingual & Multicultural Studies",
+            "description": "LANED-GE 3006 Doct Sem Multilingual & Multicultural Studies \nIntegrative experience that includes a consideration and evaluation of periodical literature, research studies, and innovations in the field.",
+            "offering": false
+        },
+        {
+            "course_id": "LANED-GE 3007",
+            "course_name": "Prof Sem Doc Cand I",
+            "description": "LANED-GE 3007 Prof Sem Doc Cand I \nIntegrative experience that includes a consideration and evaluation of periodical literature, research studies, and innovations in the field.",
+            "offering": false
+        }
+    ]
+}

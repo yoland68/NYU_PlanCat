@@ -1,0 +1,2824 @@
+{
+    "major_id": "CINE-GT",
+    "file": "./2015-2016/Cinema_Studies_(CINE-GT).html",
+    "courses": [
+        {
+            "course_id": "CINE-GT 1000",
+            "course_name": "Film Studies for The High School Teacher",
+            "description": "CINE-GT 1000 Film Studies for The High School Teacher",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1001",
+            "course_name": "Intro to Grad Study Cinema II",
+            "description": "CINE-GT 1001 Intro to Grad Study Cinema II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5681",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 648",
+                    "time": "Mon 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "Simon, William"
+                }
+            ],
+            "course_name": "Film Form/Film Sense",
+            "description": "CINE-GT 1010 Film Form/Film Sense",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1015",
+            "course_name": "Film History/Historiog",
+            "description": "CINE-GT 1015 Film History/Historiog",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1020",
+            "course_name": "Film Theory",
+            "description": "CINE-GT 1020 Film Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1025",
+            "course_name": "Media & Cultural Studies",
+            "description": "CINE-GT 1025 Media & Cultural Studies",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1026",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5682",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 648",
+                    "time": "Thu 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "Choi, Jung-Bong"
+                }
+            ],
+            "course_name": "Television: History and Culture",
+            "description": "CINE-GT 1026 Television: History and Culture",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1030",
+            "course_name": "Film/Novel",
+            "description": "CINE-GT 1030 Film/Novel",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1060",
+            "course_name": "Colloquium: Rewriting Columbus",
+            "description": "CINE-GT 1060 Colloquium: Rewriting Columbus",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1090",
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 1090 Adv Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1091",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 1091 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1094",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 1094 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1095",
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 1095 Adv Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1098",
+            "course_name": "Adv Independent",
+            "description": "CINE-GT 1098 Adv Independent",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1100",
+            "course_name": "Sem: Film Historiography",
+            "description": "CINE-GT 1100 Sem: Film Historiography",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1101",
+            "course_name": "Hist American Film II",
+            "description": "CINE-GT 1101 Hist American Film II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1102",
+            "course_name": "Hist of American Film II",
+            "description": "CINE-GT 1102 Hist of American Film II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1103",
+            "course_name": "Hist of Italian Film I",
+            "description": "CINE-GT 1103 Hist of Italian Film I",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1104",
+            "course_name": "Hist Italian Film II",
+            "description": "CINE-GT 1104 Hist Italian Film II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1105",
+            "course_name": "Hist of British Film I",
+            "description": "CINE-GT 1105 Hist of British Film I",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1106",
+            "course_name": "Hist of British Film II",
+            "description": "CINE-GT 1106 Hist of British Film II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1107",
+            "course_name": "Third World Cinema",
+            "description": "CINE-GT 1107 Third World Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1108",
+            "course_name": "Scandinavian Film",
+            "description": "CINE-GT 1108 Scandinavian Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1109",
+            "course_name": "Modernities: East / West",
+            "description": "CINE-GT 1109 Modernities: East / West",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1110",
+            "course_name": "New German Cinema",
+            "description": "CINE-GT 1110 New German Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1111",
+            "course_name": "The Holocaust in Cinema",
+            "description": "CINE-GT 1111 The Holocaust in Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1112",
+            "course_name": "Proseminar: Taiwan & Hong Kong",
+            "description": "CINE-GT 1112 Proseminar: Taiwan & Hong Kong",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1113",
+            "course_name": "Sound/Image in The Avant Garde",
+            "description": "CINE-GT 1113 Sound/Image in The Avant Garde",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1114",
+            "course_name": "French Films 30'S & 40'S",
+            "description": "CINE-GT 1114 French Films 30'S & 40'S",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1115",
+            "course_name": "Indian Cinema",
+            "description": "CINE-GT 1115 Indian Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1116",
+            "course_name": "Postwar World Cinema: Melodrama",
+            "description": "CINE-GT 1116 Postwar World Cinema: Melodrama",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1117",
+            "course_name": "Japanese Cinema",
+            "description": "CINE-GT 1117 Japanese Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1118",
+            "course_name": "Contemporary Japanese",
+            "description": "CINE-GT 1118 Contemporary Japanese",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1119",
+            "course_name": "Japanese Broadcasting",
+            "description": "CINE-GT 1119 Japanese Broadcasting",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1120",
+            "course_name": "French Film: 1920- Death of Vigo",
+            "description": "CINE-GT 1120 French Film: 1920- Death of Vigo",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1121",
+            "course_name": "British Film Directors",
+            "description": "CINE-GT 1121 British Film Directors",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1122",
+            "course_name": "Lecture in Irish Cinema:",
+            "description": "CINE-GT 1122 Lecture in Irish Cinema:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1123",
+            "course_name": "Canadian Film and TV",
+            "description": "CINE-GT 1123 Canadian Film and TV",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1124",
+            "course_name": "British Cinema",
+            "description": "CINE-GT 1124 British Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1125",
+            "course_name": "The Sopranos and Quality Television",
+            "description": "CINE-GT 1125 The Sopranos and Quality Television",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1126",
+            "course_name": "Food TV",
+            "description": "CINE-GT 1126 Food TV",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1127",
+            "course_name": "History of American TV & Theories of Maa Comm",
+            "description": "CINE-GT 1127 History of American TV & Theories of Maa Comm",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1128",
+            "course_name": "Television Sitcom",
+            "description": "CINE-GT 1128 Television Sitcom",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1129",
+            "course_name": "Twilight Zone & The Politics of Paranoia",
+            "description": "CINE-GT 1129 Twilight Zone & The Politics of Paranoia",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1134",
+            "course_name": "Korean Cinema",
+            "description": "CINE-GT 1134 Korean Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1135",
+            "course_name": "History of Chinese- Language Cinema I",
+            "description": "CINE-GT 1135 History of Chinese- Language Cinema I",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1140",
+            "course_name": "Sem in Current Cinema",
+            "description": "CINE-GT 1140 Sem in Current Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1141",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5868",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 652",
+                    "time": "Thu 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "Porton, Richard"
+                }
+            ],
+            "course_name": "Film Criticism",
+            "description": "CINE-GT 1141 Film Criticism",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1142",
+            "course_name": "French Film: The Experimental Tradition",
+            "description": "CINE-GT 1142 French Film: The Experimental Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1145",
+            "course_name": "Writing Genres: Scriptwriting",
+            "description": "CINE-GT 1145 Writing Genres: Scriptwriting",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1148",
+            "course_name": "",
+            "description": "CINE-GT 1148\n\n   British Cinema Now\n\nThis course explores trends in British cinema from the rise of the multiplex, through New Labor, to the postcolonial cinema of the present.\u00a0\u00a0\u00a0It examines key genres such as comedy, the gangster film, the Bond franchise, and the heritage film, as well as new examples of experimental and independent cinema.\u00a0\u00a0It considers the centrality of the idea of a \u201cnational cinema\u201d to British critics, the role of television in the financing of film, as well as the transnational character of this cinema. Directors whose work is discussed include Mike Leigh, Shane Meadows, Michael Winterbottom, Gary Oldman, S...\n\n      more description for CINE-GT 1148 \u00bb\n\n      \n\n\n\nThis course explores trends in British cinema from the rise of the multiplex, through New Labor, to the postcolonial cinema of the present.\u00a0\u00a0\u00a0It examines key genres such as comedy, the gangster film, the Bond franchise, and the heritage film, as well as new examples of experimental and independent cinema.\u00a0\u00a0It considers the centrality of the idea of a \u201cnational cinema\u201d to British critics, the role of television in the financing of film, as well as the transnational character of this cinema. Directors whose work is discussed include Mike Leigh, Shane Meadows, Michael Winterbottom, Gary Oldman, Sally Potter, Ken Loach, Pawel Pawlikowski, Gurinder Chadha, Stephen Frears, and Terrence Davies.\u00a0\u00a0The course introduces students to lesser known films as well as those that have successfully crossed the Atlantic--The Full Monty,\u00a0Trainspotting, The Queen,\u00a0Shakespeare in\u00a0Love,\u00a0Nil by Mouth, and\u00a0Control. Course requirements include keeping a weekly viewing journal, writing a class paper, and giving an in-class presentation.\n\n      less description for CINE-GT 1148 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1151",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19172",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 648",
+                    "time": "Mon 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Lant, Antonia"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19173",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 648",
+                    "time": "Mon 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Lant, Antonia"
+                }
+            ],
+            "course_name": "Silent French Cinema",
+            "description": "CINE-GT 1151 Silent French Cinema",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1155",
+            "course_name": "Mexican Cinema",
+            "description": "CINE-GT 1155 Mexican Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1158",
+            "course_name": "Hong Kong Cinema",
+            "description": "CINE-GT 1158 Hong Kong Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1160",
+            "course_name": "Contemporary African Cinema",
+            "description": "CINE-GT 1160 Contemporary African Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1162",
+            "course_name": "Chinese Cities, Chinese Cinemas",
+            "description": "CINE-GT 1162 Chinese Cities, Chinese Cinemas",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1163",
+            "course_name": "",
+            "description": "CINE-GT 1163\n\n   The Chinese Martial Arts Film\n\nWhere and when did the martial arts film emerge?  What are the cultural resources this hybrid genre draws from?  What kinds of spectatorship has it fostered over the course of nearly a century across national borders?  This course addresses these and other related questions through a historical tracing of the genre\u2019s origins and transformations in the broad landscape of transnational Chinese-language cinema (Hong Kong in particular) and its articulations in other cinemas (e.g.; US, Thailand, and Vietnam).  Screenings include works by or featuring key figures such as King Hu, Chang Cheh, Bruce ...\n\n      more description for CINE-GT 1163 \u00bb\n\n      \n\n\n\nWhere and when did the martial arts film emerge?  What are the cultural resources this hybrid genre draws from?  What kinds of spectatorship has it fostered over the course of nearly a century across national borders?  This course addresses these and other related questions through a historical tracing of the genre\u2019s origins and transformations in the broad landscape of transnational Chinese-language cinema (Hong Kong in particular) and its articulations in other cinemas (e.g.; US, Thailand, and Vietnam).  Screenings include works by or featuring key figures such as King Hu, Chang Cheh, Bruce Lee, Tsui Hark, Chuck Norris, and Tony Jaa, as well as neglected experiments and films associated with their female stars including Angela Mao, Michelle Yeoh, and Cynthia Rothrock.\n\n      less description for CINE-GT 1163 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1165",
+            "course_name": "Monsters and Their Critics",
+            "description": "CINE-GT 1165 Monsters and Their Critics",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1177",
+            "course_name": "Introduction to Latin American Cinema",
+            "description": "CINE-GT 1177 Introduction to Latin American Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1200",
+            "course_name": "Cinema Studies for The H S Teachers",
+            "description": "CINE-GT 1200 Cinema Studies for The H S Teachers",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1201",
+            "course_name": "Films of Martin Scorsese",
+            "description": "CINE-GT 1201 Films of Martin Scorsese",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1202",
+            "course_name": "Comparative Directors:",
+            "description": "CINE-GT 1202 Comparative Directors:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1203",
+            "course_name": "Raoul Walsh",
+            "description": "CINE-GT 1203 Raoul Walsh",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1204",
+            "course_name": "Comparative Directors: Sirk and Ray",
+            "description": "CINE-GT 1204 Comparative Directors: Sirk and Ray",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1205",
+            "course_name": "Films of Alfred Hitchcock",
+            "description": "CINE-GT 1205 Films of Alfred Hitchcock",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1206",
+            "course_name": "Comparative Directors: Lubitsch & Sturges",
+            "description": "CINE-GT 1206 Comparative Directors: Lubitsch & Sturges",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1208",
+            "course_name": "Visconti",
+            "description": "CINE-GT 1208 Visconti",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1210",
+            "course_name": "Kieslowski",
+            "description": "CINE-GT 1210 Kieslowski",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1212",
+            "course_name": "",
+            "description": "CINE-GT 1212\n\n   Neo Noir\n\n\u201cNeo Noir\u201d explores the multiple ways that films made beyond the classic period reference, appropriate, extend, pay homage to, and even define that amorphous category called \u201cfilm noir\u201d:  from nostalgia to escalation, from remakes to meta discourse retroactively constructing a \u201cgenre,\u201d from (further) genre hybridization to the dispersion of disconnected noir elements (crime, paranoia, the femme fatale, subjective flashback, existentialism), from realist-expressionist black and white to blatant and stylized color, from censorship\u2019s dark sexuality to hyperreal violence, from national to internat...\n\n      more description for CINE-GT 1212 \u00bb\n\n      \n\n\n\n\u201cNeo Noir\u201d explores the multiple ways that films made beyond the classic period reference, appropriate, extend, pay homage to, and even define that amorphous category called \u201cfilm noir\u201d:  from nostalgia to escalation, from remakes to meta discourse retroactively constructing a \u201cgenre,\u201d from (further) genre hybridization to the dispersion of disconnected noir elements (crime, paranoia, the femme fatale, subjective flashback, existentialism), from realist-expressionist black and white to blatant and stylized color, from censorship\u2019s dark sexuality to hyperreal violence, from national to international. A tentative list of films includes Body Heat, Taxi Driver, Blood Simple, Exotica, Coup de Torchon, High and Low, One False Move, The Grifters, Memento, Usual Suspects, The Last Seduction, Kill Bill, Chungking Express, Mulholland Drive, The Thin Blue Line, and Funny Games. Rather than attempting to rein in film noir, the course celebrates Neo Noir\u2019s exponential extrapolations. Students are encouraged to pursue their cinephilic aptitude in outside screenings. Key literary texts will also be examined. Hence, although critical readings are crucial, a large component of the course assignments will include creative works.\n\n      less description for CINE-GT 1212 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1213",
+            "course_name": "Films of Wenders/Herzog",
+            "description": "CINE-GT 1213 Films of Wenders/Herzog",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1214",
+            "course_name": "Third World Cinema",
+            "description": "CINE-GT 1214 Third World Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1222",
+            "course_name": "U.S. Landscapes, Ethno- Scapes & Nation-Building",
+            "description": "CINE-GT 1222 U.S. Landscapes, Ethno- Scapes & Nation-Building",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1225",
+            "course_name": "",
+            "description": "CINE-GT 1225\n\n   Hitchcock and His Influence\n\nHitchcock is the most recognized and imitated film director in the history of movies. The course will seek to examine and explain Hitchcock's influence and seek to understand, through the case of Hitchcock, the very idea of cinematic influence. The class will begin by closely examining key works of Hitchcock (Rear Window, Vertigo, Psycho, and The Birds) in order to understand the elements that make up Hitchcock's universe, in particular, the complex role and function of suspense. We shall then examine the nature and scope of Hitchcock's influence upon American and European Cinema in the work o...\n\n      more description for CINE-GT 1225 \u00bb\n\n      \n\n\n\nHitchcock is the most recognized and imitated film director in the history of movies. The course will seek to examine and explain Hitchcock's influence and seek to understand, through the case of Hitchcock, the very idea of cinematic influence. The class will begin by closely examining key works of Hitchcock (Rear Window, Vertigo, Psycho, and The Birds) in order to understand the elements that make up Hitchcock's universe, in particular, the complex role and function of suspense. We shall then examine the nature and scope of Hitchcock's influence upon American and European Cinema in the work of directors such as Chabrol, Truffaut, Almod\u00f3var, Argento, Verhoeven, Spielberg, Scorcese, Lynch, Antonioni, Fincher, and de Palma.\n\n      less description for CINE-GT 1225 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1226",
+            "course_name": "The Cinema of Nick Ray",
+            "description": "CINE-GT 1226 The Cinema of Nick Ray",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1230",
+            "course_name": "Scorsese's New York",
+            "description": "CINE-GT 1230 Scorsese's New York \nThis course will focus on the New York City films of Martin Scorsese.  We shall approach several of the film (e.g. Gangs of New York, The Age of Innocence) as filmic examples of historical fiction and most of the other films in terms of their socio-cultural representation of New York City phenomena (e.g. immigration, crime, the art and entertainment industries).  As well, we will be concerned with exploring Scorsese\u2019s \u201cnarrative method\u201d \u2013 his usages of film form and style \u2013 in relation to the above issues.",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1295",
+            "course_name": "French Cinema and Politics",
+            "description": "CINE-GT 1295 French Cinema and Politics",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1300",
+            "course_name": "The Action Film",
+            "description": "CINE-GT 1300 The Action Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1301",
+            "course_name": "Women & Comedy",
+            "description": "CINE-GT 1301 Women & Comedy",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1302",
+            "course_name": "The American Musical",
+            "description": "CINE-GT 1302 The American Musical",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1303",
+            "course_name": "The Mystery Film",
+            "description": "CINE-GT 1303 The Mystery Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1304",
+            "course_name": "Film Noir",
+            "description": "CINE-GT 1304 Film Noir",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1305",
+            "course_name": "The Suspense Film",
+            "description": "CINE-GT 1305 The Suspense Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1306",
+            "course_name": "The B Movie",
+            "description": "CINE-GT 1306 The B Movie",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1308",
+            "course_name": "Armed Robbers & Smoking Guns: Crime Cinema",
+            "description": "CINE-GT 1308 Armed Robbers & Smoking Guns: Crime Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1310",
+            "course_name": "Science Fiction Film",
+            "description": "CINE-GT 1310 Science Fiction Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1311",
+            "course_name": "Fairy Tales/Fantasy/ Nightmare",
+            "description": "CINE-GT 1311 Fairy Tales/Fantasy/ Nightmare",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1312",
+            "course_name": "Noir/Neo-Noir",
+            "description": "CINE-GT 1312 Noir/Neo-Noir",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1313",
+            "course_name": "Horror, SCI-Fi, and Difference",
+            "description": "CINE-GT 1313 Horror, SCI-Fi, and Difference",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1315",
+            "course_name": "Asian American Cinema",
+            "description": "CINE-GT 1315 Asian American Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1317",
+            "course_name": "Blaxploitation",
+            "description": "CINE-GT 1317 Blaxploitation",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1320",
+            "course_name": "War Films",
+            "description": "CINE-GT 1320 War Films",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1325",
+            "course_name": "The Musical",
+            "description": "CINE-GT 1325 The Musical",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1327",
+            "course_name": "Choreography & the Moving Image",
+            "description": "CINE-GT 1327 Choreography & the Moving Image",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1330",
+            "course_name": "Contemporary Black Cinema",
+            "description": "CINE-GT 1330 Contemporary Black Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1331",
+            "course_name": "Blac American Cinema",
+            "description": "CINE-GT 1331 Blac American Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1400",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5683",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 108",
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Bagnall, David"
+                }
+            ],
+            "course_name": "Documentary Traditions",
+            "description": "CINE-GT 1400 Documentary Traditions",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1401",
+            "course_name": "Documentary Traditions",
+            "description": "CINE-GT 1401 Documentary Traditions",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1402",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5684",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV KRIS",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Ginsburg, Faye"
+                }
+            ],
+            "course_name": "Culture and Media",
+            "description": "CINE-GT 1402 Culture and Media",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1403",
+            "course_name": "Culture & Media II",
+            "description": "CINE-GT 1403 Culture & Media II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1450",
+            "course_name": "The Performative Impulse in Ind Film Video",
+            "description": "CINE-GT 1450 The Performative Impulse in Ind Film Video",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1500",
+            "course_name": "MA Writing Seminar",
+            "description": "CINE-GT 1500 MA Writing Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1505",
+            "course_name": "Adv Sem Film Criticism",
+            "description": "CINE-GT 1505 Adv Sem Film Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1513",
+            "course_name": "French New Wave I",
+            "description": "CINE-GT 1513 French New Wave I",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1514",
+            "course_name": "French New Wave II",
+            "description": "CINE-GT 1514 French New Wave II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1600",
+            "course_name": "Film/Television Structures and Issues",
+            "description": "CINE-GT 1600 Film/Television Structures and Issues",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1601",
+            "course_name": "Video Art",
+            "description": "CINE-GT 1601 Video Art",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1602",
+            "course_name": "Ideas of Television",
+            "description": "CINE-GT 1602 Ideas of Television",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1603",
+            "course_name": "Reality and Documentary",
+            "description": "CINE-GT 1603 Reality and Documentary",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1605",
+            "course_name": "Industrial/Sponsored Film and Television",
+            "description": "CINE-GT 1605 Industrial/Sponsored Film and Television",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1611",
+            "course_name": "Free Culture and Open Access",
+            "description": "CINE-GT 1611 Free Culture and Open Access",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1622",
+            "course_name": "Anarchy and Film",
+            "description": "CINE-GT 1622 Anarchy and Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1700",
+            "course_name": "Sem in Current Cinema",
+            "description": "CINE-GT 1700 Sem in Current Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1701",
+            "course_name": "Politics & Film:",
+            "description": "CINE-GT 1701 Politics & Film:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1702",
+            "course_name": "The City in Black Cinema",
+            "description": "CINE-GT 1702 The City in Black Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1703",
+            "course_name": "Stars",
+            "description": "CINE-GT 1703 Stars",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1704",
+            "course_name": "History Proseminar: The City in Film",
+            "description": "CINE-GT 1704 History Proseminar: The City in Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1711",
+            "course_name": "Seminar: The History and Economics of Cinema & TV",
+            "description": "CINE-GT 1711 Seminar: The History and Economics of Cinema & TV",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1720",
+            "course_name": "Cinema of Terrorism",
+            "description": "CINE-GT 1720 Cinema of Terrorism",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1780",
+            "course_name": "Queer Studies:",
+            "description": "CINE-GT 1780 Queer Studies:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1782",
+            "course_name": "Genre/Gender",
+            "description": "CINE-GT 1782 Genre/Gender",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1800",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5685",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Besser, Howard",
+                    "time": "Tue 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Miap",
+            "description": "CINE-GT 1800 Intro to Miap",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1801",
+            "course_name": "Contemp Institutions of The Moving Image",
+            "description": "CINE-GT 1801 Contemp Institutions of The Moving Image",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1802",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5686",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Frangakis, Evelyn; Kubes, Daniela",
+                    "time": "Mon 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Conservation & Preserva- Tion of Moving Image",
+            "description": "CINE-GT 1802 Conservation & Preserva- Tion of Moving Image",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1803",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5687",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Guenther, Rebecca",
+                    "time": "Mon 6.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Metadata for Moving Image Collections",
+            "description": "CINE-GT 1803 Metadata for Moving Image Collections",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1804",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5688",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Copyright Legal Issues and Policy",
+            "description": "CINE-GT 1804 Copyright Legal Issues and Policy",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1805",
+            "course_name": "Handling New Media",
+            "description": "CINE-GT 1805 Handling New Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1806",
+            "course_name": "Curating Programming Moving Image Material",
+            "description": "CINE-GT 1806 Curating Programming Moving Image Material",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1807",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "5689",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Van Malssen, Kara",
+                    "time": "Tue 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Digital Preservation",
+            "description": "CINE-GT 1807 Digital Preservation",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1808",
+            "course_name": "Digital Literacy",
+            "description": "CINE-GT 1808 Digital Literacy",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1895",
+            "course_name": "Handling Complex Media",
+            "description": "CINE-GT 1895 Handling Complex Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1897",
+            "course_name": "Digital Preservation",
+            "description": "CINE-GT 1897 Digital Preservation",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1899",
+            "course_name": "Intro to Miap",
+            "description": "CINE-GT 1899 Intro to Miap",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1901",
+            "course_name": "Collection Management",
+            "description": "CINE-GT 1901 Collection Management",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1904",
+            "course_name": "",
+            "description": "CINE-GT 1904\n\n   Copyright Law for Cultural Institutions\n\nIncludes in-person and online sessions.  Please contact tisch.preservation@nyu.edu for questions about this course or enrollment.   This course addresses the intellectual property issues and related ethical ones that surround the management, preservation, and dissemination of cultural material (such as paper records and their digital surrogates,\nmuseum objects, film, video, and other ephemera) in collecting institutions. The course is designed primarily as a professional development opportunity for those who already work with cultural objects, providing either a\nrefresher or an upgrade to ex...\n\n      more description for CINE-GT 1904 \u00bb\n\n      \n\n\n\nIncludes in-person and online sessions.  Please contact tisch.preservation@nyu.edu for questions about this course or enrollment.   This course addresses the intellectual property issues and related ethical ones that surround the management, preservation, and dissemination of cultural material (such as paper records and their digital surrogates,\nmuseum objects, film, video, and other ephemera) in collecting institutions. The course is designed primarily as a professional development opportunity for those who already work with cultural objects, providing either a\nrefresher or an upgrade to existing knowledge and practice. Some of the questions to be addressed are: What are the various legal and ethical rights that may encumber cultural material? How do these rights\naffect the subsequent long-term exhibition of the works once they enter into the collection of a museum or archive? How do we go about clearing these rights, and can these issues be managed effectively over time? What are the\ninternational considerations in dealing with content created in one jurisdiction, but exhibited or distributed in another?\nThis course also has an online component. Students will be required to analyze existing film, video, paper or other cultural material, examine the intellectual property issues, present findings within existing standards of\npractice in the field, and use electronic means of communication (NYU Wikis, blog) to compare and contrast findings.\n\n      less description for CINE-GT 1904 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1950",
+            "course_name": "Outsiders in: Aspects of Jewish Filmmaking",
+            "description": "CINE-GT 1950 Outsiders in: Aspects of Jewish Filmmaking",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1981",
+            "course_name": "Topics:",
+            "description": "CINE-GT 1981 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1982",
+            "course_name": "Italian Masculin/Stardom Irace, Italy-1920S Amer",
+            "description": "CINE-GT 1982 Italian Masculin/Stardom Irace, Italy-1920S Amer",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1984",
+            "course_name": "Adv. Sem. The Hollywood Left",
+            "description": "CINE-GT 1984 Adv. Sem. The Hollywood Left",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1995",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "5692",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 1FL",
+                    "time": "Mon 9.15 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Vail, Margaret"
+                }
+            ],
+            "course_name": "Video Production Sem I",
+            "description": "CINE-GT 1995 Video Production Sem I",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1996",
+            "course_name": "Video Prod Seminar II",
+            "description": "CINE-GT 1996 Video Prod Seminar II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1997",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5865",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 109",
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Dancyger, Kenneth"
+                }
+            ],
+            "course_name": "Script Analysis",
+            "description": "CINE-GT 1997 Script Analysis",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 1998",
+            "course_name": "Fundamentals of Sight & Sound Film",
+            "description": "CINE-GT 1998 Fundamentals of Sight & Sound Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 1999",
+            "course_name": "Sight and Sound Documentary",
+            "description": "CINE-GT 1999 Sight and Sound Documentary",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2000",
+            "course_name": "Theory of Image",
+            "description": "CINE-GT 2000 Theory of Image",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2001",
+            "course_name": "Cultural Theory and The Documentary",
+            "description": "CINE-GT 2001 Cultural Theory and The Documentary",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5945",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 670",
+                    "time": "Tue 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Lee, Toby"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19175",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 670",
+                    "time": "Tue 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Lee, Toby"
+                }
+            ],
+            "course_name": "Topics in Doc Film:Expanded Documentary",
+            "description": "CINE-GT 2002 Topics in Doc Film:Expanded Documentary",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2003",
+            "course_name": "Proseminar: Film Narrative",
+            "description": "CINE-GT 2003 Proseminar: Film Narrative",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2004",
+            "course_name": "Topics & Problems Film Narrative: Voice-Over",
+            "description": "CINE-GT 2004 Topics & Problems Film Narrative: Voice-Over",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2005",
+            "course_name": "",
+            "description": "CINE-GT 2005\n\n   Close Analysis of Film\n\nThis class examines a small number of films in great detail with the intention of enhancing student comprehension of the multiple levels at which films are made and received.  Among the films we will analyze are Touch of Evil (1958), Do the Right Thing (1989), In the Mood For Love (2000), Pan\u2019s Labyrinth (2006), Run, Lola, Run (1998), and Gilda (1946). The course encourages the intensive, and comparative study of film, and concentrates on the formal analysis of the sound and image track, the segmentation of the scenario/narrative, techniques of stylistic analysis, and a consideration of a film...\n\n      more description for CINE-GT 2005 \u00bb\n\n      \n\n\n\nThis class examines a small number of films in great detail with the intention of enhancing student comprehension of the multiple levels at which films are made and received.  Among the films we will analyze are Touch of Evil (1958), Do the Right Thing (1989), In the Mood For Love (2000), Pan\u2019s Labyrinth (2006), Run, Lola, Run (1998), and Gilda (1946). The course encourages the intensive, and comparative study of film, and concentrates on the formal analysis of the sound and image track, the segmentation of the scenario/narrative, techniques of stylistic analysis, and a consideration of a film\u2019s surrounding documents, such as studio papers, posters, and critical reviews.   Students will acquire vocabulary and tools through which to describe the textual patterns and forces by which a film produces its meanings and effects.  As a key part of the course, each student will closely analyze an individual film they have chosen, for a final presentation.\n\n      less description for CINE-GT 2005 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2006",
+            "course_name": "Psychoanalysis and Film",
+            "description": "CINE-GT 2006 Psychoanalysis and Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2007",
+            "course_name": "Female Spectatorship",
+            "description": "CINE-GT 2007 Female Spectatorship",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2008",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19179",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "721B 674"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19180",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "721B 674"
+                }
+            ],
+            "course_name": "Community Archiving: Media Collections",
+            "description": "CINE-GT 2008 Community Archiving: Media Collections",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2009",
+            "course_name": "Pro Sem: Theory - Horror Difference",
+            "description": "CINE-GT 2009 Pro Sem: Theory - Horror Difference",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2010",
+            "course_name": "Curatorial Practices",
+            "description": "CINE-GT 2010 Curatorial Practices",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2016",
+            "course_name": "Pro Sem: Film Narrative",
+            "description": "CINE-GT 2016 Pro Sem: Film Narrative",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2017",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20393",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 635",
+                    "time": "Tue 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "Choi, Jung-Bong"
+                }
+            ],
+            "course_name": "Adv. Sem.: Key Concepts in Cultural Studies & Media Theories | Proseminar: Cultural Media Studies",
+            "description": "CINE-GT 2017 Adv. Sem.: Key Concepts in Cultural Studies & Media Theories | Proseminar: Cultural Media Studies",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2021",
+            "course_name": "Prosem: The Avant-Garde After World War II",
+            "description": "CINE-GT 2021 Prosem: The Avant-Garde After World War II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2022",
+            "course_name": "Proseminar: Theories of Difference",
+            "description": "CINE-GT 2022 Proseminar: Theories of Difference",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2032",
+            "course_name": "Hitchcock and Bunuel",
+            "description": "CINE-GT 2032 Hitchcock and Bunuel",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2046",
+            "course_name": "Cultural Studies",
+            "description": "CINE-GT 2046 Cultural Studies",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2050",
+            "course_name": "Prosem: Silent Cinema",
+            "description": "CINE-GT 2050 Prosem: Silent Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2056",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20444",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "721B 674"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20445",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "721B 674"
+                }
+            ],
+            "course_name": "Film / Novel",
+            "description": "CINE-GT 2056 Film / Novel",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2061",
+            "course_name": "Contemporary Latin American Cinema",
+            "description": "CINE-GT 2061 Contemporary Latin American Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2075",
+            "course_name": "Feminist Film Theory",
+            "description": "CINE-GT 2075 Feminist Film Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2080",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19777",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 635",
+                    "time": "Thu 6.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Lee, Toby"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19778",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 635",
+                    "time": "Thu 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "Lee, Toby"
+                }
+            ],
+            "course_name": "Advanced Seminar:  Women & the Documentary",
+            "description": "CINE-GT 2080 Advanced Seminar:  Women & the Documentary",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2094",
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 2094 Adv Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2095",
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 2095 Adv Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2096",
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 2096 Adv Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2100",
+            "course_name": "Cinema Culture of France",
+            "description": "CINE-GT 2100 Cinema Culture of France",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2101",
+            "course_name": "Soviet Cinema",
+            "description": "CINE-GT 2101 Soviet Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2102",
+            "course_name": "Prosem: Weimar Cinema",
+            "description": "CINE-GT 2102 Prosem: Weimar Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2104",
+            "course_name": "Top:Amer Narr Film/Hawks",
+            "description": "CINE-GT 2104 Top:Amer Narr Film/Hawks",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2105",
+            "course_name": "American Film 1930-1945",
+            "description": "CINE-GT 2105 American Film 1930-1945",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2106",
+            "course_name": "American Film 1945-1960",
+            "description": "CINE-GT 2106 American Film 1945-1960",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2107",
+            "course_name": "Proseminar:Hollywood Synergy",
+            "description": "CINE-GT 2107 Proseminar:Hollywood Synergy",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2108",
+            "course_name": "The Production Code",
+            "description": "CINE-GT 2108 The Production Code",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2109",
+            "course_name": "Studio System/Image",
+            "description": "CINE-GT 2109 Studio System/Image",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2110",
+            "course_name": "The Transition to Sound",
+            "description": "CINE-GT 2110 The Transition to Sound",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2111",
+            "course_name": "Surrealism and Its Antagonist",
+            "description": "CINE-GT 2111 Surrealism and Its Antagonist",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2112",
+            "course_name": "American Film 1960-1975",
+            "description": "CINE-GT 2112 American Film 1960-1975",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2113",
+            "course_name": "Race Gender & Nationalty in Australian Film",
+            "description": "CINE-GT 2113 Race Gender & Nationalty in Australian Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2114",
+            "course_name": "Historical Allergy",
+            "description": "CINE-GT 2114 Historical Allergy",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2115",
+            "course_name": "Prosem History:",
+            "description": "CINE-GT 2115 Prosem History:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2116",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "18791",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 674",
+                    "time": "Thu 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Polan, Dana"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19079",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 674",
+                    "time": "Thu 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Polan, Dana"
+                }
+            ],
+            "course_name": "Hollywood 1939",
+            "description": "CINE-GT 2116 Hollywood 1939",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2117",
+            "course_name": "Brazilian Cinema I",
+            "description": "CINE-GT 2117 Brazilian Cinema I",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2118",
+            "course_name": "Brazilian Cinema II",
+            "description": "CINE-GT 2118 Brazilian Cinema II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2119",
+            "course_name": "Hollywood On Hollywood",
+            "description": "CINE-GT 2119 Hollywood On Hollywood",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2120",
+            "course_name": "Sound, Music and Cinema",
+            "description": "CINE-GT 2120 Sound, Music and Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2121",
+            "course_name": "Topics in Film Genre:",
+            "description": "CINE-GT 2121 Topics in Film Genre:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2122",
+            "course_name": "American Film 1975-1990",
+            "description": "CINE-GT 2122 American Film 1975-1990",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2123",
+            "course_name": "Hollywood Cinema to 1960",
+            "description": "CINE-GT 2123 Hollywood Cinema to 1960",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2124",
+            "course_name": "American Film Violence",
+            "description": "CINE-GT 2124 American Film Violence",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2125",
+            "course_name": "American Film: 1960 - Present",
+            "description": "CINE-GT 2125 American Film: 1960 - Present",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2126",
+            "course_name": "Asian Media & Pop Culture",
+            "description": "CINE-GT 2126 Asian Media & Pop Culture",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2127",
+            "course_name": "American Film in The 1960'S and 70'S",
+            "description": "CINE-GT 2127 American Film in The 1960'S and 70'S",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2134",
+            "course_name": "Classical Film Theory: Pro Seminar",
+            "description": "CINE-GT 2134 Classical Film Theory: Pro Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2135",
+            "course_name": "Theory Proseminar: Race Gender and Nation",
+            "description": "CINE-GT 2135 Theory Proseminar: Race Gender and Nation",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2136",
+            "course_name": "Cinema & Social Change",
+            "description": "CINE-GT 2136 Cinema & Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2138",
+            "course_name": "Cinema TV, and National- Ionality",
+            "description": "CINE-GT 2138 Cinema TV, and National- Ionality",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2140",
+            "course_name": "Soviet/Russian Documentary",
+            "description": "CINE-GT 2140 Soviet/Russian Documentary",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2141",
+            "course_name": "The Question of An Avant Garge",
+            "description": "CINE-GT 2141 The Question of An Avant Garge",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2151",
+            "course_name": "History NYC Filmmaking",
+            "description": "CINE-GT 2151 History NYC Filmmaking",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2159",
+            "course_name": "Audiovision: Sound and Listening in Film Media",
+            "description": "CINE-GT 2159 Audiovision: Sound and Listening in Film Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2160",
+            "course_name": "Cinematic Interfaces: Remapping Film Theories",
+            "description": "CINE-GT 2160 Cinematic Interfaces: Remapping Film Theories",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2161",
+            "course_name": "Utopia/Dystopia:Imagined Futures in Sic-Fi Film",
+            "description": "CINE-GT 2161 Utopia/Dystopia:Imagined Futures in Sic-Fi Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2162",
+            "course_name": "The Post-Human Condition",
+            "description": "CINE-GT 2162 The Post-Human Condition",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2167",
+            "course_name": "The Films of Jean Renior",
+            "description": "CINE-GT 2167 The Films of Jean Renior",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2200",
+            "course_name": "Griffith",
+            "description": "CINE-GT 2200 Griffith",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2201",
+            "course_name": "Hitchcock",
+            "description": "CINE-GT 2201 Hitchcock",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2202",
+            "course_name": "Kubrick",
+            "description": "CINE-GT 2202 Kubrick \nThe films of Stanley Kubrick constitute one of the most innovative bodies of work in the commercial cinema.  This course investigates Kubrick\u2019s films in detail with emphasis on their narrative conceptions and structures.  The course will explore the uses of irony and voiceover, the representation of the relationship between humans and technology, the centrality of the topic of war, and the relationship of his films to issues of genre.",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2203",
+            "course_name": "Black British Cinema",
+            "description": "CINE-GT 2203 Black British Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2204",
+            "course_name": "Films of Orson Welles",
+            "description": "CINE-GT 2204 Films of Orson Welles",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2205",
+            "course_name": "The Films of Jean Renoir",
+            "description": "CINE-GT 2205 The Films of Jean Renoir",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2206",
+            "course_name": "Bruneul",
+            "description": "CINE-GT 2206 Bruneul",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2207",
+            "course_name": "Godard:Practice & Theory",
+            "description": "CINE-GT 2207 Godard:Practice & Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2208",
+            "course_name": "Eisenstein",
+            "description": "CINE-GT 2208 Eisenstein",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2209",
+            "course_name": "Kurosawa",
+            "description": "CINE-GT 2209 Kurosawa",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2210",
+            "course_name": "Antonioni",
+            "description": "CINE-GT 2210 Antonioni",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2212",
+            "course_name": "Prosem: Godard & Bresson",
+            "description": "CINE-GT 2212 Prosem: Godard & Bresson",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2213",
+            "course_name": "Three Japanese Filmakers",
+            "description": "CINE-GT 2213 Three Japanese Filmakers",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2214",
+            "course_name": "Women in Film",
+            "description": "CINE-GT 2214 Women in Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2215",
+            "course_name": "Fritz Lang",
+            "description": "CINE-GT 2215 Fritz Lang",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2217",
+            "course_name": "Films of Wim Wenders",
+            "description": "CINE-GT 2217 Films of Wim Wenders",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2218",
+            "course_name": "Comp Dir Sternberg & Lan",
+            "description": "CINE-GT 2218 Comp Dir Sternberg & Lan",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2219",
+            "course_name": "Marketing Techn New Medi",
+            "description": "CINE-GT 2219 Marketing Techn New Medi",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2220",
+            "course_name": "",
+            "description": "CINE-GT 2220\n\n   Pedro Almodovar\n\nPedro Almod\u00f3var is the most notorious Spanish filmmaker since Luis Bu\u00f1uel, and, like Bu\u00f1uel, he rapidly gained international acclaim.  This course will attend to Almod\u00f3var\u2019s appealing body of work (What Have I Done to Deserve This, Matador, Law of Desire, Tie Me Up Tie Me Down, All About My Mother, Talk to Her, Bad Education, Volver, Women on the Verge of a Nervous Breakdown, The Skin I Live In, among others) in relation to: national political history; international film exhibition; intertextual popular culture; comedy-thriller-melodrama genre mixing; convoluted narrative structures; theatrica...\n\n      more description for CINE-GT 2220 \u00bb\n\n      \n\n\n\nPedro Almod\u00f3var is the most notorious Spanish filmmaker since Luis Bu\u00f1uel, and, like Bu\u00f1uel, he rapidly gained international acclaim.  This course will attend to Almod\u00f3var\u2019s appealing body of work (What Have I Done to Deserve This, Matador, Law of Desire, Tie Me Up Tie Me Down, All About My Mother, Talk to Her, Bad Education, Volver, Women on the Verge of a Nervous Breakdown, The Skin I Live In, among others) in relation to: national political history; international film exhibition; intertextual popular culture; comedy-thriller-melodrama genre mixing; convoluted narrative structures; theatrical uses of color, music, acting, and scale; interrelated themes of family, desire, and identity; and an aesthetics of excess. Finally we will consider the \u201coutstanding\u201d Almod\u00f3var within a context of \u201cinfluence.\u201d\n\n      less description for CINE-GT 2220 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2221",
+            "course_name": "Silent Hitchcock",
+            "description": "CINE-GT 2221 Silent Hitchcock",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2226",
+            "course_name": "The Cinema of Josef Von Sternburg",
+            "description": "CINE-GT 2226 The Cinema of Josef Von Sternburg",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2227",
+            "course_name": "Spike Lee",
+            "description": "CINE-GT 2227 Spike Lee",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2228",
+            "course_name": "",
+            "description": "CINE-GT 2228\n\n   Robert Altman:Renegade\n\nThis course will provide an in-depth study of the films of Robert Altman. Primary emphasis will be placed on his development of a narrative mode which in its emphasis on a multi-character structure constitutes an alternative to classical Hollywood filmmaking. As well, his innovations in the uses of sound, editing, camera movement and performance will be considered. The topic of genre transformation defined in relation to historical, political and cultural characteristics of especially 1970\u2019s America will provide another topic of interest. The course will concentrate on Altman's status as a ren...\n\n      more description for CINE-GT 2228 \u00bb\n\n      \n\n\n\nThis course will provide an in-depth study of the films of Robert Altman. Primary emphasis will be placed on his development of a narrative mode which in its emphasis on a multi-character structure constitutes an alternative to classical Hollywood filmmaking. As well, his innovations in the uses of sound, editing, camera movement and performance will be considered. The topic of genre transformation defined in relation to historical, political and cultural characteristics of especially 1970\u2019s America will provide another topic of interest. The course will concentrate on Altman's status as a renegade filmmaker during the 1970\u2019s, but also provide a sense of the overall contours of his career. Screenings, readings and papers will be required.\n\n      less description for CINE-GT 2228 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2230",
+            "course_name": "Histography",
+            "description": "CINE-GT 2230 Histography",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2300",
+            "course_name": "Histography",
+            "description": "CINE-GT 2300 Histography",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2301",
+            "course_name": "Film Comedy",
+            "description": "CINE-GT 2301 Film Comedy",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2302",
+            "course_name": "Myth of The Last Western",
+            "description": "CINE-GT 2302 Myth of The Last Western",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2303",
+            "course_name": "Science Fiction Film",
+            "description": "CINE-GT 2303 Science Fiction Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2304",
+            "course_name": "Reflexive Cinema",
+            "description": "CINE-GT 2304 Reflexive Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2306",
+            "course_name": "Reflectivity II",
+            "description": "CINE-GT 2306 Reflectivity II",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2307",
+            "course_name": "Non-Fiction Film History",
+            "description": "CINE-GT 2307 Non-Fiction Film History",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2400",
+            "course_name": "Doc/Fiction Relationship in Film",
+            "description": "CINE-GT 2400 Doc/Fiction Relationship in Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2401",
+            "course_name": "Soviet & Post-Soviet Documentaty",
+            "description": "CINE-GT 2401 Soviet & Post-Soviet Documentaty",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2405",
+            "course_name": "Hybridization of Genres: Food and Performance",
+            "description": "CINE-GT 2405 Hybridization of Genres: Food and Performance",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2500",
+            "course_name": "Film & Modern in Arts",
+            "description": "CINE-GT 2500 Film & Modern in Arts",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2501",
+            "course_name": "Dada/Popsurrealism",
+            "description": "CINE-GT 2501 Dada/Popsurrealism",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2502",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19184",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19184",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19185",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19185",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Film and 20th Century Literature",
+            "description": "CINE-GT 2502 Film and 20th Century Literature",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2503",
+            "course_name": "Photography & Film",
+            "description": "CINE-GT 2503 Photography & Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2504",
+            "course_name": "Stage to Screen: Amer Thtre/Amer Film",
+            "description": "CINE-GT 2504 Stage to Screen: Amer Thtre/Amer Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2505",
+            "course_name": "Cinema/Sound",
+            "description": "CINE-GT 2505 Cinema/Sound",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2506",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20443",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "The Novel and Film",
+            "description": "CINE-GT 2506 The Novel and Film",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2507",
+            "course_name": "Costume Design in Flim",
+            "description": "CINE-GT 2507 Costume Design in Flim",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2509",
+            "course_name": "Adv Sem: Sex, Science, Sign",
+            "description": "CINE-GT 2509 Adv Sem: Sex, Science, Sign",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2510",
+            "course_name": "Cyborg Culture",
+            "description": "CINE-GT 2510 Cyborg Culture",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2511",
+            "course_name": "Media of Displacement",
+            "description": "CINE-GT 2511 Media of Displacement",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2566",
+            "course_name": "Cell Phone Cinema",
+            "description": "CINE-GT 2566 Cell Phone Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2582",
+            "course_name": "Theatricality in Film",
+            "description": "CINE-GT 2582 Theatricality in Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2600",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19779",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "721B 648"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19780",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "721B 648"
+                }
+            ],
+            "course_name": "Interactive cinema & New Media",
+            "description": "CINE-GT 2600 Interactive cinema & New Media",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2601",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "5900",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 635",
+                    "time": "Thu 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Zhang, Zhen"
+                }
+            ],
+            "course_name": "PhD Research Methodologies",
+            "description": "CINE-GT 2601 PhD Research Methodologies",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2706",
+            "course_name": "Issues & Images in Black Cinema",
+            "description": "CINE-GT 2706 Issues & Images in Black Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2707",
+            "course_name": "Black Documentary Tradition",
+            "description": "CINE-GT 2707 Black Documentary Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2803",
+            "course_name": "Art Direction",
+            "description": "CINE-GT 2803 Art Direction",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2804",
+            "course_name": "Studies in Analy Mvmnt",
+            "description": "CINE-GT 2804 Studies in Analy Mvmnt",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2805",
+            "course_name": "Proseminar: Writing Hist of Electronic Media",
+            "description": "CINE-GT 2805 Proseminar: Writing Hist of Electronic Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2815",
+            "course_name": "Adv Sem Crime TV: Reception & Methodology",
+            "description": "CINE-GT 2815 Adv Sem Crime TV: Reception & Methodology",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2817",
+            "course_name": "Adv. Sem. Scrnwning The Biopolitical",
+            "description": "CINE-GT 2817 Adv. Sem. Scrnwning The Biopolitical",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2820",
+            "course_name": "New Media, Installations and The Future Cinema",
+            "description": "CINE-GT 2820 New Media, Installations and The Future Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2825",
+            "course_name": "Adv. Sem. Argentine Cinema and Literature",
+            "description": "CINE-GT 2825 Adv. Sem. Argentine Cinema and Literature",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2828",
+            "course_name": "Adv. Sem. Genre/Gender",
+            "description": "CINE-GT 2828 Adv. Sem. Genre/Gender",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2830",
+            "course_name": "Adv. Sem. Celebrity",
+            "description": "CINE-GT 2830 Adv. Sem. Celebrity",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2835",
+            "course_name": "Adv. Sem. Paradigms of Globalism",
+            "description": "CINE-GT 2835 Adv. Sem. Paradigms of Globalism",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2900",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5693",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lant, Antonia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 2900 Adv Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2901",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2901 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2902",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5694",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lant, Antonia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2902 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2903",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2903 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2904",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5909",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Besser, Howard",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Adv Independent Study",
+            "description": "CINE-GT 2904 Adv Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2905",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2905 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2910",
+            "course_name": "Miap Internship",
+            "description": "CINE-GT 2910 Miap Internship",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2911",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17732",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Tarr, Kimberly; Kubes, Daniela",
+                    "time": "Tue 3.30 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Miap Internship",
+            "description": "CINE-GT 2911 Miap Internship",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2912",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5695",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Tarr, Kimberly",
+                    "time": "Tue 3.30 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Miap Internship",
+            "description": "CINE-GT 2912 Miap Internship",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2916",
+            "course_name": "Miap Internship",
+            "description": "CINE-GT 2916 Miap Internship",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2920",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5696",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Harris, Ann",
+                    "time": "Thu 10.00 AM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Moving Image and Sound: Basic Issues & Training",
+            "description": "CINE-GT 2920 Moving Image and Sound: Basic Issues & Training",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2950",
+            "classes": [
+                {}
+            ],
+            "course_name": "Cinema Studies Internship I",
+            "description": "CINE-GT 2950 Cinema Studies Internship I",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2952",
+            "classes": [
+                {}
+            ],
+            "course_name": "Cinema Studies Internship II",
+            "description": "CINE-GT 2952 Cinema Studies Internship II",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 2991",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2991 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2993",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2993 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 2995",
+            "course_name": "Independent Study",
+            "description": "CINE-GT 2995 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19775",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 670",
+                    "time": "Wed 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Allen, Richard"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19776",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 670",
+                    "time": "Wed 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Allen, Richard"
+                }
+            ],
+            "course_name": "Advanced Seminar: Film & Emotion",
+            "description": "CINE-GT 3000 Advanced Seminar: Film & Emotion",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 3001",
+            "course_name": "Directed Reading",
+            "description": "CINE-GT 3001 Directed Reading",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3002",
+            "course_name": "Sem in Film Narrative",
+            "description": "CINE-GT 3002 Sem in Film Narrative",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3003",
+            "course_name": "Adv Sem: Genre Theory",
+            "description": "CINE-GT 3003 Adv Sem: Genre Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3004",
+            "course_name": "Adv Sem: Filmmaker as Theorist",
+            "description": "CINE-GT 3004 Adv Sem: Filmmaker as Theorist",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3005",
+            "course_name": "Adv Sem: Fanonian Cinema",
+            "description": "CINE-GT 3005 Adv Sem: Fanonian Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3006",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19182",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 652",
+                    "time": "Tue 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Straayer, Arny"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19183",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 652",
+                    "time": "Tue 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Straayer, Arny"
+                }
+            ],
+            "course_name": "Adv SeminarStructures of Passing",
+            "description": "CINE-GT 3006 Adv SeminarStructures of Passing",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 3007",
+            "course_name": "Adv Sem: Kubrick and Narrative",
+            "description": "CINE-GT 3007 Adv Sem: Kubrick and Narrative",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3008",
+            "course_name": "Adv Sem:",
+            "description": "CINE-GT 3008 Adv Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3009",
+            "course_name": "Adv Sem: Bakhtin & Film",
+            "description": "CINE-GT 3009 Adv Sem: Bakhtin & Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3010",
+            "course_name": "Proseminar: Feminist Film Theory",
+            "description": "CINE-GT 3010 Proseminar: Feminist Film Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3011",
+            "course_name": "Advncd Sem: Analytical Film Theory",
+            "description": "CINE-GT 3011 Advncd Sem: Analytical Film Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3012",
+            "course_name": "Sem: Philosophy and Film",
+            "description": "CINE-GT 3012 Sem: Philosophy and Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3013",
+            "course_name": "Sem: Philosophy and Film Montague",
+            "description": "CINE-GT 3013 Sem: Philosophy and Film Montague",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3014",
+            "course_name": "Advanced Seminar:",
+            "description": "CINE-GT 3014 Advanced Seminar:",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3015",
+            "course_name": "Advanced Seminar: Cultural Policy",
+            "description": "CINE-GT 3015 Advanced Seminar: Cultural Policy",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3016",
+            "course_name": "Adv. Sem. Language and Image in Narrative",
+            "description": "CINE-GT 3016 Adv. Sem. Language and Image in Narrative",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3017",
+            "course_name": "Adv. Sem. Sound and Cinema",
+            "description": "CINE-GT 3017 Adv. Sem. Sound and Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3018",
+            "course_name": "Adv. Sem. The Essay Film",
+            "description": "CINE-GT 3018 Adv. Sem. The Essay Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3019",
+            "course_name": "Adv Sem. The Frankfurt School in Exile",
+            "description": "CINE-GT 3019 Adv Sem. The Frankfurt School in Exile",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3020",
+            "course_name": "Adv Sem Monsters",
+            "description": "CINE-GT 3020 Adv Sem Monsters",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3025",
+            "course_name": "Adv. Sem. Feminity and Film",
+            "description": "CINE-GT 3025 Adv. Sem. Feminity and Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3026",
+            "course_name": "Adv Sem Early Cinema",
+            "description": "CINE-GT 3026 Adv Sem Early Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3027",
+            "course_name": "Adv Sem: Representation: The Pol & Cul of Diffnce",
+            "description": "CINE-GT 3027 Adv Sem: Representation: The Pol & Cul of Diffnce",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3030",
+            "course_name": "Adv Sem: Multiculturlism and The Media",
+            "description": "CINE-GT 3030 Adv Sem: Multiculturlism and The Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3031",
+            "course_name": "Adv. Seminar Theories of History",
+            "description": "CINE-GT 3031 Adv. Seminar Theories of History",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3032",
+            "course_name": "Adv Seminar: 21st Century Cinema",
+            "description": "CINE-GT 3032 Adv Seminar: 21st Century Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3033",
+            "course_name": "Adv. Sem. Visconti",
+            "description": "CINE-GT 3033 Adv. Sem. Visconti",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3040",
+            "course_name": "Adv Sem Cinema and Modernity",
+            "description": "CINE-GT 3040 Adv Sem Cinema and Modernity",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3044",
+            "course_name": "Adv Sem: Horror and Difference",
+            "description": "CINE-GT 3044 Adv Sem: Horror and Difference",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3048",
+            "course_name": "Adv Sem The Archive, The Collection, The Museum",
+            "description": "CINE-GT 3048 Adv Sem The Archive, The Collection, The Museum",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3049",
+            "course_name": "Culture of Archives: Museums and Libraries",
+            "description": "CINE-GT 3049 Culture of Archives: Museums and Libraries",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3052",
+            "course_name": "Adv Sem: Hist of Film Thry; Post 60'S Paradgms",
+            "description": "CINE-GT 3052 Adv Sem: Hist of Film Thry; Post 60'S Paradgms",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3053",
+            "course_name": "Adv. Sem. Culture and Critique: Crime & Captl",
+            "description": "CINE-GT 3053 Adv. Sem. Culture and Critique: Crime & Captl",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3055",
+            "course_name": "Adv. Sem. Popular America in Media Abroad",
+            "description": "CINE-GT 3055 Adv. Sem. Popular America in Media Abroad",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3056",
+            "course_name": "Adv. Seminar History of German Cinema",
+            "description": "CINE-GT 3056 Adv. Seminar History of German Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3058",
+            "course_name": "Adv. Sem. The Sitcom",
+            "description": "CINE-GT 3058 Adv. Sem. The Sitcom",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3066",
+            "course_name": "Adv Sem: Wittgenstein & Film Theory",
+            "description": "CINE-GT 3066 Adv Sem: Wittgenstein & Film Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3079",
+            "course_name": "Adv Sem American South in Cinema",
+            "description": "CINE-GT 3079 Adv Sem American South in Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3080",
+            "course_name": "Adv. Sem. Cinematic City",
+            "description": "CINE-GT 3080 Adv. Sem. Cinematic City",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3100",
+            "course_name": "Adv. Sem: The Black Stars",
+            "description": "CINE-GT 3100 Adv. Sem: The Black Stars",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3101",
+            "course_name": "Advsem: Historiography",
+            "description": "CINE-GT 3101 Advsem: Historiography",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3102",
+            "course_name": "Adv Sem: Film History & Historical Methods",
+            "description": "CINE-GT 3102 Adv Sem: Film History & Historical Methods",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3103",
+            "course_name": "Adv.Sem. Artaud and The Psychopathology of Expre",
+            "description": "CINE-GT 3103 Adv.Sem. Artaud and The Psychopathology of Expre",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3104",
+            "course_name": "Landscape, Body & Cinema",
+            "description": "CINE-GT 3104 Landscape, Body & Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3105",
+            "course_name": "The New Chinese Documentary",
+            "description": "CINE-GT 3105 The New Chinese Documentary",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3106",
+            "course_name": "Adv. Seminar Cosmopolitanism",
+            "description": "CINE-GT 3106 Adv. Seminar Cosmopolitanism",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3110",
+            "course_name": "Adv. Sem. Marxism/Image",
+            "description": "CINE-GT 3110 Adv. Sem. Marxism/Image",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3111",
+            "course_name": "Adv. Sem. Raymond Williams for Film/Media",
+            "description": "CINE-GT 3111 Adv. Sem. Raymond Williams for Film/Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3115",
+            "course_name": "Adv Sem Film/Novel: Theory and Practice",
+            "description": "CINE-GT 3115 Adv Sem Film/Novel: Theory and Practice",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3125",
+            "course_name": "Adv. Sem. Cinema and Social Change",
+            "description": "CINE-GT 3125 Adv. Sem. Cinema and Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3130",
+            "course_name": "Adv Sem Explicitly Independent",
+            "description": "CINE-GT 3130 Adv Sem Explicitly Independent",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3135",
+            "course_name": "Adv Sem Image - Part I",
+            "description": "CINE-GT 3135 Adv Sem Image - Part I",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3140",
+            "course_name": "Adv. Sem. Citizenship",
+            "description": "CINE-GT 3140 Adv. Sem. Citizenship",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3142",
+            "course_name": "Adv Sem Cultural Citizenship",
+            "description": "CINE-GT 3142 Adv Sem Cultural Citizenship",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3144",
+            "course_name": "Adv. Sem.Theories of Emergence",
+            "description": "CINE-GT 3144 Adv. Sem.Theories of Emergence",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3150",
+            "course_name": "Critical Histiographies: Cold War Media  Politic",
+            "description": "CINE-GT 3150 Critical Histiographies: Cold War Media  Politic",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3205",
+            "course_name": "Adv. Sem: Cinephilia & Cinephobia",
+            "description": "CINE-GT 3205 Adv. Sem: Cinephilia & Cinephobia",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3206",
+            "course_name": "Adv Sem: Globalization and Media",
+            "description": "CINE-GT 3206 Adv Sem: Globalization and Media",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3207",
+            "course_name": "Adv. Sem. Comparative Post-Colonialism",
+            "description": "CINE-GT 3207 Adv. Sem. Comparative Post-Colonialism",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3244",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19177",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 674",
+                    "time": "Mon 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Zhang, Zhen"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19178",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "721B 674",
+                    "time": "Mon 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Zhang, Zhen"
+                }
+            ],
+            "course_name": "Adv. Sem:  Asian Film History",
+            "description": "CINE-GT 3244 Adv. Sem:  Asian Film History",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 3245",
+            "course_name": "Sinophone Film Culture",
+            "description": "CINE-GT 3245 Sinophone Film Culture",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3300",
+            "course_name": "Adv Seminar: History of Television",
+            "description": "CINE-GT 3300 Adv Seminar: History of Television",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3310",
+            "course_name": "Adv Sem Pastiche",
+            "description": "CINE-GT 3310 Adv Sem Pastiche",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3315",
+            "course_name": "Adv. Sem. Advanced Film Theory",
+            "description": "CINE-GT 3315 Adv. Sem. Advanced Film Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3322",
+            "course_name": "Adv Sem Comparative Analysis of Doc Cinema",
+            "description": "CINE-GT 3322 Adv Sem Comparative Analysis of Doc Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3325",
+            "course_name": "Adv. Sem. British Film Culture",
+            "description": "CINE-GT 3325 Adv. Sem. British Film Culture",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3335",
+            "course_name": "Adv. Sem. Women in Early Cinema",
+            "description": "CINE-GT 3335 Adv. Sem. Women in Early Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3340",
+            "course_name": "Adv. Sem. Indian Cinema",
+            "description": "CINE-GT 3340 Adv. Sem. Indian Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3400",
+            "course_name": "Adv Sem Preservation Studies",
+            "description": "CINE-GT 3400 Adv Sem Preservation Studies",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3401",
+            "course_name": "Collection Management",
+            "description": "CINE-GT 3401 Collection Management",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3402",
+            "course_name": "Film Preservation",
+            "description": "CINE-GT 3402 Film Preservation",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3403",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5697",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Jimenez, Mona; Piil, Erik",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Video Preservation 1",
+            "description": "CINE-GT 3403 Video Preservation 1",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 3404",
+            "course_name": "Video Preservation 2",
+            "description": "CINE-GT 3404 Video Preservation 2",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3490",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "5698",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Besser, Howard",
+                    "time": "Mon 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Seminar in Preservation Studies",
+            "description": "CINE-GT 3490 Advanced Seminar in Preservation Studies",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 3500",
+            "course_name": "Sem Inter Multi-Media St",
+            "description": "CINE-GT 3500 Sem Inter Multi-Media St",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3501",
+            "course_name": "Adv Sem: Foucault",
+            "description": "CINE-GT 3501 Adv Sem: Foucault",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3502",
+            "course_name": "The Beginnings of The American Study of Film",
+            "description": "CINE-GT 3502 The Beginnings of The American Study of Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3504",
+            "course_name": "Adv Sem: Eisenstein",
+            "description": "CINE-GT 3504 Adv Sem: Eisenstein",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3507",
+            "course_name": "Adv. Sem. Orson Welles",
+            "description": "CINE-GT 3507 Adv. Sem. Orson Welles",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3508",
+            "course_name": "Adv. Sem. Roland Barthes",
+            "description": "CINE-GT 3508 Adv. Sem. Roland Barthes",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3600",
+            "course_name": "Advanced Seminar: Subject as Author",
+            "description": "CINE-GT 3600 Advanced Seminar: Subject as Author",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3700",
+            "course_name": "Adv Sem: Queer Media/ Theory",
+            "description": "CINE-GT 3700 Adv Sem: Queer Media/ Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3900",
+            "course_name": "Dissertation Seminar",
+            "description": "CINE-GT 3900 Dissertation Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3901",
+            "course_name": "Dissertatiom Seminar",
+            "description": "CINE-GT 3901 Dissertatiom Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3902",
+            "course_name": "Dissertation Seminar",
+            "description": "CINE-GT 3902 Dissertation Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3903",
+            "course_name": "Sem Cinema Studies Rsch: Early Film",
+            "description": "CINE-GT 3903 Sem Cinema Studies Rsch: Early Film",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3904",
+            "course_name": "Adv Sem:Cinema Std Rsch: The Orients of Filmts",
+            "description": "CINE-GT 3904 Adv Sem:Cinema Std Rsch: The Orients of Filmts",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3905",
+            "course_name": "Directed Reading/ Research",
+            "description": "CINE-GT 3905 Directed Reading/ Research",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3906",
+            "course_name": "Directed Research/ Reading",
+            "description": "CINE-GT 3906 Directed Research/ Reading",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 3907",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "5699",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lant, Antonia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Reading/Researc",
+            "description": "CINE-GT 3907 Directed Reading/Researc",
+            "offering": true
+        },
+        {
+            "course_id": "CINE-GT 3908",
+            "course_name": "Directed Research",
+            "description": "CINE-GT 3908 Directed Research",
+            "offering": false
+        },
+        {
+            "course_id": "CINE-GT 9508",
+            "course_name": "Cinema in Contemporary Ireland",
+            "description": "CINE-GT 9508 Cinema in Contemporary Ireland",
+            "offering": false
+        }
+    ]
+}

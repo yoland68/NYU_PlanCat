@@ -1,0 +1,34 @@
+{
+    "major_id": "INT-UF",
+    "file": "./2015-2016/Internship_(INT-UF).html",
+    "courses": [
+        {
+            "course_id": "INT-UF 201",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "12215",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 566B",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "D'Alessandro, Nina"
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "12216",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B04",
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Bishop, Jacqueline"
+                }
+            ],
+            "course_name": "Internship",
+            "description": "INT-UF  201 Internship",
+            "offering": true
+        }
+    ]
+}

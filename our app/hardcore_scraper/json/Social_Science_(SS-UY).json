@@ -1,0 +1,858 @@
+{
+    "major_id": "SS-UY",
+    "file": "./2015-2016/Social_Science_(SS-UY).html",
+    "courses": [
+        {
+            "course_id": "SS-UY 101",
+            "course_name": "HIST OF WEST CIVIL-1815",
+            "description": "SS-UY  101 HIST OF WEST CIVIL-1815",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 102",
+            "course_name": "HIST OF WEST CIVIL-1914",
+            "description": "SS-UY  102 HIST OF WEST CIVIL-1914",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 104",
+            "course_name": "MAIN THEMES IN COMTEMPORARY  WORLD HISTORY",
+            "description": "SS-UY  104 MAIN THEMES IN COMTEMPORARY  WORLD HISTORY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 104",
+            "course_name": "THEMES CONTEMP WRLD HIST",
+            "description": "SS-UY  104 THEMES CONTEMP WRLD HIST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 109",
+            "course_name": "BIRTH OF MODERN EUROPE",
+            "description": "SS-UY  109 BIRTH OF MODERN EUROPE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 110",
+            "course_name": "RENAISSANCE/REFORMTN ERA",
+            "description": "SS-UY  110 RENAISSANCE/REFORMTN ERA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 115",
+            "course_name": "HISTORY OF AFRICA",
+            "description": "SS-UY  115 HISTORY OF AFRICA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 116",
+            "course_name": "HIST OF LATIN AMERICA",
+            "description": "SS-UY  116 HIST OF LATIN AMERICA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 117",
+            "course_name": "SOCIAL PROBLEMS",
+            "description": "SS-UY  117 SOCIAL PROBLEMS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 120",
+            "course_name": "TSARIST RUSSIA-REVOLUTIO",
+            "description": "SS-UY  120 TSARIST RUSSIA-REVOLUTIO",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 121",
+            "course_name": "HISTORY OF SOVIET UNION",
+            "description": "SS-UY  121 HISTORY OF SOVIET UNION",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 123",
+            "course_name": "USA:SETTLE TO RECONSTRUC",
+            "description": "SS-UY  123 USA:SETTLE TO RECONSTRUC",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 124",
+            "course_name": "USA:RECONST TO COLD WARS",
+            "description": "SS-UY  124 USA:RECONST TO COLD WARS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 125",
+            "course_name": "American Radicalism and Reform",
+            "description": "SS-UY  125 American Radicalism and Reform",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 126",
+            "course_name": "AFRO-AMERICAN HISTORY",
+            "description": "SS-UY  126 AFRO-AMERICAN HISTORY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 127",
+            "course_name": "AMER ECO HIST-INDUST ERA",
+            "description": "SS-UY  127 AMER ECO HIST-INDUST ERA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 128",
+            "course_name": "A HISTORY OF JAZZ",
+            "description": "SS-UY  128 A HISTORY OF JAZZ",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 129",
+            "course_name": "GROWTH OF U.S. CONSTIT.",
+            "description": "SS-UY  129 GROWTH OF U.S. CONSTIT.",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 130",
+            "course_name": "THE AMERICAN REVOLUTION",
+            "description": "SS-UY  130 THE AMERICAN REVOLUTION",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 132",
+            "course_name": "PRBLM OF AMER FRGN POLCY",
+            "description": "SS-UY  132 PRBLM OF AMER FRGN POLCY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 133",
+            "course_name": "ARCHAEO & ETHNOASTRONOMY",
+            "description": "SS-UY  133 ARCHAEO & ETHNOASTRONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 135",
+            "course_name": "HIST SCI-ANTIQ-->GALILEO",
+            "description": "SS-UY  135 HIST SCI-ANTIQ-->GALILEO",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 136",
+            "course_name": "GALILEO TO DARWIN",
+            "description": "SS-UY  136 GALILEO TO DARWIN",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 137",
+            "course_name": "FARADAY TO THE PRESENT",
+            "description": "SS-UY  137 FARADAY TO THE PRESENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 138",
+            "course_name": "TECH,SCI, & CONTEMP SCTY",
+            "description": "SS-UY  138 TECH,SCI, & CONTEMP SCTY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 139",
+            "course_name": "TECHNOLOGICAL FORECAST",
+            "description": "SS-UY  139 TECHNOLOGICAL FORECAST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 140",
+            "course_name": "SCI AND TECH IN AMERICA",
+            "description": "SS-UY  140 SCI AND TECH IN AMERICA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 141",
+            "course_name": "SOCIETY, HIST, ENVIRONMENT",
+            "description": "SS-UY  141 SOCIETY, HIST, ENVIRONMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 144",
+            "course_name": "COLLOQ-19TH CENT EUROPE",
+            "description": "SS-UY  144 COLLOQ-19TH CENT EUROPE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 145",
+            "course_name": "COLLOQ-20TH CENT THOUGHT",
+            "description": "SS-UY  145 COLLOQ-20TH CENT THOUGHT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 147",
+            "course_name": "COLLOQ IN IMPERIALISM",
+            "description": "SS-UY  147 COLLOQ IN IMPERIALISM",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 148",
+            "course_name": "COLLOQ-SOCLSM,COMMUNISM",
+            "description": "SS-UY  148 COLLOQ-SOCLSM,COMMUNISM",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 149",
+            "course_name": "COLLOQ-HIST OF MARXISM",
+            "description": "SS-UY  149 COLLOQ-HIST OF MARXISM",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 151",
+            "course_name": "INTRO TO POLITICS",
+            "description": "SS-UY  151 INTRO TO POLITICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 153",
+            "course_name": "REV IN COMPAR HIST PERSP",
+            "description": "SS-UY  153 REV IN COMPAR HIST PERSP",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 154",
+            "course_name": "RUSSIA,CHINA,THE WEST",
+            "description": "SS-UY  154 RUSSIA,CHINA,THE WEST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 155",
+            "course_name": "CONTEMPORARY AMERICAN ECONOMY",
+            "description": "SS-UY  155 CONTEMPORARY AMERICAN ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 157",
+            "course_name": "TOP IN COMPAR POLITICS",
+            "description": "SS-UY  157 TOP IN COMPAR POLITICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 158",
+            "course_name": "TOP IN COMPAR POLITICS",
+            "description": "SS-UY  158 TOP IN COMPAR POLITICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 161",
+            "course_name": "FILM AND HISTORY",
+            "description": "SS-UY  161 FILM AND HISTORY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 165",
+            "course_name": "SOCIETY & FILM",
+            "description": "SS-UY  165 SOCIETY & FILM",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 167",
+            "course_name": "MARKET FOR ENG & SCIENCE",
+            "description": "SS-UY  167 MARKET FOR ENG & SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 175",
+            "course_name": "INTRO TO SOCIOLOGY",
+            "description": "SS-UY  175 INTRO TO SOCIOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 177",
+            "course_name": "SOCIAL PROBLEMS",
+            "description": "SS-UY  177 SOCIAL PROBLEMS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 178",
+            "course_name": "MINORITIES IN NEW WORLD",
+            "description": "SS-UY  178 MINORITIES IN NEW WORLD",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 179",
+            "course_name": "SOC. OF HUMAN DISEASE",
+            "description": "SS-UY  179 SOC. OF HUMAN DISEASE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 180",
+            "course_name": "SOC. AND URBANIZATION",
+            "description": "SS-UY  180 SOC. AND URBANIZATION",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 182",
+            "course_name": "MAN & THE ENVIRONMENT",
+            "description": "SS-UY  182 MAN & THE ENVIRONMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 183",
+            "course_name": "HISTORY AND ENVIRONMENT",
+            "description": "SS-UY  183 HISTORY AND ENVIRONMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 184",
+            "course_name": "THE SOCIOCULT SCIENCES",
+            "description": "SS-UY  184 THE SOCIOCULT SCIENCES",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 185",
+            "course_name": "ANTHROPOLOGY:PHYSICAL",
+            "description": "SS-UY  185 ANTHROPOLOGY:PHYSICAL",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 186",
+            "course_name": "ANTHROPOLOGY:CULTURAL",
+            "description": "SS-UY  186 ANTHROPOLOGY:CULTURAL",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 187",
+            "course_name": "WORLD PREHISTORY",
+            "description": "SS-UY  187 WORLD PREHISTORY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 188",
+            "course_name": "SOCIAL CHANGE,EVOLUTION",
+            "description": "SS-UY  188 SOCIAL CHANGE,EVOLUTION",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 189",
+            "course_name": "INTRO TO PSYCHOLOGY",
+            "description": "SS-UY  189 INTRO TO PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 190",
+            "course_name": "ENVIRONMENTAL PSYCHOLOGY",
+            "description": "SS-UY  190 ENVIRONMENTAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 191",
+            "course_name": "SOCIAL PSYCHOLOGY",
+            "description": "SS-UY  191 SOCIAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 192",
+            "course_name": "EXPRMNTL PSYCHOLOGY I",
+            "description": "SS-UY  192 EXPRMNTL PSYCHOLOGY I",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 193",
+            "course_name": "| SS-UY  909 EXPRMNTL PSYCHOLOGY II",
+            "description": "SS-UY  193 | SS-UY  909 EXPRMNTL PSYCHOLOGY II",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 194",
+            "course_name": "DRUGS AND BEHAVIOR",
+            "description": "SS-UY  194 DRUGS AND BEHAVIOR",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 195",
+            "course_name": "ABNORMAL PSYCHOLOGY",
+            "description": "SS-UY  195 ABNORMAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 196",
+            "course_name": "STRESS AND RELAXATION",
+            "description": "SS-UY  196 STRESS AND RELAXATION",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 197",
+            "course_name": "PERSONALITY DEVELOPMENT",
+            "description": "SS-UY  197 PERSONALITY DEVELOPMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 198",
+            "course_name": "PSYCH OF HUMAN DEVELOP",
+            "description": "SS-UY  198 PSYCH OF HUMAN DEVELOP",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 199",
+            "course_name": "ORGANIZATIONAL BEHAVIOR",
+            "description": "MG-UY  301 | SS-UY  199 ORGANIZATIONAL BEHAVIOR",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 201",
+            "course_name": "LIT OF WEST CIV 1",
+            "description": "SS-UY  201 LIT OF WEST CIV 1",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 203",
+            "course_name": "PSYCHOLOGY OF LEARNING",
+            "description": "SS-UY  203 PSYCHOLOGY OF LEARNING",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 204",
+            "course_name": "PHYSIOLOGICAL PSYCHOLOGY",
+            "description": "SS-UY  204 PHYSIOLOGICAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 205",
+            "course_name": "APPLIED PSYCHOLOGY",
+            "description": "SS-UY  205 APPLIED PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 206",
+            "course_name": "HUMAN COGNIT,INFO PROCES",
+            "description": "SS-UY  206 HUMAN COGNIT,INFO PROCES",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 208",
+            "course_name": "EXPERIMNTL PSYCHOLOGY 1",
+            "description": "SS-UY  208 EXPERIMNTL PSYCHOLOGY 1",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 209",
+            "course_name": "EXPRMNTL PSYCHOLOGY 2",
+            "description": "SS-UY  209 EXPRMNTL PSYCHOLOGY 2",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 210",
+            "course_name": "ENVIRONMENTAL PSYCHOLOGY",
+            "description": "SS-UY  210 ENVIRONMENTAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 211",
+            "course_name": "CULTURE BACK OF AFR NATS",
+            "description": "SS-UY  211 CULTURE BACK OF AFR NATS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 212",
+            "course_name": "CULTURE OF NATNS OF ASIA",
+            "description": "SS-UY  212 CULTURE OF NATNS OF ASIA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 213",
+            "course_name": "NORTH AMERICAN INDIANS",
+            "description": "SS-UY  213 NORTH AMERICAN INDIANS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 214",
+            "course_name": "SOCIAL PSYCHOLOGY",
+            "description": "SS-UY  214 SOCIAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 215",
+            "course_name": "ABNORMAL PSYCHOLOGY",
+            "description": "SS-UY  215 ABNORMAL PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 216",
+            "course_name": "PERSONALITY DEVELOPMENT",
+            "description": "SS-UY  216 PERSONALITY DEVELOPMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 217",
+            "course_name": "PSYCH OF HUMAN DEVLOPMNT",
+            "description": "SS-UY  217 PSYCH OF HUMAN DEVLOPMNT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 221",
+            "course_name": "USSR UNDER GORBACHEV",
+            "description": "SS-UY  221 USSR UNDER GORBACHEV",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 225",
+            "course_name": "CONTEMPORARY AMERICAN ECON",
+            "description": "SS-UY  225 CONTEMPORARY AMERICAN ECON",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 226",
+            "course_name": "PROBLMS AMER FORGN PLCY",
+            "description": "SS-UY  226 PROBLMS AMER FORGN PLCY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 229",
+            "course_name": "GROWTH OF THE U.S. CONST",
+            "description": "SS-UY  229 GROWTH OF THE U.S. CONST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 250",
+            "course_name": "BASIC ECONOMICS",
+            "description": "SS-UY  250 BASIC ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 251",
+            "course_name": "MICROECONOMICS",
+            "description": "SS-UY  251 MICROECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 252",
+            "course_name": "MACROECONOMICS",
+            "description": "SS-UY  252 MACROECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 254",
+            "course_name": "ECONOMIC ISSUES",
+            "description": "SS-UY  254 ECONOMIC ISSUES",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 255",
+            "course_name": "THE CONTEMP AMER ECON",
+            "description": "SS-UY  255 THE CONTEMP AMER ECON",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 255",
+            "course_name": "GROWTH, INFLATION EMPLOYM",
+            "description": "SS-UY  255 GROWTH, INFLATION EMPLOYM",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 255",
+            "course_name": "AMERICAN ECONO:BOOM/BUST",
+            "description": "SS-UY  255 AMERICAN ECONO:BOOM/BUST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 257",
+            "course_name": "HIST OF ECONOM THOUGHT",
+            "description": "SS-UY  257 HIST OF ECONOM THOUGHT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 258",
+            "course_name": "COMPAR ECONOMIC SYSTEMS",
+            "description": "SS-UY  258 COMPAR ECONOMIC SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 259",
+            "course_name": "ECONOMIC DEVELOPMENT",
+            "description": "SS-UY  259 ECONOMIC DEVELOPMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 262",
+            "course_name": "COLLECTIVE BARGAINING",
+            "description": "SS-UY  262 COLLECTIVE BARGAINING",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 263",
+            "course_name": "LABOR ECONOMICS",
+            "description": "SS-UY  263 LABOR ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 264",
+            "course_name": "URBAN ECONOMICS",
+            "description": "SS-UY  264 URBAN ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 265",
+            "course_name": "MONEY AND BANKING",
+            "description": "SS-UY  265 MONEY AND BANKING",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 266",
+            "course_name": "LIBERTARIAN ECONOMICS",
+            "description": "SS-UY  266 LIBERTARIAN ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 267",
+            "course_name": "MARKET ENGRS/SCIENTISTS",
+            "description": "SS-UY  267 MARKET ENGRS/SCIENTISTS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 270",
+            "course_name": "MANAGEMENT PROCESS",
+            "description": "MG-UY  300 | SS-UY  270 MANAGEMENT PROCESS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 270",
+            "course_name": "MANAGEMENT PROCESS",
+            "description": "MG-UY  300 | SS-UY  270 MANAGEMENT PROCESS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 270",
+            "course_name": "| SS-UY  300 GUIDED READINGS IN SS",
+            "description": "SS-UY  270 | SS-UY  300 GUIDED READINGS IN SS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 275",
+            "course_name": "FOUNDATIONS OF BUS SYSTS",
+            "description": "MG-UY  305 | SS-UY  275 FOUNDATIONS OF BUS SYSTS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 275",
+            "course_name": "FNDTIONS OF BUS SYSTEMS",
+            "description": "MG-UY  305 | SS-UY  275 FNDTIONS OF BUS SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 279",
+            "course_name": "THE SOCIOLOGY OF HUMAN DISEASE",
+            "description": "SS-UY  279 THE SOCIOLOGY OF HUMAN DISEASE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 281",
+            "course_name": "TECHNOLOGY & THE LAW",
+            "description": "SS-UY  281 TECHNOLOGY & THE LAW",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 282",
+            "course_name": "LAW & THE ENVIRONMENT",
+            "description": "SS-UY  282 LAW & THE ENVIRONMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 290",
+            "course_name": "SEM ON TECH & THE LAW",
+            "description": "SS-UY  290 SEM ON TECH & THE LAW",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 293",
+            "course_name": "ECONOMICS 2",
+            "description": "SS-UY  293 ECONOMICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 298",
+            "course_name": "PRELAW INTERNSHIP",
+            "description": "SS-UY  298 PRELAW INTERNSHIP",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 299",
+            "course_name": "ORGANIZATIONAL BEHAVIOR",
+            "description": "MG-UY  301 | SS-UY  299 ORGANIZATIONAL BEHAVIOR",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 299",
+            "course_name": "ORGANIZATIONAL BEHAVIOR",
+            "description": "MG-UY  301 | SS-UY  299 ORGANIZATIONAL BEHAVIOR",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 270",
+            "course_name": "| SS-UY  300 GUIDED READINGS IN SS",
+            "description": "SS-UY  270 | SS-UY  300 GUIDED READINGS IN SS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 301",
+            "course_name": "GUIDED READINGS IN SS",
+            "description": "SS-UY  301 GUIDED READINGS IN SS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 302",
+            "course_name": "READINGS IN WORLD HIST",
+            "description": "SS-UY  302 READINGS IN WORLD HIST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 303",
+            "course_name": "READINGS IN HIST OF SCI",
+            "description": "SS-UY  303 READINGS IN HIST OF SCI",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 304",
+            "course_name": "READINGS IN ECONOMICS",
+            "description": "SS-UY  304 READINGS IN ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 305",
+            "course_name": "READINGS IN PSYCHOLOGY",
+            "description": "SS-UY  305 READINGS IN PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 306",
+            "course_name": "READINGS IN ANTHRO/SOCIO",
+            "description": "SS-UY  306 READINGS IN ANTHRO/SOCIO",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 310",
+            "course_name": "GENES,GENDER & SOCIETY",
+            "description": "SS-UY  310 GENES,GENDER & SOCIETY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 330",
+            "course_name": "HISTORY AND ENVIRONMENT",
+            "description": "SS-UY  330 HISTORY AND ENVIRONMENT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 332",
+            "course_name": "SCI & TECH IN AMERICA",
+            "description": "SS-UY  332 SCI & TECH IN AMERICA",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 333",
+            "course_name": "MEDVL & RENAISSANCE ENGG",
+            "description": "SS-UY  333 MEDVL & RENAISSANCE ENGG",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 338",
+            "course_name": "GALILEO GALILEI",
+            "description": "SS-UY  338 GALILEO GALILEI",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 345",
+            "course_name": "COLLOQ IN 20TH C.THOUGHT",
+            "description": "SS-UY  345 COLLOQ IN 20TH C.THOUGHT",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 348",
+            "course_name": "COLLQ ON THE HIST OF SOC & COM",
+            "description": "SS-UY  348 COLLQ ON THE HIST OF SOC & COM",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 354",
+            "course_name": "TECHNOLOGICAL FORECAST",
+            "description": "MG-UY  672 | SS-UY  354 TECHNOLOGICAL FORECAST",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 357",
+            "course_name": "| SS-UY  675 TECH TRANS TO DEV COUNTR",
+            "description": "SS-UY  357 | SS-UY  675 TECH TRANS TO DEV COUNTR",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 361",
+            "course_name": "SPEC TOP IN SOC SCIENCE",
+            "description": "SS-UY  361 SPEC TOP IN SOC SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 362",
+            "course_name": "SPECIAL TOPICS IN HISTRY",
+            "description": "SS-UY  362 SPECIAL TOPICS IN HISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 363",
+            "course_name": "SPEC TOP IN SCI & TECH",
+            "description": "SS-UY  363 SPEC TOP IN SCI & TECH",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 364",
+            "course_name": "SPEC TOPICS IN ECONOMICS",
+            "description": "SS-UY  364 SPEC TOPICS IN ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 365",
+            "course_name": "| SS-UY  928 SPECIAL TOPICS IN PSYCHOLOGY",
+            "description": "SS-UY  365 | SS-UY  928 SPECIAL TOPICS IN PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 366",
+            "course_name": "SPEC TOP IN ANTHROPOLOGY",
+            "description": "SS-UY  366 SPEC TOP IN ANTHROPOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 381",
+            "course_name": "FILMS OF THE RENAISSANCE",
+            "description": "SS-UY  381 FILMS OF THE RENAISSANCE",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 398",
+            "course_name": "TECH TRANSFER/DEV CONTRIES",
+            "description": "SS-UY  398 TECH TRANSFER/DEV CONTRIES",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 626",
+            "course_name": "HUM RESOURCES INFO SYTMS",
+            "description": "MG-UY  326 | MG-UY  626 | SS-UY  626 HUM RESOURCES INFO SYTMS",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 357",
+            "course_name": "| SS-UY  675 TECH TRANS TO DEV COUNTR",
+            "description": "SS-UY  357 | SS-UY  675 TECH TRANS TO DEV COUNTR",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 193",
+            "course_name": "| SS-UY  909 EXPRMNTL PSYCHOLOGY II",
+            "description": "SS-UY  193 | SS-UY  909 EXPRMNTL PSYCHOLOGY II",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 365",
+            "course_name": "| SS-UY  928 SPECIAL TOPICS IN PSYCHOLOGY",
+            "description": "SS-UY  365 | SS-UY  928 SPECIAL TOPICS IN PSYCHOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "SS-UY 2104",
+            "course_name": "CONTEMPORARY WORLD HISTORY",
+            "description": "SS-UY 2104 CONTEMPORARY WORLD HISTORY",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "major_id": "MPAET-UE",
+    "file": "./2015-2016/Educational_Theatre_(MPAET-UE).html",
+    "courses": [
+        {
+            "course_id": "MPAET-UE 9",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10260",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 205",
+                    "time": "Mon,Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Embry, Daryl"
+                }
+            ],
+            "course_name": "Stagecraft",
+            "description": "MPAET-UE    9 Stagecraft \nComprehensive, practical course in the various technical aspects of theatrical production.  Fall term explores the planning, construction, and painting of scenery and the architecture of the stage.  Spring term deals with stage electrics, lighting, crafts, sound technology, and special effects.  Three additional hours of laboratory a week.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 10",
+            "course_name": "Stagecraft",
+            "description": "MPAET-UE   10 Stagecraft \nComprehensive, practical course in the various technical aspects of theatrical production.  Fall term explores the planning, construction, and painting of scenery and the architecture of the stage.  Spring term deals with stage electrics, lighting, crafts, sound technology, and special effects.  Three additional hours of laboratory a week.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 19",
+            "course_name": "App of Drama:Mus Theatr",
+            "description": "MPAET-UE   19 App of Drama:Mus Theatr",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 50",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10261",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Montgomery, David",
+                    "time": "Fri 9.00 AM - 11.30 AM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17697",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.25 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                }
+            ],
+            "course_name": "Intro to Educ Theatre I",
+            "description": "MPAET-UE   50 Intro to Educ Theatre I \nThis course will involve an examination of the major periods of theatre history from the Ancient Greeks to the 19th Century United States. There will be analysis of dramatic structures that relate these periods to the discipline of educational theatre. Different perspectives will be offered to give a comprehensive view of the role of theatre as a foundation to educational theatre. Students will develop a knowledge and understanding of strategies employed in educational theatre and an appreciation of the aesthetics of theatre and drama.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 51",
+            "course_name": "Intro to Educ Theatre II",
+            "description": "MPAET-UE   51 Intro to Educ Theatre II \nThis course will involve an examination  of the major periods of theatre history from the beginnings of Modern Theatre to Postmodern Theatre and Performance Art. There will be analysis of dramatic structures that relate these periods to the discipline of educational theatre. Different perspectives will be offered to give a comprehensive view of the role of theatre as a foundation to educational theatre. Students will develop a knowledge and understanding of strategies employed in educational theatre and an appreciation of the aesthetics of theatre and drama.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 60",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10262",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 388",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Salvatore, Joseph"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "10263",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "10263",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "10264",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "10264",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Theatre as Art Form",
+            "description": "MPAET-UE   60 Theatre as Art Form \nThis course introduces non-majors to theatre as a live and performing art through a variety of experiences including attendance at live performances, readings of play scripts, and theoretical texts, and the creation of original plays. Through lectures, discussions, and written assignments, students will explore the roles of the playwright, actor, director, and designer in the production process, as well as examines the role of the audience in the live performance.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Expressive Cultures",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 92",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "11127",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Embry, Daryl",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Collegium and Program Seminar",
+            "description": "MPAET-UE   92 Collegium and Program Seminar \nAll undergraduate music majors meet in Collegium six times each semester to discuss broad issues of the music profession, career opportunities, and department matters.  During the remaining weeks students meet with members of their major program for visits with specialists in their field and for programmatic discussions.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10265",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Smithner, Nancy",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "MPAET-UE 1000 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10266",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC5",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Shmidt, Jonathan"
+                }
+            ],
+            "course_name": "Intro to Theatre for Young Audiences I",
+            "description": "MPAET-UE 1005 Intro to Theatre for Young Audiences I \nPlay and audience analysis, directing methods, production techniques.  Each student plans a complete children's theatre production.  Laboratory experience recommended.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1006",
+            "course_name": "Intro to Theatre for Young Audiences II",
+            "description": "MPAET-UE 1006 Intro to Theatre for Young Audiences II \nPlay and audience analysis, directing methods, production techniques.  Each student plans a complete children's theatre production.  Laboratory experience recommended.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1017",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17695",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "McMath, Timothy",
+                    "time": "Thu 3.25 PM - 6.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Design for The Stage",
+            "description": "MPAET-UE 1017 Design for The Stage \nDesign for today's stage in period and modern styles.  Methods of originating and presenting a design conception.  Practice in scene sketching.  Three hours of laboratory per week.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1021",
+            "course_name": "Introduction to Theatre History",
+            "description": "MPAET-UE 1021 Introduction to Theatre History \nStudents will explore the general development of world theatre & dramatic literature, & become familiar with major movements, styles, theories, & plays from ancient times to the present. Due to the lengthy time span of theatre history covered, this introductory course cannot be all-inclusive, but will focus on pertinent periods of theatre, & select plays that are representative of significant periods that will be studied.  Students will also be able to research specific topics in the writing of research papers & group class presentations.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1029",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10267",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Blei, Micaela",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dramatic Activities in The Elementary Classroom",
+            "description": "MPAET-UE 1029 Dramatic Activities in The Elementary Classroom \nMethods and materials for role-playing, story dramatization, mask, puppetry, and improvisation as applied to the elementary classroom, in such areas as learning processes, motivation, communication and classroom management. Relationship of drama and theatre to the elementary curriculum. Student will use drama and theatre to address the human development processes that impact on the K-6 child's readiness to learn, such as culture, nutrition, personal safety and community. Laboratory experience required: 15 hours.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1050",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10268",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Miles, James",
+                    "time": "Mon,Wed 9.30 AM - 11.35 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Acting: Fundamentals",
+            "description": "MPAET-UE 1050 Acting: Fundamentals \nThis course offers a foundation upon which to build the technique needed to do the actors job: to live truthfully under the imaginary circumstances of the play. In this Stanislavski/Uta Hagen based approach, students participate in a guided study of self-observation and apply discoveries to scene work.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1051",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17693",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Russell, Catherine",
+                    "time": "Tue,Thu 9.30 AM - 11.35 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Acting: Scene Study",
+            "description": "MPAET-UE 1051 Acting: Scene Study \nIn this course students will continue the exploration begun in Acting: Fundamentals with in-depth scene and monologue preparation from the contemporary stage. Studio work will focus on the given circumstances, creating a physical life for the character, and miming the relationships that drive the play.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1052",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "11793",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "11793",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Acting:Character Study",
+            "description": "MPAET-UE 1052 Acting:Character Study \nAn advanced exploration into the tools and techniques of creating character within the context of the 'world of the play.' Through script analysis and attention to style, students will learn how to create the imaginary world in which the character lives. Scenes will be selected from both contemporary and classical genres.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1055",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10269",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 506",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Mueller, Evan"
+                }
+            ],
+            "course_name": "Voice/Speech for Actors",
+            "description": "MPAET-UE 1055 Voice/Speech for Actors \nA class for undergraduate majors of Educational Theater, this course focuses on the development of an actor's vocal instrument through physical exercises and work with poetic and dramatic text. Through exploration of established vocal techniques, students will build positive habits and ways of working with their voices that will allow for them to develop natural resonance and create more vocal variation. This increased vocal clarity will put them more directly in touch with their emotional impulses, and build a stronger dramatic foundation in acting.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1057",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10270",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10270",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Masters of Modern Drama",
+            "description": "MPAET-UE 1057 Masters of Modern Drama \nStudents read major plays representing innovative forms in modern theatre.  Movements from Ibsen, Chekhov, and Strindberg to dramatists of today are related to styles of theatrical presentation.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1058",
+            "course_name": "Masters of Modern Drama",
+            "description": "MPAET-UE 1058 Masters of Modern Drama \nStudents read major plays representing innovative forms in modern theatre.  Movements from Ibsen, Chekhov, and Strindberg to dramatists of today are related to styles of theatrical presentation.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1065",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17705",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 510",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Jones, Jonathan"
+                }
+            ],
+            "course_name": "Theory of Creative Drama",
+            "description": "MPAET-UE 1065 Theory of Creative Drama \nA philosophy underlying informal dramatics, materials for conducting improvised dramatic activities in elementary and secondary education and with adults.  Laboratory experience is recommended.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1067",
+            "course_name": "Methods of Conducting Creative Drama",
+            "description": "MPAET-UE 1067 Methods of Conducting Creative Drama \nTechniques and practice of creative drama.  Students lead classes; weekly critiques.  laboratory experience",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1068",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10271",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Dimenna, Stephen",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MPAET-UE 1068\n\n   Drama Activities in The Secondary Classroom\n\nTheories and practices of educational drama and theatre as applied to the secondary classroom in  such areas as learning processes, motivation, communication and classroom management. Attention given to the relationship of drama and theatre to speaking, thinking, writing, reading, history and other curricular subjects. An examination of improvisational techniques as well as play production. Student will use drama and theatre to address the human developmental processes that impact on the 7-12 student's readiness to learn, such as culture, nutrition, personal safety and community. Laboratory ex...\n\n      more description for MPAET-UE 1068 \u00bb\n\n      \n\n\n\nTheories and practices of educational drama and theatre as applied to the secondary classroom in  such areas as learning processes, motivation, communication and classroom management. Attention given to the relationship of drama and theatre to speaking, thinking, writing, reading, history and other curricular subjects. An examination of improvisational techniques as well as play production. Student will use drama and theatre to address the human developmental processes that impact on the 7-12 student's readiness to learn, such as culture, nutrition, personal safety and community. Laboratory experience required: 15 hours.\n\n      less description for MPAET-UE 1068 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1078",
+            "course_name": "Vis Elem Theat: Lighting",
+            "description": "MPAET-UE 1078 Vis Elem Theat: Lighting",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1079",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "11690",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lee, Ralph",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Masks & Puppetry",
+            "description": "MPAET-UE 1079 Masks & Puppetry \nHistorical and practical experience in basic mask and puppet-making techniques.  Exploration of the uses of masks and puppets and their importance in theatre.  Laboratory three hours a week.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1081",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10272",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.45 AM - 2.20 PM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                }
+            ],
+            "course_name": "Directing",
+            "description": "MPAET-UE 1081 Directing \nElements of play scripts are analyzed and dramatized. Students cast and rehearse members of of the acting classes in brief scenes performed at workshop meetings on Friday afternoons. Class assignments included.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1082",
+            "course_name": "Directing",
+            "description": "MPAET-UE 1082 Directing \nElements of play scripts are analyzed and dramatized.  Students cast and rehearse members of the acting classes in brief scenes performed at workshop meetings on Friday afternoons.  Class assignments include rehearsal.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1098",
+            "course_name": "Styles Act & Direct I Musical Theatre",
+            "description": "MPAET-UE 1098 Styles Act & Direct I Musical Theatre",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1099",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10273",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Smithner, Nancy",
+                    "time": "Mon 4.15 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Styles Actg & Direct I",
+            "description": "MPAET-UE 1099 Styles Actg & Direct I \nScenes from period plays (Greek, Roman, Elizabethan, neoclassical French, Restoration, eighteenth-&-nineteenth-century European) are studied and acted.  A course in performance styles and techniques for actors, directors, designers, teachers, and those interested in theatre history and criticism.  Additional hours of rehearsal.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1100",
+            "course_name": "Styles Actg & Direct II",
+            "description": "MPAET-UE 1100 Styles Actg & Direct II \nScenes from period plays ( Greek, Roman, Elizabethan, neoclassical French, Restoration, eighteenth-&-nineteenth-century European) are studied and acted.  A course in performance styles and techniques for actors, directors, designers, teachers, and those interested in theatre history and criticism.  Additional hours of rehearsal.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1101",
+            "course_name": "Musical Theatre: Background and Analysis",
+            "description": "MPAET-UE 1101 Musical Theatre: Background and Analysis \nAn analysis of the various forms of musical theatre with emphasis on the libretto, lyrics, and production elements.  Musicals past and present are examined and critically evaluated.  Written critiques of current musicals are required; costs of tickets are the responsibility of students.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1102",
+            "course_name": "Mus th Bkgrd&Analysis",
+            "description": "MPAET-UE 1102 Mus th Bkgrd&Analysis \nAn analysis of the various forms of musical theatre with emphasis on the libretto, lyrics, and production elements.  Musicals past and present are examined and critically evaluated.  Written critiques of current musicals are required; costs of tickets are the responsibility of students.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1105",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10274",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 303",
+                    "time": "Tue 8.35 PM - 10.15 PM",
+                    "open": true,
+                    "professor": "Dimenna, Stephen"
+                }
+            ],
+            "course_name": "Beginning Playwriting",
+            "description": "MPAET-UE 1105 Beginning Playwriting \nPrinciples and methods of play writing.  Completion of several writing assignments is required, including a one-act play.  Plays of special merit considered for program production.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1109",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17701",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cordileone, Amy",
+                    "time": "Wed 4.55 PM - 6.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Studies in Directing",
+            "description": "MPAET-UE 1109 Studies in Directing \nA practical course for directors of school, college, and community theaters. Technical facility in play analysis, establishing character relationships, and stage composition are stressed through class participation and discussion. Integration of the elements of stage production is demonstrated through class projects.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1113",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10275",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Smithner, Nancy",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Physical Theatre Improvisation",
+            "description": "MPAET-UE 1113 Physical Theatre Improvisation \nPhysical Theatre is the study of physical, vocal & improvisational exercises designed to free the creative imagination & develop performance skills. Through the layering of words, sound & movement, students will hone the essential ingredients & tools of the performer's craft.  Focus will be on vocal & movement techniques exploring atmosphere, imagery, gesture, isolation, abstraction,\ntiming, rhythm, spatial awareness, character development, mime, body graphics, viewpoints, & the theories of Yakim, Delsarte & Laban. The creation of original material will also be studied.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1134",
+            "classes": [
+                {}
+            ],
+            "course_name": "Stud Teach:Theatre in The Elementary Classroom",
+            "description": "MPAET-UE 1134 Stud Teach:Theatre in The Elementary Classroom \nSupervised student teaching in elementary classroom settings, followed by scheduled conferences with field supervisor.  Seminar will address formal and informal methods of assessing student learning and the means of analyzing one's own teaching practice. Student teachers will observe, plan, teach and evaluate drama and theatre activities, integrated across the elementary school curriculum, N-6.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1143",
+            "course_name": "Stage Lighting",
+            "description": "MPAET-UE 1143 Stage Lighting \nTheories of light and lighting.  The practice of lighting the stage.  Experiments with light as a design element.  Laboratory experience is required.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1174",
+            "classes": [
+                {}
+            ],
+            "course_name": "Stud Teach:Theatre in The Secondary Classroom",
+            "description": "MPAET-UE 1174 Stud Teach:Theatre in The Secondary Classroom \nSupervised student teaching in secondary classroom settings, 7-12, followed by scheduled conferences with field supervisor. Seminar involves developing appropriate goals, negotiating and enacting appropriate learning experiences, and assessing student learning in drama and theatre activities. The critical analysis of student teaching in the secondary classroom is designed to promote the student's development as a reflective practitioner.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAET-UE 1175",
+            "course_name": "Costume Design",
+            "description": "MPAET-UE 1175 Costume Design \nCostume Design for the modern stage and the history of fashion.  Three hours of practical laboratory a week.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1355",
+            "course_name": "Intro to Comp Art",
+            "description": "MPAET-UE 1355 Intro to Comp Art",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1900",
+            "course_name": "",
+            "description": "MPAET-UE 1900\n\n   Senior Seminar in Educational Theatre\n\nThis course serves as the culminating experience for undergraduate students completing a bachelor of science degree in Educational Theatre. Each student will create & present an individual capstone project in one of three concentration areas: Theatre Performance & Production, Applied Theatre, or Drama in Education. Through seminar discussions, written assignments, presentations, &  performances, students will demonstrate how their course work & practical experiences have contributed to this final culminating project. Students will also explore potential career options & academic pursuits upon ...\n\n      more description for MPAET-UE 1900 \u00bb\n\n      \n\n\n\nThis course serves as the culminating experience for undergraduate students completing a bachelor of science degree in Educational Theatre. Each student will create & present an individual capstone project in one of three concentration areas: Theatre Performance & Production, Applied Theatre, or Drama in Education. Through seminar discussions, written assignments, presentations, &  performances, students will demonstrate how their course work & practical experiences have contributed to this final culminating project. Students will also explore potential career options & academic pursuits upon the completion of the degree.\n\n      less description for MPAET-UE 1900 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPAET-UE 1978",
+            "course_name": "Applied Theatre Praxis",
+            "description": "MPAET-UE 1978 Applied Theatre Praxis \nThis course focuses on the social effects of applied theatre in community, vocational & educational settings. Informed by the work of Paulo Freire as well as other critical theorists & arts activists, like Augusto Boal, Bertolt Brecht, bell hooks, & Tony Kushner, students will explore projects which have a social justice & human rights agenda.",
+            "offering": false
+        }
+    ]
+}

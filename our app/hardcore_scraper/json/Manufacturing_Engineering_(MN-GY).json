@@ -1,0 +1,327 @@
+{
+    "major_id": "MN-GY",
+    "file": "./2015-2016/Manufacturing_Engineering_(MN-GY).html",
+    "courses": [
+        {
+            "course_id": "MN-GY 618",
+            "course_name": "MG HUMN SIDE OF TECH CHG",
+            "description": "MG-GY  627 | MN-GY  618 MG HUMN SIDE OF TECH CHG",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 618",
+            "course_name": "MG HUM  SIDE OF TECH CHG",
+            "description": "MG-GY  627 | MN-GY  618 MG HUM  SIDE OF TECH CHG",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 619",
+            "course_name": "PROD,PLANNING & CONTROL",
+            "description": "IE-GY  619 | MN-GY  619 PROD,PLANNING & CONTROL",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 622",
+            "course_name": "MANUFACTURING STRATEGIES",
+            "description": "MG-GY  871 | MN-GY  622 MANUFACTURING STRATEGIES",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 622",
+            "course_name": "MANUFACTURING STRATEGIES",
+            "description": "MG-GY  871 | MN-GY  622 MANUFACTURING STRATEGIES",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 632",
+            "course_name": "BLDG HIGH PERFORM TEAMS",
+            "description": "MN-GY  632 BLDG HIGH PERFORM TEAMS",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 651",
+            "course_name": "DESIGN STRATEGIES",
+            "description": "MN-GY  651 DESIGN STRATEGIES",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 770",
+            "course_name": "EMPLOYEE SCHEDULING",
+            "description": "IE-GY  770 | MG-GY  619 | MN-GY  770 EMPLOYEE SCHEDULING",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 776",
+            "course_name": "MANUF. RESOURCE PLANNING",
+            "description": "IE-GY  776 | MN-GY  776 MANUF. RESOURCE PLANNING",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 776",
+            "course_name": "MANUF RESOURCES PLANNING",
+            "description": "IE-GY  776 | MN-GY  776 MANUF RESOURCES PLANNING",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 794",
+            "course_name": "PHYS DESIGN OF PRODUCTS",
+            "description": "MN-GY  794 PHYS DESIGN OF PRODUCTS",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 796",
+            "course_name": "ELECTRON SYSTEM MANUFACT",
+            "description": "MN-GY  796 ELECTRON SYSTEM MANUFACT",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 798",
+            "course_name": "ELECT DATA INTERCHANGE",
+            "description": "MN-GY  798 ELECT DATA INTERCHANGE",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 802",
+            "course_name": "THER DESIGN ELECT SYST",
+            "description": "ME-GY  615 | MN-GY  802 THER DESIGN ELECT SYST",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 802",
+            "course_name": "THERM DESGN/ELECT SYSTMS",
+            "description": "ME-GY  717 | MN-GY  802 THERM DESGN/ELECT SYSTMS",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 912",
+            "course_name": "SEL TOP IN MANUF ENGG II",
+            "description": "MN-GY  912 SEL TOP IN MANUF ENGG II",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 930",
+            "course_name": "READINGS IN MANUF ENG  I",
+            "description": "MN-GY  930 READINGS IN MANUF ENG  I",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 931",
+            "course_name": "READINGS IN MANU ENG  II",
+            "description": "MN-GY  931 READINGS IN MANU ENG  II",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 996",
+            "course_name": "M.S. REPORT 1",
+            "description": "MN-GY  996 M.S. REPORT 1",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 997",
+            "course_name": "M.S. REPORT II",
+            "description": "MN-GY  997 M.S. REPORT II",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6005",
+            "course_name": "GUIDED STUDIES IN MANUFACTURING ENGINEERING",
+            "description": "MN-GY 6005 GUIDED STUDIES IN MANUFACTURING ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6010",
+            "course_name": "GUI READINGS IN MANUFACT ENG",
+            "description": "MN-GY 6010 GUI READINGS IN MANUFACT ENG",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6015",
+            "course_name": "GUIDED STUDIES IN MANUFACTURING ENGINEERING",
+            "description": "MN-GY 6015 GUIDED STUDIES IN MANUFACTURING ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6113",
+            "course_name": "Quality Control and Improvement",
+            "description": "MN-GY 6113 Quality Control and Improvement \nThis course provides students with a solid foundation in the cost of quality, quality assurance and quality management. Emphasis is placed on the basic tools of quality control such as control charts and their use, the concept of \u201cout of control,\u201d acceptance sampling, variables and attributes charts, and producer\u2019s and consumer\u2019s risk. This course uniquely demonstrates the power of teams of people with different expertise to improve quality. A course project is required. | Prerequisite: MA-GY 6513 Applied Statistics I (Data Analysis) or equivalent. Also listed as IE-GY 6113.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6123",
+            "course_name": "Quality Engineering Using Robust Design",
+            "description": "MN-GY 6123 Quality Engineering Using Robust Design \nThis course reviews broadly the procedures involved in improving the quality of manufacturing. By employing both Taguchi techniques, such as the use of signal-to-noise ratio representations and other techniques less sensitive to parameter interactions, a full spectrum of robust design methods are presented. Applications of these procedures are reviewed, including online troubleshooting methods to assure quality in manufacturing. Also listed as IE-GY 6123. | Prerequisite: MN-GY 6113 or IE-GY 6113.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6303",
+            "course_name": "Operations Management",
+            "description": "MN-GY 6303 Operations Management \nThis course examines analytical techniques to design and operate production and service systems, including facility layouts and locations, capacity planning, job sequencing, inventory control and quality control. Topics include introductory linear programming and other formal methods. Students use computers and case studies. | Also listed as MG-GY 6303.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6323",
+            "course_name": "",
+            "description": "MN-GY 6323\n\n   BUILDING HIGH PERFORMANCE TEAMS\n\nSuccessful manufacturing programs require the teaming of a number of professionals having a variety of types of expertise, such as product design, manufacturing-process design, production engineering, quality control, testing and packaging. In the past, these individual experts were involved only in a serial fashion in the overall product realization process, with not very effective results. Considerable evidence suggests that uniting these experts in a consistent team produces substantial benefits. This course provides students with the skills and knowledge to build work-unit effectiveness. T...\n\n      more description for MN-GY 6323 \u00bb\n\n      \n\n\n\nSuccessful manufacturing programs require the teaming of a number of professionals having a variety of types of expertise, such as product design, manufacturing-process design, production engineering, quality control, testing and packaging. In the past, these individual experts were involved only in a serial fashion in the overall product realization process, with not very effective results. Considerable evidence suggests that uniting these experts in a consistent team produces substantial benefits. This course provides students with the skills and knowledge to build work-unit effectiveness. Topics include diagnosing team functioning, understanding group dynamics, and creating a productive team culture, surfacing and resolving critical issues, and implementing strategies for organizational support.\n\n      less description for MN-GY 6323 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 6513",
+            "classes": [
+                {}
+            ],
+            "course_name": "DESIGN STRATEGIES",
+            "description": "MG-GY 6513 | MN-GY 6513 DESIGN STRATEGIES \nProduct design is a major determinant of product cost, quality and customer satisfaction.This course explores the design process, including establishing customer requirements and developing product specifications, conceptual design, detailed design, design for manufacturability, competitive analysis and design for the environment. Computeraided applications and case studies are reviewed.",
+            "offering": true
+        },
+        {
+            "course_id": "MN-GY 7503",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "MN-GY 7503\n\n   TARGET COSTING\n\nTarget Costing is a disciplined process for determining and realizing a total cost at which a product with specified functionality must be produced to generate the desired profitability at its anticipated selling price. This course presents both the theoretical foundation and the practical application of Target Costing methodology to the product-realization process. The topics include basic accounting, principles of Target Costing, the Target Costing Process, quantifying the customer requirements, defining the product feature set, price forecasting, experience curves, cost- functionality trade...\n\n      more description for MN-GY 7503 \u00bb\n\n      \n\n\n\nTarget Costing is a disciplined process for determining and realizing a total cost at which a product with specified functionality must be produced to generate the desired profitability at its anticipated selling price. This course presents both the theoretical foundation and the practical application of Target Costing methodology to the product-realization process. The topics include basic accounting, principles of Target Costing, the Target Costing Process, quantifying the customer requirements, defining the product feature set, price forecasting, experience curves, cost- functionality tradeoffs and implementation check lists. The course includes a hands-on design project in which teams of students will apply the principles of target costing to design a new product.\n\n      less description for MN-GY 7503 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MN-GY 7713",
+            "course_name": "Product Realization Process",
+            "description": "MN-GY 7713 Product Realization Process \nGetting new products developed and to market is a major factor in determining global competitiveness. This course uses case studies to illustrate the product-realization process and the successful application of R&D, concurrent engineering, cross-functional teams, continuous improvement, computer applications, target costing and management of new-product development.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7763",
+            "course_name": "MANUFACTURING RESOURCES PLANNING",
+            "description": "MN-GY 7763 MANUFACTURING RESOURCES PLANNING \nThis course discusses computerized systems to run a manufacturing business effectively. Also discussed are the process of software specification, evaluation, selection and implementation. Other topics include manufacturing resources planning logic, enterprise resource planning, manufacturing-execution systems, inventory management and bill of materials. Several software systems and their features are highlighted. Also listed as IE-GY 7763.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7853",
+            "course_name": "COMPUTER INTEGRATED MANUFACTURING SYSTEMS (CIMS)",
+            "description": "MN-GY 7853 COMPUTER INTEGRATED MANUFACTURING SYSTEMS (CIMS) \nThis course introduces the basic concepts of manufacturing products with complex processes that rely heavily on computer and data-processing technologies. All aspects relative to products and processes-planning, design, manufacturing, shipping are addressed from a variety of perspectives. Techniques to manage and optimize manufacturing productivity are explored. Also listed as IE-GY 7853.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7873",
+            "course_name": "LEAN MANUFACTURING",
+            "description": "MN-GY 7873 LEAN MANUFACTURING \nThis course provides an overview to the basic principles, and theories of lean manufacturing which involves identifying and eliminating non-value-adding activities in design, production, and supply chain management.  Students will learn an integrated approach to efficient manufacturing with emphasis on synchronized product, quick changeover, cell design, visual factory, value stream, one-piece flow and learn metrics.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7883",
+            "course_name": "Manufacturing Systems Engineering",
+            "description": "MN-GY 7883 Manufacturing Systems Engineering \nThis course concentrates on contemporary techniques for product design and manufacture, including financials of the manufacturing firm, quality, reliability, Taguchi methods of product and process design, scale-up and partitioning, production flows, modern manufacturing methods such as Just-In-Time/Total-Quality-Control, pull and synchronized manufacturing. Cultural factors are also discussed. | Also listed as IE-GY 7883.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7893",
+            "classes": [
+                {}
+            ],
+            "course_name": "Production Science",
+            "description": "MN-GY 7893 Production Science \nThis course reviews just-in-time and synchronous manufacturing methods. It analyzes the basic dynamics of factories to understand the importance of congestion and bottleneck rates on cycle time and inventories. Analytical models are developed to study variability and randomness introduced by breakdown, setups and batching. Simulation studies are used to provide data on performance of transfer lines.",
+            "offering": true
+        },
+        {
+            "course_id": "MN-GY 7894",
+            "course_name": "PRODUCTION SCIENCE",
+            "description": "MN-GY 7894 PRODUCTION SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7923",
+            "course_name": "Design for Manufacturability",
+            "description": "MN-GY 7923 Design for Manufacturability \nThis course introduces concepts and techniques for economical, functionally sound and high-quality product design for manufacture. The emphasis is on designing for easy robotic and manual assembly, and on using plastics effectively to reduce manufacturing costs. Managerial and organizational approaches and case studies of successful designs are reviewed. | Also listed as IE-GY 7923.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7933",
+            "course_name": "",
+            "description": "MN-GY 7933\n\n   Environmental Health and Safety\n\nThis course presents an overview of environmental, health and safety management. Students are introduced to management systems within a manufacturing operation. The course explores the motivations and strategies for environmental, health and safety management. Students learn about the mandatory standards along and about the technical and legal rationale for insuring that workers have a safe and healthy workplace. Because workers safety and health are protected by laws, these skills are needed to work effectively in operations; human resources and employee development as well as industrial rela...\n\n      more description for MN-GY 7933 \u00bb\n\n      \n\n\n\nThis course presents an overview of environmental, health and safety management. Students are introduced to management systems within a manufacturing operation. The course explores the motivations and strategies for environmental, health and safety management. Students learn about the mandatory standards along and about the technical and legal rationale for insuring that workers have a safe and healthy workplace. Because workers safety and health are protected by laws, these skills are needed to work effectively in operations; human resources and employee development as well as industrial relations. | Also listed under IE-GY 7933.\n\n      less description for MN-GY 7933 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7943",
+            "course_name": "PHYSICAL DEMAND OF PRODUCTS",
+            "description": "MN-GY 7943 PHYSICAL DEMAND OF PRODUCTS",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7953",
+            "course_name": "",
+            "description": "MN-GY 7953\n\n   Basics of Supply Chain Operations Management\n\nSupply chain operations seeks to integrate and accelerate the flow of materials, information and cash, throughout the process of supplying goods or services. Supply chain operations optimizes the efforts of suppliers, manufacturers, warehouses, distributors, retailers and customers to create an efficient and robust process. On the service side the same concepts prevail with the suppliers, institutions, providers, administrators and customers. All businesses are part of a supply chain, and understanding and realizing this relationship leads to economies of time, material, money and improved cus...\n\n      more description for MN-GY 7953 \u00bb\n\n      \n\n\n\nSupply chain operations seeks to integrate and accelerate the flow of materials, information and cash, throughout the process of supplying goods or services. Supply chain operations optimizes the efforts of suppliers, manufacturers, warehouses, distributors, retailers and customers to create an efficient and robust process. On the service side the same concepts prevail with the suppliers, institutions, providers, administrators and customers. All businesses are part of a supply chain, and understanding and realizing this relationship leads to economies of time, material, money and improved customer service\n\n      less description for MN-GY 7953 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7963",
+            "course_name": "ELECTRONICS SYSTEM MANUFACTURING",
+            "description": "MN-GY 7963 ELECTRONICS SYSTEM MANUFACTURING \nIn this course, students understand that the physical design and manufacturability of modern electronics systems results from tradeoffs involving partitioning, electrical performance, cooling and mechanical stresses. Design parameters are derived to study the tradeoffs, along with specific examples from reverse-engineering studies. The current status and future directions of lowcost, high-volume manufacturing technologies are examined.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7983",
+            "course_name": "",
+            "description": "MN-GY 7983\n\n   SUPPLY CHAIN INFRASTRUCTURE\n\nEffective supply chain operations require welldesigned, quality products, and the echelons of the supply chain must operate as a team. These elements, also termed the infrastructure, are presumed to exist. The objective of this course is to provide detailed information on the infrastructure elements required to operate \na competitive supply chain. This infrastructure will cover product design and development, quality, employee involvement and communication, supplier and  customer relationships, logistics, warehousing, information technology and e-business. Among the topics covered in detail w...\n\n      more description for MN-GY 7983 \u00bb\n\n      \n\n\n\nEffective supply chain operations require welldesigned, quality products, and the echelons of the supply chain must operate as a team. These elements, also termed the infrastructure, are presumed to exist. The objective of this course is to provide detailed information on the infrastructure elements required to operate \na competitive supply chain. This infrastructure will cover product design and development, quality, employee involvement and communication, supplier and  customer relationships, logistics, warehousing, information technology and e-business. Among the topics covered in detail will be product real-ization process and product design; house of quality; quality improvement process; six sigma; kaizan; employee motivation; communication and team dynamics; logistics including networks, third and fourth party organizations; warehousing, including optimum location, innovative information technology and e-business models.\n\n      less description for MN-GY 7983 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 7993",
+            "course_name": "",
+            "description": "MN-GY 7993\n\n   Supply Chain Engineering\n\nStudents in this course gain an understanding of how companies plan, source, make and deliver their products with a global competitive advantage. The course stresses the engineering components in developing an integrated supply chain that covers the entire manufacturing enterprise. It looks at the supply-chain infrastructure and the velocities of different models. The focus is on understanding and detecting the constraints of the infrastructure and the lowest common denominator of the information system used. Students also gain an understanding of logistical networks and the optimizing of the ...\n\n      more description for MN-GY 7993 \u00bb\n\n      \n\n\n\nStudents in this course gain an understanding of how companies plan, source, make and deliver their products with a global competitive advantage. The course stresses the engineering components in developing an integrated supply chain that covers the entire manufacturing enterprise. It looks at the supply-chain infrastructure and the velocities of different models. The focus is on understanding and detecting the constraints of the infrastructure and the lowest common denominator of the information system used. Students also gain an understanding of logistical networks and the optimizing of the various traffic and location alternatives. Synchronization of supply and demand is examined in detail, looking at variability in both processes with the objective of maximizing throughput and capacity, emphasizing partnering, e-commerce and the bullwhip effect. Finally, the course establishes global performance measurements that compare companies in different industries. | Also listed as IE-GY 7993.\n\n      less description for MN-GY 7993 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 8023",
+            "course_name": "THERMAL DESIGN OF ELECTRONICS SYSTEM FOR PERFORMANCE AND RELIABILITY",
+            "description": "MN-GY 8023 THERMAL DESIGN OF ELECTRONICS SYSTEM FOR PERFORMANCE AND RELIABILITY",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 8043",
+            "course_name": "THERMAL ISSUES IN MANUFACTURING PROCESSES",
+            "description": "MN-GY 8043 THERMAL ISSUES IN MANUFACTURING PROCESSES",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 8643",
+            "course_name": "New Product Development",
+            "description": "MN-GY 8643 New Product Development \nThis course examines the dynamics of technology and the pressures of competition that drive enterprises to make their product-development and production processes strategically more effective and economically more cost and time efficient. The course covers the state of the art in new product activities for services and manufacturing firms. It also examine in-depth the linkages among marketing, technology and manufacturing technology. | Also listed as MG-GY 8643.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 8653",
+            "course_name": "",
+            "description": "MN-GY 8653\n\n   Managing Technological Change and Innovation\n\nThis course focuses on how to manage effectively technological change and innovation by using a dual perspective. One perspective is based on individual, group and organizational theory, research and practice. This body of literature, viewpoints and experience provides essential guides to manage successfully the introduction of new technologies. Realizing the full potential of new technologies requires managing change effectively to assure 100 percent stakeholder commitment. The second perspective is based on innovation theory, research and practice. This body of literature, viewpoints and exp...\n\n      more description for MN-GY 8653 \u00bb\n\n      \n\n\n\nThis course focuses on how to manage effectively technological change and innovation by using a dual perspective. One perspective is based on individual, group and organizational theory, research and practice. This body of literature, viewpoints and experience provides essential guides to manage successfully the introduction of new technologies. Realizing the full potential of new technologies requires managing change effectively to assure 100 percent stakeholder commitment. The second perspective is based on innovation theory, research and practice. This body of literature, viewpoints and experience provides key insights to manage effectively the process of innovation and the impact of innovation on all parts of an enterprise. Specifically, explicit consideration is given to a firm\u2019s to manage and inspire people so that they can communicate and innovate effectively. | Also listed as MG-GY 8653\n\n      less description for MN-GY 8653 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 9113",
+            "course_name": "Selected Topics in Manufacturing Engineering I",
+            "description": "MN-GY 9113 Selected Topics in Manufacturing Engineering I \nAreas not covered in other courses.\nSpecific topics vary according to the instructor, who may be a visiting professor. Topics and prerequisites are announced during the term before the offering.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 9303",
+            "course_name": "READINGS IN MANUFACTURING ENGINEERING I",
+            "description": "MN-GY 9303 READINGS IN MANUFACTURING ENGINEERING I \nIn this course, students read selected papers and current literature in specialized area of study and are guided by a faculty member. The topic must be beyond the scope of regularly offered courses. The topic must be agreed upon by the student and adviser before registration. A written report on the topic is required. | Prerequisites: approval of adviser, instructor and department head.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 9313",
+            "course_name": "READINGS IN MANUFACTURING ENGINEERING II",
+            "description": "MN-GY 9313 READINGS IN MANUFACTURING ENGINEERING II \nIn this course, students read selected papers and current literature in specialized area of study and are guided by a faculty member. The topic must be beyond the scope of regularly offered courses. The topic must be agreed upon by the student and adviser before registration. A written report on the topic is required. | Prerequisites: approval of adviser, instructor and department head.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 9963",
+            "course_name": "MS REPORT I",
+            "description": "MN-GY 9963 MS REPORT I \nThis course is an independent project that demonstrates a student\u2019s professional maturity and graduate-level knowledge. Students, guided by an adviser, are expected to demonstrate experimental work, software development and extensive analyses. A student\u2019s report must include results in one or more of these areas: critical analysis and interpretation of pertinent literature. A required written report (unbound) should represent a worthy contribution. | Prerequisite: adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "MN-GY 9973",
+            "course_name": "MS PROJECT II",
+            "description": "MN-GY 9973 MS PROJECT II \nWith approval by the graduate adviser, some students may take a 6-unit MS report. This report should be planned during registration for MN-GY 9963. In such cases, MN-GY 9973 is used for the second half of the registration. A grade of S or U is awarded in MN-GY 9963 in these cases, and the letter grade given in MN-GY 9973 applies to all 6 units. | Prerequisite: adviser\u2019s approval.",
+            "offering": false
+        }
+    ]
+}

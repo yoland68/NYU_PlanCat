@@ -1,0 +1,70 @@
+{
+    "major_id": "ECI-UF",
+    "file": "./2015-2016/Economics_I_(ECI-UF).html",
+    "courses": [
+        {
+            "course_id": "ECI-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12225",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL04",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Mejorado, Ascension"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12245",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-17",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Jaeckel, Johann"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12140",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Julia, Roxana"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12141",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Julia, Roxana"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12142",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Julia, Roxana"
+                }
+            ],
+            "course_name": "Principles of Macroeconomics",
+            "description": "ECI-UF  101 Principles of Macroeconomics \nThis is the first part of a two-semester introductory sequence dealing with economic principles. The course introduces basic concepts of macroeconomic theory. Topics include unemployment; inflation; aggregate demand; income determination and stabilization policies; fiscal and monetary policies; and the Keynesian monetarist debate over stabilization policy.",
+            "offering": true
+        },
+        {
+            "course_id": "ECI-UF 9101",
+            "course_name": "Principles of Macroeconomics",
+            "description": "ECI-UF 9101 Principles of Macroeconomics",
+            "offering": false
+        }
+    ]
+}

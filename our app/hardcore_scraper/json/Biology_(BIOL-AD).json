@@ -1,0 +1,192 @@
+{
+    "major_id": "BIOL-AD",
+    "file": "./2015-2016/Biology_(BIOL-AD).html",
+    "courses": [
+        {
+            "course_id": "BIOL-AD 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17233",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "SOC_SCI 003",
+                    "time": "Mon,Wed,Sun 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Desplan, Claude; Abdel-Razig, Sawsan"
+                }
+            ],
+            "course_name": "",
+            "description": "BIOL-AD  101\n\n   Organismal Biology\n\nThis course uses fundamental concepts from the Foundations of Science curriculum to examine essential elements of animal physiology, from the nervous system to the various functions of the human body. After an initial introduction to the basic principles of physiology, the course emphasizes normal and pathological functions in humans. It explores how the nervous and the endocrine systems allow communication among cells and organs to enable an organism to maintain homeostasis and to respond to environmental changes. The anatomy of the nervous system is also used to address structure, function, ...\n\n      more description for BIOL-AD  101 \u00bb\n\n      \n\n\n\nThis course uses fundamental concepts from the Foundations of Science curriculum to examine essential elements of animal physiology, from the nervous system to the various functions of the human body. After an initial introduction to the basic principles of physiology, the course emphasizes normal and pathological functions in humans. It explores how the nervous and the endocrine systems allow communication among cells and organs to enable an organism to maintain homeostasis and to respond to environmental changes. The anatomy of the nervous system is also used to address structure, function, homeostasis and adaptability.\n\n      less description for BIOL-AD  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-AD 140",
+            "course_name": "Behavioral and Integrative Neuroscience",
+            "description": "BIOL-AD  140 Behavioral and Integrative Neuroscience \nThe behavioral response of an animal to a stimulus is the summed effect of a variety of internally coordinated processes starting at the molecular level and resulting in a change of activity in associated neural circuits. This course covers the molecular, physiological and anatomical bases of behavior, with particular emphasis on mammalian sensory, motor, regulatory, and motivational mechanisms. We also consider higher mental processes such as those involved in language and memory.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 210",
+            "course_name": "Applied Cell Biology",
+            "description": "BIOL-AD  210 Applied Cell Biology \nUnderstanding the fundamental methods for growing and studying cells\u2014the smallest units of life\u2014is basic to biology. This course introduces students to the methods used to study cell structure and function. In the laboratory, students study the fundamentals of cell biology and the experimental approaches used to examine the cell. Topics cover cellular, subcellular, and macromolecule localization; biochemical analysis of the cell; and cell culture techniques. Accurate record-keeping, reports, and presentations are emphasized.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 211",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "12846",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "SOC_SCI 003",
+                    "time": "Wed 12.30 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Salehi-Ashtiani, Kourosh; Chaudhury, Dipesh"
+                }
+            ],
+            "course_name": "",
+            "description": "BIOL-AD  211\n\n   Applied Molecular Biology | Experimental Neurobiology\n\nMolecular and cellular neurobiology have revolutionized research on cognitive processes and psychiatric disorders. This course will explore the role of individual genes and the morphological and physiological properties of single neurons in the nervous system. The course combines lectures, class discussions and lab experiments to explore applications of molecular and cellular neurobiology in research. The molecular neurobiology component of the course will focus on high-throughput and systems biology and students will perform transcriptome sequencing of brain RNA. The cellular neurobiology com...\n\n      more description for BIOL-AD  211 \u00bb\n\n      \n\n\n\nMolecular and cellular neurobiology have revolutionized research on cognitive processes and psychiatric disorders. This course will explore the role of individual genes and the morphological and physiological properties of single neurons in the nervous system. The course combines lectures, class discussions and lab experiments to explore applications of molecular and cellular neurobiology in research. The molecular neurobiology component of the course will focus on high-throughput and systems biology and students will perform transcriptome sequencing of brain RNA. The cellular neurobiology component will focus on basic mechanisms of neural signaling and students will use electrophysiological recordings to understand neural coding at the level of single cells and neural circuits.\n\n      less description for BIOL-AD  211 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-AD 212",
+            "course_name": "",
+            "description": "BIOL-AD  212\n\n   Developmental Biology\n\nMulticellular organisms undergo a series of complex temporal and spatial changes in gene expression following fertilization, which results in the highly organized, coordinated cell divisions needed for growth and development. This course introduces students to the principles and experimental strategies of developmental biology. It covers the cellular and molecular basis for patterning in the embryo; the determination of cell fate; cell differentiation; the genes controlling these events; how the genes are identified and studied; and\nthe cellular proteins that effect shape, movement, and signa...\n\n      more description for BIOL-AD  212 \u00bb\n\n      \n\n\n\nMulticellular organisms undergo a series of complex temporal and spatial changes in gene expression following fertilization, which results in the highly organized, coordinated cell divisions needed for growth and development. This course introduces students to the principles and experimental strategies of developmental biology. It covers the cellular and molecular basis for patterning in the embryo; the determination of cell fate; cell differentiation; the genes controlling these events; how the genes are identified and studied; and\nthe cellular proteins that effect shape, movement, and signaling among cells.\n\n      less description for BIOL-AD  212 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 213",
+            "course_name": "Evolution",
+            "description": "BIOL-AD  213 Evolution \nThis course provides a concept-driven overview of the most fundamental concept in biology: evolution. The course explores the principles of evolutionary biology through lectures, discussion and basic genetic data analyses. Topics include variation, speciation, fitness, adaptation, mutation, genetic drift, natural selection, phylogenetic systematics and evolutionary medicine. The course focuses on developing students' understanding of these concepts while reviewing the evidence supporting evolutionary theory.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 214",
+            "course_name": "",
+            "description": "BIOL-AD  214\n\n   Genetics\n\nWhy do offspring often exhibit physical features of their parents? Why do combinations of certain features in offspring translate into specific characteristics that either enhance or diminish the organism\u2019s fitness? The course covers the concepts, principles and research methods used in the field of genetics. Students learn about the major types of genetic variation and how they are generated, distributed and maintained across genomes and between individuals. The course covers concepts such as mutation, recombination, transmission systems, cytoplasmic inheritance, population genetics and multi...\n\n      more description for BIOL-AD  214 \u00bb\n\n      \n\n\n\nWhy do offspring often exhibit physical features of their parents? Why do combinations of certain features in offspring translate into specific characteristics that either enhance or diminish the organism\u2019s fitness? The course covers the concepts, principles and research methods used in the field of genetics. Students learn about the major types of genetic variation and how they are generated, distributed and maintained across genomes and between individuals. The course covers concepts such as mutation, recombination, transmission systems, cytoplasmic inheritance, population genetics and multifactorial inheritance. Emphasis is placed on patterns of Mendelian and non-Mendelian inheritance in humans and the use of genetic methods to analyze protein function, gene regulation and disease.\n\n      less description for BIOL-AD  214 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 215",
+            "course_name": "",
+            "description": "BIOL-AD  215\n\n   Genome Biology\n\nWhat is personalized medicine? What\u2019s the microbiome, and why should you care? How do we know about human migration patterns in ancient times, or the domestication of plants? What can our DNA tell us about heritable diseases? Fueled largely by the Human Genome Project, modern biological science has entered a new, revolutionary era in the 21st century. Genomics and Bioinformatics \u2013 the collection and analysis of vast amounts of sequence and functional data \u2013 are transforming the way we think, enabling us to solve long-standing mysteries and ask new kinds of questions. New scientific discoveries...\n\n      more description for BIOL-AD  215 \u00bb\n\n      \n\n\n\nWhat is personalized medicine? What\u2019s the microbiome, and why should you care? How do we know about human migration patterns in ancient times, or the domestication of plants? What can our DNA tell us about heritable diseases? Fueled largely by the Human Genome Project, modern biological science has entered a new, revolutionary era in the 21st century. Genomics and Bioinformatics \u2013 the collection and analysis of vast amounts of sequence and functional data \u2013 are transforming the way we think, enabling us to solve long-standing mysteries and ask new kinds of questions. New scientific discoveries from genome sciences are impacting society, and our every day lives, on all levels: public policy, medicine, health, and the environment.  Familiarity with these fields is thus vital for any educated citizen in our globally interconnected world.  This course introduces students to fundamental concepts and hot topics in genome science through seminars, critical review of current research articles, student presentations, and interactive discussion. In Spring 2015, Genome Biology will be held as a joint course between New York and Abu Dhabi, enabling students to get to know their peers across the Global Network University.\n\n      less description for BIOL-AD  215 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 216",
+            "course_name": "Systems Biology",
+            "description": "BIOL-AD  216 Systems Biology \nOrganismal complexity is reflected in part by the way the individual biochemical pathways, organless and cells function together to permit environmental adapatation. This course covers the computational techniques used to access, analyze, interpret, and integrate the diverse data of complex networks and pathways developed from genomics, proteomics, and metabolomics and to understand how they work together forming a system with definable phenotypes. Global approaches as well as mathematical and statistical modeling to data collection and analyses are performed.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 217",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13043",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "SOC_SCI 003",
+                    "time": "Tue,Thu 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Blau, Michael"
+                }
+            ],
+            "course_name": "Cell and Molecular Neuroscience",
+            "description": "BIOL-AD  217 Cell and Molecular Neuroscience \nCan we understand how the brain works at the level of individual cells, genes and even molecules? This seminar course provides students with broad exposure to current questions and experimental approaches in molecular and cellular neuroscience. Classes are organized into three modules: the control of neuronal cell form and its developmental determinants; neuronal cell function; and the mechanisms underlying neuronal signaling and synaptic plasticity. Particular emphasis is placed on understanding the primary scientific literature and on developing critical thinking and novel research ideas.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-AD 218",
+            "course_name": "",
+            "description": "BIOL-AD  218\n\n   Advanced Molecular Techniques and Synthetic Biology\n\nSynthetic biology aims to use state of the art molecular tools to redesign biological systems using the approaches of engineering. The guiding principal in designing synthetic projects is often derived from a systems level understanding of cellular networks, with metabolic network analyses playing a key role in offering informed hypotheses on how to modify cellular wirings for a desired outcome. This course combines lectures, class discussions, and lab experiments (both wet and computational) to explore applications of advanced genomics and molecular biology tools to alter the metabolic circui...\n\n      more description for BIOL-AD  218 \u00bb\n\n      \n\n\n\nSynthetic biology aims to use state of the art molecular tools to redesign biological systems using the approaches of engineering. The guiding principal in designing synthetic projects is often derived from a systems level understanding of cellular networks, with metabolic network analyses playing a key role in offering informed hypotheses on how to modify cellular wirings for a desired outcome. This course combines lectures, class discussions, and lab experiments (both wet and computational) to explore applications of advanced genomics and molecular biology tools to alter the metabolic circuits of E. coli.  The course engages students in a guided research project to learn advanced molecular techniques, such as gene silencing through CRISPR/Cas or TALEN systems, and systems level analysis of metabolism through pathway and flux balance analysis using integrated computational tools such as PathwayTools.  Students will become familiar with engineering concepts such as defining biological components as \u201cparts\u201d and cataloging them in synthetic biology parts registries. Students will also design novel genetic circuits, assemble new constructs and transform competent cells with in house cloned vectors. In addition, students will develop skills to formulate systems based hypotheses and write scientific research proposals.\n\n      less description for BIOL-AD  218 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 230",
+            "course_name": "",
+            "description": "BIOL-AD  230\n\n   Biophysics\n\nBiophysics uses the laws of physics and their associated mathematical principles to gain an understanding of living systems, primarily by examining forces and interactions among molecules found in cells. This course begins with a thorough review of cells, with a special emphasis on eukaryotes and their different compartments. This is followed by an investigation of the structures and functions of biological macromolecules, including proteins, nucleic acids, carbohydrates and lipids. Students gain a deep understanding of information flow in cells via detailed biophysical analysis of replication...\n\n      more description for BIOL-AD  230 \u00bb\n\n      \n\n\n\nBiophysics uses the laws of physics and their associated mathematical principles to gain an understanding of living systems, primarily by examining forces and interactions among molecules found in cells. This course begins with a thorough review of cells, with a special emphasis on eukaryotes and their different compartments. This is followed by an investigation of the structures and functions of biological macromolecules, including proteins, nucleic acids, carbohydrates and lipids. Students gain a deep understanding of information flow in cells via detailed biophysical analysis of replication and gene expression. Ultimately, the principles of biophysics are applied to disease states with an eye toward rational design of therapeutics.\n\n      less description for BIOL-AD  230 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 241",
+            "course_name": "",
+            "description": "BIOL-AD  241\n\n   Disorders of the Nervous System\n\nThis course explores how the nervous system develops in normal animals and how genetic and epigenetic factors can disrupt these processes. Lectures on normal developmental mechanisms interleave with those on disorders to provide a solid foundation for our discussions of abnormal events during maturation. The lectures on normal development cover a broad range of topics, including differentiation, axon outgrowth, synapse formation, specificity of connections, and plasticity. The lectures on dysfunction include autism, dyslexia, mental retardation, specific language impairment, hearing loss, blin...\n\n      more description for BIOL-AD  241 \u00bb\n\n      \n\n\n\nThis course explores how the nervous system develops in normal animals and how genetic and epigenetic factors can disrupt these processes. Lectures on normal developmental mechanisms interleave with those on disorders to provide a solid foundation for our discussions of abnormal events during maturation. The lectures on normal development cover a broad range of topics, including differentiation, axon outgrowth, synapse formation, specificity of connections, and plasticity. The lectures on dysfunction include autism, dyslexia, mental retardation, specific language impairment, hearing loss, blindness, ADHD, demyelinating or neurodegenerative disorders,\nand axon regeneration. The major goals of the course are to understand the extent to which current theories can explain the etiology of each disorder, and to learn how basic research can best facilitate advances in our knowledge and, ultimately, lead to treatments or cures.\n\n      less description for BIOL-AD  241 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 298",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17232",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "BIOL-AD  298\n\n   Directed Study\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in Biology. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3\nand a minimum major GPA of 3.5, and registration requires p...\n\n      more description for BIOL-AD  298 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in Biology. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3\nand a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Biology are\navailable from the Office of the Dean of Science.\n\n      less description for BIOL-AD  298 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-AD 299",
+            "course_name": "",
+            "description": "BIOL-AD  299\n\n   Directed Study\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in Biology. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3\nand a minimum major GPA of 3.5, and registration requires p...\n\n      more description for BIOL-AD  299 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in Biology. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3\nand a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Biology are available from the Office of the Dean of Science.\n\n      less description for BIOL-AD  299 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 320",
+            "course_name": "Special Topics in Biology",
+            "description": "BIOL-AD  320 Special Topics in Biology \nThis course covers current topics and approaches in the life sciences. Topics can include systems biology, bioinformatics, new laboratory and computer approaches in the life sciences, and current problems. Emphasis is placed on reading and evaluating primary literature and examining how the topic is addressed in the popular press.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-AD 390",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19224",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "COMP_RES 001"
+                }
+            ],
+            "course_name": "",
+            "description": "BIOL-AD  390\n\n   Biology Capstone Seminar | Capstone Seminar in Biology\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD biologists and others in related fields. Through exposure to NYUAD faculty research, students will identify areas of interest for their own capstone research and develop and write an in-depth research proposal over the course of the semester. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.  Beginning in 2015-16 all science maj...\n\n      more description for BIOL-AD  390 \u00bb\n\n      \n\n\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD biologists and others in related fields. Through exposure to NYUAD faculty research, students will identify areas of interest for their own capstone research and develop and write an in-depth research proposal over the course of the semester. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.  Beginning in 2015-16 all science majors are expected to take this course in their junior year.\n\n      less description for BIOL-AD  390 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-AD 400",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "13032",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Capstone Research in Biology | Senior Capstone Research Project",
+            "description": "BIOL-AD  400 Capstone Research in Biology | Senior Capstone Research Project \nThe senior Capstone Experience in biology requires students to engage in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The specific project is developed during their junior year as part of the Capstone Seminar. During the Capstone Project, the proposed work will come to fruition in the form of a research paper along the lines of those in the Proceedings of the National Academy of Sciences, USA. Students also participate in a capstone research symposium during which they present their work orally.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-AD 401",
+            "course_name": "Senior Capstone Research Project",
+            "description": "BIOL-AD  401 Senior Capstone Research Project \nThe senior Capstone Experience in biology requires students to engage in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The specific project is developed during their junior year as part of the Capstone Seminar. During the Capstone Project, the proposed work will come to fruition in the form of a research paper along the lines of those in the Proceedings of the National Academy of Sciences, USA. Students also participate in a capstone research symposium during which they present their work orally.",
+            "offering": false
+        }
+    ]
+}

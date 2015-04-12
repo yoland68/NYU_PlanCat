@@ -1,0 +1,24 @@
+{
+    "major_id": "MAINT-UF",
+    "file": "./2015-2016/Maintenance_(MAINT-UF).html",
+    "courses": [
+        {
+            "course_id": "MAINT-UF 4747",
+            "classes": [
+                {
+                    "format": "Maintaining Matriculation",
+                    "class_id": "12284",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Maintaining Matriculation",
+            "description": "MAINT-UF 4747 Maintaining Matriculation",
+            "offering": true
+        }
+    ]
+}

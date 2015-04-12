@@ -1,0 +1,450 @@
+{
+    "major_id": "ECON-UB",
+    "file": "./2015-2016/Stern_Economics_(ECON-UB).html",
+    "courses": [
+        {
+            "course_id": "ECON-UB 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9289",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC50",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Bowmaker, Simon"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9290",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9291",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9292",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9293",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9294",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9295",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9296",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9549",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9550",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "TISC UC07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9551",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC UC07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9552",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9553",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9554",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9555",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "TISC UC09"
+                }
+            ],
+            "course_name": "Microeconomics",
+            "description": "ECON-UB    1 Microeconomics \nThis course covers basic microeconomic principles including applications of supply and demand analysis; consumer choice; theory of the firm under perfect and imperfect competition; game theory and strategy; and theory and policy issues in market imperfections, such as monopoly and antitrust, externalities and regulation, imperfect information and regulation, and income distribution.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 11",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9297",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC50",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Foudy, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9298",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 200",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Foudy, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9299",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC24",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wachtel, Paul"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9300",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC24",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wachtel, Paul"
+                }
+            ],
+            "course_name": "",
+            "description": "ECON-UB   11\n\n   Economics of Global Business\n\nThis course examines the forces driving globalization-the integration of national business activities into globally competitive markets. The first part of the course discusses international trade-the role of comparative advantage and the gains from trade and the reasons for and effects of government policies that create impediments to trade. The second part of the course provides an overview of macroeconomic measurement and basic theoretical concepts of macroeconomics. The third part of the course surveys the role of money and finance in global economic activity. Topics discussed include the r...\n\n      more description for ECON-UB   11 \u00bb\n\n      \n\n\n\nThis course examines the forces driving globalization-the integration of national business activities into globally competitive markets. The first part of the course discusses international trade-the role of comparative advantage and the gains from trade and the reasons for and effects of government policies that create impediments to trade. The second part of the course provides an overview of macroeconomic measurement and basic theoretical concepts of macroeconomics. The third part of the course surveys the role of money and finance in global economic activity. Topics discussed include the role of exchange rates and international flows of capital.\n\n      less description for ECON-UB   11 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 12",
+            "course_name": "World Studies Track Sem in Econ of Glbl Business",
+            "description": "ECON-UB   12 World Studies Track Sem in Econ of Glbl Business",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 15",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9532",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC25",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Cabral, Luis"
+                }
+            ],
+            "course_name": "Competitive Analysis",
+            "description": "ECON-UB   15 Competitive Analysis \nThis course offers an economics approach to analyzing the way firms make marketing decisions and interact strategically with each other in the marketplace. The main goal of the course is to develop the basic intuition for pricing and other forms of strategic behavior on the part of firms.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 94",
+            "course_name": "Ind Study in Economics",
+            "description": "ECON-UB   94 Ind Study in Economics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 99",
+            "course_name": "Independent Study",
+            "description": "ECON-UB   99 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 115",
+            "course_name": "History of US Enterprise",
+            "description": "ECON-UB  115 History of US Enterprise",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 210",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9303",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC21",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bowmaker, Simon"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9569",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC24",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Bowmaker, Simon"
+                }
+            ],
+            "course_name": "",
+            "description": "ECON-UB  210\n\n   Econ of Sex, Drugs, & Rock N Roll\n\nThis course shows students how economics can be used as an aid in understanding almost every aspect of human behavior: drug addiction, drug policy, crime, marriage, divorce, pornography, prostitution, suicide, religion, assisted reproduction, abortion, sports, gambling, and rock and roll music. With special attention paid to the evolution of economic ideas, as well as state-of-the-art economic theory and empirical analysis, the value of economics in shedding analytical light on these behaviors is demonstrated. Further, this course provides students with sufficient knowledge to decipher between...\n\n      more description for ECON-UB  210 \u00bb\n\n      \n\n\n\nThis course shows students how economics can be used as an aid in understanding almost every aspect of human behavior: drug addiction, drug policy, crime, marriage, divorce, pornography, prostitution, suicide, religion, assisted reproduction, abortion, sports, gambling, and rock and roll music. With special attention paid to the evolution of economic ideas, as well as state-of-the-art economic theory and empirical analysis, the value of economics in shedding analytical light on these behaviors is demonstrated. Further, this course provides students with sufficient knowledge to decipher between the economic facts and economic myths that pervade popular news media, particularly on topics such as the legalization of drugs and the advantages and disadvantages of capital punishment.\n\n      less description for ECON-UB  210 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 211",
+            "course_name": "Sports Economics",
+            "description": "ECON-UB  211 Sports Economics \nThis course applies microeconomic theory and econometric analysis to sports and explores some public policy issues that have arisen in the design of sports competitions. The course is divided into four main parts: the structure of sports leagues, labor market issues, college sports, and the market for sports betting.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 212",
+            "course_name": "",
+            "description": "ECON-UB  212\n\n   Transportation Economics\n\nThis undergraduate course applies microeconomic analysis to the transportation industry. The scope of the course is broad by design, involving all transport markets, such as the intercity, rural, urban, and international markets, and all transport modes, such as railroads, highways, air carriage, transit, pipelines and waterways. The objective is for students to acquire an understanding of the underlying economics of transportation provision, including demand, costs, the pricing and quality of service, regulation and regulatory reform, competition between the various modes, highway congestion,...\n\n      more description for ECON-UB  212 \u00bb\n\n      \n\n\n\nThis undergraduate course applies microeconomic analysis to the transportation industry. The scope of the course is broad by design, involving all transport markets, such as the intercity, rural, urban, and international markets, and all transport modes, such as railroads, highways, air carriage, transit, pipelines and waterways. The objective is for students to acquire an understanding of the underlying economics of transportation provision, including demand, costs, the pricing and quality of service, regulation and regulatory reform, competition between the various modes, highway congestion, and the level of subsidies to mass transit. Since the course is being taught in New York City, whose transportation network is a cooperation of very complex systems of infrastructure, there will be an opportunity for students to hear from several guest speakers, including from the MTA and the Taxi and Limousine Commission.\n\n      less description for ECON-UB  212 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 213",
+            "course_name": "",
+            "description": "ECON-UB  213\n\n   Psychology and Economics\n\nThe interface of psychology and economics has a long history. In the 19th century, classic economics texts by the likes of Adam Smith, Alfred Marshall, and Francis Edgeworth contained psychological insight and did not insist that individuals were always rational or self-interested. In the 20th century, however, psychology and economics took different paths as psychologists used experiments to chart how people think and behave while economists turned to highly simplified models of individual agents as building blocks for theories of markets and strategic behavior. One view is that psychology em...\n\n      more description for ECON-UB  213 \u00bb\n\n      \n\n\n\nThe interface of psychology and economics has a long history. In the 19th century, classic economics texts by the likes of Adam Smith, Alfred Marshall, and Francis Edgeworth contained psychological insight and did not insist that individuals were always rational or self-interested. In the 20th century, however, psychology and economics took different paths as psychologists used experiments to chart how people think and behave while economists turned to highly simplified models of individual agents as building blocks for theories of markets and strategic behavior. One view is that psychology emulated biology, accumulating carefully documented facts, while economics aspired to be like a physics of social life. This course explores the modern attempt to draw the disciplines back together, which is most commonly termed \u2018behavioral economics.\u2019 This body of research incorporates psychological regularities into economics while being formal and predictive.\n\n      less description for ECON-UB  213 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 215",
+            "course_name": "History of US Enterprise",
+            "description": "ECON-UB  215 History of US Enterprise",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 220",
+            "course_name": "Global Perspectives On Enterprise Systems",
+            "description": "ECON-UB  220 Global Perspectives On Enterprise Systems \nThis course compares the development of rich and ?emerging market? countries over time. Through both macro- and microeconomic perspectives, we examine political, cultural, and economic similarities and differences of national enterprise systems, paying special attention to impacts of government, financial institutions, entrepreneurship, and management.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 221",
+            "course_name": "Monetary Policy",
+            "description": "ECON-UB  221 Monetary Policy \nMonetary policy in the United States and around the world is frequently in the news as policymakers work hard to control inflation, bring about balanced growth, and maintain the stability of the financial system. This course examines the institutions that run macroeconomic and financial sector policy both in the United States and around the world. The course explains the functions of the central banks, including the Federal Reserve and the ECB and international financial organizations such as the IMF. International financial crises and sovereign debt crises are explored.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 222",
+            "course_name": "Asian Economies",
+            "description": "ECON-UB  222 Asian Economies \nThis course will cover the economic development and current structure of East Asian nations, as well as the rise of regional economic interaction.  When, why and how did these economies begin the process of economic development? Why have many of them been so successful at growing and industrializing quickly? How do these economies operate today? For the purpose of this course, ?East Asia? consists of Japan, China, South Korea, Taiwan, Hong Kong, and the nations  of Southeast Asia belonging to the Association of Southeast Asian Nations (ASEAN).",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 223",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9558",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC15",
+                    "time": "Tue 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "Srivatsan, Venkataramani"
+                }
+            ],
+            "course_name": "Social Enterprise and Economic Development: The Indian Context",
+            "description": "ECON-UB  223 Social Enterprise and Economic Development: The Indian Context \nThis is a course on economic development and the role that private social enterprise (both for-profit and not-for-profit) can play in promoting development. The course has the three-fold goals of (1) introducing students to the academic discipline of human and economic development, and (2) focusing on the role of the private sector in promoting development through social enterprise while [3] utilizing the context of India \u2013 one of the oldest and longest living human civilizations. This course includes a one-week trip to India.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 225",
+            "course_name": "",
+            "description": "ECON-UB  225\n\n   Business and The Environment\n\nEnvironmental problems typically arise from \u201cmarket failures.\u201d This course examines several environmental issues at local, national, and international levels, with a particular focus this year on energy and climate change, but also briefly on water and population. Drawing on the theories of externalities, market failure, and mechanism design, it explores the causes of these problems and some of the potential remedies, including government regulation, \u201ccap-and-trade,\u201d and carbon taxes, as well as potential related business opportunities. The schedule will include lectures by relevant industry r...\n\n      more description for ECON-UB  225 \u00bb\n\n      \n\n\n\nEnvironmental problems typically arise from \u201cmarket failures.\u201d This course examines several environmental issues at local, national, and international levels, with a particular focus this year on energy and climate change, but also briefly on water and population. Drawing on the theories of externalities, market failure, and mechanism design, it explores the causes of these problems and some of the potential remedies, including government regulation, \u201ccap-and-trade,\u201d and carbon taxes, as well as potential related business opportunities. The schedule will include lectures by relevant industry representatives.\n\n      less description for ECON-UB  225 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 231",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9559",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC21",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Srivatsan, Venkataramani"
+                }
+            ],
+            "course_name": "",
+            "description": "ECON-UB  231\n\n   Business in Transition Economies\n\nThe collapse of the Soviet Union has been followed by the establishment of independent republics in Central and Eastern Europe and Asia that have replaced their failed planned economies with market economies. The difficulties of the transition follow directly from the discredited planned economy. This course provides the framework for understanding the transition by providing a basic knowledge of the administrative-command mechanism identified with central planning. Against this background, the economics of transition\u2014including issues of privatization, demonopolization, and macroeconomic stabi...\n\n      more description for ECON-UB  231 \u00bb\n\n      \n\n\n\nThe collapse of the Soviet Union has been followed by the establishment of independent republics in Central and Eastern Europe and Asia that have replaced their failed planned economies with market economies. The difficulties of the transition follow directly from the discredited planned economy. This course provides the framework for understanding the transition by providing a basic knowledge of the administrative-command mechanism identified with central planning. Against this background, the economics of transition\u2014including issues of privatization, demonopolization, and macroeconomic stability, as well as the appropriate speed of transition\u2014are fully explored.\n\n      less description for ECON-UB  231 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 232",
+            "course_name": "",
+            "description": "ECON-UB  232\n\n   Time Series Tools for Macroeconomics and Finance\n\nTime series analysis provides the language for virtually all of modern macroeconomics and finance, whether in the academic world or industry. Two workhorses -- Markov chains and stochastic linear difference equations -- are tickets to nearly every key application. In this course, students develop these tools and apply them to a wide range of applications, including macroeconomic prediction, the term structure of interest rates, and the permanent income theory of consumption. The course conveys knowledge of both the theory and the computer skills needed to creatively implement the theory. Matla...\n\n      more description for ECON-UB  232 \u00bb\n\n      \n\n\n\nTime series analysis provides the language for virtually all of modern macroeconomics and finance, whether in the academic world or industry. Two workhorses -- Markov chains and stochastic linear difference equations -- are tickets to nearly every key application. In this course, students develop these tools and apply them to a wide range of applications, including macroeconomic prediction, the term structure of interest rates, and the permanent income theory of consumption. The course conveys knowledge of both the theory and the computer skills needed to creatively implement the theory. Matlab, in particular, is used to bring to life the mathematical objects and statistics that compose the theory.\n\n      less description for ECON-UB  232 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 233",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9621",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Backus, David"
+                }
+            ],
+            "course_name": "",
+            "description": "ECON-UB  233\n\n   Macroeconomic Foundations for Asset Prices\n\nThe term \"business cycles\" refers to the ups and downs of the economy:\nfluctuations, in other words, in the growth rate of GDP.  Prices of\nbonds, equity indexes, and options on equity indexes are all closely\nrelated to these fluctuations.  We develop the tools needed to\nestablish a statistical connection between business cycles and asset\nprices and a theoretical foundation for it.  Numerical computations\nare used to develop the theory in realistic ways.  The course gives\nstudents a deeper understanding of macroeconomic fluctuations and\nasset pricing, the tools needed to develop this understand...\n\n      more description for ECON-UB  233 \u00bb\n\n      \n\n\n\nThe term \"business cycles\" refers to the ups and downs of the economy:\nfluctuations, in other words, in the growth rate of GDP.  Prices of\nbonds, equity indexes, and options on equity indexes are all closely\nrelated to these fluctuations.  We develop the tools needed to\nestablish a statistical connection between business cycles and asset\nprices and a theoretical foundation for it.  Numerical computations\nare used to develop the theory in realistic ways.  The course gives\nstudents a deeper understanding of macroeconomic fluctuations and\nasset pricing, the tools needed to develop this understanding, and\nextensive experience programming with Matlab.\n\n      less description for ECON-UB  233 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-UB 234",
+            "course_name": "",
+            "description": "ECON-UB  234\n\n   Advanced Topics in Modern Macroeconomics\n\nMuch of modern macroeconomics is concerned with economic fluctuations\n(aggregate risk) and the role of markets and government policy in its\nallocation across individuals (individual risk).  In this sense, the\nfields of macroeconomics and finance are closely intertwined. This\ncourse uses mathematical and statistical tools to throw a floodlight\non some key issues:  fiscal and monetary origins of the price level;\ninterest rates; the stock market; intergenerational arrangements\nassociated with social security; government debt; origins of financial\ncrises and government policies to attenuate them; ...\n\n      more description for ECON-UB  234 \u00bb\n\n      \n\n\n\nMuch of modern macroeconomics is concerned with economic fluctuations\n(aggregate risk) and the role of markets and government policy in its\nallocation across individuals (individual risk).  In this sense, the\nfields of macroeconomics and finance are closely intertwined. This\ncourse uses mathematical and statistical tools to throw a floodlight\non some key issues:  fiscal and monetary origins of the price level;\ninterest rates; the stock market; intergenerational arrangements\nassociated with social security; government debt; origins of financial\ncrises and government policies to attenuate them; and unemployment,\nincluding its duration and distribution across people of different\nskills.  The class will make extensive use of mathematical methods,\nincluding the method of dynamic programming, which provides insights\ninto a host of situations in which individuals face intertemporal\ntrade-offs.\n\n      less description for ECON-UB  234 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 235",
+            "course_name": "Poverty & Development",
+            "description": "ECON-UB  235 Poverty & Development \nThe objective of this course is to offer an understanding of issues related to poverty and development. In discussions on the roles of governments, international agencies, donors, NGOs and private institutions, emphasis will be on developmental approaches to poverty alleviation. Study of social entrepreneurship and private sector participation will receive special attention. Students will gain an understanding of challenges, obstacles, constraints and solutions to poverty alleviation and development.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 236",
+            "course_name": "",
+            "description": "ECON-UB  236\n\n   Advanced Microeconomics and Competition Law\n\nThis course serves as an introduction to the regulation of market power in the U.S. economy and the economic analysis that informs that regulation. The focus is on the U.S. Antitrust Laws, as embodied in the Sherman and Clayton Acts. These laws provide the basis for the civil and criminal litigation directed at price-fixing, market division agreements, bid-rigging, anticompetitive mergers, joint ventures, exclusive dealing provisions, refusals to deal, patent licenses, and many other forms of conduct that may diminish market competition.  The objective of the course is to provide an economics-...\n\n      more description for ECON-UB  236 \u00bb\n\n      \n\n\n\nThis course serves as an introduction to the regulation of market power in the U.S. economy and the economic analysis that informs that regulation. The focus is on the U.S. Antitrust Laws, as embodied in the Sherman and Clayton Acts. These laws provide the basis for the civil and criminal litigation directed at price-fixing, market division agreements, bid-rigging, anticompetitive mergers, joint ventures, exclusive dealing provisions, refusals to deal, patent licenses, and many other forms of conduct that may diminish market competition.  The objective of the course is to provide an economics-focused introduction to the contemporary regulatory environment. This background is intended to be useful to students considering careers in economic and litigation consulting, the law (i.e. going to law school), or working in industries where the regulatory environment is a significant feature of the business environment.\n\n      less description for ECON-UB  236 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 237",
+            "course_name": "",
+            "description": "ECON-UB  237\n\n   Economics of Location, Location, Location!\n\nThis course introduces and critically analyze cutting-edge theories that were developed to answer these and many other related questions. Interestingly enough, with the advent of the web, it looks like location decisions have become more important than ever. A further objective of Spatial Economics is to evaluate the economic efficiency of the location patterns we observe, as well as its welfare consequences for the constituencies involved. This means addressing questions such as: Are rent control and public housing the efficient remedy to urban poverty? Do local food systems make any sense...\n\n      more description for ECON-UB  237 \u00bb\n\n      \n\n\n\nThis course introduces and critically analyze cutting-edge theories that were developed to answer these and many other related questions. Interestingly enough, with the advent of the web, it looks like location decisions have become more important than ever. A further objective of Spatial Economics is to evaluate the economic efficiency of the location patterns we observe, as well as its welfare consequences for the constituencies involved. This means addressing questions such as: Are rent control and public housing the efficient remedy to urban poverty? Do local food systems make any sense? This is a high-level course for students that love math and coding, particularly indicated for those that are considering grad school in economics.\n\n      less description for ECON-UB  237 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 300",
+            "course_name": "Senior Seminar: Environmental Economics",
+            "description": "ECON-UB  300 Senior Seminar: Environmental Economics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 9011",
+            "course_name": "Global Business Environment",
+            "description": "ECON-UB 9011 Global Business Environment",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 9012",
+            "course_name": "World Studies Sem:",
+            "description": "ECON-UB 9012 World Studies Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 9014",
+            "course_name": "World Studies Track Sem: Emerging Markets",
+            "description": "ECON-UB 9014 World Studies Track Sem: Emerging Markets",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 9270",
+            "course_name": "Topics Appl Eco: Chinese Economics Reforms",
+            "description": "ECON-UB 9270 Topics Appl Eco: Chinese Economics Reforms",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-UB 9271",
+            "course_name": "Ownership and Corporate Control in Advanced and Transition Economies",
+            "description": "ECON-UB 9271 Ownership and Corporate Control in Advanced and Transition Economies \nThe subject of the course is to describe one of the most profound changes to take place in the history of the world economy - the rapid change from centrally planned economies to market economies throughout what used to be known as \"the Soviet block\". Although some reforms in some countries began much earlier, the true transition began in most Central and Eastern European countries roughly in 1990. This means that scholars and researchers are only now beginning to have the data and a sufficient distance needed to study and analyze the transition process.",
+            "offering": false
+        }
+    ]
+}

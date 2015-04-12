@@ -1,0 +1,884 @@
+{
+    "major_id": "ACCT-GB",
+    "file": "./2015-2016/Accounting_(ACCT-GB).html",
+    "courses": [
+        {
+            "course_id": "ACCT-GB 2103",
+            "course_name": "Financial Statement Anal",
+            "description": "ACCT-GB 2103 Financial Statement Anal",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2106",
+            "course_name": "Management Accounting",
+            "description": "ACCT-GB 2106 Management Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2114",
+            "course_name": "LAW FOR MGMT EXECUTIVE",
+            "description": "ACCT-GB 2114 LAW FOR MGMT EXECUTIVE \nLAW FOR MGMT EXECUTIVE",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2120",
+            "course_name": "ENTERTAINMENT LAW",
+            "description": "ACCT-GB 2120 ENTERTAINMENT LAW \nThis course focuses on the entertainment aspects of mass media. Major topics include the limits of a free press and the balance between the right to publish and the right to privacy, torts, and other laws.",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2130",
+            "course_name": "Financial Statement Anay",
+            "description": "ACCT-GB 2130 Financial Statement Anay",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2203",
+            "course_name": "FINANCIAL STATEMNT ANALYS",
+            "description": "ACCT-GB 2203 FINANCIAL STATEMNT ANALYS \nFINANCIAL STATEMNT ANALYS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20236",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "KMEC 3-90"
+                }
+            ],
+            "course_name": "FINC REPORTING&DISCLOSURE",
+            "description": "ACCT-GB 2302 FINC REPORTING&DISCLOSURE \nFINC REPORTING&DISCLOSURE",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 2303",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20237",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/14/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Mon,Wed 1.30 PM - 2.50 PM",
+                    "open": true,
+                    "professor": "Ronen, Joshua"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20238",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Ronen, Joshua"
+                }
+            ],
+            "course_name": "FINANCIAL STATEMENT ANAL",
+            "description": "ACCT-GB 2303 FINANCIAL STATEMENT ANAL \nFINANCIAL STATEMENT ANAL",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 2305",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20239",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Gode, Dhananjay"
+                }
+            ],
+            "course_name": "TAXES & BUSINESS STRATEGY",
+            "description": "ACCT-GB 2305 TAXES & BUSINESS STRATEGY \nTAXES & BUSINESS STRATEGY",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 2307",
+            "course_name": "Mgmt Acct Fr Cont & Eval",
+            "description": "ACCT-GB 2307 Mgmt Acct Fr Cont & Eval",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2308",
+            "course_name": "Mgmt Accounting Analysis",
+            "description": "ACCT-GB 2308 Mgmt Accounting Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2314",
+            "course_name": "BUSINESS LAW FOR MANAGERS",
+            "description": "ACCT-GB 2314 BUSINESS LAW FOR MANAGERS \nBUSINESS LAW FOR MANAGERS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2335",
+            "course_name": "Business Law",
+            "description": "ACCT-GB 2335 Business Law",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2336",
+            "course_name": "Business Law II",
+            "description": "ACCT-GB 2336 Business Law II",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2603",
+            "course_name": "Finan Statement Analysis",
+            "description": "ACCT-GB 2603 Finan Statement Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 2635",
+            "course_name": "Business Law I & II",
+            "description": "ACCT-GB 2635 Business Law I & II",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3101",
+            "course_name": "Syst for Opers Anal",
+            "description": "ACCT-GB 3101 Syst for Opers Anal",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3102",
+            "course_name": "Computer Simul Bus Game",
+            "description": "ACCT-GB 3102 Computer Simul Bus Game",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3104",
+            "course_name": "Modeling Finc Statements",
+            "description": "ACCT-GB 3104 Modeling Finc Statements",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3105",
+            "course_name": "MSRNG & DRVNG CORP PRFMNC",
+            "description": "ACCT-GB 3105 MSRNG & DRVNG CORP PRFMNC \nMSRNG & DRVNG CORP PRFMNC",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3108",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20240",
+                    "section": "10",
+                    "period": "10/29/2015 - 12/10/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Bukspan, Neri; Adelson, Mark"
+                }
+            ],
+            "course_name": "CREDIT RATINGS & FIXED-IN",
+            "description": "ACCT-GB 3108 CREDIT RATINGS & FIXED-IN \nCREDIT RATINGS & FIXED-IN",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 3110",
+            "course_name": "INVESTOR RELATIONS STRATG",
+            "description": "ACCT-GB 3110 INVESTOR RELATIONS STRATG \nINVESTOR RELATIONS STRATG",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3125",
+            "course_name": "Acct & Valuation-Emt Ind",
+            "description": "ACCT-GB 3125 Acct & Valuation-Emt Ind",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3126",
+            "course_name": "Mngrl Acct II}Acct Topic",
+            "description": "ACCT-GB 3126 Mngrl Acct II}Acct Topic",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3127",
+            "course_name": "Mng Acc II}Fin Cntrl Mkt",
+            "description": "ACCT-GB 3127 Mng Acc II}Fin Cntrl Mkt",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3128",
+            "course_name": "Managerial Actg II}Simul",
+            "description": "ACCT-GB 3128 Managerial Actg II}Simul",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3149",
+            "course_name": "ENTERTAINMENT ACCOUNTING",
+            "description": "ACCT-GB 3149 ENTERTAINMENT ACCOUNTING \nENTERTAINMENT ACCOUNTING",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3150",
+            "course_name": "",
+            "description": "ACCT-GB 3150\n\n   E-Comm: Accntg,Cntrl& Va\n\nThis course examines the economic environment of E-Commerce operations, analyzing the type of settings that are most conducive to successes or to failures of E-Commerce activities. It also addresses the set of unique financial reporting and managerial control issues relating to E-commerce operations, and provides market valuations of these operations.Financial reporting issues affecting firms in the digital economy include how and when revenue is recognized, how expenses are recognized for the granting and exercising of employee and director stock options, and the treatment of expenditures req...\n\n      more description for ACCT-GB 3150 \u00bb\n\n      \n\n\n\nThis course examines the economic environment of E-Commerce operations, analyzing the type of settings that are most conducive to successes or to failures of E-Commerce activities. It also addresses the set of unique financial reporting and managerial control issues relating to E-commerce operations, and provides market valuations of these operations.Financial reporting issues affecting firms in the digital economy include how and when revenue is recognized, how expenses are recognized for the granting and exercising of employee and director stock options, and the treatment of expenditures required to build important assets such as software and brand recognition. Unique aspects of managerial control in E-commerce firms include security of systems and transactions, integrity of record keeping, employee compensation, and considerations provided to suppliers.Valuation of E-Commerce operations is performed by utilizing the historical relationships between firm's revenues and expenses and value drivers, which are then used to estimate future cash flows and value.Topical Coverage:1. Evaluation of the business setting and the potential of the E-Commerce operations, including evaluation of specific business models (5-7 sessions).2. Financial reporting issues (2-3 sessions).3. Valuation (4-5 sessions).\n\n      less description for ACCT-GB 3150 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3155",
+            "course_name": "ACCOUNTING&VALUATION:EMT",
+            "description": "ACCT-GB 3155 ACCOUNTING&VALUATION:EMT \nACCOUNTING&VALUATION:EMT",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3170",
+            "course_name": "Independent Study: Acct",
+            "description": "ACCT-GB 3170 Independent Study: Acct",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3171",
+            "course_name": "Independent Study: Acct",
+            "description": "ACCT-GB 3171 Independent Study: Acct",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3303",
+            "course_name": "FINANCL PLANNING&ANALYSIS",
+            "description": "ACCT-GB 3303 FINANCL PLANNING&ANALYSIS \nFINANCL PLANNING&ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3304",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20241",
+                    "section": "01",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": "KMEC 3-120",
+                    "time": "Tue 9.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Gode, Dhananjay"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20242",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 3-120",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Gode, Dhananjay"
+                }
+            ],
+            "course_name": "MODELING FINC STATEMENTS",
+            "description": "ACCT-GB 3304 MODELING FINC STATEMENTS \nMODELING FINC STATEMENTS",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 3305",
+            "course_name": "",
+            "description": "ACCT-GB 3305\n\n   INFO ANAL:COST/PROFIT MGT\n\nThis course complements courses addressing operational management, marketing and strategy. Cost management plays a key-supporting role in the creation of more value to the consumer of a firm's products and services, thus enhancing its competitiveness. Any organization can benefit from cost management systems that accurately provide information and that facilitates integration of initiatives such as total quality, new product and service design, cost reduction and business process improvement that enhances their competitiveness and profitability.Topics will include design and implementa...\n\n      more description for ACCT-GB 3305 \u00bb\n\n      \n\n\n\nThis course complements courses addressing operational management, marketing and strategy. Cost management plays a key-supporting role in the creation of more value to the consumer of a firm's products and services, thus enhancing its competitiveness. Any organization can benefit from cost management systems that accurately provide information and that facilitates integration of initiatives such as total quality, new product and service design, cost reduction and business process improvement that enhances their competitiveness and profitability.Topics will include design and implementation of cost measurement systems for production and strategy choice, management control, enhancement of quality, timeliness and the measurement of customer, product and market regional profitability and the use of cost information during design and production stages. You will learn to cost products, services and strategies in manufacturing, financial and service industries with accuracy. Activities that do not contribute value to the firm and those that increase efficiency of operations are discerned, facilitating intelligent strategic budgeting processes. Efficient cost reduction approaches, monitoring of performance, quality enhancement projects and strategies to increase profitability of the firm are components of the course. Learn to measure outcomes through performance measures such as deviations from standard norms, return on investment, economic value added and balanced score card techniques. Tools such as activity based costing, target costing, Kaizen and customer profitability analysis are discussed using appropriate case studies from companies.\nless description for ACCT-GB 3305 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3306",
+            "course_name": "Profit Thru Cost Effcncy",
+            "description": "ACCT-GB 3306 Profit Thru Cost Effcncy",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3309",
+            "course_name": "Mgt Actg Fr Contr&Eval",
+            "description": "ACCT-GB 3309 Mgt Actg Fr Contr&Eval",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3310",
+            "course_name": "FRNSC ACTG&FIN STMT FRAUD",
+            "description": "ACCT-GB 3310 FRNSC ACTG&FIN STMT FRAUD \nFRNSC ACTG&FIN STMT FRAUD",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3312",
+            "course_name": "Fund of Finc Acct: Lect",
+            "description": "ACCT-GB 3312 Fund of Finc Acct: Lect",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3313",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20243",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "KMEC 4-90"
+                }
+            ],
+            "course_name": "AUDITING",
+            "description": "ACCT-GB 3313 AUDITING \nAUDITING",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 3314",
+            "course_name": "Computer Based Auditing",
+            "description": "ACCT-GB 3314 Computer Based Auditing",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3316",
+            "course_name": "Intrnl Auditing for Orgz",
+            "description": "ACCT-GB 3316 Intrnl Auditing for Orgz",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3319",
+            "course_name": "Sec Accounting & Reptg",
+            "description": "ACCT-GB 3319 Sec Accounting & Reptg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3320",
+            "course_name": "",
+            "description": "ACCT-GB 3320\n\n   Topics in Fin Acct\n\nThis is a fact-based course that addresses reporting and disclosure issues for three aspects of corporate mergers and acquisitions. Coverage emphasizes (1) ways to legally structure a merger or acquisition; (2) tax laws and strategic planning for mergers and acquisitions; and (3) accounting rules behind mergers and acquisitions. New accounting rules for mergers and acquisitions and goodwill are addressed and evaluated. In moving from subject to subject, the various aspects of the course are integrated. At the end of the course, students know how to structure a deal to satisfy a client's demand...\n\n      more description for ACCT-GB 3320 \u00bb\n\n      \n\n\n\nThis is a fact-based course that addresses reporting and disclosure issues for three aspects of corporate mergers and acquisitions. Coverage emphasizes (1) ways to legally structure a merger or acquisition; (2) tax laws and strategic planning for mergers and acquisitions; and (3) accounting rules behind mergers and acquisitions. New accounting rules for mergers and acquisitions and goodwill are addressed and evaluated. In moving from subject to subject, the various aspects of the course are integrated. At the end of the course, students know how to structure a deal to satisfy a client's demand for legal, tax, and accounting attributes.\n\n      less description for ACCT-GB 3320 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3321",
+            "course_name": "ANAL FINC INST & FINC INS",
+            "description": "ACCT-GB 3321 ANAL FINC INST & FINC INS \nANAL FINC INST & FINC INS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3322",
+            "course_name": "Intermediate Accounting",
+            "description": "ACCT-GB 3322 Intermediate Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3323",
+            "course_name": "Adv Fin Statement Anal I",
+            "description": "ACCT-GB 3323 Adv Fin Statement Anal I",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3324",
+            "course_name": "Finan Actg II",
+            "description": "ACCT-GB 3324 Finan Actg II",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3325",
+            "course_name": "Managerial Accounting I",
+            "description": "ACCT-GB 3325 Managerial Accounting I",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3326",
+            "course_name": "Advanced Accounting",
+            "description": "ACCT-GB 3326 Advanced Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3327",
+            "course_name": "Managerial Accounting II",
+            "description": "ACCT-GB 3327 Managerial Accounting II",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3329",
+            "course_name": "Finc Cntrl-Mktg Funct:SI",
+            "description": "ACCT-GB 3329 Finc Cntrl-Mktg Funct:SI",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3330",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20244",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "KMEC 3-65"
+                }
+            ],
+            "course_name": "ACQUISITIONS,RESTRUCTURNG",
+            "description": "ACCT-GB 3330 ACQUISITIONS,RESTRUCTURNG \nACQUISITIONS,RESTRUCTURNG",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 3333",
+            "course_name": "Contemp Accounting Theor",
+            "description": "ACCT-GB 3333 Contemp Accounting Theor",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3334",
+            "course_name": "Information Systems",
+            "description": "ACCT-GB 3334 Information Systems",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3335",
+            "course_name": "INTL REPORTING & ANALYSIS",
+            "description": "ACCT-GB 3335 INTL REPORTING & ANALYSIS \nINTL REPORTING & ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3336",
+            "course_name": "Business Law II",
+            "description": "ACCT-GB 3336 Business Law II",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3337",
+            "course_name": "Auditing",
+            "description": "ACCT-GB 3337 Auditing",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3338",
+            "course_name": "Federal Income Taxation",
+            "description": "ACCT-GB 3338 Federal Income Taxation",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3340",
+            "course_name": "Contemp Actg Theory Ms",
+            "description": "ACCT-GB 3340 Contemp Actg Theory Ms",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3342",
+            "course_name": "Accounting Thought",
+            "description": "ACCT-GB 3342 Accounting Thought",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3343",
+            "course_name": "Actg Top II",
+            "description": "ACCT-GB 3343 Actg Top II",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3345",
+            "course_name": "Actg&Control Non-Bus Org",
+            "description": "ACCT-GB 3345 Actg&Control Non-Bus Org",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3350",
+            "course_name": "Mgt Actg Info Anal&Appl",
+            "description": "ACCT-GB 3350 Mgt Actg Info Anal&Appl",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3351",
+            "course_name": "Taxes & Eco Dec-Mak",
+            "description": "ACCT-GB 3351 Taxes & Eco Dec-Mak",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3355",
+            "course_name": "",
+            "description": "ACCT-GB 3355\n\n   Act & Val: Emt\n\nThis course examines accounting and valuation issues that are distinctive to the various EMT industries. The first part of the course describes financial economic phenomena that are common to these industries, such as the nature and importance of tradeoffs between fixed and variable cost structures; significant contingent aspects of compensation and financing contracts; and the tension between accelerating and delaying investments given potential first mover advantages but high uncertainty. The second part of the course discusses special rules that govern financial accounting in these industri...\n\n      more description for ACCT-GB 3355 \u00bb\n\n      \n\n\n\nThis course examines accounting and valuation issues that are distinctive to the various EMT industries. The first part of the course describes financial economic phenomena that are common to these industries, such as the nature and importance of tradeoffs between fixed and variable cost structures; significant contingent aspects of compensation and financing contracts; and the tension between accelerating and delaying investments given potential first mover advantages but high uncertainty. The second part of the course discusses special rules that govern financial accounting in these industries. Emphasis is placed on the limitations of accounting numbers given the largely intangible nature of the economic assets (e.g., subscriber bases, libraries, and brands) in these industries. The third part of the course is devoted to valuation of EMT firms using discounted cash flow and accounting-based and non-financial measures-based valuation approaches.\n\n      less description for ACCT-GB 3355 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3360",
+            "course_name": "",
+            "description": "ACCT-GB 3360\n\n   Actg,Tax&Legal Iss:Entre\n\nThis course complements C10.0003, Financial Statement Analysis, by a more extensive analysis of financial statements and the financial reporting rules underlying them. The course uses tools learned in Financial Statement Analysis, such as ratio and accounting analysis, to discuss financial reporting principles, emphasizing the link between the reporting principles and the financial statements. Students will learn how management uses financial reporting decisions to influence reported income and asset and liability values, and they will gain the tools necessary to analyze the impacts of alterna...\n\n      more description for ACCT-GB 3360 \u00bb\n\n      \n\n\n\nThis course complements C10.0003, Financial Statement Analysis, by a more extensive analysis of financial statements and the financial reporting rules underlying them. The course uses tools learned in Financial Statement Analysis, such as ratio and accounting analysis, to discuss financial reporting principles, emphasizing the link between the reporting principles and the financial statements. Students will learn how management uses financial reporting decisions to influence reported income and asset and liability values, and they will gain the tools necessary to analyze the impacts of alternative reporting decisions on financial statements. This course is part of a sequence that is ideal for students who wish to pursue careers in investment banking, investment management, consulting, as well as public accounting. In addition to being a required course for accounting majors, it is a highly recommended course for majors in finance, economics, marketing and information systems.\n\n      less description for ACCT-GB 3360 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3370",
+            "course_name": "Independent Study-Actg",
+            "description": "ACCT-GB 3370 Independent Study-Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3371",
+            "course_name": "Selected Issues Auditing",
+            "description": "ACCT-GB 3371 Selected Issues Auditing",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3372",
+            "course_name": "Adv Top in Actg",
+            "description": "ACCT-GB 3372 Adv Top in Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3373",
+            "course_name": "Auditing",
+            "description": "ACCT-GB 3373 Auditing",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3378",
+            "course_name": "Compbas Fin Pl&Contr Mod",
+            "description": "ACCT-GB 3378 Compbas Fin Pl&Contr Mod",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3380",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20245",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "KMEC 4-80"
+                }
+            ],
+            "course_name": "TAXATION INDIV&BUS INCOME",
+            "description": "ACCT-GB 3380 TAXATION INDIV&BUS INCOME \nTAXATION INDIV&BUS INCOME",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 3402",
+            "course_name": "Concepts in Finan Actg",
+            "description": "ACCT-GB 3402 Concepts in Finan Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3437",
+            "course_name": "Advanced Auditing-Ms",
+            "description": "ACCT-GB 3437 Advanced Auditing-Ms",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3612",
+            "course_name": "Fund of Finc Acct: Appli",
+            "description": "ACCT-GB 3612 Fund of Finc Acct: Appli",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3622",
+            "course_name": "Financial Actg Ms",
+            "description": "ACCT-GB 3622 Financial Actg Ms",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3625",
+            "course_name": "Managerial Accounting I",
+            "description": "ACCT-GB 3625 Managerial Accounting I",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 3670",
+            "course_name": "Independent Study Actg",
+            "description": "ACCT-GB 3670 Independent Study Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4101",
+            "course_name": "RESEARCH PRACTICUM-ACTG",
+            "description": "ACCT-GB 4101 RESEARCH PRACTICUM-ACTG \nRESEARCH PRACTICUM-ACTG",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4102",
+            "course_name": "RESEARCH PRACTICUM-ACTG 2",
+            "description": "ACCT-GB 4102 RESEARCH PRACTICUM-ACTG 2 \nRESEARCH PRACTICUM-ACTG 2",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4103",
+            "course_name": "RESEARCH PRACTICUM-ACTG 3",
+            "description": "ACCT-GB 4103 RESEARCH PRACTICUM-ACTG 3 \nRESEARCH PRACTICUM-ACTG 3",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4104",
+            "course_name": "RESEARCH PRACTICUM IV",
+            "description": "ACCT-GB 4104 RESEARCH PRACTICUM IV \nRESEARCH PRACTICUM IV",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4105",
+            "course_name": "RESEARCH PRACTICUM-ACTG 5",
+            "description": "ACCT-GB 4105 RESEARCH PRACTICUM-ACTG 5 \nRESEARCH PRACTICUM-ACTG 5",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4106",
+            "course_name": "RESEARCH PRACTICUM-ACTG 6",
+            "description": "ACCT-GB 4106 RESEARCH PRACTICUM-ACTG 6 \nRESEARCH PRACTICUM-ACTG 6",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4110",
+            "course_name": "Seminar On Acct Thought",
+            "description": "ACCT-GB 4110 Seminar On Acct Thought",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4111",
+            "course_name": "Doctoral Sem in Actg",
+            "description": "ACCT-GB 4111 Doctoral Sem in Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4150",
+            "course_name": "TEACHING PRACTICUM-ACTG",
+            "description": "ACCT-GB 4150 TEACHING PRACTICUM-ACTG \nTEACHING PRACTICUM-ACTG",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20246",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/21/2015 ",
+                    "location": "Ryan, Stephen",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "EMPIRICAL RESEARCH ACCT I",
+            "description": "ACCT-GB 4301 EMPIRICAL RESEARCH ACCT I \nEMPIRICAL RESEARCH ACCT I",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 4302",
+            "course_name": "THEORY&RSRCH MANAGRL ACCT",
+            "description": "ACCT-GB 4302 THEORY&RSRCH MANAGRL ACCT \nTHEORY&RSRCH MANAGRL ACCT",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4303",
+            "course_name": "THEORY&RSRCH MANGRL ACCT",
+            "description": "ACCT-GB 4303 THEORY&RSRCH MANGRL ACCT \nTHEORY&RSRCH MANGRL ACCT",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4304",
+            "course_name": "Workshop in Accounting",
+            "description": "ACCT-GB 4304 Workshop in Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4310",
+            "course_name": "EMPIRICAL RSRCH FIN ACCTG",
+            "description": "ACCT-GB 4310 EMPIRICAL RSRCH FIN ACCTG \nEMPIRICAL RSRCH FIN ACCTG",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4311",
+            "course_name": "EQTY VAL &ACCT DATA:THRY",
+            "description": "ACCT-GB 4311 EQTY VAL &ACCT DATA:THRY \nEQTY VAL &ACCT DATA:THRY",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4320",
+            "course_name": "EMPIRCL RSCH FIN ACCT III",
+            "description": "ACCT-GB 4320 EMPIRCL RSCH FIN ACCT III \nEMPIRCL RSCH FIN ACCT III",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4601",
+            "course_name": "Thry & Rsch in Fin Actg",
+            "description": "ACCT-GB 4601 Thry & Rsch in Fin Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4602",
+            "course_name": "Thry & Rsch in Mgrl Actg",
+            "description": "ACCT-GB 4602 Thry & Rsch in Mgrl Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 4605",
+            "course_name": "Thry&Rsch in Behav Actg",
+            "description": "ACCT-GB 4605 Thry&Rsch in Behav Actg",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6200",
+            "course_name": "FINANCL STATEMENT MODELNG",
+            "description": "ACCT-GB 6200 FINANCL STATEMENT MODELNG \nFINANCL STATEMENT MODELNG",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6210",
+            "course_name": "FRNSC ACTG&FIN STMT FRAUD",
+            "description": "ACCT-GB 6210 FRNSC ACTG&FIN STMT FRAUD \nFRNSC ACTG&FIN STMT FRAUD",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6215",
+            "course_name": "INTERNAL CONTROLS&ACCTING",
+            "description": "ACCT-GB 6215 INTERNAL CONTROLS&ACCTING \nINTERNAL CONTROLS&ACCTING",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20247",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/14/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Perkal, David"
+                }
+            ],
+            "course_name": "FINANCL STATMENT MODELING",
+            "description": "ACCT-GB 6300 FINANCL STATMENT MODELING \nFINANCL STATMENT MODELING",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 6302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20248",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Zarowin, Paul"
+                }
+            ],
+            "course_name": "FINANCIAL REPRTG&ANALYSIS",
+            "description": "ACCT-GB 6302 FINANCIAL REPRTG&ANALYSIS \nFINANCIAL REPRTG&ANALYSIS",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 6313",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20249",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/14/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Shehata, Amal"
+                }
+            ],
+            "course_name": "AUDITING",
+            "description": "ACCT-GB 6313 AUDITING \nAUDITING",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 6317",
+            "course_name": "ACCT FOR FIN INSTRUMENTS",
+            "description": "ACCT-GB 6317 ACCT FOR FIN INSTRUMENTS \nACCT FOR FIN INSTRUMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6326",
+            "course_name": "ADV ACCT CONCEPTS",
+            "description": "ACCT-GB 6326 ADV ACCT CONCEPTS \nADV ACCT CONCEPTS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6331",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20250",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/12/2015",
+                    "location": "KMEC 4-120",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Maindiratta, Ajay"
+                }
+            ],
+            "course_name": "ADV MANAGERIAL ACCOUNTING",
+            "description": "ACCT-GB 6331 ADV MANAGERIAL ACCOUNTING \nADV MANAGERIAL ACCOUNTING",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 6335",
+            "course_name": "INTL REPORTING & ANALYSIS",
+            "description": "ACCT-GB 6335 INTL REPORTING & ANALYSIS \nINTL REPORTING & ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 6380",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20251",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/14/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Thomopoulos, John; Meisler, Michael"
+                }
+            ],
+            "course_name": "TAXATION INDIV&BUS INCOME",
+            "description": "ACCT-GB 6380 TAXATION INDIV&BUS INCOME \nTAXATION INDIV&BUS INCOME",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-GB 6415",
+            "course_name": "INTERNAL CONTROLS&ACCTING",
+            "description": "ACCT-GB 6415 INTERNAL CONTROLS&ACCTING \nINTERNAL CONTROLS&ACCTING",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 9903",
+            "course_name": "Dissertation Sem Account",
+            "description": "ACCT-GB 9903 Dissertation Sem Account",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 9906",
+            "course_name": "DISSERTATION SEM ACCOUNTG",
+            "description": "ACCT-GB 9906 DISSERTATION SEM ACCOUNTG \nDISSERTATION SEM ACCOUNTG",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 9909",
+            "course_name": "Dissertation Sem Account",
+            "description": "ACCT-GB 9909 Dissertation Sem Account",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 9912",
+            "course_name": "Dissertation Sem Account",
+            "description": "ACCT-GB 9912 Dissertation Sem Account",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 9915",
+            "course_name": "Dissertation Sem Account",
+            "description": "ACCT-GB 9915 Dissertation Sem Account",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-GB 9918",
+            "course_name": "Dissertation Sem Account",
+            "description": "ACCT-GB 9918 Dissertation Sem Account",
+            "offering": false
+        }
+    ]
+}

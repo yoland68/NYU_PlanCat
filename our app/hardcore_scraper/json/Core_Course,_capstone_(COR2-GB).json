@@ -1,0 +1,116 @@
+{
+    "major_id": "COR2-GB",
+    "file": "./2015-2016/Core_Course,_capstone_(COR2-GB).html",
+    "courses": [
+        {
+            "course_id": "COR2-GB 2101",
+            "course_name": "Corporate Strategy Analy",
+            "description": "COR2-GB 2101 Corporate Strategy Analy",
+            "offering": false
+        },
+        {
+            "course_id": "COR2-GB 3101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20226",
+                    "section": "01",
+                    "period": "09/02/2015 - 10/26/2015",
+                    "location": null,
+                    "time": "Mon,Wed 1.30 PM - 2.50 PM",
+                    "open": true,
+                    "professor": "KMEC 3-55"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20227",
+                    "section": "02",
+                    "period": "09/03/2015 - 10/22/2015",
+                    "location": null,
+                    "time": "Tue,Thu 10.30 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "KMEC 3-130"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20228",
+                    "section": "0",
+                    "period": "09/11/2015 - 09/13/2015",
+                    "location": null,
+                    "time": "Fri,Sat,Sun 9.00 AM - 4.00 PM",
+                    "open": true,
+                    "professor": "TISC UC21"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20229",
+                    "section": "0",
+                    "period": "09/18/2015 - 09/20/2015",
+                    "location": null,
+                    "time": "Fri,Sat,Sun 9.00 AM - 4.00 PM",
+                    "open": true,
+                    "professor": "TISC UC21"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20230",
+                    "section": "0",
+                    "period": "09/25/2015 - 09/27/2015",
+                    "location": null,
+                    "time": "Fri,Sat,Sun 9.00 AM - 4.00 PM",
+                    "open": true,
+                    "professor": "TISC UC21"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20231",
+                    "section": "0",
+                    "period": "10/25/2015 - 11/08/2015",
+                    "location": null,
+                    "time": "Sun 9.00 AM - 4.00 PM",
+                    "open": true,
+                    "professor": "TISC UC21"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20232",
+                    "section": "10",
+                    "period": "11/17/2015 - 12/22/2015",
+                    "location": null,
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 5-140"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20233",
+                    "section": "11",
+                    "period": "09/17/2015 - 10/22/2015",
+                    "location": null,
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 5-140"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20234",
+                    "section": "99",
+                    "period": "10/04/2015 - 10/18/2015",
+                    "location": null,
+                    "time": "Sun 9.00 AM - 4.00 PM",
+                    "open": true,
+                    "professor": "TISC UC21"
+                }
+            ],
+            "course_name": "PROFESSIONAL RESPONSIBILI",
+            "description": "COR2-GB 3101 PROFESSIONAL RESPONSIBILI \nPROFESSIONAL RESPONSIBILI",
+            "offering": true
+        },
+        {
+            "course_id": "COR2-GB 3301",
+            "course_name": "ETHICAL&LEGAL CHALLENGES",
+            "description": "COR2-GB 3301 ETHICAL&LEGAL CHALLENGES \nETHICAL&LEGAL CHALLENGES",
+            "offering": false
+        }
+    ]
+}

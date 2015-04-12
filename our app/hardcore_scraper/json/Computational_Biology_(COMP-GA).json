@@ -1,0 +1,42 @@
+{
+    "major_id": "COMP-GA",
+    "file": "./2015-2016/Computational_Biology_(COMP-GA).html",
+    "courses": [
+        {
+            "course_id": "COMP-GA 2200",
+            "course_name": "Computational Biology Student Seminar",
+            "description": "COMP-GA 2200 Computational Biology Student Seminar \nOffered each term, with content varying from semester to semester. This seminar introduces students to emerging disciplines that helped establish the field of computational biology through lectures and readings from the scientific literature, both technical (journal articles) and general (books about science and scientists). It seeks to both familiarize students with the field\u2019s evolution, as well as help students develop a critical eye for conducting research in the field.",
+            "offering": false
+        },
+        {
+            "course_id": "COMP-GA 2205",
+            "course_name": "Computational Biology Colloq/Student Seminar",
+            "description": "COMP-GA 2205 Computational Biology Colloq/Student Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "COMP-GA 2300",
+            "course_name": "Computational Biology",
+            "description": "COMP-GA 2300 Computational Biology",
+            "offering": false
+        },
+        {
+            "course_id": "COMP-GA 2400",
+            "course_name": "Rsch in Bioinformatics and Molecular Modeling",
+            "description": "COMP-GA 2400 Rsch in Bioinformatics and Molecular Modeling",
+            "offering": false
+        },
+        {
+            "course_id": "COMP-GA 2852",
+            "course_name": "Spec Tpcs Comp Bio II",
+            "description": "COMP-GA 2852 Spec Tpcs Comp Bio II",
+            "offering": false
+        },
+        {
+            "course_id": "COMP-GA 2856",
+            "course_name": "Sp Tpcs in Math Physiology",
+            "description": "COMP-GA 2856 Sp Tpcs in Math Physiology",
+            "offering": false
+        }
+    ]
+}

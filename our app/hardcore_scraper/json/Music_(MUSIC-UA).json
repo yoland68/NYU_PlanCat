@@ -1,0 +1,722 @@
+{
+    "major_id": "MUSIC-UA",
+    "file": "./2015-2016/Music_(MUSIC-UA).html",
+    "courses": [
+        {
+            "course_id": "MUSIC-UA 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7253",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 320"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9181",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 320"
+                }
+            ],
+            "course_name": "The Art of Listening:",
+            "description": "MUSIC-UA    3 The Art of Listening: \nStudents acquire a basic vocabulary of musical terms, concepts, and listening skills in order to describe their responses to musical experiences. Considers the structure and style of influential works in the Western art music repertoire, popular music, or other musical cultures, with attention to the wider social, political, and artistic context.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 4",
+            "course_name": "Music in Society",
+            "description": "MUSIC-UA    4 Music in Society \nHow music contributes to our lives, the variety of roles it plays, and the ways it plays them. These roles are illustrated in a worldwide repertory of compositions. Representative topics include music in ritual, music in the theatre, music for dancing, music in the concert hall, background music, and music expressive of group identity. Opens with a brief introduction to the elements of music.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 6",
+            "course_name": "Music and Drama in Opera",
+            "description": "MUSIC-UA    6 Music and Drama in Opera \nOpera both as musical theatre and as theatrical music. Topics include the evolution of musical structure, history of the libretto, and lighting and staging techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 13",
+            "course_name": "Intro Music of The East",
+            "description": "MUSIC-UA   13 Intro Music of The East",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 14",
+            "course_name": "Intro to Music in World Cultures",
+            "description": "MUSIC-UA   14 Intro to Music in World Cultures \nIntroduction to the folk and traditional music of Europe, sub-Saharan African, Asia, and the Americas, with particular attention to historical relationships.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 15",
+            "course_name": "Music of Bach",
+            "description": "MUSIC-UA   15 Music of Bach",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 16",
+            "course_name": "African-American Music in The U.S.",
+            "description": "MUSIC-UA   16 African-American Music in The U.S. \nStudy of the African American contribution to the music of the United States from the time of the first arrival of Africans in 1619 to the present, covering such topics as the African heritage, folk song, and performers. Illustrated by recordings, films, and live performances. Assignments are based on the examination of primary sources and listening to recordings.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 17",
+            "course_name": "African-American Music: Hip Hop",
+            "description": "MUSIC-UA   17 African-American Music: Hip Hop",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 18",
+            "course_name": "Jazz",
+            "description": "MUSIC-UA   18 Jazz \nHistory and theory of jazz. Course is augmented with recordings, films, and live performances.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 20",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7254",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 320"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7255",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 218"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7256",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                }
+            ],
+            "course_name": "Elements of Music",
+            "description": "MUSIC-UA   20 Elements of Music \nExplores the underlying principles and inner workings of the tonal system, a system that has guided all of Western music from the years 1600 to 1900. It includes a discussion of historical background and evolution. Focuses on concepts and notation of key, scale, tonality, and rhythm. Related skills in sight-singing, dictation, and keyboard harmony are stressed in the recitation sections.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 29",
+            "course_name": "Isreali Music: Contesting National Culture",
+            "description": "MUSIC-UA   29 Isreali Music: Contesting National Culture",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 64",
+            "course_name": "Asian-American Music",
+            "description": "MUSIC-UA   64 Asian-American Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 65",
+            "course_name": "Music & Folklore",
+            "description": "MUSIC-UA   65 Music & Folklore",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 66",
+            "course_name": "Music in Jewish Life",
+            "description": "MUSIC-UA   66 Music in Jewish Life",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 100",
+            "course_name": "",
+            "description": "MUSIC-UA  100\n\n   Music of New York\n\nThis course is designed to take advantage of New York's dynamic music community. There are in-class presentations by local musicians and scholars, and students regularly attend performances throughout the city. The focus is on the everyday practices of musical life in New York City by both performers and listeners in a number of the City's musical constituencies: immigrant communities; amateur and professional music-makers; and popular, classical, and avant-garde scenes. Examination of these processes of music-making will be enhanced by a look at the histories of these different kinds of music...\n\n      more description for MUSIC-UA  100 \u00bb\n\n      \n\n\n\nThis course is designed to take advantage of New York's dynamic music community. There are in-class presentations by local musicians and scholars, and students regularly attend performances throughout the city. The focus is on the everyday practices of musical life in New York City by both performers and listeners in a number of the City's musical constituencies: immigrant communities; amateur and professional music-makers; and popular, classical, and avant-garde scenes. Examination of these processes of music-making will be enhanced by a look at the histories of these different kinds of music-making. There will also be a historical discussion of the vibrant musical life of New York in the 19th and early 20th centuries, which will contribute to an understanding of why New York is seen, and sees itself, as a musical city.\n\n      less description for MUSIC-UA  100 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 101",
+            "course_name": "Medieval & Renais Music",
+            "description": "MUSIC-UA  101 Medieval & Renais Music \nTopics include the music of the medieval church; the codification and extension of the plainsong repertory and the emergence and development of polyphony; music of the medieval court (troubadours, trouv?res, and minnesingers); the ascendancy of secular polyphony in the 14th century and the subsequent Renaissance balance between sacred and secular; mass and motet, chanson and madrigal; and the beginnings of an autonomous repertory for instruments in the 16th century.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 102",
+            "course_name": "Hist of Europ Music:",
+            "description": "MUSIC-UA  102 Hist of Europ Music: \nTopics include the works of Monteverdi, Vivaldi, J. S. Bach, Handel, Haydn, Mozart, and Beethoven; the ascendancy of the secular over the sacred resumed and maintained; a new harmonic basis for musical structure: the basso continuo; the theatricalization of music in opera, oratorio, and the cantata; the expansion of the span of time music can sustain and, in the instrumental forms of sonata and concerto, a new musical independence from nonmusical ideas; the concert as music?s own occasion; musical autonomy in the symphonies and quartets of the Viennese classicists.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 103",
+            "course_name": "19th Century Music",
+            "description": "MUSIC-UA  103 19th Century Music \nThe works of major composers from Beethoven to the present day. Topics include the effect of romanticism on musical forms (symphony, sonata, lieder, opera), as well as the central importance of Wagner?s musical idea.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 104",
+            "course_name": "20th Century Music",
+            "description": "MUSIC-UA  104 20th Century Music \nMajor revolutions of the early 20th century: Debussy, Schoenberg, Stravinsky, Bart?k; and later serialism: Webern, Boulez, Babbitt, Stockhausen. Discussion of Cage, minimalism, and other recent developments.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 107",
+            "course_name": "Medieval Song",
+            "description": "MUSIC-UA  107 Medieval Song",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 110",
+            "course_name": "Post-Wagnerian Symphonists",
+            "description": "MUSIC-UA  110 Post-Wagnerian Symphonists",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 111",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16897",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 218",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Cohen, Brigid"
+                }
+            ],
+            "course_name": "Topics in 20th Century MusicSounds of the Cold War",
+            "description": "MUSIC-UA  111 Topics in 20th Century MusicSounds of the Cold War \nIn-depth study of musical practices emerging throughout the 20th century, with an emphasis on mass-mediated musics and their impact on the constitution of new social fields. Topics vary by term.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 131",
+            "course_name": "Georg Frideric Handel",
+            "description": "MUSIC-UA  131 Georg Frideric Handel",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 132",
+            "course_name": "Mozart Piano Sonatas",
+            "description": "MUSIC-UA  132 Mozart Piano Sonatas",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 133",
+            "course_name": "The Operas of Mozart",
+            "description": "MUSIC-UA  133 The Operas of Mozart \nThe topic changes each time the course is offered.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 134",
+            "course_name": "Instrumental Music After Beethoven",
+            "description": "MUSIC-UA  134 Instrumental Music After Beethoven \nThe impact of Beethoven?s innovations on composers of the ensuing generations, with particular emphasis on works by some of the following composers: Weber, Schubert, Mendelssohn, Schumann, Berlioz, Liszt, Dvor??k, Wagner, Bruckner, Brahms, Tchaikovsky, Franck, Strauss, Mahler, Elgar, and Debussy.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 135",
+            "course_name": "Interpreting Song",
+            "description": "MUSIC-UA  135 Interpreting Song \nWhat is a song and just how does it work? Does the fact that we can hear songs in foreign languages and ?get? them (or hear songs in English with garbled lyrics) mean that words don?t matter? In the end, what makes a good song, and who decides? This course explores these and other issues. It does not restrict itself to any particular genre or type of song, nor to a time period or geographical location. Songs studied include recently composed works by composers working in the Western classical tradition and more commercial materials.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 136",
+            "course_name": "",
+            "description": "MUSIC-UA  136\n\n   Wagner\n\nRichard Wagner's music, words, themes, images, gestures, and intent, were the stuff of nation-building and wrought havoc with the status-quo. The question remains, did his unorthodox private life reflect the works he created, the result of the fevered imaginations of his creative activities? While his musical influence is unmistakable, the ramifications of his political, social, and private activities spread across the face of Europe from 1848 through, arguably, to 1914--and even to the present day, with the Wagner descendents front and center at the Bayreuth Festival.\nThis course will examine...\n\n      more description for MUSIC-UA  136 \u00bb\n\n      \n\n\n\nRichard Wagner's music, words, themes, images, gestures, and intent, were the stuff of nation-building and wrought havoc with the status-quo. The question remains, did his unorthodox private life reflect the works he created, the result of the fevered imaginations of his creative activities? While his musical influence is unmistakable, the ramifications of his political, social, and private activities spread across the face of Europe from 1848 through, arguably, to 1914--and even to the present day, with the Wagner descendents front and center at the Bayreuth Festival.\nThis course will examine the tumultuous musical, political, and social milieus surrounding Wagner -- musician, poet, lover, impresario, political activist, and lightening rod for the unification of Germany. Wagner was himself wrapped up in the importance of German history, especially at this pivotal time in the 19th century. He paid dearly for his political activities during the 1849 Dresden uprising, with exile and isolation, and his uncompromising belief in the supremacy of everything German supported Bismarck as the newly-unified nation sought to establish itself as the equal, if not the better, of long-standing imperial regimes (Austria-Hungary, France, Great Britain, Spain). He was afforded by King Ludwig of Bavaria untold influence over major decisions in Munich concerning the appointment and function of ministers and other officials, until his actions stepped over the line.\n\n      less description for MUSIC-UA  136 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 137",
+            "course_name": "American Music",
+            "description": "MUSIC-UA  137 American Music \nSurvey of the primary role played by musical activity in the shaping of American culture from Jamestown to the present. The course stresses communal, educational, and artistic aspects of American music that have resulted in the richness and diversity of our present musical life.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 138",
+            "course_name": "Ragtime, Jazz & Swing",
+            "description": "MUSIC-UA  138 Ragtime, Jazz & Swing",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 139",
+            "course_name": "Stravinsky'S Rite of Spring",
+            "description": "MUSIC-UA  139 Stravinsky'S Rite of Spring",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 140",
+            "course_name": "Words and Music",
+            "description": "MUSIC-UA  140 Words and Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 141",
+            "course_name": "Music in Paris in 20th C",
+            "description": "MUSIC-UA  141 Music in Paris in 20th C",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 142",
+            "course_name": "Beethoven",
+            "description": "MUSIC-UA  142 Beethoven \nStudies in selected works from the music of Beethoven: piano sonatas, chamber music, symphonies, concertos, and the opera Fidelio. These illuminate Beethoven?s place in the Viennese classical tradition.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 144",
+            "course_name": "Piano and Song: 19th Century",
+            "description": "MUSIC-UA  144 Piano and Song: 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 145",
+            "course_name": "Music in Early 20Cent Vienna",
+            "description": "MUSIC-UA  145 Music in Early 20Cent Vienna",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 146",
+            "course_name": "Verdi and Shakespeare",
+            "description": "MUSIC-UA  146 Verdi and Shakespeare \nVerdi wrote three operas that were derived from plays by Shakespeare: Macbeth, Othello, and Falstaff. In addition, Verdi and two of his librettists prepared several scenarios and a libretto for an opera on King Lear that was never completed. This course provides students the opportunity to examine both the original plays and the operas from a number of points of view. Which of Shakespeare?s sources did Verdi and/or his librettists know? How faithful to the Bard?s plays are the opera librettos? What were Verdi?s ideas on the performance and staging of his operas?",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 151",
+            "course_name": "Exploring The World'S Music Trad:",
+            "description": "MUSIC-UA  151 Exploring The World'S Music Trad: \nA concentrated study of musics and cultures from around the world. Topics vary.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 152",
+            "course_name": "World'S Music Traditions",
+            "description": "MUSIC-UA  152 World'S Music Traditions",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 153",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7257",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 218",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Dang, Christine"
+                }
+            ],
+            "course_name": "Anthropology of MusicAfrican Music",
+            "description": "MUSIC-UA  153 Anthropology of MusicAfrican Music \nFocuses on the politics and ethics of ethnographic method. Readings include major texts from disciplines of ethnomusicology and cultural anthropology. Topics vary by semester.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 154",
+            "course_name": "Popular Music Latino/a America & The Caribbean",
+            "description": "MUSIC-UA  154 Popular Music Latino/a America & The Caribbean \nA study of the relationship between popular music and literature in Latin America. Explores the multiple interactions between the written word, the oral text, and the sonic dimensions of music, both within literary texts and within musical compositions.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 155",
+            "course_name": "Brazilian Music and Globalization",
+            "description": "MUSIC-UA  155 Brazilian Music and Globalization \nA study of Brazil?s social and political history through its music and dance traditions, emphasizing questions of identity and performance in the international and transitional geographies of globalization.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 156",
+            "course_name": "Musical Diasporas in Contact: African/Jewish",
+            "description": "MUSIC-UA  156 Musical Diasporas in Contact: African/Jewish",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 182",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8394",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 320",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Moloney, Michael"
+                }
+            ],
+            "course_name": "Intro to Celtic Music",
+            "description": "MUSIC-UA  182 Intro to Celtic Music \nProvides a comprehensive introduction to the traditional and contemporary music of the Celtic areas of Western Europe: Ireland, Scotland, Wales, Brittany, and Galicia. Recordings and live performances present the extraordinary range of singing styles and the musical instruments employed in each culture, including harps, bagpipes, and a variety of other wind, free reed, keyboard, and stringed instruments. Forms and musical styles are explored in depth, along with a study of their origin, evolution, and cultural links.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 183",
+            "course_name": "Seminar: Irish Music",
+            "description": "MUSIC-UA  183 Seminar: Irish Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 193",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16899",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 320",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Oliver, Jaime"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19966",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19967",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                }
+            ],
+            "course_name": "Seminar:Aural Perception",
+            "description": "MUSIC-UA  193 Seminar:Aural Perception",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 200",
+            "course_name": "Proseminar in Musical Research",
+            "description": "MUSIC-UA  200 Proseminar in Musical Research \nThis course is required of all Honors students in the department. It is a seminar discussing recent ideas and issues in all areas of musical research, musicology, ethnomusicology, and theory. Faculty members in the department will introduce different topics, discussing the ideas and their application, so that by the end of the semester students will be capable of undertaking the advanced research project required for an Honors degree.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7258",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7259",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 218"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7260",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 218"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "7261",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7262",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7263",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 218"
+                }
+            ],
+            "course_name": "Harmony & Counterpoint I",
+            "description": "MUSIC-UA  201 Harmony & Counterpoint I \nGeneral principles underlying tonal musical organization. Students learn concepts of 18th- and 19th-century harmonic, formal, and contrapuntal practices. Weekly lab sections are devoted to skills in musicianship and are required throughout the sequence.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 202",
+            "course_name": "Harmony &Counterpoint II",
+            "description": "MUSIC-UA  202 Harmony &Counterpoint II",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 203",
+            "course_name": "Harmony/Counterpoint III",
+            "description": "MUSIC-UA  203 Harmony/Counterpoint III \nThe continuation of MUSIC-UA 201, 202 covers chromatic extensions of tonality, intensive analysis of representative works from the tonal literature, and more advanced contrapuntal practices of the 18th and 19th centuries.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 204",
+            "course_name": "Harmony &Counterpoint IV",
+            "description": "MUSIC-UA  204 Harmony &Counterpoint IV",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 205",
+            "course_name": "Harmony & Counterpoint V",
+            "description": "MUSIC-UA  205 Harmony & Counterpoint V",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 206",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9043",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 218",
+                    "time": "Wed 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Karchin, Louis"
+                }
+            ],
+            "course_name": "Performance & Analysis",
+            "description": "MUSIC-UA  206 Performance & Analysis \nStudents will study and learn to perform works from various periods of music, with a focus on interpretation and analysis. The works may be studied as individual or group projects (solo pieces or chamber music), and regular coachings will be supplemented with sessions delving into analysis of the music. A brief audition is required to establish proficiency on an instrument, and students should contact the music department to set up an audition time. May be repeated for credit.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 207",
+            "course_name": "Orchestration",
+            "description": "MUSIC-UA  207 Orchestration",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 209",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9044",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                }
+            ],
+            "course_name": "Principles of Musical AnalysisTimbre Studies, Sound from the Inside Out",
+            "description": "MUSIC-UA  209 Principles of Musical AnalysisTimbre Studies, Sound from the Inside Out \nAdvanced study of issues of musical construction, production, and reception. Topics vary.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 301",
+            "course_name": "Harmony & Counterpoint: Accelerated",
+            "description": "MUSIC-UA  301 Harmony & Counterpoint: Accelerated",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 307",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9046",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 218"
+                }
+            ],
+            "course_name": "Principles of Composition",
+            "description": "MUSIC-UA  307 Principles of Composition \nExplores various compositional techniques, with an emphasis on modern-day writing procedures. Students write music regularly and receive suggestions from the instructor intended to foster the development of their individual compositional voices. Students also study specific musical scores corresponding to their areas of interest.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 308",
+            "course_name": "Principles of Compostion",
+            "description": "MUSIC-UA  308 Principles of Compostion",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 505",
+            "course_name": "Festival Strings Orchestra I",
+            "description": "MUSIC-UA  505 Festival Strings Orchestra I \nOpen to all performers on orchestral instruments, after audition. The presentation of two public concerts: sectional rehearsals under professional guidance.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 506",
+            "course_name": "Orchestra II",
+            "description": "MUSIC-UA  506 Orchestra II",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 507",
+            "course_name": "Festival Strings Orchestra III",
+            "description": "MUSIC-UA  507 Festival Strings Orchestra III \nContinuation of V71.0505-0506.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 508",
+            "course_name": "Orchestra IV",
+            "description": "MUSIC-UA  508 Orchestra IV",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 541",
+            "course_name": "Tpcs: Latin Music: from Rumba to Reggaeton",
+            "description": "MUSIC-UA  541 Tpcs: Latin Music: from Rumba to Reggaeton",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 664",
+            "course_name": "Asian American Music",
+            "description": "MUSIC-UA  664 Asian American Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 901",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16898",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                }
+            ],
+            "course_name": "Special Topics Seminar",
+            "description": "MUSIC-UA  901 Special Topics Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 980",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7264",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Boorman, Stanley",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "MUSIC-UA  980 Internship \nMusic majors and minors are eligible to participate in an internship, worth 2 or 4 points. For details on internship guidelines, please consult the department Web site.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 981",
+            "course_name": "Internship",
+            "description": "MUSIC-UA  981 Internship \nMusic majors and minors are eligible to participate in an internship, worth 2 or 4 points toward the degree. For details on internship guidelines, please consult our department Web site.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 994",
+            "course_name": "European Music Cult Med and Mod Inventions",
+            "description": "MUSIC-UA  994 European Music Cult Med and Mod Inventions",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7265",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Boorman, Stanley",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "8462",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Boorman, Stanley",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MUSIC-UA  997 Independent Study \nOpen only to music majors in the junior or senior years or others, with permission. Prerequisite: written approval of the director of undergraduate studies. 2 or 4 points per term. Please consult the department Web site for guidelines for independent study proposals.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-UA 998",
+            "course_name": "Independent Study",
+            "description": "MUSIC-UA  998 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 9111",
+            "course_name": "Topics in 20th Century Music",
+            "description": "MUSIC-UA 9111 Topics in 20th Century Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 9121",
+            "course_name": "Italian Opera",
+            "description": "MUSIC-UA 9121 Italian Opera",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 9151",
+            "course_name": "Exploring The World'S Music Traditions:",
+            "description": "MUSIC-UA 9151 Exploring The World'S Music Traditions:",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 9155",
+            "course_name": "Music of Latin America",
+            "description": "MUSIC-UA 9155 Music of Latin America",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-UA 9190",
+            "course_name": "Musical Traditions:",
+            "description": "MUSIC-UA 9190 Musical Traditions:",
+            "offering": false
+        }
+    ]
+}

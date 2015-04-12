@@ -1,0 +1,30 @@
+{
+    "major_id": "SCHOL-UG",
+    "file": "./2015-2016/Scholarly_Communities_(SCHOL-UG).html",
+    "courses": [
+        {
+            "course_id": "SCHOL-UG 201",
+            "course_name": "Gallatin Dean's Honor Society",
+            "description": "SCHOL-UG  201 Gallatin Dean's Honor Society",
+            "offering": false
+        },
+        {
+            "course_id": "SCHOL-UG 301",
+            "course_name": "Americas Scholars",
+            "description": "SCHOL-UG  301 Americas Scholars",
+            "offering": false
+        },
+        {
+            "course_id": "SCHOL-UG 303",
+            "course_name": "Americas Scholars",
+            "description": "SCHOL-UG  303 Americas Scholars",
+            "offering": false
+        },
+        {
+            "course_id": "SCHOL-UG 700",
+            "course_name": "Global Fellowship in Urban Practice Seminar",
+            "description": "SCHOL-UG  700 Global Fellowship in Urban Practice Seminar",
+            "offering": false
+        }
+    ]
+}

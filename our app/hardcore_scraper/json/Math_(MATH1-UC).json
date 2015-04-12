@@ -1,0 +1,178 @@
+{
+    "major_id": "MATH1-UC",
+    "file": "./2015-2016/Math_(MATH1-UC).html",
+    "courses": [
+        {
+            "course_id": "MATH1-UC 1101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9726",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "GODD B02",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Brandon, Joyce"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9908",
+                    "section": "002",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "25W4 C-9",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Goldberg, Carolyn"
+                }
+            ],
+            "course_name": "Math I",
+            "description": "MATH1-UC 1101 Math I \nThis is the first of a two-course sequence in elementary and intermediate algebra. Topics include signed numbers, linear equations, linear inequalities; absolute value equations and inequalities; laws of exponents; polynomials; factoring; rational algebraic expressions; and graphs of linear equations and inequalities. Students may seek exemption from the course through testing. Credit is not awarded if Mathematical Reasoning has been successfully completed.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH1-UC 1104",
+            "course_name": "Comprehensive Algebra",
+            "description": "MATH1-UC 1104 Comprehensive Algebra \nThis course covers elementary and intermediate algebra.  Topics include formulas, signed numbers, laws of exponents, polynomials, factoring, solution of first degree equations, and graph of linear equations.  Solutions and graphing of linear equations and inequalities, fractional exponents, radical terms, complex numbers, quadratic equations, algebraic expressions, and nonlinear equations also studied.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH1-UC 1105",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9729",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "25W4 C-11",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Long, Glenn"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9966",
+                    "section": "002",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "25W4 C-9",
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Smith, Karl"
+                }
+            ],
+            "course_name": "Mathematical Reasoning",
+            "description": "MATH1-UC 1105 Mathematical Reasoning \nThis college-level algebra course prepares students for precalculus with an emphasis on applications related to future academic and professional skills. Particular emphasis is placed on the application of algebraic techniques to a range of problems drawn from disciplines in the humanities, social sciences, general sciences, computer science, and business. The objective of the course is to develop proficiency with these quantitative techniques and explore the use of these techniques in problem solving. Covers the same quantitative skill sets as Math I and Math II.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH1-UC 1141",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9730",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "BOBS LL149",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Molof, Valerie"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9731",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "25W4 C-11",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Goldberg, Carolyn"
+                }
+            ],
+            "course_name": "Math II",
+            "description": "MATH1-UC 1141 Math II \nThis is the second in a two-course sequence in algebra. Topics include line equations, systems of two linear equations, rational exponents, radical expressions, radical equations, complex numbers and quadratic equations, graphs of quadratic functions, and quadratic inequalities. Students may seek exemption from the course through testing. Credit is not awarded if Mathematical Reasoning has been successfully completed.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH1-UC 1171",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9732",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "WAVE 370",
+                    "time": "Tue 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Delfino, Donatella"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9733",
+                    "section": "002",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "SILV 515",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Delfino, Donatella"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9921",
+                    "section": "003",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "7E12 129",
+                    "time": "Tue 4.55 PM - 5.55 PM",
+                    "open": true,
+                    "professor": "Delfino, Donatella"
+                }
+            ],
+            "course_name": "Precalculus",
+            "description": "MATH1-UC 1171 Precalculus \nThe course uses the framework of functions (linear, polynomial, exponential, and trigonometric) to analyze and draw conclusions about real life situations involving quantitative concepts. Mathematical ideas are presented in multiple ways (through graphs, formulas, and verbal descriptions). Classes are interactive and participatory.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH1-UC 1172",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9734",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "25W4 C-4",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Lewis, Franklin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9735",
+                    "section": "002",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "25W4 C-10",
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Ellis, Robert"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9909",
+                    "section": "003",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "GCASL 265",
+                    "time": "Mon 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Lee, Jung"
+                }
+            ],
+            "course_name": "Statistical Methods",
+            "description": "MATH1-UC 1172 Statistical Methods \nThe course topics include an introduction to statistics terminology; methods of organizing data; measures of central tendency and measures of variation; elementary probability theory; normal distributions; areas under the standard normal distribution; sampling distributions; the Central Limit Theorem; estimation; hypothesis testing; and correlation and regression.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH1-UC 1174",
+            "course_name": "Calculus W/Applications to Business & Economics",
+            "description": "MATH1-UC 1174 Calculus W/Applications to Business & Economics \nThe course emphasizes the analysis of real-life situations using the tools of single-variable calculus (limits, derivatives, anti-derivatives, graphing, optimization). Classes are participatory and interactive, with lectures supplemented by in-class individual and group work. Students give oral presentations, both individually and in groups. A one-hour question-and-answer session is available before class. Prerequisite: Pre-Calculus",
+            "offering": false
+        }
+    ]
+}

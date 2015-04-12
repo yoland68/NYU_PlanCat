@@ -1,0 +1,802 @@
+{
+    "major_id": "CSCI-UA",
+    "file": "./2015-2016/Computer_Science_(CSCI-UA).html",
+    "courses": [
+        {
+            "course_id": "CSCI-UA 1",
+            "course_name": "Computers and Society",
+            "description": "CSCI-UA    1 Computers and Society \nAddresses the impact of the digital computer on individuals, organizations, and modern society as a whole, and the social, political, and ethical issues involved in the computer industry. Topics change to reflect changes in technology and current events. Guest lecturers from various fields are invited to speak in class.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 2",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6159",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Salahuddin, Syed"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6160",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kapp, Craig"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6161",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Kapp, Craig"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6162",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Bloomberg, Amos"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6163",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": false,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6163",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": false,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6164",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 201",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Clayton, Joshua"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6165",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Kadri, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8111",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 317",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Versoza, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8114",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Waxman, Jerry"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8429",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Versoza, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8605",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kadri, Michael"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-UA    2\n\n   Introduction to Computer Programming\n\nPrerequisite: Three years of high school mathematics or equivalent. No prior computer experience assumed. Students with any programming experience should consult with the computer science department before registering. Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course is not intended for computer science majors, although it is a prerequisite for students with no previous programming experience who want to continue in CSCI-UA 101. Offered every semester. 4 points.\nA gentle introduction to the fundamentals of computer programming, which...\n\n      more description for CSCI-UA    2 \u00bb\n\n      \n\n\n\nPrerequisite: Three years of high school mathematics or equivalent. No prior computer experience assumed. Students with any programming experience should consult with the computer science department before registering. Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course is not intended for computer science majors, although it is a prerequisite for students with no previous programming experience who want to continue in CSCI-UA 101. Offered every semester. 4 points.\nA gentle introduction to the fundamentals of computer programming, which is the foundation of Computer Science. Students design, write and debug computer programs. No knowledge of programming is assumed.\n\n      less description for CSCI-UA    2 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 4",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6166",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Olsen, Alvaro"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6167",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Bloomberg, Amos"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6168",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 201",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Clayton, Joshua"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6169",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Hull, Nathan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7853",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Hull, Nathan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8112",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Clayton, Joshua"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8428",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Scher, Adam"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-UA    4\n\n   Introduction to Web Design and Computer Principles\n\nPrerequisite: Three years of high school mathematics or equivalent. No prior computing experience is assumed. Students with computing experience should consult with the computer science department before registering. Offered every semester. 4 points.\nThis course introduces students to both the practice of web design and the basic principles of computer science. The practice component of the course covers not only web design but also current graphics and software tools. The principles section includes an overview of hardware and software, the history of computers, and a discussion of the impac...\n\n      more description for CSCI-UA    4 \u00bb\n\n      \n\n\n\nPrerequisite: Three years of high school mathematics or equivalent. No prior computing experience is assumed. Students with computing experience should consult with the computer science department before registering. Offered every semester. 4 points.\nThis course introduces students to both the practice of web design and the basic principles of computer science. The practice component of the course covers not only web design but also current graphics and software tools. The principles section includes an overview of hardware and software, the history of computers, and a discussion of the impact of computers and the internet.\n\n      less description for CSCI-UA    4 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 5",
+            "course_name": "Computers in Principle and Practice II",
+            "description": "CSCI-UA    5 Computers in Principle and Practice II \nStudents examine the latest Web techniques from creating graphics to writing programs using HTML, Photoshop, Macromedia Studio, Adobe Creative Suite, JavaScript, and others. Since the technology of the Web is constantly changing, new tools and techniques are introduced as they evolve.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 11",
+            "course_name": "Algorithms Comput & Prog",
+            "description": "CSCI-UA   11 Algorithms Comput & Prog",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 41",
+            "course_name": "Tpcs in Programming Lang",
+            "description": "CSCI-UA   41 Tpcs in Programming Lang",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 51",
+            "course_name": "Fundamentals of Computer Science",
+            "description": "CSCI-UA   51 Fundamentals of Computer Science",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 60",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8161",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Engel, Deena"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16755",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": false,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Database Design and Web Implementation",
+            "description": "CSCI-UA   60 Database Design and Web Implementation \nIntroduces principles and applications of database design. Students learn to use a relational database system; learn Web implementations of database designs; and write programs in SQL. Students explore principles of database design and apply those principles to computer systems in general and in their respective fields of interest.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 61",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6170",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Odeh, Sana"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9190",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Odeh, Sana"
+                }
+            ],
+            "course_name": "Web Development and Programming",
+            "description": "CSCI-UA   61 Web Development and Programming \nThis course will provide a practical approach to web technologies and programming. Students will build interactive, secure and powerful web programs. This course will cover client and server side technologies for the web.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 70",
+            "course_name": "",
+            "description": "CSCI-UA   70\n\n   Computational Knowledge Management\n\nFrom processing server logs to effectively structuring news archives, the modern\nnews organization faces a number of knowledge management challenges. Several technologies have emerged to address these issues and in this class we will explore and apply these technologies to several real-world industry challenges.  Technologies to be covered include classic approaches to information retrieval, entity extraction, linked data, the semantic web and data visualization. This course will feature many presentations from leading figures in both industry and academia. Students will be expected to indivi...\n\n      more description for CSCI-UA   70 \u00bb\n\n      \n\n\n\nFrom processing server logs to effectively structuring news archives, the modern\nnews organization faces a number of knowledge management challenges. Several technologies have emerged to address these issues and in this class we will explore and apply these technologies to several real-world industry challenges.  Technologies to be covered include classic approaches to information retrieval, entity extraction, linked data, the semantic web and data visualization. This course will feature many presentations from leading figures in both industry and academia. Students will be expected to individually complete several programming assignments and collaborate in teams for a final project.\n\n      less description for CSCI-UA   70 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 72",
+            "course_name": "Media Technology Projects",
+            "description": "CSCI-UA   72 Media Technology Projects \nIn this course, students will be assigned to work in teams of about three students, on a semester-long team project with a \u2018client\u2019 such as a news organization, publishing company or media firm. Students will acquire the skills necessary to design and complete technology projects that succeed in the world of media and journalism.  The readings, classroom lectures, discussions and\nactivities will teach skills that help implement projects of this type.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6171",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Berger, Marsha"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6172",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 201",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Gottlieb, Allan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6173",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bloomberg, Amos"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6174",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": false,
+                    "professor": "CIWW 202"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7917",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": false,
+                    "professor": "CIWW 512"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8152",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 317",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Klukowska, Joanna"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8432",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8716",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Wed,Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Moody, Douglas L"
+                }
+            ],
+            "course_name": "Intro to Computer SCI",
+            "description": "CSCI-UA  101 Intro to Computer SCI \nStudents learn how to design algorithms to solve problems and how to translate these algorithms into working computer programs. Experience is acquired through programming projects in a high level programming language. CSCI-UA 101 is intended as a first course for computer science majors, and for students of other scientific disciplines. Programming assignments.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 102",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6175",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Yap, Chee"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6176",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6177",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Klukowska, Joanna"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6178",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6179",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Klukowska, Joanna"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8569",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "Data Structures",
+            "description": "CSCI-UA  102 Data Structures \nThe use and design of data structures, which organize information in computer memory. Stacks, queues, linked lists, binary trees: how to implement them in a high level language, how to analyze their effect on algorithm efficiency, and how to modify them. Programming assignments.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6180",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Zahran, Mohamed"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6181",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Li, Jinyang"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8154",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Zahran, Mohamed"
+                }
+            ],
+            "course_name": "Computer Systems Org",
+            "description": "CSCI-UA  201 Computer Systems Org \nThis course covers the internal structure of computers, machine (assembly) language programming, and the use of pointers in high-level languages. Topics include the logical design of computers, computer architecture, the internal representation of data, instruction sets, and addressing logic, as well as pointers, structures, and other features of high-level languages that relate to assembly language. Programming assignments will be both in assembly language and other languages.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 202",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6182",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Gottlieb, Allan"
+                }
+            ],
+            "course_name": "Operating Systems",
+            "description": "CSCI-UA  202 Operating Systems \nThis course covers the principles and design of operating systems. Topics include process scheduling and synchronization, deadlocks, memory management including virtual memory, input-output and file systems. Programming assignments.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 205",
+            "course_name": "Computers,Society & The Future",
+            "description": "CSCI-UA  205 Computers,Society & The Future",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6184",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Siegel, Alan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6185",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Siegel, Alan"
+                }
+            ],
+            "course_name": "Basic Algorithms",
+            "description": "CSCI-UA  310 Basic Algorithms \nAn introduction to the study of algorithms. Two main themes are presented: designing appropriate data structures, and analyzing the efficiency of the algorithms which use them. Algorithms for basic problems are studied. These include sorting, searching, graph algorithms and maintaining dynamic data structures. Homework assignments, not necessarily involving programming.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 330",
+            "course_name": "Introduction to Computer Simulation",
+            "description": "CSCI-UA  330 Introduction to Computer Simulation",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 380",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6187",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Kapp, Craig"
+                }
+            ],
+            "course_name": "Topics of General Interest:Interactive Computing",
+            "description": "CSCI-UA  380 Topics of General Interest:Interactive Computing \nDetailed descriptions will be available when topics are announced. Typical offerings are Introduction to Multimedia; Database and Web Programming; Interface Design for the World Wide Web. Note: These courses cannot be used as credit towards the major sequence.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 421",
+            "course_name": "Numerical Computing",
+            "description": "CSCI-UA  421 Numerical Computing \nIntroduction to numerical computation: the need for floating-point arithmetic, the IEEE floating-point standard. Importance of numerical computing in a wide variety of scientific applications. Fundamental types of numerical algorithms: direct methods (e.g., for systems of linear equations), iterative methods (e.g., for a nonlinear equation), and discretization methods (e.g., for a differential equation). Numerical errors: How can you tell if you can trust your answers? The use of graphics and software packages such as Matlab. Programming assignments.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 432",
+            "course_name": "Operating Syst Design",
+            "description": "CSCI-UA  432 Operating Syst Design",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 436",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6188",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Grishman, Ralph"
+                }
+            ],
+            "course_name": "Computer Architecture",
+            "description": "CSCI-UA  436 Computer Architecture \nA first course in the structure and design of computer systems. Basic logic modules: arithmetic circuits. Control unit design of computers and structure of a simple processor; speed-up techniques. Storage techniques and structure of memory hierarchies; error detection and correction. Input-output structures, busses, programmed data transfer, interrupts, DMA, Microprocessors. Discussion of various computer architectures; stack, pipeline, and parallel machines; multiple functional units.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 444",
+            "course_name": "Intro to Database System",
+            "description": "CSCI-UA  444 Intro to Database System \nDatabase is one of the major application areas of computer science. Organization, storage, and retrieval of large bodies of relatively uniform or structured data. How data is physically stored in the computer. A quick introduction is given to some useful data structure techniques for common database operations. The main part of the course studies the three main ?models of data??the relational model, the network model, and the hierarchical model. Emphasis is on the relational model, which is conceptually simple but powerful.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 453",
+            "course_name": "Theory of Computation",
+            "description": "CSCI-UA  453 Theory of Computation \nThis course takes a mathematical approach in studying topics in computer science, such as: regular languages and some of their representations (deterministic finite automata, non-deterministic finite automata, regular expressions); proof of non-regularity. Context free languages and pushdown automata; proofs that languages are not context free. Elements of computability theory. Brief introduction to NP-completeness.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 455",
+            "course_name": "Analysis of Algorithms",
+            "description": "CSCI-UA  455 Analysis of Algorithms",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 460",
+            "course_name": "Ada Programming Lang",
+            "description": "CSCI-UA  460 Ada Programming Lang",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 462",
+            "course_name": "Intro to Compiler Design",
+            "description": "CSCI-UA  462 Intro to Compiler Design",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 465",
+            "course_name": "Intro to Robotics",
+            "description": "CSCI-UA  465 Intro to Robotics",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 468",
+            "course_name": "UNIX Tools",
+            "description": "CSCI-UA  468 UNIX Tools \nThis course examines UNIX as an operating system and covers the sophisticated UNIX programming tools available to users and programmers. Shell and Perl scripting are studied in detail. Other topics include networking, system administration, security, and UNIX internals.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 470",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6190",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Grimm, Robert"
+                }
+            ],
+            "course_name": "Object Oriented Programming",
+            "description": "CSCI-UA  470 Object Oriented Programming \nObject-oriented programming has emerged as a significant software development methodology. This course introduces the important concepts of object-oriented design and languages, including code reuse, data abstraction, inheritance, and dynamic overloading. It covers in depth those features of Java and C++ that support object-oriented programming and gives an overview of other object-oriented languages of interest. Significant programming assignments, stressing object-oriented design.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 472",
+            "course_name": "Artificial Intelligence",
+            "description": "CSCI-UA  472 Artificial Intelligence \nPrerequisite: V22.0201 and V22.0310. There are many cognitive tasks that people can do easily and almost unconsciously but that have proven extremely difficult to program on a computer. Artificial intelligence is the problem of developing computer systems that can carry out these tasks. We will focus on three central areas in AI: representation and reasoning, machine learning, and natural language processing.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 473",
+            "course_name": "",
+            "description": "CSCI-UA  473\n\n   Introduction to Machine Learning\n\nStudents will learn about the theoretical foundations of machine learning and how to apply machine learning to solve new problems. Machine learning is an exciting and fast-moving field at the intersection of computer science, statistics, and optimization, with many consumer applications such as machine translation, speech recognition, and recommendation. Machine learning also plays an increasingly central role in data science, enabling discoveries in fields such as biology, physics, neuroscience, and medicine. In the first part of the course, students will learn about supervised prediction met...\n\n      more description for CSCI-UA  473 \u00bb\n\n      \n\n\n\nStudents will learn about the theoretical foundations of machine learning and how to apply machine learning to solve new problems. Machine learning is an exciting and fast-moving field at the intersection of computer science, statistics, and optimization, with many consumer applications such as machine translation, speech recognition, and recommendation. Machine learning also plays an increasingly central role in data science, enabling discoveries in fields such as biology, physics, neuroscience, and medicine. In the first part of the course, students will learn about supervised prediction methods including linear and logistic regression, support vector machines, ensemble methods, and decision trees. In the second part of the course, students will learn about methods for clustering, dimensionality reduction, and statistical inference.\n\n      less description for CSCI-UA  473 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 474",
+            "course_name": "",
+            "description": "CSCI-UA  474\n\n   Software Engineering\n\nAn intense hands-on study of practical techniques and methods of software engineering. Topics include advanced object-oriented design, design patterns, refactoring, code optimization, universal modeling language, threading, user interface design, enterprise application development, and development tools. All topics are integrated and applied during the semester-long group project. The aim of the project is to prepare students for dynamics in a real workplace. Members of the group meet on a regular basis to discuss the project and to assign individual tasks. Students are judged primarily on the...\n\n      more description for CSCI-UA  474 \u00bb\n\n      \n\n\n\nAn intense hands-on study of practical techniques and methods of software engineering. Topics include advanced object-oriented design, design patterns, refactoring, code optimization, universal modeling language, threading, user interface design, enterprise application development, and development tools. All topics are integrated and applied during the semester-long group project. The aim of the project is to prepare students for dynamics in a real workplace. Members of the group meet on a regular basis to discuss the project and to assign individual tasks. Students are judged primarily on the final project presentations.\n\n      less description for CSCI-UA  474 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 477",
+            "course_name": "",
+            "description": "CSCI-UA  477\n\n   Distributed Storage Systems\n\nThis class examines file system implementation, low-level database storage techniques, and distributed programming. Lectures cover basic file system structures, journaling and logging, I/O systems performance, RAID (redundant arrays of inexpensive disks), the remote procedure call abstraction, and numerous systems illustrating these concepts. Programming assignments make the topics concrete. In a final project, students build a real, functioning Unix file system. Topics: file systems, distributed computing, replication and consistency, fault-tolerance, crash recovery. Students have access to d...\n\n      more description for CSCI-UA  477 \u00bb\n\n      \n\n\n\nThis class examines file system implementation, low-level database storage techniques, and distributed programming. Lectures cover basic file system structures, journaling and logging, I/O systems performance, RAID (redundant arrays of inexpensive disks), the remote procedure call abstraction, and numerous systems illustrating these concepts. Programming assignments make the topics concrete. In a final project, students build a real, functioning Unix file system. Topics: file systems, distributed computing, replication and consistency, fault-tolerance, crash recovery. Students have access to dedicated equipment for the assignments and project.\n\n      less description for CSCI-UA  477 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 478",
+            "course_name": "Intro to Cryptography",
+            "description": "CSCI-UA  478 Intro to Cryptography",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 480",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8160",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Versoza, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9195",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Hull, Nathan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8572",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wies, Thomas"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8573",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 201",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Mishra, Bhubaneswar"
+                }
+            ],
+            "course_name": "Special Topics:Applied Internet TechPrinciples of Programming LanguagesSocial NetworkingiOS Programming",
+            "description": "CSCI-UA  480 Special Topics:Applied Internet TechPrinciples of Programming LanguagesSocial NetworkingiOS Programming \nEach semester, multiple special topics courses are offered, covering topics that may not be offered on a regular basis. Prerequisites vary and are determined by topic.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 490",
+            "course_name": "Spec Tpcs in Prog Lang:",
+            "description": "CSCI-UA  490 Spec Tpcs in Prog Lang: \nCovers topics in programming languages at an advanced level. Detailed course descriptions are available when topics are announced.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 520",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6191",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Undergraduate Research",
+            "description": "CSCI-UA  520 Undergraduate Research \nThe student will perform computer science research that is supervised by a faculty member actively engaged in research and which may lead to results publishable in the computer science literature. A substantial commitment to this work will be expected of the student. The research project may be one or two semesters, to be determined in consultation with the faculty supervisor. Students taking this course for honors credit will be required to write an honors thesis. All other students will need to submit a write-up of the research results at the conclusion of the project.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 521",
+            "course_name": "Undergraduate Research",
+            "description": "CSCI-UA  521 Undergraduate Research",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6192",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-UA  997\n\n   Independent Study\n\nPrerequisite: Permission of the department. Students majoring in the department who have maintained a general average of 3.00 and an average of 3.50 in computer science and who, in the opinion of the department, have the ability and the need for work in topics not included in the listed courses are permitted to work on an individual basis, under the supervision of a member of the department. The independent study must be approved by the department at registration. Students are expected to spend about 3 to 6 hours a week on assigned projects for their study. The project must be scheduled for co...\n\n      more description for CSCI-UA  997 \u00bb\n\n      \n\n\n\nPrerequisite: Permission of the department. Students majoring in the department who have maintained a general average of 3.00 and an average of 3.50 in computer science and who, in the opinion of the department, have the ability and the need for work in topics not included in the listed courses are permitted to work on an individual basis, under the supervision of a member of the department. The independent study must be approved by the department at registration. Students are expected to spend about 3 to 6 hours a week on assigned projects for their study. The project must be scheduled for completion within the semester.\n\n      less description for CSCI-UA  997 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-UA 998",
+            "course_name": "Independent Study",
+            "description": "CSCI-UA  998 Independent Study",
+            "offering": false
+        }
+    ]
+}

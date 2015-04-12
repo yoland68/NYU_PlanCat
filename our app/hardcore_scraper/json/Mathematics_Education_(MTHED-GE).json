@@ -1,0 +1,312 @@
+{
+    "major_id": "MTHED-GE",
+    "file": "./2015-2016/Mathematics_Education_(MTHED-GE).html",
+    "courses": [
+        {
+            "course_id": "MTHED-GE 2007",
+            "course_name": "Curriculum Trends in High School and College Mathematics",
+            "description": "MTHED-GE 2007 Curriculum Trends in High School and College Mathematics \nAn overview of various junior & senior high school mathematics curricula & methods of assessment with a focus on their similarities & differences & how they are implemented in an actual classroom.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2008",
+            "course_name": "Research Investigations in Mathematics Education",
+            "description": "MTHED-GE 2008 Research Investigations in Mathematics Education \nSignificant investigations in mathematics education are reviewed & evaluated. Includes studies with methods of teaching.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2026",
+            "course_name": "Explorations in Mathematics - Geometry",
+            "description": "MTHED-GE 2026 Explorations in Mathematics - Geometry \nThis course will focus on helping pre-service/in-service teachers gain a deeper understanding of geometry. The course content will be offered by modeling a context that creates rich learning environments for children to explore, discover, & understand mathematics.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2027",
+            "course_name": "Explorations in Mathematics - Data and Chance",
+            "description": "MTHED-GE 2027 Explorations in Mathematics - Data and Chance \nThis course will focus on helping pre-service/in-service teachers gain a deeper understanding of data analysis & probability concepts. The course content will be offered by modeling a context that provides opportunities for students to gather data & use the data to formulate research questions.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2028",
+            "course_name": "Explorations in Mathematics - Fractions, Decimals and Percents",
+            "description": "MTHED-GE 2028 Explorations in Mathematics - Fractions, Decimals and Percents \nThis course will focus on helping pre-service/in-service teachers gain a deeper understanding of fraction, decimal, & percent concepts.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2031",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4698",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/20/2015",
+                    "location": "194M 202",
+                    "time": "Mon,Wed 4.55 PM - 6.55 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "The Teaching of Rational Numbers",
+            "description": "MTHED-GE 2031 The Teaching of Rational Numbers \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills & concepts of ratios, proporations, percents, decimals & fractions to the effective & appropriate teaching of these topics in grades 7-12.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-GE 2032",
+            "course_name": "The Teaching of Data Collection Analysis, Grades 7-12",
+            "description": "MTHED-GE 2032 The Teaching of Data Collection Analysis, Grades 7-12 \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills & concepts of probability and statistics to the effective & appropriate teaching of these topics in grades 7-12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2033",
+            "course_name": "Teaching of Secondary School Mathematics",
+            "description": "MTHED-GE 2033 Teaching of Secondary School Mathematics \nDeveloping the skills of classroom planning, management, & implementation for effective instructional practices in grades 7-12.  Topics include lesson plan development & implementation, different models of teaching, assessing student understanding & the use of instructional  technology.  Students also visit schools, observe teachers in the classroom & use these observations as the basis for discussions of effective teaching practice.  This course requires a field component where students are involved in tutoring & micro teaching.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2034",
+            "course_name": "Educational Technology in Secondary School Mathematics",
+            "description": "MTHED-GE 2034 Educational Technology in Secondary School Mathematics \nThis course provides a link between teachers' mathematical knowledge & understanding of college level mathematics & the use of handheld & computer instructional technology to effectively & appropriate teach many of the important skills & concepts of mathematics in grades 7 through 12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2035",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4699",
+                    "section": "001",
+                    "period": "10/21/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Mon,Wed 4.55 PM - 6.55 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "The Teaching of Algebra, Grades 7-12",
+            "description": "MTHED-GE 2035 The Teaching of Algebra, Grades 7-12 \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills & concepts of algebra to the effective & appropriate teaching of these topics in grades 7 through 12.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-GE 2036",
+            "course_name": "The Teaching of Geometry ,Grades 7-12",
+            "description": "MTHED-GE 2036 The Teaching of Geometry ,Grades 7-12 \nThe course provides a link between teachers' mathematical knowledge & understanding of the majors skills & concepts of geometry & trigonometry to the effective &appropriate teaching of these topics in grades 7 through 12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2037",
+            "course_name": "Teaching of Precalculus Trigonometry in High School",
+            "description": "MTHED-GE 2037 Teaching of Precalculus Trigonometry in High School \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills &concepts of pre-calculus mathematics to the effective & appropriate teaching of these topics in grades 7 through 12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2043",
+            "course_name": "Selected Topics in Modern Mathematics I: Number Theory",
+            "description": "MTHED-GE 2043 Selected Topics in Modern Mathematics I: Number Theory \nA content mathematics course in number theory for teachers.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2044",
+            "course_name": "Selected Topics in Modern Mathematics II: Discrete Mathematics",
+            "description": "MTHED-GE 2044 Selected Topics in Modern Mathematics II: Discrete Mathematics \nA content mathematics course in discrete mathematics for teachers.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2050",
+            "course_name": "",
+            "description": "MTHED-GE 2050\n\n   Mathematical Proof and Proving\n\nThe course focuses on significant aspects & perspectives of mathematical proof &  proving, e.g.: The need for proof; Various types of mathematical proofs & their logical foundation; Communicating & presenting proofs coherently & flawlessly; Visual proofs; Alternative ways of proving a given statement; Mathematical fallacies. Lessons will be structured around activities that engage students in constructing  formal proofs, searching for multiple ways of proving various mathematical statements, evaluating each others' proofs, attending to visual entailments, & detecting flaws in mathematical fall...\n\n      more description for MTHED-GE 2050 \u00bb\n\n      \n\n\n\nThe course focuses on significant aspects & perspectives of mathematical proof &  proving, e.g.: The need for proof; Various types of mathematical proofs & their logical foundation; Communicating & presenting proofs coherently & flawlessly; Visual proofs; Alternative ways of proving a given statement; Mathematical fallacies. Lessons will be structured around activities that engage students in constructing  formal proofs, searching for multiple ways of proving various mathematical statements, evaluating each others' proofs, attending to visual entailments, & detecting flaws in mathematical fallacies.\n\n      less description for MTHED-GE 2050 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2061",
+            "course_name": "History of Mathematics",
+            "description": "MTHED-GE 2061 History of Mathematics \nA study of the evolution of the important concepts, principles, & processes found in mathematics courses from the elementary school to college.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2079",
+            "course_name": "",
+            "description": "MTHED-GE 2079\n\n   Introduction to Computer Science Education\n\nThis course is designed to introduce students to the pedagogical approaches & practices associated with teaching programming & algorithms at the secondary level. The course will provide an overview of historical as well as current trends in teaching programming & algorithms in the US & world-wide. Students will learn methods of teaching secondary CS, but also to become practitioner researchers, taking an evidence-based, questioning, design-oriented, analytical, & reflective lens on their teaching practices. Topics include developing learning objectives, theories of learning in CS & computation...\n\n      more description for MTHED-GE 2079 \u00bb\n\n      \n\n\n\nThis course is designed to introduce students to the pedagogical approaches & practices associated with teaching programming & algorithms at the secondary level. The course will provide an overview of historical as well as current trends in teaching programming & algorithms in the US & world-wide. Students will learn methods of teaching secondary CS, but also to become practitioner researchers, taking an evidence-based, questioning, design-oriented, analytical, & reflective lens on their teaching practices. Topics include developing learning objectives, theories of learning in CS & computational thinking, instructional approaches, lesson design & implementation, & assessment.\n\n      less description for MTHED-GE 2079 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2101",
+            "course_name": "Professionalized Subject Matter in Mathematics I: Geometry",
+            "description": "MTHED-GE 2101 Professionalized Subject Matter in Mathematics I: Geometry \nA content mathematics course in geometry for teachers.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2102",
+            "course_name": "Professionalized Subject Matter Mathematics II: Linear Algebra",
+            "description": "MTHED-GE 2102 Professionalized Subject Matter Mathematics II: Linear Algebra \nA content mathematics course in linear algebra for teachers.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2103",
+            "course_name": "Mathematical Modeling",
+            "description": "MTHED-GE 2103 Mathematical Modeling \nThe use of a variety of mathematics topics & techniques to model & solve real world problems.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2104",
+            "course_name": "Math Investigation and Problem Solving",
+            "description": "MTHED-GE 2104 Math Investigation and Problem Solving \nGraduate mathematics course targeted to students in mathematics education to develop mathematical knowledge for research & teaching in mathematics education. This knowledge includes developing skills in problem solving, problem posing, extending problems, & deeply exploring K-12 mathematics from a disciplinary perspective.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2115",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3305",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL142",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Mulligan, Carole"
+                }
+            ],
+            "course_name": "Teaching Elementary School Mathematics: Foundations and Concept Development",
+            "description": "MTHED-GE 2115 Teaching Elementary School Mathematics: Foundations and Concept Development \nMathematical foundations & concept development for children in elementary school grades. An examination of what constitutes a rich mathematical environment that fosters exploration, discovery, & understanding for beginning learners of mathematics will be the focus.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-GE 2116",
+            "course_name": "Teach Elementary School Mathematics: Problem Solving and Procedures",
+            "description": "MTHED-GE 2116 Teach Elementary School Mathematics: Problem Solving and Procedures \nDeveloping mathematics sense through problem solving & procedures while developing skills & intuitions for creating rich learning environments for elementary school children to explore, discover, & understand mathematics. Trends in mathematics education will be researched as well as the implications for student learning & accountability",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2122",
+            "course_name": "",
+            "description": "MTHED-GE 2122\n\n   Professional Seminar Secondary Math\n\nThis course complements the second semester of Student Teaching (MTHED-GE 2922), providing students a professional community of practice for continued learning as their teaching responsibilities increase. The course will focus on specific aspects of planning & intended instruction, enacted teaching, & the impact of teaching. Students will develop practices of deliberate reflection & analysis of their teaching, making explicit connections between their knowledge of theory & practical experiences. There will be an additional focus on pressing local issues in education and education research at t...\n\n      more description for MTHED-GE 2122 \u00bb\n\n      \n\n\n\nThis course complements the second semester of Student Teaching (MTHED-GE 2922), providing students a professional community of practice for continued learning as their teaching responsibilities increase. The course will focus on specific aspects of planning & intended instruction, enacted teaching, & the impact of teaching. Students will develop practices of deliberate reflection & analysis of their teaching, making explicit connections between their knowledge of theory & practical experiences. There will be an additional focus on pressing local issues in education and education research at the various levels, and their impact on teaching and learning. Students will make sense of these issues & develop informed stances, demonstrating their emerging abilities to do so in connection with their coursework & student teaching experiences in a culminating project.\n\n      less description for MTHED-GE 2122 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2135",
+            "course_name": "Supervision of Mathematics in the Schools",
+            "description": "MTHED-GE 2135 Supervision of Mathematics in the Schools \nExamination of the functions of the mathematics supervisor in dealing with problems of curriculum development & improvement of mathematics instruction in the schools.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3306",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Zaslavsky, Orit",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4347",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Simon, Martin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4648",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ma, Jasmine",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4484",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Burgunder, Anne",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MTHED-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-GE 2911",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3307",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "Student Teaching in Mathematics Education: Middle and High School I",
+            "description": "MTHED-GE 2911 Student Teaching in Mathematics Education: Middle and High School I \nOne semester supervised student teaching in a mathematics education classroom in middle & high school a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical & practical applications of the planning & implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems & practices as they relate to actual classroom teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-GE 2922",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3308",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "Student Teaching in Mathematics Education: Middle and High School II",
+            "description": "MTHED-GE 2922 Student Teaching in Mathematics Education: Middle and High School II \nOne semester supervised student teaching in a mathematics education classroom in middle & high school a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical & practical applications of the planning & implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems & practices as they relate to actual classroom teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-GE 3010",
+            "course_name": "Qualitative Research in Mathematics in Education",
+            "description": "MTHED-GE 3010 Qualitative Research in Mathematics in Education \nThe course is oriented to the unique aspects of doing research in mathematics education. It involves an exploration of the processes of doing qualitative research in mathematics education from development of the research question through writing the research report. The course emphasizes the purpose & interconnectedness of each part of the research process. Particular methodologies are explored & research skills are developed.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 3011",
+            "course_name": "Qualitative Research in Mathematics in Education II: Guided Data Analysis",
+            "description": "MTHED-GE 3011 Qualitative Research in Mathematics in Education II: Guided Data Analysis \nDoctoral students in this course will engage in a collective, semester-long project involving the analysis of a qualitative data set. The emphasis is not only to gain in-depth knowledge of an important research methodology, but to provide a more in-depth initiation to working with qualitative data, modifying research designs & research goals, & documenting the research project. This course complements the work done in Qualitative Research in Mathematics Education I, which primarily emphasizes the design of mathematics education qualitative research.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 3014",
+            "course_name": "Learning Theories in Mathematics Education Research",
+            "description": "MTHED-GE 3014 Learning Theories in Mathematics Education Research",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 3015",
+            "course_name": "Mathematics Curriculum Research and Evaluation",
+            "description": "MTHED-GE 3015 Mathematics Curriculum Research and Evaluation \nThis course will examine various forces that have helped shape & change mathematics curriculum. The course also discusses the enacted & attained curriculum as seen through research & evaluation lenses.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 3021",
+            "course_name": "Professional Seminar I in Mathematics Education I",
+            "description": "MTHED-GE 3021 Professional Seminar I in Mathematics Education I \nIssues & problems of curriculum, instruction, & evaluation in mathematics education are considered in relation to sociological, scientific, political, & psychological insights & influences. Types & trends in research are examined.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-GE 3022",
+            "course_name": "Professional Seminar in Mathematics Education II",
+            "description": "MTHED-GE 3022 Professional Seminar in Mathematics Education II \nIssues & problems of curriculum, instruction, & evaluation in mathematics education are considered in relation to sociological, scientific, political, & psychological insights & influences. Types & trends in research are examined.",
+            "offering": false
+        }
+    ]
+}

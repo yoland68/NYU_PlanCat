@@ -1,0 +1,320 @@
+{
+    "major_id": "ECON1-UC",
+    "file": "./2015-2016/Economics_(ECON1-UC).html",
+    "courses": [
+        {
+            "course_id": "ECON1-UC 301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9712",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "GCASL 288"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9913",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Keefe, Maureen",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Macroeconomics",
+            "description": "ECON1-UC  301 Intro to Macroeconomics \nMacroeconomics is the study of the operation and performance of the entire economy, both nationally and internationally. In this course, the analytical tools and methodology of macroeconomic analysis since the Great Depression are introduced. Key variables of the economy such as gross domestic product (GDP), unemployment, inflation, interest rate, exchange rate, and international trade balance, as well as Monetary and fiscal policies adopted by the government are discussed in detail.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9714",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9715",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "SILV 501",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Salmon, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10115",
+                    "section": "003",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "SILV 514"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9914",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Keefe, Maureen",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "ECON1-UC  302\n\n   Intro to Microeconomics\n\nMicroeconomics is the study of decisions and choices made by people who are faced with scarcity of resources. It focuses on the decision making of the individuals, including individual consumer, individual firm and individual industry. In this course, analytical tools and methodology of microeconomic analysis are introduced. Both theory and real world applications are emphasized. Major topics such as the theories of consumers and profit-maximizing firms, perfect and imperfect market competition, and the role of government in maintaining an efficient and competitive market are discussed in deta...\n\n      more description for ECON1-UC  302 \u00bb\n\n      \n\n\n\nMicroeconomics is the study of decisions and choices made by people who are faced with scarcity of resources. It focuses on the decision making of the individuals, including individual consumer, individual firm and individual industry. In this course, analytical tools and methodology of microeconomic analysis are introduced. Both theory and real world applications are emphasized. Major topics such as the theories of consumers and profit-maximizing firms, perfect and imperfect market competition, and the role of government in maintaining an efficient and competitive market are discussed in detail.\n\n      less description for ECON1-UC  302 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 341",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9920",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "SILV 501",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Warren, Pamela"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19853",
+                    "section": "002",
+                    "period": "09/04/2015 - 12/18/2015",
+                    "location": "WAVE 569",
+                    "time": "Fri 5.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Warren, Pamela"
+                }
+            ],
+            "course_name": "Intermed Microeconomics",
+            "description": "ECON1-UC  341 Intermed Microeconomics \nThis course develops formal models of consumer and producer behavior, and stresses applications of theory to study the behavior of individuals and firms in markets. Strategic interactions among firms are studied using game theoretic models. The course concludes with a thorough study of information economics (agency problems, adverse selection) and decision making under uncertainty.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 342",
+            "course_name": "Intermed Macroeconomics",
+            "description": "ECON1-UC  342 Intermed Macroeconomics \nStudy aggregate economic analysis, with particular attention to theories of the determination of the level of income, employment, and price inflation. The theories and policies associated with these topics are critically examined.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 344",
+            "course_name": "International Financial Markets & Trade",
+            "description": "ECON1-UC  344 International Financial Markets & Trade \nStudy the dynamics and influences affecting international financial conditions, decisions, and change. Students cover the financial management of multinational corporations, exchange rates, rates of inflation, and various national and international financial markets. Readings and case studies are employed.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 348",
+            "course_name": "Sports Economics",
+            "description": "ECON1-UC  348 Sports Economics \nThis course explores the economic issues associated with professional sports teams and leagues. Topics include revenue sources for sports teams and leagues; governance of sports leagues; the economics of rival leagues and minor leagues; the economic impact of sports teams and facilities; financing mechanisms for sports facilities; labor relations; and salary determination in professional team sports.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 350",
+            "course_name": "Finance & Investments",
+            "description": "ECON1-UC  350 Finance & Investments \nThis course offers an analysis of the structure and operation of financial markets and the instruments traded in those markets. Portfolio choice, including efficient diversification and asset allocation, is stressed. Theoretical foundations of asset pricing are developed, and empirical tests of these theories are reviewed.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 351",
+            "course_name": "Economics & Gender",
+            "description": "ECON1-UC  351 Economics & Gender \nThis course first reviews how gender issues have been addressed by various economic schools of economic thoughts.  It then explores questions regarding the roles and positions men and women occupy in the process of producing material wealth, such as gender-based division of economic thoughts.  Finally the course discusses macroeconomic and global aspects of gender inequalities in different regions of the world.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 352",
+            "course_name": "Industrial Organization",
+            "description": "ECON1-UC  352 Industrial Organization \nA rigorous examination of market structures is provided in this course, with an emphasis on the strategic interaction of firms. Firm-level decisions such as market entry, research and development, product versioning, and advertising and pricing strategy are studied using theory and cases. The effect of information asymmetries on firm decisions and market structure and performance is considered in detail.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 353",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9787",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "SILV 404",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Frantino, Joann"
+                }
+            ],
+            "course_name": "Mathematical Economics",
+            "description": "ECON1-UC  353 Mathematical Economics \nThis course develops the tool kit of quantitative skills necessary for upper-level coursework in economics. Concepts introduced include systems of equations, logarithmic and exponential functions, differentiation and optimization techniques, series and limits, and integration. Throughout the course, the application of mathematical concepts in economics is emphasized.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 354",
+            "course_name": "Statistical Methods in Economics",
+            "description": "ECON1-UC  354 Statistical Methods in Economics \nThis course provides students with a wide spectrum of statistical methods required for economic studies, from descriptive statistics to inferential statistics, from regression method to time series method. In addition, economic indicator indexing, sampling methods, and popular non-parametric methods are also introduced. Application of computer software, such as EXCEL and SAS, along with each of these statistical methods is emphasized to enhance students\u2019 capabilities to do real-world economic analyses.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 356",
+            "course_name": "",
+            "description": "ECON1-UC  356\n\n   Transition Economics\n\nThis course offers students a critical evaluation of the transformation of the economies of the former socialist Eastern Europe countries and the former Soviet Union from a multifaceted approach. Insights about development economics, especially the relationship between government and market outcomes, are discussed. The class analyzes the socialist economic blueprint, market liberalization reforms, and the current economic outlook. Topics of discussion include issues of limited industrial diversification; increasing financialization; healthcare and education reforms; and problems of poverty, in...\n\n      more description for ECON1-UC  356 \u00bb\n\n      \n\n\n\nThis course offers students a critical evaluation of the transformation of the economies of the former socialist Eastern Europe countries and the former Soviet Union from a multifaceted approach. Insights about development economics, especially the relationship between government and market outcomes, are discussed. The class analyzes the socialist economic blueprint, market liberalization reforms, and the current economic outlook. Topics of discussion include issues of limited industrial diversification; increasing financialization; healthcare and education reforms; and problems of poverty, inequality, and outward migration. Central are questions of state/private balance in social transformation and overall macroeconomic dynamics. Prerequisite:  ECON1-UC301 Introduction to Macroeconomics.\n\n      less description for ECON1-UC  356 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 360",
+            "course_name": "Law & Economics",
+            "description": "ECON1-UC  360 Law & Economics \nEconomic analysis of legal issues, including contracts, property rights, liability and torts, concepts are applied to a variety of cases.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 361",
+            "course_name": "Government Intervention in The Economy",
+            "description": "ECON1-UC  361 Government Intervention in The Economy \nThe regulation of firms and industries is explored in this course. The regulatory process and the economic rationales for government regulation are studied, with an emphasis on the efficiency consequences of regulation. Recent trends in privatization and deregulation are examined critically.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 362",
+            "course_name": "Environmental Economics",
+            "description": "ECON1-UC  362 Environmental Economics \nEconomic models of natural resource extraction and externalities are introduced and developed. Traditional regulatory responses to correct environment externalities are reviewed, and recent market-based regulations such as tradable permits are discussed in detail. Topics include: common property resources; the role of asymmetric information in formulating environmental policy; contingent valuation and travel cost models of valuing non traded resources; and the economics of species diversity.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 363",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17101",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "SILV 514",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Gevorkyan, Aleksandr"
+                }
+            ],
+            "course_name": "Urban Economics",
+            "description": "ECON1-UC  363 Urban Economics \nIn this course student investigate the economic development of cities and urban areas as well as the attendant social problems accompanying urbanization. It addresses the growth of urban areas with a focus on firm location decisions, housing, and land use policies. The causes and consequences of urban problems, such as economic segregation, poverty and crime, are explored through the application of theoretical models to cases.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 364",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17102",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "WAVE 370",
+                    "time": "Wed 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Lacour, Pierre"
+                }
+            ],
+            "course_name": "American Economic History",
+            "description": "ECON1-UC  364 American Economic History \nThis course provides an economic analysis of American history from colonial settlements to World War II. The course emphasizes the role of technology in fostering growth and development, the central role of financial markets in economic growth, and the use of government policies to support westward expansion, using the development of the American West as a central theme.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 371",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17103",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "25W4 C-1",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Moudud, Jamee K"
+                }
+            ],
+            "course_name": "Labor Economics",
+            "description": "ECON1-UC  371 Labor Economics \nThis course begins by developing theories of individual labor supply and the demand for labor across firms and industries. Theories of earnings determination are presented to explore the importance of experience, mobility, and human capital in explaining earnings growth. Income assistance programs and training initiatives are examined in detail. Additional topics include the cause and consequences of earnings inequality, theories of discrimination, immigration, and incentive-based compensation.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 372",
+            "course_name": "International Economics",
+            "description": "ECON1-UC  372 International Economics \nThis course provides an examination of theories of international trade and the performance of the global financial system that supports trade. Topics include: Ricardian and modern trade theories, balance of payments, economic stabilization through international fiscal and monetary policy, and the determination of exchange rate policy.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 373",
+            "course_name": "Comparative Economics",
+            "description": "ECON1-UC  373 Comparative Economics \nIn this course, centrally planned socialist economic systems such as China and Cuba are contrasted with capitalist systems such as the United States, Japan, and Europe. The course also investigates other economic models, including the welfare states of Scandinavia and the mixed economies of developing nations.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 374",
+            "course_name": "Public Sector Economics",
+            "description": "ECON1-UC  374 Public Sector Economics \nThis course examines the uses of fiscal policy at the federal government level. The economic analysis of market failures, such as externalities, public goods, and missing markets, is developed. It reviews government programs that redistribute income, particularly healthcare and social security. It applies optimal taxation theories to the design of federal tax policy.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 376",
+            "course_name": "Money & Banking",
+            "description": "ECON1-UC  376 Money & Banking \nThis course covers an examination of the banking system, determination of the money supply, the role of the Federal Reserve in influencing monetary aggregates, and contemporary issues involved in bank management, banking regulation, and the conduct of monetary policy.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 377",
+            "course_name": "Development Economics",
+            "description": "ECON1-UC  377 Development Economics \nThis course focuses on problems of economic development in Africa, Asia, and Latin America. Poverty, unemployment, population growth, international trade, foreign assistance, economic policy, and the widening gap between developed and developing countries are covered.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 378",
+            "course_name": "Intro to Econometrics",
+            "description": "ECON1-UC  378 Intro to Econometrics \nThis seminar focuses on the use of economic models and theories in addressing research questions in economics. Topics change each semester.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 382",
+            "course_name": "Topics in Industrial Organization",
+            "description": "ECON1-UC  382 Topics in Industrial Organization",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 390",
+            "course_name": "Sp Tpcs in Economics:",
+            "description": "ECON1-UC  390 Sp Tpcs in Economics: \nThis seminar focuses on the use of economic models and theories in addressing research questions in economics. Topics change each semester.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON1-UC 6607",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10054",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "25W4 C-2",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Budhai-Robinson, Millicent"
+                }
+            ],
+            "course_name": "The Global Economy",
+            "description": "ECON1-UC 6607 The Global Economy \nFrom historical linkages among nations to the contemporary integration of national economies, this course explores the evolution of the global economy. It highlights the causes and consequences of the changing patterns of trade in goods and services, capital flows, and labor mobility.",
+            "offering": true
+        },
+        {
+            "course_id": "ECON1-UC 6608",
+            "course_name": "History of Economic Thought",
+            "description": "ECON1-UC 6608 History of Economic Thought \nTrace the development of modern economics from its roots in the 18th, 19th, and early 20th centuries. Major figures studied include Smith, Ricardo, Malthus, Marx, Veblen, and Keynes.",
+            "offering": false
+        }
+    ]
+}

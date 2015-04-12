@@ -1,0 +1,566 @@
+{
+    "major_id": "CORE-GP",
+    "file": "./2015-2016/School-wide_core_course_(CORE-GP).html",
+    "courses": [
+        {
+            "course_id": "CORE-GP 111",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "5190",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Mon 10.00 AM - 11.40 AM",
+                    "open": true,
+                    "professor": "Polyne, Judy"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5191",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Beck, Diana"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5192",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Mon 8.35 PM - 10.15 PM",
+                    "open": true,
+                    "professor": "Beck, Diana"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5193",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 515"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5194",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Fri 10.00 AM - 11.40 AM",
+                    "open": true,
+                    "professor": "Polyne, Judy"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5215",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 275",
+                    "time": "Fri 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "Polyne, Judy"
+                }
+            ],
+            "course_name": "Statistical Methods Lab",
+            "description": "CORE-GP  111 Statistical Methods Lab",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 118",
+            "classes": [
+                {
+                    "format": "Recitation",
+                    "class_id": "5195",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.35 PM - 10.35 PM",
+                    "open": true,
+                    "professor": "SILV 401"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5196",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.35 PM - 10.35 PM",
+                    "open": true,
+                    "professor": "SILV 208"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5197",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.30 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5198",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5217",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Sat 10.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "SILV 401"
+                }
+            ],
+            "course_name": "Microeconomics Discussion",
+            "description": "CORE-GP  118 Microeconomics Discussion \nMicroeconomics recitations do not cover new material; they review material from the previous class primarily by going over problems.  Assignments are reviewed in recitation sections as well.",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 121",
+            "classes": [
+                {
+                    "format": "Recitation",
+                    "class_id": "5185",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "SILV 411"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5186",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.35 PM - 10.35 PM",
+                    "open": true,
+                    "professor": "SILV 401"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5187",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 4.15 PM - 5.15 PM",
+                    "open": true,
+                    "professor": "KIMM 802"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17202",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Sat 12.30 PM - 1.30 PM",
+                    "open": true,
+                    "professor": "SILV 401"
+                }
+            ],
+            "course_name": "Financial Mgmt Discussion",
+            "description": "CORE-GP  121 Financial Mgmt Discussion",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 122",
+            "course_name": "Intro to Public Discussion",
+            "description": "CORE-GP  122 Intro to Public Discussion",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-GP 1011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5156",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Wed 12.30 PM - 2.25 PM",
+                    "open": true,
+                    "professor": "Blustein, Janice"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5157",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "SILV 414"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5158",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.00 AM - 10.55 AM",
+                    "open": true,
+                    "professor": "BOBS LL150"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5159",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "194M 203"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5160",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Fri 8.00 AM - 9.55 AM",
+                    "open": true,
+                    "professor": "Polyne, Judy"
+                }
+            ],
+            "course_name": "",
+            "description": "CORE-GP 1011\n\n   Statistical Methods\n\nThis course introduces students to basic statistical methods and their application to management, policy, and financial decision-making. The course covers the essential elements of descriptive statistics, univariate and bivariate statistical inference, and introduces multivariate analysis. In addition to covering statistical theory the course emphasizes applied statistics and data analysis, using the software package, SPSS.\n\nThe course has several \"audiences\" and goals. For all Wagner students, the course develops basic skills and encourages a critical approach to reviewing statistical finding...\n\n      more description for CORE-GP 1011 \u00bb\n\n      \n\n\n\nThis course introduces students to basic statistical methods and their application to management, policy, and financial decision-making. The course covers the essential elements of descriptive statistics, univariate and bivariate statistical inference, and introduces multivariate analysis. In addition to covering statistical theory the course emphasizes applied statistics and data analysis, using the software package, SPSS.\n\nThe course has several \"audiences\" and goals. For all Wagner students, the course develops basic skills and encourages a critical approach to reviewing statistical findings and using statistical reasoning in decision making. For those planning to continue studying statistics (often those in policy and finance\nconcentrations) this course additionally provides the foundation for that further work.\n\n      less description for CORE-GP 1011 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 1018",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5057",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Ellen, Ingrid"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5058",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Wed 6.45 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "Beck, Diana"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5059",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Dixon, Erica"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5189",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "SILV 414"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17205",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.00 PM - 2.45 PM",
+                    "open": true,
+                    "professor": "SILV 520"
+                }
+            ],
+            "course_name": "Microeconomics for Public Management, Planning & Policy Analysis",
+            "description": "CORE-GP 1018 Microeconomics for Public Management, Planning & Policy Analysis \nThe concepts and tools of microeconomics and their relevance for management, planning, and policy making in the public and nonprofit sectors. Basic theory of demand, production, markets, and distribution. Individual markets and the economic system. Efficiency and social welfare outcomes and failures of a market system.",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 1020",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5060",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Mon 6.45 PM - 8.55 PM",
+                    "open": true,
+                    "professor": "Sneed, Simone"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5061",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.00 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5062",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.00 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5063",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Tue 9.30 AM - 11.40 AM",
+                    "open": true,
+                    "professor": "Grant, Sara"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5064",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Tue 11.45 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Grant, Sara"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5065",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.45 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5164",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Tue 6.45 PM - 8.55 PM",
+                    "open": true,
+                    "professor": "Campbell, Gordon"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5165",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5066",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5166",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Wed 9.30 AM - 11.40 AM",
+                    "open": true,
+                    "professor": "Campbell, Gordon"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5167",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.45 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5168",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.45 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5213",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Wed 3.30 PM - 5.40 PM",
+                    "open": true,
+                    "professor": "Kurs, Monte"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5214",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.45 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5220",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.45 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "19W4 102"
+                }
+            ],
+            "course_name": "Managing Public Service Organizations",
+            "description": "CORE-GP 1020 Managing Public Service Organizations \nThe goal of this course is to enhance your leadership skills. The course provides you with the tools you need to diagnose and solve organizational problems, to influence the actions of individuals, groups, and organizations, and to lead prosperous public service organizations. The sessions focus on specific sets of leadership skills by discussing key theoretical concepts, analyzing related cases, engaging in exercises, and completing team projects.",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 1021",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5067",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Wed 3.45 PM - 6.30 PM",
+                    "open": true,
+                    "professor": "West, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5068",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 808",
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Smith, Daniel"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5069",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401",
+                    "time": "Thu 6.45 PM - 9.30 PM",
+                    "open": true,
+                    "professor": "Shiau, Robert"
+                }
+            ],
+            "course_name": "",
+            "description": "CORE-GP 1021\n\n   Financial Management for Public, Nonprofit & Health Organizations\n\nThis course provides an introduction to the use of financial information in organizational decision making. It teaches the theory and practice of how accounting information is generated and recorded, how the information is presented, and how it can be used to provide meaningful conclusions about the financial position and performance of a public service organization. It also teaches the use of principles of financial management to make operating and capital budgeting decisions and to analyze long-term financial alternatives. Topics covered include GAAP accounting, financial statements, financi...\n\n      more description for CORE-GP 1021 \u00bb\n\n      \n\n\n\nThis course provides an introduction to the use of financial information in organizational decision making. It teaches the theory and practice of how accounting information is generated and recorded, how the information is presented, and how it can be used to provide meaningful conclusions about the financial position and performance of a public service organization. It also teaches the use of principles of financial management to make operating and capital budgeting decisions and to analyze long-term financial alternatives. Topics covered include GAAP accounting, financial statements, financial condition analysis, present value, budgeting, and long-term asset and liability decision making.\n\n      less description for CORE-GP 1021 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-GP 1022",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5070",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Mon 6.45 PM - 8.55 PM",
+                    "open": true,
+                    "professor": "Nordlund, Caroline"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17209",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Tue 6.45 PM - 8.55 PM",
+                    "open": true,
+                    "professor": "Sinclair, John"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5071",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Tue 8.30 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "Nordlund, Caroline"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5199",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401",
+                    "time": "Mon 3.30 PM - 5.40 PM",
+                    "open": true,
+                    "professor": "Gershman, John; Smoke, Paul"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17211",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17211",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CORE-GP 1022\n\n   Introduction to Public Policy\n\nThe course begins by distinguishing policy analysis as a subdivision of the social sciences concerned with explaining government behaviors from policy analysis as a professional activity in the public service concerned with assembling and presenting information to guide decision makers in the public and nonprofit sectors. The course concentrates on policy analysis as a professional activity and presents students with the conceptual approaches that facilitate successful analytic work. The course consists of team-taught lecture sections and individual faculty-rThe course begins by distinguishing...\n\n      more description for CORE-GP 1022 \u00bb\n\n      \n\n\n\nThe course begins by distinguishing policy analysis as a subdivision of the social sciences concerned with explaining government behaviors from policy analysis as a professional activity in the public service concerned with assembling and presenting information to guide decision makers in the public and nonprofit sectors. The course concentrates on policy analysis as a professional activity and presents students with the conceptual approaches that facilitate successful analytic work. The course consists of team-taught lecture sections and individual faculty-rThe course begins by distinguishing policy analysis as a subdivision of the social sciences concerned with explaining government behaviors from policy analysis as a professional activity in the public service concerned with assembling and presenting information to guide decision makers in the public and nonprofit sectors. The course concentrates on policy analysis as a professional activity and presents students with the conceptual approaches that facilitate successful analytic work. The course consists of team-taught lecture sections and individual faculty-run discussion sections that provide opportunities for students to practice oral presentation skills.\n\nNote: If you have not taken an American Government course in several years and need to brush up on your knowledge of the basic design and functions of the governmental units in the United States, you are strongly encouraged to take Introduction to Governance (P11.1789) prior to taking Introduction to Public Policy.\n\n      less description for CORE-GP 1022 \u00ab",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "major_id": "CHEM-GA",
+    "file": "./2015-2016/Chemistry_(CHEM-GA).html",
+    "courses": [
+        {
+            "course_id": "CHEM-GA 1111",
+            "course_name": "Inorganic Chemistry",
+            "description": "CHEM-GA 1111 Inorganic Chemistry \nStudy of the inorganic elements, concentrating on the transition metals, in which the structure of their compounds, spectra, and reactivity is discussed in light of recent advances in both theory and experiment. The importance of the inorganic elements in such fields as biochemistry and catalysis is discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1112",
+            "course_name": "Organometallic Chemistry",
+            "description": "CHEM-GA 1112 Organometallic Chemistry \nStudy of the structure, bonding, and reactions of organometallic complexes, with particular emphasis on the mechanism of reactions and the characterization of compounds by spectroscopic means. Application of organometallic reagents in organic synthesis and industrial catalysis is discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1113",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2119",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Diao, Tianning"
+                }
+            ],
+            "course_name": "Chemistry of the Transition Metals",
+            "description": "CHEM-GA 1113 Chemistry of the Transition Metals",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 1311",
+            "course_name": "Adv Organic Chem: React of Organic Compound",
+            "description": "CHEM-GA 1311 Adv Organic Chem: React of Organic Compound \nSurvey of the major classes of organic reactions, reagents, mechanisms, stereochemistry, and protecting groups. Discusses the origins of chemoselectivity, regioselectivity, and stereoselectivity and the planning of organic synthesis.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1312",
+            "course_name": "Strategies in Synthetic Organic Chemistry",
+            "description": "CHEM-GA 1312 Strategies in Synthetic Organic Chemistry \nAnalysis of modern strategies and methodologies for the synthesis of organic compounds.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1313",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1212",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 375",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Kahr, Bart"
+                }
+            ],
+            "course_name": "Physical Organic Chemistry",
+            "description": "CHEM-GA 1313 Physical Organic Chemistry \nStructure and bonding in organic molecules, including MO calculations, perturbation methods, and aromaticity; stereochemistry and conformational analysis; pericyclic reactions; thermochemistry and kinetics; transition state theory and activation parameters; acids and bases; and methods for the determination of mechanisms.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 1314",
+            "course_name": "Organic React Mechanisms",
+            "description": "CHEM-GA 1314 Organic React Mechanisms \nDiscussion of the mechanisms of organic reactions, primarily in solution. Topics include nucleophilic and electrophilic substitution reactions, molecular rearrangements, electrophilic and nucleophilic addition reactions, elimination, carbanions, free radicals, and photochemistry.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1315",
+            "course_name": "Supramolecular Chemistry",
+            "description": "CHEM-GA 1315 Supramolecular Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1326",
+            "course_name": "Organic Analysis",
+            "description": "CHEM-GA 1326 Organic Analysis \nApplication of spectroscopic methods to the determination of the structure of organic molecules. Structure determination is approached through problem solving using IR, UV, MS, NMR, and spectroscopy. Particular emphasis is given to 1H and 13C NMR.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1401",
+            "course_name": "Scientific Computing",
+            "description": "CHEM-GA 1401 Scientific Computing",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1417",
+            "course_name": "Comptrs Workin Scientist",
+            "description": "CHEM-GA 1417 Comptrs Workin Scientist",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1638",
+            "course_name": "Intro to Research in Chemistry",
+            "description": "CHEM-GA 1638 Intro to Research in Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1650",
+            "course_name": "Phys Chem Biomedical SCI",
+            "description": "CHEM-GA 1650 Phys Chem Biomedical SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1814",
+            "course_name": "Biophysical Chemistry",
+            "description": "CHEM-GA 1814 Biophysical Chemistry \nStructure and properties of macromolecules of biological importance: thermodynamics of polymer solutions; determination of molecular weight and conformation of biopolymers; and polyelectrolyte theory.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1815",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1213",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 265",
+                    "time": "Mon,Wed 6.25 PM - 7.40 PM",
+                    "open": true,
+                    "professor": "Seeman, Nadrian"
+                }
+            ],
+            "course_name": "Macromolecular Chemistry",
+            "description": "CHEM-GA 1815 Macromolecular Chemistry \nStructural chemistry of macromolecules, including vector analysis, symmetry, crystallography, DNA, RNA, and virus structure.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 1818",
+            "course_name": "Adv Biophysical Chem",
+            "description": "CHEM-GA 1818 Adv Biophysical Chem \nThree advanced topics in biophysical chemistry are discussed: electron transfer theory and its application to electron transfer in biology; statistical mechanics of biopolymers; and protein-DNA interactions with emphasis on DNA repair enzymes.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1851",
+            "course_name": "Concepts/Magnetic Reson",
+            "description": "CHEM-GA 1851 Concepts/Magnetic Reson",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1882",
+            "course_name": "Biochemistry II",
+            "description": "CHEM-GA 1882 Biochemistry II \nTopics include organic and physical chemistry of proteins, lipids, carbohydrates, and nucleic acids; enzyme kinetics and mechanisms; membranes and transport; bioenergetics and intermediary metabolism; molecular genetics and regulation.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1883",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1214",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 365",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Kirshenbaum, Kent"
+                }
+            ],
+            "course_name": "Molecular Biochemistry",
+            "description": "CHEM-GA 1883 Molecular Biochemistry",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 1885",
+            "course_name": "Experimental Biochem",
+            "description": "CHEM-GA 1885 Experimental Biochem \nExperiments and instruction in analytical techniques, including chromatography, spectrophotometry, and electrophoresis; isolation and characterization of biomolecules; kinetic analysis of enzymatic activity; and analysis of protein-protein and protein-DNA interactions that direct basic biochemical pathways.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1901",
+            "course_name": "Principles of Biochemistry",
+            "description": "CHEM-GA 1901 Principles of Biochemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 1951",
+            "course_name": "Medicinal Chemistry",
+            "description": "CHEM-GA 1951 Medicinal Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2200",
+            "course_name": "Computational Biology Student Seminar",
+            "description": "CHEM-GA 2200 Computational Biology Student Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2232",
+            "course_name": "Total Synthesis",
+            "description": "CHEM-GA 2232 Total Synthesis \nModern synthetic methods in organic chemistry centering on significant synthesis. Each synthesis is examined with respect to synthetic strategy, mechanisms of individual steps, and the scope of specialized reagents.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2261",
+            "course_name": "Spec Topics in Organic Chemistry:",
+            "description": "CHEM-GA 2261 Spec Topics in Organic Chemistry: \nTopics of current interest in organic chemistry are covered in depth. by four faculty members. Topics such as nanoscience, mass spectrometry, nuclear magnetic resonance, and infrared spectroscopy are addressed through a problem-solving approach; topics from current literature and research areas complement the core courses.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2262",
+            "course_name": "Spec Topics in Org Chem",
+            "description": "CHEM-GA 2262 Spec Topics in Org Chem \nTopics of current interest in organic chemistry are covered in depth. by four faculty members. Topics such as nanoscience, mass spectrometry, nuclear magnetic resonance, and infrared spectroscopy are addressed through a problem-solving approach; topics from current literature and research areas complement the core courses.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2264",
+            "course_name": "Combinatorial Chemistry",
+            "description": "CHEM-GA 2264 Combinatorial Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2271",
+            "course_name": "Chem of Nucleic Acids",
+            "description": "CHEM-GA 2271 Chem of Nucleic Acids",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2281",
+            "course_name": "Organic Photochemistry",
+            "description": "CHEM-GA 2281 Organic Photochemistry \nDescription of the generation, structure, and chemical transformation of electronic excited states of organic molecules.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2400",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1217",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL25",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Sacanna, Stefano"
+                }
+            ],
+            "course_name": "The Science of Materials",
+            "description": "CHEM-GA 2400 The Science of Materials \nA comprehensive foundation course that addresses basic concepts of materials science.  Topics include bonding forces, crystal structures, defects, x-ray diffraction, solid-state phase diagrams, crystallization mechanisms, diffusion in solids, and mechanical, electrical, optical, and magnetic properties.  Classes of materials include metals, ceramics, polymers, liquid crystals, organic crystals.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 2420",
+            "course_name": "Polymer Chemistry",
+            "description": "CHEM-GA 2420 Polymer Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2600",
+            "course_name": "Statistical Mechanics",
+            "description": "CHEM-GA 2600 Statistical Mechanics \nIntroduction to the fundamentals of statistical mechanics. Topics include classical mechanics in the Lagrangian and Hamiltonian formulations and its relation to classical statistical mechanics, phase space and partition functions, and the development of thermodynamics. Methods of molecular dynamics and Monte Carlo simulations are also discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2601",
+            "course_name": "Molecular Modeling",
+            "description": "CHEM-GA 2601 Molecular Modeling \nA full-scale introduction to biomolecular modeling and simulation with the goal of assisting students to develop a practical understanding of computational methods (strengths, limitations, applicability) and competence in applying these methods to biomolecules.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2602",
+            "course_name": "Chemical Physics II",
+            "description": "CHEM-GA 2602 Chemical Physics II",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2603",
+            "course_name": "Current Topics in Computational and Biomolecular Chemistry",
+            "description": "CHEM-GA 2603 Current Topics in Computational and Biomolecular Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2626",
+            "course_name": "Mathematical Methods in Chemistry",
+            "description": "CHEM-GA 2626 Mathematical Methods in Chemistry \nProvides students with the fundamental mathematical tools needed for further study in theoretical chemistry. Topics include vector spaces, linear algebra, ordinary and partial differential equations, special functions, complex analysis, and integral transforms.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2627",
+            "course_name": "Computational Chemistry",
+            "description": "CHEM-GA 2627 Computational Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2641",
+            "course_name": "Advanced Physical Chem",
+            "description": "CHEM-GA 2641 Advanced Physical Chem",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2651",
+            "course_name": "Advanced Statistical Mechanics",
+            "description": "CHEM-GA 2651 Advanced Statistical Mechanics \nContinuation of the Statistical Mechanics course. Topics include advanced concepts in ensemble theory, distribution function theory of liquids, quantum statistical mechanics in the eigenvalue and path-integral formulations, time-dependent statistical mechanics, linear response theory and spectroscopy, and critical phenomena.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2652",
+            "course_name": "Statistical Mechanics II",
+            "description": "CHEM-GA 2652 Statistical Mechanics II",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2665",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2120",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Turner, Daniel B"
+                }
+            ],
+            "course_name": "Quantum Mechanics",
+            "description": "CHEM-GA 2665 Quantum Mechanics \nQuantum mechanics of elementary systems; includes perturbation theory, particle in a box, the one-electron atom, harmonic oscillators, and the elements of atomic and molecular structure.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 2666",
+            "course_name": "Quantum Chemistry and Dynamics",
+            "description": "CHEM-GA 2666 Quantum Chemistry and Dynamics \nRepresentation theory, time-dependent and time-independent perturbation theory, rotational and vibrational levels in molecules, many-electron systems, interaction of electric and magnetic fields with atoms and molecules, quantum treatment of many-electron systems, and techniques of quantum chemistry.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2671",
+            "course_name": "Special Topics Physical Chemistry:",
+            "description": "CHEM-GA 2671 Special Topics Physical Chemistry:",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2672",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2450",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 413",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Zhang, Yingkai"
+                }
+            ],
+            "course_name": "Special Topics:Computational Chemistry",
+            "description": "CHEM-GA 2672 Special Topics:Computational Chemistry",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 2673",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2071",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 1.00 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "WAVE 429"
+                }
+            ],
+            "course_name": "Professional Development",
+            "description": "CHEM-GA 2673 Professional Development",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 2680",
+            "course_name": "Nmr Spectroscopy: Theory and Practice",
+            "description": "CHEM-GA 2680 Nmr Spectroscopy: Theory and Practice \nDiscusses modern NMR techniques in theory and practice. Introduces and demonstrates both liquid- and solid-state NMR techniques. Discusses connections to magnetic resonance imaging and applications to structure determination of biomolecules and materials. Includes hands-on experience and computer simulations.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2690",
+            "course_name": "Applied Infrared Spectroscopy",
+            "description": "CHEM-GA 2690 Applied Infrared Spectroscopy \nOverview of infrared spectroscopy as applied to the study of inorganic and organic materials, including nanoparticles and polymers. Reviews selection rules and optics. Focuses on modern methods including reflectance spectroscopy as applied to the study of surfaces and solutes in highly absorbing media.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2884",
+            "course_name": "Bio-Organic Chemistry",
+            "description": "CHEM-GA 2884 Bio-Organic Chemistry \nCovers a broad range of topics at the interface between organic chemistry and biology, based on the most recent advances in bioorganic chemistry, chemical biology functional genomics, and molecular evolution.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 2931",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1220",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Arora, Paramjit",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1221",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Bacic, Zlatko",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1222",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Buccella, Daniela",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1223",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Canary, James",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1224",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Dore, Timothy",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1225",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Jerschow, Alexej",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1226",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Kahr, Bart",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1227",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Kirshenbaum, Kent",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1228",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Mahal, Lara",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1229",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Sacanna, Stefano",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1230",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Seeman, Nadrian",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1231",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Traaseth, Nate",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1232",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Tuckerman, Mark",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1233",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Turner, Daniel B",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1234",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ward, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1235",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Weck, Marcus",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1236",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Woerpel, Keith",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1237",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Zhang, Yingkai",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1238",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Diao, Tianning",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1785",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Geacintov, Nicholas",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1802",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schlick, Tamar",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "CHEM-GA 2931 Research",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 2932",
+            "course_name": "Research",
+            "description": "CHEM-GA 2932 Research",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 3010",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1239",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 507",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Buccella, Daniela"
+                }
+            ],
+            "course_name": "Graduate Seminar",
+            "description": "CHEM-GA 3010 Graduate Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-GA 3011",
+            "course_name": "Physical Chem Seminar",
+            "description": "CHEM-GA 3011 Physical Chem Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 3012",
+            "course_name": "Organic Chem Seminar",
+            "description": "CHEM-GA 3012 Organic Chem Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 3013",
+            "course_name": "Biomolecular Chemistry Seminar",
+            "description": "CHEM-GA 3013 Biomolecular Chemistry Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 3100",
+            "course_name": "Prep of Proposals for Orig Res",
+            "description": "CHEM-GA 3100 Prep of Proposals for Orig Res",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-GA 5680",
+            "course_name": "Nmr Spectroscopy: Theory and Practice",
+            "description": "CHEM-GA 5680 Nmr Spectroscopy: Theory and Practice",
+            "offering": false
+        }
+    ]
+}

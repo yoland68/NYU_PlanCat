@@ -1,0 +1,57 @@
+{
+    "major_id": "NODEP-UA",
+    "file": "./2015-2016/Non-Departmental_(NODEP-UA).html",
+    "courses": [
+        {
+            "course_id": "NODEP-UA 601",
+            "course_name": "Leadership Development",
+            "description": "NODEP-UA  601 Leadership Development",
+            "offering": false
+        },
+        {
+            "course_id": "NODEP-UA 980",
+            "classes": [
+                {}
+            ],
+            "course_name": "Internship: Fieldwork",
+            "description": "NODEP-UA  980 Internship: Fieldwork",
+            "offering": true
+        },
+        {
+            "course_id": "NODEP-UA 981",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7546",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS LL140"
+                }
+            ],
+            "course_name": "Internship: Seminar",
+            "description": "NODEP-UA  981 Internship: Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "NODEP-UA 9982",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19014",
+                    "section": "007",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship Seminar & Fieldwork",
+            "description": "NODEP-UA 9982 Internship Seminar & Fieldwork",
+            "offering": true
+        }
+    ]
+}

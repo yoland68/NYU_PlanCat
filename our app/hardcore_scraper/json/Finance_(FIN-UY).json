@@ -1,0 +1,63 @@
+{
+    "major_id": "FIN-UY",
+    "file": "./2015-2016/Finance_(FIN-UY).html",
+    "courses": [
+        {
+            "course_id": "FIN-UY 2003",
+            "classes": [
+                {}
+            ],
+            "course_name": "Economic Foundations of Finance",
+            "description": "FIN-UY 2003 Economic Foundations of Finance \nThis course focuses on the fundamental economic concepts underpinning modern financial theory. Material includes consumer behavior; utility theory; analysis of production and costs; competitive markets; monopolistic and monopsonistic markets; time value of money; game theoretic analysis of oligopoly; asymmetric information in markets; externalities; market efficiency and more. The calculus is used to develop these concepts. | Prerequisites: MA-UY 1124 or MA-UY 1154 or MA-UY 1424 and Sophomore Standing or higher.",
+            "offering": true
+        },
+        {
+            "course_id": "FIN-UY 2103",
+            "classes": [
+                {}
+            ],
+            "course_name": "Creating and Understanding Financial Statements",
+            "description": "FIN-UY 2103 Creating and Understanding Financial Statements \nThis course provides a solid understanding of the creation and interpretation of modern financial statements. Topics include  the compelling reasons for financial statements, Sarbanes-Oxley, U.S. accounting principles and how they differ abroad, quality of financial information, financial ratios and their uses, cash-flow analysis, measurement of corporate performance, credit analysis and introduction to managing financial risk. | Prerequisites: MA-UY 1124 or MA-UY 1154 or MA-UY 1424 and Sophomore Standing or higher.",
+            "offering": true
+        },
+        {
+            "course_id": "FIN-UY 2203",
+            "course_name": "Corporate Finance and Financial Markets",
+            "description": "FIN-UY 2203 Corporate Finance and Financial Markets \nThis course covers the fundamentals of corporate finance, valuation, risk, capital budgeting and market efficiency. Students who complete this class acquire a solid foundation needed for intermediate and advanced topics in finance. This class is a prerequisite for all FIN classes at the 3000 level. | Prerequisites: MA-UY 2054 or MA-UY 2212 or MA-UY 3012, 8 credits of calculus, and Sophomore Standing or higher.",
+            "offering": false
+        },
+        {
+            "course_id": "FIN-UY 3213",
+            "course_name": "",
+            "description": "FIN-UY 3213\n\n   Financial Management and Risk Engineering\n\nThe course introduces the elements and techniques of risk engineering spanning the following: Probabilities and their distributions and data analysis and statistics as well as Monte Carlo simulation. Throughout, these techniques are demonstrated through special problems and cases providing the necessary tools and concepts for dealing with major problems in risk engineering, decision-making under uncertainty, and financial management and pricing. The course is based on multiple sessions in a Financial Laboratory environment, using computational-risk software, statistical and financial econometr...\n\n      more description for FIN-UY 3213 \u00bb\n\n      \n\n\n\nThe course introduces the elements and techniques of risk engineering spanning the following: Probabilities and their distributions and data analysis and statistics as well as Monte Carlo simulation. Throughout, these techniques are demonstrated through special problems and cases providing the necessary tools and concepts for dealing with major problems in risk engineering, decision-making under uncertainty, and financial management and pricing. The course is based on multiple sessions in a Financial Laboratory environment, using computational-risk software, statistical and financial econometric software, and simulation programs and software. | Prerequisite: FIN 2203. Co-Registration Requirements: FIN 2003, FIN 2103.\n\n      less description for FIN-UY 3213 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FIN-UY 3233",
+            "classes": [
+                {}
+            ],
+            "course_name": "DERIVATIVES AND THE OPTIONS MARKET",
+            "description": "FIN-UY 3233 DERIVATIVES AND THE OPTIONS MARKET \nThis course builds on mathematical models of bond and stock prices and covers two major areas of mathematical finance with significant impact on operating-model financial markets, namely, Black-Scholes arbitrage pricing of options, and other derivative securities and interest rates together with their term structure. The course makes significant use of probability and calculus, covering the material in a mathematically rigorous and complete manner. | Prerequisite:FIN 2203. Co-Registration Requirements: FIN 2003, FIN 2103.",
+            "offering": true
+        },
+        {
+            "course_id": "FIN-UY 3403",
+            "course_name": "Entrepreneurship and Financial Management",
+            "description": "FIN-UY 3403 Entrepreneurship and Financial Management \nThis course introduces the finance of entrepreneurship and venture capital. It considers the perspectives of the start-up firm and the venture capitalist and develops a framework for understanding the laws, contracts and issues involved in reaching mutually profitable contracts. | Prerequisites: FIN 2203.",
+            "offering": false
+        },
+        {
+            "course_id": "FIN-UY 3503",
+            "course_name": "",
+            "description": "FIN-UY 3503\n\n   OPERATIONAL RISK MODELING & ANALYTICS\n\nThis course focuses on how to optimize business strategies, qualitatively and quantitatively with respect to operational risk. The course is organized around the principle that operational risk analysis consists, in part, of data collection and the building of mathematical models to describe the risk of failures in human resources, processes and technology.  Beginning with a foundation for operational\nrisk modeling and a focus on the modeling process, the course discusses probabilistic tools for operational risk modeling and statistical methods to calibrate models of operational risk. The qua...\n\n      more description for FIN-UY 3503 \u00bb\n\n      \n\n\n\nThis course focuses on how to optimize business strategies, qualitatively and quantitatively with respect to operational risk. The course is organized around the principle that operational risk analysis consists, in part, of data collection and the building of mathematical models to describe the risk of failures in human resources, processes and technology.  Beginning with a foundation for operational\nrisk modeling and a focus on the modeling process, the course discusses probabilistic tools for operational risk modeling and statistical methods to calibrate models of operational risk. The quantitative assessment of operational risk uses the tools of probability, statistics and actuarial science. | \nPrerequisite: FIN 2203. Co-Registration Requirements: FIN 2003, FIN 2103.\n\n      less description for FIN-UY 3503 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FIN-UY 4903",
+            "course_name": "SPECIAL TOPICS IN FINANCE AND RISK ENGINEERING",
+            "description": "FIN-UY 4903 SPECIAL TOPICS IN FINANCE AND RISK ENGINEERING \nThe course considers unique topics of interest in Finance and Risk Engineering. It may feature a detailed look at a single topic or a series of focused topical presentations. | Prerequisite: FIN 2003, FIN 2103, and FIN 2203, or Permission of Department or Instructor.",
+            "offering": false
+        }
+    ]
+}

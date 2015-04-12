@@ -1,0 +1,160 @@
+{
+    "major_id": "EXPR1-UC",
+    "file": "./2015-2016/Experiential_Learning_(EXPR1-UC).html",
+    "courses": [
+        {
+            "course_id": "EXPR1-UC 100",
+            "course_name": "New Student Orientation",
+            "description": "EXPR1-UC  100 New Student Orientation",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9400",
+            "course_name": "Management, Leadership and Organizational Change",
+            "description": "EXPR1-UC 9400 Management, Leadership and Organizational Change",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9500",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10018",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "College Internship",
+            "description": "EXPR1-UC 9500 College Internship",
+            "offering": true
+        },
+        {
+            "course_id": "EXPR1-UC 9501",
+            "course_name": "Spc Tcps: Recitation in Investment Banking",
+            "description": "EXPR1-UC 9501 Spc Tcps: Recitation in Investment Banking",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9502",
+            "course_name": "H.S. Introduction to Banking and Finance",
+            "description": "EXPR1-UC 9502 H.S. Introduction to Banking and Finance",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9503",
+            "course_name": "H.S. Internship",
+            "description": "EXPR1-UC 9503 H.S. Internship",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9504",
+            "course_name": "Innovative Leadership",
+            "description": "EXPR1-UC 9504 Innovative Leadership",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9505",
+            "course_name": "History of Modern Fashion:  New York City",
+            "description": "EXPR1-UC 9505 History of Modern Fashion:  New York City",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9506",
+            "course_name": "Popular Culture, Media, and Identity",
+            "description": "EXPR1-UC 9506 Popular Culture, Media, and Identity",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9507",
+            "course_name": "Building a Professional Portfolio",
+            "description": "EXPR1-UC 9507 Building a Professional Portfolio",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9508",
+            "course_name": "Foundations of Financial Management",
+            "description": "EXPR1-UC 9508 Foundations of Financial Management",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9600",
+            "course_name": "GB College Internship",
+            "description": "EXPR1-UC 9600 GB College Internship",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9700",
+            "course_name": "MECEC American Cultural Seminar",
+            "description": "EXPR1-UC 9700 MECEC American Cultural Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9800",
+            "course_name": "FA College Career Seminar",
+            "description": "EXPR1-UC 9800 FA College Career Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9801",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9961",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "GODD B04",
+                    "time": "Tue 6.20 PM - 9.01 PM",
+                    "open": true,
+                    "professor": "Krassner, April"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "10105",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Hubbard, Steven",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Seminar in Experiential Learning",
+            "description": "EXPR1-UC 9801 Seminar in Experiential Learning \nThis course offers a study of the history and theory of experiential learning. Students identify their own educational goals and analyze how their prior college-level learning fits into the curriculum of their overall degree plan. Students document, write, and edit their portfolios of prior learning. At the discretion of the instructor, students may use one additional semester to complete their portfolios without an additional fee. Students may not register for this course more than once.",
+            "offering": true
+        },
+        {
+            "course_id": "EXPR1-UC 9802",
+            "course_name": "Career & Education Planning Seminar",
+            "description": "EXPR1-UC 9802 Career & Education Planning Seminar \nIn this course, students identify career and professional goals and develop an individualized degree plan. Theories of adult learning and adult development are studied in the context of understanding their role in the student\u2019s decision to return to school. Topics include the purposes of a college education in today\u2019s rapidly changing world, the relationship of the liberal arts to our increasingly technological society, and the competencies necessary for success in college and in life.",
+            "offering": false
+        },
+        {
+            "course_id": "EXPR1-UC 9803",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17099",
+                    "section": "001",
+                    "period": "09/05/2015 - 12/19/2015",
+                    "location": "Krassner, April",
+                    "time": "Sat 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Portfolio Development",
+            "description": "EXPR1-UC 9803 Portfolio Development \nThis course is the continuation of the Seminar in Experiential Learning for students who have successfully completed the first semester seminar. During the Seminar in Experiential Learning, students must have completed one portfolio to demonstrate their prior learning, earned a passing grade for the seminar, and have challenged a minimum of one NYU course for credit toward their Bachelor\u2019s degree. In the recitation, students meet with their seminar instructor to develop and write their remaining portfolios by the end of the recitation semester.",
+            "offering": true
+        },
+        {
+            "course_id": "EXPR1-UC 9804",
+            "course_name": "McGhee Online Tutoring",
+            "description": "EXPR1-UC 9804 McGhee Online Tutoring",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "major_id": "BPEP-UB",
+    "file": "./2015-2016/Business_and_Political_EconomyProgram_(BPEP-UB).html",
+    "courses": [
+        {
+            "course_id": "BPEP-UB 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9401",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 200",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Foudy, Joseph"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9402",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC03",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Newell, Carol"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9403",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC05",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Meyerson, Bruce"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9627",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC05",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Meyerson, Bruce"
+                }
+            ],
+            "course_name": "Intro to Econ & Pol Thgt",
+            "description": "BPEP-UB    1 Intro to Econ & Pol Thgt \nThis course explores political theory with an emphasis on modern theory and issues of political economy. The course has three main objectives. First, students are introduced to different theories of politics. Second, the course has a major writing component and is designed to improve students\u2019 writing abilities. Third, the course challenges students intellectually and asks them to analyze and debate ethical and moral issues created by different economic and political choices.",
+            "offering": true
+        },
+        {
+            "course_id": "BPEP-UB 2",
+            "course_name": "",
+            "description": "BPEP-UB    2\n\n   Intro to Macroeconomics\n\nThis course focuses on the economy as a whole (the \u201cmacroeconomy\u201d), starting with the meaning and measurement of important macroeconomic data (such as unemployment, inflation, and output) and moving on to the basic theory of production and the behavior of the overall economy. Topics include long-run economic growth and the standard of living; the causes and consequences of economic booms and recessions; the role of the financial sector, the banking system, and the central bank (the Federal Reserve in the U.S.); and the government debt and sovereign insolvency. The course examines the role of g...\n\n      more description for BPEP-UB    2 \u00bb\n\n      \n\n\n\nThis course focuses on the economy as a whole (the \u201cmacroeconomy\u201d), starting with the meaning and measurement of important macroeconomic data (such as unemployment, inflation, and output) and moving on to the basic theory of production and the behavior of the overall economy. Topics include long-run economic growth and the standard of living; the causes and consequences of economic booms and recessions; the role of the financial sector, the banking system, and the central bank (the Federal Reserve in the U.S.); and the government debt and sovereign insolvency. The course examines the role of government monetary and fiscal policies in the US and around the world.\n\n      less description for BPEP-UB    2 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 8",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19106",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC24",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Wachtel, Paul; Posner, Michael H"
+                }
+            ],
+            "course_name": "BPE Senior Seminar",
+            "description": "BPEP-UB    8 BPE Senior Seminar \nThe seminar focuses on the major economic, business, and political challenges facing the world today. The emphasis in classroom discussions and\nprojects is on exploring the nature of the challenges to prepare students for\ntheir future careers as leaders in business and government. Student seminar papers focus on a current issue of interest to the student as agreed upon\nby the instructor.",
+            "offering": true
+        },
+        {
+            "course_id": "BPEP-UB 9010",
+            "course_name": "World Politics",
+            "description": "BPEP-UB 9010 World Politics",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 9011",
+            "course_name": "International Political Economy",
+            "description": "BPEP-UB 9011 International Political Economy",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 9040",
+            "course_name": "European Integration & The New World",
+            "description": "BPEP-UB 9040 European Integration & The New World",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 9041",
+            "course_name": "Transition & the Changing Face of Europe",
+            "description": "BPEP-UB 9041 Transition & the Changing Face of Europe",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 9042",
+            "course_name": "The Political Economy of East Asia",
+            "description": "BPEP-UB 9042 The Political Economy of East Asia",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 9043",
+            "course_name": "One Country, Two Systems? Hong Kong and the Chinese",
+            "description": "BPEP-UB 9043 One Country, Two Systems? Hong Kong and the Chinese",
+            "offering": false
+        },
+        {
+            "course_id": "BPEP-UB 9044",
+            "course_name": "",
+            "description": "BPEP-UB 9044\n\n   Politics of Latin America\n\nThis class introduces students to the evolution of politics and economic policy in Latin America after WWII, with a focus on the post-debt crisis period. Students will become familiar with key political and economic concepts and theories regarding the evolution of policies in Latin America. During the first half of the class, we will explore key themes in post-debt crisis Latin America, focusing on the theme of \u201cthe rise and frustration of the Latin American middle class.\u201d In the second part of the class, we will utilize those tools and explore these and additional themes through specific coun...\n\n      more description for BPEP-UB 9044 \u00bb\n\n      \n\n\n\nThis class introduces students to the evolution of politics and economic policy in Latin America after WWII, with a focus on the post-debt crisis period. Students will become familiar with key political and economic concepts and theories regarding the evolution of policies in Latin America. During the first half of the class, we will explore key themes in post-debt crisis Latin America, focusing on the theme of \u201cthe rise and frustration of the Latin American middle class.\u201d In the second part of the class, we will utilize those tools and explore these and additional themes through specific country cases).\n\nStudents will choose one main country to follow throughout the class, and will prepare a final paper assessing that country\u2019s main political and economic challenges. Students will become familiar with major economic data sets, which they will use in their research, and will learn the basics of economic writing.\n\n      less description for BPEP-UB 9044 \u00ab",
+            "offering": false
+        }
+    ]
+}
