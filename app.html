@@ -26,10 +26,14 @@
     <!-- custom css
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="app/css/app.css">
+    <script src="../interact.js"></script>
+    <script src="js/dropzones.js"></script>
+    <link rel="stylesheet" href="css/dropzones.css">
 
   </head>
 
   <body>
+	  
 
     <div id="wrapper">
       <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
@@ -71,9 +75,7 @@
                 <div class="panel-heading">
                   <h3 class="panel-title">Recommended Courses</h3>
                 </div>
-                <div class="panel-body" style = "color: black">
-                  Panel content
-                </div>
+                <div id="drop1" class="dropzone js-drop">Dropzone</div>
               </div> <!-- Recommended Courses Panel -->
             </div>
 
@@ -83,12 +85,12 @@
                 <div class="panel-heading">
                   <h3 class="panel-title">Top Courses</h3>
                 </div>
-                <div class="panel-body" style = "color: black">
-                  Panel content
-                </div>
+                <div id="drop1" class="dropzone js-drop">Dropzone</div>
               </div> <!-- Top Courses Panel -->
             </div>
         </div><!-- /.row -->
+        
+
 
         <div class = "row">
           <div class =".col-xs-12 .col-md-8">
@@ -97,7 +99,11 @@
                   <h3 class="panel-title">Course Catalog</h3>
                 </div>
                 <div class="panel-body" style = "color: black">
-                  List of courses
+                  <div id="drag1" class="draggable js-drag">Drag 1</div>
+                  <div id="drag1" class="draggable js-drag">Drag 2</div>
+                  <div id="drag1" class="draggable js-drag">Drag 3</div>
+                  <div id="drag1" class="draggable js-drag">Drag 4</div>
+                  
                 </div>
               </div> <!-- Course Catalog Panel -->
           </div>
