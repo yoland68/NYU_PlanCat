@@ -1,0 +1,64 @@
+/* 
+Custom CSS 
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
+
+
+#title {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  margin: 0 auto;
+  padding-top: 1em;
+}
+
+
+
+/* --------------------------------------------------
+:: Login Section
+-------------------------------------------------- */
+#login {
+    padding-top: 50px;
+    font-family: Verdana;
+
+}
+#login .form-wrap {
+    width: 30%;
+    margin: 0 auto;
+}
+#login h1 {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#login .form-group {
+    margin-bottom: 25px;
+}
+#login {
+    margin-bottom: 20px;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+
+/*    --------------------------------------------------
+  :: Inputs & Buttons
+  -------------------------------------------------- */
+.form-control {
+    color: #212121;
+}
+.btn-custom {
+  color: #fff;
+  background-color: #d11255;
+}
+.btn-custom:hover,
+.btn-custom:focus {
+    color: #fff;
+    background-color: #9F1545;
+}

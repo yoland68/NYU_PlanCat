@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> NYU Courser </title>
+
+    <!-- metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="description" content="Search for courses the right way.">
+    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1">
+
+    <!-- Stylesheets CDN + local
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="app/css/metisMenu.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+   
+    <!-- custom css
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="app/css/app.css">
+    <link rel="stylesheet" href="app/css/dropzones.css">
+    <link rel="stylesheet" href="app/css/dashboard.css">
+
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">NYU PLANCAT</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Settings</a></li>
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Help</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+            SIDEBAR!!
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          
+          <div class="row">
+            <!-- DISPLAY RECOMMENDED + TOP COURSES-->
+            <div class="row">
+                <div class="col-xs-6 .col-md-4">
+                <br>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h3 class="panel-title">Recommended Courses</h3>
+                    </div>
+                    <div id="drop1" class="dropzone js-drop">Drop course here</div>
+                  </div> <!-- Recommended Courses Panel -->
+                </div>
+
+                <div class="col-xs-6 .col-md-4">
+                <br>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h3 class="panel-title">Top Courses</h3>
+                    </div>
+                    <div id="drop1" class="dropzone js-drop">Drop course here</div>
+                  </div> <!-- Top Courses Panel -->
+                </div>
+            </div><!-- /.row -->
+            
+
+
+            <div class = "row">
+              <div class =".col-xs-12 .col-md-8">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h3 class="panel-title">Course Catalog</h3>
+                    </div>
+                    <div class="panel-body" style = "color: black">
+                      <form class="navbar-form navbar-left">
+                        <input type="text" class="form-control" placeholder="Search...">
+                      </form>
+                      <br>
+                      <br>
+                      <br>
+
+                      <div id="drag1" class="draggable js-drag">Drag 1</div>
+                      <div id="drag1" class="draggable js-drag">Drag 2</div>
+                      <div id="drag1" class="draggable js-drag">Drag 3</div>
+                      <div id="drag1" class="draggable js-drag">Drag 4</div>
+                      
+                    </div>
+                  </div> <!-- Course Catalog Panel -->
+              </div> 
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- JS Libs CDN + local
+    –––––––––––––––––––––––––––––––––––––––––––––– -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="app/libs/metisMenu.min.js"></script>
+
+    <!-- JS custom
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <script src="app/js/app.js"></script>
+    <script src="app/js/interact.js"></script>
+    <script src="app/js/dropzones.js"></script>
+  </body>
+</html>
