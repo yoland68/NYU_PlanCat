@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title> NYU Courser </title>
+    <title> PLANCAT </title>
 
     <!-- metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -14,24 +14,15 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="app/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="app/css/jquery-ui.structure.min.css">
+    <link rel="stylesheet" href="app/css/jquery-ui.theme.min.css">
    
     <!-- custom css
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="app/css/app.css">
-    <link rel="stylesheet" href="app/css/dropzones.css">
     <link rel="stylesheet" href="app/css/dashboard.css">
-<style>
-.navbar {
-   height: 90px;
-   min-height: 40px;
-   color: white;
-}
-
-body { padding-top: 80px; }
-  </style>
-
   </head>
-
   <body>
 
     <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: #48A59B;">
@@ -43,18 +34,15 @@ body { padding-top: 80px; }
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><img src="logos/whitelogo.png" height="55"></a>
+          <a id="navbar-brand" href="#"><img src="logos/whitelogo.png" height="50"></a>
         </div>
        
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-	       <BR>
-	       
-            <li><a href="#"><img src="settings.png" width="20">  Settings</a></li>
-            <li><a href="#"><img src="profile.png" width="20">  Profile</a></li>
-            <li><a href="#"><img src="help.png" width="20">  Help</a></li>
-          
-  
+         
+            <li><a href="#" style="color:white"><img src="app/imgs/settings.png" width="20">  Settings</a></li>
+            <li><a href="#" style="color:white"><img src="app/imgs/profile.png" width="20">  Profile</a></li>
+            <li><a href="#" style="color:white"><img src="app/imgs/help.png" width="20">  Help</a></li>
           </ul>
         </div>
       </div>
@@ -64,22 +52,24 @@ body { padding-top: 80px; }
       <div class="row">
         <div class="col-sm-3 col-md-2 sidebar" style = "background-color: #818790">
 
-          <!-- DISPLAY CURRENT COURSES -->
+          <!-- DISPLAY Course Cart courses -->
           <br><br>
-          <div id = "interested-courses" class="panel panel-default">
+          <div id = "course-cart" class="panel panel-default course-placeholder">
             <div class="panel-heading">
               <h3 class="panel-title">Course Cart</h3>
             </div>
-            <div id="drop1" class="dropzone js-drop">Drop course here</div>
-          </div> <!-- CURRENT Courses Panel -->
+            <div class="ui-widget-content">
+              <ul>
+                <li class="placeholder">Add courses here</li>
+              </ul>
+            </div>
+          </div> <!-- Course Cart Panel -->
 
           <br>
           <div id = "current-courses"class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Current Courses</h3>
             </div>
-            <p>Class1:
-	            Class2: </p>
           </div> <!-- CURRENT Courses Panel -->
 
           <br>
@@ -87,8 +77,7 @@ body { padding-top: 80px; }
             <div class="panel-heading">
               <h3 class="panel-title">Current Calendar</h3>
             </div>
-
-          </div> <!-- CURRENT Courses Panel -->
+          </div> <!-- CURRENT Calendar Panel -->
 
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
@@ -98,29 +87,32 @@ body { padding-top: 80px; }
             <div class="row">
                 <div class="col-xs-6 .col-md-4">
                 <br>
-                  <div id = "rec-courses" class="panel panel-default">
+                  <div id = "rec-courses" class="panel panel-default course-placeholder">
                     <div class="panel-heading">
                       <h3 class="panel-title">Recommended Courses</h3>
                     </div>
-                    <div id="drop1" class="dropzone js-drop">Drop course here</div>
+                  <div class="ui-widget-content">
+                    <ul>
+                      <li class="placeholder">Add courses here</li>
+                    </ul>
+                  </div>
                   </div> <!-- Recommended Courses Panel -->
                 </div>
 
                 <div class="col-xs-6 .col-md-4">
-                <br>
-                  <div id = "top-courses" class="panel panel-default">
+                  <br>
+                  <div id = "top-courses" class="panel panel-default course-placeholder">
                     <div class="panel-heading">
                       <h3 class="panel-title">Top Courses</h3>
                     </div>
-                    <div id="drop1" class="dropzone js-drop">
-	                    <p>Drop Course Here</p> 
-</div>
-
+                    <div class="ui-widget-content">
+                      <ul>
+                        <li class="placeholder">Add courses here</li>
+                      </ul>
+                    </div>
                   </div> <!-- Top Courses Panel -->
                 </div>
             </div><!-- /.row -->
-            
-
 
             <div class = "row">
               <div class =".col-xs-12 .col-md-8">
@@ -135,18 +127,30 @@ body { padding-top: 80px; }
                       <br>
                       <br>
                       <br>
-
-                      <div id="drag1" class="draggable js-drag">Course 1</div>
-                      <div id="drag1" class="draggable js-drag">Course 2</div>
-                      <div id="drag1" class="draggable js-drag">Course 3</div>
-                      <div id="drag1" class="draggable js-drag">Course 4</div>
-                      
+                      <div id="products">
+                        <div id="catalog">
+                          <h2><a href="#">T-Shirts</a></h2>
+                          <div>
+                            <ul>
+                              <li>Lolcat Shirt</li>
+                              <li>Cheezeburger Shirt</li>
+                              <li>Buckit Shirt</li>
+                            </ul>
+                          </div>
+                          <h2><a href="#">Bags</a></h2>
+                          <div>
+                            <ul>
+                              <li>Zebra Striped</li>
+                              <li>Black Leather</li>
+                              <li>Alligator Leather</li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div> <!-- Course Catalog Panel -->
               </div> 
             </div>
-
-
           </div>
         </div>
       </div>
@@ -156,11 +160,10 @@ body { padding-top: 80px; }
     –––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-g on
+    <script type="text/javascript" src = "app/js/jquery-ui.js"></script>
+    
     <!-- JS custom
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="app/js/app.js"></script>
-    <script src="app/js/interact.js"></script>
-    <script src="app/js/dropzones.js"></script>
   </body>
 </html>

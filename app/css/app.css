@@ -5,9 +5,6 @@ Custom CSS
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
 
 
-
-
-
 #title {
   font-family: 'Verdana', sans-serif;
   text-align: center;
@@ -19,9 +16,9 @@ Custom CSS
 }
 
 #back {
-margin-top: 50px;
-width:450px;
-height: 575px;
+  margin-top: 50px;
+  width:450px;
+  height: 575px;
   background-color: white;
   color: #ffffff;
   text-align: center;
@@ -40,8 +37,17 @@ text-align: center;
 
 h1 {
 	font-size: 18px;
-    color: #312E3F;
+  color: #312E3F;
 }
+
+
+/* --------------------------------------------------
+:: Navbar Section
+-------------------------------------------------- */
+#navbar-brand {
+  position: fixed;
+}
+
 
 
 /* --------------------------------------------------
@@ -73,27 +79,4 @@ h1 {
     -ms-user-select: none;
     -o-user-select: none;
     user-select: none;
-}
-
-
-/*    --------------------------------------------------
-  :: Inputs & Buttons
-  -------------------------------------------------- */
-.form-control {
-    color: #212121;
-}
-.btn-custom {
-  color: #fff;
-  background-color: #E56C6C;
-  
-}
-
-.btn-custom:hover,
-.btn-custom:focus {
-    color: #fff;
-    background-color: #BF5656;
-}
-
-.navbar {
-	color: #fff;
 }
