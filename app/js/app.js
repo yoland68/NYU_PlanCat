@@ -18,13 +18,22 @@ app.js
 */
 $(document).ready(function(){
 
-	getClassList();
+	function getMajorData(){
 
-});
+	var 
+
+	var $majorDataJSON = $.parseJSON('../../hardcore_scraper/json/Economics_(ECON-UA).json');
+
+	console.log($majorDataJSON);
+
+	var major = $majorDataJSON["major_id"];
+
+	// Array of course objects
+	var courses = $majorDataJSON["courses"];
 
 
-function getClassList(){
-	$classList = $.parseJSON('../../hardcore_scraper/json/Economics_(ECON-UA).json');
+
+
 }
 
 
@@ -66,6 +75,17 @@ function displayRecommendedCourses(){
 
 function displayCourseCatalog(){
 
+		getMajorData();
+
+
     var $courseCat = $("#course-catalog");
 
 }
+
+
+
+
+});
+
+
+
