@@ -56,6 +56,19 @@ li.current
 	  margin-bottom: 15px;    
 }
 
+li.placeholder
+{
+	  list-style-type: none;
+	  font-size: 18px;
+	  padding: 5px;
+	  border:0px;
+	  color: #000;
+	  background: none;
+	  width: 200px;
+	  margin-top: 15px;
+	  margin-bottom: 15px;    
+}
+
 #title {
   font-family: 'Verdana', sans-serif;
   text-align: center;
