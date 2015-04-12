@@ -3,6 +3,11 @@ Custom CSS
 */
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
+
+html{
+	text-align: center;
+}
+
 .panel {
     border: 0;
 }
@@ -14,7 +19,7 @@ Custom CSS
 ul
 {
     list-style-type: none;
-    margin-botton: 20px;
+    margin-bottom: 20px;
 }
 
 li
@@ -27,7 +32,9 @@ li
 	  background: #353535;
 	  width: 200px;
 	  margin-top: 15px;
-	  margin-bottom: 15px;    
+	  margin-bottom: 15px; 
+	  border-radius: 10px; 
+   
 }
 
 li.nav
@@ -53,7 +60,7 @@ li.current
 	  background: #48A59B;
 	  width: 200px;
 	  margin-top: 15px;
-	  margin-bottom: 15px;    
+	  margin-bottom: 15px;   
 }
 
 li.placeholder
@@ -66,12 +73,12 @@ li.placeholder
 	  background: none;
 	  width: 200px;
 	  margin-top: 15px;
-	  margin-bottom: 15px;    
+	  margin-bottom: 15px; 
+
 }
 
 #title {
   font-family: 'Verdana', sans-serif;
-  text-align: center;
   font-weight: bold;
   margin: 0 auto;
 
@@ -85,17 +92,14 @@ li.placeholder
   height: 575px;
   background-color: white;
   color: #ffffff;
-  text-align: center;
 }
 
 #content {
 	width: 400px;
-  text-align: center;
 }
 
 #content2 {
 width: 400px;
-text-align: center;
 	
 }
 
@@ -117,7 +121,6 @@ h1 {
 :: Panel Section
 -------------------------------------------------- */
 .panel-heading {
-  text-align: center;
   font-weight: bold;
 }
 
@@ -155,7 +158,6 @@ h1 {
 #login h1 {
     color: #312E3F;
     font-size: 18px;
-    text-align: center;
     padding-bottom: 20px;
 }
 #login .form-group {
