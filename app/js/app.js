@@ -18,9 +18,14 @@ app.js
 */
 $(document).ready(function(){
 
-
+	getClassList();
 
 });
+
+
+function getClassList(){
+	$classList = $.parseJSON('../../hardcore_scraper/json/Economics_(ECON-UA).json');
+}
 
 
 
