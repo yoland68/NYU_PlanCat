@@ -33,6 +33,11 @@ function makeDroppable() {
       appendTo: "body",
       helper: "clone"
     });
+    
+    $( ".course-draggable li" ).draggable({
+      appendTo: "body",
+      helper: "clone"
+    });
 
     $( ".course-placeholder ul" ).droppable({
       activeClass: "ui-state-default",
