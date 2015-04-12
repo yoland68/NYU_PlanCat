@@ -63,10 +63,10 @@ h1 {
     padding-bottom: 20px;
 }
 #login .form-group {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 #login {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     position: relative;
     -webkit-user-select: none;
     -moz-user-select: none;
