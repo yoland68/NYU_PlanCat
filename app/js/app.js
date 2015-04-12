@@ -23,13 +23,13 @@ $(document).ready(function(){
 });
 
 
-}
-
 
 /**
 * Displays the Interested Courses List on the left
 */
 function displayInterestedCourses(){
+    var $interestedCourses = $("#interested-courses");
+
 
 }
 
@@ -37,6 +37,8 @@ function displayInterestedCourses(){
 * Displays the Interested Courses List on the left
 */
 function displayCurrentCourses(){
+    var $currentCourses = $("#current-courses");
+   
 
 }
 
@@ -44,6 +46,7 @@ function displayCurrentCourses(){
 * Displays the Top Courses List on top of the course catalog.
 */
 function displayTopCourses(){
+    var $topCourses = $("#top-courses");
 
 }
 
@@ -51,10 +54,13 @@ function displayTopCourses(){
 * Displays the Recommended Courses List on top of the course catalog.
 */
 function displayRecommendedCourses(){
+    var $recCourses = $("#rec-courses");
 
 }
 
 
 function displayCourseCatalog(){
+
+    var $courseCat = $("#course-catalog");
 
 }

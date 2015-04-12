@@ -5,8 +5,12 @@ Custom CSS
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
 
 
+a {
+    color: white;
+}
+
 #title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Verdana', sans-serif;
   text-align: center;
   font-weight: bold;
   margin: 0 auto;
