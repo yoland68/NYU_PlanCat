@@ -1,0 +1,1140 @@
+{
+    "major_id": "DESL1-GC",
+    "file": "./2015-2016/American_Language_Institute_(DESL1-GC).html",
+    "courses": [
+        {
+            "course_id": "DESL1-GC 8471",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2824",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "English for International Scholars:  Accent I",
+            "description": "DESL1-GC 8471 English for International Scholars:  Accent I",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 8475",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2825",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "English for International Scholars:  Oral Workshop I",
+            "description": "DESL1-GC 8475 English for International Scholars:  Oral Workshop I",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 8481",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2826",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "English for International Scholars:  Accent II",
+            "description": "DESL1-GC 8481 English for International Scholars:  Accent II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 8485",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2827",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "English for International Scholars:  Oral Workshop II",
+            "description": "DESL1-GC 8485 English for International Scholars:  Oral Workshop II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9011",
+            "course_name": "ESL Foundations I",
+            "description": "DESL1-GC 9011 ESL Foundations I",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9012",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3025",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Foundations II",
+            "description": "DESL1-GC 9012 ESL Foundations II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9013",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2881",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Reading and Writing 3",
+            "description": "DESL1-GC 9013 ESL Reading and Writing 3 \nThis intermediate reading and writing course is designed for students who have completed ESL Reading and Writing II.",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9014",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2828",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3255",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3259",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Yepez, Mary",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3261",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Reading and Writing 4",
+            "description": "DESL1-GC 9014 ESL Reading and Writing 4 \nThis intermediate reading and writing course is designed for students who have completed ESL Reading and Writing III.",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9015",
+            "course_name": "ESL Reading and Writing 5",
+            "description": "DESL1-GC 9015 ESL Reading and Writing 5 \nThis intermediate reading and writing course is designed for students who have completed ESL Reading and Writing IV.",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9016",
+            "course_name": "ESL Reading and Writing 6",
+            "description": "DESL1-GC 9016 ESL Reading and Writing 6 \nThis intermediate ESL reading and writing course is designed for students who have completed ESL Reading and Writing V",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9021",
+            "course_name": "ESL Essentials I",
+            "description": "DESL1-GC 9021 ESL Essentials I",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9022",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3024",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Essentials II",
+            "description": "DESL1-GC 9022 ESL Essentials II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9023",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2882",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Listening and Speaking 3",
+            "description": "DESL1-GC 9023 ESL Listening and Speaking 3 \nThis intermediate listening and speaking course is designed for students who have completed ESL Listening and Speaking II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9024",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2829",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3256",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3260",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3262",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Listening and Speaking 4",
+            "description": "DESL1-GC 9024 ESL Listening and Speaking 4 \nThis intermediate listening and speaking course is designed for students who have completed ESL Listening and Speaking III.",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9025",
+            "course_name": "ESL Listening and Speaking 5",
+            "description": "DESL1-GC 9025 ESL Listening and Speaking 5 \nThis intermediate listening and speaking course is designed for students who have completed ESL Listening and Speaking IV",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9026",
+            "course_name": "ESL Listening and Speaking 6",
+            "description": "DESL1-GC 9026 ESL Listening and Speaking 6 \nThis intermediate listening and speaking course is designed for students who have completed ESL Listening and Speaking V.",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9031",
+            "course_name": "Applied Skills I",
+            "description": "DESL1-GC 9031 Applied Skills I",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9032",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3023",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Applied Skills II",
+            "description": "DESL1-GC 9032 Applied Skills II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9033",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2883",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Skill 3",
+            "description": "DESL1-GC 9033 ESL Skill 3",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9034",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2830",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Skills 4",
+            "description": "DESL1-GC 9034 ESL Skills 4 \nThis intermediate reading, writing, listening, and speaking course is designed for students who have completed ESL Skills III",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9035",
+            "course_name": "ESL Skills 5",
+            "description": "DESL1-GC 9035 ESL Skills 5 \nThis intermediate reading, writing, listening, and speaking course is designed for students who have completed ESL Skills IV.",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9036",
+            "course_name": "ESL Skills 6",
+            "description": "DESL1-GC 9036 ESL Skills 6 \nThis intermediate reading, writing, listening, and speaking course is designed for students who have completed ESL Skills V",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9041",
+            "course_name": "Expanded Skills I",
+            "description": "DESL1-GC 9041 Expanded Skills I",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9042",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3022",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Expanded Skills II",
+            "description": "DESL1-GC 9042 Expanded Skills II",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9043",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2884",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Topics 3",
+            "description": "DESL1-GC 9043 ESL Topics 3 \nThis intermediate course expands upon the topics and themes covered in ESL Topics II.",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9044",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2832",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Topics 4",
+            "description": "DESL1-GC 9044 ESL Topics 4 \nThis intermediate course expands upon the topics and themes covered in ESL Topics III",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9045",
+            "course_name": "ESL Topics 5",
+            "description": "DESL1-GC 9045 ESL Topics 5 \nThis intermediate course expands upon the topics and themes covered in ESL Topics IV.",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9046",
+            "course_name": "ESL Topics 6",
+            "description": "DESL1-GC 9046 ESL Topics 6 \nThis intermediate course expands upon the topics and themes covered in ESL Topics V",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9150",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2988",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2989",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2990",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2991",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2992",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2993",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "DESL1-GC 9150\n\n   ESL for Academic Purposes Level 5\n\nThis course is designed for high-intermediate students who are matriculated in, or have been conditionally accepted into, an NYU degree program.  It provides students with the language skills they need to begin to function in an academic setting.  The focus is on increasing language production while encouraging students to be more proficient writers, readers, and speakers of the language by reviewing and strengthening their English skills.  Students read and write extensively in order to learn reading strategies, increase vocabulary, develop ideas in writing, and edit their writing for grammat...\n\n      more description for DESL1-GC 9150 \u00bb\n\n      \n\n\n\nThis course is designed for high-intermediate students who are matriculated in, or have been conditionally accepted into, an NYU degree program.  It provides students with the language skills they need to begin to function in an academic setting.  The focus is on increasing language production while encouraging students to be more proficient writers, readers, and speakers of the language by reviewing and strengthening their English skills.  Students read and write extensively in order to learn reading strategies, increase vocabulary, develop ideas in writing, and edit their writing for grammatical accuracy.  Oral skills training focuses on clarity and confidence in classroom settings, from instructor and peer interactions to formal presentations.\n\n      less description for DESL1-GC 9150 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9156",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2994",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2995",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2996",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3026",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3030",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3031",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Skills for Academic Purposes 5/6",
+            "description": "DESL1-GC 9156 ESL Skills for Academic Purposes 5/6 \nThis mixed-level workshop course is designed to complement DESL1-UC/GC9150 and DESL1-UC/GC9160 in order to provide a full-time program of language study for students who are matriculated in, or have been conditionally accepted into, an NYU degree program.  This course provides additional hands-on practice with the language structures and skills students need to succeed in NYU classrooms.",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9160",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2997",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2998",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2999",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3000",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3001",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3002",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "DESL1-GC 9160\n\n   ESL for Academic Purposes 6\n\nThis course is designed for high-intermediate level students who are matriculated in, or have been conditionally-accepted into, an NYU degree program.  It provides students with the language skills they need to begin to function more comfortably in an academic setting.  They learn to think more creatively and critically, to organize information, and to develop ideas with appropriate support in their writing.  Students identify and correct their own grammar mistakes in order to write more accurate academic prose.  They refine their oral skills through peer interactions and extensive instructor ...\n\n      more description for DESL1-GC 9160 \u00bb\n\n      \n\n\n\nThis course is designed for high-intermediate level students who are matriculated in, or have been conditionally-accepted into, an NYU degree program.  It provides students with the language skills they need to begin to function more comfortably in an academic setting.  They learn to think more creatively and critically, to organize information, and to develop ideas with appropriate support in their writing.  Students identify and correct their own grammar mistakes in order to write more accurate academic prose.  They refine their oral skills through peer interactions and extensive instructor feedback on performance in formal discussions and presentations requiring increasing elaboration and structuring of topics.\n\n      less description for DESL1-GC 9160 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9166",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3003",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3004",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3005",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3027",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3032",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3033",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "ESL Topics for Academic Purposes 5/6",
+            "description": "DESL1-GC 9166 ESL Topics for Academic Purposes 5/6 \nThis mixed-level workshop is designed to complement DESL1-UC/GC9150 and DESL1-UC/GC9160.  It provides a full-time program of language study for students who are matriculated in, or have been conditionally-accepted into, an NYU degree program.  Explore important themes common to major academic disciplines in the United States and gain an understanding of the academic expectations of U.S. university classrooms.",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9174",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2831",
+                    "section": "001",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2833",
+                    "section": "002",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2865",
+                    "section": "003",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2866",
+                    "section": "004",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2868",
+                    "section": "006",
+                    "period": "10/15/2015 - 12/10/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3257",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/23/2015 ",
+                    "location": "Tarpey, Tara",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading and Writing Workshop I",
+            "description": "DESL1-GC 9174 Reading and Writing Workshop I \nIn this reading and writing course, non-native speakers of English learn the fundamentals necessary to write academic essays at the college level",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9175",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2834",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2835",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2885",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3028",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Speech Communication Workshop I",
+            "description": "DESL1-GC 9175 Speech Communication Workshop I \nIn this listening and speaking course, non-native speakers of English learn the fundamentals of formal discussion, presentations, and public speaking that are used in higher education and other environments",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9184",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2836",
+                    "section": "001",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2837",
+                    "section": "002",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2983",
+                    "section": "003",
+                    "period": "10/15/2015 - 12/03/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3258",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/23/2015 ",
+                    "location": "Tarpey, Tara",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Writing Workshop II",
+            "description": "DESL1-GC 9184 Reading & Writing Workshop II \nIn this advanced reading and writing course, non-native users of English improve their English skills and become more comfortable in situations in which academic and professional writing are required",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9185",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2838",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2839",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Speech Communication Workshop II",
+            "description": "DESL1-GC 9185 Speech Communication Workshop II \nIn this advanced listening and speaking course, non-native speakers of English prepare to function comfortably in university classes and other environments in which educated English is spoken",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9450",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2840",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fundamentals of American English I",
+            "description": "DESL1-GC 9450 Fundamentals of American English I \nThis course is for students who may be comfortable speaking English but who need to master the basics of grammar and usage in order to become more accurate and, in turn, more confident in both professional and personal settings. Class activities include grammar drills, vocabulary development, and discussions of current affairs. Students receive intensive individual feedback and correction with homework serving as reinforcement for those areas most needing attention",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9460",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2841",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fundamentals of American English II",
+            "description": "DESL1-GC 9460 Fundamentals of American English II \nThis course is for students who may be comfortable writing and speaking English but who want to master more advanced rules of grammar and usage. Students expand their vocabulary to develop a broad general competence in the language. They learn strategies to increase the accuracy, range, and complexity of their oral and written communication by exploring how the language is used in various contexts and by eliminating individual areas of weakness",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9471",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2842",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Accent Correction I",
+            "description": "DESL1-GC 9471 Accent Correction I \nDesigned for students with heavy accents, this course identifies individual pronunciation trouble spots and devises strategies for achieving more natural-sounding articulation and flow. Class activities include enunciation drills, dialogues, discussion,",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9473",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2843",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Grammar Review I",
+            "description": "DESL1-GC 9473 Grammar Review I \n\" This course is for students who may be comfortable speaking and writing \nEnglish but who do not yet have a command of grammar and usage. Students work on \nmastering grammar fundamentals to avoid misunderstandings and ultimately make \nheadway in achieving their academic and professional goals. In addition to \ndrills for reinforcement, the class focuses on grammar in context, with students \nreceiving individualized correction on weekly written assignments\"",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9478",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2844",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Speaking Clearly and Correctly I",
+            "description": "DESL1-GC 9478 Speaking Clearly and Correctly I \nThis class is designed for students who are uncomfortable speaking English in both professional and casual settings. The course helps students speak more fluently and accurately, develop their listening skills and comprehension, and improve their self-confidence. Activities include discussions, presentations, and role-plays. Students work on volume, pacing of speech, correct grammar and word choices, as well as posture and body language, all while receiving intensive individualized attention",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9481",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2845",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Accent Correction II",
+            "description": "DESL1-GC 9481 Accent Correction II \nDesigned for students with medium accents, this course examines special techniques for articulating syllables, words, and sentences more clearly and accurately. Students work on appropriate voice projection, intonation, proper sentence rhythm,",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9483",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2846",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Grammar Review II",
+            "description": "DESL1-GC 9483 Grammar Review II \n\" This course is for students who already have a good command of the language but \nare not yet accurate in their use of English. Through spoken and written \npractice of advanced complex structures and usage, students learn to minimize \nerrors and increase accuracy. In-class activities include error analysis and \nexercise drills to deepen students\u2019 understanding of the language and to help \nthem gain greater competence and confidence when communicating\"",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9484",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2847",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Writing and Editing Seminar I",
+            "description": "DESL1-GC 9484 Writing and Editing Seminar I \nDesigned for students already proficient in English, this reading and writing course focuses on learning to write comfortably in both professional and casual settings. Students develop their accuracy, style, vocabulary, and improve their self-confidence while expressing themselves in writing",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9488",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2848",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Speaking Clearly and Correctly II",
+            "description": "DESL1-GC 9488 Speaking Clearly and Correctly II \nThis class is for advanced level students who still feel uncomfortable speaking English. Students work on language conventions to ensure greater accuracy and competence when speaking in both professional and casual settings. Through discussions, presentations, and group work, intensive individualized attention is paid to each student's language habits and patterns. Students gain greater confidence in making correct vocabulary, idiom, and grammar choices",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9491",
+            "course_name": "Accent Correction III",
+            "description": "DESL1-GC 9491 Accent Correction III \nDesigned for students with light accents, this course targets individual areas of pronunciation that continue to cause communication difficulties. In addition to accent, the class focuses on discussion skills, tone of voice, and functional expressions used in everyday situations. Class activities include listening practice, reading aloud, short speeches, and discussions. With intensive individualized attention, learn to correct your pronunciation, communication more effectively, and increase your confidence",
+            "offering": false
+        },
+        {
+            "course_id": "DESL1-GC 9494",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2849",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Writing and Editing Seminar II",
+            "description": "DESL1-GC 9494 Writing and Editing Seminar II \nThis course is for international students proficient in English who need to concentrate on writing and reading for personal or professional reasons. Students learn techniques to strengthen their own writing by reading the best writers. They write weekly essays with emphasis on organization, audience, word choice, and sentence structure, as well as grammar and style. With increased confidence, students learn to examine their own writing with a critical eye and a finer sense of what makes writing effective",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9495",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2850",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Speaking with Confidence and Fluency",
+            "description": "DESL1-GC 9495 Speaking with Confidence and Fluency \nThis class prepares fluent speakers to function more comfortably in situations in which educated English is expected. Students learn how to polish their delivery skills and diction and improve their use of English structures while addressing intonation, volume, and body language. They explore confidence-building techniques as they plan formal and informal presentations, take part in discussions, and expand their knowledge of vocabulary and idioms, all while receiving intensive, individualized error correction",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9610",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2851",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Specialized Private Instruction I",
+            "description": "DESL1-GC 9610 Specialized Private Instruction I \nThe content of this course is tailored to meet the individual language needs of each student",
+            "offering": true
+        },
+        {
+            "course_id": "DESL1-GC 9615",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2852",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2853",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Specialized Private Instruction II",
+            "description": "DESL1-GC 9615 Specialized Private Instruction II \nThe content of this course is tailored to meet the individual language needs of each student",
+            "offering": true
+        }
+    ]
+}

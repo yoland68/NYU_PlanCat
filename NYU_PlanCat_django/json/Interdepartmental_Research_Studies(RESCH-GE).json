@@ -1,0 +1,258 @@
+{
+    "major_id": "RESCH-GE",
+    "file": "./2015-2016/Interdepartmental_Research_Studies(RESCH-GE).html",
+    "courses": [
+        {
+            "course_id": "RESCH-GE 2071",
+            "course_name": "Contemporary Problems: Interdisicp Analysis I",
+            "description": "RESCH-GE 2071 Contemporary Problems: Interdisicp Analysis I",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2072",
+            "course_name": "Contemporary Problems: Interdisicp Analysis II",
+            "description": "RESCH-GE 2072 Contemporary Problems: Interdisicp Analysis II",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2093",
+            "course_name": "Nonparametric Statistics",
+            "description": "RESCH-GE 2093 Nonparametric Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2132",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3283",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 431",
+                    "time": "Thu 2.00 PM - 3.40 PM",
+                    "open": true,
+                    "professor": "Voulgarides, Catherine"
+                }
+            ],
+            "course_name": "Princ of Empir Research",
+            "description": "RESCH-GE 2132 Princ of Empir Research \nPrinciples of social and behavioral research.  Emphasis on types of problems, research procedures, instrumentation, and data analysis utilized in correlational experimental and survey research.  Introduction to use of SPSS computer package for treatment of data and development of research reports.",
+            "offering": true
+        },
+        {
+            "course_id": "RESCH-GE 2135",
+            "course_name": "Historical Research",
+            "description": "RESCH-GE 2135 Historical Research \nIdentification and analysis of historical problems.  Exploration of concepts, language and techniques of historical research. In order to comprehend fully the development of a historical interpretation, each student should enter this course with a clear research problem and in command of the literature related to it.  For students with limited experience in historical methodology, E55.2000, Historical Writing, is highly recommended as a prerequisite.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2136",
+            "course_name": "Philosophical Inquiry",
+            "description": "RESCH-GE 2136 Philosophical Inquiry \nModels of inquiry used in interpreting and analyzing the literature of a field and in presenting new viewpoints, arguments, and research. Logical, historical and sociological dimensions of interpretation of relevant topics and problems.  Development of skills in the logical analysis of arguments and explanations.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2137",
+            "course_name": "Aesthetic Inquiry",
+            "description": "RESCH-GE 2137 Aesthetic Inquiry \nProblems in defining, explaining, and evaluating art.  Research techniques of philosophical  and experimental aesthetics.  The logic of justifying  judgments and measuring preferences.  Modes of aesthetic inquiry as educational models.  Educational aesthetics as a field of inquiry.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2138",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4462",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 220",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Norman, Elizabeth"
+                }
+            ],
+            "course_name": "Wrtg Emp Rsch:in Ed Behv Hlth Hum/Soc SCI Profess",
+            "description": "RESCH-GE 2138 Wrtg Emp Rsch:in Ed Behv Hlth Hum/Soc SCI Profess \nThis course will help students strengthen the writing competencies they need to produce quantitative and qualitative method dissertations that will convey research findings in a  clear, objective style. Course content will position students to begin contributing writings in their scholarly communities. Sequences assignments will address various writing forms and allow students feedback on their work.",
+            "offering": true
+        },
+        {
+            "course_id": "RESCH-GE 2139",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4129",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 668",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Harel, Daphna"
+                }
+            ],
+            "course_name": "Survey Research Methods",
+            "description": "RESCH-GE 2139 Survey Research Methods \nThe survey is the leading mechanism for collecting information on a wide array of topics in our data-driven world. This course is designed to introduce students to the fundamental aspects of the survey and ways for evaluating this form of data collection. Principle topics include: survey design; coverage, sampling, and non-response; modes of data collection; questionnaire construction and evaluation. Throughout this course, students will be given opportunities to engage in actual survey research activities.",
+            "offering": true
+        },
+        {
+            "course_id": "RESCH-GE 2140",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3284",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMB 505W",
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Norman, Elizabeth"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3285",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 570",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Larson, Colleen"
+                }
+            ],
+            "course_name": "Approaches/Qualitative Inquiry",
+            "description": "RESCH-GE 2140 Approaches/Qualitative Inquiry \nThe purposes of this inquiry course are to: (a) examine the nature, purposes, theories & methods of qualitative research; (b) introduce several approaches to inquiry, including: ethnography, case study, phenomenology, grounding theory, & narrative inquiry to name a few; (c) practice the art of interviewing, observing, & making meaning of social settings; (d) explore a variety of methods for analyzing qualitative data such as thematic analysis, narrative analysis, & discourse analysis to name a few, &; (e) learn how to assess the quality & trustworthiness of interpretive research.",
+            "offering": true
+        },
+        {
+            "course_id": "RESCH-GE 2141",
+            "course_name": "Case Study/Ethnographicc Inquiry",
+            "description": "RESCH-GE 2141 Case Study/Ethnographicc Inquiry \nConceptual and methodological activities build on and extend those begun during the previous semester in E10.2140.  Strengthening fieldwork skills.  Second half of the fieldwork project to be completed with an emphasis placed on emergent, complex data analyses.  Various ways of writing up results for presentation in dissertations and other publishable forms are examined.  Guidelines for qualitative, field-based dissertation proposals are reviewed.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2142",
+            "course_name": "Interview & Observation",
+            "description": "RESCH-GE 2142 Interview & Observation \nA practicum in semi-structured interviewing and participant observation -- primary modes of qualitative data generation in the social sciences. Students learn these techniques by using them to gather novel empirical data. The course provides instruction on note-taking, data organization, preliminary analysis, and the ethics and politics of research with human subjects.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2143",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3286",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "SILV 510"
+                }
+            ],
+            "course_name": "Participatory Action Research",
+            "description": "RESCH-GE 2143 Participatory Action Research \nIntroduction to various approaches to Action Research with an emphasis on approaches that encourage the participation of stakeholders. The course will cover action research traditions, issues of positionality, methodology, validity, and ethics. Students will engage in various field exercises to practice data gathering skills.",
+            "offering": true
+        },
+        {
+            "course_id": "RESCH-GE 2147",
+            "course_name": "Fieldwork Data Collection",
+            "description": "RESCH-GE 2147 Fieldwork Data Collection \nThis course focuses on data collection. This includes a focus on gaining access to a field site, selecting a case, matching a research question with a methodology, and the nuts and bolts of taking and writing field notes. The course is designed primarily for doctoral students who would like training in this method for their dissertation work.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2148",
+            "course_name": "Fldwrk: Data Analysis",
+            "description": "RESCH-GE 2148 Fldwrk: Data Analysis \nThis graduate-level seminar is primarily intended for doctoral students and reviews the fundamentals of data analysis for qualitative and ethnographic fieldwork projects, specifically focused on the analysis of ethnographic and observational data and the integration of coded data into write-ups in articles, reports, and dissertation/book chapters. Students enrolling in this course must have original data that they have collected during Fieldwork: Data Collection (or, by prior approval of the instructor, for other projects such as dissertations).",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2155",
+            "course_name": "Economic Analysis for Education Policy",
+            "description": "RESCH-GE 2155 Economic Analysis for Education Policy \nThe analysis of policy issues in education using the tools of microeconomics. Particular attention will be paid to the empirical methods social scientists use to rigorously test the effects of education policies and to make predictions about the impact of future policy changes. Sample topics for discussion include: social resources and their impact on students' test scores and other life outcomes; the operation of teacher labor markets; school finance; the impact of major finance reforms on student outcomes and school behaviors.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3288",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3289",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3290",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Stulberg, Lisa",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3291",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Corcoran, Sean",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3292",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3293",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "RESCH-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "RESCH-GE 2332",
+            "course_name": "Intro to Quant Meth",
+            "description": "RESCH-GE 2332 Intro to Quant Meth \nThis course provides a basic practical introduction to quantitative sociological methodology. Students will gain an appreciation for the logic and techniques of statistical data analysis. While the course will cover the purpose, goals, and mathematical assumptions behind techniques of statistical analysis, the emphasis will be on actually analyzing date and interpreting results.",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 2902",
+            "course_name": "Financing Schools",
+            "description": "RESCH-GE 2902 Financing Schools",
+            "offering": false
+        },
+        {
+            "course_id": "RESCH-GE 3001",
+            "course_name": "Dissertation Proposal Seminar",
+            "description": "RESCH-GE 3001 Dissertation Proposal Seminar \nCourse focuses on the development of the doctoral dissertation proposal.  Emphasis is placed on understanding & defining the logical relations between elements in a proposal including the problem statement, conceptual/theoretical framework, literature review, research design & methodology.  Teaching-learning strategies are design to promote critical/analytical thinking & scholarly discourse.",
+            "offering": false
+        }
+    ]
+}

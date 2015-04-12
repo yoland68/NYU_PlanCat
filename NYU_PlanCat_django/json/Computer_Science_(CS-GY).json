@@ -1,0 +1,1027 @@
+{
+    "major_id": "CS-GY",
+    "file": "./2015-2016/Computer_Science_(CS-GY).html",
+    "courses": [
+        {
+            "course_id": "CS-GY 337",
+            "course_name": "| CS-GY  580 COMPUTER ARCHITECT ORGAN",
+            "description": "CS-GY  337 | CS-GY  580 COMPUTER ARCHITECT ORGAN",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 530",
+            "course_name": "| CS-UY  200 Intro to Computer Science",
+            "description": "CS-GY  530 | CS-UY  200 Intro to Computer Science",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 531",
+            "course_name": "INTRO DIGITAL COMPUTING",
+            "description": "CS-GY  531 INTRO DIGITAL COMPUTING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 531",
+            "course_name": "| IE-GY  601 INTRO TO DGTL COMPUTERS",
+            "description": "CS-GY  531 | IE-GY  601 INTRO TO DGTL COMPUTERS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 532",
+            "course_name": "| MG-GY  636 COBOL PROGRAMMING",
+            "description": "CS-GY  532 | MG-GY  636 COBOL PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 532",
+            "course_name": "| MG-GY  636 COBOL PROGRAMMING",
+            "description": "CS-GY  532 | MG-GY  636 COBOL PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 540",
+            "course_name": "| CS-UY  201 DATA STRUCT & ALGORITHM",
+            "description": "CS-GY  540 | CS-UY  201 DATA STRUCT & ALGORITHM",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 543",
+            "course_name": "C,UNIX & SOFWRE DVELMENT",
+            "description": "CS-GY  543 C,UNIX & SOFWRE DVELMENT",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 545",
+            "course_name": "C,UNIX & SOFTWRE DVLPMEN",
+            "description": "CS-GY  545 C,UNIX & SOFTWRE DVLPMEN",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 550",
+            "course_name": "ASMBLY LANG & SYST PROG",
+            "description": "CS-GY  550 ASMBLY LANG & SYST PROG",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 554",
+            "course_name": "ELEMENTS OF DATA STRUCTURE",
+            "description": "CS-GY  554 ELEMENTS OF DATA STRUCTURE",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 560",
+            "course_name": "SWTCH THRY & LOGIC DSGN",
+            "description": "CS-GY  560 SWTCH THRY & LOGIC DSGN",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 570",
+            "course_name": "FUNDAMENTALS OF SC",
+            "description": "CS-GY  570 FUNDAMENTALS OF SC",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 580",
+            "course_name": "| CS-UY  337 | CS-UY  580 COMPUTER ARCH & ORG",
+            "description": "CS-GY  580 | CS-UY  337 | CS-UY  580 COMPUTER ARCH & ORG",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 337",
+            "course_name": "| CS-GY  580 COMPUTER ARCHITECT ORGAN",
+            "description": "CS-GY  337 | CS-GY  580 COMPUTER ARCHITECT ORGAN",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 601",
+            "course_name": "INTRO TO DIG COMPUTING",
+            "description": "CS-GY  601 INTRO TO DIG COMPUTING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 606",
+            "course_name": "Software Egineering",
+            "description": "CS-GY  606 Software Egineering",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 608",
+            "classes": [
+                {}
+            ],
+            "course_name": "| CS-UY 3083 Introduction to Databases",
+            "description": "CS-GY  608 | CS-UY 3083 Introduction to Databases \nThis course introduces database systems and their approach as a mechanism to model the real world. The course covers data models (relational, object-oriented), physical database design, query languages, query processing and optimization, as well as transaction management techniques. Implementation issues, object oriented and distributed databases also are introduced. | Prerequisites: CS 2134 (C- or better)",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 610",
+            "course_name": "INFO ANALY SYSTM DSIGN 2",
+            "description": "CS-GY  610 INFO ANALY SYSTM DSIGN 2",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 616",
+            "course_name": "MICROPROCESSORS",
+            "description": "CS-GY  616 MICROPROCESSORS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 618",
+            "course_name": "FAULT-TOLERANT COMPUTERS",
+            "description": "CS-GY  618 FAULT-TOLERANT COMPUTERS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 630",
+            "course_name": "INPUT & OUTPUT SYSTEMS",
+            "description": "CS-GY  630 INPUT & OUTPUT SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 633",
+            "course_name": "INFO RTRVL/LANG PROCSNG",
+            "description": "CS-GY  633 INFO RTRVL/LANG PROCSNG",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 635",
+            "course_name": "PRNCPLS COMMUNIC NETWRKS",
+            "description": "CS-GY  635 PRNCPLS COMMUNIC NETWRKS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 635",
+            "course_name": "| EL-GY  635 PRINCIPLES COMM NETWORKS",
+            "description": "CS-GY  635 | EL-GY  635 PRINCIPLES COMM NETWORKS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 642",
+            "course_name": "COMPILER DSGN/CNSTRCTN 2",
+            "description": "CS-GY  642 COMPILER DSGN/CNSTRCTN 2",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 651",
+            "course_name": "COMP GRAPH IMAGE PROCESS",
+            "description": "CS-GY  651 COMP GRAPH IMAGE PROCESS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 662",
+            "course_name": "ARTIFICIAL INTELLIGNC II",
+            "description": "CS-GY  662 ARTIFICIAL INTELLIGNC II",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 663",
+            "course_name": "ARTIF INTEL & PTRN RECOG",
+            "description": "CS-GY  663 ARTIF INTEL & PTRN RECOG",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 665",
+            "course_name": "EXPERT SYSTMS/KNOWLG ENG",
+            "description": "CS-GY  665 EXPERT SYSTMS/KNOWLG ENG",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 671",
+            "course_name": "SWITCHING & AUTOMATA I",
+            "description": "CS-GY  671 SWITCHING & AUTOMATA I",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 672",
+            "course_name": "SWITCHING & AUTOMATA II",
+            "description": "CS-GY  672 SWITCHING & AUTOMATA II",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 673",
+            "course_name": "FORM LANG/AUTOMATA THRY",
+            "description": "CS-GY  673 FORM LANG/AUTOMATA THRY",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 676",
+            "course_name": "MATH TCHNQS FOR INFO SYS",
+            "description": "CS-GY  676 MATH TCHNQS FOR INFO SYS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 713",
+            "course_name": "DIGITAL SIGNAL PROCESSING",
+            "description": "CS-GY  713 DIGITAL SIGNAL PROCESSING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 760",
+            "course_name": "MINICOMPUTER INSTRUMENTATION",
+            "description": "CS-GY  760 MINICOMPUTER INSTRUMENTATION",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 821",
+            "course_name": "NUM & APPROX ANAL I",
+            "description": "CS-GY  821 NUM & APPROX ANAL I",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 823",
+            "course_name": "SPECIAL TOP IN NUM ANALYSIS",
+            "description": "CS-GY  823 SPECIAL TOP IN NUM ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 902",
+            "classes": [
+                {}
+            ],
+            "course_name": "| CS-UY 3923 COMPUTER SECURITYCOMPUTER SECURITY",
+            "description": "CS-GY  902 | CS-UY 3923 COMPUTER SECURITYCOMPUTER SECURITY \nThis course covers cryptographic systems. Topics: Capability and access control mechanisms, authentication models, protection models. Database and operating system security issues, mobile code, security kernels. Malicious code, Trojan horses and computer viruses. Security policy formation and enforcement enforcement, legal aspects and ethical aspects. | Prerequisites: CS 2214 and MA  2312. Corequisite: CS 3224.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 914",
+            "course_name": "SPECIAL TOPICS IN CS",
+            "description": "CS-GY  914 SPECIAL TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 915",
+            "course_name": "SPECIAL TOPICS IN COMP SCI",
+            "description": "CS-GY  915 SPECIAL TOPICS IN COMP SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 918",
+            "course_name": "SP TOPIC:  COMPUTER NETWORKING",
+            "description": "CS-GY  918 SP TOPIC:  COMPUTER NETWORKING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 947",
+            "course_name": "PROJECT IN C.S.",
+            "description": "CS-GY  947 PROJECT IN C.S.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 990",
+            "course_name": "RESEARCH FOR PH.D.",
+            "description": "CS-GY  990 RESEARCH FOR PH.D.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 997",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "X MS THESIS IN COMPUTER SCIENCE",
+            "description": "CS-GY  997X MS THESIS IN COMPUTER SCIENCE \nExceptional students may elect to write a master\u2019s thesis for which no more than 6 credits may be earned toward the degree. Such research should demonstrate adequately the student\u2019s proficiency in the subject material. Also required: oral thesis defense before at least three professors, plus a formal, bound thesis volume. Thesis registration must be continuous. | Prerequisites: Graduate status and satisfactory grades in prescribed courses.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 999",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "X PHD DISSERTATION IN COMPUTER SCIENCE",
+            "description": "CS-GY  999X PHD DISSERTATION IN COMPUTER SCIENCE \nThe dissertation is an original investigation of a computer-science problem. The dissertation must demonstrate creativity and include features of originality and utility worthy of publication in a recognized journal. Candidates must orally defend their dissertations successfully. Registration of 21 credits and continuous dissertation registration are required. | Prerequisites: Graduate standing, and Passing of a qualifying examination and approval of the Department of Computer Science and Engineering.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 5303",
+            "classes": [
+                {}
+            ],
+            "course_name": "INTRODUCTION TO PROGRAMMING AND PROBLEM SOLVING",
+            "description": "CS-GY 5303 INTRODUCTION TO PROGRAMMING AND PROBLEM SOLVING \nThis course introduces discrete mathematics, computers and programming; Running C/C++ programs under Unix; algorithmic language; pseudo code; problem solving and program structure. Topics include constants, variable, data types, assignments, arithmetic expressions, input and output; object-oriented and top-down design and procedures, selection and loops; functions; enumerated; arrays, structs and searching and sorting. | Prerequisite: Graduate status: *Online version available.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 5403",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Data Structures and Algorithms",
+            "description": "CS-GY 5403 Data Structures and Algorithms \nThis course introduces data structures. Topics include program specifications and design; abstract data types; stacks, queues; dynamic storage allocation; sequential and linked implementation of stacks and queues; searching methods, sequential and binary; binary trees and general trees; hashing; computational complexity; sorting algorithms: selection sort, heap sort, mergesort and quicksort; comparison of sorting techniques and analysis. | Prerequisite: Graduate Standing, CS-GY 5303 *Online version available.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6003",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Foundations of Computer Science",
+            "description": "CS-GY 6003 Foundations of Computer Science \nThis course covers logic, sets, functions, relations, asymptotic notation, proof techniques, induction, combinatorics, discrete probability, recurrences, graphs, trees, mathematical models of computation and undecidability. | Corequisite: Graduate Standing.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6005",
+            "course_name": "GUIDED STUDIES IN COMPUTER SCIENCE",
+            "description": "CS-GY 6005 GUIDED STUDIES IN COMPUTER SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6010",
+            "course_name": "GUIDED STUDIES IN COMPUTER SCI",
+            "description": "CS-GY 6010 GUIDED STUDIES IN COMPUTER SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6015",
+            "classes": [
+                {}
+            ],
+            "course_name": "GUIDED STUDIES IN COMPUTER SCI",
+            "description": "CS-GY 6015 GUIDED STUDIES IN COMPUTER SCI",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6020",
+            "course_name": "GUIDED STUDIES IN COMPUTER SCI",
+            "description": "CS-GY 6020 GUIDED STUDIES IN COMPUTER SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6025",
+            "course_name": "GUIDED STUDIES IN COMPUTER SCI",
+            "description": "CS-GY 6025 GUIDED STUDIES IN COMPUTER SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6033",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6033\n\n   Design and Analysis of Algorithms I\n\nThis course reviews basic data structures and mathematical tools. Topics: Data structures, priority queues, binary search trees, balanced search trees. Btrees. Algorithm design and analysis techniques illustrated in searching and sorting: heapsort, quicksort, sorting in linear time, medians and order statistics. Design and analysis techniques: dynamic programming, greedy algorithms. Graph algorithms: elementary graph algorithms (breadth first search, depth first search, topological sort, connected components, strongly connected components), minimum spanning tree, shortest path. String algorith...\n\n      more description for CS-GY 6033 \u00bb\n\n      \n\n\n\nThis course reviews basic data structures and mathematical tools. Topics: Data structures, priority queues, binary search trees, balanced search trees. Btrees. Algorithm design and analysis techniques illustrated in searching and sorting: heapsort, quicksort, sorting in linear time, medians and order statistics. Design and analysis techniques: dynamic programming, greedy algorithms. Graph algorithms: elementary graph algorithms (breadth first search, depth first search, topological sort, connected components, strongly connected components), minimum spanning tree, shortest path. String algorithms. Geometric algorithms. Linear programming. Brief introduction to NP completeness. | Prerequisites: Graduate Standing, CS-GY 5403 and CS-GY 6003.\n\n      less description for CS-GY 6033 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6043",
+            "classes": [
+                {}
+            ],
+            "course_name": "Design and Analysis of Algorithms II",
+            "description": "CS-GY 6043 Design and Analysis of Algorithms II \nThis course covers techniques in advanced design and analysis. Topics: Amortized analysis of algorithms. Advanced data structures: binomial heaps, Fibonacci heaps, data structures for disjoint sets, analysis of union by rank with path compression. Graph algorithms: elementary graph algorithms, maximum flow, matching algorithms. Randomized algorithms. Theory of NPcompleteness and approach to finding (approximate) solutions to NPcomplete problems. Selected additional topics that may vary. | Prerequisite: Graduate standing and CS-GY 6033.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6062",
+            "course_name": "SOFTWARE ENGINEERING",
+            "description": "CS-GY 6062 SOFTWARE ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6063",
+            "classes": [
+                {}
+            ],
+            "course_name": "Software Engineering I",
+            "description": "CS-GY 6063 Software Engineering I \nThe course emphasizes the full software-engineering approach with alternative approaches. Technical emphasis is on requirements, design, development and modeling. Management issues include software cost estimating and project management. Understanding the processes applicable to the software development/integration cycle and maintenance along with technology changes on quality and development activities is highlighted. | Prerequisite: Graduate standing.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6073",
+            "course_name": "Software Engineering II",
+            "description": "CS-GY 6073 Software Engineering II \nThe course covers modern, advanced software-engineering approaches with theory and practice orientations. Important design and management issues are analyzed and evaluated. Technical and management tradeoffs in distributed software systems are emphasized. An extensive number of real world case studies are assessed. A class project is required. | Prerequisite: CS-GY 6063 and graduate standing.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6083",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Principles of Database Systems",
+            "description": "CS-GY 6083 Principles of Database Systems \nThis course broadly introduces database systems, including the relational data model, query languages, database design, index and file structures, query processing and optimization, concurrency and recovery, transaction management and database design. Students acquire hands-on experience in working with database systems and in building web-accessible database applications. | Prerequisites: Graduate standing, CS-GY 6003 or equivalent, familiarity with basic data structures and operating system principles.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6093",
+            "course_name": "",
+            "description": "CS-GY 6093\n\n   Advanced Database Systems\n\nStudents in this advanced course on database systems and data management are assumed to have a solid background in databases. The course typically covers a selection from the following topics: (1) advanced relational query processing and optimization, (2) OLAP and data warehousing, (3) data mining, (4) stream databases and other emerging database architectures and applications, (5) advanced transaction processing, (6) databases and the Web: text, search and semistructured data, or (7) geographic information systems. Topics are taught based on a reading list of selected research papers. Student...\n\n      more description for CS-GY 6093 \u00bb\n\n      \n\n\n\nStudents in this advanced course on database systems and data management are assumed to have a solid background in databases. The course typically covers a selection from the following topics: (1) advanced relational query processing and optimization, (2) OLAP and data warehousing, (3) data mining, (4) stream databases and other emerging database architectures and applications, (5) advanced transaction processing, (6) databases and the Web: text, search and semistructured data, or (7) geographic information systems. Topics are taught based on a reading list of selected research papers. Students work on a course project and may have to present in class. | Prerequisites: CS-GY 6083 or CS-UY 308 or equivalent, including experience with a relational database system and graduate standing.\n\n      less description for CS-GY 6093 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6132",
+            "course_name": "COMPUTER ARCHITECTURE",
+            "description": "CS-GY 6132 COMPUTER ARCHITECTURE",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6133",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6133\n\n   Computer Architecture I\n\nThis course provides students with an understanding of computer-hardware subsystems, digital design strategies and fundamental computer-performance and capacity-improvement techniques. Combinational and sequential circuits are developed for the essential building blocks of computers. Binary number systems are presented in both human and computer algorithms. A uniprocessor computer is built from the blocks developed. An assembly language and an instruction set are presented. Processor implementation with a data path and hardwired and microprogrammed control is introduced. Performance evaluation...\n\n      more description for CS-GY 6133 \u00bb\n\n      \n\n\n\nThis course provides students with an understanding of computer-hardware subsystems, digital design strategies and fundamental computer-performance and capacity-improvement techniques. Combinational and sequential circuits are developed for the essential building blocks of computers. Binary number systems are presented in both human and computer algorithms. A uniprocessor computer is built from the blocks developed. An assembly language and an instruction set are presented. Processor implementation with a data path and hardwired and microprogrammed control is introduced. Performance evaluation of computers is studied. Basic pipelining is introduced to improve system performance. Memory-hierarchy alternatives are introduced to improve the capacity of the computing system. | Prerequisite: Graduate standing.  *Online version available.\n\n      less description for CS-GY 6133 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6134",
+            "course_name": "COMPUTER ARCHITECTURE I",
+            "description": "CS-GY 6134 COMPUTER ARCHITECTURE I",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6143",
+            "classes": [
+                {}
+            ],
+            "course_name": "Computer Architecture II",
+            "description": "CS-GY 6143 Computer Architecture II \nThis course covers high-speed computer arithmetic. Topics: Uni-processor computer architectures that exploit parallelism, advanced pipelining, superscalar, VLIW, vector processors. Parallel processing: Interconnection structures, MIMD and SIMD systems. Other selected parallel computing topics, such as parallel algorithms, PRAM machines and multicore processing. | Prerequisite: Graduate standing and CS-GY 6133.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6153",
+            "course_name": "GAME DESIGN STUDIO SEMINAR",
+            "description": "CS-GY 6153 GAME DESIGN STUDIO SEMINAR",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6183",
+            "course_name": "",
+            "description": "CS-GY 6183\n\n   FAULT-TOLERANT COMPUETRS\n\nThis course introduces a variety of hardware and software techniques to design and model fault-tolerant computers. Topics include coding techniques (Hamming, SECSED, SECDED, etc.); majority voting schemes (TMR); software redundancy (Nversion programming); software-recovery schemes;  network reliability design and estimation. The course introduces probabilistic methods for reliability modeling. Other topics: Examples from space fault tolerant systems, networks, commercial nonstop systems (TANDEM and STRATUS). RAID memory systems. Fault-tolerant modeling tools such as HARP, SHURE and SHARPE. | P...\n\n      more description for CS-GY 6183 \u00bb\n\n      \n\n\n\nThis course introduces a variety of hardware and software techniques to design and model fault-tolerant computers. Topics include coding techniques (Hamming, SECSED, SECDED, etc.); majority voting schemes (TMR); software redundancy (Nversion programming); software-recovery schemes;  network reliability design and estimation. The course introduces probabilistic methods for reliability modeling. Other topics: Examples from space fault tolerant systems, networks, commercial nonstop systems (TANDEM and STRATUS). RAID memory systems. Fault-tolerant modeling tools such as HARP, SHURE and SHARPE. | Prerequisites CS-GY 6133 and Graduate Standing.\n\n      less description for CS-GY 6183 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6232",
+            "course_name": "INTR0DUCTION TO OPERATING SYSTEMS",
+            "description": "CS-GY 6232 INTR0DUCTION TO OPERATING SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6233",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Introduction to Operating Systems",
+            "description": "CS-GY 6233 Introduction to Operating Systems \nThis course introduces basic issues in operating systems. Topics: Threads, processes, concurrency, memory management, I/O Control and case studies. | Prerequisite: Graduate standing.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6243",
+            "classes": [
+                {}
+            ],
+            "course_name": "Operating Systems II",
+            "description": "CS-GY 6243 Operating Systems II \nThis course surveys recent important commercial and research trends in operating systems. Topics may include virtualization, network server design and characterization, scheduling and resource optimization, file systems, memory management, advanced debugging techniques, data-center design and energy utilization. | Prerequisite: Graduate standing and CS-GY 6233.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6253",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Distributed Operating Systems",
+            "description": "CS-GY 6253 Distributed Operating Systems \nThis course introduces distributed-networked computer systems. Topics: Distributed control and consensus. Notions of time in distributed systems. Client/Server communications protocols. Middleware. Distributed File Systems and Services. Fault tolerance, replication and transparency. Peer-to-peer systems. Case studies of modern commercial systems and research efforts.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6273",
+            "course_name": "Performance Evaluation of Computer Systems",
+            "description": "CS-GY 6273 Performance Evaluation of Computer Systems \nThis course focuses on modeling and performance analysis of computer systems. It concentrates on testing and evaluation of three-tiered distributed client/server and WEB-based systems and generally on distributed networking systems. The course presents and evaluates various systems architectures from a macro and micro viewpoint. | Prerequisites: Graduate Standing, EL-GY 5363 and instructor\u2019s permission.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6313",
+            "course_name": "",
+            "description": "CS-GY 6313\n\n   INFORMATION VISUALIZATION\n\nAn introductory course on Information Visualization based on a modern and cohesive view of the area.  Topics include visualization design, data principles, visual encoding principles, interaction principles, single/multiple view methods, item/attribute, attribute reduction methods, toolkits, and evaluation.  Overviews and examples from state-of-the-art research will be provided.  The course is designed as a first course in information visualization for students both intending to specialize in visualization as well as students who are interested in understanding and applying visualization princ...\n\n      more description for CS-GY 6313 \u00bb\n\n      \n\n\n\nAn introductory course on Information Visualization based on a modern and cohesive view of the area.  Topics include visualization design, data principles, visual encoding principles, interaction principles, single/multiple view methods, item/attribute, attribute reduction methods, toolkits, and evaluation.  Overviews and examples from state-of-the-art research will be provided.  The course is designed as a first course in information visualization for students both intending to specialize in visualization as well as students who are interested in understanding and applying visualization principles and existing techniques.\n\n      less description for CS-GY 6313 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6323",
+            "course_name": "",
+            "description": "CS-GY 6323\n\n   LARGE-SCALE VISUAL ANALYTICS\n\nVisual analytics combines interactive visual interfaces and information visualization techniques with automatic algorithms to support analytical reasoning through human-computer interaction.  People use visual analytics tools and techniques to synthesize information and derive insight from massive, dynamic, ambiguous, and often conflicting data, and to communicate their findings effectively for decision-making.  This course will serve as an introduction to the science and technology of visual analytics and will include lectures on both theoretical foundations and application methodologies.  Th...\n\n      more description for CS-GY 6323 \u00bb\n\n      \n\n\n\nVisual analytics combines interactive visual interfaces and information visualization techniques with automatic algorithms to support analytical reasoning through human-computer interaction.  People use visual analytics tools and techniques to synthesize information and derive insight from massive, dynamic, ambiguous, and often conflicting data, and to communicate their findings effectively for decision-making.  This course will serve as an introduction to the science and technology of visual analytics and will include lectures on both theoretical foundations and application methodologies.  The goals of this course are for students to develop a comprehensive understanding of this emerging, multidisciplinary field, and apply that understanding toward a focused research problem in a real-world application or a domain of personal interest.\n\n      less description for CS-GY 6323 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6333",
+            "course_name": "",
+            "description": "CS-GY 6333\n\n   MASSIVE DATA ANALYSIS\n\nBig Data requires the storage, organization, and processing of data at a scale and efficiency that go well beyond the capabilities of conventional information technologies.  In this course, we will review the state of the art in Big Data analytics.  In addition to covering the specifics of different platforms, models, and languages, we will also look at real applications  that perform massive data analysis and how they can be implemented on Big Data platforms.  Topics we will discuss include: Map reduce/Hadoop, NoSQL stores, languages such as Pig Latin and JAQL, large-scale data mining and vis...\n\n      more description for CS-GY 6333 \u00bb\n\n      \n\n\n\nBig Data requires the storage, organization, and processing of data at a scale and efficiency that go well beyond the capabilities of conventional information technologies.  In this course, we will review the state of the art in Big Data analytics.  In addition to covering the specifics of different platforms, models, and languages, we will also look at real applications  that perform massive data analysis and how they can be implemented on Big Data platforms.  Topics we will discuss include: Map reduce/Hadoop, NoSQL stores, languages such as Pig Latin and JAQL, large-scale data mining and visualization.  The course will primarily consist of technical readings and discussions.  It will also include programming projects where the participants will prototype data-intensive applications using existing Big Data tools and platforms. | Prerequisite: CS-GY 6083\n\n      less description for CS-GY 6333 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6373",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Programming Languages",
+            "description": "CS-GY 6373 Programming Languages \nThis course covers the structures, notations and semantics of programming languages. Topics: Issues of scope, type structure and parameter passing. Control structures, including support for exception handling and concurrency. Abstract data types and object oriented languages. Programming in the large. Implementation issues. Functional, logic programming languages. Examples from a variety of languages. | Prerequisites: Graduate standing and CS-GY 5403.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6413",
+            "classes": [
+                {}
+            ],
+            "course_name": "Compiler Design and Construction",
+            "description": "CS-GY 6413 Compiler Design and Construction \nThis course covers compiler organization. Topics: Lexical analysis, syntax analysis, abstract syntax trees, symbol table organization, code generation. Introduction to code optimization techniques. | Prerequisites: CS-GY 5403, CS-GY 6133 and CS-GY 6003.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6533",
+            "classes": [
+                {}
+            ],
+            "course_name": "Interactive Computer Graphics",
+            "description": "CS-GY 6533 Interactive Computer Graphics \nThis course introduces the fundamentals of computer graphics with hands-on graphics programming experiences. Topics include graphics software and hardware, 2D line segment-scan conversion, 2D and 3D transformations, viewing, clipping, polygon-scan conversion, hidden surface removal, illumination and shading, compositing, texture mapping, ray tracing, radiosity and scientific visualization. | Prerequisites: Graduate standing, CS-GY 5403 (Data Structures) or equivalents and knowledge of C or C++ programming.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6543",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6543\n\n   Human Computer Interaction\n\nDesigning a successful interactive experience or software system takes more than technical savvy and vision--it also requires a deep understanding of how to serve people's needs and desires through the experience of the system, and knowledge about how to weave this understanding into the development process. This course introduces key topics and methods for creating and evaluating human-computer interfaces/digital user experiences. Students apply these practices to a system of their choosing (I encourage application to prototype systems that students are currently working on in other contexts,...\n\n      more description for CS-GY 6543 \u00bb\n\n      \n\n\n\nDesigning a successful interactive experience or software system takes more than technical savvy and vision--it also requires a deep understanding of how to serve people's needs and desires through the experience of the system, and knowledge about how to weave this understanding into the development process. This course introduces key topics and methods for creating and evaluating human-computer interfaces/digital user experiences. Students apply these practices to a system of their choosing (I encourage application to prototype systems that students are currently working on in other contexts, at any stage of development). The course builds toward a final write-up and presentation in which students detail how they tackled HCI/user experience design and evaluation of their system, and results from their investigations. Some experience creating/participating in the production of interactive experiences/software is recommended.\n\n      less description for CS-GY 6543 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6553",
+            "course_name": "",
+            "description": "CS-GY 6553\n\n   Game Design\n\nThis course is about experimental game design. Design in this context pertains to every aspect of the game, and these can be broadly characterized as the game system, control, visuals, audio, and resulting theme. We will explore these aspects through the creation of a few very focused game prototypes using a variety of contemporary game engines and frameworks, high-level programming languages, and physical materials. This will allow us to obtain a better understanding of what makes games appealing, and how game mechanics, systems, and a variety of player experiences can be designed and iterati...\n\n      more description for CS-GY 6553 \u00bb\n\n      \n\n\n\nThis course is about experimental game design. Design in this context pertains to every aspect of the game, and these can be broadly characterized as the game system, control, visuals, audio, and resulting theme. We will explore these aspects through the creation of a few very focused game prototypes using a variety of contemporary game engines and frameworks, high-level programming languages, and physical materials. This will allow us to obtain a better understanding of what makes games appealing, and how game mechanics, systems, and a variety of player experiences can be designed and iteratively improved by means of rapid prototyping and play-testing. The course combines the technology, design, and philosophy in support of game creation, as well as the real-world implementation and design challenges faced by practicing game designers. Students will learn design guidelines and principles by which games can be conceived, prototyped, and fully developed within a one-semester course, and will create a game from start to finish. The course is a lot of (team)work, but it\u2019s also a lot of fun. Programming skills are helpful, but not a hard requirement. Artistic skills, or a willingness to learn them are a plus. | Prerequisite: CS-GY 6533 or OART-UT 1600 and OART-UT 1605 or instructor permission.\n\n      less description for CS-GY 6553 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6573",
+            "classes": [
+                {}
+            ],
+            "course_name": "Penetration Testing and Vulnerability Analysis",
+            "description": "CS-GY 6573 Penetration Testing and Vulnerability Analysis \nThis advanced course in computer and network security focuses on penetration testing and vulnerability analysis. It introduces methodologies, techniques and tools to analyze and identify vulnerabilities in stand-alone and networked applications. | Prerequisites: Graduate standing and CS-GY 6823",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6574",
+            "course_name": "PENETRATION TESTING & VULNERABILITY ANALYSIS",
+            "description": "CS-GY 6574 PENETRATION TESTING & VULNERABILITY ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6613",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6613\n\n   Artificial Intelligence I\n\nArtificial Intelligence (AI) is an important topic in computer science and offers many diversified applications. It addresses one of the ultimate puzzles humans are trying to solve: How is it possible for a slow, tiny brain, whether biological or electronic, to perceive, understand, predict and manipulate a world far larger and more complicated than itself? And how do people create a machine (or computer) with those properties? To that end, AI researchers try to understand how seeing, learning, remembering and reasoning can, or should, be done. This course introduces students to the many AI co...\n\n      more description for CS-GY 6613 \u00bb\n\n      \n\n\n\nArtificial Intelligence (AI) is an important topic in computer science and offers many diversified applications. It addresses one of the ultimate puzzles humans are trying to solve: How is it possible for a slow, tiny brain, whether biological or electronic, to perceive, understand, predict and manipulate a world far larger and more complicated than itself? And how do people create a machine (or computer) with those properties? To that end, AI researchers try to understand how seeing, learning, remembering and reasoning can, or should, be done. This course introduces students to the many AI concepts and techniques. | Prerequisite: Graduate standing and CS-GY 5403.\n\n      less description for CS-GY 6613 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6643",
+            "classes": [
+                {}
+            ],
+            "course_name": "Computer Vision and Scene Analysis",
+            "description": "CS-GY 6643 Computer Vision and Scene Analysis \nAn important goal of artificial intelligence is to equip computers with the capability to interpret visual inputs. Computer vision and scene analysis is an AI area that deals with constructing explicit, meaningful descriptions of physical objects from images. It includes many techniques from image processing, pattern recognition, geometric modeling and cognitive processing. This course introduces the many techniques and applications of computer vision and scene analysis. | Prerequisites: Graduate standing, CS-GY 5403 and MA-UY 2012, or equivalents, or instructor\u2019s permission.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6673",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6673\n\n   Neural Network Computing\n\nThis course introduces neural network models and their applications. Topics: Discussion of organization and learning in neural network models including perceptrons, adalines, back-propagation networks, recurrent networks, adaptive resonance theory and the neocognitron. Implementations in general and special purpose hardware, both analog and digital. Application in various areas with comparisons to nonneural approaches. Decision systems, nonlinear control, speech processing and vision. | Prerequisite: Graduate standing and CS-GY 5403. Some familiarity with matrix notation and partial derivative...\n\n      more description for CS-GY 6673 \u00bb\n\n      \n\n\n\nThis course introduces neural network models and their applications. Topics: Discussion of organization and learning in neural network models including perceptrons, adalines, back-propagation networks, recurrent networks, adaptive resonance theory and the neocognitron. Implementations in general and special purpose hardware, both analog and digital. Application in various areas with comparisons to nonneural approaches. Decision systems, nonlinear control, speech processing and vision. | Prerequisite: Graduate standing and CS-GY 5403. Some familiarity with matrix notation and partial derivatives is recommended.\n\n      less description for CS-GY 6673 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6703",
+            "course_name": "Computational Geometry",
+            "description": "CS-GY 6703 Computational Geometry \nThis course introduces data structures and algorithms for geometric data. Topics include intersection, polygon triangulation, linear programming, orthogonal range searching, point location, Voronoi diagrams, Delaunay triangulations, arrangements and duality, geometric data structures, convex hulls, binary space partitions, robot motion planning, quadtrees, visibility graphs, simplex range searching.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6713",
+            "course_name": "",
+            "description": "CS-GY 6713\n\n   INTEGRATED DEVELOPMENT ENVIRONMENTS\n\nThis course includes methodologies for systematically developing distributed and centralized information systems.  Two- and three-tier systems are discussed. Relevant standards, such as J2EE, CORBA, Active X, OpenDoc, AJAX and web-based tools may be covered.  The relationship of the standards and tools to the design and to the software architecture are conceded.  Extended discussion and use of the Open Source Web based technologies are expanded in examples.  HTML, CSS Tools discussed include HTML, CSS (Cascading Style Sheet) and JavaScript as well as Asynchronous JavaScript and XML (AJAX) are ...\n\n      more description for CS-GY 6713 \u00bb\n\n      \n\n\n\nThis course includes methodologies for systematically developing distributed and centralized information systems.  Two- and three-tier systems are discussed. Relevant standards, such as J2EE, CORBA, Active X, OpenDoc, AJAX and web-based tools may be covered.  The relationship of the standards and tools to the design and to the software architecture are conceded.  Extended discussion and use of the Open Source Web based technologies are expanded in examples.  HTML, CSS Tools discussed include HTML, CSS (Cascading Style Sheet) and JavaScript as well as Asynchronous JavaScript and XML (AJAX) are introduced and applied in the client tier;  PHP (Hypertext PreProcessor) is applied in the server tier and MySQL for data base based applications are discussed.  Issues of which tool to use as well how to partition applications into tiers is discussed.  | Prerequisite: Graduate standing\n\n      less description for CS-GY 6713 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6723",
+            "course_name": "",
+            "description": "CS-GY 6723\n\n   WEB SERVICES AND SERVICE ORIENTED ARCHITECTURE\n\nThe service oriented architecture (SOA) is the latest application integration paradigm in the industry, developed to address the challenge of software development which anticipates the internal friction of interacting with incompatible architectures and programming models.  SOA is a model of distributed software components which encapsulates business function in a reusable, composable way.  SOA components, or services, are accessible using standardized protocols and are composed (or choreographed) into new applications using standard composition languages.  The term \"Web Services\" stands for r...\n\n      more description for CS-GY 6723 \u00bb\n\n      \n\n\n\nThe service oriented architecture (SOA) is the latest application integration paradigm in the industry, developed to address the challenge of software development which anticipates the internal friction of interacting with incompatible architectures and programming models.  SOA is a model of distributed software components which encapsulates business function in a reusable, composable way.  SOA components, or services, are accessible using standardized protocols and are composed (or choreographed) into new applications using standard composition languages.  The term \"Web Services\" stands for realization of the SOA paradigm as a set of XML based standards for component communication, description and composition.  The SOA architectural model and Web services provide a highly interoperable application integration framework which has quickly become the gold standard for enterprise application architecture.  This course will introduce the basic concepts of SOA, and will examine how SOA is supported by Web services standards such as SOAP, WSDL, WS-Addressing, WS-Policy, BPEL4WS, and WS-Transactions.\n\n      less description for CS-GY 6723 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6753",
+            "classes": [
+                {}
+            ],
+            "course_name": "Theory of Computation",
+            "description": "CS-GY 6753 Theory of Computation \nThis course introduces the theory of computation. Topics: Formal languages and automata theory. Deterministic and non-deterministic finite automata, regular expressions, regular languages, context-free languages. Pumping theorems for regular and context-free languages. Turing machines, recognizable and decidable languages. Limits of computability: the Halting Problem, undecidable and unrecognizable languages, reductions to prove undecidability. Time complexity, P and NP, Cook-Levin theorem, NP completeness. | Prerequisites: Graduate standing and CS-GY 6003 (or instructor\u2019s permission).",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6803",
+            "course_name": "",
+            "description": "CS-GY 6803\n\n   Information Systems Security Engineering and Management\n\nThis course presents a system and management view of information security: what it is, what drives the requirements for information security, how to integrate it into the systems-design process and life-cycle security management of information systems. A second goal is to cover basic federal policies on government information security and methodologies. Topics include information-security risk management, security policies, security in the systems-engineering process, laws related to information security and management of operational systems. | Prerequisite: Graduate standing and CS-UY 392 or ...\n\n      more description for CS-GY 6803 \u00bb\n\n      \n\n\n\nThis course presents a system and management view of information security: what it is, what drives the requirements for information security, how to integrate it into the systems-design process and life-cycle security management of information systems. A second goal is to cover basic federal policies on government information security and methodologies. Topics include information-security risk management, security policies, security in the systems-engineering process, laws related to information security and management of operational systems. | Prerequisite: Graduate standing and CS-UY 392 or equivalent: *Online version available.\n\n      less description for CS-GY 6803 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6804",
+            "course_name": "INFORMATION SECURITY MANAGEMENT",
+            "description": "CS-GY 6804 INFORMATION SECURITY MANAGEMENT",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6813",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Information, Security and Privacy",
+            "description": "CS-GY 6813 Information, Security and Privacy \nThis course introduces Information Systems Security and covers cryptography, capability and access control mechanisms, authentication models, security models, operating systems security, malicious code, security-policy formation and enforcement, vulnerability analysis, evaluating secure systems. | Prerequisite: Competency in Application Development in UNIX and Windows Environments, Graduate status. *Online version available.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6814",
+            "course_name": "INFORMATION, PRIVAC & SECURITY",
+            "description": "CS-GY 6814 INFORMATION, PRIVAC & SECURITY",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6822",
+            "course_name": "NETWORK MANAGEMENT & SECURITY",
+            "description": "CS-GY 6822 NETWORK MANAGEMENT & SECURITY",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6823",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6823\n\n   Network Security\n\nThis course begins by covering attacks and threats in computer networks, including network mapping, port scanning, sniffing, DoS, DDoS, reflection attacks, attacks on DNS and leveraging P2P deployments for attacks. The course continues with cryptography topics most relevant to secure networking protocols. Topics covered are block ciphers, stream ciphers, public key cryptography, RSA, Diffie Hellman, certification authorities, digital signatures and message integrity. After surveying basic cryptographic techniques, the course examines several secure networking protocols, including PGP, SSL, IPs...\n\n      more description for CS-GY 6823 \u00bb\n\n      \n\n\n\nThis course begins by covering attacks and threats in computer networks, including network mapping, port scanning, sniffing, DoS, DDoS, reflection attacks, attacks on DNS and leveraging P2P deployments for attacks. The course continues with cryptography topics most relevant to secure networking protocols. Topics covered are block ciphers, stream ciphers, public key cryptography, RSA, Diffie Hellman, certification authorities, digital signatures and message integrity. After surveying basic cryptographic techniques, the course examines several secure networking protocols, including PGP, SSL, IPsec and wireless security protocols. The course examines operational security, including firewalls and intrusion-detection systems. Students read recent research papers on network security and participate in an important lab component that includes packet sniffing, network mapping, firewalls, SSL and IPsec. | Prerequisite: Graduate standing and EL-GY 5363:* Online version available.\n\n      less description for CS-GY 6823 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6824",
+            "course_name": "NETWORK SECURITY & MANAGEMENT",
+            "description": "CS-GY 6824 NETWORK SECURITY & MANAGEMENT",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6833",
+            "classes": [
+                {}
+            ],
+            "course_name": "INTRODUCTION TO INFORMATION SECURITY MANAGEMENT",
+            "description": "CS-GY 6833 INTRODUCTION TO INFORMATION SECURITY MANAGEMENT \nThis course provides the basic background on the basic business aspects of information security management. All examples will be in the context of Information Systems, and the focus of the course will be on particular needs of information systems with regard to security and privacy. | Prerequisite: Strong Technical Background",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6842",
+            "course_name": "NETWORK PROTOCOLS",
+            "description": "CS-GY 6842 NETWORK PROTOCOLS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6843",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6843\n\n   Computer Networking\n\nThis course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP pro...\n\n      more description for CS-GY 6843 \u00bb\n\n      \n\n\n\nThis course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and linklayer switches. The course includes simple quantitative delay and throughput modeling, socket programming and network application development and Ethereal labs. | Prerequisite: Graduate standing and CS-UY 2134.\n\n      less description for CS-GY 6843 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6853",
+            "course_name": "NETWORK PROTOCOLS II",
+            "description": "CS-GY 6853 NETWORK PROTOCOLS II",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6863",
+            "classes": [
+                {}
+            ],
+            "course_name": "FUNDAMENTALS OF SECURITY INFORMATION MANAGEMENT",
+            "description": "CS-GY 6863 FUNDAMENTALS OF SECURITY INFORMATION MANAGEMENT \nThe objective of this course is for a student with a basic understanding of security threats and defensive technology to learn to design an appropriate approach to security of a system given real world consideration of risk and cost.  The approach includes such aspects as security architecture, selection of hardware and software components, approaches to secure development, outsourcing options and cloud computing options. | Prerequisite: CS-GY 6813 or equivalent.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6873",
+            "course_name": "Project in Telecommunication Networks",
+            "description": "CS-GY 6873 Project in Telecommunication Networks \nIn this course, students design, develop and test communication software. Students work in small groups under faculty direction. Students have access to network resources for their work. | Prerequisites: Graduate standing and CS-GY 6843",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6883",
+            "course_name": "PRACTICES IN INFORMATION SECURITY MANAGEMENT",
+            "description": "CS-GY 6883 PRACTICES IN INFORMATION SECURITY MANAGEMENT \nThe objective of this course is to learn the operational aspects of information security.  This includes developing and deploying processes for security monitoring, incident response, disaster recover, etc.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6902",
+            "course_name": "GROUPWARE TECHNOLOGIES",
+            "description": "CS-GY 6902 GROUPWARE TECHNOLOGIES",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6903",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "CS-GY 6903\n\n   Applied Cryptography\n\nThis course examines Modern Cryptography from a both theoretical and applied perspective, with emphasis on \u201cprovable security\u201d and \u201capplication case studies\u201d. The course looks particularly at cryptographic primitives that are building blocks of various cryptographic applications. The course studies notions of security for a given cryptographic primitive, its various constructions and respective security analysis based on the security notion. The cryptographic primitives covered include pseudorandom functions, symmetric encryption (block ciphers), hash functions and random oracles, message auth...\n\n      more description for CS-GY 6903 \u00bb\n\n      \n\n\n\nThis course examines Modern Cryptography from a both theoretical and applied perspective, with emphasis on \u201cprovable security\u201d and \u201capplication case studies\u201d. The course looks particularly at cryptographic primitives that are building blocks of various cryptographic applications. The course studies notions of security for a given cryptographic primitive, its various constructions and respective security analysis based on the security notion. The cryptographic primitives covered include pseudorandom functions, symmetric encryption (block ciphers), hash functions and random oracles, message authentication codes, asymmetric encryption, digital signatures and authenticated key exchange. The course covers how to build provably secure cryptographic protocols (e.g., secure message transmission, identification schemes, secure function evaluation, etc.), and various number-theoretic assumptions upon which cryptography is based. Also covered: implementation issues (e.g., key lengths, key management, standards, etc.) and, as application case studies, a number of real-life scenarios currently using solutions from modern cryptography. | Prerequisite: Graduate standing.\n\n      less description for CS-GY 6903 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6912",
+            "course_name": "INTEGRATED DEVELOPMENT ENVIRONMENTS",
+            "description": "CS-GY 6912 INTEGRATED DEVELOPMENT ENVIRONMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 6913",
+            "classes": [
+                {}
+            ],
+            "course_name": "Web Search Engines",
+            "description": "CS-GY 6913 Web Search Engines \nThis course covers the basic technology underlying Web search engines and related tools. The main focus is on large-scale Web search engines (such as Google, Yahoo and MSN Search) and their underlying architectures and techniques. Students learn how search engines work and get hands-on experience in how to build search engines from the ground up. Topics are based on a reading list of recent research papers. Students must work on a course project and may have to present in class. | Prerequisite: Graduate standing",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6923",
+            "classes": [
+                {}
+            ],
+            "course_name": "Machine Learning",
+            "description": "CS-GY 6923 Machine Learning \nThis course introduces the field of machine learning and covers standard machine-learning techniques, such as decision trees, nearest neighbor, Bayesian methods, support vector machines and logistic regression. Topics: Basic concepts in computational learning theory including the PAC model and VC dimension. Methods for evaluating and comparing machine learning techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 6963",
+            "classes": [
+                {}
+            ],
+            "course_name": "Digital Forensics",
+            "description": "CS-GY 6963 Digital Forensics \nThis course introduces information-technology professionals to the application of forensic science principles and practices for collecting, preserving, examining, analyzing and presenting digital evidence. The course includes selected topics from the legal, forensic and information-technology domains and uses lecture, laboratory and written projects to illustrate these topics. | Prerequisite: Graduate standing.  *Online version available.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9013",
+            "course_name": "Selected Topics in Computer Science",
+            "description": "CS-GY 9013 Selected Topics in Computer Science \nThis course covers topics of current interest in computer science. Recent offerings include software specification and validation, parallel algorithms and architectures, client-server systems and advanced object-oriented design (Java). Advanced topics: Databases, performance analysis, computer simulation, Java programming, Unix programming, human and computer interaction, cryptography with financial applications and biometric identification. | Prerequisites: Graduate Standing, and specified when course is offered.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9023",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9023 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9033",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "SELECTED TOPICS IN CSMOBILE APPLICATION PROGRAMMING",
+            "description": "CS-GY 9033 SELECTED TOPICS IN CSMOBILE APPLICATION PROGRAMMING",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9043",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9043 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9053",
+            "classes": [
+                {}
+            ],
+            "course_name": "SPECIAL TOPICS IN COMPUTER SCIENCEST: INTRO TO JAVA",
+            "description": "CS-GY 9053 SPECIAL TOPICS IN COMPUTER SCIENCEST: INTRO TO JAVA",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9063",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9063 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9073",
+            "course_name": "SELECT TOPICS COMP SCI",
+            "description": "CS-GY 9073 SELECT TOPICS COMP SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9083",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9083 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9093",
+            "classes": [
+                {}
+            ],
+            "course_name": "Biometrics",
+            "description": "CS-GY 9093 Biometrics \nThe course concentrates on the unique advantages that biometrics brings to computer security. The course also addresses such challenging issues as security strength, recognition rates and privacy, as well as alternatives of passwords and smart cards. Students gain knowledge in the building blocks of this field: image and signal processing, pattern recognition, security and privacy and secure system design. By the end of the course students are able to evaluate and design security systems that include biometrics. | Prerequisite: Graduate standing. *Online version available.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9094",
+            "course_name": "BIOMETRICS",
+            "description": "CS-GY 9094 BIOMETRICS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9103",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9103 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9123",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9123 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9133",
+            "course_name": "SPECIAL TOPICS IN CS",
+            "description": "CS-GY 9133 SPECIAL TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9153",
+            "course_name": "SELECTED TOPICS IN COMPUTER SCIENCE",
+            "description": "CS-GY 9153 SELECTED TOPICS IN COMPUTER SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9163",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Application Security",
+            "description": "CS-GY 9163 Application Security \nThis course addresses the design and implementation of secure applications. Concentration is on writing software programs that make it difficult for intruders to exploit security holes. The course emphasizes writing secure distributed programs in Java. The security ramifications of class, field and method visibility are emphasized. | Prerequisite: Gradute standing",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9164",
+            "course_name": "APPLICATION SECURITY",
+            "description": "CS-GY 9164 APPLICATION SECURITY",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9173",
+            "course_name": "SELECTED TOPICS IN COMP SCI",
+            "description": "CS-GY 9173 SELECTED TOPICS IN COMP SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9183",
+            "course_name": "SELECTED TOPICS IN CS",
+            "description": "CS-GY 9183 SELECTED TOPICS IN CS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9193",
+            "course_name": "SELECTED TOPICS IN COMPUTER SCIENCE",
+            "description": "CS-GY 9193 SELECTED TOPICS IN COMPUTER SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9203",
+            "course_name": "SPECIAL TOPICS IN COMPUTER SCI",
+            "description": "CS-GY 9203 SPECIAL TOPICS IN COMPUTER SCI",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9213",
+            "course_name": "SELECTED TOPICS IN COMPUTER SCIENCE",
+            "description": "CS-GY 9213 SELECTED TOPICS IN COMPUTER SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9223",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "SELECTED TOPICS IN CSCLOUD COMPUTINGCOSTUMES AS GAME CONTROLLERSHUMAN COMPUTER INTERACTIONMOBILE SECURITYPROGRAMMING FOR BIG DATA ANALYTICSSOCIAL  & EMOTIONAL APPR TO HUM COMP INTERACTIONTRUST, RISK & DECEPTION IN CYBERSPACETURNING IDEAS INTO REALITY",
+            "description": "CS-GY 9223 SELECTED TOPICS IN CSCLOUD COMPUTINGCOSTUMES AS GAME CONTROLLERSHUMAN COMPUTER INTERACTIONMOBILE SECURITYPROGRAMMING FOR BIG DATA ANALYTICSSOCIAL  & EMOTIONAL APPR TO HUM COMP INTERACTIONTRUST, RISK & DECEPTION IN CYBERSPACETURNING IDEAS INTO REALITY",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9413",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Readings in Computer Science I",
+            "description": "CS-GY 9413 Readings in Computer Science I \nThis course is primarily for advanced graduate students who wish to study in a specialized area under faculty supervision. Permission of the graduate director is required, as are regular meetings with the adviser. An examination or term report is required. | Prerequisite: Graduate status.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9423",
+            "course_name": "Readings in Computer Science II",
+            "description": "CS-GY 9423 Readings in Computer Science II \nThis course is primarily for advanced graduate students who wish to study in a specialized area under faculty supervision. Permission of the graduate director is required, as are regular meetings with the adviser. An examination or term report is required. | Prerequisite: Graduate status.",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9963",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "ADVANCED PROJECT IN COMPUTER SCIENCE",
+            "description": "CS-GY 9963 ADVANCED PROJECT IN COMPUTER SCIENCE \nThis course permits the student to perform research in computer science with a narrower scope than a master\u2019s thesis. Acceptance of a student by a faculty adviser is required before registration. A project report and an oral examination on it are required. | Prerequisite: Graduate status.",
+            "offering": true
+        },
+        {
+            "course_id": "CS-GY 9964",
+            "course_name": "DIGITAL FORENSICS",
+            "description": "CS-GY 9964 DIGITAL FORENSICS",
+            "offering": false
+        },
+        {
+            "course_id": "CS-GY 9983",
+            "course_name": "VARIABLE CREDIT PROJECT/COURSE",
+            "description": "CS-GY 9983 VARIABLE CREDIT PROJECT/COURSE",
+            "offering": false
+        }
+    ]
+}

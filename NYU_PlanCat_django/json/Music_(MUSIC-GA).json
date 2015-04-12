@@ -1,0 +1,610 @@
+{
+    "major_id": "MUSIC-GA",
+    "file": "./2015-2016/Music_(MUSIC-GA).html",
+    "courses": [
+        {
+            "course_id": "MUSIC-GA 1001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1614",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "SILV 220"
+                }
+            ],
+            "course_name": "Collegium Musicum",
+            "description": "MUSIC-GA 1001 Collegium Musicum \nPerformance ensemble concentrating on the music of pre- and early-modern Europe and on neglected works or genres from other periods.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 1002",
+            "course_name": "Collegium Musicum",
+            "description": "MUSIC-GA 1002 Collegium Musicum \nPerformance ensemble concentrating on the music of pre- and early-modern Europe and on neglected works or genres from other periods.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1003",
+            "course_name": "Ethnomusicology Ensemble",
+            "description": "MUSIC-GA 1003 Ethnomusicology Ensemble \nPerformance ensemble specializing in musical repertoires from outside the Western classical tradition. The ensemble concentrates on a different repertoire each semester. Examples have included Chinese classical music, Caribbean music, Irish music, and Klezmer.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1004",
+            "course_name": "Ethnomusicology Ensemble",
+            "description": "MUSIC-GA 1004 Ethnomusicology Ensemble \nPerformance ensemble specializing in musical repertoires from outside the Western classical tradition. The ensemble concentrates on a different repertoire each semester. Examples have included Chinese classical music, Caribbean music, Irish music, and Klezmer.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1101",
+            "course_name": "Performance Practice",
+            "description": "MUSIC-GA 1101 Performance Practice",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1102",
+            "course_name": "Performance Practice",
+            "description": "MUSIC-GA 1102 Performance Practice",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1157",
+            "course_name": "German Music in The 20C",
+            "description": "MUSIC-GA 1157 German Music in The 20C",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1315",
+            "course_name": "Irish Music & Cultural Identity",
+            "description": "MUSIC-GA 1315 Irish Music & Cultural Identity",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 1319",
+            "course_name": "Irish Music in America, 1750 to The Present",
+            "description": "MUSIC-GA 1319 Irish Music in America, 1750 to The Present",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1615",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "WAVE 268"
+                }
+            ],
+            "course_name": "Intro to Musicology",
+            "description": "MUSIC-GA 2101 Intro to Musicology \nProseminar in current research methodology and musicological thought. Topics discussed include techniques for the examination of primary source materials; principles of musical text criticism and editing; and current issues in musicological thought.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 2102",
+            "course_name": "Notation and Editing",
+            "description": "MUSIC-GA 2102 Notation and Editing",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2103",
+            "course_name": "Style Analysis",
+            "description": "MUSIC-GA 2103 Style Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2105",
+            "course_name": "Gregorian Chant",
+            "description": "MUSIC-GA 2105 Gregorian Chant",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2106",
+            "course_name": "Parisian Organum",
+            "description": "MUSIC-GA 2106 Parisian Organum",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2107",
+            "course_name": "Roman De Fauvel",
+            "description": "MUSIC-GA 2107 Roman De Fauvel",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2108",
+            "course_name": "Readings in Medieval Musical Thought",
+            "description": "MUSIC-GA 2108 Readings in Medieval Musical Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2109",
+            "course_name": "The Chanson",
+            "description": "MUSIC-GA 2109 The Chanson",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2110",
+            "course_name": "Masses of Dufay",
+            "description": "MUSIC-GA 2110 Masses of Dufay",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2111",
+            "course_name": "Josquin Des Prez",
+            "description": "MUSIC-GA 2111 Josquin Des Prez",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2112",
+            "course_name": "Italian Madrigal",
+            "description": "MUSIC-GA 2112 Italian Madrigal",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2113",
+            "course_name": "Words and Music",
+            "description": "MUSIC-GA 2113 Words and Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2114",
+            "course_name": "Monteverdi",
+            "description": "MUSIC-GA 2114 Monteverdi",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2115",
+            "course_name": "Italian Cantata",
+            "description": "MUSIC-GA 2115 Italian Cantata",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2116",
+            "course_name": "Studies in The Music of J.S. Bach",
+            "description": "MUSIC-GA 2116 Studies in The Music of J.S. Bach",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2117",
+            "course_name": "Backgrnd Classical Symph",
+            "description": "MUSIC-GA 2117 Backgrnd Classical Symph",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2118",
+            "course_name": "Background of The Classical Concerto",
+            "description": "MUSIC-GA 2118 Background of The Classical Concerto",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2119",
+            "course_name": "Operas of Gluck & Mozart",
+            "description": "MUSIC-GA 2119 Operas of Gluck & Mozart",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2120",
+            "course_name": "Beethoven",
+            "description": "MUSIC-GA 2120 Beethoven",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2121",
+            "course_name": "Schubert",
+            "description": "MUSIC-GA 2121 Schubert",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2122",
+            "course_name": "Harmonic Practice",
+            "description": "MUSIC-GA 2122 Harmonic Practice",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2123",
+            "course_name": "Early Romantic Opera",
+            "description": "MUSIC-GA 2123 Early Romantic Opera",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2124",
+            "course_name": "Piano Music and Song 19C Germany",
+            "description": "MUSIC-GA 2124 Piano Music and Song 19C Germany",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2125",
+            "course_name": "Verdi'S Comp Process",
+            "description": "MUSIC-GA 2125 Verdi'S Comp Process \nDifferent aspects of Verdi?s manner of approaching and writing operas. Topics include the scenarios, librettos, musical sketches, skeleton scores, and revisions. Operatic conventions and censorship in the mid- and late-19th century, as well as Verdi?s thoughts on performance, are treated as they relate to the compositional process.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2126",
+            "course_name": "Wagner",
+            "description": "MUSIC-GA 2126 Wagner",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2127",
+            "course_name": "Comp & Analy Theory 1860-1910",
+            "description": "MUSIC-GA 2127 Comp & Analy Theory 1860-1910",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2128",
+            "course_name": "Schoenberg",
+            "description": "MUSIC-GA 2128 Schoenberg",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2129",
+            "course_name": "20th Century Analysis",
+            "description": "MUSIC-GA 2129 20th Century Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2130",
+            "course_name": "Studies in Tonal Analysi",
+            "description": "MUSIC-GA 2130 Studies in Tonal Analysi",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2131",
+            "course_name": "Music in 20th-Cent Paris",
+            "description": "MUSIC-GA 2131 Music in 20th-Cent Paris",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2132",
+            "course_name": "Music Since 1945",
+            "description": "MUSIC-GA 2132 Music Since 1945 \nDevelopments in the United States and Europe since 1945; close examination of the writings of composers and theorists as well as of the music itself. Topics include post-Webern aesthetics, serialism, electronic music, musique concr?te, aleatoric tendencies, and stochastic music. May be presented as a concentrated study of a small group of composers.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2133",
+            "course_name": "American Music",
+            "description": "MUSIC-GA 2133 American Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2134",
+            "course_name": "Studies in Musical Analysis",
+            "description": "MUSIC-GA 2134 Studies in Musical Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2135",
+            "course_name": "Intro to Urban Ethnomusicology",
+            "description": "MUSIC-GA 2135 Intro to Urban Ethnomusicology",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2136",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1894",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 10.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "WAVE 268"
+                }
+            ],
+            "course_name": "Ethnomusicology: History & Theory",
+            "description": "MUSIC-GA 2136 Ethnomusicology: History & Theory \nA broad intellectual history of the discipline, surveying landmark studies and important figures. Examines major paradigms, issues, and frameworks in ethnomusicology. The relation of ethnomusicology to other disciplines and the relationA broad intellectual history of the discipline, surveying landmark studies and important figures. Examines major paradigms, issues, and frameworks in ethnomusicology. The relation of ethnomusicology to other disciplines and the relations of knowledge and power that have produced them. Serves as an introduction to the field of ethnomusicology.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 2137",
+            "course_name": "Historiography",
+            "description": "MUSIC-GA 2137 Historiography",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2138",
+            "course_name": "Musical Instruments",
+            "description": "MUSIC-GA 2138 Musical Instruments",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2139",
+            "course_name": "Studies in Musical Instruments",
+            "description": "MUSIC-GA 2139 Studies in Musical Instruments",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2140",
+            "course_name": "The Expediency of Sound: Music & Cultural Policy",
+            "description": "MUSIC-GA 2140 The Expediency of Sound: Music & Cultural Policy \nExploration of the relation between the materiality of sound, political theory and philosophy, and the expediency of culture in a globalized world.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2143",
+            "course_name": "Post-Wagnerian Symphonists",
+            "description": "MUSIC-GA 2143 Post-Wagnerian Symphonists",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2146",
+            "course_name": "Non-Western Infl On 20th-Cent Music",
+            "description": "MUSIC-GA 2146 Non-Western Infl On 20th-Cent Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2147",
+            "course_name": "Music and Ritual",
+            "description": "MUSIC-GA 2147 Music and Ritual",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2148",
+            "course_name": "Sound Studies",
+            "description": "MUSIC-GA 2148 Sound Studies",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2149",
+            "course_name": "Music of The Near East",
+            "description": "MUSIC-GA 2149 Music of The Near East",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2150",
+            "course_name": "Machaut & His Contemp",
+            "description": "MUSIC-GA 2150 Machaut & His Contemp",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2151",
+            "course_name": "Engl Renaissance Music",
+            "description": "MUSIC-GA 2151 Engl Renaissance Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2152",
+            "course_name": "Early Printed Music",
+            "description": "MUSIC-GA 2152 Early Printed Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2153",
+            "course_name": "Haydn and Mozart",
+            "description": "MUSIC-GA 2153 Haydn and Mozart",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2154",
+            "course_name": "Dissolution of Tonality",
+            "description": "MUSIC-GA 2154 Dissolution of Tonality",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2155",
+            "course_name": "Seminar in American Music",
+            "description": "MUSIC-GA 2155 Seminar in American Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2156",
+            "course_name": "Stravinsky",
+            "description": "MUSIC-GA 2156 Stravinsky",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2157",
+            "course_name": "Caribbean Music",
+            "description": "MUSIC-GA 2157 Caribbean Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2158",
+            "course_name": "French Baroque Music",
+            "description": "MUSIC-GA 2158 French Baroque Music",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2160",
+            "course_name": "",
+            "description": "MUSIC-GA 2160\n\n   Autographs & Revisions\n\nIntroduction to the study of 19th-century composers? autographs and revisions. Techniques of conservation; problems of connoisseurship and attribution. Types of autographs, their relation to initial publications, and the musical questions they raise or practical problems they may help to solve. Problems of revision and recomposition.Introduction to the study of 19th-century composers? autographs and revisions. Techniques of conservation; problems of connoisseurship and attribution. Types of autographs, their relation to initial publications, and the musical questions they raise or practical pr...\n\n      more description for MUSIC-GA 2160 \u00bb\n\n      \n\n\n\nIntroduction to the study of 19th-century composers? autographs and revisions. Techniques of conservation; problems of connoisseurship and attribution. Types of autographs, their relation to initial publications, and the musical questions they raise or practical problems they may help to solve. Problems of revision and recomposition.Introduction to the study of 19th-century composers? autographs and revisions. Techniques of conservation; problems of connoisseurship and attribution. Types of autographs, their relation to initial publications, and the musical questions they raise or practical problems they may help to solve. Problems of revision and recomposition.\n\n      less description for MUSIC-GA 2160 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2161",
+            "course_name": "Time",
+            "description": "MUSIC-GA 2161 Time",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2162",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1616",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 10.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "WAVE 268"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1617",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 10.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "SILV 220"
+                }
+            ],
+            "course_name": "Sem/Tech of Music Compos",
+            "description": "MUSIC-GA 2162 Sem/Tech of Music Compos \nExamination of techniques of music composition as they are applied to the creation of musical works. Compo-sitional practice is studied and evaluated both from the standpoint of craft and aesthetics. Students create compositions, and works are performed in public concerts.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 2163",
+            "course_name": "Studies in 20th Century Analysis",
+            "description": "MUSIC-GA 2163 Studies in 20th Century Analysis \nIn-depth discussion of selected 20th-century works and composers. Covers established masterpieces from the early part of the century by Schoenberg, Bart?k, and Stravinsky to the most recent music of Elliott Carter, John Cage, Peter Maxwell Davies, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2164",
+            "course_name": "Stud/Schenkerian Analy",
+            "description": "MUSIC-GA 2164 Stud/Schenkerian Analy",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2165",
+            "course_name": "Computer Music Composition",
+            "description": "MUSIC-GA 2165 Computer Music Composition \nCode-based and graphic-user-interface languages for digital signal processing and event processing. Filtering, analysis/resynthesis, digital sound editing, granular synthesis. Study of computer music repertoire of past 20 years.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2166",
+            "course_name": "Musical Ethnography",
+            "description": "MUSIC-GA 2166 Musical Ethnography \nPragmatic instruction in field and laboratory research and analytical methods in ethnomusicology. Emphasizes the urban field site. Topics include research design, fieldwork, participant observation, field notes, interviews and oral histories, survey instruments, textual analysis, audiovisual methods, archiving, urban ethnomusicology, applied ethnomusicology, performance as methodology and epistemology, and the ethics and politics of cultural representation. Students conceive, design, and carry out a limited research project over the course of the semester.",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2167",
+            "course_name": "Music, Politics & Ident: Case Studies",
+            "description": "MUSIC-GA 2167 Music, Politics & Ident: Case Studies",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2168",
+            "course_name": "Mus Sound, Transcrptn, & Analysis",
+            "description": "MUSIC-GA 2168 Mus Sound, Transcrptn, & Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2169",
+            "course_name": "Basso Continuo",
+            "description": "MUSIC-GA 2169 Basso Continuo",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2170",
+            "course_name": "Spec Studies Diaspora: Blacks and Jews",
+            "description": "MUSIC-GA 2170 Spec Studies Diaspora: Blacks and Jews",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 2198",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1618",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "WAVE 268"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1814",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "WAVE 268"
+                }
+            ],
+            "course_name": "Special StudiesLuigi Nono, Composition PathwaysThe Sabbateni Collection & its Music",
+            "description": "MUSIC-GA 2198 Special StudiesLuigi Nono, Composition PathwaysThe Sabbateni Collection & its Music \nA substantial proportion of doctoral seminars are offered each year under this heading",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 2199",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1619",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "WAVE 268"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2401",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Goff, Ivan"
+                }
+            ],
+            "course_name": "Special Studies:Genre and Popular MusicGlobalization and Irish Music &  Dance Performance",
+            "description": "MUSIC-GA 2199 Special Studies:Genre and Popular MusicGlobalization and Irish Music &  Dance Performance \nA substantial proportion of doctoral seminars are offered each year under this heading",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 2805",
+            "course_name": "Balladry/Minstrelsy, US/Uk, 1760-2009",
+            "description": "MUSIC-GA 2805 Balladry/Minstrelsy, US/Uk, 1760-2009",
+            "offering": false
+        },
+        {
+            "course_id": "MUSIC-GA 3119",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1620",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1621",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Research",
+            "description": "MUSIC-GA 3119 Reading & Research \nIndependent study with a faculty supervisor. Must have the approval of the director of graduate studies and the proposed supervisor.",
+            "offering": true
+        },
+        {
+            "course_id": "MUSIC-GA 3120",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1622",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Research",
+            "description": "MUSIC-GA 3120 Reading & Research \nIndependent study with a faculty supervisor. Must have the approval of the director of graduate studies and the proposed supervisor.",
+            "offering": true
+        }
+    ]
+}

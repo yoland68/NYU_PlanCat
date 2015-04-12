@@ -1,0 +1,546 @@
+{
+    "major_id": "IFST-GA",
+    "file": "./2015-2016/Institute_of_French_Studies_(IFST-GA).html",
+    "courses": [
+        {
+            "course_id": "IFST-GA 1066",
+            "course_name": "Cinema Culture of France",
+            "description": "IFST-GA 1066 Cinema Culture of France",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1210",
+            "course_name": "Wksp Fr Intell/Cult Life Les Intell Et L Engagemt",
+            "description": "IFST-GA 1210 Wksp Fr Intell/Cult Life Les Intell Et L Engagemt",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1211",
+            "course_name": "Wkshp French Intellect and Cultural Life",
+            "description": "IFST-GA 1211 Wkshp French Intellect and Cultural Life",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1212",
+            "course_name": "Wksp On Fr Soc in Transition",
+            "description": "IFST-GA 1212 Wksp On Fr Soc in Transition",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1213",
+            "course_name": "Wkshp On French Society in Transition",
+            "description": "IFST-GA 1213 Wkshp On French Society in Transition",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1214",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "2423",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Viguier, Frederic",
+                    "time": "Tue 12.30 PM - 2.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Workshop in French Studies",
+            "description": "IFST-GA 1214 Workshop in French Studies",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 1310",
+            "course_name": "France: People & Their Land",
+            "description": "IFST-GA 1310 France: People & Their Land",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1410",
+            "course_name": "Approaches to French Culture",
+            "description": "IFST-GA 1410 Approaches to French Culture",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1430",
+            "course_name": "Religion in French Society",
+            "description": "IFST-GA 1430 Religion in French Society",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1490",
+            "course_name": "Std/Fren Hist,Cult/Soc: France Between The Wars",
+            "description": "IFST-GA 1490 Std/Fren Hist,Cult/Soc: France Between The Wars",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1500",
+            "course_name": "Tpcs French Cult Hist:",
+            "description": "IFST-GA 1500 Tpcs French Cult Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1510",
+            "course_name": "French Cultural History Since 1870",
+            "description": "IFST-GA 1510 French Cultural History Since 1870",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1610",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1422",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "IFST ",
+                    "time": "Thu 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Gerson, Stephane"
+                }
+            ],
+            "course_name": "19th Century France",
+            "description": "IFST-GA 1610 19th Century France",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 1620",
+            "course_name": "20th Century France",
+            "description": "IFST-GA 1620 20th Century France",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1710",
+            "course_name": "French Politics,Culture, & Society",
+            "description": "IFST-GA 1710 French Politics,Culture, & Society",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1720",
+            "course_name": "French Political & Social Thought 1750-1880",
+            "description": "IFST-GA 1720 French Political & Social Thought 1750-1880",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1730",
+            "course_name": "French 5 Republic Plt/ Policy/Ins",
+            "description": "IFST-GA 1730 French 5 Republic Plt/ Policy/Ins",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1740",
+            "course_name": "Fr in Wrld Pltc Snc 1940",
+            "description": "IFST-GA 1740 Fr in Wrld Pltc Snc 1940",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1764",
+            "course_name": "Literature & Cinema",
+            "description": "IFST-GA 1764 Literature & Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1810",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17382",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "IFST"
+                }
+            ],
+            "course_name": "Problems in Contemporary French Society TopicsGender, Sexuality and Politcs",
+            "description": "IFST-GA 1810 Problems in Contemporary French Society TopicsGender, Sexuality and Politcs",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 1820",
+            "course_name": "French Society Since The Revolution",
+            "description": "IFST-GA 1820 French Society Since The Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 1910",
+            "course_name": "French Econ: Structures & Policies",
+            "description": "IFST-GA 1910 French Econ: Structures & Policies",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2210",
+            "course_name": "Topics in Women & Gender in French History",
+            "description": "IFST-GA 2210 Topics in Women & Gender in French History",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2220",
+            "course_name": "Social History of The French Language",
+            "description": "IFST-GA 2220 Social History of The French Language",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2230",
+            "course_name": "Paris Vienna & Cultures of Modernism",
+            "description": "IFST-GA 2230 Paris Vienna & Cultures of Modernism",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2240",
+            "course_name": "Visual Arts in Fren Soc",
+            "description": "IFST-GA 2240 Visual Arts in Fren Soc",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2310",
+            "course_name": "Rural France Since 1945",
+            "description": "IFST-GA 2310 Rural France Since 1945",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2313",
+            "course_name": "Education in France:",
+            "description": "IFST-GA 2313 Education in France:",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2315",
+            "course_name": "The Revolution of 1848: History and Literature",
+            "description": "IFST-GA 2315 The Revolution of 1848: History and Literature",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2316",
+            "course_name": "Existenlsm & Politics: Post-War Decade 1945-55",
+            "description": "IFST-GA 2316 Existenlsm & Politics: Post-War Decade 1945-55",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2339",
+            "course_name": "Visual Arts in French Society: 19th Century",
+            "description": "IFST-GA 2339 Visual Arts in French Society: 19th Century \nExplores the relationship between society and art in France. Focus is on the beaux arts?painting, sculpture, and architecture?as well as photography and the decorative arts. The aim is to gain an understanding of artistic production within the context of historical and social change.",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2410",
+            "course_name": "Appr to French Culture",
+            "description": "IFST-GA 2410 Appr to French Culture",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2412",
+            "course_name": "France & Francophone Africa",
+            "description": "IFST-GA 2412 France & Francophone Africa",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2422",
+            "course_name": "France & The Maghreb",
+            "description": "IFST-GA 2422 France & The Maghreb",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2423",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17368",
+                    "section": "001",
+                    "period": "10/21/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "IFST"
+                }
+            ],
+            "course_name": "France & The Caribbean",
+            "description": "IFST-GA 2423 France & The Caribbean",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 2424",
+            "course_name": "France in Europe",
+            "description": "IFST-GA 2424 France in Europe \nAnalyzes the evolution of European Union governance since the 1960s and the role of France in transforming the European governing system. A central issue is how and why French policy moved from Charles de Gaulle?s resistance to a closer union among European states to Fran?ois Mitterrand?s efforts to create an integrated system.",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2510",
+            "course_name": "Contemp Fr Thght:Chall After 1945",
+            "description": "IFST-GA 2510 Contemp Fr Thght:Chall After 1945",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2530",
+            "course_name": "Cultural Hist of France:",
+            "description": "IFST-GA 2530 Cultural Hist of France: \nVarious topics in modern French cultural history",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2720",
+            "course_name": "Topics in 20Thc French Political Thought",
+            "description": "IFST-GA 2720 Topics in 20Thc French Political Thought",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2730",
+            "course_name": "French State: Public Law Admin & Policy",
+            "description": "IFST-GA 2730 French State: Public Law Admin & Policy",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2810",
+            "course_name": "Tpcs Fren Cult & Scty:",
+            "description": "IFST-GA 2810 Tpcs Fren Cult & Scty: \nRecent topics: family and gender; urban anthropology; excursions in interdisciplinarity.",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2821",
+            "course_name": "French Law & Society",
+            "description": "IFST-GA 2821 French Law & Society",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2860",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17369",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/20/2015",
+                    "location": "IFST ",
+                    "time": "Tue,Thu 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Kalifa, Dominique"
+                }
+            ],
+            "course_name": "La Belle Epoque",
+            "description": "IFST-GA 2860 La Belle Epoque",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 2890",
+            "course_name": "Workshop Translation I",
+            "description": "IFST-GA 2890 Workshop Translation I",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2910",
+            "course_name": "Topics:",
+            "description": "IFST-GA 2910 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2915",
+            "course_name": "Paris Course I",
+            "description": "IFST-GA 2915 Paris Course I",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2920",
+            "course_name": "Paris Course 11",
+            "description": "IFST-GA 2920 Paris Course 11",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2925",
+            "course_name": "Paris Course II",
+            "description": "IFST-GA 2925 Paris Course II",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2930",
+            "course_name": "Paris Course III",
+            "description": "IFST-GA 2930 Paris Course III",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2935",
+            "course_name": "Paris Course III",
+            "description": "IFST-GA 2935 Paris Course III",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 2991",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1423",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Guided Reading",
+            "description": "IFST-GA 2991 Guided Reading",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 2992",
+            "course_name": "Guided Reading",
+            "description": "IFST-GA 2992 Guided Reading",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3010",
+            "course_name": "Paris Course I",
+            "description": "IFST-GA 3010 Paris Course I",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3015",
+            "course_name": "Paris Course I",
+            "description": "IFST-GA 3015 Paris Course I",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3020",
+            "course_name": "Paris Course II",
+            "description": "IFST-GA 3020 Paris Course II",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3025",
+            "course_name": "Paris Course II",
+            "description": "IFST-GA 3025 Paris Course II",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3030",
+            "course_name": "Paris Course III",
+            "description": "IFST-GA 3030 Paris Course III",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3035",
+            "course_name": "Paris Course III",
+            "description": "IFST-GA 3035 Paris Course III",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3630",
+            "course_name": "Modern French History",
+            "description": "IFST-GA 3630 Modern French History",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3640",
+            "course_name": "Doctoral Sem in Mod French History",
+            "description": "IFST-GA 3640 Doctoral Sem in Mod French History",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3699",
+            "course_name": "Sem 19th C Lit: Lit Et Revolution",
+            "description": "IFST-GA 3699 Sem 19th C Lit: Lit Et Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3700",
+            "course_name": "French Social Theory and The Social Text",
+            "description": "IFST-GA 3700 French Social Theory and The Social Text",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3710",
+            "course_name": "Rsch Sem French Studies",
+            "description": "IFST-GA 3710 Rsch Sem French Studies",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3720",
+            "course_name": "Research Seminar: French Studies",
+            "description": "IFST-GA 3720 Research Seminar: French Studies",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3735",
+            "course_name": "French Private Law",
+            "description": "IFST-GA 3735 French Private Law",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3991",
+            "course_name": "Dissertation Research",
+            "description": "IFST-GA 3991 Dissertation Research",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 3992",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1424",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation Research",
+            "description": "IFST-GA 3992 Dissertation Research",
+            "offering": true
+        },
+        {
+            "course_id": "IFST-GA 9210",
+            "course_name": "Gender in French History",
+            "description": "IFST-GA 9210 Gender in French History",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9412",
+            "course_name": "Francophone Lit & Post- Colonial Subjectivity",
+            "description": "IFST-GA 9412 Francophone Lit & Post- Colonial Subjectivity",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9500",
+            "course_name": "Topics",
+            "description": "IFST-GA 9500 Topics",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9510",
+            "course_name": "French Cultural History Since 1870(in French)",
+            "description": "IFST-GA 9510 French Cultural History Since 1870(in French)",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9530",
+            "course_name": "Cult History of France:",
+            "description": "IFST-GA 9530 Cult History of France:",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9630",
+            "course_name": "Modern French History",
+            "description": "IFST-GA 9630 Modern French History",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9710",
+            "course_name": "French Pol & Society: Longue Duree of Fren Pol",
+            "description": "IFST-GA 9710 French Pol & Society: Longue Duree of Fren Pol",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9910",
+            "course_name": "Topics:",
+            "description": "IFST-GA 9910 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "IFST-GA 9991",
+            "course_name": "Guided Reading",
+            "description": "IFST-GA 9991 Guided Reading",
+            "offering": false
+        }
+    ]
+}

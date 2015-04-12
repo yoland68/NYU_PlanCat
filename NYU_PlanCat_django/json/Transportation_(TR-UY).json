@@ -1,0 +1,30 @@
+{
+    "major_id": "TR-UY",
+    "file": "./2015-2016/Transportation_(TR-UY).html",
+    "courses": [
+        {
+            "course_id": "TR-UY 300",
+            "course_name": "ENGINEERING ECONOMY",
+            "description": "TR-UY  300 ENGINEERING ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "TR-UY 360",
+            "course_name": "TRAFFIC PLAN & OPERAT",
+            "description": "TR-UY  360 TRAFFIC PLAN & OPERAT",
+            "offering": false
+        },
+        {
+            "course_id": "TR-UY 361",
+            "course_name": "TRANSPORTATION MODELS",
+            "description": "TR-UY  361 TRANSPORTATION MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "TR-UY 362",
+            "course_name": "PUB TRANS TECH-OPERAT",
+            "description": "TR-UY  362 PUB TRANS TECH-OPERAT",
+            "offering": false
+        }
+    ]
+}

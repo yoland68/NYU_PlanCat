@@ -1,0 +1,30 @@
+{
+    "major_id": "WRIT-SHU",
+    "file": "./2015-2016/Writing_(WRIT-SHU).html",
+    "courses": [
+        {
+            "course_id": "WRIT-SHU 159",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13301",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Perry, David",
+                    "time": "Thu 3.15 PM - 5.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Introduction to Creative Writing",
+            "description": "WRIT-SHU  159 Introduction to Creative Writing \nThis workshop introduces students to the basic elements of poetry, fiction and creative nonfiction through in-class and take-home writing assignments, intensive discussions of craft and technique, and the close study of selected works by exemplary writers. Students will be expected to give one another constructive, critical feedback while also receiving regular critiques from the instructor both in workshop meetings and individual conferences.Evaluation will be based on completed writing exercises, workshop participation, and a final portfolio.",
+            "offering": true
+        },
+        {
+            "course_id": "WRIT-SHU 9101",
+            "course_name": "Writing I",
+            "description": "WRIT-SHU 9101 Writing I",
+            "offering": false
+        }
+    ]
+}

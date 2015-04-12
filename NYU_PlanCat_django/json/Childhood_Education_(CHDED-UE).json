@@ -1,0 +1,127 @@
+{
+    "major_id": "CHDED-UE",
+    "file": "./2015-2016/Childhood_Education_(CHDED-UE).html",
+    "courses": [
+        {
+            "course_id": "CHDED-UE 1000",
+            "course_name": "Indepedent Study",
+            "description": "CHDED-UE 1000 Indepedent Study \nIt should be noted that  independent study requires a minimum of 45 hours of work per point.  Independent study cannot be applied to the established professional education sequence in teaching curricula.  Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from the student's department prior to registering for independent study,each student should obtain an Independent Study approval from the adviser.",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1005",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10285",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL33",
+                    "time": "Mon 5.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Carothers, Suzanne"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "10286",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL21",
+                    "time": "Mon 5.20 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Schulman, Russ"
+                }
+            ],
+            "course_name": "Integrating Seminar I: Contxt/Lrn Envr Diverse",
+            "description": "CHDED-UE 1005 Integrating Seminar I: Contxt/Lrn Envr Diverse \nA seminar course designed to encourage the integration of theory and practice, taken concurrent to first semester of student teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "CHDED-UE 1006",
+            "course_name": "Integrat Sem II Assessmt Guide to Instruction",
+            "description": "CHDED-UE 1006 Integrat Sem II Assessmt Guide to Instruction \nA seminar course designed to encourage the integration of theory and practice, taken concurrent to first semester of student teaching.",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1007",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10287",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-8",
+                    "time": "Mon 3.30 PM - 4.20 PM",
+                    "open": true,
+                    "professor": "Friedlander, Helen"
+                }
+            ],
+            "course_name": "Integrating Seminar III: Curr Degn/Inst Diverse",
+            "description": "CHDED-UE 1007 Integrating Seminar III: Curr Degn/Inst Diverse \nA seminar course designed to encourage the integration of theory and practice, taken concurrent to second semester of student teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "CHDED-UE 1008",
+            "course_name": "Integrating Seminar IV: Prof Dev/Coll Prnt Prof",
+            "description": "CHDED-UE 1008 Integrating Seminar IV: Prof Dev/Coll Prnt Prof \nA seminar course designed to encourage the integration of theory and practice, taken concurrent with last semester of student teaching.",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1141",
+            "course_name": "Integrated Curricula in Science,Health and Math",
+            "description": "CHDED-UE 1141 Integrated Curricula in Science,Health and Math \nThematic teaching across the curriculum is modeled in this course in science, health and mathematics. The course will give undergraduate childhood students the opportunity to explore teaching methodologies in each of these content areas with primary focus  on the role of science education in the elementary school curriculum. Science education requires teachers not only to know science subject matter but also to understand how to use scientific information to solve real-world problems and build an environment in their classrooms where inquiry, observation and tinkering can take place",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1142",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11790",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Turk, Diana"
+                }
+            ],
+            "course_name": "",
+            "description": "CHDED-UE 1142\n\n   Integrated Curr/Multi Ed Soc Studies/Curr Design\n\nThis course will provide an introduction to the foundations of multicultural, culturally relevant education, with particular attention to its implications in the area of social studies. We will examine issues of historical and current inequity in our schools and society. Explores dimensions of identity and diversity, as well as concepts of prejudice, discrimination and racism.  Introduces the theory and skills necessary for successful culturally responsive teaching. Establishes the basis for planning integrative, social studies curricula that are inclusive of all voices and perspectives, and w...\n\n      more description for CHDED-UE 1142 \u00bb\n\n      \n\n\n\nThis course will provide an introduction to the foundations of multicultural, culturally relevant education, with particular attention to its implications in the area of social studies. We will examine issues of historical and current inequity in our schools and society. Explores dimensions of identity and diversity, as well as concepts of prejudice, discrimination and racism.  Introduces the theory and skills necessary for successful culturally responsive teaching. Establishes the basis for planning integrative, social studies curricula that are inclusive of all voices and perspectives, and which prepare students to be agents of change in their own lives and education. Models broad variety of instructional strategies aimed at eliciting participation of diverse learners. This course proposed that multicultural education is by definition and necessity teaching for social justice.\n\n      less description for CHDED-UE 1142 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CHDED-UE 1143",
+            "course_name": "",
+            "description": "CHDED-UE 1143\n\n   Intgrtd Curr in Math,SCI & Soc Stu in Chlhd Educ\n\nThis course will provide an introduction to the foundations of multicultural, culturally relevant education, with particular attention to its implications in the area of social studies. We will examine issues of historical and current inequity in our schools and society. Explores dimensions of identity and diversity, as well as concepts of prejudice, discrimination and racism.  Introduces the theory and skills necessary for successful culturally responsive teaching. Establishes the basis for planning integrative, social studies curricula that are inclusive of all voices and perspectives, and w...\n\n      more description for CHDED-UE 1143 \u00bb\n\n      \n\n\n\nThis course will provide an introduction to the foundations of multicultural, culturally relevant education, with particular attention to its implications in the area of social studies. We will examine issues of historical and current inequity in our schools and society. Explores dimensions of identity and diversity, as well as concepts of prejudice, discrimination and racism.  Introduces the theory and skills necessary for successful culturally responsive teaching. Establishes the basis for planning integrative, social studies curricula that are inclusive of all voices and perspectives, and which prepare students to be agents of change in their own lives and education. Models broad variety of instructional strategies aimed at eliciting participation of diverse learners. This course proposed that multicultural education is by definition and necessity teaching for social justice.\n\n      less description for CHDED-UE 1143 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1144",
+            "course_name": "Integrating Curricula in Children'S Lit/Arts/Tech",
+            "description": "CHDED-UE 1144 Integrating Curricula in Children'S Lit/Arts/Tech \nThis course integrates children's literature, the arts, and technology. Thematic teaching methods specific to these individual content areas will develop prospective teacher's ability to use poetry, prose, storytelling, visual arts, dance, music, drama, computers, the internet and digital media with students grades one thru six. These subject areas will be taught in modules and simultaneously integrated through class activities and field research projects.",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1901",
+            "course_name": "Student Teaching in Childhood I",
+            "description": "CHDED-UE 1901 Student Teaching in Childhood I \nOne semester supervised student teaching in a childhood classroom in grades 1-6 a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum.",
+            "offering": false
+        },
+        {
+            "course_id": "CHDED-UE 1902",
+            "classes": [
+                {}
+            ],
+            "course_name": "Student Teaching in Childhood II",
+            "description": "CHDED-UE 1902 Student Teaching in Childhood II \nOne semester supervised student teaching in a childhood classroom in grades 1-6 a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum.",
+            "offering": true
+        },
+        {
+            "course_id": "CHDED-UE 1903",
+            "course_name": "Student Teaching in Childhood (Grade N-6)",
+            "description": "CHDED-UE 1903 Student Teaching in Childhood (Grade N-6) \nOne semester supervised student teaching in a childhood classroom in grades N-6 a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum.",
+            "offering": false
+        }
+    ]
+}

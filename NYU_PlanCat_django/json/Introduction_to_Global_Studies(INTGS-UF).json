@@ -1,0 +1,24 @@
+{
+    "major_id": "INTGS-UF",
+    "file": "./2015-2016/Introduction_to_Global_Studies(INTGS-UF).html",
+    "courses": [
+        {
+            "course_id": "INTGS-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16436",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 384"
+                }
+            ],
+            "course_name": "Introduction to Global Studies",
+            "description": "INTGS-UF  101 Introduction to Global Studies",
+            "offering": true
+        }
+    ]
+}

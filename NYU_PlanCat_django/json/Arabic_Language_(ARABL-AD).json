@@ -1,0 +1,218 @@
+{
+    "major_id": "ARABL-AD",
+    "file": "./2015-2016/Arabic_Language_(ARABL-AD).html",
+    "courses": [
+        {
+            "course_id": "ARABL-AD 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12814",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "CAMP E049"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "13004",
+                    "section": "005",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 3.35 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "CAMP E049"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "12815",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "CAMP E049"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "12816",
+                    "section": "003",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed 12.45 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "CAMP E04908/30/2015 - 12/17/2015 Sun 2.10 PM - 3.25 PM at CAMP E049"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "12817",
+                    "section": "004",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "CAMP E050"
+                }
+            ],
+            "course_name": "Elementary Arabic 1",
+            "description": "ARABL-AD  101 Elementary Arabic 1 \nBuilds basic skills in modern standard Arabic. A continuing study of Arabic at the Elementary level. Five weekly hours of instruction and drill, stressing the proficiency approach, plus work in the language laboratory.",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 102",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12836",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "CAMP W008"
+                }
+            ],
+            "course_name": "Elementary Arabic 2",
+            "description": "ARABL-AD  102 Elementary Arabic 2 \nA continuing study of Arabic at the Elementary level. Five weekly hours of instruction and drill, stressing the proficiency approach, plus work in the language laboratory.",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 131",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13051",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "CAMP E048"
+                }
+            ],
+            "course_name": "",
+            "description": "ARABL-AD  131\n\n   Arabic Language and Heritage I\n\nThis course is the first in a series of courses meant for students who come from Arabic-speaking families and who grew up in an Arabic-speaking environment but have not had sufficient training in Arabic. These courses are designed to help those students master formal Arabic language skills and empower them, as citizens, to become more engaged in their society, culture, and heritage. The series achieves this goal by reactivating the students\u2019 acquired but dormant knowledge of their native tongue even as it provides new accessible and relevant instruction in the language. In ALH 1 the student wi...\n\n      more description for ARABL-AD  131 \u00bb\n\n      \n\n\n\nThis course is the first in a series of courses meant for students who come from Arabic-speaking families and who grew up in an Arabic-speaking environment but have not had sufficient training in Arabic. These courses are designed to help those students master formal Arabic language skills and empower them, as citizens, to become more engaged in their society, culture, and heritage. The series achieves this goal by reactivating the students\u2019 acquired but dormant knowledge of their native tongue even as it provides new accessible and relevant instruction in the language. In ALH 1 the student will perfect their knowledge of the Arabic writing/reading system; will learn how to produce accurate and coherent sentences in Arabic; and will utilize a variety of audio-visual material to begin to re-discover, debate, and express some of the key characteristics of Arab culture and identity.\n\n      less description for ARABL-AD  131 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12818",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "CAMP E048"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "12819",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "CAMP E047"
+                }
+            ],
+            "course_name": "Intermediate Arabic 1",
+            "description": "ARABL-AD  201 Intermediate Arabic 1 \nA continuing study of Arabic at the Intermediate level, with increased emphasis on writing and reading from modern sources in addition to aural/ oral proficiency.",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 202",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13037",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Sun 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "CAMP E047"
+                }
+            ],
+            "course_name": "Intermediate Arabic 2",
+            "description": "ARABL-AD  202 Intermediate Arabic 2 \nA continuing study of Arabic at the Intermediate level, with increased emphasis on writing and reading from modern sources in addition to aural/oral proficiency.",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 219",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13038",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Sun 2.10 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "CAMP W00908/30/2015 - 12/17/2015 Mon,Wed 3.35 PM - 4.50 PM at CAMP W009"
+                }
+            ],
+            "course_name": "Colloquial Arabic - Levantine Dialect",
+            "description": "ARABL-AD  219 Colloquial Arabic - Levantine Dialect \nComplements the student\u2019s knowledge of Standard Arabic to include proficiency in one of the major Arabic vernaculars, with an emphasis on daily life tasks, conversational fluency, and cultural sensibility.",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 219",
+            "course_name": "J",
+            "description": "ARABL-AD  219J\n\n   Colloquial Arabic - Emirati Dialect\n\nA people's dialect is a representation of their identity and a reflection of their cultural life. Building on the students' prior knowledge of Modern Standard Arabic, this course introduces the students to the unique aspects that make the\nEmirati dialect so lively and distinctive. Taught in the oasis city of Al Ain, the course serves as a gateway to accessing intimate aspects of life, culture, and heritage of the Gulf region. Using a bilingual textbook specifically designed\nby the course instructors to teach Emirati Arabic in formal and informal settings, students learn and experience the targ...\n\n      more description for ARABL-AD  219J \u00bb\n\n      \n\n\n\nA people's dialect is a representation of their identity and a reflection of their cultural life. Building on the students' prior knowledge of Modern Standard Arabic, this course introduces the students to the unique aspects that make the\nEmirati dialect so lively and distinctive. Taught in the oasis city of Al Ain, the course serves as a gateway to accessing intimate aspects of life, culture, and heritage of the Gulf region. Using a bilingual textbook specifically designed\nby the course instructors to teach Emirati Arabic in formal and informal settings, students learn and experience the target dialect through direct instruction as well as through exploration of Emirati cultural life in folklore, song, film, art, and literature.\n\n      less description for ARABL-AD  219J \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ARABL-AD 231",
+            "course_name": "",
+            "description": "ARABL-AD  231\n\n   Arabic Language and Heritage II\n\nThis course is the second in a series of courses meant for students who come from Arabic-speaking families and who grew up in an Arabic-speaking environment but have not had sufficient training in Arabic. These courses are designed to help those students master formal Arabic language skills and empower them, as citizens, to become more engaged in their society, culture, and heritage. The series achieves this goal by reactivating the students\u2019 acquired but dormant knowledge of their native tongue even as it provides new accessible and relevant instruction in the language. In ALH 2 the student w...\n\n      more description for ARABL-AD  231 \u00bb\n\n      \n\n\n\nThis course is the second in a series of courses meant for students who come from Arabic-speaking families and who grew up in an Arabic-speaking environment but have not had sufficient training in Arabic. These courses are designed to help those students master formal Arabic language skills and empower them, as citizens, to become more engaged in their society, culture, and heritage. The series achieves this goal by reactivating the students\u2019 acquired but dormant knowledge of their native tongue even as it provides new accessible and relevant instruction in the language. In ALH 2 the student will work to perfect their command of Arabic syntax; will learn to produce longer argumentative pieces; will begin to access, assess and taste some of Arabic\u2019s key modern literary and cultural products and will continue to debate, and explore various aspects of Arabic culture.\n\n      less description for ARABL-AD  231 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ARABL-AD 301",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12820",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.10 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "CAMP E048"
+                }
+            ],
+            "course_name": "Advanced Arabic 1",
+            "description": "ARABL-AD  301 Advanced Arabic 1 \nBuilds on the skills acquired at the Intermediate level of Arabic study, with emphasis on writing compositions and conducting research.",
+            "offering": true
+        },
+        {
+            "course_id": "ARABL-AD 302",
+            "course_name": "Advanced Arabic 2",
+            "description": "ARABL-AD  302 Advanced Arabic 2 \nA continuing study of Arabic at the Advanced level, with emphasis on writing compositions and conducting research.",
+            "offering": false
+        },
+        {
+            "course_id": "ARABL-AD 315",
+            "course_name": "| ARABL-AD  315X",
+            "description": "ARABL-AD  315 | ARABL-AD  315X\n\n   Arabic Cultural Explorations\n\nThis course wraps up the student\u2019s sequenced language learning experience with an opportunity to explore the cultural and artistic diversity of the Arab world using the acquired language skills. Students cap their language achievement by\naccessing and studying such cultural forms as literature, song, film, folklore, etc., in the original language. The course includes fourteen modules: twelve already set, and two final modules to be worked out over the semester by two student teams. The modules center on key texts in categories like language, place, family, and customs, which inform and shape m...\n\n      more description for ARABL-AD  315 | ARABL-AD  315X \u00bb\n\n      \n\n\n\nThis course wraps up the student\u2019s sequenced language learning experience with an opportunity to explore the cultural and artistic diversity of the Arab world using the acquired language skills. Students cap their language achievement by\naccessing and studying such cultural forms as literature, song, film, folklore, etc., in the original language. The course includes fourteen modules: twelve already set, and two final modules to be worked out over the semester by two student teams. The modules center on key texts in categories like language, place, family, and customs, which inform and shape modern Arab identities, civilizations(s), and consciousness.\n\n      less description for ARABL-AD  315 | ARABL-AD  315X \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ARABL-AD 329",
+            "course_name": "",
+            "description": "ARABL-AD  329\n\n   Introduction to Islamic Texts (in Arabic)\n\nThis course introduces students to the main stylistic features of classical Arabic. Students get a flavor of an older yet essential register of Arabic\nthrough the most important texts of the Islamic tradition. These texts constitute the very core of Islam to this day: the Qur\u2019an and the Hadith (sayings of the Prophet Muhammad). The syllabus also includes samples from the Tafsir tradition (Qur\u2019anic hermeneutics), Sufi/mystical literature (poetry and prose), philosophical novels, and pious tales from the popular sphere (the Arabian Nights tradition). The Qur\u2019an provides a sustained focus for th...\n\n      more description for ARABL-AD  329 \u00bb\n\n      \n\n\n\nThis course introduces students to the main stylistic features of classical Arabic. Students get a flavor of an older yet essential register of Arabic\nthrough the most important texts of the Islamic tradition. These texts constitute the very core of Islam to this day: the Qur\u2019an and the Hadith (sayings of the Prophet Muhammad). The syllabus also includes samples from the Tafsir tradition (Qur\u2019anic hermeneutics), Sufi/mystical literature (poetry and prose), philosophical novels, and pious tales from the popular sphere (the Arabian Nights tradition). The Qur\u2019an provides a sustained focus for the course, with particular attention being paid to how it has influenced all categories of\nArabo-Islamic literature: linguistically, stylistically, thematically, and doctrinally.\n\n      less description for ARABL-AD  329 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ARABL-AD 331",
+            "course_name": "",
+            "description": "ARABL-AD  331\n\n   Arabic Language and Heritage III\n\nThis course is the last in a series of courses meant for students who come from Arabic-speaking families and who grew up in an Arabic-speaking environment but have not had sufficient training in Arabic. These courses are designed to help those students master formal Arabic language skills and empower them, as citizens, to become more engaged in their society, culture, and heritage. The series achieves this goal by reactivating the students\u2019 acquired but dormant knowledge of their native tongue even as it provides new accessible and relevant instruction in the language. In ALH 3 the student wil...\n\n      more description for ARABL-AD  331 \u00bb\n\n      \n\n\n\nThis course is the last in a series of courses meant for students who come from Arabic-speaking families and who grew up in an Arabic-speaking environment but have not had sufficient training in Arabic. These courses are designed to help those students master formal Arabic language skills and empower them, as citizens, to become more engaged in their society, culture, and heritage. The series achieves this goal by reactivating the students\u2019 acquired but dormant knowledge of their native tongue even as it provides new accessible and relevant instruction in the language. In ALH 3 the student will focus more on understanding and learning some of Arabic\u2019s major rhetorical styles; will continue to study original Arabic literature both classical and contemporary; will produce publication-quality output; and will engage in more critical study of the main intellectual debates in Arab life today.\n\n      less description for ARABL-AD  331 \u00ab",
+            "offering": false
+        }
+    ]
+}

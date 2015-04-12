@@ -1,0 +1,764 @@
+{
+    "major_id": "TCHT1-UC",
+    "file": "./2015-2016/Hotel_&_Tourism_Management_(TCHT1-UC).html",
+    "courses": [
+        {
+            "course_id": "TCHT1-UC 1000",
+            "course_name": "Tourism Impacts & Issues",
+            "description": "TCHT1-UC 1000 Tourism Impacts & Issues \nA survey of the dimensions, operations, and issues of the global tourism industry.  Topics covered include: tourism supply and demand; the geographic, economic, and socio-cultural perspectives of travel; consumer behavior as it affects tourism; transportation and distribution systems; the segments of the industry (cruise lines; tour operations; attractions; government agencies) international and public policy; and trade organizations; technological impacts on tourism.  Sustainable development and other key trends and new practices in tourism are also explored.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 1050",
+            "course_name": "Entrepreneurship",
+            "description": "TCHT1-UC 1050 Entrepreneurship \nThis course will examine the challenges and opportunities associated with starting a new hospitality or tourism business venture. Emphasis will be on planning and developing a hospitality or tourism business as either a private or non-for-profit venture. Topics include fundamentals of entrepreneurship, business planning and development strategies, tax policies, legal forms of ownership, sales techniques and marketing strategies. The incorporation of case studies will be used throughout the semester. The final class project will be the development of an entrepreneurial business plan.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 1070",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9820",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 261"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10081",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                }
+            ],
+            "course_name": "Lodging Industry Structures & Strategies",
+            "description": "TCHT1-UC 1070 Lodging Industry Structures & Strategies \nA survey of lodging industry history, practices, and trends through a review of the products, customers, suppliers, operators, and owners in this industry.  The various organizational structures, including franchises, REITS, third party management and the types of hotels (geographic, service, and target market), will be discussed relative to ownership objectives.  Topics to be covered include: managing operational departments such as human resources, food and beverage, rooms, revenue management, engineering and maintenance, technology, and sales and marketing and accounting.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1080",
+            "course_name": "Adv Sem in Hospitality & Tourism Management",
+            "description": "TCHT1-UC 1080 Adv Sem in Hospitality & Tourism Management",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 1100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9982",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Deshommes, Claudie",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Financial Management for Hospitality & Tourism",
+            "description": "TCHT1-UC 1100 Financial Management for Hospitality & Tourism \nAn examination of various financial instruments, structures, and strategies by which hospitality and tourism businesses operate.  Topics to be covered include: basic financial concepts; reporting requirements for the hotel and tourism industries; methods of raising capital; the time value of money; budgeting; and forecasting; sources and uses of working capital; and differences between not for profit accounting and capital accounting.  Students will use professional hotel and tourism business software.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9821",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": "GCASL 365",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Warner, Mark"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9822",
+                    "section": "002",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": "Warner, Mark",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Hotel & Tourism Accounting",
+            "description": "TCHT1-UC 1120 Hotel & Tourism Accounting \nAn introduction to accounting principles, instruments, and structures by which hotel and tourism businesses operate.  Topics to be covered include: basic accounting concepts and principles, not for profit accounting principles, the creation of journal entries, balance sheets, income statements, owner?s equity statements, statements of cash flow and their importance in making informed business decisions.  Students will identify, record, and post accounting data using appropriate accounting and business software.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1200",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17611",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "GCASL 275"
+                }
+            ],
+            "course_name": "Human Resource Management",
+            "description": "TCHT1-UC 1200 Human Resource Management \nAn examination of the role of human resource management in hospitality and tourism operations from social, legal, competitive, and global perspectives. Topics include: human asset planning, recruiting, selecting, hiring, orienting, training, retaining, motivating, developing, compensating, evaluating, and supporting employees.  Legislation, regulations, labor unions, and organizational needs will be discussed from the perspective of both functional and strategic approaches.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9823",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 LL25"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9824",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 288"
+                }
+            ],
+            "course_name": "Hospitality & Tourism Sales & Marketing",
+            "description": "TCHT1-UC 1300 Hospitality & Tourism Sales & Marketing \nAn examination of marketing and sales concepts as applied to the hospitality and tourism industries with an emphasis on competitive and brand analysis, segmentation, revenue management, customer relationship management, traditional and contemporary promotional tactics, and sales.  Topics to be covered include: marketing principles and trends, sales strategies, market positioning, product and service development, advertising and public relations, the sales cycle, strategic planning, internet marketing, transient vs. group sales processes, and distribution channels.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1320",
+            "course_name": "Hospitality and Tourism Sales",
+            "description": "TCHT1-UC 1320 Hospitality and Tourism Sales \nThis course will focus on the knowledge and skills required to be a successful sales person with emphasis on the variety of sales positions within the hotel and tourism industry. The course will focus on sales techniques and service in the hospitality/tourism industry, understanding the buyer, understanding the product, sales cycle of success, advancing the sale, selling by telephone and in person, negotiations and contracts, and strategies for success.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 1350",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17615",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-3"
+                }
+            ],
+            "course_name": "Leadership for Crisis Situations",
+            "description": "TCHT1-UC 1350 Leadership for Crisis Situations \nAn analysis of the challenges and processes involved in making an intervention or leading a team or organization through a difficult period, crisis, or major change as well as promoting solutions to stakeholders and the public at large.  Topics to be covered include: leading, managing, negotiating, planning for emergencies, team building, motivating, and communicating in a multicultural, changing global industry environment.  Students will analyze at least one major industry case.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1360",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17298",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "SILV 507"
+                }
+            ],
+            "course_name": "",
+            "description": "TCHT1-UC 1360\n\n   Customer Relationship Management\n\nThis course explores the structures, cultures, and the goals of organizations with the purpose of developing effective strategies for managing their customer relationships. The active management of the relationships requires though analysis of customer demands, expectations, and needs.  The creation of strategies to assess and satisfy customer demands and needs are the basis of a systematic approach to relationship management.  Topics to be covered include: customer behaviors and expectations, service delivery strategies, customer value, guest satisfaction, service quality, continuous improvem...\n\n      more description for TCHT1-UC 1360 \u00bb\n\n      \n\n\n\nThis course explores the structures, cultures, and the goals of organizations with the purpose of developing effective strategies for managing their customer relationships. The active management of the relationships requires though analysis of customer demands, expectations, and needs.  The creation of strategies to assess and satisfy customer demands and needs are the basis of a systematic approach to relationship management.  Topics to be covered include: customer behaviors and expectations, service delivery strategies, customer value, guest satisfaction, service quality, continuous improvement processes, customer communication skills, technological applications, and reward and loyalty programs.\n\n      less description for TCHT1-UC 1360 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1400",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9826",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 265"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9827",
+                    "section": "002",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "SILV 500"
+                }
+            ],
+            "course_name": "Hospitality & Tourism Law",
+            "description": "TCHT1-UC 1400 Hospitality & Tourism Law \nA review of statutes, regulations and case law and their application to hospitality and tourism operations.  Topics covered include: basic legal principles and procedures; the hotel-guest relationship; laws regarding food and beverage operations; legal standards of employee contracts; government regulations; management and franchise agreements; and commercial and case law.  Emphasis is placed on understanding negotiations, mediation, arbitration, and contract relationships between unions and management, as well as hospitality and tourism vendors, suppliers, and concessionaires.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1500",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17623",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 LL23"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17300",
+                    "section": "002",
+                    "period": "09/03/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Applied Research",
+            "description": "TCHT1-UC 1500 Applied Research \nA review of the processes of obtaining and analyzing relevant, reliable, valid, and current information necessary for the examination of hospitality and tourism industry practices and trends.  Topics to be covered include: assessing scholarly research, analyzing industry reports, staying current with industry trends, designing a coherent research project, analyzing data, and applying research findings to specific managerial problems.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1600",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17618",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17317",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Business Development I",
+            "description": "TCHT1-UC 1600 Business Development I \nAn examination of business management principles (planning, organizing, staffing, directing, and controlling) and organizational structures (single proprietorship, partnership, limited liability corporation, C corporation, and S corporation) from human, legal and financial perspectives.  Topics covered include: life cycles of businesses, financial and risk analysis for businesses, legal issues in business operations, premises liability, franchising arrangements, analysis of physical assets, industry practices, managerial strategies, and current governmental regulations.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17619",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17187",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Business Development II",
+            "description": "TCHT1-UC 1601 Business Development II \nAn examination of the principles of organizing, operating, financing and operating single and mixed use projects from the perspectives of business operators, investors, and owners.  Topics covered include: project finance, market analysis, facility contracts, leaseholder agreements, models of mortgages and public financing, sources of capital and their impact on projects, and public and private partnerships.  A case study analyzing a particular project will be integrated into the course.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1602",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17622",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 501"
+                }
+            ],
+            "course_name": "Business Development III",
+            "description": "TCHT1-UC 1602 Business Development III \nAn analysis of the challenges faced and skills necessary in running a small organization or making changes within a large one from the perspectives of marketing, finance, law, and human resources.  Topics covered included: the principles and procedures for starting a business, changing corporate structures, franchising, media strategies, making businesses successful over the long term, making effective changes in organizations, leading an organization, and the dimensions of entrepreneurial behavior.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1900",
+            "course_name": "",
+            "description": "TCHT1-UC 1900\n\n   Internship I: HTTM\n\nA three hundred (300) hour supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students meet with a Faculty Advisor to set written objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, students are required to submit an evaluation from their internship work experience supervisor for each 150 hours of their internship.  Students will work for one hundred fifty (150) hours at one company or organization and one hundred fifty (150...\n\n      more description for TCHT1-UC 1900 \u00bb\n\n      \n\n\n\nA three hundred (300) hour supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students meet with a Faculty Advisor to set written objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, students are required to submit an evaluation from their internship work experience supervisor for each 150 hours of their internship.  Students will work for one hundred fifty (150) hours at one company or organization and one hundred fifty (150) hours at another.  To complete three hundred (300) hours at a single organization, students will need to obtain the approval of their Faculty Advisor. This course must be completed in one semester or two consecutive semesters (fall/spring, spring/summer, summer/fall).    This course is a pass/fail course.  The course must be taken twice.\n\n      less description for TCHT1-UC 1900 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 1901",
+            "course_name": "",
+            "description": "TCHT1-UC 1901\n\n   Internship II: HTTM\n\nA supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students may register for this course three times.   Students registering for one unit (300 hours) should complete the course work in one semester or two consecutive semesters.  Students can also complete two units (600 hours) in one semester or two consecutive semesters.  Students meet with a Faculty Advisor to set objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, stude...\n\n      more description for TCHT1-UC 1901 \u00bb\n\n      \n\n\n\nA supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students may register for this course three times.   Students registering for one unit (300 hours) should complete the course work in one semester or two consecutive semesters.  Students can also complete two units (600 hours) in one semester or two consecutive semesters.  Students meet with a Faculty Advisor to set objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, students are required to submit an evaluation from their internship work experience supervisor for each one hundred fifty (150) hours of their internship. Students registered for three units must also prepare a presentation for fellow students and faculty that provides an overview of the company, the work experience, and learning outcomes in addition to other course assignments.  The presentation will be accompanied by a written analysis of the current status of the company, the industry sector, and professional outlook for the future of the firm.  This course is a pass/fail course.  The course may be taken for one unit, two units, or three units.\n\n      less description for TCHT1-UC 1901 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 1920",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9834",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015 ",
+                    "location": "Prohaska, Sharr",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Professional Seminar I",
+            "description": "TCHT1-UC 1920 Professional Seminar I \nAn introduction to college and to the educational culture, policies, procedures, resources, and programs of the Tisch Center and New York University.  Topics to be covered include: self assessment, educational goals, study skills, an introduction to library resources, the process of finding materials, and a tour of University resources, including the Bobst Library.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1921",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9835",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Professional Seminar II",
+            "description": "TCHT1-UC 1921 Professional Seminar II \nAn explanation of and preparation for Internship I and II.  Topics to be covered include: identifying professional skills and interests, writing resumes, preparing cover letters, basic interviewing, searching for an internship, networking skills, writing business letters, and learning business etiquette.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1922",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9836",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Professional Seminar III",
+            "description": "TCHT1-UC 1922 Professional Seminar III \nAn introduction to public speaking and interviewing.  Topics to be covered include: preparing formal and informal speeches, platform skills, presenting ideas, presenting yourself professionally, and interviewing skills.  Students will revise their resumes, participate in mock interviews, and make a public presentation.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 1923",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9837",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Professional Seminar IV",
+            "description": "TCHT1-UC 1923 Professional Seminar IV \nAn examination of the process of transitioning from college to full-time career positions or graduate school. Topics to be covered include: selecting job opportunities, continuing professional education, balancing personal and professional lives, managing transitions, identifying role models, and managing career and finances.  Students will update their resumes and networking databases.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 2000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9942",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Laitamaki, Jukka",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship I",
+            "description": "TCHT1-UC 2000 Internship I",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 2001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9943",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Laitamaki, Jukka",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship I",
+            "description": "TCHT1-UC 2001 Internship I",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 2010",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9944",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Laitamaki, Jukka",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship II",
+            "description": "TCHT1-UC 2010 Internship II",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3200",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9940",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 121 (SB)"
+                }
+            ],
+            "course_name": "Rooms Division Mgmt",
+            "description": "TCHT1-UC 3200 Rooms Division Mgmt \nAn analysis of the rooms division within hotels and the role of revenue management in successful operations.  Topics to be covered include: revenue management, pricing patterns and models, rooms division staffing, departmental structures, cost containment, customer data analysis, revenue optimization, and the integrated operation of lodging departments (rooms division, front office, guest services, sales and marketing, night audit, accounting, housekeeping, reservations, engineering/maintenance, and security). Current hotel software will be used.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3220",
+            "course_name": "Lodging Facilities Management",
+            "description": "TCHT1-UC 3220 Lodging Facilities Management \nThis course focuses on the management of the physical plant from a design and maintenance perspective. Physical space and furnishings impact the image of the property, the experience of the guest, and the return on investment. The concepts of form and function are explained in relationship to service. Special emphasis is given to preventative maintenance programs, energy management, basic building systems design and operation, security and control efforts, and coordination within the facility and other departments.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3240",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17320",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Food, Beverage, & Catering Operations",
+            "description": "TCHT1-UC 3240 Food, Beverage, & Catering Operations \nAn examination of the challenges in operating food and beverage outlets as well as on- and off-premise catering.  Topics to be covered include: menu development, beverage operations, levels and types of service, structures of kitchens and dining rooms, in-room dining, marketing, customer service, purchasing, inventory management, labor scheduling, pricing, costing, and the role of the food and beverage manager.  Actual case studies of operations will be used.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3255",
+            "course_name": "Event Design & Production",
+            "description": "TCHT1-UC 3255 Event Design & Production \nAn examination of the planning strategies, production realities, and technology involved in staging a variety of events or meetings.  Topics to be covered include: needs assessment, budgeting, planning and coordinating, design and preparation, staffing, equipment management, video and film production, and vendor negotiating and contracting.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3265",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9838",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 379"
+                }
+            ],
+            "course_name": "",
+            "description": "TCHT1-UC 3265\n\n   Brand Management\n\nThis course examines the principles and practices of brand management with special focus on the hospitality, tourism, and sports industries. The course is organized around brand management decisions that must be made to build, measure, and manage brand equity. Particular emphasis is placed on understanding psychological principles at the customer level that will improve managerial decision-making with respect to brands. The course will provide the appropriate theories, models, and other management tools to make better branding decisions. Topics to be covered include brand equity and brand posi...\n\n      more description for TCHT1-UC 3265 \u00bb\n\n      \n\n\n\nThis course examines the principles and practices of brand management with special focus on the hospitality, tourism, and sports industries. The course is organized around brand management decisions that must be made to build, measure, and manage brand equity. Particular emphasis is placed on understanding psychological principles at the customer level that will improve managerial decision-making with respect to brands. The course will provide the appropriate theories, models, and other management tools to make better branding decisions. Topics to be covered include brand equity and brand positioning, elements of brand marketing programs, brand performance measures, brand management strategies, and global branding.\n\n      less description for TCHT1-UC 3265 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3270",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9839",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10088",
+                    "section": "002",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "SILV 412"
+                }
+            ],
+            "course_name": "Strategic Pricing & Revenue Management",
+            "description": "TCHT1-UC 3270 Strategic Pricing & Revenue Management \nAn examination of the principles and practices involved in hospitality industry pricing strategies from economic, systems, marketing, distribution, and brand perspectives. Topics to be covered include: yield management, technological trends, pricing theory, benchmarking and reporting matrices, transparency in group and transient market pricing, hurdle rates, pricing fences, and the process of competitive analysis. Current hotel software will be used.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3275",
+            "course_name": "Distribution & Channel Management",
+            "description": "TCHT1-UC 3275 Distribution & Channel Management \nThis course examines the evolution of the distribution of hospitality and tourism products. The increasing complexity and sophistication of distribution requires that managers be able to define the issues and challenges associated with successful channel management. Topics include: distribution intermediaries, channel optimization, pricing integrity, dynamic packaging, competitive distribution analysis, and integration of marketing in distribution outlets.  Negotiation of third-party providers, technological enhancements, and group and transient systems are examined.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9980",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "194M 204"
+                }
+            ],
+            "course_name": "Lodging Development",
+            "description": "TCHT1-UC 3300 Lodging Development \nAn understanding of the development process within the lodging industry is imperative for managers involved in the expansion of hotel chains or independent lodging facilities. This course will provide an overview of current trends in lodging development, finance and the implications on the industry. Students will learn about the importance of finance, sources of capital, development of a business portfolio, financing for lodging construction projects, investment funds, and joint venture opportunities. Students will be responsible for developing a business plan for a lodging project.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9893",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                }
+            ],
+            "course_name": "",
+            "description": "TCHT1-UC 3310\n\n   Planning, Design & Construction\n\nThis course provides an overview of lodging planning, design, and development and construction process from its inception to the grand opening. Topics will focus on the identification of property location, zoning laws, local building policies and the design, planning and construction process. Students will learn about adaptive reuse of historic properties and how to analyze architectural plans and specifications. Each student will develop the plans and design of a conceptual hotel, including the design of room layouts, interior spaces, and a project budget based on construction specifications....\n\n      more description for TCHT1-UC 3310 \u00bb\n\n      \n\n\n\nThis course provides an overview of lodging planning, design, and development and construction process from its inception to the grand opening. Topics will focus on the identification of property location, zoning laws, local building policies and the design, planning and construction process. Students will learn about adaptive reuse of historic properties and how to analyze architectural plans and specifications. Each student will develop the plans and design of a conceptual hotel, including the design of room layouts, interior spaces, and a project budget based on construction specifications.\n\n      less description for TCHT1-UC 3310 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3330",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17736",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL145",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Hennessey, Sean"
+                }
+            ],
+            "course_name": "Investment Analysis & Financing",
+            "description": "TCHT1-UC 3330 Investment Analysis & Financing \nKnowledge of investment analysis and financing is a vital necessity in lodging development and property acquisition. This course will focus on the various investment and financial analysis methods used in deciding on the investment in lodging projects. Topics will include cash flow analysis as it relates to property investment, methods of measuring the rate of return, income-property analysis, exploration of public and private markets, equity and debt sources of funds, and the use of software programs as a tool for financial analysis.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3340",
+            "course_name": "",
+            "description": "TCHT1-UC 3340\n\n   Advanced Seminar in Hosp & Tourism Management\n\nThis course explores the issues, techniques and strategies involved in investment analysis and financing of lodging development and acquisitions necessary to achieve success in developing, owning and operating lodging assets.  The course will include general and industry specialized investment and financial analysis methods including current asset performance, prospective performance and the application of time value of money concepts, ratio analysis and capital budgeting. Topics to be covered include: success attributes, risk evaluation, market analysis, cash flow analysis and preparation, br...\n\n      more description for TCHT1-UC 3340 \u00bb\n\n      \n\n\n\nThis course explores the issues, techniques and strategies involved in investment analysis and financing of lodging development and acquisitions necessary to achieve success in developing, owning and operating lodging assets.  The course will include general and industry specialized investment and financial analysis methods including current asset performance, prospective performance and the application of time value of money concepts, ratio analysis and capital budgeting. Topics to be covered include: success attributes, risk evaluation, market analysis, cash flow analysis and preparation, break-even, degree of operating leverage, rates of return, appraisal and valuation, debt, equity and lease financing, public-private ventures, taxation, portfolio theory, exit strategies and use of specialized software.\n\n      less description for TCHT1-UC 3340 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3400",
+            "course_name": "Tourism Destinations and Cultures",
+            "description": "TCHT1-UC 3400 Tourism Destinations and Cultures \nReview of the world geography from a systematic viewpoint emphasizing the physical, social, and human (cultural) environment impacted by visitors. Emphasis on understanding geography, trends in travel movement at tourism destination areas, travel patterns, and changing interests of the viewer.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3420",
+            "course_name": "",
+            "description": "TCHT1-UC 3420\n\n   Travel and Tourism Operations: Exploring New York as a DestinationTravel and Tourism Oper\n\nThis course offers students a unique look behind the scenes at the leading hotels, restaurants and destinations (museums, recreation and sports venues, points of interest and shopping districts) to explore the how the business of hospitality and tourism works in New York City and how it helps create and maintain the vitality of this global destination city, welcoming more than 50 million visitors annually.  The approach will include site visits to leading hotels, restaurants and venues to understand the range of services and opportunities offered, guest lectures from leading governmental, tour...\n\n      more description for TCHT1-UC 3420 \u00bb\n\n      \n\n\n\nThis course offers students a unique look behind the scenes at the leading hotels, restaurants and destinations (museums, recreation and sports venues, points of interest and shopping districts) to explore the how the business of hospitality and tourism works in New York City and how it helps create and maintain the vitality of this global destination city, welcoming more than 50 million visitors annually.  The approach will include site visits to leading hotels, restaurants and venues to understand the range of services and opportunities offered, guest lectures from leading governmental, tourism and entrepreneurial leaders on what the hospitality and tourism field is, means and why New York is one of the global centers for new ideas in the field and classroom experiences that make use of New York as a laboratory for hands-on learning.\n\nLearning Objectives\nA student completing this will be able to:\n1. \tIdentify the various types of hospitality and tourism businesses and venues in New York\n2. \tDefine the economic scope of the hospitality and tourism marketplace in New York\n3. \tDifferentiate between luxury, mid-tier and discount brands and services\n4. \tDescribe the various departments in a major full-service hotel\n5.\tAnalyze the relationship between NYC and Co and the various hospitality and tourism business partners it serves\n\n\nStudents completing this course would receive credit in the Tisch Center.\n\n      less description for TCHT1-UC 3420 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3430",
+            "course_name": "Sports Tourism & Mega Events",
+            "description": "TCHT1-UC 3430 Sports Tourism & Mega Events \nAn examination of the development of sports tourism, including the challenges of developing and operating sports events and venues for mega events. Topics to be covered include: the historical development of events and venues; the nature of special mega events; the infrastructures of tourism events; the financial, facility, environmental, and planning aspects of large scale events; volunteer management; and the economic and socio-cultural impacts of sport tourism.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3440",
+            "course_name": "Bus Travel Management",
+            "description": "TCHT1-UC 3440 Bus Travel Management",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3460",
+            "course_name": "Marketing of Tourism Destinations",
+            "description": "TCHT1-UC 3460 Marketing of Tourism Destinations \nA review of the processes used to develop, modify, or promote a tourism destination.  Topics  to be covered include: strategic tourism planning; natural, cultural, social, and recreational tourism resources; analysis of destinations; destination marketing; tourism control models, promotion strategies in tourism, national and international forces, and models of integrated destination marketing.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3470",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9941",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL 379"
+                }
+            ],
+            "course_name": "",
+            "description": "TCHT1-UC 3470\n\n   Tourism Planning & Policy\n\nThe evolution of modern tourism policy at the national and international level, formulation of new policy, and implementation of policy as it relates to planning and management oftourism is the focus of this course. Students will learn to conduct a comprehensive review of the tourism planning process used to develop or modify a travel destination area. Aspects of the strategic tourism planning process include: the development of goals and objectives; the identification of natural, cultural, social, and recreational resources; and the control procedures needed to assure implementation and measu...\n\n      more description for TCHT1-UC 3470 \u00bb\n\n      \n\n\n\nThe evolution of modern tourism policy at the national and international level, formulation of new policy, and implementation of policy as it relates to planning and management oftourism is the focus of this course. Students will learn to conduct a comprehensive review of the tourism planning process used to develop or modify a travel destination area. Aspects of the strategic tourism planning process include: the development of goals and objectives; the identification of natural, cultural, social, and recreational resources; and the control procedures needed to assure implementation and measure impacts.\n\n      less description for TCHT1-UC 3470 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3480",
+            "course_name": "Tour Packaging",
+            "description": "TCHT1-UC 3480 Tour Packaging",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3490",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17524",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Special Interest Tourism",
+            "description": "TCHT1-UC 3490 Special Interest Tourism \nAn analysis of the issues involved in developing destinations and tourism products that are sensitive to the natural and cultural resources of the area. Topics to be covered include: sustainable development; rural tourism; poverty tourism; heritage and cultural tourism; adventure tourism; and urban tourism.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3600",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9840",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 365"
+                }
+            ],
+            "course_name": "Conferences & Special Events",
+            "description": "TCHT1-UC 3600 Conferences & Special Events \nAn introduction to the challenges of planning, organizing and executing conferences and meetings.  Topics to be covered include: types of meetings and events; facility types; the role of the planner; setting conference objectives; lodging and transportation issues, site selection negotiations; program design; budgeting; vendor management; speaker selection; creative merchandising; registration; on-site logistics; vendor contracts; staffing; transportation; and security.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3620",
+            "course_name": "Casino Operations & Management",
+            "description": "TCHT1-UC 3620 Casino Operations & Management \nAn examination of the organizational structures and management challenges of operating a gaming business.  Casino and gaming operations are structured and managed differently from other hospitality operations. Topics to be covered include: the history of casino gaming, the economics of gaming, management structure of casinos, rules and regulations that affect day-to-day operations, government restrictions, clientele, marketing strategies, licensing of employees, legislation concerning types of games, entertainment, and the legal requirements for operating a facility.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3640",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9841",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "WAVE 369"
+                }
+            ],
+            "course_name": "",
+            "description": "TCHT1-UC 3640\n\n   Management of Private Clubs & Resorts\n\nAn exploration of the managerial challenges involved in operating clubs and resorts.  Topics to be covered include: customer service, current consumer trends, industry developments, selecting and training staff, budgeting, departmental communication, expense control, revenue strategies, fee structures, geographical influences, governmental regulations, long term growth, and strategic management. Special attention is given to recreational programming, sporting activities, food and beverage operations, social events, educational activities, private parties and profit oriented vs. not-for-profit ...\n\n      more description for TCHT1-UC 3640 \u00bb\n\n      \n\n\n\nAn exploration of the managerial challenges involved in operating clubs and resorts.  Topics to be covered include: customer service, current consumer trends, industry developments, selecting and training staff, budgeting, departmental communication, expense control, revenue strategies, fee structures, geographical influences, governmental regulations, long term growth, and strategic management. Special attention is given to recreational programming, sporting activities, food and beverage operations, social events, educational activities, private parties and profit oriented vs. not-for-profit enterprises.\n\n      less description for TCHT1-UC 3640 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3650",
+            "course_name": "Planning of Conferences and Special Events",
+            "description": "TCHT1-UC 3650 Planning of Conferences and Special Events \nConferences, expositions and special events recognize a unique moment in time when ceremony and ritual satisfy a specific need and a reason for celebrating something out of the ordinary. Special events have become a major growth industry with the focus of creating a memorable experience for the guest. Among the topics for discussion will be conference and special event planning and operations, creative merchandising, use of video, TV and film production, entertainment, decorating, concessionaires, volunteer management, food and beverage operations, and budget development.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3655",
+            "course_name": "Marketing of Conferences & Special Events",
+            "description": "TCHT1-UC 3655 Marketing of Conferences & Special Events \nAn analysis of strategies used to market conferences, meetings, and special events on a regional, national, and global scale.  Topics to be covered include: planning to market the entire event; developing and using market research for profit versus not-for-profit marketing; sales techniques; target and niche markets; marketing images for organizations; strategic partnership development; and interactive marketing techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "TCHT1-UC 3900",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "17322",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "TCHT1-UC 3900 Independent Study \nProvides an opportunity to work with a faculty mentor on a research project. Approved topics should be extensions of existing courses previously taken or knowledge areas in which no courses are offered. Independent research is intended to extend the student?s knowledge in an area in which his or her interest is more specialized than the norm. A written paper is required at the end of the project. Prior approval by an academic advisor as to the number of credits for which the student may register and the topic of the research is required.",
+            "offering": true
+        },
+        {
+            "course_id": "TCHT1-UC 3950",
+            "course_name": "Emerging Issues in Hospitality & Tourism",
+            "description": "TCHT1-UC 3950 Emerging Issues in Hospitality & Tourism \nA review and analysis of important current trends and issues in hospitality and tourism through the perspectives of operations, marketing, finance, human resources, law, leadership, technology, and strategic management.  Topics to be covered include: strategic thinking, sustainability, global perspectives, trend analysis, and practical business research.  Students will work in teams analyzing the topic and develop a range of management strategies for a specific case or set of issues.",
+            "offering": false
+        }
+    ]
+}

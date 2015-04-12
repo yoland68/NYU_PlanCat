@@ -1,0 +1,1160 @@
+{
+    "major_id": "ANTH-UA",
+    "file": "./2015-2016/Anthropology_(ANTH-UA).html",
+    "courses": [
+        {
+            "course_id": "ANTH-UA 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6113",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Grant, Bruce"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6114",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6115",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL142"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6116",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-14"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6117",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC7"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6118",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6119",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Human Society & Culture",
+            "description": "ANTH-UA    1 Human Society & Culture \nSurveys the general aims, methods, and findings of modern cultural anthropology and its ties with the humanities and social sciences. Economic, political, and family organizations and systems of thought, including religion, are covered with equal attention to ?primitive,? traditional, and modern complex societies, particularly non-Western societies.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 2",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6120",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 101",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Bailey, Shara"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6128",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6121",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6122",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6123",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6124",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6125",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6126",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6127",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                }
+            ],
+            "course_name": "Human Evolution",
+            "description": "ANTH-UA    2 Human Evolution \nInvestigates the evolutionary origins of humans. The study of human evolution is a multidisciplinary endeavor involving a synthesis of concepts, techniques, and research findings from a variety of different scientific fields, including evolutionary biology, paleontology, primatology, comparative anatomy, genetics, molecular biology, geology, and archaeology. Explores the different contributions that scientists have made toward understanding human origins and provides a detailed survey of the evidence used to reconstruct the evolutionary history of our own species.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6129",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 520",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "White, Randall"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6130",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6131",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6132",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6133",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25WV 204"
+                }
+            ],
+            "course_name": "Archaeology: Early Societies & Culture",
+            "description": "ANTH-UA    3 Archaeology: Early Societies & Culture \nIntroduces contemporary archaeology, its theories, practices, and early societies and cultures. Examines current methodological and theoretical viewpoints of archaeological scholarship within the discipline of anthropology. Focuses on key transformations in cultural evolution, such as the origins of modern humans, the emergence of food production, and the development of complex societies, urbanism, and early states. Explores gender roles, landscapes and settlements, technologies, art, cognitive systems, urbanism, and state formation.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 16",
+            "course_name": "",
+            "description": "ANTH-UA   16\n\n   Language, Power, Identity\n\nExplores how identity is a process of \u201cbecoming\u201d rather than a mode of \u201cbeing\" by examining how speakers enact their gender, sexuality, race, ethnicity, nationality, religion, and socioeconomic class through everyday conversations, narratives, performances, literacy activities, and public debates. Also explores the moral and political consequences of people's identification strategies by examining how their beliefs about language reinforce or contest normative power structures. Readings on the relationship between bilingual education and accent discrimination, multilingualism and youth counter...\n\n      more description for ANTH-UA   16 \u00bb\n\n      \n\n\n\nExplores how identity is a process of \u201cbecoming\u201d rather than a mode of \u201cbeing\" by examining how speakers enact their gender, sexuality, race, ethnicity, nationality, religion, and socioeconomic class through everyday conversations, narratives, performances, literacy activities, and public debates. Also explores the moral and political consequences of people's identification strategies by examining how their beliefs about language reinforce or contest normative power structures. Readings on the relationship between bilingual education and accent discrimination, multilingualism and youth counterculture, migration and code-switching, media and religious publics, linguistic nationalism and xenophobia, and literacy and neo/liberalism in different areas of the world.\n\n      less description for ANTH-UA   16 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 17",
+            "course_name": "Anthropology of Language",
+            "description": "ANTH-UA   17 Anthropology of Language \nExplores the role of language in culture and society by focusing on gender, ethnicity, social class, verbal genres, literacy, and worldview.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 18",
+            "course_name": "Slavery in Anthropological Perspective: Africa and the Ancient World",
+            "description": "ANTH-UA   18 Slavery in Anthropological Perspective: Africa and the Ancient World \nSurveys basic anthropological and sociological issues posed by the institution of slavery in Africa and ancient Greece and Rome, including problems of the change from simpler to more complex societies and economies; definitions of person, gender, race, work, and ethnicity; and the relations of ideology and cultural boundaries.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 20",
+            "course_name": "African Literature",
+            "description": "ANTH-UA   20 African Literature \nCompares traditional oral literature and the writings of the colonial and postcolonial periods. Discussion of problems of translation, cultural relativity, and the search for identity as revealed through novels, poetry, and theatre.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 22",
+            "course_name": "Lang and Socialization Across Cultures",
+            "description": "ANTH-UA   22 Lang and Socialization Across Cultures",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 29",
+            "course_name": "",
+            "description": "ANTH-UA   29\n\n   Religious  Bodies\n\nHuman physicality is something that we share in our \u201cnatures\u201d, yet constantly elaborate differently in our \u201ccultures\u201d. This course will explore some of the rich and often conflicted relationships between cultures of religious practices and the human body\u2014the body as medium both for ritual and religious experience; the body as locus for virtue and sin; the split between mind and body. We will look at the body in various situations\u2014gendered, sexualized, covered, naked, suffering, disabled, altered, missing--and interrogate notions of representations and ideals\u2014from the religious ban on represent...\n\n      more description for ANTH-UA   29 \u00bb\n\n      \n\n\n\nHuman physicality is something that we share in our \u201cnatures\u201d, yet constantly elaborate differently in our \u201ccultures\u201d. This course will explore some of the rich and often conflicted relationships between cultures of religious practices and the human body\u2014the body as medium both for ritual and religious experience; the body as locus for virtue and sin; the split between mind and body. We will look at the body in various situations\u2014gendered, sexualized, covered, naked, suffering, disabled, altered, missing--and interrogate notions of representations and ideals\u2014from the religious ban on representing the human body to divine anthropomorphism. This course is cross-listed with Religious Studies, looks at a variety of religions and practices, and does not have prerequisites.\n\n      less description for ANTH-UA   29 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 30",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8837",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV KRIS",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Beidelman, Thomas"
+                }
+            ],
+            "course_name": "Anthropology of Religion",
+            "description": "ANTH-UA   30 Anthropology of Religion \nExamines the cultural nature of basic beliefs and values manifested in both simple and complex societies. Discussion of time and space, causality, myth, prophecy and divination, witchcraft and magic, and mysticism.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 31",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16709",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 706",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Beidelman, Thomas"
+                }
+            ],
+            "course_name": "Witchcraft: An Anthropological Approach",
+            "description": "ANTH-UA   31 Witchcraft: An Anthropological Approach \nExamines witchcraft through interdisciplinary study, including how theories of causation and reality are modified by culture and society and the way that social theorists have judged witchcraft in relation to social stability, conflict, and change. Considers both nonliterate, non-Western examples and cases from Europe and New England where historians have made extensive use of anthropological techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 32",
+            "course_name": "Conversations in Everyday Life",
+            "description": "ANTH-UA   32 Conversations in Everyday Life \nInvestigates the role conversation plays in the lives of those living in culturally and linguistically diverse urban communities, with particular focus on speech in medical, work, and school settings, where miscommunication frequently occurs.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 33",
+            "course_name": "Jewish Society in Mid East",
+            "description": "ANTH-UA   33 Jewish Society in Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 34",
+            "course_name": "Salvation and Revolution",
+            "description": "ANTH-UA   34 Salvation and Revolution \nExamines revolutionary movements in both traditional and industrial societies in terms of how violence, coercion, prophecy, and radical thought impel social change. Analyzes utopian communities, prophetic movements, cargo cults, religious sects, and terrorism from various social scientific perspectives.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 35",
+            "course_name": "Medical Anthropology",
+            "description": "ANTH-UA   35 Medical Anthropology \nAnalyzes medical beliefs and practices in African, Asian, and Latin American societies. Studies the coexistence of different kinds of medical specialists (e.g., shamans, herbalists, bonesetters, midwives, physicians trained in indigenous and cosmopolitan medicine), with particular reference to the structures of health resources available to laymen and problems of improving health care.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 36",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7951",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV KRIS",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Hansen, Helena"
+                }
+            ],
+            "course_name": "Global Biocultures: Anthropological Perspectives on Public Health",
+            "description": "ANTH-UA   36 Global Biocultures: Anthropological Perspectives on Public Health \nSurveys the mutual shaping of culture and biology in diverse contexts around the world. Starts with sociocultural theories of biocultural process and ends with ethnographies of disability, drugs, food, place, pain, and biotechnology. Examines the relationship between larger political economic structures and individual subjectivities, and examines biological experience as simultaneously material and socioculturally plastic.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 39",
+            "course_name": "Japanese Business, Society, & Culture",
+            "description": "ANTH-UA   39 Japanese Business, Society, & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 40",
+            "course_name": "Developing Countries: Tradition & Change",
+            "description": "ANTH-UA   40 Developing Countries: Tradition & Change",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 41",
+            "course_name": "Family & Kinship",
+            "description": "ANTH-UA   41 Family & Kinship \nExamines beliefs and practices involving the family, marriage, and sexuality and how these relate to varying systems of dominance and control. Discusses different cultural views of biology. Although primary emphasis is on non-Western cultures, comparisons are developed with Western ones.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 43",
+            "course_name": "Anthropology of Indigenous Austrailia Art",
+            "description": "ANTH-UA   43 Anthropology of Indigenous Austrailia Art",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 44",
+            "course_name": "Urban Society",
+            "description": "ANTH-UA   44 Urban Society",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 45",
+            "course_name": "History of Anthropology",
+            "description": "ANTH-UA   45 History of Anthropology \nThe discipline?s history illustrates problems common to many aspects of humanistic and social thought: the philosophical problem of the ?other? or the ?exotic,? as well as evolution and the nature of human nature.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 46",
+            "course_name": "Anthropology of Education",
+            "description": "ANTH-UA   46 Anthropology of Education",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 47",
+            "course_name": "Ethnography & Ethnography of the Andes",
+            "description": "ANTH-UA   47 Ethnography & Ethnography of the Andes \nIntroduces students to the interdisciplinary field of ethnohistory, through which scholars grapple with the archaeological record, iconography, painting, music, chronicles,archival documents, and the social and cultural legacies of living peoples, in order to understand pre-Columbian societies and trace the transformation of indigenous societies under Spanish colonialism and republican rule. Also introduces contemporary ethnography of the region, including rural indigenous peoples and urban social life.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 48",
+            "course_name": "Cultural Symbols",
+            "description": "ANTH-UA   48 Cultural Symbols \nPrerequisite: V14.0001 or permission of the instructor. Surveys the various symbolic systems employed by the world?s people, considering their use in myth, ritual, literature, and art and the kinds of anthropological theories applied to explain their power and forms. Approaches theory through case studies, providing a diverse view of world cultures. Uses materials from all continents; emphasizes non-Western, nonliterate societies, though some material from the West is also used.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 49",
+            "course_name": "Religious Bodies",
+            "description": "ANTH-UA   49 Religious Bodies",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 50",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16466",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 706",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Anton, Susan"
+                }
+            ],
+            "course_name": "Fossil Evidence for Human Evolution",
+            "description": "ANTH-UA   50 Fossil Evidence for Human Evolution \nAnalyzes fossil evidence for human evolution and the paleoanthropological inferences derived from such evidence. Emphasizes methods of phylogenetic reconstruction, taxonomy, functional anatomy, and paleoecology.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 51",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16467",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 706",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Disotell, Todd"
+                }
+            ],
+            "course_name": "Human Variation",
+            "description": "ANTH-UA   51 Human Variation \nHumans are the most wide-ranging of all of the species on earth. Our evolutionary history and our ability to adapt to such a broad range of environments is dependent on the results in the patterns of human variability we see today. New techniques have been developed that allow us to explore the different levels of human variation. This course focuses on new data and methodologies, including molecular genetic techniques, and the hypotheses and controversies generated by these new perspectives.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 52",
+            "course_name": "Evolution & Biology of Human Behavior",
+            "description": "ANTH-UA   52 Evolution & Biology of Human Behavior \nIntroductory survey presenting a synthetic approach to the biological, behavioral, and cultural origins of humans. Explores data and theories from paleoanthropology, archaeology, nonhuman primate behavioral studies, brain research, and sociobiology for their contributions to the study of human behavior.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 53",
+            "course_name": "Human Genetics",
+            "description": "ANTH-UA   53 Human Genetics \nIn-depth analysis of the genetic component of human variability. Discusses mechanisms of inheritance, gene expression in individuals and populations, and alternative explanations for genetic variability. Explores the implications of modern advances in genetics, such as genetic engineering and gene therapy.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 54",
+            "course_name": "",
+            "description": "ANTH-UA   54\n\n   Primate Behavior and Ecology\n\nWhy do some primates live in large social groups while others are solitary and yet others live in pairs or cooperatively breeding families? Why are strong social hierarchies seen in some primate taxa but not in others? How do multiple species of primates often manage to coexist in the same habitat? Why are social relationships in some primate species characterized by strong bonds among females while such bonds are absent in other primates societies? Why do some species of primates show marked geographic variability in behavior and social structure? The answers to these and other questions lie ...\n\n      more description for ANTH-UA   54 \u00bb\n\n      \n\n\n\nWhy do some primates live in large social groups while others are solitary and yet others live in pairs or cooperatively breeding families? Why are strong social hierarchies seen in some primate taxa but not in others? How do multiple species of primates often manage to coexist in the same habitat? Why are social relationships in some primate species characterized by strong bonds among females while such bonds are absent in other primates societies? Why do some species of primates show marked geographic variability in behavior and social structure? The answers to these and other questions lie in understanding the relationships between each species and its ecological and social setting and in understanding each species? phylogenetic history. In this course, students explore the diversity of primate social systems and the evolutionary relationships among the primates, and we discuss many of the general ecological laws that have been proposed by evolutionary biologists as the keys to understanding important features of primate behavior and ecology.\n\n      less description for ANTH-UA   54 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 55",
+            "course_name": "Health & Disease in Human Evolution",
+            "description": "ANTH-UA   55 Health & Disease in Human Evolution \nExamines human health and disease within an ecological framework, exploring the interactions of environmental, genetic, physiological, and cultural factors in the expression and distribution of human diseases. Develops pathology profiles for nonhuman primates; prehistoric human populations; and hunting and gathering, agricultural, and industrial groups, with emphasis on the expression of infectious disease in human history and newly (re-) emerging diseases.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 56",
+            "course_name": "Comparative Biology of The Living Primates",
+            "description": "ANTH-UA   56 Comparative Biology of The Living Primates \nThe study of the comparative anatomy of the primates, our closest living relatives, is fundamental to a sound understanding of primate and human evolution. This course surveys the functional anatomy of the living primates, including variation in external features, locomotor anatomy, dental and dietary specializations, sensory and nervous systems and reproductive anatomy. The classification of living primates is reviewed, and the functional complexes most important for understanding the relationship of humans to other primates are discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 58",
+            "course_name": "Molecular Evolution of Primates",
+            "description": "ANTH-UA   58 Molecular Evolution of Primates",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 59",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16468",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 706",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Higham, James"
+                }
+            ],
+            "course_name": "Primate Communication",
+            "description": "ANTH-UA   59 Primate Communication \nExamines how primates communicate and why their communication takes the forms it does. Discusses general issues associated with the study of animal communication: potential functions of communication, different modalities by which communicative signals can be transmitted, types of information that can be conveyed via each of these modalities, and ways in which researchers go about studying animal communication systems. Examines ways environmental and sociological factors influence the evolution of forms of communication.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 80",
+            "course_name": "",
+            "description": "ANTH-UA   80\n\n   Emerging Diseases\n\nIntegrates evolutionary biology, genetics, immunology, ecology, and behavioral ecology, along with sociocultural anthropology, politics, and economics, to better understand newly emerging and reemerging diseases as they affect human health. General evolutionary theory and an introduction to Darwinian medicine are provided before the course examines viral, bacterial, parasitic, and prion-based diseases along with their hosts, vectors, and other organisms. Particular attention is paid to how humans have purposely and inadvertently created both biological and cultural environments for the transmi...\n\n      more description for ANTH-UA   80 \u00bb\n\n      \n\n\n\nIntegrates evolutionary biology, genetics, immunology, ecology, and behavioral ecology, along with sociocultural anthropology, politics, and economics, to better understand newly emerging and reemerging diseases as they affect human health. General evolutionary theory and an introduction to Darwinian medicine are provided before the course examines viral, bacterial, parasitic, and prion-based diseases along with their hosts, vectors, and other organisms. Particular attention is paid to how humans have purposely and inadvertently created both biological and cultural environments for the transmission of different diseases. Media representations and misrepresentations are examined throughout the course.\n\n      less description for ANTH-UA   80 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 81",
+            "course_name": "Global Cities: Anthropological Perspectives",
+            "description": "ANTH-UA   81 Global Cities: Anthropological Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 90",
+            "course_name": "Human Ecology",
+            "description": "ANTH-UA   90 Human Ecology \nThis course seeks to assess the degree to which variations in human biology and culture can be understood as adaptations to varying external conditions. We examine the relationship of human systems of action and the natural world in order to understand the various forms of human adaptation. Case studies of several living peoples, contemporary and past biological communities, and prehistoric cultures provide the material for interpretation and evaluation of theoretical positions.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 101",
+            "course_name": "Peoples of Sub-Saharan Africa",
+            "description": "ANTH-UA  101 Peoples of Sub-Saharan Africa \nSurveys the societies and cultures of Africa. Divided between accounts of traditional ways of life, the history of colonial contact with Europe, and consideration of life in contemporary African states. Involves anthropological studies as well as historical works, novels, and autobiographies, many by African authors. African material is related to broader issues of social theory, ethnicity, social change, and the ties between culture, society, and values.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 102",
+            "course_name": "",
+            "description": "ANTH-UA  102\n\n   Peoples of The Caribbean Culture\n\nProvides a unifying anthropological perspective for comparing Hispanic and Afro-Creole Caribbean societies, reviewing how Caribbean colonial experiences have structured differences in the race, class, and ethnic/ national identities of the peoples living in these two Caribbean traditions. Examines how this resulted in different cultural forms and ideological orientations as the cultural legacies of the various peoples of the Caribbean underwent processes of creolization. Addresses issues of identity and empowerment in relation to Caribbean diaspora, tourism, and efforts to develop Pan-Caribbea...\n\n      more description for ANTH-UA  102 \u00bb\n\n      \n\n\n\nProvides a unifying anthropological perspective for comparing Hispanic and Afro-Creole Caribbean societies, reviewing how Caribbean colonial experiences have structured differences in the race, class, and ethnic/ national identities of the peoples living in these two Caribbean traditions. Examines how this resulted in different cultural forms and ideological orientations as the cultural legacies of the various peoples of the Caribbean underwent processes of creolization. Addresses issues of identity and empowerment in relation to Caribbean diaspora, tourism, and efforts to develop Pan-Caribbean institutions and a Pan-Caribbean consciousness.\n\n      less description for ANTH-UA  102 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 103",
+            "course_name": "Peoples of Latin America",
+            "description": "ANTH-UA  103 Peoples of Latin America \nSurveys Latin American societies and cultures, placing special emphasis on class, ethnicity, and nationhood. Examines some of the fundamental characteristics of Ibero-American civilization both in its historical development and in its transformations across a variety of regional and class contexts. Discusses the complex interrelationships between country and city and between ?popular? and ?elite? culture by examining ethnographic case material and a few general interpretative works.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 104",
+            "course_name": "Anthropology of South Asia",
+            "description": "ANTH-UA  104 Anthropology of South Asia \nIntroduces the cultures and societies of the Indian subcontinent. Focuses not only on the history and ethnography of South Asia, but also on the major concepts and debates in the anthropological study of the region. Topics will include caste, kinship, gender, nationalism, ethnic conflict, globalization, and popular culture.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 105",
+            "course_name": "",
+            "description": "ANTH-UA  105\n\n   Peoples of Se Asia\n\nSoutheast Asia has figured prominently in the concerns of Americans and Europeans from the trade in the Spice Islands (not Indonesia) to the war in Vietnam and its aftermath. This area is one of the most complicated and interesting areas of the world to study because several major world civilizations have contributed to the development of the area over a period of many centuries, yet the civilizations developed there are distinctive and syncretic. An interdisciplinary approach is taken in presenting this material in an attempt to integrate the ideas of anthropologists, historians, political sc...\n\n      more description for ANTH-UA  105 \u00bb\n\n      \n\n\n\nSoutheast Asia has figured prominently in the concerns of Americans and Europeans from the trade in the Spice Islands (not Indonesia) to the war in Vietnam and its aftermath. This area is one of the most complicated and interesting areas of the world to study because several major world civilizations have contributed to the development of the area over a period of many centuries, yet the civilizations developed there are distinctive and syncretic. An interdisciplinary approach is taken in presenting this material in an attempt to integrate the ideas of anthropologists, historians, political scientists, economists, and linguists concerned with the area.\n\n      less description for ANTH-UA  105 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 110",
+            "course_name": "Peoples of Europe: Cult and Internat'L Studies",
+            "description": "ANTH-UA  110 Peoples of Europe: Cult and Internat'L Studies",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 111",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16469",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 301",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Rogers, Susan"
+                }
+            ],
+            "course_name": "Anthropology of Europe",
+            "description": "ANTH-UA  111 Anthropology of Europe \nExplores cultural systems and social structures in modern European societies. Provides an introduction to the insights to be gained from an anthropological perspective on Western complex societies. Uses ethnographic literature on Western and Mediterranean Europe to examine issues such as ethnic and national identity, social dimensions of economic change, gender and family organization, and ritual and religious behavior.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 112",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16470",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL151",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wilking, Anna"
+                }
+            ],
+            "course_name": "Anthropology of Gender and Sexuality",
+            "description": "ANTH-UA  112 Anthropology of Gender and Sexuality \nCompares women?s and men?s experiences, activities, resources, powers, and symbolic significance as they vary within and between societies. Social and historical approaches in the analysis of how gender relations are affected by major social transformations. Emphasis on such changes as gender roles, current transnational migrations, social movements, international relations, and the role of the military in a variety of world societies.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 114",
+            "course_name": "Peoples of India:Culture & International Studies",
+            "description": "ANTH-UA  114 Peoples of India:Culture & International Studies",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 122",
+            "course_name": "Visual Anthropology",
+            "description": "ANTH-UA  122 Visual Anthropology \nExplores the impact of forms anthropologists use on our understanding of other cultures. Focuses on the use of film and its relationship to theory, method, and substance of anthropology. Moving images and text from a wide range of geographic areas are compared to evaluate their differences as modes of ethnographic description. Discusses challenges to dominant text of the 1980s and the emergence of new social/cultural subjects represented in the 1990s, including innovations in genres.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 123",
+            "course_name": "",
+            "description": "ANTH-UA  123\n\n   Anthropology of Media\n\nUses an anthropological approach to the study of media in the contemporary world, with a special emphasis on the representation of cultures and cultural difference in documentary and feature film. Explores the fundamental role of media in the rise of modern societies and in contemporary globalization. Introduces some of the main analytic frameworks and theoretical debates through which media have been understood over the years and reconsiders them in light of ethnographic and cross-cultural studies of media production and distribution, as well as reception and exhibition practices. Pays partic...\n\n      more description for ANTH-UA  123 \u00bb\n\n      \n\n\n\nUses an anthropological approach to the study of media in the contemporary world, with a special emphasis on the representation of cultures and cultural difference in documentary and feature film. Explores the fundamental role of media in the rise of modern societies and in contemporary globalization. Introduces some of the main analytic frameworks and theoretical debates through which media have been understood over the years and reconsiders them in light of ethnographic and cross-cultural studies of media production and distribution, as well as reception and exhibition practices. Pays particular attention to indigenous media, the function media has played in the creation of new forms of political and cultural activism, and the role of media within global tourism.\n\n      less description for ANTH-UA  123 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 125",
+            "course_name": "Anthropology of Art",
+            "description": "ANTH-UA  125 Anthropology of Art",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 133",
+            "course_name": "Globalization & The Nation-State",
+            "description": "ANTH-UA  133 Globalization & The Nation-State",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 153",
+            "course_name": "Anthropology of World Beat",
+            "description": "ANTH-UA  153 Anthropology of World Beat",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 210",
+            "course_name": "Prehistoric Hunters and Gatherers",
+            "description": "ANTH-UA  210 Prehistoric Hunters and Gatherers \nExamines the origin and early development of culture in the Old and New Worlds. Utilizes archaeological materials from the Paleolithic and Mesolithic period of Africa, Eurasia, and the Paleo-Indian, Woodland, and Archaic periods of North America, against a background of related evidence from physical anthropology and ethnology.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 211",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17596",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV KRIS",
+                    "time": "Fri 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Wright, Rita"
+                }
+            ],
+            "course_name": "Rise and Fall of Civilizations",
+            "description": "ANTH-UA  211 Rise and Fall of Civilizations \nConsiders two distinct processes: (1) the origins of food production and consequent development of domesticated plants and animals and (2) the trend toward increasing social, political, and economic complexity that culminates in early states. Several independent examples of each process from both the Old and New Worlds. Special attention to the various theories that have been advanced to account for such developments.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 212",
+            "course_name": "Prehistoric Art & Symbolic Evolution",
+            "description": "ANTH-UA  212 Prehistoric Art & Symbolic Evolution \nExamines prehistoric art forms, their interpretation, and their evolutionary and behavioral significance. Students are introduced to Stone Age art, its form, contents, and chronological evolution. Also employs more recent prehistoric case studies. Reviews and assesses competing interpretive frameworks, with emphasis on understanding the social and ideological context within which the art was produced and comprehended.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 213",
+            "course_name": "Current Topics in Arch:",
+            "description": "ANTH-UA  213 Current Topics in Arch: \nThis seminar explores selected key current issues and problems in archaeological anthropology, theoretically and methodologically. See the department?s internal catalog.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 214",
+            "course_name": "Problems in Archaeological Anthro",
+            "description": "ANTH-UA  214 Problems in Archaeological Anthro",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 215",
+            "course_name": "Archaeological Theory & Techniques",
+            "description": "ANTH-UA  215 Archaeological Theory & Techniques \nConsiders both current and past theoretical developments in archaeology, with special attention to the role of innovations in analytical technique as they relate to these developments. Theoretical approaches to the economy, technology, and organization of hunter-gatherers; early agriculturalists; gender differences; and complex societies. Examines research design, sampling problems, chronometric methods, analysis of paleoenvironments, and typology in terms of modern understanding as well as historical perspective.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 216",
+            "course_name": "Surveys of Regional Prehistory II:",
+            "description": "ANTH-UA  216 Surveys of Regional Prehistory II:",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 217",
+            "course_name": "Barbarian Europe",
+            "description": "ANTH-UA  217 Barbarian Europe \nBetween the end of the Ice Age and the expansion of the Roman Empire, temperate Europe witnessed a series of social and economic transformations that represented a transition from a hunting and gathering way of life to urban chiefdoms. Along the way, these hunter-gatherers became agriculturalists and stockherders, learned to use metals, and developed social structures as complex as any found in Old World civilizations. Examines changes in later prehistoric Europe from about 8000 B.C. to the arrival of the Romans.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 218",
+            "course_name": "African Archaeology",
+            "description": "ANTH-UA  218 African Archaeology",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 219",
+            "course_name": "Surveys of Regional Prehistory II:",
+            "description": "ANTH-UA  219 Surveys of Regional Prehistory II:",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 220",
+            "course_name": "Religion and Media",
+            "description": "ANTH-UA  220 Religion and Media \nIntroduces students to the longstanding and complex connection between religious practices and various media. Analyzes how human hearing, vision, and the performing body have been used historically to express and maintain religious life through music, voice, images, words, and rituals. Spends time on more recent electronic media such as cassette, film, television, video, and the Internet. Students should note that an anthropological/historical perspective on studying religion is pursued in the course.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 225",
+            "course_name": "",
+            "description": "ANTH-UA  225\n\n   Discovering Archaeology in NYC\n\nIn this course, New York City is our archaeological site. The period covered is from 10,000 years ago to the beginning of the 20th century and is based on archaeological remains.  Its history is both fascinating and mind-expanding as a different perspective on the City emerges in time and space from what is learned.  Walking around its various boroughs, students will learn that our modern landscape is vastly different from earlier eras.  Along with our gain as a major cultural center, we will assess some losses brought about by the destruction of aspects of the city\u2019s past.  In particular, stu...\n\n      more description for ANTH-UA  225 \u00bb\n\n      \n\n\n\nIn this course, New York City is our archaeological site. The period covered is from 10,000 years ago to the beginning of the 20th century and is based on archaeological remains.  Its history is both fascinating and mind-expanding as a different perspective on the City emerges in time and space from what is learned.  Walking around its various boroughs, students will learn that our modern landscape is vastly different from earlier eras.  Along with our gain as a major cultural center, we will assess some losses brought about by the destruction of aspects of the city\u2019s past.  In particular, students will come to understand the meaning of stewardship in the context of urban development.  At the same time, viewing our place in the city\u2019s 10,000 years of history gives us a deeper sense of time and place and a unity in its shared heritage.\n\n      less description for ANTH-UA  225 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 240",
+            "course_name": "Evolution of Language",
+            "description": "ANTH-UA  240 Evolution of Language \nExplores the various hypotheses offered for the evolution of language. Perspectives from different disciplines are discussed. Topics include human evolution and the study of fossil humans, animal and primate behavior and communication, anatomy of the vocal tract, neuroanatomy, language acquisition, language universals, the origins and diversification of modern languages, and the origins of writing.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 320",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "8018",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 206",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Davila, Arlene"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "16471",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 612",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Anderson, Jane"
+                }
+            ],
+            "course_name": "Topical Seminar in Social and Cultural Anthropology IAnthropology of Cities (Latino/Latin American CitiHeritage, Cultural Property, and Colonialism",
+            "description": "ANTH-UA  320 Topical Seminar in Social and Cultural Anthropology IAnthropology of Cities (Latino/Latin American CitiHeritage, Cultural Property, and Colonialism \nAnalyzes and assesses selected key issues in the discipline theoretically, politically, and epistemologically. See the department's current internal catalog.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 321",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16472",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Turnbull, lesley"
+                }
+            ],
+            "course_name": "Topical Seminar in Social and Cultural Anthropology IIAnthropology of China and Japan",
+            "description": "ANTH-UA  321 Topical Seminar in Social and Cultural Anthropology IIAnthropology of China and Japan",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 322",
+            "course_name": "Anthropology of Cities",
+            "description": "ANTH-UA  322 Anthropology of Cities",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 323",
+            "course_name": "Race, \"Difference,\" & Social Inequality",
+            "description": "ANTH-UA  323 Race, \"Difference,\" & Social Inequality \nExamines the formation and deployment of the category ?race? in historical and cross-cultural perspective. Investigates how racism operates within wider systems of complementary exclusions tied to gender, class, national, and imperial identities. Addresses topics such as race in the construction of colonial and postcolonial hierarchies and ideologies; the production of ?whiteness? in U.S. cultural politics; global (re)articulations of race-cum-ethnocultural identities; and the environmental justice movement as a contemporary terrain of struggle in the elaboration of politics of difference.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 324",
+            "course_name": "Race, Power & Post- Industrial City",
+            "description": "ANTH-UA  324 Race, Power & Post- Industrial City",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 325",
+            "course_name": "Reimagine Community:Race Nation &Pol of Belonging",
+            "description": "ANTH-UA  325 Reimagine Community:Race Nation &Pol of Belonging \nCritically examines and evaluates the various approaches to studying and interpreting different community formations. Examines different notions of ?community? through a variety of disciplinary lenses. Readings are drawn from anthropology, history, feminist studies, cultural studies, ethnic studies, and philosophy. Students are encouraged to examine these texts both as theoretical representations of ?community? as well as historically embedded artifacts that are part of the larger machinery in the production of knowledge.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 326",
+            "course_name": "",
+            "description": "ANTH-UA  326\n\n   Introduction to Forensic Anthropology\n\nBiological anthropology examines the evolutionary history and adaptability of humans and our ancestors. Forensic anthropology is an applied subfield of biological anthropology that provides expert analysis of the skeleton in a medicolegal setting by utilizing methods developed in skeletal biology, archaeology, and the forensic sciences. Forensic anthropologists play critical roles in identifying victims of mass fatalities (such as World Trade Center and Oklahoma City bombings), in investigating homicides (such as identifying the Russian tsar?s family), and in distinguishing cause of death. We ...\n\n      more description for ANTH-UA  326 \u00bb\n\n      \n\n\n\nBiological anthropology examines the evolutionary history and adaptability of humans and our ancestors. Forensic anthropology is an applied subfield of biological anthropology that provides expert analysis of the skeleton in a medicolegal setting by utilizing methods developed in skeletal biology, archaeology, and the forensic sciences. Forensic anthropologists play critical roles in identifying victims of mass fatalities (such as World Trade Center and Oklahoma City bombings), in investigating homicides (such as identifying the Russian tsar?s family), and in distinguishing cause of death. We examine how forensic anthropologists approach modern and historic crimes in the laboratory and the field. Students are introduced to the underlying theory and the applied techniques that forensic anthropologists use to recover and identify individuals and assess cause of death.\n\n      less description for ANTH-UA  326 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 328",
+            "course_name": "Theories of Popular Culture",
+            "description": "ANTH-UA  328 Theories of Popular Culture",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 329",
+            "course_name": "",
+            "description": "ANTH-UA  329\n\n   Language and Law\n\nArguments and conflicts are part of everyday life, and language is central to both their instigation and resolution. We explore how speakers ranging from small children to litigants in courts attempt to settle their differences. Comparative materials illustrate theories of disputes and dispute resolution, examining the power of language and the language of power in a variety of settings (e.g., mediation, arbitration, trials). Class includes fieldwork trips to small claims court. Students tape record cases and transcribe and analyze them according to different analytic perspectives. Bilingual s...\n\n      more description for ANTH-UA  329 \u00bb\n\n      \n\n\n\nArguments and conflicts are part of everyday life, and language is central to both their instigation and resolution. We explore how speakers ranging from small children to litigants in courts attempt to settle their differences. Comparative materials illustrate theories of disputes and dispute resolution, examining the power of language and the language of power in a variety of settings (e.g., mediation, arbitration, trials). Class includes fieldwork trips to small claims court. Students tape record cases and transcribe and analyze them according to different analytic perspectives. Bilingual students are encouraged to focus on cases that use interpreters.\n\n      less description for ANTH-UA  329 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 330",
+            "course_name": "",
+            "description": "ANTH-UA  330\n\n   Gender, Violence, and The Law\n\nExamines the global prevalence of gender violence and the varied meanings of violence against women and changes in terminology over time. Examines ways of theorizing gender and violence including performative ideas of gender. The creation of gender violence as a social problem is a product of social movements in the United States, Europe, India, and many other parts of the world. It is now understood globally as an important human rights violation. Also examines the forms of intervention that have been developed in the United States and globally for diminishing violence against women, includin...\n\n      more description for ANTH-UA  330 \u00bb\n\n      \n\n\n\nExamines the global prevalence of gender violence and the varied meanings of violence against women and changes in terminology over time. Examines ways of theorizing gender and violence including performative ideas of gender. The creation of gender violence as a social problem is a product of social movements in the United States, Europe, India, and many other parts of the world. It is now understood globally as an important human rights violation. Also examines the forms of intervention that have been developed in the United States and globally for diminishing violence against women, including policing, prosecution, and punishment.\n\n      less description for ANTH-UA  330 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 331",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7580",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Merry, Sally"
+                }
+            ],
+            "course_name": "",
+            "description": "ANTH-UA  331\n\n   Human Rights & Culture\n\nOffers an overview of the human rights system, looking at its basic elements and studying how it works. Focuses on the relationships between human rights and culture. Human rights campaigns frequently encounter resistance in the name of protecting cultural differences. This is particularly common with issues concerning women, children, and the family. Explores several issues that raise questions of human rights and culture, such as female genital cutting, honor killing, trafficking of persons, and indigenous peoples' rights to culture. Using these examples, considers how the human rights syste...\n\n      more description for ANTH-UA  331 \u00bb\n\n      \n\n\n\nOffers an overview of the human rights system, looking at its basic elements and studying how it works. Focuses on the relationships between human rights and culture. Human rights campaigns frequently encounter resistance in the name of protecting cultural differences. This is particularly common with issues concerning women, children, and the family. Explores several issues that raise questions of human rights and culture, such as female genital cutting, honor killing, trafficking of persons, and indigenous peoples' rights to culture. Using these examples, considers how the human rights system deals with tensions between global standards and local ways of life. Examines the meanings of rights and of culture in these debates and shows the implications of adopting an anthropological analysis of these situations. The goal of the course is developing an understanding of human rights in practice.\n\n      less description for ANTH-UA  331 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 332",
+            "course_name": "",
+            "description": "ANTH-UA  332\n\n   Violence, Gender, and Law\n\nThis course explores the nature of violence as a concept that incorporates both physical harm and cultural meanings, using an anthropological perspective.  The focus is on violence in gendered and non-gendered relationships and the role the law plays in controlling that violence.  It examines law and violence in the context of non-state societies, colonialism, international law and human rights, and transitional justice. It focuses in particular on gender-based violence in a variety of forms, such as domestic violence, rape, sex trafficking, genocide, and wartime violence and considers legal s...\n\n      more description for ANTH-UA  332 \u00bb\n\n      \n\n\n\nThis course explores the nature of violence as a concept that incorporates both physical harm and cultural meanings, using an anthropological perspective.  The focus is on violence in gendered and non-gendered relationships and the role the law plays in controlling that violence.  It examines law and violence in the context of non-state societies, colonialism, international law and human rights, and transitional justice. It focuses in particular on gender-based violence in a variety of forms, such as domestic violence, rape, sex trafficking, genocide, and wartime violence and considers legal strategies that attempt to deal with it.  The course examines law as a system of ordering relations and controlling conflict in contexts as diverse as small bands and global institutions. It also theorizes law as a mode of maintaining state power and control over subordinate populations.\n\n      less description for ANTH-UA  332 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 333",
+            "course_name": "",
+            "description": "ANTH-UA  333\n\n   The Color of Race in the Americas:  Post Racial Mythologies\n\nThe question of identity\u2014how it formed, why it is significant, and who gets to claim or reject them\u2014have been vital issues in human history, not the least being the past 500 years in the Americas. \u201cSelf\u201d/\u201cother,\u201d \u201cus\u201d/\u201cthem\u201d comprise notions of similarity and difference fundamental to the way social relations are organized. This seminar will look in particular at race and color as fundamental social and ideological building blocks of the Americas. Emphasizing ethnographic approaches, but also drawing on a variety of interdisciplinary sources (classics and recent works of non-fiction, film, and...\n\n      more description for ANTH-UA  333 \u00bb\n\n      \n\n\n\nThe question of identity\u2014how it formed, why it is significant, and who gets to claim or reject them\u2014have been vital issues in human history, not the least being the past 500 years in the Americas. \u201cSelf\u201d/\u201cother,\u201d \u201cus\u201d/\u201cthem\u201d comprise notions of similarity and difference fundamental to the way social relations are organized. This seminar will look in particular at race and color as fundamental social and ideological building blocks of the Americas. Emphasizing ethnographic approaches, but also drawing on a variety of interdisciplinary sources (classics and recent works of non-fiction, film, and fiction), the course will explore such key questions as: What is the relationship of race and color to other kinds of social identities?  How do race and color become embedded parts of the cultural landscape of countries, regions, and hemispheres? Do \u201cmixed race\u201d and \u201ccolor continuums\u201d democratize social hierarchies? Does a \u201cpost-racist\u201d world require a \u201cpost-racial\u201d world?\n\n      less description for ANTH-UA  333 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 350",
+            "course_name": "Body, Gender & Belief in China",
+            "description": "ANTH-UA  350 Body, Gender & Belief in China \nProvides an extended and historical exploration of categories basic to social life such as gender, body, and family. Examines the images of family and positions of women in the classics; factors in ritualist and Taoist notions of body; and discusses changes in the practices of filiality over time. Analyses of secondary monographs are combined with work in primary sources.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 351",
+            "course_name": "Belief and Social Life in China",
+            "description": "ANTH-UA  351 Belief and Social Life in China \nThe Chinese word for ?religion? means ?teaching.? Explores what Chinese people ?taught? themselves about the person, society, and the natural world and thus how social life was constructed and maintained. Examines in historical perspective the classic texts of the Taoist and Confucian canon and their synthesis; Buddhist, especially Ch?an (Zen). Discusses the practices of filiality in Buddhism, Confucian orthodoxy, and in folk religion.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 400",
+            "course_name": "Anthropology and Transnationalism",
+            "description": "ANTH-UA  400 Anthropology and Transnationalism \n\"Examines what is considered \"new\" in the ongoing reconstruction of world\norder and its accompanying disorder. Also examines how this changes the\nways people earn their livelihoods; how cultures are transmitted and\nhybridized; how migrating populations maintain connections to their\nhomelands; how group identities are constructed and asserted; and how\nsocial movements around newly politicized issues arise. Discusses changing\nroles of nation-states and the growing significance of transnational,\ndiasporic, and globalized social relations and cultural forms.\"",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 401",
+            "course_name": "",
+            "description": "ANTH-UA  401\n\n   Topical Sem:\n\nThis course offers an exploration of foundational and contemporary work that has been done in the anthropology of science, excluding studies of biomedicine. We will explore a number of recent ethnographies, concerning such topics as high energy physics, nuclear defense, artificial life, the science of advertising, and calculation of risk and biosecurity. These works will allow us to discuss how the historical specificity of the knowledge produced by science, as it varies in different cultural contexts and as it produces different effects on people in various socioeconomic circumstances, can be...\n\n      more description for ANTH-UA  401 \u00bb\n\n      \n\n\n\nThis course offers an exploration of foundational and contemporary work that has been done in the anthropology of science, excluding studies of biomedicine. We will explore a number of recent ethnographies, concerning such topics as high energy physics, nuclear defense, artificial life, the science of advertising, and calculation of risk and biosecurity. These works will allow us to discuss how the historical specificity of the knowledge produced by science, as it varies in different cultural contexts and as it produces different effects on people in various socioeconomic circumstances, can be studied ethnographically. This course is designed to complement Medical Anthropology.\n\n      less description for ANTH-UA  401 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 402",
+            "course_name": "Historical Archaeology",
+            "description": "ANTH-UA  402 Historical Archaeology",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 410",
+            "course_name": "",
+            "description": "ANTH-UA  410\n\n   Culture Through Food\n\nExplores some of the ways that people use food, cuisines, and eating to organize and engage with social worlds. This focus provides a concrete means for deepening our understanding of alternative models of social explanation. Drawing on ethnographic material from a wide range of cultures, as well as feature films and our own observations and interviews, we consider topics such as the material dimensions of food production, distribution, and consumption (e.g., how food scarcity or abundance shapes collective possibilities, expectations, and values; the causes, consequences, forms, and myths of ...\n\n      more description for ANTH-UA  410 \u00bb\n\n      \n\n\n\nExplores some of the ways that people use food, cuisines, and eating to organize and engage with social worlds. This focus provides a concrete means for deepening our understanding of alternative models of social explanation. Drawing on ethnographic material from a wide range of cultures, as well as feature films and our own observations and interviews, we consider topics such as the material dimensions of food production, distribution, and consumption (e.g., how food scarcity or abundance shapes collective possibilities, expectations, and values; the causes, consequences, forms, and myths of globalization) and the cultural meanings and social distinctions encoded in food practices (e.g., how food is used cross-culturally as a marker of social identity\u2014class, gender, and ethnicity\u2014and source of meaning\u2014nostalgia, anxiety, and so on).\n\n      less description for ANTH-UA  410 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 511",
+            "course_name": "Current Topics:",
+            "description": "ANTH-UA  511 Current Topics: \nOnly open to majors in anthropology who have the permission of the director of undergraduate studies or the instructor. This seminar explores, theoretically and methodologically, selected key current issues and problems in biological anthropology. See the department?s internal catalog.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 512",
+            "course_name": "Current Topics in Phys Anthropolgy:",
+            "description": "ANTH-UA  512 Current Topics in Phys Anthropolgy:",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 602",
+            "course_name": "Latino Expressive Culture and Literature",
+            "description": "ANTH-UA  602 Latino Expressive Culture and Literature",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 603",
+            "course_name": "Popular Culture in Latin America",
+            "description": "ANTH-UA  603 Popular Culture in Latin America",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 605",
+            "course_name": "Formations of Indigeneity",
+            "description": "ANTH-UA  605 Formations of Indigeneity",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 607",
+            "course_name": "Anthropology of Violence and the Law",
+            "description": "ANTH-UA  607 Anthropology of Violence and the Law",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 608",
+            "course_name": "Last Hunters-First Farmers",
+            "description": "ANTH-UA  608 Last Hunters-First Farmers",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 800",
+            "course_name": "Special Topics:",
+            "description": "ANTH-UA  800 Special Topics: \nOpen only to honors majors and other senior majors in cultural or linguistic anthropology who have the permission of the director of undergraduate studies",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 801",
+            "course_name": "Urban Ethnography: Special Seminar",
+            "description": "ANTH-UA  801 Urban Ethnography: Special Seminar \nOpen only to honors majors and other senior majors in cultural or linguistic anthropology who have the permission of the director of undergraduate studies",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 830",
+            "course_name": "Fieldwork in Archaeology",
+            "description": "ANTH-UA  830 Fieldwork in Archaeology \nStudents live and work at the selected prehistoric or historic site, usually in eastern or midwestern North America. Students are instructed in field technique and laboratory procedures. Further background provided through staff and guest lectures.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 950",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6134",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25WV 612",
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Grant, Bruce"
+                }
+            ],
+            "course_name": "Honors Research I",
+            "description": "ANTH-UA  950 Honors Research I \nOpen only to honors majors who have the permission of the director of undergraduate studies and the instructor.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 951",
+            "course_name": "Honors Research II",
+            "description": "ANTH-UA  951 Honors Research II \nOpen only to honors majors who have the permission of the director of undergraduate studies and the instructor. May be taken in either order. 4 points per term.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 980",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6135",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "ANTH-UA  980 Internship \nOpportunities for students to gain practical work experience sponsored by selected institutions, agencies, and research laboratories are negotiated with the internship sponsor, a departmental supervisor, and the student. Requirements may vary but include 8 to 12 hours of fieldwork per week, regular meetings with the departmental supervisor, and assignments relevant to the internship experience. Student initiation of internship placement is encouraged.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 981",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6136",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "ANTH-UA  981 Internship \nOpportunities for students to gain practical work experience sponsored by selected institutions, agencies, and research laboratories are negotiated with the internship sponsor, a departmental supervisor, and the student. Requirements may vary but include 8 to 12 hours of fieldwork per week, regular meetings with the departmental supervisor, and assignments relevant to the internship experience. Student initiation of internship placement is encouraged.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6137",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "6138",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "6139",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "6140",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "ANTH-UA  997 Independent Study \nPrerequisite: permission of the instructor and the director of undergraduate studies. 2 or 4 points per term; 6 or 8 points in exceptional cases.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 998",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6141",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "6142",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "ANTH-UA  998 Independent Study \nPrereqPrerequisite: permission of the instructor and the director of undergraduate studies. 2 or 4 points per term; 6 or 8 points in exceptional cases.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH-UA 9032",
+            "course_name": "Conversation in Every Day Life",
+            "description": "ANTH-UA 9032 Conversation in Every Day Life",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9037",
+            "course_name": "",
+            "description": "ANTH-UA 9037\n\n   Anthropology of Indigenous Australia\n\nThis course offers an introduction to some of the current and classical issues in the anthropology of Indigenous Australia, considering a range of Aboriginal Australian forms of social being, ranging historically and geographically, and giving significant focus to the changing relationship between Indigenous people and the settler nation of Australia.  The role of anthropology in the representation and governance of Indigenous life is itself an important subject for anthropological consideration, considering that Indigenous people of Australia have long been the subject of interest and imagina...\n\n      more description for ANTH-UA 9037 \u00bb\n\n      \n\n\n\nThis course offers an introduction to some of the current and classical issues in the anthropology of Indigenous Australia, considering a range of Aboriginal Australian forms of social being, ranging historically and geographically, and giving significant focus to the changing relationship between Indigenous people and the settler nation of Australia.  The role of anthropology in the representation and governance of Indigenous life is itself an important subject for anthropological consideration, considering that Indigenous people of Australia have long been the subject of interest and imagination by outsiders for their cultural formulations of kinship, ritual, art, gender, and politics.\n\n      less description for ANTH-UA 9037 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9038",
+            "course_name": "Anthropology of Indigenous Art-An Analytical Survey",
+            "description": "ANTH-UA 9038 Anthropology of Indigenous Art-An Analytical Survey \nThis course is a survey of some of the principal themes and issues in the development of Indigenous Art in Australia. It focuses on some of the regional and historical variations of Aboriginal art in the context of the history of a settler nation, while considering the issues of its circulation and evaluation within contemporary discourses of value. Topics include the cosmological dimensions of the art, its political implications, its relationship to cultural identity, and its aesthetic frame works.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9101",
+            "course_name": "Society, Culture and Modernization in Ghana",
+            "description": "ANTH-UA 9101 Society, Culture and Modernization in Ghana",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9103",
+            "course_name": "Argentines' Soc Memories in a Cross-Cultural Pers",
+            "description": "ANTH-UA 9103 Argentines' Soc Memories in a Cross-Cultural Pers",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9111",
+            "course_name": "Peoples of Eur:Varieties of Contemp Europ Cult",
+            "description": "ANTH-UA 9111 Peoples of Eur:Varieties of Contemp Europ Cult",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9200",
+            "course_name": "Roma in Central Eastern Europe: Ethnographic & Historical Overview of a People without a State",
+            "description": "ANTH-UA 9200 Roma in Central Eastern Europe: Ethnographic & Historical Overview of a People without a State",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9211",
+            "course_name": "Rise and Fall of Civilization",
+            "description": "ANTH-UA 9211 Rise and Fall of Civilization",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9216",
+            "course_name": "Ancient Near East and Egypt",
+            "description": "ANTH-UA 9216 Ancient Near East and Egypt",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9251",
+            "course_name": "Cultural and Social Anthropology of Spain and Iberoamerica",
+            "description": "ANTH-UA 9251 Cultural and Social Anthropology of Spain and Iberoamerica \nA study of society, culture, and ethnic groups in\nSpain and Iberoamerica. The Latin American social reality and the most\nimportant historical processes that have shaped present-day Latin America\nare discussed, as well as the cultural relationship that exists between\nSpain and Iberoamerica.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9320",
+            "course_name": "Issues in Anthro: Qualitatv Rsrch Mthds",
+            "description": "ANTH-UA 9320 Issues in Anthro: Qualitatv Rsrch Mthds",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9401",
+            "course_name": "Topics Seminar: Urban Eco Culture in China",
+            "description": "ANTH-UA 9401 Topics Seminar: Urban Eco Culture in China",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9422",
+            "course_name": "African Popular Music",
+            "description": "ANTH-UA 9422 African Popular Music",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH-UA 9900",
+            "course_name": "",
+            "description": "ANTH-UA 9900\n\n   Paris Anthropological Perspectives on Multicultural France\n\nFrequently described as a culturally homogeneous national space, France is in fact one of the most important immigrant receiving nations in Europe.  In this course we consider this paradox in an effort to understand the diversity of the country\u2019s make-up as well as the ideologies and institutions that have succeeded, or not, in making others French. Conflicts and controversies of the past 30 years, that include the rise of the extreme right, the problem of the disadvantaged suburbs, the question of Islamic headscarves and more, have in particular pushed these questions to the front of the coun...\n\n      more description for ANTH-UA 9900 \u00bb\n\n      \n\n\n\nFrequently described as a culturally homogeneous national space, France is in fact one of the most important immigrant receiving nations in Europe.  In this course we consider this paradox in an effort to understand the diversity of the country\u2019s make-up as well as the ideologies and institutions that have succeeded, or not, in making others French. Conflicts and controversies of the past 30 years, that include the rise of the extreme right, the problem of the disadvantaged suburbs, the question of Islamic headscarves and more, have in particular pushed these questions to the front of the country\u2019s domestic agenda.  Looking historically and across several case studies, we ask both what an anthropological perspective can bring to these questions as well as what the French example can add to our understandings of culture, diversity, and race.\n\n      less description for ANTH-UA 9900 \u00ab",
+            "offering": false
+        }
+    ]
+}

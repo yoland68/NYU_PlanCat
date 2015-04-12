@@ -1,0 +1,224 @@
+{
+    "major_id": "GAMES-UT",
+    "file": "./2015-2016/Game_Design_(GAMES-UT).html",
+    "courses": [
+        {
+            "course_id": "GAMES-UT 101",
+            "classes": [
+                {
+                    "format": "Recitation",
+                    "class_id": "17633",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17634",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17635",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17636",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17637",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17638",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                }
+            ],
+            "course_name": "Games 101",
+            "description": "GAMES-UT  101 Games 101",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17662",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "2MTC 825"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17663",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "2MTC 825"
+                }
+            ],
+            "course_name": "Intro to Game Studies",
+            "description": "GAMES-UT  110 Intro to Game Studies",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 121",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17664",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 80509/02/2015 - 12/15/2015 Thu 9.30 AM - 12.15 PM"
+                }
+            ],
+            "course_name": "Intermediate Game Development",
+            "description": "GAMES-UT  121 Intermediate Game Development",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 122",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17665",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "2MTC 82509/02/2015 - 12/15/2015 Wed 12.30 PM - 3.15 PM"
+                }
+            ],
+            "course_name": "Game Development: Team Studio",
+            "description": "GAMES-UT  122 Game Development: Team Studio",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 150",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17666",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 80209/02/2015 - 12/15/2015 Wed 9.30 AM - 12.15 PM"
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "17667",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "2MTC 80209/02/2015 - 12/15/2015 Wed 12.30 PM - 3.50 PM"
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "17668",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 83009/02/2015 - 12/15/2015 Thu 9.30 AM - 12.15 PM"
+                }
+            ],
+            "course_name": "Intro to Game Design",
+            "description": "GAMES-UT  150 Intro to Game Design",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 151",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17669",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "2MTC 83009/02/2015 - 12/15/2015 Thu 2.00 PM - 4.45 PM"
+                }
+            ],
+            "course_name": "Intermediate Game Design",
+            "description": "GAMES-UT  151 Intermediate Game Design",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 152",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "17670",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "2MTC 83009/02/2015 - 12/15/2015 Wed 6.20 PM - 9.00 PM"
+                }
+            ],
+            "course_name": "Advanced Game Design",
+            "description": "GAMES-UT  152 Advanced Game Design",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-UT 403",
+            "course_name": "Intro to Star Craft",
+            "description": "GAMES-UT  403 Intro to Star Craft",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-UT 404",
+            "course_name": "Modern Tabletop Games Literacy",
+            "description": "GAMES-UT  404 Modern Tabletop Games Literacy",
+            "offering": false
+        }
+    ]
+}

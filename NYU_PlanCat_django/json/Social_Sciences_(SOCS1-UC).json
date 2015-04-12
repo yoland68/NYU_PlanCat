@@ -1,0 +1,142 @@
+{
+    "major_id": "SOCS1-UC",
+    "file": "./2015-2016/Social_Sciences_(SOCS1-UC).html",
+    "courses": [
+        {
+            "course_id": "SOCS1-UC 2201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9976",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "BOBS LL139",
+                    "time": "Mon 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Drewes, Donna"
+                }
+            ],
+            "course_name": "Oral Communications",
+            "description": "SOCS1-UC 2201 Oral Communications \nIn this course students study the dynamics of the communications process and participate in a workshop for developing effective interpersonal skills. It emphasizes a wide range of behaviors and situations from one-on-one interactions to formal presentations in a cross-cultural context.",
+            "offering": true
+        },
+        {
+            "course_id": "SOCS1-UC 7241",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9797",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "SILV 621"
+                }
+            ],
+            "course_name": "Social Sciences Research Methods",
+            "description": "SOCS1-UC 7241 Social Sciences Research Methods \nThis research methodology course develops the student's ability to do social science research, particularly in the fields of anthropology, sociology, international studies, media studies, and politics. It begins with bibliographic research, emphasizing the full range of available tools: library catalogues, online databases, indices of periodical literature, and archives of the visual media. Then it enhances the student's understanding of the manner in which material is gathered and how it can be used in the research paper.",
+            "offering": true
+        },
+        {
+            "course_id": "SOCS1-UC 7941",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9798",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Carryl, Colin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study - Social Science",
+            "description": "SOCS1-UC 7941 Independent Study - Social Science \nStudent conduct an independent investigation of selected topics outside the boundaries of the classroom. Independent study allows students to pursue specialized interests, within the framework of the curriculum, that are not available in existing courses. Although self-directed,  students  work closely with a faculty mentor who guides and evaluates their work.",
+            "offering": true
+        },
+        {
+            "course_id": "SOCS1-UC 7942",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9799",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Burns, William",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship: Social Sciences",
+            "description": "SOCS1-UC 7942 Internship: Social Sciences",
+            "offering": true
+        },
+        {
+            "course_id": "SOCS1-UC 7991",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9800",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "BOBS 736",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Kaplan, Nira"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9910",
+                    "section": "002",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "BOBS 937",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Menna, Larry"
+                }
+            ],
+            "course_name": "Senior Project Seminar: Social Sciences",
+            "description": "SOCS1-UC 7991 Senior Project Seminar: Social Sciences \nStudents are assisted in defining and undertaking an individually designed Senior Project. They complete a research paper or a creative project related to their concentration. Students work closely with the Senior Project faculty member and meet regularly with fellow students in discussion groups. The final result is the summation of work done in the Bachelor of Arts Program.",
+            "offering": true
+        },
+        {
+            "course_id": "SOCS1-UC 7992",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9801",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "25W4 C-20",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Burns, William"
+                }
+            ],
+            "course_name": "Sr Project Internship: Social Sciences",
+            "description": "SOCS1-UC 7992 Sr Project Internship: Social Sciences \nStudents undertake an internship, which typically entails out-placement in an organization related to the student's academic concentration as well as a written component. Among recent internships, students have been placed at Memorial Sloan-Kettering Hospital, the New York City Arts Commission, and Covenant House. Interested students should discuss this program with the McGhee liberal arts internship coordinator.",
+            "offering": true
+        },
+        {
+            "course_id": "SOCS1-UC 7993",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9802",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Sr Proj: Social Sciences Independent Study",
+            "description": "SOCS1-UC 7993 Sr Proj: Social Sciences Independent Study",
+            "offering": true
+        }
+    ]
+}

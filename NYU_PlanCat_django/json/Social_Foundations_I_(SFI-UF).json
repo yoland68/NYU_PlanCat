@@ -1,0 +1,410 @@
+{
+    "major_id": "SFI-UF",
+    "file": "./2015-2016/Social_Foundations_I_(SFI-UF).html",
+    "courses": [
+        {
+            "course_id": "SFI-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12054",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS LL147"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12055",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 207"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12056",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 501"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12057",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-13",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Samponaro, Laura"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12058",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-13",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Samponaro, Laura"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12059",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 412"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12060",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 501"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16414",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "McBride, Eugene"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12061",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 507",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Valenti, Peter"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12063",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 279",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Samponaro, Laura"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12064",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 501"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16415",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Regan, John"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12242",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 412"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12065",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 514"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12066",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "194M 201"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16416",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 569",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Portanova, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12067",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 325 (SB)"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12068",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 LL31"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12069",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 205",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Rainey, Ronald"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12070",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-4",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Portanova, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12280",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-1"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12229",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS LL149"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12072",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Shenefelt, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12074",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "White, Heidi"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12075",
+                    "section": "029",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "White, Heidi"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12076",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Mahootian, Farzad"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12279",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B01"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12077",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "WAVE 569"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12078",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 207",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Shenefelt, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12278",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 570"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12276",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 518"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12277",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B01",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Klein, William"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12080",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-9"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12081",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "194M 201"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12082",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 275",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Rainey, Ronald"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12083",
+                    "section": "041",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Mahootian, Farzad"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12084",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Washburn, Phillip"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12230",
+                    "section": "043",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 207"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12241",
+                    "section": "044",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B01",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Klein, William"
+                }
+            ],
+            "course_name": "Social Foundations I",
+            "description": "SFI-UF  101 Social Foundations I \nThe first semester of Social Foundations introduces students to the ancient world and ends with the dissolution of the Western Roman Empire, of the Gupta Empire in India, and of the Han Dynasty in China. This course takes a global perspective and uses an interdisciplinary approach, and part of its aim is to explore enduring questions such as the relation between the individual and society, between justice and power, and between humanity and the divine.",
+            "offering": true
+        },
+        {
+            "course_id": "SFI-UF 9101",
+            "course_name": "Social Foundations I",
+            "description": "SFI-UF 9101 Social Foundations I \nThe first semester of Social Foundations introduces students to the ancient world and ends with the dissolution of the Western Roman Empire, of the Gupta Empire in India, and of the Han Dynasty in China. This course takes a global perspective and uses an interdisciplinary approach, and part of its aim is to explore enduring questions such as the relation between the individual and society, between justice and power, and between humanity and the divine.",
+            "offering": false
+        }
+    ]
+}

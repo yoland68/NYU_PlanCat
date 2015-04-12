@@ -1,0 +1,446 @@
+{
+    "major_id": "IRISH-UA",
+    "file": "./2015-2016/Irish_Studies_(IRISH-UA).html",
+    "courses": [
+        {
+            "course_id": "IRISH-UA 100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7080",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "O'Cearuil, Padraig"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8851",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Sweeney, Hilary"
+                }
+            ],
+            "course_name": "Modern Irish Language Elementary I",
+            "description": "IRISH-UA  100 Modern Irish Language Elementary I \nThis course introduces students to the rudiments of the Irish language, including phonemes and pronunciation, syntactical structure, and verbal conjugations. In addition, a history of the language is provided, as well as a general introduction to Irish culture, including discussions of family and place names. Students are encouraged to begin speaking with basic sentence structures.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 101",
+            "course_name": "Modern Irish Language Elementary II",
+            "description": "IRISH-UA  101 Modern Irish Language Elementary II \nThis course builds on the grammatical lessons of Elementary Irish I and expands into more complex verbal conjugations while concentrating on idiomatic expressions. The accumulation of vocabulary is stressed and students are introduced to basic literature in Irish while developing beginning conversational fluency.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 102",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8856",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "O'Cearuil, Padraig"
+                }
+            ],
+            "course_name": "Modern Irish Language Intermediate I",
+            "description": "IRISH-UA  102 Modern Irish Language Intermediate I \nFor the more advanced student of Irish, this course focuses on improving conversational fluency and on expanding vocabulary through reading more complex literature in Irish.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 103",
+            "course_name": "Modern Irish Language Intermediate II",
+            "description": "IRISH-UA  103 Modern Irish Language Intermediate II \nThe focus of this course is on conversational fluency, reading complex literature in Irish, and writing in the Irish language, further encouraging students to strengthen their pronunciation and command of spoken Irish.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 135",
+            "course_name": "Irish Cinema",
+            "description": "IRISH-UA  135 Irish Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 149",
+            "course_name": "Atlantic Migration, 1500 - 1945",
+            "description": "IRISH-UA  149 Atlantic Migration, 1500 - 1945",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 152",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8424",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 320",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Moloney, Michael"
+                }
+            ],
+            "course_name": "Introduction to Celtic Music",
+            "description": "IRISH-UA  152 Introduction to Celtic Music \nThis course provides a comprehensive introduction to the traditional and contemporary music of the Celtic areas of Western Europe?Ireland, Scotland, Wales, Brittany, and Galicia. Recordings and live performances present the extraordinary range of singing styles and the musical instruments employed in each culture, including harps, bagpipes, and a variety of other wind, free reed, keyboard, and stringed instruments. Forms and musical styles are explored in depth along with a study of their origin, evolution, and cultural links.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 170",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8330",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Nyhan, Miriam"
+                }
+            ],
+            "course_name": "Global Diaspora:The Irish Case",
+            "description": "IRISH-UA  170 Global Diaspora:The Irish Case",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 180",
+            "course_name": "The Irish and New York",
+            "description": "IRISH-UA  180 The Irish and New York \nExplores the symbiotic relationship between New York City and the Irish from the 18th through the 20th centuries, as well as the impact of political, social, and cultural changes in Ireland and America on a transnational population. Factors beyond race and language, which help define and preserve ethnic group identity, as well as the city?s role in the creation of a pseudo-Irish identity that is disseminated on both sides of the Atlantic, are also explored. Readings are broadly drawn from immigration, urban, and social history. Primary documents, literature, and film are also used as texts.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 181",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7845",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Casey, Marion"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16882",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "ERIN 101"
+                }
+            ],
+            "course_name": "Topics in Irish Hist:Ireland & America Since 1922Tpcs Irish Hist:Ireland,",
+            "description": "IRISH-UA  181 Topics in Irish Hist:Ireland & America Since 1922Tpcs Irish Hist:Ireland, \nEmphasis varies by semester; designed to allow flexibility in course offerings from visiting scholars and specialists in particular fields. Past examinations have included imagery and ideology of Irish nationalism, Irish American popular folk culture, and the Irish in America. Recently, focus has concentrated on the oral history of the Irish in America with course instruction in conducting oral history interviews, writing an archival finding aid, and in editorial decision making for public history projects.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 182",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7846",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Truxes, Thomas"
+                }
+            ],
+            "course_name": "History of Modern Ireland I: 1580-1800",
+            "description": "IRISH-UA  182 History of Modern Ireland I: 1580-1800 \nIdentical to V57.0182. 4 points. Examines the English conquest of Ireland from the reign of Elizabeth I to the last meeting of the Irish Parliament. Key themes include the plantation of Ireland with settlers from England, Scotland, and Wales; the decline of the Gaelic political order and culture; the religious reformation and Counter-Reformation; Ireland as a site of English and European wars; the imposition of a penal code; and the vain attempt to rebel against British rule in the late 18th century, resulting in the Act of Union, which disestablished the Irish Parliament in Dublin.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 183",
+            "course_name": "History of Mod Ireland Part II: 1845 to 1922",
+            "description": "IRISH-UA  183 History of Mod Ireland Part II: 1845 to 1922 \nExamines the period from the Act of Union between Great Britain and Ireland to the achievement of partial independence in 1922. Topics covered include the Union and its aftermath; the growth of nationalism in 19th-century Ireland; the Great Famine of 1845-1851 and its long-term economic, social, and political consequences; the shaping of modern Ireland; Fenianism and the Land War; the Irish cultural revival; the policy of Home Rule and Unionist reaction; the 1916 Rising; and the War of Independence.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 184",
+            "course_name": "Hist of Mod Ireland III: 1922 to The Present",
+            "description": "IRISH-UA  184 Hist of Mod Ireland III: 1922 to The Present \nThe focus of this course is the political history of the two jurisdictions within the island of Ireland founded upon the partition settlement of 1920-1922. An era of revolution and bitter civil and confessional conflict temporarily gave way to a period of separate state-building projects according to different political, cultural, and economic priorities and therefore to divergent historical experiences. Division has characterized the history of the island in the 20th century and attempts to negotiate those fractures characterize the political agenda, a process ongoing in the present moment.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 185",
+            "course_name": "Seminar in Irish History",
+            "description": "IRISH-UA  185 Seminar in Irish History \nIntensive examination of specific areas of Irish history with an emphasis on critical reading and individual research projects. Past themes include the development and modernization of the Republic of Ireland with particular consideration of the economy; the Great Famine of 1845-1851, which was an immediate and long-term catastrophe for the Irish people but which was also the catalyst for substantial changes?positive and negative?in Irish society and culture; and the cinematic representations of Irish Americans.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 186",
+            "course_name": "Iris & Jewish Migrations to America",
+            "description": "IRISH-UA  186 Iris & Jewish Migrations to America",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 187",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7081",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Casey, Marion"
+                }
+            ],
+            "course_name": "",
+            "description": "IRISH-UA  187\n\n   The Irish in America\n\nFrom the seventeenth century to the present, Irish people have been crossing the Atlantic to North America. They are one of the most significant ethnic groups to ever migrate from Europe to the United States. Their impact has been disproportional to their numbers but this only partially explains our contemporary understanding of \u201cIrish America.\u201d Ethnicity is an imprint and defining feature of American life yet the Irish experience with it over the past four centuries is a story complicated by multiple generations, diversity of class, continuing immigration, and rapid changes in both the homela...\n\n      more description for IRISH-UA  187 \u00bb\n\n      \n\n\n\nFrom the seventeenth century to the present, Irish people have been crossing the Atlantic to North America. They are one of the most significant ethnic groups to ever migrate from Europe to the United States. Their impact has been disproportional to their numbers but this only partially explains our contemporary understanding of \u201cIrish America.\u201d Ethnicity is an imprint and defining feature of American life yet the Irish experience with it over the past four centuries is a story complicated by multiple generations, diversity of class, continuing immigration, and rapid changes in both the homeland and the receiving country. This course will consider the factors affecting emigration from Ireland; examine the impact of the Irish on the development of the United States since the colonial period, particularly on its cities; study the changing Irish image in American popular culture; and consider what the Irish can teach us about the evolution of ethnic identity. The ultimate goal of this course is to learn to think historically.\n\n      less description for IRISH-UA  187 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 203",
+            "course_name": "Oral History of Irish America",
+            "description": "IRISH-UA  203 Oral History of Irish America",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 204",
+            "course_name": "Cinematic Representations of Irish Americans",
+            "description": "IRISH-UA  204 Cinematic Representations of Irish Americans \nThe moving image is central to the history of the 20th century. This seminar explores the ways in which a specific ethnic group has been portrayed in feature films since 1900 (silent era to the present). It concentrates on the variety of images that have been used to characterize the Irish who live in the United States, analyzing the roots of that imagery and the implications of cinematic representation for Irish American history.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 307",
+            "course_name": "Myths and Cultures of The Ancient Celts",
+            "description": "IRISH-UA  307 Myths and Cultures of The Ancient Celts",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 308",
+            "course_name": "Medieval Ireland",
+            "description": "IRISH-UA  308 Medieval Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 514",
+            "course_name": "British and Irish Politics",
+            "description": "IRISH-UA  514 British and Irish Politics",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 621",
+            "course_name": "The Irish Renaissance",
+            "description": "IRISH-UA  621 The Irish Renaissance \nIdentical to V41.0621. 4 points. See description under English (41).",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 622",
+            "course_name": "Irish-American Literature",
+            "description": "IRISH-UA  622 Irish-American Literature \nThe course examines Irish American literature from the 19th century to the present, considering the literary responses of generations of Irish immigrants as they strove to understand and contribute to the American experience. The works of writers such as F. Scott Fitzgerald, Eugene O?Neill, Flannery O?Connor, John O?Hara, and William Kennedy are explored, as are the connections between ethnic and literary cultures.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 625",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "16733",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bender, Abby"
+                }
+            ],
+            "course_name": "Colloquium: Joyce",
+            "description": "IRISH-UA  625 Colloquium: Joyce \nSee description under English (ENGL-UA).",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 650",
+            "course_name": "Modern Irish Art",
+            "description": "IRISH-UA  650 Modern Irish Art",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 700",
+            "course_name": "Topics: Irish Dramatists",
+            "description": "IRISH-UA  700 Topics: Irish Dramatists \nA study of the rich dramatic tradition of Ireland since the days of William Butler Yeats, Lady Gregory, and the fledgling Abbey Theatre. Playwrights covered include John Millington Synge, Sean O?Casey, Samuel Beckett, Brendan Behan, Brian Friel, Tom Murphy, Frank McGuinness, and Anne Devlin. Issues of Irish identity, history, and postcoloniality are engaged alongside an appreciation of the emotional texture, poetic achievements, and theatrical innovations that characterize this body of dramatic work.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 761",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8861",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Sullivan, Kelly"
+                }
+            ],
+            "course_name": "Topics in Irish Lit:Topics in Irish Lit:",
+            "description": "IRISH-UA  761 Topics in Irish Lit:Topics in Irish Lit: \nEmphasis varies by semester; designed to allow flexibility in course offerings from visiting scholars and specialists in particular fields. Past examinations have included contemporary Irish fiction and poetry, Irish women writers, and Northern Irish poetry.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 800",
+            "course_name": "Arthurian Legend: Arthur and The Celts",
+            "description": "IRISH-UA  800 Arthurian Legend: Arthur and The Celts",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 902",
+            "course_name": "Topics in Irish Literary, Visual, & Performing Arts",
+            "description": "IRISH-UA  902 Topics in Irish Literary, Visual, & Performing Arts",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 984",
+            "course_name": "Early Irish Art",
+            "description": "IRISH-UA  984 Early Irish Art",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 991",
+            "course_name": "Interdisciplinary Sem:",
+            "description": "IRISH-UA  991 Interdisciplinary Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 998",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7082",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Waters, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "IRISH-UA  998 Independent Study \nPrerequisite: permission of the director of undergraduate studies. 2 or 4 points per term. Independent study with an Irish studies faculty member.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-UA 9020",
+            "course_name": "Topics in Irish Literary Visual&Performing Arts",
+            "description": "IRISH-UA 9020 Topics in Irish Literary Visual&Performing Arts",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9032",
+            "course_name": "Documen Exper:Irish,Euro & No Amer Traditions",
+            "description": "IRISH-UA 9032 Documen Exper:Irish,Euro & No Amer Traditions",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9100",
+            "course_name": "Elementary Irish I",
+            "description": "IRISH-UA 9100 Elementary Irish I",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9102",
+            "course_name": "Intermediate Irish I",
+            "description": "IRISH-UA 9102 Intermediate Irish I",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9104",
+            "course_name": "Irish Culture:",
+            "description": "IRISH-UA 9104 Irish Culture:",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9152",
+            "course_name": "Irish Music",
+            "description": "IRISH-UA 9152 Irish Music",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9183",
+            "course_name": "Irish Hist Since Indepen Dence: 1922 to Present",
+            "description": "IRISH-UA 9183 Irish Hist Since Indepen Dence: 1922 to Present",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9184",
+            "course_name": "History of Modern Ireland",
+            "description": "IRISH-UA 9184 History of Modern Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9189",
+            "course_name": "Global Irish Communities:",
+            "description": "IRISH-UA 9189 Global Irish Communities:",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9503",
+            "course_name": "Cinema in Contemporary Ireland",
+            "description": "IRISH-UA 9503 Cinema in Contemporary Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9515",
+            "course_name": "Contemporary Irish Politics & Society:",
+            "description": "IRISH-UA 9515 Contemporary Irish Politics & Society:",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9618",
+            "course_name": "Major Playwrights: Samuel Beckett",
+            "description": "IRISH-UA 9618 Major Playwrights: Samuel Beckett",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9621",
+            "course_name": "Irish Renaissance",
+            "description": "IRISH-UA 9621 Irish Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9650",
+            "course_name": "Art & Society in 20th C Ireland",
+            "description": "IRISH-UA 9650 Art & Society in 20th C Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9700",
+            "course_name": "Topics in Irish Drama Contemp Irish Drama",
+            "description": "IRISH-UA 9700 Topics in Irish Drama Contemp Irish Drama",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9761",
+            "course_name": "Topics:The Medieval in Modern Irish Imagination",
+            "description": "IRISH-UA 9761 Topics:The Medieval in Modern Irish Imagination",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9762",
+            "course_name": "Topics in Irish Lit",
+            "description": "IRISH-UA 9762 Topics in Irish Lit",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-UA 9763",
+            "course_name": "Topics in Irish Drama: Contemp Irish Drama",
+            "description": "IRISH-UA 9763 Topics in Irish Drama: Contemp Irish Drama",
+            "offering": false
+        }
+    ]
+}

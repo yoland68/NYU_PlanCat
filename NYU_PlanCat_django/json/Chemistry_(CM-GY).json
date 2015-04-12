@@ -1,0 +1,855 @@
+{
+    "major_id": "CM-GY",
+    "file": "./2015-2016/Chemistry_(CM-GY).html",
+    "courses": [
+        {
+            "course_id": "CM-GY 440",
+            "course_name": "| CM-UY  440 | CM-UY 4414 Polymer Chemistry",
+            "description": "CM-GY  440 | CM-UY  440 | CM-UY 4414 Polymer Chemistry \nThis course introduces polymer chemistry. It covers the principles of various polymerization methods, characterization and physical chemistry of polymers. A laboratory is included. | Prerequisites: CM-UY 2214 and CM-UY 2514 or CM-UY 2614.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 490",
+            "course_name": "BIOMATERIALS",
+            "description": "CM-GY  490 BIOMATERIALS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 502",
+            "course_name": "| CM-UY 5024 ENVIRONMENTAL CHEMISTRY",
+            "description": "CM-GY  502 | CM-UY 5024 ENVIRONMENTAL CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 504",
+            "course_name": "CHEMICAL LAB SAFETY",
+            "description": "CM-GY  504 CHEMICAL LAB SAFETY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 515",
+            "course_name": "INTRO ORGANIC/POLYMER CM",
+            "description": "CM-GY  515 INTRO ORGANIC/POLYMER CM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 565",
+            "course_name": "GRADUATE SEMINAR",
+            "description": "CM-GY  565 GRADUATE SEMINAR",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 606",
+            "course_name": "ADV. INORGANIC CHEM LAB",
+            "description": "CM-GY  606 ADV. INORGANIC CHEM LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 611",
+            "course_name": "STRUCT INORG CHEM 1",
+            "description": "CM-GY  611 STRUCT INORG CHEM 1",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 612",
+            "course_name": "STRUCT INORG CHEM 2",
+            "description": "CM-GY  612 STRUCT INORG CHEM 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 614",
+            "course_name": "ADV TOPICS-INORG CHEM",
+            "description": "CM-GY  614 ADV TOPICS-INORG CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 619",
+            "course_name": "ADV TOP INORG CHEM",
+            "description": "CM-GY  619 ADV TOP INORG CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 624",
+            "course_name": "HETEROCYCLE CHEMISTRY",
+            "description": "CM-GY  624 HETEROCYCLE CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 664",
+            "course_name": "CHEMISTRY OF MATER. LAB",
+            "description": "CM-GY  664 CHEMISTRY OF MATER. LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 704",
+            "course_name": "CHEMICAL PHYSICS II",
+            "description": "CM-GY  704 CHEMICAL PHYSICS II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 705",
+            "course_name": "CHEMICAL PHYSICS II",
+            "description": "CM-GY  705 CHEMICAL PHYSICS II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 706",
+            "course_name": "CHEMICAL THERMODYNAMICS",
+            "description": "CM-GY  706 CHEMICAL THERMODYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 711",
+            "course_name": "INTRO TO POLYMER CHEM",
+            "description": "CM-GY  711 INTRO TO POLYMER CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 714",
+            "course_name": "ADV PHYSICAL CHEM LAB",
+            "description": "CM-GY  714 ADV PHYSICAL CHEM LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 715",
+            "course_name": "KINETICS OF CHEM REACTS",
+            "description": "CM-GY  715 KINETICS OF CHEM REACTS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 716",
+            "course_name": "VALENCE & MOLEC STRUCT",
+            "description": "CM-GY  716 VALENCE & MOLEC STRUCT",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 717",
+            "course_name": "ELECTROCHEMISTRY",
+            "description": "CM-GY  717 ELECTROCHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 721",
+            "course_name": "QUANTUM MECHANICS",
+            "description": "CM-GY  721 QUANTUM MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 722",
+            "course_name": "STAT MECH FOR CHEMISTS",
+            "description": "CM-GY  722 STAT MECH FOR CHEMISTS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 730",
+            "course_name": "GROUP THEORY-APPLCTNS I",
+            "description": "CM-GY  730 GROUP THEORY-APPLCTNS I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 731",
+            "course_name": "GROUP THEORY-APPLCTNS II",
+            "description": "CM-GY  731 GROUP THEORY-APPLCTNS II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 750",
+            "course_name": "CHEMISTRY OF COLLOIDS",
+            "description": "CM-GY  750 CHEMISTRY OF COLLOIDS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 750",
+            "course_name": "ADVANCED ANALYTICAL CHEMISTRY",
+            "description": "CM-GY  750 ADVANCED ANALYTICAL CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 755",
+            "course_name": "BIOINFORMATICS III: FUNCTIONAL PREDICTION",
+            "description": "CM-GY  755 BIOINFORMATICS III: FUNCTIONAL PREDICTION",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 758",
+            "course_name": "GUIDED STUDIES IN BIOINFORMAT",
+            "description": "CM-GY  758 GUIDED STUDIES IN BIOINFORMAT",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 771",
+            "course_name": "INTRODUCTION TO POLYMER CHEMISTRY",
+            "description": "CM-GY  771 INTRODUCTION TO POLYMER CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 771",
+            "course_name": "INTRO POLYMER CHEM",
+            "description": "CM-GY  771 INTRO POLYMER CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 781",
+            "course_name": "SOLUTION PROP:POLYMERS",
+            "description": "CM-GY  781 SOLUTION PROP:POLYMERS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 782",
+            "course_name": "MACROMOLECULES",
+            "description": "CM-GY  782 MACROMOLECULES",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 783",
+            "course_name": "LAB MTHDS-POLYMER CHEM",
+            "description": "CM-GY  783 LAB MTHDS-POLYMER CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 785",
+            "course_name": "| CM-GY 9403 Special Topics in Organic Chemistry",
+            "description": "CM-GY  785 | CM-GY 9403 Special Topics in Organic Chemistry \nThis course covers special Topics in Organic Chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 790",
+            "course_name": "BIOPOLYMERS",
+            "description": "CM-GY  790 BIOPOLYMERS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 792",
+            "course_name": "NATURAL POLYMERS & MATERIALS",
+            "description": "CM-GY  792 NATURAL POLYMERS & MATERIALS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 801",
+            "course_name": "APPL SPECTROSCOPY",
+            "description": "CM-GY  801 APPL SPECTROSCOPY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 806",
+            "course_name": "ADV ANALYT CHEM LAB 2",
+            "description": "CM-GY  806 ADV ANALYT CHEM LAB 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 906",
+            "course_name": "MODERN SYTH. METHODS LAB",
+            "description": "CM-GY  906 MODERN SYTH. METHODS LAB",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 910",
+            "course_name": "PRIN SPECTR FOR TEACHERS",
+            "description": "CM-GY  910 PRIN SPECTR FOR TEACHERS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 915",
+            "course_name": "PHYSICAL ORGANIC CHEM",
+            "description": "CM-GY  915 PHYSICAL ORGANIC CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 916",
+            "course_name": "INTRO POLYMERIC MATL 2",
+            "description": "CM-GY  916 INTRO POLYMERIC MATL 2",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 920",
+            "course_name": "ASPECT:ORGAN SYNTH",
+            "description": "CM-GY  920 ASPECT:ORGAN SYNTH",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 921",
+            "course_name": "ADV TOPICS:ORGANIC CHEM",
+            "description": "CM-GY  921 ADV TOPICS:ORGANIC CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 922",
+            "course_name": "ADV TOPICS:ORGANIC CHEM",
+            "description": "CM-GY  922 ADV TOPICS:ORGANIC CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 928",
+            "course_name": "ADVANCED TOPICS IN ORG CHEM",
+            "description": "CM-GY  928 ADVANCED TOPICS IN ORG CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 933",
+            "course_name": "ADV TOPICS:ORGANIC CHEM",
+            "description": "CM-GY  933 ADV TOPICS:ORGANIC CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 940",
+            "course_name": "| CM-GY 7853 Special Topics in Polymer Chemistry",
+            "description": "CM-GY  940 | CM-GY 7853 Special Topics in Polymer Chemistry \nThis course covers special topics in polymer chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 944",
+            "course_name": "ADVAN TOPICS IN BIOCHEM",
+            "description": "CM-GY  944 ADVAN TOPICS IN BIOCHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 946",
+            "course_name": "ADV TOPICS:BIOCHEMISTRY",
+            "description": "CM-GY  946 ADV TOPICS:BIOCHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 947",
+            "course_name": "BIOCHEMICAL TECHNIQUES",
+            "description": "CM-GY  947 BIOCHEMICAL TECHNIQUES",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 948",
+            "course_name": "EPDMOLOGY-ENVRNMTL HLTH",
+            "description": "CM-GY  948 EPDMOLOGY-ENVRNMTL HLTH",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 950",
+            "course_name": "PRINCIPLES OF BIOLOGICAL SYSTEMS",
+            "description": "CM-GY  950 PRINCIPLES OF BIOLOGICAL SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 951",
+            "course_name": "INDUST & ENGNRNG CHEM II",
+            "description": "CM-GY  951 INDUST & ENGNRNG CHEM II",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 952",
+            "course_name": "MOLECULAR AND CELLULAR BIO I",
+            "description": "CM-GY  952 MOLECULAR AND CELLULAR BIO I",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 953",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  953 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 954",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  954 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 955",
+            "course_name": "INDUSTRIAL CHEM PROJECT",
+            "description": "CM-GY  955 INDUSTRIAL CHEM PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 956",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  956 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 957",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  957 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 958",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  958 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 959",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  959 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 960",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  960 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 961",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  961 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 962",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  962 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 962",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  962 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 963",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  963 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 964",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  964 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 964",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  964 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 965",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  965 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 966",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  966 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 967",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  967 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 968",
+            "course_name": "RESEARCH IN CHEMISTRY",
+            "description": "CM-GY  968 RESEARCH IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 972",
+            "course_name": "CHEMICAL COLLOQUIUM",
+            "description": "CM-GY  972 CHEMICAL COLLOQUIUM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 974",
+            "course_name": "| CM-GY 9741 Seminar in Chemistry II",
+            "description": "CM-GY  974 | CM-GY 9741 Seminar in Chemistry II \nThis course covers chemical topics of current interest and is presented by participating students, staff and outside speakers. One semester is required for MS chemistry students; three semesters required for PhD candidates.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 976",
+            "course_name": "SEMINAR IN CHEMISTRY",
+            "description": "CM-GY  976 SEMINAR IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 991",
+            "course_name": "SEMINAR IN CHEMICAL ENG",
+            "description": "CM-GY  991 SEMINAR IN CHEMICAL ENG",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 995",
+            "course_name": "SEMINAR:CHEMICAL PHYSICS",
+            "description": "CM-GY  995 SEMINAR:CHEMICAL PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 996",
+            "course_name": "SEMINAR:CHEMICAL PHYSICS",
+            "description": "CM-GY  996 SEMINAR:CHEMICAL PHYSICS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 997",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "X MS THESIS IN CHEMISTRY",
+            "description": "CM-GY  997X MS THESIS IN CHEMISTRY \nThis course requires original experimental or theoretical research, guided by a chemistry faculty member that may serve as basis for an MS degree.  The minimum research registration requirements for the master's thesis: 9 credits.  Registration is required each semester consecutively until students complete adequate research projects and acceptable theses and have passed required oral examinations.  | Prerequisite: Advisor approval",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 998",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "X RESEARCH IN MATERIALS CHEMISTRY",
+            "description": "CM-GY  998X RESEARCH IN MATERIALS CHEMISTRY \nResearch course for PhD students prior to passing the qualifying exam.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 999",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "X PHD DISSERTATION IN MATERIALS CHEMISTRY",
+            "description": "CM-GY  999X PHD DISSERTATION IN MATERIALS CHEMISTRY \nThis course requires original experimental or theoretical research, guided by a chemistry faculty member), that may serve as basis for a PhD. The minimum research registration requirement is 36 credits. Registration is required each semester consecutively until students complete adequate research projects and acceptable theses and have passed required oral examinations. A research fee is required. | Prerequisite: Passing grade in RE-GY 9990 Phd Qualifying Exam",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 100663",
+            "course_name": "ST:ADV ANALY CHEM",
+            "description": "CM-GY 100663 ST:ADV ANALY CHEM",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 5021",
+            "classes": [
+                {}
+            ],
+            "course_name": "Information Sources for the Chemical Sciences",
+            "description": "CM-GY 5021 Information Sources for the Chemical Sciences \nThis course is a hands-on introduction to methods and tools for searching and includes both electronic (CD-ROM and online) as well as print databases. Students may emphasize topics related to their research. Graduate students are required to take this course.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 5040",
+            "classes": [
+                {}
+            ],
+            "course_name": "Chemical Laboratory Safety",
+            "description": "CM-GY 5040 Chemical Laboratory Safety \nThis course discusses problems of health and safety in chemical laboratories, including how to work safely with dangerous chemicals. This course must be completed by graduate and undergraduate chemistry students before they begin laboratory research.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 5714",
+            "course_name": "MOLECULAR MODELING & SIMULAT",
+            "description": "CM-GY 5714 MOLECULAR MODELING & SIMULAT",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6005",
+            "course_name": "GUIDED STUDIES IN CHEMISTRY",
+            "description": "CM-GY 6005 GUIDED STUDIES IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6010",
+            "course_name": "GUIDED STUDIES IN CHEMISTRY",
+            "description": "CM-GY 6010 GUIDED STUDIES IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6013",
+            "course_name": "Advanced Inorganic Chemistry",
+            "description": "CM-GY 6013 Advanced Inorganic Chemistry \nThis course covers theories of bonding in inorganic compounds. It introduces group theory as applied to molecular orbital and ligand field theories. Also covered are spectra of inorganic compounds and non-aqueous solvent. The transition to metal chemistry is introduced. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6015",
+            "course_name": "GUIDED STUDIES IN CHEMISTRY",
+            "description": "CM-GY 6015 GUIDED STUDIES IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6020",
+            "course_name": "GUIDED STUDIES IN CHEMISTRY",
+            "description": "CM-GY 6020 GUIDED STUDIES IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6025",
+            "course_name": "GUIDED STUDIES IN CHEMISTRY",
+            "description": "CM-GY 6025 GUIDED STUDIES IN CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 6153",
+            "course_name": "Special Topics in Inorganic Chemistry",
+            "description": "CM-GY 6153 Special Topics in Inorganic Chemistry \nThis course covers special topics in Inorganic Chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7033",
+            "course_name": "Quantum Chemistry",
+            "description": "CM-GY 7033 Quantum Chemistry \nThis course covers quantum structures of atoms and molecules. It covers fundamental ideas of quantum mechanics, applications to atomic and molecular structures and bonding, approximation methods and Interactions of light and matter. | Prerequisite: Undergraduate physical chemistry and physics or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7043",
+            "classes": [
+                {}
+            ],
+            "course_name": "Statistical Thermodynamics and Kinetics",
+            "description": "CM-GY 7043 Statistical Thermodynamics and Kinetics \nThis course covers statistical mechanics for chemical systems. Also covered are ensembles, partition functions, thermodynamic functions, applications to various systems, including non-ideal gas, gas of diatomic molecules, polymer, surface phenomena, chemical equilibria, biophysics and reaction kinetics. | Prerequisite: Undergraduate physical chemistry and physics or adviser\u2019s approval.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 7064",
+            "course_name": "CHEMISTRY OF COLLIODS",
+            "description": "CM-GY 7064 CHEMISTRY OF COLLIODS",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7103",
+            "course_name": "BIOPHYSICAL CHEMISTRY",
+            "description": "CM-GY 7103 BIOPHYSICAL CHEMISTRY \nThis course covers structure and properties of important biological   macromolecules, including proteins, nucleic acids and polysaccharides; membranes and macromolecular complexes; applications of x-ray diffraction;  NMR; vibrational and CD spectroscopy to the analysis of structure. | Prerequisite: CM-GY 7043 or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7503",
+            "course_name": "Special Topics in Physical Chemistry",
+            "description": "CM-GY 7503 Special Topics in Physical Chemistry \nThis course covers special Topics in Physical Chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7533",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Bioinformatics I: Sequence Analysis",
+            "description": "BI-GY 7533 | CM-GY 7533 Bioinformatics I: Sequence Analysis \nThis course covers computer representations of nucleic acid and protein sequences; pairwise and multiple alignment methods; available databases of nucleic acid and protein sequences; database search methods; scoring functions for assessment of alignments; nucleic acid to protein sequence translation and codon usage; genomic organization and gene structure in prokaryotes and eukaryotes; introns and exons; prediction of open reading frames; alternative splicing; existing databases of mRNA, DNA protein and genomic information; and an overview of available programs and of Web resources.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 7573",
+            "course_name": "Special Topics in \u201cInformatics in Chemical and Biological Sciences\u201d",
+            "description": "BI-GY 7573 | CM-GY 7573 Special Topics in \u201cInformatics in Chemical and Biological Sciences\u201d \nThis course covers special topics on various advanced or specialized topics in chemo- or bioinformatics that are presented at intervals.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7723",
+            "course_name": "Synthesis of Macromolecules",
+            "description": "CM-GY 7723 Synthesis of Macromolecules \nThis course covers organic aspects, including chemistry of monomer and polymer formation; modern mechanistic analyses of reactions; stereochemistry of polymer structures; forces of stereo regulation;  condensation, free radical (bulk, suspension, emulsion, solution), ionic, ring-opening and non-classical polymerization reactions. | Prerequisite: Undergraduate organic chemistry or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7813",
+            "course_name": "Characterization of Macromolecules",
+            "description": "CM-GY 7813 Characterization of Macromolecules \nThis course covers characterization methods for linear-chain polymer and macromolecules in solution such as static and dynamic light scattering, osmometry, size exclusion chromatography, and viscometry. Also covered are characterization methods for macromolecules in solid state such as crystallography and mechanical and thermal analysis. | Prerequisite: Undergraduate physical chemistry or adviser approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 940",
+            "course_name": "| CM-GY 7853 Special Topics in Polymer Chemistry",
+            "description": "CM-GY  940 | CM-GY 7853 Special Topics in Polymer Chemistry \nThis course covers special topics in polymer chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 7923",
+            "course_name": "",
+            "description": "CM-GY 7923\n\n   NATURAL POLYMERS AND MATERIALS\n\nThis course introduces natural and biomimetic polymers and is taught with an  interdisciplinary view of biology, chemistry and macromolecular science. Topics  covered include natural building blocks and methods by which nature carries out  polymer synthesis and modification reactions; DNA; structural proteins; plant  proteins; polysaccharides; polyesters; biosurfactants; polymers built from natural monomers and a wide variety of renewable resources; uses of these polymers as fibers, films, rheological modifiers, flocculants, foams, adhesives and  membranes; special applications of natural poly...\n\n      more description for CM-GY 7923 \u00bb\n\n      \n\n\n\nThis course introduces natural and biomimetic polymers and is taught with an  interdisciplinary view of biology, chemistry and macromolecular science. Topics  covered include natural building blocks and methods by which nature carries out  polymer synthesis and modification reactions; DNA; structural proteins; plant  proteins; polysaccharides; polyesters; biosurfactants; polymers built from natural monomers and a wide variety of renewable resources; uses of these polymers as fibers, films, rheological modifiers, flocculants, foams, adhesives and  membranes; special applications of natural polymers in medicine and as biodegradable plastics. | Prerequisite: undergraduate chemistry and biology or  adviser\u2019s approval. Co-requisite: None.\n\n      less description for CM-GY 7923 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8023",
+            "course_name": "Principles of Spectroscopy",
+            "description": "CM-GY 8023 Principles of Spectroscopy \nThis course covers rotational, vibrational and electronic states of atoms and molecules. Also covered are the interaction of radiation with atoms and molecules; molecular symmetry; rotational and vibrational spectroscopy; and electronic spectroscopy. | Prerequisite: Undergraduate physical chemistry or adviser approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8064",
+            "course_name": "LIQUID CHROMOTOGRAPHY",
+            "description": "CM-GY 8064 LIQUID CHROMOTOGRAPHY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8073",
+            "course_name": "Organic Spectroscopy",
+            "description": "CM-GY 8073 Organic Spectroscopy \nThis course covers structure elucidation by joint applications of spectroscopic techniques such as proton and carbon-13 magnetic resonance, infrared and mass spectroscopy and other methods. | Prerequisite: Undergraduate organic chemistry or adviser\u2019s approval. Prerequisite: CM-GY 9033.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8103",
+            "course_name": "Liquid Chromatography",
+            "description": "CM-GY 8103 Liquid Chromatography \nThis course covers the fundamentals of liquid chromatography. Also covered are partitioning; physical and chemical properties of packing materials; size exclusion chromatography; normal-phase and reversed-phase chromatography; hydrophilic interaction liquid chromatography; hydrophobic interaction chromatography; ion-exchange chromatography; preparative chromatography; gradient elution; and method development. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8123",
+            "course_name": "MASS SPECTROSCOPY",
+            "description": "CM-GY 8123 MASS SPECTROSCOPY \nThis course covers isotopes and molecular masses; various ionization methods  and mass analyzers; application to biomolecules in sequential analysis of nucleic acids, peptides, proteins; and analysis of phospholipids, polysaccharides and fatty acids. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8213",
+            "course_name": "Bioanalytical Chemistry",
+            "description": "CM-GY 8213 Bioanalytical Chemistry \nThis course covers exciting new analytical methods in biochemistry and biotechnology, including atomic force microscopy, capillary electrophoresis, surface plasmon resonance and microarrays. The course is based directly on current scientific literature. | Prerequisite: CM-GY 9413 or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8303",
+            "course_name": "Nuclear Magnetic Resonance Spectroscopy",
+            "description": "CM-GY 8303 Nuclear Magnetic Resonance Spectroscopy \nThis course covers principles of NMR, including NMR spectrometers; spin decoupling; multi-pulse experiments; 2D NMR; and solid-state NMR. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8323",
+            "course_name": "MICROSCOPY",
+            "description": "CM-GY 8323 MICROSCOPY \nThis course review of optics, including optical-microscope fundamentals; phase  contrast microscopy; confocal microscopy; IR and Raman microscopy;  transmission and scanning electron microscopy; and atomic force microscopy. | Prerequisite: Undergraduate physics or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8503",
+            "course_name": "SPECIAL TOPICS IN ANALYTICAL CHEMISTRY",
+            "description": "CM-GY 8503 SPECIAL TOPICS IN ANALYTICAL CHEMISTRY \nThis course covers Special Topics in Analytical Chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 8713",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Guided Studies in Chemistry I",
+            "description": "CM-GY 8713 Guided Studies in Chemistry I \nThis is a special project (experimental, theoretical, computational or literature search). | Prerequisite: Adviser\u2019s approval.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 8723",
+            "classes": [
+                {}
+            ],
+            "course_name": "Guided Studies in Chemistry II",
+            "description": "CM-GY 8723 Guided Studies in Chemistry II \nThis is a special project (experimental, theoretical, computational or literature search). | Prerequisite: Adviser\u2019s approval.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 9033",
+            "classes": [
+                {}
+            ],
+            "course_name": "Physical Organic Chemistry",
+            "description": "CM-GY 9033 Physical Organic Chemistry \nThis course covers molecular structure and bonding. Also covered are stereochemical and conformational principles; theories of bonding; physical parameters of stable and reactive molecular states; and applications in biochemistry and polymer chemistry. | Prerequisite: Undergraduate organic chemistry or adviser\u2019s approval.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 9034",
+            "course_name": "ADVANCED ORGANIC CHEMISTRY",
+            "description": "CM-GY 9034 ADVANCED ORGANIC CHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9043",
+            "course_name": "Synthetic Organic Chemistry",
+            "description": "CM-GY 9043 Synthetic Organic Chemistry \nThis course covers reactivity of molecules. Also covered are methods of mechanistic study of reaction pathways and important reactions of organic and organometallic chemistry. The course introduces synthesis and applications in living systems and in polymer reactions. | Prerequisite: Undergraduate organic chemistry or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9053",
+            "course_name": "Enzyme Catalysis in Organic Synthesis",
+            "description": "CM-GY 9053 Enzyme Catalysis in Organic Synthesis \nThis course provides students with a working knowledge of how to use biotransformations as a tool in organic chemistry. Students learn about general enzymatic reaction types that carry out the cleavage and formation of C-O bonds, P-O bonds, C-N bonds, C-C bonds, reduction reactions, oxidation reactions and isomerizations. In addition, students are taught about advanced principles currently being applied to the engineering of catalytic proteins. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 785",
+            "course_name": "| CM-GY 9403 Special Topics in Organic Chemistry",
+            "description": "CM-GY  785 | CM-GY 9403 Special Topics in Organic Chemistry \nThis course covers special Topics in Organic Chemistry. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9413",
+            "course_name": "Biochemistry I",
+            "description": "CM-GY 9413 Biochemistry I \nThis course covers structure and function of biological macromolecules: proteins, nucleicacids, polysaccharides. Also covered are enzymatic kinetics, mechanism and control. | Prerequisite: Undergraduate biochemistry or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9423",
+            "course_name": "Biochemistry II",
+            "description": "CM-GY 9423 Biochemistry II \nThis course covers membrane structure and function and energy production, transformation and utilization. Also covered are the regulation of biochemical systems; the replication, transcription and translation of DNA; mutagenesis and carcinogenesis; and the Immune system. | Prerequisite: undergraduate biochemistry or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9433",
+            "course_name": "",
+            "description": "CM-GY 9433\n\n   Protein Engineering\n\nThis course introduces modern protein engineering techniques available to researchers to understand protein structure and function and to create entirely new proteins for a variety of purposes. This is a new field that lies on the interface of chemistry, biology and engineering. The first part of the course discusses protein composition and structure and various genetic, biochemical and chemical techniques required to engineer proteins\u2014all followed by specific topics. Topics include designing proteins that are highly structured and active at high temperatures and in non-aqueous solvents; that ...\n\n      more description for CM-GY 9433 \u00bb\n\n      \n\n\n\nThis course introduces modern protein engineering techniques available to researchers to understand protein structure and function and to create entirely new proteins for a variety of purposes. This is a new field that lies on the interface of chemistry, biology and engineering. The first part of the course discusses protein composition and structure and various genetic, biochemical and chemical techniques required to engineer proteins\u2014all followed by specific topics. Topics include designing proteins that are highly structured and active at high temperatures and in non-aqueous solvents; that selectively interact with other proteins, small molecules and nucleic acids for therapeutic purposes; and that catalyze new reactions. | Prerequisite: CM-GY 9413 or adviser\u2019s approval.\n\n      less description for CM-GY 9433 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9443",
+            "course_name": "Tissue Engineering",
+            "description": "CM-GY 9443 Tissue Engineering \nThis courses teaches: (1) basic biological processes that occur during blood contact with artificial surfaces, (2) critical review of the literature in the field of tissue engineering, (3) biocompatibility issues relevant to a variety of implant devices that the student may encounter in future endeavors and (4) current approaches directed toward the engineering of cell-based replacements for various tissue types. | Prerequisite: undergraduate biochemistry or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9453",
+            "course_name": "Special Topics in Biochemistry",
+            "description": "CM-GY 9453 Special Topics in Biochemistry \nThis course covers special Topics in Biochemistry. | Prerequisite: adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9463",
+            "course_name": "RECOMBINANT DNA TECHNOLOGY",
+            "description": "CM-GY 9463 RECOMBINANT DNA TECHNOLOGY \nThe course consists of lectures and demonstrations and covers practical aspects of recombinant DNA technology, including fundamental aspects of gene  expression, restriction enzyme cleavage, plasmids, cloning, genetic transformation of bacteria, protein expression vectors, basic principles of protein purification and manipulation of cloned genes (site-directed mutagenesis). | Prerequisite: CM-GY 9413 or instructor\u2019s permission.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9710",
+            "classes": [
+                {}
+            ],
+            "course_name": "CHEMICAL COLLOQUIUM",
+            "description": "CM-GY 9710 CHEMICAL COLLOQUIUM",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 9731",
+            "classes": [
+                {}
+            ],
+            "course_name": "Seminar in Chemistry I",
+            "description": "CM-GY 9731 Seminar in Chemistry I \nThis course covers chemical topics of current interest and is presented by participating students, staff and outside speakers. One semester is required for MS chemistry students; three semesters required for PhD candidates.",
+            "offering": true
+        },
+        {
+            "course_id": "CM-GY 974",
+            "course_name": "| CM-GY 9741 Seminar in Chemistry II",
+            "description": "CM-GY  974 | CM-GY 9741 Seminar in Chemistry II \nThis course covers chemical topics of current interest and is presented by participating students, staff and outside speakers. One semester is required for MS chemistry students; three semesters required for PhD candidates.",
+            "offering": false
+        },
+        {
+            "course_id": "CM-GY 9751",
+            "course_name": "Seminar in Chemistry III",
+            "description": "CM-GY 9751 Seminar in Chemistry III \nThis course covers chemical topics of current interest and is presented by participating students, staff and outside speakers. One semester is required for MS chemistry students; three semesters required for PhD candidates.",
+            "offering": false
+        }
+    ]
+}

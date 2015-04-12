@@ -1,0 +1,198 @@
+{
+    "major_id": "BIOMS-DN",
+    "file": "./2015-2016/Biomaterials_(BIOMS-DN).html",
+    "courses": [
+        {
+            "course_id": "BIOMS-DN 1000",
+            "course_name": "Principles of Biomaterials Science",
+            "description": "BIOM-DN 1000 | BIOMS-DN 1000 Principles of Biomaterials Science \nCovers the scientific principles underlying the area of materials science, including concepts of kinetics, thermodynamics, diffusion, and quantum mechanics, etc., as they relate to the structure and properties of materials. Also discusses the role of interfaces on absorption, nucleation, phase diagrams of interest to materials scientists, the role of dislocations and other defects in the macroscopic formation associated with materials, the solidification of metals and alloys, and mechanisms of strengthening alloys.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1001",
+            "course_name": "Metal and Ceramic Biomaterials",
+            "description": "BIOM-DN 1001 | BIOMS-DN 1001 Metal and Ceramic Biomaterials \nCovers the structure and properties of metals and alloys generally used in dentistry and medicine and their criteria for clinical applications. Also discusses fundamental processes involving deformation, precipitation, order-disorder transformations, principles involving phase diagrams, recent advances in the development of titanium and other alloys for dental and orthopedic implants, low golds, and nonprecious alloys.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1002",
+            "course_name": "Polymers & Biopolymers",
+            "description": "BIOM-DN 1002 | BIOMS-DN 1002 Polymers & Biopolymers \nCovers the chemistry, structure, and properties of polymers used in dentistry and medicine, both inorganic and organic. Topics include the science of large macromolecules, molecular weights and measurements, polymerization mechanisms, mechanical properties of polymers, thermoplastic and thermosetting resins, chemistry of polysiloxanes, emulsion and suspension polymerization, polymers associated with restorative materials, ionic polymers, silicones, polymethylmethacrylate, BIS-GMA, reinforced polymers, composites, etc.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1003",
+            "course_name": "Bioceramics",
+            "description": "BIOM-DN 1003 | BIOMS-DN 1003 Bioceramics \nCovers the preparation, structure, chemical compositions, and thermal and mechanical properties of crystalline and glassy phases of ceramics used in dentistry and medicine.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1004",
+            "course_name": "Testing Mehtods in Biomaterials",
+            "description": "BIOM-DN 1004 | BIOMS-DN 1004 Testing Mehtods in Biomaterials \nCovers the principles governing tensile tests, compressive tests, creep tests, thermal and setting expansions, corrosion and tarnish tests, microstructural examination, and familiarization with the testing and use of instruments.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19075",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "Dasanayake, Ananda; Cools, Juliana",
+                    "time": "Thu 5.00 PM - 7.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Biomaterials -- Tissue Interface I",
+            "description": "BIOM-DN 1005 | BIOMS-DN 1005 Biomaterials -- Tissue Interface I \nProvides background knowledge on the response of cells in vitro and tissues in vivo to different types of biomaterials used in dentistry and medicine. Covers surface chemistry of biomaterials, protein interaction with surfaces, effects of surface chemistry and microstructure on cell and tissue response, and other topics.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOMS-DN 1006",
+            "course_name": "Biomaterials -- Tissue Interface II",
+            "description": "BIOM-DN 1006 | BIOMS-DN 1006 Biomaterials -- Tissue Interface II \nProvides background knowledge on the response of cells in vitro and tissues in vivo to different types of biomaterials used in dentistry and medicine. Covers surface chemistry of biomaterials, protein interaction with surfaces, effects of surface chemistry and microstructure on cell and tissue response, and other topics.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1007",
+            "course_name": "Degradation of Biomaterials",
+            "description": "BIOM-DN 1007 | BIOMS-DN 1007 Degradation of Biomaterials \nCovers the principles and testing of in vivo and in vitro corrosion. Describes electrochemical mechanisms, corrosion tendency and electrode potentials polarization and corrosion rates, passivity, and crevice corrosion. Also discusses testing methods involving anodic potentiostatic and potentiodynamic polarization techniques, stress corrosion cracking, intergranular corrosion, corrosion fatigue, oxidation and tarnish phenomena, and principles governing corrosion-resistant alloy development.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1008",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19076",
+                    "section": "001",
+                    "period": "09/04/2015 - 12/18/2015",
+                    "location": "Ricci, John; Mijares, Dindo; Bromage, Timothy",
+                    "time": "Fri 1.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Electron Microscopy",
+            "description": "BIOM-DN 1008 | BIOMS-DN 1008 Intro to Electron Microscopy \nCovers the physical construction of the scanning electron microscope and the theory of its use, the signals emitted when a high-velocity beam of electrons is allowed to scan a specimen target, and principles of resolution and contrast. Also coves the principles and uses of backscattered electron imaging and X-ray microanalysis. Familiarizes students with specimen preparation, instrumental use for microstructural examination, and interpretation. Provides hands-on experience.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOMS-DN 1011",
+            "course_name": "Physical & Chemical Methods in Biomaterials",
+            "description": "BIOM-DN 1011 | BIOMS-DN 1011 Physical & Chemical Methods in Biomaterials \nIntroduces students to the principles and techniques used in the study of materials and hard tissues, including X-ray diffraction, infrared spectroscopy, inductive coupled plasma, and mechanical testing. Provides hands-on experience.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1012",
+            "course_name": "Biostatistics I",
+            "description": "BIOM-DN 1012 | BIOMS-DN 1012 Biostatistics I \nCovers mathematical and statistical tools that are useful in biomaterials research. Trains students to (1) evaluate the technical and economic feasibility of a study; (2) design research protocols taking into account required statistical power and sample size; (3) use appropriate statistical analysis tools; and (4) interpret the significance of the experimental results. Also covers reliability, life testing, and Weibull analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1013",
+            "course_name": "Biostatistics II",
+            "description": "BIOM-DN 1013 | BIOMS-DN 1013 Biostatistics II \nCovers mathematical and statistical tools that are useful in biomaterials research. Trains students to (1) evaluate the technical and economic feasibility of a study; (2) design research protocols taking into account required statistical power and sample size; (3) use appropriate statistical analysis tools; and (4) interpret the significance of the experimental results. Also covers reliability, life testing, and Weibull analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1015",
+            "course_name": "Seminar in Biomaterials",
+            "description": "BIOM-DN 1015 | BIOMS-DN 1015 Seminar in Biomaterials \nCovers aspects of the materials used in clinical dentistry and medicine including restorative materials, alloys, cements, impression materials, gypsum products, and cell-biomaterial interactions.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1016",
+            "course_name": "Imaging Science",
+            "description": "BIOM-DN 1016 | BIOMS-DN 1016 Imaging Science \nHighlights basic principles of preparation and imaging relevant to biomaterials research, particularly as they relate to 2-D and 3-D transmitted and reflected light microscopy and scanning electron microscopy of bone and tooth microanatomy. Provides students with the opportunity to work with samples, the purpose being to integrate preparation methods for some specific imaging mode(s). Also exposes students to and allows them to perform digital processing, analysis, and measurements of images acquired from their prepared samples.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 1017",
+            "course_name": "Complex Material Systems: Composites",
+            "description": "BIOM-DN 1017 | BIOMS-DN 1017 Complex Material Systems: Composites",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 2000",
+            "course_name": "Readings in Biomaterials and Biomimetics",
+            "description": "BIOM-DN 2000 | BIOMS-DN 2000 Readings in Biomaterials and Biomimetics \nCovers reviews and critique of scientific literature related to biomaterials and biomimetics. Requires students to prepare summaries of scientific papers and critique.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 2001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19078",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/14/2015",
+                    "location": "Ricci, John; Mijares, Dindo",
+                    "time": "Mon 5.00 PM - 7.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Research",
+            "description": "BIOM-DN 2001 | BIOMS-DN 2001 Intro to Research \nRequired of all students during their first or second semester. Provides students with necessary information regarding research in the department and preparation of the thesis proposal.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOMS-DN 3000",
+            "course_name": "Research in Biomaterials",
+            "description": "BIOM-DN 3000 | BIOMS-DN 3000 Research in Biomaterials \nThesis research work.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3001",
+            "course_name": "Independent Project in Biomaterial",
+            "description": "BIOM-DN 3001 | BIOMS-DN 3001 Independent Project in Biomaterial",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3002",
+            "course_name": "Literature Review of Clinical Studies I: Basic Skills",
+            "description": "BIOM-DN 3002 | BIOMS-DN 3002 Literature Review of Clinical Studies I: Basic Skills",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3003",
+            "course_name": "Intergrative Seminars in Oral Biology I",
+            "description": "BIOM-DN 3003 | BIOMS-DN 3003 Intergrative Seminars in Oral Biology I",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3004",
+            "course_name": "Literature Review of Clinical Studies II",
+            "description": "BIOM-DN 3004 | BIOMS-DN 3004 Literature Review of Clinical Studies II",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3005",
+            "course_name": "Literature of Clinical Studies III",
+            "description": "BIOM-DN 3005 | BIOMS-DN 3005 Literature of Clinical Studies III",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3006",
+            "course_name": "Bioethical Issues & IRB Skills",
+            "description": "BIOM-DN 3006 | BIOMS-DN 3006 Bioethical Issues & IRB Skills",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3007",
+            "course_name": "Scientific Writing: Protocols and Grants",
+            "description": "BIOM-DN 3007 | BIOMS-DN 3007 Scientific Writing: Protocols and Grants",
+            "offering": false
+        },
+        {
+            "course_id": "BIOMS-DN 3008",
+            "course_name": "Global Burden of Infectious Disease",
+            "description": "BIOM-DN 3008 | BIOMS-DN 3008 Global Burden of Infectious Disease",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,2080 @@
+{
+    "major_id": "MCC-UE",
+    "file": "./2015-2016/Media,_Culture_&_Communication_(MCC-UE).html",
+    "courses": [
+        {
+            "course_id": "MCC-UE 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11823",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 176",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Brunton, Finn"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11824",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-3",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Ferreira Flores, Rodrigo"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11825",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-3",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Ferreira Flores, Rodrigo"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11826",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-15",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Campolo, Alexander"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11827",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-15",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Campolo, Alexander"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11828",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-14"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11829",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-14"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11830",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-10",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Neff, Timothy"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11831",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-10",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Neff, Timothy"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11832",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-17",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Fernandez, Yesenia"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11833",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-17",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Fernandez, Yesenia"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11834",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Halperin, Yoav"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11835",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Halperin, Yoav"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17449",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL145"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17451",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 811",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Fotsch, Paul"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17452",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 811",
+                    "time": "Tue,Thu 2.30 PM - 3.45 PM",
+                    "open": true,
+                    "professor": "Fotsch, Paul"
+                }
+            ],
+            "course_name": "Introduction to Media Studies",
+            "description": "MCC-UE    1 Introduction to Media Studies \nIntroduces students to the study of contemporary forms of mediated forms of communication. The course surveys the main topics in the field and introduces students to a variety of analytical perspectives. Issues include: the economics of media production; the impact of media on individual attitudes, values and behaviors; the role of media professionals; the impact of new media technologies.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Society & Social Sciences",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10366",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 102",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Gitelman, Lisa"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17160",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-4",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wolk, Shari"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17161",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-4",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wolk, Shari"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17162",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-9",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Lockett, William"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17163",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-9",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Lockett, William"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17164",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-12",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Solomon, Rory"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17165",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-12",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Solomon, Rory"
+                }
+            ],
+            "course_name": "History of Media & Comm",
+            "description": "MCC-UE    3 History of Media & Comm \nThis course introduces students to the history of media & communication & to the stakes of historical inquiry. Rather than tracing a necessarily selective historical arc from alphabet to internet or from cave painting to coding, the course is organized around an exploration of key concepts such as literacy, publicity, temporality, visual culture, networks & information.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Society & Social Sciences",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 5",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11811",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Selterman, Bonnie"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10367",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Heard, Elizabeth"
+                }
+            ],
+            "course_name": "Introduction to Human Communication & Culture",
+            "description": "MCC-UE    5 Introduction to Human Communication & Culture \nThis course surveys major research perspectives & theories on culture & human communication. The course will introduce major approaches to the study of social interaction, language, semiotics & cultural processes.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Society & Social Sciences",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 14",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10372",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL23",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bianco, Jamie"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10373",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Starosielski, Nicole"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10374",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Starosielski, Nicole"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10375",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Vancour, Shawn G"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10376",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 123 (SB)",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Vancour, Shawn G"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11368",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 305",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Pandit, Sujay"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11644",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 279",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Esmaeli, Kouross"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11645",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Hockenberry, Matthew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17453",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EAST 207",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Chen, Wendy"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17454",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Klik, Ella"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17455",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Da Silva Beleza Barreiros, Ines"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17456",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMB 506W",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Feldman, Jessica"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17457",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                }
+            ],
+            "course_name": "Media and Cultural Analysis",
+            "description": "MCC-UE   14 Media and Cultural Analysis \nAn introduction to the theoretical approaches & methods used to analyze the content, structure, & contexts of media in society.  Students will develop a familiarity with concepts, themes, & approaches in media criticism, & they will develop an ability to adopt, adapt, & employ a variety of methodologies for the analysis of mediated communication.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10377",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wallace, Aurora",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10378",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "MCC-UE 1000 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17458",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 134",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Kulkarni, Kavita"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1002\n\n   Space and Place in Human Communication\n\nThis course will build on a core concept of Lewis Mumford who understood media ecology as a component of spatial and urban ecology. Emphasis will be given on how space socially organizes human meaning and on the 'inscription' of space. How do people, through, their practices and their being in the world, form relationships with the locales they occupy (both the natural world and the build environment)? How do they attach meanings to spaces to create places? and how do the experiences of inhabiting viewing and hearing those places shape their meanings, communicative practices, cultural performa...\n\n      more description for MCC-UE 1002 \u00bb\n\n      \n\n\n\nThis course will build on a core concept of Lewis Mumford who understood media ecology as a component of spatial and urban ecology. Emphasis will be given on how space socially organizes human meaning and on the 'inscription' of space. How do people, through, their practices and their being in the world, form relationships with the locales they occupy (both the natural world and the build environment)? How do they attach meanings to spaces to create places? and how do the experiences of inhabiting viewing and hearing those places shape their meanings, communicative practices, cultural performance memories and habits? Course themes include; mapping and the imagination; vision and space, soundscape, architecture and landscape; new media and space/time compression; space and identity; spatial violence; spatialization of memory.\n\n      less description for MCC-UE 1002 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1003",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10379",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 307",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Karanovic, Jelena"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10380",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 403",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Vancour, Shawn G"
+                }
+            ],
+            "course_name": "Intro to Digital Media",
+            "description": "MCC-UE 1003 Intro to Digital Media \nThis course is an introduction to digital media, focusing on networks, computers, the Web and video games. Theoretical topics include the formal qualities of new media, their political dimensions, as well as questions of genre, narrative, and history.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1005",
+            "course_name": "The Culture Industries",
+            "description": "MCC-UE 1005 The Culture Industries \nThis course is for students who intend to seek employment in the media industry. Its focus is the modern history of those industries -- film, TV, radio, newspapers, music, magazines, book publishing -- with special emphasis on the pressures that affect them now.  Student are required to do extensive background reading, and we will hear from various professionals with long experience in the industries under consideration.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1006",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11694",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL147",
+                    "time": "Tue 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "Park-Primiano, Sueyoung"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17771",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL138"
+                }
+            ],
+            "course_name": "Television:History/Form",
+            "description": "MCC-UE 1006 Television:History/Form \nAn exploration of television as a medium of information, conveyor and creator of culture and a form of aesthetic expression. Course examines the historical development of television as both a cultural product and industry.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1007",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10381",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 621",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Berthe, Jamie"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17459",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 621",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Berthe, Jamie"
+                }
+            ],
+            "course_name": "Film:History and Form",
+            "description": "MCC-UE 1007 Film:History and Form \nAn exploration of film as a medium of information, conveyor and creator of culture and a form of aesthetic expression. Course examines the historical development of film as both a cultural product and industry.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1008",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10382",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Tue 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Stark, Charles"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "11646",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Video Games:  Culture and Industry",
+            "description": "MCC-UE 1008 Video Games:  Culture and Industry \nExamines the emergence of video games as sites of contemporary cultural production and practice. Special attention is given to the symbolic and aesthetic dimensions of video games, including their various narratives forms and sub-genres, and concentrates on their interactive dimensions. The course provides insight into the emerging trends in the interface between humans and media technologies. The course also situates video games within the business practices of the entertainment industries.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1009",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10383",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Lin, Lana"
+                }
+            ],
+            "course_name": "Psychoanalysis: Desire and Culture",
+            "description": "MCC-UE 1009 Psychoanalysis: Desire and Culture \nExplores the subject of desire in modern media and culture. Freud's ideas have had a profound influence on everything from the earliest manuals on public relations to the struggles of modern feminism. We will read a range of psychoanalytic theorists while studying how their insights have been put to work by both the culture industry and its critics.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11647",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL150",
+                    "time": "Tue 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Gary, Brett"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1010\n\n   Censorship in American Culture\n\nAn upper level course on the topic of censorship in American culture, from the late 19th century to the present. The course explores many of the areas where debates about obscenity and censorship have been urgently contested, from discussion bout birth control, to literature, film, theatre, art galleries and history museums, to public sidewalks, lecture halls, and the internet. The goal is for the students to have an enhanced understanding of the historical contexts in which important cultural and legal struggles over censorship have taken place, and to bring that understanding to bear on cont...\n\n      more description for MCC-UE 1010 \u00bb\n\n      \n\n\n\nAn upper level course on the topic of censorship in American culture, from the late 19th century to the present. The course explores many of the areas where debates about obscenity and censorship have been urgently contested, from discussion bout birth control, to literature, film, theatre, art galleries and history museums, to public sidewalks, lecture halls, and the internet. The goal is for the students to have an enhanced understanding of the historical contexts in which important cultural and legal struggles over censorship have taken place, and to bring that understanding to bear on contemporary debates about the arts, sexuality, national security, media technology, privacy, and government involvement in the marketplace of ideas and images.\n\n      less description for MCC-UE 1010 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1011",
+            "course_name": "Media and Migration",
+            "description": "MCC-UE 1011 Media and Migration \nThe course examines the role of media in the lives and cultures of transnational immigrant communities. Using a comparative framework and readings drawn from interdisciplinary sources, the course explores how media practices and media representations define and enable new conceptions and practices of national belonging, identity and culture in the context of global migration.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1012",
+            "course_name": "Crime, Violence & Media",
+            "description": "MCC-UE 1012 Crime, Violence & Media \nThe cultural context of crime in relation to conventions of news and entertainment in the mass media. Topics include competing theories of criminogenic behavior, news conventions and crime reporting, the aesthetics and representation of crime in the media, the role of place in crime stories, moral panics and fears, crime and consumer culture, and the social construction of different kinds of crimes and criminals.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1013",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17461",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 409",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Fallica, Salvatore"
+                }
+            ],
+            "course_name": "Political Communication",
+            "description": "MCC-UE 1013 Political Communication \nThis course focuses on the essentially communicative aspects of American government, including the preparation of candidates, the electoral process, political advertising and public relations. It also includes the use of strategic communication to influence political agendas, the formation of public policy, and the process of political debate.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1014",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10384",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 569",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Miller, Mark"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11648",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Moran, Terence"
+                }
+            ],
+            "course_name": "Mass Persuasion and Propaganda",
+            "description": "MCC-UE 1014 Mass Persuasion and Propaganda \nThis course presents a critical analysis of the development, principles, strategies, media, techniques, and effects of propaganda campaigns from ancient civilizations to modern technological society. The course focuses on propaganda in the context of government, religion, revolution, war, politics, and advertising, and explores implications for the future of propaganda in the cybernetic age.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1015",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10385",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL23",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Sturken, Marita"
+                }
+            ],
+            "course_name": "Advertising and Society",
+            "description": "MCC-UE 1015 Advertising and Society \nThis course will examine the emergence of advertising as a form of communication, its influence upon other forms of mediated communication and its impact upon culture and society.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1016",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10386",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 507",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Fisherkeller, Joellen"
+                }
+            ],
+            "course_name": "Media Audiences",
+            "description": "MCC-UE 1016 Media Audiences \nAn examination of the great debate concerning the effects of mass media and mass communication on our society.  Analysis and application of major perspectives and approaches used in formulating modern theories of mass communication.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1017",
+            "course_name": "Youth Media and Social Change",
+            "description": "MCC-UE 1017 Youth Media and Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1018",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17462",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 404",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Fisherkeller, Joellen"
+                }
+            ],
+            "course_name": "Kids in Media Culture",
+            "description": "MCC-UE 1018 Kids in Media Culture \nAn examination of debates about children, adolescents, and media is grounded in research about how kids actually use and value different media, and find meaning in different socio-cultural contexts. Discussions explore the social, cultural, and political implications of these situations, and suggestions for action.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1019",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10387",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL25",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wills, David Clinton"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17464",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 431",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Pandit, Sujay"
+                }
+            ],
+            "course_name": "Media & Identity",
+            "description": "MCC-UE 1019 Media & Identity \nThis course will examine the relationship between mediated forms of communications the formation of identities, both individual and social. Attention will be paid to the way mediated forms of communication represent different social and cultural groupings, with a particular emphasis on gender, race, ethnicity, class and nationality.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1020",
+            "course_name": "Business of Media",
+            "description": "MCC-UE 1020 Business of Media \nDetailed examination of the business models and economic traits in a variety of media industries including film and television, cable and satellite, book and magazine publishing, gaming and the Internet. Emphasis on historical trends and current strategies in both domestic and global markets.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1021",
+            "course_name": "Dead Media Research Studio",
+            "description": "MCC-UE 1021 Dead Media Research Studio \nExplores early and obsolete media technologies. After an intensive introduction to the theory and methods of media archaeology, students will venture into local archives, libraries, and museums in search of texts, images, and sounds to be assembled into dossiers. Projects will be undertaken collaboratively, with regular reports and critiques throughout the semester.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1022",
+            "course_name": "Latino Media",
+            "description": "MCC-UE 1022 Latino Media \nThis course examines the production, representation and cultural meaning of Latino Media in the U.S. This class will provide a general survey of Latino media in the U.S. particular focuses on the cultures of production of Spanish and English language television, radio, film, advertising, newspapers, magazines and internet-based media.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1023",
+            "course_name": "East Asian Media and Popular Culture",
+            "description": "MCC-UE 1023 East Asian Media and Popular Culture \nThis course examines contemporary mass media in East Asia by focusing on media institutions and practices in Japan, Korea, Taiwan, Hong Kong and mainland China. Special attention is paid to such issues as media regulations and censorship, press freedom and journalistic practices, the rise of East Asian media industries, intra-region flows of information and entertainment, and the presence and influence of transnational media companies in East Asia.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1024",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17773",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "WAVE 370"
+                }
+            ],
+            "course_name": "Amateur Media",
+            "description": "MCC-UE 1024 Amateur Media \nThis course will track the various manifestations of media amateurism over time and medium, while also exploring theoretical concerns and cultural discourses that surround their work and social construction, especially in relation to notions of professionalism, community, networks, artistic practice, collectivism, and marginalization.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1025",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17541",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1025\n\n   Race and Media\n\nAmerica's founding principles of equality and equal opportunity have long been the subject of interpretation, debate, national angst, and widespread (oftentimes violent) conflict. No more is this the case than when we talk about the issue of race. While biological notions of race have lost their scientific validity, race remains a salient issue in American life as a social and political reality sustained through a wide variety of media forms. The broad purpose of this course is to better understand how notions of race have been defined and shaped in and through these mediated forms. Specific a...\n\n      more description for MCC-UE 1025 \u00bb\n\n      \n\n\n\nAmerica's founding principles of equality and equal opportunity have long been the subject of interpretation, debate, national angst, and widespread (oftentimes violent) conflict. No more is this the case than when we talk about the issue of race. While biological notions of race have lost their scientific validity, race remains a salient issue in American life as a social and political reality sustained through a wide variety of media forms. The broad purpose of this course is to better understand how notions of race have been defined and shaped in and through these mediated forms. Specific attention may be given o the ways that race is articulated in forms of mass media and popular culture.\n\n      less description for MCC-UE 1025 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1026",
+            "course_name": "Disability, Technology and media",
+            "description": "MCC-UE 1026 Disability, Technology and media",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1027",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11354",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-2",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Koslov, Elizabeth"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1027\n\n   Media and the Environment\n\nThis course will investigate the dominant critical perspectives that have contributed to the development of Environmental Communication as a field of study.  This course explores the premise that the way we communicate powerfully impacts our perceptions of the \"natural\"  world, & that these perceptions shape the way we define our relationships to & within nature.  The goal of this course is to access various conceptual frame woks for addressing questions about the relationship between the environment, culture & communication.  Students will explore topics such as nature/wildlife tourism, consu...\n\n      more description for MCC-UE 1027 \u00bb\n\n      \n\n\n\nThis course will investigate the dominant critical perspectives that have contributed to the development of Environmental Communication as a field of study.  This course explores the premise that the way we communicate powerfully impacts our perceptions of the \"natural\"  world, & that these perceptions shape the way we define our relationships to & within nature.  The goal of this course is to access various conceptual frame woks for addressing questions about the relationship between the environment, culture & communication.  Students will explore topics such as nature/wildlife tourism, consumerism, representations of the environment in popular culture & environmental activism.\n\n      less description for MCC-UE 1027 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1028",
+            "course_name": "",
+            "description": "MCC-UE 1028\n\n   Ethics and Media\n\nStudents who plan on pursuing careers in the media (professional and academic) will be faced with difficulty choices that carry with them potent ethical repercussions, choices that practical training does not properly equip them to approach in a critical and informed manner. The purpose of this course is therefore twofold: 1) to equip future media professional with sensitivity to moral values under challenge as well as the necessary skills in critical thinking and decision making for navigating their roles and responsibilities in relation to them; and 2) honing those same skills and sensitivit...\n\n      more description for MCC-UE 1028 \u00bb\n\n      \n\n\n\nStudents who plan on pursuing careers in the media (professional and academic) will be faced with difficulty choices that carry with them potent ethical repercussions, choices that practical training does not properly equip them to approach in a critical and informed manner. The purpose of this course is therefore twofold: 1) to equip future media professional with sensitivity to moral values under challenge as well as the necessary skills in critical thinking and decision making for navigating their roles and responsibilities in relation to them; and 2) honing those same skills and sensitivities for consumers of media and citizens in media saturated societies.\n\n      less description for MCC-UE 1028 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1029",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10389",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC2",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Wing, Carlin"
+                }
+            ],
+            "course_name": "New Media Research Studio",
+            "description": "MCC-UE 1029 New Media Research Studio \nA project-based, research-intensive course that explores emerging practices and trends in new media with particular emphasis on interactive and immersive environments, such as social networking sites,mulit-player online environments, the blogosphere, the open source movement, social activist groups, and internet-based art. Students engage in a semester-long participatory research project using collaborative web tools.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1030",
+            "course_name": "",
+            "description": "MCC-UE 1030\n\n   Architecture as Media:\n\nThis class reads architecture and the built environment through the lenses of media, communication, and culture. The course takes seriously the proposition that spaces communicate meaningfully and that learning to read spatial productions leads to better understanding how material and technological designs are in sustained conversation with the social, over time. Through analyses of a range of space - from Gothic cathedrals to suburban shopping malls to homes, factories, skyscrapers and digital cities - students will acquire a vocabulary  for relating representations and practices, symbols and...\n\n      more description for MCC-UE 1030 \u00bb\n\n      \n\n\n\nThis class reads architecture and the built environment through the lenses of media, communication, and culture. The course takes seriously the proposition that spaces communicate meaningfully and that learning to read spatial productions leads to better understanding how material and technological designs are in sustained conversation with the social, over time. Through analyses of a range of space - from Gothic cathedrals to suburban shopping malls to homes, factories, skyscrapers and digital cities - students will acquire a vocabulary  for relating representations and practices, symbols and structures, and for identifying the ideological and aesthetic positions that produce settings for everyday life.\n\n      less description for MCC-UE 1030 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1031",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11670",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EAST 741",
+                    "time": "Tue 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Bianco, Jamie"
+                }
+            ],
+            "course_name": "Digital Media Theory & Practice",
+            "description": "MCC-UE 1031 Digital Media Theory & Practice \nThis course offers students a foundational understanding of the technological building blocks that make up digital media & culture, & of the ways they come together to shape myriad facets of life. Students will acquire a working knowledge of the key concepts behind coding, & survey the contours of digital media architecture, familiarizing themselves with algorithms, databases, hardware, & similar key components. These technological frameworks will be examined as the basic grammar of digital media & related to theories of identity, privacy, policy, & other pertinent themes.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1032",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11355",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 208",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Ali, Isra"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17170",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 208",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ali, Isra"
+                }
+            ],
+            "course_name": "Social Media Networking",
+            "description": "MCC-UE 1032 Social Media Networking \nThis course will examine \u201csocial media\u201d from a cultural perspective, with a focus on how media technologies figure in practices of everyday life & in the construction of social relationships & identities. We will work from an expansive definition of what constitutes \u201csocial media,\u201d considering social network sites, smartphone apps, & online games, among other technologies. The course itself will involve communication in social media channels in addition to the traditional seminar format, thus we will be actively participating in the phenomena under study as we go.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1033",
+            "course_name": "",
+            "description": "MCC-UE 1033\n\n   Critical Making\n\nCritical making is hands-on hardware practice as a form of reflection & analysis: a way of thinking through what (& how) computing & digital media mean by understanding how they work, building on the literature of media studies & the digital humanities. By turning from software to hardware, to the physicality of computation & communications infrastructure, we will take objects apart, literally & figuratively, & in the process will learn to interpret & to intervene -- using prototyping, reverse engineering, hardware hacking & circuit bending, design fiction, electronics fabrication & other appr...\n\n      more description for MCC-UE 1033 \u00bb\n\n      \n\n\n\nCritical making is hands-on hardware practice as a form of reflection & analysis: a way of thinking through what (& how) computing & digital media mean by understanding how they work, building on the literature of media studies & the digital humanities. By turning from software to hardware, to the physicality of computation & communications infrastructure, we will take objects apart, literally & figuratively, & in the process will learn to interpret & to intervene -- using prototyping, reverse engineering, hardware hacking & circuit bending, design fiction, electronics fabrication & other approaches -- in the material layer of digital technologies.\n\n      less description for MCC-UE 1033 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1034",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10390",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Lariviere, Jason"
+                }
+            ],
+            "course_name": "Media, Technology and Society",
+            "description": "MCC-UE 1034 Media, Technology and Society \nAn inquiry into the nature of the technology and human complex in contemporary society.  A quest for appropriate actions for the future through understanding.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1036",
+            "course_name": "",
+            "description": "MCC-UE 1036\n\n   On The Phone:  Telephone and Mobile Technology\n\nThis course examines the convergence of different technologies and cultures in telephony since the nineteenth century. It surveys the technical development of the telephone, from its roots in telegraphy to radio and portable phones to mobile computing. We will trace the history of 'telephonic principles' such as interaction and universality, and telephony in various social contexts: national and transnational telephone cultures; genres of text messaging; the relationship of communication technology to public, private, and virtual space; and the appropriation of the medium for the purposes of a...\n\n      more description for MCC-UE 1036 \u00bb\n\n      \n\n\n\nThis course examines the convergence of different technologies and cultures in telephony since the nineteenth century. It surveys the technical development of the telephone, from its roots in telegraphy to radio and portable phones to mobile computing. We will trace the history of 'telephonic principles' such as interaction and universality, and telephony in various social contexts: national and transnational telephone cultures; genres of text messaging; the relationship of communication technology to public, private, and virtual space; and the appropriation of the medium for the purposes of art and activism.\n\n      less description for MCC-UE 1036 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1037",
+            "course_name": "Media and Music",
+            "description": "MCC-UE 1037 Media and Music \nThis course investigates the mediation of music & music-like sounds in both private & public life.  Commercial venues, from restaurants to rest rooms, pipe Muzakl into its spaces; radios broadcast more music than any other content today; soundtracks imprint the texture of signifying associations for television shows & films; we carry personal playlists on mobile music players; & musical media & technological, ideological & metaphysical dimension; as well as the relation of music to mass media (radio, television, the internet) & the film and music industries.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1040",
+            "course_name": "",
+            "description": "MCC-UE 1040\n\n   Health Media and Communication\n\nThe meanings of health & disease are shaped not only by scientific & Medical discourses, but by media, communication, & the cultures of health. This course examines the impact of media & health cultures on what counts as normal & pathological, how medical environments are understood & experienced, popular tactics for communicating & contesting biomedical information, public understandings of biotechnology, & how media representation & popular culture help to shape understandings of disease & health.  readings, films (& other sources) will be drawn from a variety of genres, including epidemiolo...\n\n      more description for MCC-UE 1040 \u00bb\n\n      \n\n\n\nThe meanings of health & disease are shaped not only by scientific & Medical discourses, but by media, communication, & the cultures of health. This course examines the impact of media & health cultures on what counts as normal & pathological, how medical environments are understood & experienced, popular tactics for communicating & contesting biomedical information, public understandings of biotechnology, & how media representation & popular culture help to shape understandings of disease & health.  readings, films (& other sources) will be drawn from a variety of genres, including epidemiology, public health, anthropology, history, communication studies, & medical memoir.\n\n      less description for MCC-UE 1040 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1065",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "11395",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B06",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Fallica, Salvatore"
+                }
+            ],
+            "course_name": "Media Events and Spectacles",
+            "description": "MCC-UE 1065 Media Events and Spectacles \nThis course examines the role played by media events & spectacle in the shaping of belief, attitudes, & actions, with particular attention paid to the concept of the masses & its changed meaning\nover time. The course examines concepts of mass culture, the decentralization of cultural forms, & the rise of convergence culture. It explores the history of the media event & the theories that have shaped it, & the role of spectacle in society from the Renaissance to modern society to the age of digital media.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1100",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10391",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Martinez, Jonathan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "10392",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Martinez, Jonathan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "MCC-UE 1100 Internship \nThe internship program promotes the integration of academic theory with practical experience. Internships expand student understandings of the dynamics of the ever-changing field of communication.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1140",
+            "course_name": "Screening History:",
+            "description": "MCC-UE 1140 Screening History: \nThis course explores the ways in which popular Hollywood films construct the historical past, the ensuing battles among historians and the public over Hollywood's version of American history, and the ways such films can be utilized as historical documents themselves. We will consider films as products of the culture industry; as visions of popularly understood history and national mythology; as evidence for how social conflicts have been depicted; and as evidence of how popular understanding and interpretations of the past have been revised from earlier eras to the present.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1150",
+            "course_name": "Media Fieldwork",
+            "description": "MCC-UE 1150 Media Fieldwork \nStudents earn academic credit and real world work experience through this service learning course. Department permission required",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1151",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17466",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EAST 207",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Stanley, James"
+                }
+            ],
+            "course_name": "Media History of NY",
+            "description": "MCC-UE 1151 Media History of NY \nNew York has played a crucial role in the history of media, and media have placed a crucial role in the history of New York. New York has been represented by media since Henry Hudson wrote his reports to the Dutch. Media institutions have contributed centrally to its economy and social fabric, while media geographies have shaped the experiences of city living. This course explores media representations, institutions, and geographies across time and is organized around the collaborative production of an online guidebook to the media history of New York.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1152",
+            "course_name": "",
+            "description": "MCC-UE 1152\n\n   Cultural Capital: Media and Arts in New York City\n\nThis course explores the multi-faceted nature of New York City as a cultural and economic hub for media and the arts, arguably the cultural capital of the world. Classroom instruction is supplemented by site visits, guest lectures, and field research to develop an appreciation of the ways that media and the arts have shaped the work and leisure of life in New York City for the past one hundred years. How did New York City become such a focal point for the creative industries?  What goes on behind-the-scenes? Topics include: Time Square and live spectacle, the Broadway theatre, Madison Ave and ...\n\n      more description for MCC-UE 1152 \u00bb\n\n      \n\n\n\nThis course explores the multi-faceted nature of New York City as a cultural and economic hub for media and the arts, arguably the cultural capital of the world. Classroom instruction is supplemented by site visits, guest lectures, and field research to develop an appreciation of the ways that media and the arts have shaped the work and leisure of life in New York City for the past one hundred years. How did New York City become such a focal point for the creative industries?  What goes on behind-the-scenes? Topics include: Time Square and live spectacle, the Broadway theatre, Madison Ave and modern advertising, the museum of New York, galleries, artists, and the art market, the Harlem Renaissance, alternative media and Bohemian arts.\n\n      less description for MCC-UE 1152 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1200",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10393",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC 2FL",
+                    "time": "Tue 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Friedland, Roger"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "10394",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Tue 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Mirzoeff, Nicholas"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "10395",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Thu 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Rajagopal, Arvind"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "10396",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 208",
+                    "time": "Mon 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Ali, Isra"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "11018",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC6",
+                    "time": "Wed 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Tawil Souri, Helga"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19764",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EAST 741",
+                    "time": "Thu 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Brideau, Katherine"
+                }
+            ],
+            "course_name": "Senior Media Seminar",
+            "description": "MCC-UE 1200 Senior Media Seminar \nA culminating course integrating models of interpretation derived from the liberal arts with the analytical tools developed in communication studies.  The course reflects current research interests within the Department and encourages students to explore emerging issues in the field of communication studies, including media and globalization, professional ethics and the interaction between audiences and texts.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1210",
+            "course_name": "Senior Honors in Media Culture/Communication",
+            "description": "MCC-UE 1210 Senior Honors in Media Culture/Communication \nSeminar for students who have been approved by the department to pursue honors in the major. Extended primary research in Communication Studies, focusing on the development and sharing of individual research projects. Students will enroll concurrently in two points of independent study under the director of a faculty honors sponsor, as outlined in departmental guidelines.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1300",
+            "course_name": "Media and Global Communication",
+            "description": "MCC-UE 1300 Media and Global Communication \nThis course examines the broad range of activities associated with the globalization of media production, distribution, and reception. Issues include: the relationship between local and national identities and the emergence of a 'global culture' and the impact of technological innovations on the media themselves and their use and reception in a variety of settings.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17772",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL150"
+                }
+            ],
+            "course_name": "Global Television",
+            "description": "MCC-UE 1302 Global Television \nThis course introduces students to theories of global television studies, the reception of American media abroad, & several case studies of television from around the world.  Students will learn about the challenges & rewards of studying global television, both of which revolve around how to study television programming & the television industry across cultures & across languages.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1303",
+            "course_name": "Privacy and Media",
+            "description": "MCC-UE 1303 Privacy and Media \nFew values have been as unalterably disturbed as privacy by developments in new media and other information technologies. This course presents an inquiry into the impact of information and digital communications technologies upon privacy and its meanings. In order to examine at a deep level technology's place in society and the complex ways that technology and privacy each shape the other in interactive cycles of cause and effect. Philosophical analysis is balanced with significant contributions by legal scholars, computer scientists, social scientists, and popular social critics.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1304",
+            "course_name": "Global Media and International Law",
+            "description": "MCC-UE 1304 Global Media and International Law \nThis course examines public policy issues and institutions of media governance at the international level. It provides an historical overview of the various institutions and actors involved in global media governance, and assesses the various principles and practices that constitute the regime of global media governance, including regulation of broadcasting, telecommunications, the Internet, and trade in media products. Special attention will be paid to current debates within multilateral bodies such as UNESCO, the WTO, and the International Telecommunication Union.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1305",
+            "course_name": "Comm and International Development",
+            "description": "MCC-UE 1305 Comm and International Development \nTheoretical foundations in historical and contemporary issues around communication, media, information and international development, addressing issues such as state-building, modernization, particular examples of development programs in a variety of countries and regions.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1306",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17481",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B02",
+                    "time": "Mon 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Hegde, Radha"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1306\n\n   Transnational Media Flows\n\nThis class examines the intersecting dynamics of media genres and geo-linguistic cultural markets in the configuration of global and regional media flows. It looks in particular at the way media genres travel and how their circulation raises issues about the cultural power of certain media narratives in specific historical, political and social conditions of consumption. We will examine the battle for national, regional, and global media markets as a struggle for the 'Slegitimate' cultural and political view of the world expressed through information (news), scientific discourse (documentaries...\n\n      more description for MCC-UE 1306 \u00bb\n\n      \n\n\n\nThis class examines the intersecting dynamics of media genres and geo-linguistic cultural markets in the configuration of global and regional media flows. It looks in particular at the way media genres travel and how their circulation raises issues about the cultural power of certain media narratives in specific historical, political and social conditions of consumption. We will examine the battle for national, regional, and global media markets as a struggle for the 'Slegitimate' cultural and political view of the world expressed through information (news), scientific discourse (documentaries), and popular culture (films, tele novels, reality television, music) to understand the complex global flow of television programs and films.\n\n      less description for MCC-UE 1306 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1307",
+            "course_name": "Transnational Comm and Media Cultures",
+            "description": "MCC-UE 1307 Transnational Comm and Media Cultures",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1310",
+            "course_name": "",
+            "description": "MCC-UE 1310\n\n   Culture & Media in Urban China\n\nWhat does it mean to be \"urban\" in China & how is Chinese urbanism mediated by new cultural formations?  In this course we will examine the culture & media that define city life in China, including Chinese state & popular media, television & film, music, fashion, verbal art & literature (in print & online) & visual art.  we will focus on the period from the building booms of the mid-to-late nineties to the present.  Students will work in teams to make presentations on urban culture, & use primary sources in translation & secondary sources to write individual essays.  Chinese language ability a...\n\n      more description for MCC-UE 1310 \u00bb\n\n      \n\n\n\nWhat does it mean to be \"urban\" in China & how is Chinese urbanism mediated by new cultural formations?  In this course we will examine the culture & media that define city life in China, including Chinese state & popular media, television & film, music, fashion, verbal art & literature (in print & online) & visual art.  we will focus on the period from the building booms of the mid-to-late nineties to the present.  Students will work in teams to make presentations on urban culture, & use primary sources in translation & secondary sources to write individual essays.  Chinese language ability appreciated but by no means required.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Cultures & Contexts\n\n      less description for MCC-UE 1310 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1340",
+            "course_name": "Religion and Media",
+            "description": "MCC-UE 1340 Religion and Media \nThis course examines the ways in which conventional and non-conventional media recreate religious experience. Increasingly, religion is experienced not one in sacred spaces, and through ritual and scripture, but is also communicated through radio, TV, and the Internet, as well as in consumer culture and political campaigns. This course examines the significance of religion in modern life from historical and contemporary perspectives, paying attention to questions of religious and national difference, as well as material and symbolic practices.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1341",
+            "course_name": "Middle East Media",
+            "description": "MCC-UE 1341 Middle East Media \nThis course examines contemporary media in (primarily Arab parts of) the Middle East and media about the Middle East, and Islam within the U.S. it analyzes the role played by these media in representing and reproducing the perceived rift between Islam and the West. Readings and media examples focus on the politics of culture, religion, modernity, and national identity as they shape and intersect with contemporary geopolitical events, cultural formations, and media globalization.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1342",
+            "course_name": "",
+            "description": "MCC-UE 1342\n\n   Sounds In and Out of Africa\n\nThis course investigates cultural influence and exchange between Africa, the African diaspora, Europe and America with a particular emphasis on sound and music. How has the sound of Africa been transcribed, recorded, stored, transported, and represented in the West? What can this tell us about global cultural flow? How do specific recording techniques articulate with global music markets? The course analyzes the transatlantic feedback between Africa, America and Europe; evaluates the politics of transcription, ethnographic description, and recording; and examines the changing role for traditio...\n\n      more description for MCC-UE 1342 \u00bb\n\n      \n\n\n\nThis course investigates cultural influence and exchange between Africa, the African diaspora, Europe and America with a particular emphasis on sound and music. How has the sound of Africa been transcribed, recorded, stored, transported, and represented in the West? What can this tell us about global cultural flow? How do specific recording techniques articulate with global music markets? The course analyzes the transatlantic feedback between Africa, America and Europe; evaluates the politics of transcription, ethnographic description, and recording; and examines the changing role for traditional African music in a global world.\n\n      less description for MCC-UE 1342 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1345",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11650",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 507",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Dublon, Amalle"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17472",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 124 (SB)",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Dublon, Amalle"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1345\n\n   Fashion and Power\n\nThis course examines fashion as a form of communication and culture. Through cultural and media studies theory, we will examine how fashion makes meaning, and how it has been valued through history, popular culture and media institutions, focusing on the relationship between fashion, visual self-presentation, and power. The course will situate fashion both n terms of its production and consumption, addressing its role in relation to identity and body politics (gender, race, sexuality, class), art and status, nationhood and the global economy, celebrity and Hollywood culture, youth cultures and...\n\n      more description for MCC-UE 1345 \u00bb\n\n      \n\n\n\nThis course examines fashion as a form of communication and culture. Through cultural and media studies theory, we will examine how fashion makes meaning, and how it has been valued through history, popular culture and media institutions, focusing on the relationship between fashion, visual self-presentation, and power. The course will situate fashion both n terms of its production and consumption, addressing its role in relation to identity and body politics (gender, race, sexuality, class), art and status, nationhood and the global economy, celebrity and Hollywood culture, youth cultures and subversive practices.\n\n      less description for MCC-UE 1345 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1346",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17169",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL23",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Chumley, Lily; Robles, Erica"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1346\n\n   Fame\n\nFame, notoriety, renown \u2013 the desire to be recognized & immortalized is the most enduring & perhaps the most desirable form of power.  Culture, commerce, politics, & religion all proffer promises of fame \u2013 whether for fifteen minutes or fifteen centuries. This course will investigate this subject by asking, what is fame? Why do people want it? How do they get it? What can they do with it? In other words, what kind of good is fame?  Drawing on texts from history, ethnography, theory, literature, philosophy, & contemporary media, this course will reflect on the ethics, erotics, pragmatics & path...\n\n      more description for MCC-UE 1346 \u00bb\n\n      \n\n\n\nFame, notoriety, renown \u2013 the desire to be recognized & immortalized is the most enduring & perhaps the most desirable form of power.  Culture, commerce, politics, & religion all proffer promises of fame \u2013 whether for fifteen minutes or fifteen centuries. This course will investigate this subject by asking, what is fame? Why do people want it? How do they get it? What can they do with it? In other words, what kind of good is fame?  Drawing on texts from history, ethnography, theory, literature, philosophy, & contemporary media, this course will reflect on the ethics, erotics, pragmatics & pathologies of fame.\n\n      less description for MCC-UE 1346 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1347",
+            "course_name": "",
+            "description": "MCC-UE 1347\n\n   Cultural History of The Screen:\n\nWhether large, small, wide, high-definition, public, personal, shared, or handheld, screens are one of the most pervasive technologies in everyday life. From spaces of work to spaces of leisure, screens are sites for collaboration, performance, surveillance, and resistance. This course traces the cultural history of screens from a range of forms - from the panorama to the cinema, from the radar system to the television, and from the terminal to the mobile device - to provide a way of thinking about the development of the screen as simultaneously architectural, material, representational and co...\n\n      more description for MCC-UE 1347 \u00bb\n\n      \n\n\n\nWhether large, small, wide, high-definition, public, personal, shared, or handheld, screens are one of the most pervasive technologies in everyday life. From spaces of work to spaces of leisure, screens are sites for collaboration, performance, surveillance, and resistance. This course traces the cultural history of screens from a range of forms - from the panorama to the cinema, from the radar system to the television, and from the terminal to the mobile device - to provide a way of thinking about the development of the screen as simultaneously architectural, material, representational and computational.\n\n      less description for MCC-UE 1347 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1349",
+            "course_name": "",
+            "description": "MCC-UE 1349\n\n   The Raw Data of Intimate Life\n\nSocial research tries to make sense of \u201craw data,\u201d doubly so in this case as they refer to quantitative information about the sexual, romantic & religious lives of young people.  This seminar seeks to teach students the basics of quantitative social research, a particular kind of sense-making that both makes & manipulates the data.  This seminar will consider both the generation & testing of hypotheses using survey data on intimate life recently collected by the instructor through social network sites & the blogosphere in the United States & Muslim-majority countries in the Near East. Students...\n\n      more description for MCC-UE 1349 \u00bb\n\n      \n\n\n\nSocial research tries to make sense of \u201craw data,\u201d doubly so in this case as they refer to quantitative information about the sexual, romantic & religious lives of young people.  This seminar seeks to teach students the basics of quantitative social research, a particular kind of sense-making that both makes & manipulates the data.  This seminar will consider both the generation & testing of hypotheses using survey data on intimate life recently collected by the instructor through social network sites & the blogosphere in the United States & Muslim-majority countries in the Near East. Students need not have any previous statistical training.\n\n      less description for MCC-UE 1349 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1351",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11356",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 569",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Feldman, Allen"
+                }
+            ],
+            "course_name": "War as Media",
+            "description": "MCC-UE 1351 War as Media \nThis course examines the proposition that contemporary war should be understood as media. Was has become mediatized and media has been militarized. This course treats war and political violence as communicative acts and technologies and focuses on how they shape our understanding and experience of landscape, vision, body, time and memory.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1352",
+            "course_name": "Empire, Revolution, and Media",
+            "description": "MCC-UE 1352 Empire, Revolution, and Media \nThis course examines the role of media in the history of empires and revolutions and the history of media empires. It focuses on the investment in media forces by both empires and revolutions, and the tendency of media to form empires that are subject to periodic 'revolution' in the marketplace with the contexts of colonization, decolonization and globalization. Media discussed include prints, paintings, photography, journalism, fiction, cinema, the Internet and digital media.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1360",
+            "course_name": "Research Methods in Media Culture and Comm",
+            "description": "MCC-UE 1360 Research Methods in Media Culture and Comm \nIntroduction to methodological approaches on research in the field of media and communication studies. Students develop basic research skills and a research proposal. Course serves as a prerequisite for seniors honors in the major.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11651",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Kopenkina, Olga"
+                }
+            ],
+            "course_name": "Global Cult/Identities",
+            "description": "MCC-UE 1401 Global Cult/Identities \nThis course examines globalization as it is inscribed in everyday practices through the transnational traffic of persons, cultural artifacts and ideas. The course will focus on issues of transnational mobility, modernity, the local/global divide and pay specific attention to how categories of race, gender and ethnicity intersect with transnational change.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1402",
+            "course_name": "Marxism and Culture",
+            "description": "MCC-UE 1402 Marxism and Culture \nExplores the various political and philosophical debates within western Marxism. Pays particular attention to the influence of the cultural turn in twentieth century Marxist thought on feminism, postcolonialism, and theories of mediation. Themes include: the commodity, alienation and reification, surplus value, culture, ideology, hegemony and subjectivity.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1403",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17557",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1403\n\n   Postcolonial Visual Culture\n\nThis class addresses how colonialism and postcolonialism are shaped and mediated through images and the gaze. The dynamics of colonial history motivate and shape colonial and postcolonial perceptions and influence their patterns of global circulation when the boundary between the world out there and the nation at home is increasingly blurred. Course surveys a range of image texts through various media (photography, television, cinema) and sites (war, the harem, refugee camps, prisons, disasters); nationalist mobilization, counter-insurgency, urban conflict, disaster management, the prison syst...\n\n      more description for MCC-UE 1403 \u00bb\n\n      \n\n\n\nThis class addresses how colonialism and postcolonialism are shaped and mediated through images and the gaze. The dynamics of colonial history motivate and shape colonial and postcolonial perceptions and influence their patterns of global circulation when the boundary between the world out there and the nation at home is increasingly blurred. Course surveys a range of image texts through various media (photography, television, cinema) and sites (war, the harem, refugee camps, prisons, disasters); nationalist mobilization, counter-insurgency, urban conflict, disaster management, the prison system, and the war on terror.\n\n      less description for MCC-UE 1403 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1404",
+            "course_name": "",
+            "description": "MCC-UE 1404\n\n   Media  and Culture of Money\n\nThis course examines the culture of money& finance, and the role of the media & popular culture in making sense of economics.  It engages with the ways that money, finance, & economics are shaped in part through media representations, that finance is not simply a system but also a culture, & that capitalism shapes world views.  The course examines the history of ways of thinking about money, the centrality of financial markets in 20th-21st century globalization, & the examination of financial systems in the wake of the 2008 financial meltdown.  Students will explore the role of money media in ...\n\n      more description for MCC-UE 1404 \u00bb\n\n      \n\n\n\nThis course examines the culture of money& finance, and the role of the media & popular culture in making sense of economics.  It engages with the ways that money, finance, & economics are shaped in part through media representations, that finance is not simply a system but also a culture, & that capitalism shapes world views.  The course examines the history of ways of thinking about money, the centrality of financial markets in 20th-21st century globalization, & the examination of financial systems in the wake of the 2008 financial meltdown.  Students will explore the role of money media in shaping attitudes toward consumerism, financial decisions, & finance systems.\n\n      less description for MCC-UE 1404 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1405",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10398",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Karanovic, Jelena"
+                }
+            ],
+            "course_name": "Copyright, Commerce and Culture",
+            "description": "MCC-UE 1405 Copyright, Commerce and Culture \nExamines the basic tenets and operative principles of the global copyright system. Considers the ways in which media industries, artists, and consumers interact with the copyright system and assesses how well it serves its stated purposes: to encourage art and creativity. Special emphasis on the social, cultural, legal, and political issues that have arisen in recent years as a reult of new communicative technologies.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1406",
+            "course_name": "Hacker Culture/Politics",
+            "description": "MCC-UE 1406 Hacker Culture/Politics \nThis course interrogates not only the ethics and technical practices of computer hackers and hacking, but it examines more broadly how hackers and hacking have transformed the politics of computing and the Internet more generally. We will pay close attention to how ethical principles are variable represented and thought of by hackers, journalists, and academics and we will use the example of hacking to address various topics on low, order, and politics on the Internet such as: free speech and censorship, computer gaming, privacy and security, and intellectual property.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1407",
+            "course_name": "Gender, Sex and The Global",
+            "description": "MCC-UE 1407 Gender, Sex and The Global \nThis course examines how globalization impacts the construction of gender and sexuality. Through discussions of contemporary issues in various global sites, the course addresses the politics of gender as it is shaped by trans-border flows of media, people and cultural products.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1408",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11845",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL25",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Wills, David Clinton"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1408\n\n   Queer Identity and Popular Culture\n\nIn this course, we will explore queerness as identity, practice, theory, & politics, all through the lens of popular culture.  Our approach will be grounded in theories, methods & texts of communication & media studies, thus it will serve as a complement to other queer theory & culture courses offered across the university.  Readings will include both theoretical texts & case studies both historical & contemporary.  Students will complete the course with a critical understanding of what it means to be & \"do\" queer in contemporary culture.  Students will also be equipped to bring queer analytic...\n\n      more description for MCC-UE 1408 \u00bb\n\n      \n\n\n\nIn this course, we will explore queerness as identity, practice, theory, & politics, all through the lens of popular culture.  Our approach will be grounded in theories, methods & texts of communication & media studies, thus it will serve as a complement to other queer theory & culture courses offered across the university.  Readings will include both theoretical texts & case studies both historical & contemporary.  Students will complete the course with a critical understanding of what it means to be & \"do\" queer in contemporary culture.  Students will also be equipped to bring queer analytical tools to their everyday & professional encounters with popular culture.\n\n      less description for MCC-UE 1408 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1409",
+            "course_name": "Consumption, Culture and Identity",
+            "description": "MCC-UE 1409 Consumption, Culture and Identity \nThis course offers students the opportunity to engage with theories of communication & culture through the context of consumption & contemporary consumer society. Our focus will be on the role of commodities & consumer practices in everyday life & in culture at large. We will give particular attention to consumption's role in the construction of social & cultural identities. Students will consider critical responses to consumer culture, including the resistance & refusal of consumption as well as the attempted mobilization of consumption toward social change.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1410",
+            "course_name": "",
+            "description": "MCC-UE 1410\n\n   Global Visual Culture\n\nThis course examines the role of visual culture in the processes of globalization and global cultural flows. The course takes as its fundamental premise that visual culture circulates and creates meaning globally and that the very foundations of global capital, global culture, and global media are based on the dynamics of visuality and the power systems it both affirms and challenges. This course traces global visual culture through key historical themes - nationalism, colonialism, cultural imperialism - with focuses on the environment, racial and cultural differences, the border, global activ...\n\n      more description for MCC-UE 1410 \u00bb\n\n      \n\n\n\nThis course examines the role of visual culture in the processes of globalization and global cultural flows. The course takes as its fundamental premise that visual culture circulates and creates meaning globally and that the very foundations of global capital, global culture, and global media are based on the dynamics of visuality and the power systems it both affirms and challenges. This course traces global visual culture through key historical themes - nationalism, colonialism, cultural imperialism - with focuses on the environment, racial and cultural differences, the border, global activism.\n\n      less description for MCC-UE 1410 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1411",
+            "course_name": "",
+            "description": "MCC-UE 1411\n\n   Visual Culture/Science and Technology\n\nThis course examines the imagery of science and technology, the role of visuality in the construction of scientific knowledge, artistic renditions of science, and the emergence of visual technologies in modern society. It looks at how visuality has been key to the exercise of power through such practices as cataloguing and identification; the designation of abnormality, disease, and pathologies; medical diagnosis; scientific experimentation; and the marketing of science and medicine. We will examine the development of the visual technologies in the emerging scientific practices of psychiatry a...\n\n      more description for MCC-UE 1411 \u00bb\n\n      \n\n\n\nThis course examines the imagery of science and technology, the role of visuality in the construction of scientific knowledge, artistic renditions of science, and the emergence of visual technologies in modern society. It looks at how visuality has been key to the exercise of power through such practices as cataloguing and identification; the designation of abnormality, disease, and pathologies; medical diagnosis; scientific experimentation; and the marketing of science and medicine. We will examine the development of the visual technologies in the emerging scientific practices of psychiatry and criminology; explore the sciences of eugenics, genetics, pharmacology, brain and body scans, and digital medical images of many kinds; the marketing of pharmaceuticals, and the emerging politics of scientific activism.\n\n      less description for MCC-UE 1411 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1412",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17488",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 261",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Kamin, Diana"
+                }
+            ],
+            "course_name": "",
+            "description": "MCC-UE 1412\n\n   Introduction to Visual Culture\n\nThis course is an introduction to the key issues of the field of visual culture, looking at the social role of images & visuality (the structures & power relations of looking, being seen & unseen, & vision in society).  It introduces students to some of the foundational aspects of visual culture theory & concepts, in contemporary culture, with particular attention to the US context in relation to the global.  This course will introduce some of central themes of visual culture, looking at the history of modern forms of visuality & the history of visual technologies, concepts of spectacle & scal...\n\n      more description for MCC-UE 1412 \u00bb\n\n      \n\n\n\nThis course is an introduction to the key issues of the field of visual culture, looking at the social role of images & visuality (the structures & power relations of looking, being seen & unseen, & vision in society).  It introduces students to some of the foundational aspects of visual culture theory & concepts, in contemporary culture, with particular attention to the US context in relation to the global.  This course will introduce some of central themes of visual culture, looking at the history of modern forms of visuality & the history of visual technologies, concepts of spectacle & scale, museums & image collections, image icons, taboo images, & the relationship of images to memory.  We will examine how images circulate through digital media, remakes, & viral networks, & the cross-fertilization of images between various social arenas, such as art, advertising, popular culture, comic books, news, science, entertainment media, video games, theme parks, architecture, & design.\n\n      less description for MCC-UE 1412 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1413",
+            "course_name": "Cultural Memory",
+            "description": "MCC-UE 1413 Cultural Memory \nThis course examines how cultural memory is enacted through visual culture in a comparative global context. It looks at the rise of a memory culture over the last few decades, in particular in the United States, Europe & Latin America, & how this engagement with memory demonstrates how the politics of memory can reveal aspects of nationalism & national identity, ethnic conflict  & strife, the legacies of state terrorism, & the deployment of memory as a means for further continued conflict.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1416",
+            "course_name": "Borders, Barriers, and Buffers",
+            "description": "MCC-UE 1416 Borders, Barriers, and Buffers \nThe course begins with the paradoxical premise that we increasingly live in a borderless world thanks in large part the advent of new technologies which allow for the flow of goods, capital, people, & ideas; but that we also simultaneously live in a more barricaded world made up of walls, barriers, & borders of different kinds. Students will think through political & symbolic borders & their material & immaterial formations. Readings which draw on examples from across the world will be included throughout the course. The course will culminate with a trip to Israel/Palestine.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1419",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11892",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 284",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Friedland, Roger"
+                }
+            ],
+            "course_name": "Mediating Love, Sex, and God",
+            "description": "MCC-UE 1419 Mediating Love, Sex, and God \nThis seminar examines the mediated historical trajectory of love, sex & God, exploring the performative & metaphysical basis of social practice.  We seek not only to explore the ways in which these objects of existential concern are historical phenomena, but also how they are conditioned by the techniques & technologies of mediation.  We will also explore how religion is shaped by material practices & how certain forms of social mediation are themselves religious.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1431",
+            "course_name": "",
+            "description": "MCC-UE 1431\n\n   Topics in Digital Humanities: Street Food and Urban Farming\n\nThis course introduces & makes use of digital tools (audio, video & mapping techniques) to research & record an immersive engagement with the city. It also includes a lab-based workshop in interactive media that is designed around a relevant theme. The course focuses on street food & urban farming. The preservation, adaptation & disappearance of street food raise many issues that are central to contemporary Shanghai: globalization; creativity & cultural heritage; urbanization; the informal economy & the environment. This course examines these topics by focusing on the role itinerant vendors & ...\n\n      more description for MCC-UE 1431 \u00bb\n\n      \n\n\n\nThis course introduces & makes use of digital tools (audio, video & mapping techniques) to research & record an immersive engagement with the city. It also includes a lab-based workshop in interactive media that is designed around a relevant theme. The course focuses on street food & urban farming. The preservation, adaptation & disappearance of street food raise many issues that are central to contemporary Shanghai: globalization; creativity & cultural heritage; urbanization; the informal economy & the environment. This course examines these topics by focusing on the role itinerant vendors & informal streets markets play in the design & development of the 21st century metropolis. Adding an extra dimension to our analysis of food in the city, the course will include an intensive workshop on urban farming led by experts in the field.\n\n      less description for MCC-UE 1431 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1450",
+            "course_name": "Global Media Seminar",
+            "description": "MCC-UE 1450 Global Media Seminar \nThis umbrella number encompasses topics-based courses offered at NYU global campuses and other international locations that examine the social, political and economic dynamics of media and culture in specific national, regional and historical contexts.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1451",
+            "course_name": "Global Media Sem: China",
+            "description": "MCC-UE 1451 Global Media Sem: China \nDesigned to introduce contemporary media industries in China, involving print, broadcasting, film, PR, advertising, and new media. This course reviews the structures, functions, and influences of various forms of media industries. Practical media work is emphasized. Additionally, it analyzes existing issues on these media industries from historical, regulatory, social and technological contexts.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1452",
+            "course_name": "Global Media Sem: TV & Democracy in Italy",
+            "description": "MCC-UE 1452 Global Media Sem: TV & Democracy in Italy \nAddresses current debates about the political role of television in Italy and the historical background to these debates. Focuses on the historical development of public service and commercial broadcasting; political elite's' attitudes towards television; key concepts employed in the Italian media (lottizzazione, pluralismo); the conflict of interest issue; and current and past legal frameworks for the television and media markets. Course will be useful for all those interested in Italian politics and society, as well as all those who are interested in the media in comparative context.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1453",
+            "course_name": "Global Media Sem: Post- Communist Media Systems",
+            "description": "MCC-UE 1453 Global Media Sem: Post- Communist Media Systems \nAcquaints students with European media in general, and with transformation of the Czech media after the Velvet Revolution 1989 in particular. Czech developments will be presented on the background of a wider European perspective in order to make students familiar with the basic features of European print and electronic media. The course will extensively exploit the internet sources related to the topic.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1454",
+            "course_name": "",
+            "description": "MCC-UE 1454\n\n   Global Media Seminar: Media & Cultural Globalization in France\n\nThis course introduces students to the basic structures and practices of media in Europe and their relationship to everyday social life. It pays special attention to the common models and idioms of media in Europe, with an emphasis on national and regional variations. Specific case studies highlite current rends in the production, distribution, consumption, and regulation of media. Topics may include: national and regional idioms in a range of media genres, from entertainment to advertising and publicity, to news and information; legal norms regarding content and freedom of expression; pirate ...\n\n      more description for MCC-UE 1454 \u00bb\n\n      \n\n\n\nThis course introduces students to the basic structures and practices of media in Europe and their relationship to everyday social life. It pays special attention to the common models and idioms of media in Europe, with an emphasis on national and regional variations. Specific case studies highlite current rends in the production, distribution, consumption, and regulation of media. Topics may include: national and regional idioms in a range of media genres, from entertainment to advertising and publicity, to news and information; legal norms regarding content and freedom of expression; pirate and independent media; and innovations and emerging practices in digital media.\n\n      less description for MCC-UE 1454 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1455",
+            "course_name": "Global Media Seminar: Latin America",
+            "description": "MCC-UE 1455 Global Media Seminar: Latin America \nThis course proposes a historical and cultural approach to the development of the popular press, cinema, radio, television, and the contemporary processes of the new media.  There is a central question of the course: Is this a singularity in Latin American media. The answer assumes that there is a specific relation between the tradition and modernity in Latin American societies with many consequences for mass culture and media.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1456",
+            "course_name": "Global Media:Sydney, Australia",
+            "description": "MCC-UE 1456 Global Media:Sydney, Australia",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1508",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17490",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 435"
+                }
+            ],
+            "course_name": "Print, Typography and Form",
+            "description": "MCC-UE 1508 Print, Typography and Form \nAn overview of the history and cultures of print. Examines typography communication and the persuasive power of print. Topics include print 'revolution' in early modern Europe, printedness and the public sphere, as well as contemporary relationships between print and digital media. How are digital media making it possible to see new things about print? What can e-books tell us about books?",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1517",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10400",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL150",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Chong, Song"
+                }
+            ],
+            "course_name": "Photography and The Visual Archive",
+            "description": "MCC-UE 1517 Photography and The Visual Archive \nThis course examines the role and history of photography within the historical landscape of media and communication. Special emphasis is placed on the accumulative meaning of visual archives, tracing how images relation and establish cultural territories across a variety of texts and media. The course investigates and contrasts the mimetic visual strategies within western and nonwestern traditions, looking at historical and contemporary images in a variety of forms.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1520",
+            "course_name": "Marking Time:Writing Print Virtual Bookmaking",
+            "description": "MCC-UE 1520 Marking Time:Writing Print Virtual Bookmaking \nEvolutionary stages of diverse writing and bookmaking practices.  From the first recorded-keeping necessities through biblical texts and medieval book practices, to mechanical reproductions  and the transformation from print to the computer age.  Cultural and social impact of these traditions are examined.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1571",
+            "course_name": "Rise of Internet Media",
+            "description": "MCC-UE 1571 Rise of Internet Media \nThis course examines the emergence of the Internet as a commercial business. It pays particular attention to the various business models and practices employed in media-related enterprises, tracing their development from the late 1990s to the most recent strategies and trends. Case studies include the Internet Service Providers (ISPs), portals, search engines, early game platforms, the Internet presence of traditional media organizations, social network platforms.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1585",
+            "course_name": "Creative Coding",
+            "description": "MCC-UE 1585 Creative Coding \n\u201cCreative Coding\u201d is a practice-based course designed to teach basic programming skills in the context of critical & cultural media studies & the digital humanities. The course requires no prior programming experience, simply a willingness to explore code at a more technical level with the aim of using computation as an expressive, analytical, critical & visualizing medium. Students will learn basic coding techniques such as variables, loops, graphics, & networking, all within a larger conversation on the social, cultural, & historical nature of code & coding practices.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1700",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10401",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL150",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Borisoff, Deborah"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10402",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL25",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wills, David Clinton"
+                }
+            ],
+            "course_name": "Gender and Communication",
+            "description": "MCC-UE 1700 Gender and Communication \nThis course explores the ways people create, maintain, and augment the meaning of gender, developing insight into understanding gender ideology and the media representation of gender. The course examines how ideas about gender shape our communication practices, and how our practices of communication produce gender.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1717",
+            "course_name": "Listening: Noise, Sound and Music",
+            "description": "MCC-UE 1717 Listening: Noise, Sound and Music \nThis course examines theories, technologies, and practices of listening in the modern world. How has our experience of sound changed as we move from the piano to the personal computer, from the phonoautograph to the mp3? How have political, commercial, and cultural forces shaped what we are able to listen to, and how we listen to it? Finally, how have performers, physiologists, and philosophers worked to understand this radical transformation of the senses?",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1725",
+            "course_name": "Business & Professional Communication",
+            "description": "MCC-UE 1725 Business & Professional Communication \nAn exploration of the oral and written communication dimensions that exist within professional frameworks. Topics include technology and communication, the interview, group and individual, presentations, and defining the professional environment.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1740",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10403",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Felz, William"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10404",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Werner, Dawn"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10405",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Werner, Dawn"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10406",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 383",
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "White, Karen"
+                }
+            ],
+            "course_name": "Interviewing Strategies",
+            "description": "MCC-UE 1740 Interviewing Strategies \nThis course focuses on the principles and practices of successful interviewing techniques. Students are provided with background on the structure of an interview and learn how to analyze success and/or potential problems. Review of case studies and practice in holding interviews enables students to gain experience and to improve their own abilities.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1745",
+            "course_name": "Organizational Comm",
+            "description": "MCC-UE 1745 Organizational Comm \nThis course is designed especially for students entering business, health care, and educational settings who are assuming or aspiring to positions of leadership. Through case studies and class discussion, course work focuses on strengthening communication competency  in presentation skills, persuasive ability (i.e., marketing and sales), leadership in meetings, and problem-solving skills.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1750",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10407",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-3",
+                    "time": "Tue 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "Devitt, James"
+                }
+            ],
+            "course_name": "Public Relations: Theory and Process",
+            "description": "MCC-UE 1750 Public Relations: Theory and Process \nPublic relations means different things to different things to different people but it has one undeniable element: communication.  This course is concerned with arranging, handling, and evaluating public relations programs.  Students work with actual case histories and deal with contemporary topics such as the use of the computer in public relations.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1755",
+            "course_name": "Public Relations: Principles and Practices",
+            "description": "MCC-UE 1755 Public Relations: Principles and Practices \nThis course focuses on techniques of communication in public relations including creation of press releases, press packets and kits, and developing public relations campaigns.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1760",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10409",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-14",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Family, Cheryl"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17491",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "194M 201"
+                }
+            ],
+            "course_name": "Innovations in Marketing",
+            "description": "MCC-UE 1760 Innovations in Marketing \nThis course is an analysis of changing trends in marketing ranging from corporate social responsibility to guerrilla and viral marketing. Discussion of theoretical concepts are applied through fieldwork and project-based learning. Guest lectures on emerging topics are featured.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1761",
+            "course_name": "Cultural Geography of Commodities",
+            "description": "MCC-UE 1761 Cultural Geography of Commodities \nThis is an umbrella course, which will focus on different commodities such as, coffee, tea, sugar, oil & cotton. Will investigate the cultural geography of a specific commodity, assessing historical & contemporary issues that inform modes of production & development of international or domestic trade.  The subtopic will vary.  Students will work as a team to produce a project that analyzes the intricacies of  the specific commodity studied in the course.  The course will include on-the-ground research & site visits.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1762",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17492",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL151",
+                    "time": "Mon 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Tawil Souri, Helga"
+                }
+            ],
+            "course_name": "Cultural Geography of Commodities: Coffee",
+            "description": "MCC-UE 1762 Cultural Geography of Commodities: Coffee \nThis course will investigate the cultural geography of a specific commodity, assessing historical & contemporary issues that inform modes of production & development of international or domestic trade.  The subtopic may vary.  Students will work as a team to produce a project that analyzes the intricacies of  the commodity\u2014in this case, coffee.  The course will include on-the-ground research and site visits.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1775",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10411",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC9",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Secunda, Eugene"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10412",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 279",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Secunda, Eugene"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10413",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "SILV 514"
+                }
+            ],
+            "course_name": "Advertising & Marketing",
+            "description": "MCC-UE 1775 Advertising & Marketing \nAn introduction to the professions of marketing, promotion, and advertising, with an emphasis on industry structure, branding, integrated marketing communication, effective techniques, and changing communication strategies.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1780",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17542",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "25W4 C-15"
+                }
+            ],
+            "course_name": "Advertising Campaigns",
+            "description": "MCC-UE 1780 Advertising Campaigns \nThis course teaches students who have a basic understanding of advertising techniques how to develop a complete advertising  campaign across a range of media for a product, service or nonprofit organization.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1790",
+            "course_name": "Introduction to Rhetoric",
+            "description": "MCC-UE 1790 Introduction to Rhetoric \nAn historic view of rhetorical theory from the ancients (Plato, Aristotle, Quintillian) to the modern (Burke, Weaver, Toulmin). The primary application of the theory are to contemporary speakers and the nature of American political rhetoric. Questions addressed range from 'What is rhetoric'? to 'What made the Declaration of Independence persuasive'? to 'Why (& How) does the government lie to us'?",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1800",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11357",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "McIlwain, Charlton"
+                }
+            ],
+            "course_name": "Political Rhetoric",
+            "description": "MCC-UE 1800 Political Rhetoric \nLooking at the rhetoric of public relations we examine the principles and assumptions in the process of  analyzing the process of political campaigns. Focuses on an analysis of what is reported to the mass media and how the 'gatekeepers,' reporters, editors and producers of news filer the messages. Also, discussion on how public relations participates in the creation of viewpoints that eventually become well established and widely held.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1801",
+            "course_name": "Rhetoric,Law and Public Policy",
+            "description": "MCC-UE 1801 Rhetoric,Law and Public Policy \nThis course focuses on the rhetorical methods for understanding and critiquing persuasive construction, expression, interpretation, and enforcement of legal texts, including judicial opinions, public policy and advocacy proposals.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1805",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10414",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 510",
+                    "time": "Mon 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "Makar, Ivan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11358",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "UHAL C02A",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Pantelidis, Emanuel"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11359",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 506",
+                    "time": "Tue 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "Ross, Alan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10415",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EAST 207",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Athanasios, Shawn"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10416",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 384",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Brown, Roger"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10417",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 384",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Brown, Roger"
+                }
+            ],
+            "course_name": "Public Speaking",
+            "description": "MCC-UE 1805 Public Speaking \nAnalysis of the problems of speaking to groups and practice in preparing and presenting speeches for various purposes and occasions.  Hours are arranged for student evaluation and practice.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1808",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10418",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Strugatz-Seplow, Beth"
+                }
+            ],
+            "course_name": "Persuasion",
+            "description": "MCC-UE 1808 Persuasion \nAnalysis of factors inherent in the persuasive process, examination and application of these factors in presentations.  Hours are arranged for student evaluation and practice.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1815",
+            "course_name": "Conflict Management Communication",
+            "description": "MCC-UE 1815 Conflict Management Communication \nFocus on major aspects of conflict resolution and decision making including negotiation, setting goals, establishing procedures, and planning in a variety of professional settings.  Examination of how communication, gender, culture, and writing contribute to conflict and how we can learn to assess and manage conflicts productively.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1821",
+            "course_name": "Media, Policy/Regulation",
+            "description": "MCC-UE 1821 Media, Policy/Regulation \nThis course examines the relationship between public policy and media. It concentrates on the way legislative acts and regulatory instruments, such as the Federal Communications Commission, influence the structure and operation of media according to the norms and values that are set through the political process. Case studies include broadcasting and telecommunications policy, the regulation of media content, and governance of the Internet.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 1826",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11840",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 LL27",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Arun, Kundnani"
+                }
+            ],
+            "course_name": "Media Activism & Social Movements",
+            "description": "MCC-UE 1826 Media Activism & Social Movements",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1830",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10419",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 369",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Burton, Craig"
+                }
+            ],
+            "course_name": "Interpersonal Comm",
+            "description": "MCC-UE 1830 Interpersonal Comm \nThe application of various systems of communication analysis to specific behavioral situations.  Through the case-study method, students apply communication theories and models to practical, everyday situations.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1835",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10420",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 510",
+                    "time": "Tue 4.55 PM - 7.25 PM",
+                    "open": true,
+                    "professor": "Baker, William"
+                }
+            ],
+            "course_name": "Argumentation and Debate",
+            "description": "MCC-UE 1835 Argumentation and Debate \nAn examination of the art of debate using current issues of public policy & social justice. Students will learn the skills of critical thinking, evidence evaluation & persuasion. Hours are arranged for fieldwork & student evaluation.",
+            "offering": true
+        },
+        {
+            "course_id": "MCC-UE 1840",
+            "course_name": "Team Building",
+            "description": "MCC-UE 1840 Team Building \nExamines the principles and techniques involved in group problem-solving and decision-making tasks. Class projects are used to practice the application of the fundamentals and implementation of specific strategies.  Hours arranged for student projects and practice.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9014",
+            "course_name": "Media and Cultural Analysis",
+            "description": "MCC-UE 9014 Media and Cultural Analysis \nAn introduction to approaches and practices used to criticize the content, structure, and context (including effects) of significant media in our society.  Background readings, examination of current criticism, and beginning practice in media criticism are employed.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9015",
+            "course_name": "Advertising and Society",
+            "description": "MCC-UE 9015 Advertising and Society \nThis course will examine the emergence of advertising as a form of communication, its influence upon other forms of mediated communication and its impact upon culture and society.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9032",
+            "course_name": "Social Media Networking",
+            "description": "MCC-UE 9032 Social Media Networking",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9100",
+            "course_name": "Internship",
+            "description": "MCC-UE 9100 Internship \nThe internship program promotes the integration of academic theory with practical experience. Internships expand student understandings of the dynamics of the ever-changing field of communication.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9103",
+            "course_name": "Intro to Digital Media",
+            "description": "MCC-UE 9103 Intro to Digital Media \nThis course is an introduction to digital media, focusing on networks, computers, the Web and video games. Theoretical topics include the formal qualities of new media, their political dimensions, as well as questions of genre, narrative, and history.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9140",
+            "course_name": "Communication & Cultural",
+            "description": "MCC-UE 9140 Communication & Cultural \nExamines the theories & evidence of cultural & political transformations underway in the era of media proliferation, multinational conglomerates, & cyberspace. The course will pay particular attention to the international flows of media & cultural products & examine their impact on local & national differences.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9150",
+            "course_name": "Media Fieldwork",
+            "description": "MCC-UE 9150 Media Fieldwork \nStudents earn academic credit and real world work experience through this service learning course. Department permission required",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9340",
+            "course_name": "Religion and Media",
+            "description": "MCC-UE 9340 Religion and Media \nThis course examines the ways in which conventional & non-conventional media recreate religious experience. Increasingly, religion is experienced not one in sacred spaces, & through ritual & scripture, but is also communicated through radio, TV, & the Internet, as well as in consumer culture & political campaigns. This course examines the significance of religion in modern life from historical & contemporary perspectives, paying attention to questions of religious & national difference, as well as material & symbolic practices.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9345",
+            "course_name": "",
+            "description": "MCC-UE 9345\n\n   Fashion and Power\n\nThis course examines fashion as a form of communication and culture. Through cultural and media studies theory, we will examine how fashion makes meaning, and how it has been valued through history, popular culture and media institutions, focusing on the relationship between fashion, visual self-presentation, and power. The course will situate fashion both n terms of its production and consumption, addressing its role in relation to identity and body politics (gender, race, sexuality, class), art and status, nationhood and the global economy, celebrity and Hollywood culture, youth cultures and...\n\n      more description for MCC-UE 9345 \u00bb\n\n      \n\n\n\nThis course examines fashion as a form of communication and culture. Through cultural and media studies theory, we will examine how fashion makes meaning, and how it has been valued through history, popular culture and media institutions, focusing on the relationship between fashion, visual self-presentation, and power. The course will situate fashion both n terms of its production and consumption, addressing its role in relation to identity and body politics (gender, race, sexuality, class), art and status, nationhood and the global economy, celebrity and Hollywood culture, youth cultures and subversive practices.\n\n      less description for MCC-UE 9345 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9400",
+            "course_name": "Culture, Media and Globalization",
+            "description": "MCC-UE 9400 Culture, Media and Globalization \nExamines the theories & evidence of cultural & political transformations underway in the era of media proliferation, multinational conglomerates, & cyberspace. The course will pay particular attention to the international flows of media & cultural products & examine their impact on local & national differences.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9451",
+            "course_name": "Global Media Sem: China",
+            "description": "MCC-UE 9451 Global Media Sem: China \nThis course looks at the transformation of China\u2019s media landscape since the 1990s through market reforms and new technology. Topics include the rise of 'commercial' newspapers, magazines and TV stations; animation and new media; the role of advertising, and tensions between political control and demands for greater freedom of expression on the Internet and social media. Students follow latest developments in the Chinese media; field trips and talks by media professionals provide historical, regulatory and social context.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9452",
+            "course_name": "Global Media Seminar: Media Activism and Democracy",
+            "description": "MCC-UE 9452 Global Media Seminar: Media Activism and Democracy \nAddresses current debates about the political role of television in Italy and the historical background to these debates. Focuses on the historical development of public service and commercial broadcasting; political elite's' attitudes towards television; key concepts employed in the Italian media (lottizzazione, pluralismo); the conflict of interest issue; and current and past legal frameworks for the television and media markets. Course will be useful for all those interested in Italian politics and society, as well as all those who are interested in the media in comparative context.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9453",
+            "course_name": "Global Media Seminar: East-Central Europe",
+            "description": "MCC-UE 9453 Global Media Seminar: East-Central Europe \nAcquaints students with European media in general, and with transformationof the Czech media after the Velvet Revolution 1989 in particular. Czech developments will be presented on the background of a wider European perspective in order to make students familiar with the basic features of European print and electronic media. The course will extensively exploit the internet sources related to the topic.",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9454",
+            "course_name": "",
+            "description": "MCC-UE 9454\n\n   Global Media Seminar: Media & Cultural Globalization in France\n\nThis course introduces students to the basic structures and practices of media in Europe and their relationship to everyday social life. It pays special attention to the common models and idioms of media in Europe, with an emphasis on national and regional variations. Specific case studies highlite current rends in the production, distribution, consumption, and regulation of media. Topics may include: national and regional idioms in a range of media genres, from entertainment to advertising and publicity, to news and information; legal norms regarding content and freedom of expression; pirate ...\n\n      more description for MCC-UE 9454 \u00bb\n\n      \n\n\n\nThis course introduces students to the basic structures and practices of media in Europe and their relationship to everyday social life. It pays special attention to the common models and idioms of media in Europe, with an emphasis on national and regional variations. Specific case studies highlite current rends in the production, distribution, consumption, and regulation of media. Topics may include: national and regional idioms in a range of media genres, from entertainment to advertising and publicity, to news and information; legal norms regarding content and freedom of expression; pirate and independent media; and innovations and emerging practices in digital media.\n\n      less description for MCC-UE 9454 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9455",
+            "course_name": "",
+            "description": "MCC-UE 9455\n\n   Global Media Seminar: Latin America\n\nThis course introduces students to the basic structures and practices of media in Europe and their relationship to everyday social life. It pays special attention to the common models and idioms of media in Europe, with an emphasis on national and regional variations. Specific case studies highlite current rends in the production, distribution, consumption, and regulation of media. Topics may include: national and regional idioms in a range of media genres, from entertainment to advertising and publicity, to news and information; legal norms regarding content and freedom of expression; pirate ...\n\n      more description for MCC-UE 9455 \u00bb\n\n      \n\n\n\nThis course introduces students to the basic structures and practices of media in Europe and their relationship to everyday social life. It pays special attention to the common models and idioms of media in Europe, with an emphasis on national and regional variations. Specific case studies highlite current rends in the production, distribution, consumption, and regulation of media. Topics may include: national and regional idioms in a range of media genres, from entertainment to advertising and publicity, to news and information; legal norms regarding content and freedom of expression; pirate and independent media; and innovations and emerging practices in digital media.\n\n      less description for MCC-UE 9455 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9456",
+            "course_name": "Global Media: Sydney, Australia",
+            "description": "MCC-UE 9456 Global Media: Sydney, Australia",
+            "offering": false
+        },
+        {
+            "course_id": "MCC-UE 9993",
+            "course_name": "",
+            "description": "MCC-UE 9993\n\n   Intro to Digital Media: Chinese Cyberculture\n\nThis course provides a general overview of some of the key topics that constitute Chinese cyberculture. We focus specifically on four main areas: censorship and netizens; the companies which dominate the online economy; the history and development of the electronic industry and game culture and Internet addiction. These topics are examined within the context of several overarching themes:  technological determinism, protectionism, the nature of innovation and the increasingly intimate relationship of humans and machines. \nIn addition, this course will guide students through the development of ...\n\n      more description for MCC-UE 9993 \u00bb\n\n      \n\n\n\nThis course provides a general overview of some of the key topics that constitute Chinese cyberculture. We focus specifically on four main areas: censorship and netizens; the companies which dominate the online economy; the history and development of the electronic industry and game culture and Internet addiction. These topics are examined within the context of several overarching themes:  technological determinism, protectionism, the nature of innovation and the increasingly intimate relationship of humans and machines. \nIn addition, this course will guide students through the development of a research project on a related theme of their choosing.\n\n      less description for MCC-UE 9993 \u00ab",
+            "offering": false
+        }
+    ]
+}

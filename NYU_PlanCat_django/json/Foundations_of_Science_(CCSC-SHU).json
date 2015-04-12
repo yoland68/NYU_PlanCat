@@ -1,0 +1,226 @@
+{
+    "major_id": "CCSC-SHU",
+    "file": "./2015-2016/Foundations_of_Science_(CCSC-SHU).html",
+    "courses": [
+        {
+            "course_id": "CCSC-SHU 10",
+            "course_name": "Foundations of Science Lab 1",
+            "description": "CCSC-SHU   10 Foundations of Science Lab 1",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 11",
+            "course_name": "Foundations of Science Lab 2",
+            "description": "CCSC-SHU   11 Foundations of Science Lab 2",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 12",
+            "course_name": "Foundations of Science Lab 3",
+            "description": "CCSC-SHU   12 Foundations of Science Lab 3",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 13",
+            "course_name": "Foundations of Science Lab 4",
+            "description": "CCSC-SHU   13 Foundations of Science Lab 4",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 14",
+            "course_name": "Foundations of Science Lab 5",
+            "description": "CCSC-SHU   14 Foundations of Science Lab 5",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 15",
+            "course_name": "Foundations of Science Lab 6",
+            "description": "CCSC-SHU   15 Foundations of Science Lab 6",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 22",
+            "course_name": "Foundations of Science Chem Lab",
+            "description": "CCSC-SHU   22 Foundations of Science Chem Lab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 51",
+            "course_name": "Physics II",
+            "description": "CCSC-SHU   51 Physics II",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 53",
+            "course_name": "Physics II Lab",
+            "description": "CCSC-SHU   53 Physics II Lab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13374",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Zhang, John",
+                    "time": "Thu 9.45 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17590",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CCSC-SHU  100\n\n   Mathematics for the Sciences\n\nThis course is designed for students who would like to develop a better grounding of the specific mathematical methods used in the basic natural science courses, mainly in physics and chemistry. It is intended for students who would like to strengthen their mathematical skills so that they can better focus on the principles of the basic sciences.  The course will review, as well as teach, how the concepts of  algebra, trigonometry,  vectors, calculus, differential equations, statistics as they are used in the sciences using specific examples from physics,  chemistry, and applications in studie...\n\n      more description for CCSC-SHU  100 \u00bb\n\n      \n\n\n\nThis course is designed for students who would like to develop a better grounding of the specific mathematical methods used in the basic natural science courses, mainly in physics and chemistry. It is intended for students who would like to strengthen their mathematical skills so that they can better focus on the principles of the basic sciences.  The course will review, as well as teach, how the concepts of  algebra, trigonometry,  vectors, calculus, differential equations, statistics as they are used in the sciences using specific examples from physics,  chemistry, and applications in studies of classical mechanics, quantum mechanics, thermodynamics, electrostatics, theory of atoms and molecules, etc. The pre-requisites are basic high school mathematics.\n\n      less description for CCSC-SHU  100 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CCSC-SHU 101",
+            "course_name": "",
+            "description": "CCSC-SHU  101\n\n   Foundations of Science 1 Physics\n\nFoundations of Science 1: Energy and Matter provides a comprehensive introduction to these two fundamental concepts that are so famously unified in the equality E=mc2. Following an introduction to the physical sciences, the course focuses on velocity, acceleration, forces, and energy, while simultaneously introducing students to atoms and molecules. Chemical reactions are examined, and the energy changes associated with them are investigated via a thorough analysis of the three laws of thermodynamics. Laboratory exercises focus on the guiding principles of the scientific method and an introduc...\n\n      more description for CCSC-SHU  101 \u00bb\n\n      \n\n\n\nFoundations of Science 1: Energy and Matter provides a comprehensive introduction to these two fundamental concepts that are so famously unified in the equality E=mc2. Following an introduction to the physical sciences, the course focuses on velocity, acceleration, forces, and energy, while simultaneously introducing students to atoms and molecules. Chemical reactions are examined, and the energy changes associated with them are investigated via a thorough analysis of the three laws of thermodynamics. Laboratory exercises focus on the guiding principles of the scientific method and an introduction to experimental design, data analysis, and scientific presentation, including technical writing Focused disciplinary tutorials in biology, chemistry, and physics provide an opportunity for in-depth analysis and discussion of classic papers, enhanced understanding of fundamental concepts, and development of practical skill sets. Weekly discussion sections are designed to hone proficiency at solving problems in a collaborative, team environment.\n\n      less description for CCSC-SHU  101 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 101",
+            "course_name": "CL Found of Science 1 Physics",
+            "description": "CCSC-SHU  101CL Found of Science 1 Physics",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 102",
+            "course_name": "",
+            "description": "CCSC-SHU  102\n\n   Foundations of Science 1 Chemistry\n\nFoundations of Science 1. \u201cEnergy and Matter;\u201d provides a comprehensive introduction to these two fundamental concepts, which are so famously unified in the equality E=mc2. Following an introduction to the physical sciences, it focuses on velocity, acceleration, forces, and energy, while simultaneously introducing students to atoms and molecules. Chemical reactions are examined, and the energy changes associated with them are investigated via a thorough analysis of the three laws of thermodynamics. Laboratory exercises focus on the guiding principles of the scientific method and an introductio...\n\n      more description for CCSC-SHU  102 \u00bb\n\n      \n\n\n\nFoundations of Science 1. \u201cEnergy and Matter;\u201d provides a comprehensive introduction to these two fundamental concepts, which are so famously unified in the equality E=mc2. Following an introduction to the physical sciences, it focuses on velocity, acceleration, forces, and energy, while simultaneously introducing students to atoms and molecules. Chemical reactions are examined, and the energy changes associated with them are investigated via a thorough analysis of the three laws of thermodynamics. Laboratory exercises focus on the guiding principles of the scientific method and an introduction to experimental design, data analysis, and scientific presentation, including technical writing.\n\n      less description for CCSC-SHU  102 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 102",
+            "course_name": "CL Found of Science 1 Chemistry",
+            "description": "CCSC-SHU  102CL Found of Science 1 Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 103",
+            "course_name": "",
+            "description": "CCSC-SHU  103\n\n   Foundations of Science 2 Physics\n\nFoundations of Science 2, \u201cForces and Interactions,\u201d introduces students to fundamental forces, including gravity and electromagnetic forces. Concurrently, atomic theory, the theory of molecular bonding, and atomic and molecular structures and shapes, in which forces and energy play a role, are investigated. Students apply these concepts to understanding molecules related to the life sciences. Laboratory exercises focus on acquisition of computer skills and modeling with a continued emphasis on technical presentation. Focused disciplinary tutorials in biology, chemistry, and physics provide an...\n\n      more description for CCSC-SHU  103 \u00bb\n\n      \n\n\n\nFoundations of Science 2, \u201cForces and Interactions,\u201d introduces students to fundamental forces, including gravity and electromagnetic forces. Concurrently, atomic theory, the theory of molecular bonding, and atomic and molecular structures and shapes, in which forces and energy play a role, are investigated. Students apply these concepts to understanding molecules related to the life sciences. Laboratory exercises focus on acquisition of computer skills and modeling with a continued emphasis on technical presentation. Focused disciplinary tutorials in biology, chemistry, and physics provide an opportunity for in-depth analysis and discussion of classic papers, enhanced understanding of fundamental concepts, and development of practical skill sets. Weekly discussion sections are designed to hone proficiency at solving problems in a collaborative, team environment.\nCo-requisite: MATH-110\n\n      less description for CCSC-SHU  103 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 103",
+            "course_name": "CL Found of Science 2 Physics",
+            "description": "CCSC-SHU  103CL Found of Science 2 Physics",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 104",
+            "course_name": "",
+            "description": "CCSC-SHU  104\n\n   Foundations of Science 2 Chemistry\n\nFoundations of Science 2, \u201cForces and Interactions,\u201d introduces students to fundamental forces, including gravity and electromagnetic forces. Concurrently, atomic theory, the theory of molecular bonding, and atomic and molecular structures and shapes, in which forces and energy play a role, are investigated. Students apply these concepts to understanding molecules related to the life sciences. Laboratory exercises focus on acquisition of computer skills and modeling with a continued emphasis on technical presentation. Focused disciplinary tutorials in biology, chemistry, and physics provide an...\n\n      more description for CCSC-SHU  104 \u00bb\n\n      \n\n\n\nFoundations of Science 2, \u201cForces and Interactions,\u201d introduces students to fundamental forces, including gravity and electromagnetic forces. Concurrently, atomic theory, the theory of molecular bonding, and atomic and molecular structures and shapes, in which forces and energy play a role, are investigated. Students apply these concepts to understanding molecules related to the life sciences. Laboratory exercises focus on acquisition of computer skills and modeling with a continued emphasis on technical presentation. Focused disciplinary tutorials in biology, chemistry, and physics provide an opportunity for in-depth analysis and discussion of classic papers, enhanced understanding of fundamental concepts, and development of practical skill sets. Weekly discussion sections are designed to hone proficiency at solving problems in a collaborative, team environment.\nCo-requisite: MATH-121\n\n      less description for CCSC-SHU  104 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 104",
+            "course_name": "CL Found of Science 2 Chemistry",
+            "description": "CCSC-SHU  104CL Found of Science 2 Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 105",
+            "course_name": "",
+            "description": "CCSC-SHU  105\n\n   Foundations of Science 3 Physics\n\nFoundations of Science 3, \u201cSystems in Flux,\u201d focuses on changes in systems in the physical and living worlds. Capacitors, current, and basic circuits\u2028are explored with an eye toward understanding their applications to chemical reactions and the behavior of living cells. The rates and directions of chemical reactions are explored as chemical kinetics and chemical equilibrium are investigated with a special focus on acid-base chemistry. These fundamental physical and chemical principles are used to describe basic cellular monomers and polymers including DNA, RNA, and protein, and the sequence of...\n\n      more description for CCSC-SHU  105 \u00bb\n\n      \n\n\n\nFoundations of Science 3, \u201cSystems in Flux,\u201d focuses on changes in systems in the physical and living worlds. Capacitors, current, and basic circuits\u2028are explored with an eye toward understanding their applications to chemical reactions and the behavior of living cells. The rates and directions of chemical reactions are explored as chemical kinetics and chemical equilibrium are investigated with a special focus on acid-base chemistry. These fundamental physical and chemical principles are used to describe basic cellular monomers and polymers including DNA, RNA, and protein, and the sequence of events that leads to information flow and its regulation in the cell nucleus. They are also applied to macroscopic systems found in the biosphere. Laboratory exercises focus on classic scientific experiments that are designed to sharpen basic laboratory skills.\nPrerequisite: CCSC-104; Prerequisite: MATH 121 OR 201\n\n      less description for CCSC-SHU  105 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 106",
+            "course_name": "",
+            "description": "CCSC-SHU  106\n\n   Foundations of Science 3 Chemistry\n\nFoundations of Science 3, \u201cSystems in Flux,\u201d focuses on changes in systems in the physical and living worlds. Capacitors, current, and basic circuits\u2028are explored with an eye toward understanding their applications to chemical reactions and the behavior of living cells. The rates and directions of chemical reactions are explored as chemical kinetics and chemical equilibrium are investigated with a special focus on acid-base chemistry. These fundamental physical and chemical principles are used to describe basic cellular monomers and polymers including DNA, RNA, and protein, and the sequence of...\n\n      more description for CCSC-SHU  106 \u00bb\n\n      \n\n\n\nFoundations of Science 3, \u201cSystems in Flux,\u201d focuses on changes in systems in the physical and living worlds. Capacitors, current, and basic circuits\u2028are explored with an eye toward understanding their applications to chemical reactions and the behavior of living cells. The rates and directions of chemical reactions are explored as chemical kinetics and chemical equilibrium are investigated with a special focus on acid-base chemistry. These fundamental physical and chemical principles are used to describe basic cellular monomers and polymers including DNA, RNA, and protein, and the sequence of events that leads to information flow and its regulation in the cell nucleus. They are also applied to macroscopic systems found in the biosphere. Laboratory exercises focus on classic scientific experiments that are designed to sharpen basic laboratory skills.\nPrerequisite: CCSC-104 AND: MATH 121 OR 201\n\n      less description for CCSC-SHU  106 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 107",
+            "course_name": "",
+            "description": "CCSC-SHU  107\n\n   Foundations of Science 3 Biology\n\nFoundations of Science 3, \u201cSystems in Flux,\u201d focuses on changes in systems in the physical and living worlds. Capacitors, current, and basic circuits\u2028are explored with an eye toward understanding their applications to chemical reactions and the behavior of living cells. The rates and directions of chemical reactions are explored as chemical kinetics and chemical equilibrium are investigated with a special focus on acid-base chemistry. These fundamental physical and chemical principles are used to describe basic cellular monomers and polymers including DNA, RNA, and protein, and the sequence of...\n\n      more description for CCSC-SHU  107 \u00bb\n\n      \n\n\n\nFoundations of Science 3, \u201cSystems in Flux,\u201d focuses on changes in systems in the physical and living worlds. Capacitors, current, and basic circuits\u2028are explored with an eye toward understanding their applications to chemical reactions and the behavior of living cells. The rates and directions of chemical reactions are explored as chemical kinetics and chemical equilibrium are investigated with a special focus on acid-base chemistry. These fundamental physical and chemical principles are used to describe basic cellular monomers and polymers including DNA, RNA, and protein, and the sequence of events that leads to information flow and its regulation in the cell nucleus. They are also applied to macroscopic systems found in the biosphere. Laboratory exercises focus on classic scientific experiments that are designed to sharpen basic laboratory skills.\nPrerequisite: CCSC-104 AND MATH 121 OR 201\n\n      less description for CCSC-SHU  107 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 108",
+            "course_name": "",
+            "description": "CCSC-SHU  108\n\n   Foundations of Science 4 Physics\n\nFoundations of Science 4, \u201cForm and Function,\u201d explores a question applicable to all branches of science: How does the form or shape of a physical entity set its function? This leads to another question: If a specific function is desired, can a form or shape be engineered or modified to execute or improve that function? The course examines the form/function concept in magnetic and electrical fields, the behavior and design of small molecules, and the activity of proteins as the workhorse in biological systems. Laboratory exercises require students to design experiments related to crystals and ...\n\n      more description for CCSC-SHU  108 \u00bb\n\n      \n\n\n\nFoundations of Science 4, \u201cForm and Function,\u201d explores a question applicable to all branches of science: How does the form or shape of a physical entity set its function? This leads to another question: If a specific function is desired, can a form or shape be engineered or modified to execute or improve that function? The course examines the form/function concept in magnetic and electrical fields, the behavior and design of small molecules, and the activity of proteins as the workhorse in biological systems. Laboratory exercises require students to design experiments related to crystals and crystallography, and to examine chemical forms at the macroscopic and microscopic levels. Focused disciplinary tutorials in biology, chemistry, and physics provide an opportunity for in-depth analysis and discussion of classic papers, enhanced understanding of fundamental concepts, and development of practical skill sets. Weekly discussion section are designed to hone proficiency at solving problems in a collaborative, team environment. \nPrerequisite: CCSC-105 AND MATH 121 OR 201\n\n      less description for CCSC-SHU  108 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 109",
+            "course_name": "",
+            "description": "CCSC-SHU  109\n\n   Foundations of Science 4 Chemistry\n\nFoundations of Science 4, \u201cForm and Function,\u201d explores a question applicable to all branches of science: How does the form or shape of a physical entity set its function? This leads to another question: If a specific function is desired, can a form or shape be engineered or modified to execute or improve that function? The course examines the form/function concept in magnetic and electrical fields, the behavior and design of small molecules, and the activity of proteins as the workhorse in biological systems. Laboratory exercises require students to design experiments related to crystals and ...\n\n      more description for CCSC-SHU  109 \u00bb\n\n      \n\n\n\nFoundations of Science 4, \u201cForm and Function,\u201d explores a question applicable to all branches of science: How does the form or shape of a physical entity set its function? This leads to another question: If a specific function is desired, can a form or shape be engineered or modified to execute or improve that function? The course examines the form/function concept in magnetic and electrical fields, the behavior and design of small molecules, and the activity of proteins as the workhorse in biological systems. Laboratory exercises require students to design experiments related to crystals and crystallography, and to examine chemical forms at the macroscopic and microscopic levels. Focused disciplinary tutorials in biology, chemistry, and physics provide an opportunity for in-depth analysis and discussion of classic papers, enhanced understanding of fundamental concepts, and development of practical skill sets. Weekly discussion section are designed to hone proficiency at solving problems in a collaborative, team environment. \nPrerequisite: CCSC-104 AND MATH 121 OR 201\n\n      less description for CCSC-SHU  109 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 110",
+            "course_name": "",
+            "description": "CCSC-SHU  110\n\n   Foundations of Science 4 Biology\n\nFoundations of Science 4, \u201cForm and Function,\u201d explores a question applicable to all branches of science: How does the form or shape of a physical entity set its function? This leads to another question: If a specific function is desired, can a form or shape be engineered or modified to execute or improve that function? The course examines the form/function concept in magnetic and electrical fields, the behavior and design of small molecules, and the activity of proteins as the workhorse in biological systems. Laboratory exercises require students to design experiments related to crystals and ...\n\n      more description for CCSC-SHU  110 \u00bb\n\n      \n\n\n\nFoundations of Science 4, \u201cForm and Function,\u201d explores a question applicable to all branches of science: How does the form or shape of a physical entity set its function? This leads to another question: If a specific function is desired, can a form or shape be engineered or modified to execute or improve that function? The course examines the form/function concept in magnetic and electrical fields, the behavior and design of small molecules, and the activity of proteins as the workhorse in biological systems. Laboratory exercises require students to design experiments related to crystals and crystallography, and to examine chemical forms at the macroscopic and microscopic levels. Focused disciplinary tutorials in biology, chemistry, and physics provide an opportunity for in-depth analysis and discussion of classic papers, enhanced understanding of fundamental concepts, and development of practical skill sets. Weekly discussion section are designed to hone proficiency at solving problems in a collaborative, team environment. \nPrerequisite: CCSC-107 AND MATH 121 OR 201\n\n      less description for CCSC-SHU  110 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 111",
+            "course_name": "",
+            "description": "CCSC-SHU  111\n\n   Foundations of Science 5 Biology\n\nFoundations of Science 5, \u201cPropagating Change,\u201d focuses on disturbances in physical and living systems that bring about change. In physics, disturbances generate waves that are associated with the transmission of light and sound. These same waves generate responses in living organisms as sensory systems detect them, including nerves in some species. Electromagnetic waves, interactions among light, matter, and living systems, and the responses of nerve cells are examined. Changes during the maturation of organisms are explored at the molecular level as well. In addition, evolution is introduced...\n\n      more description for CCSC-SHU  111 \u00bb\n\n      \n\n\n\nFoundations of Science 5, \u201cPropagating Change,\u201d focuses on disturbances in physical and living systems that bring about change. In physics, disturbances generate waves that are associated with the transmission of light and sound. These same waves generate responses in living organisms as sensory systems detect them, including nerves in some species. Electromagnetic waves, interactions among light, matter, and living systems, and the responses of nerve cells are examined. Changes during the maturation of organisms are explored at the molecular level as well. In addition, evolution is introduced as the fundamental means of propagating change that gives rise to new species in the living world. Laboratory exercises fuse physics, chemistry and biology as students engage in projects related to recombinant DNA technology, gene cloning, and protein synthesis and characterization. \nPrerequisite: CCSC-110\n\n      less description for CCSC-SHU  111 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 111",
+            "course_name": "CL Found of Science 5 Biology",
+            "description": "CCSC-SHU  111CL Found of Science 5 Biology",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 112",
+            "course_name": "",
+            "description": "CCSC-SHU  112\n\n   Foundations of Science 5 Physics\n\nFoundations of Science 5, \u201cPropagating Change,\u201d focuses on disturbances in physical and living systems that bring about change. In physics, disturbances generate waves that are associated with the transmission of light and sound. These same waves generate responses in living organisms as sensory systems detect them, including nerves in some species. Electromagnetic waves, interactions among light, matter, and living systems, and the responses of nerve cells are examined. Changes during the maturation of organisms are explored at the molecular level as well. In addition, evolution is introduced...\n\n      more description for CCSC-SHU  112 \u00bb\n\n      \n\n\n\nFoundations of Science 5, \u201cPropagating Change,\u201d focuses on disturbances in physical and living systems that bring about change. In physics, disturbances generate waves that are associated with the transmission of light and sound. These same waves generate responses in living organisms as sensory systems detect them, including nerves in some species. Electromagnetic waves, interactions among light, matter, and living systems, and the responses of nerve cells are examined. Changes during the maturation of organisms are explored at the molecular level as well. In addition, evolution is introduced as the fundamental means of propagating change that gives rise to new species in the living world. Laboratory exercises fuse physics, chemistry and biology as students engage in projects related to recombinant DNA technology, gene cloning, and protein synthesis and characterization. \nPrerequisite: CCSC-110\n\n      less description for CCSC-SHU  112 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 113",
+            "course_name": "",
+            "description": "CCSC-SHU  113\n\n   Foundations of Science 6 Biology\n\nFoundations of Science 6, \u201cOscillations,\u201d examines how repetitious or cyclical events, although presumably predictable, are associated with inherent uncertainty in their outcomes. This is embodied in physics and chemistry in quantum theory and the Heisenberg uncertainty principle. But living systems, especially when populations are studied, provide countless examples of oscillatory events that possess inherent uncertainty when scientists try to predict outcomes. Indeed, this final chapter in Foundations of Science challenges students to consider the very nature of studying complex problems and...\n\n      more description for CCSC-SHU  113 \u00bb\n\n      \n\n\n\nFoundations of Science 6, \u201cOscillations,\u201d examines how repetitious or cyclical events, although presumably predictable, are associated with inherent uncertainty in their outcomes. This is embodied in physics and chemistry in quantum theory and the Heisenberg uncertainty principle. But living systems, especially when populations are studied, provide countless examples of oscillatory events that possess inherent uncertainty when scientists try to predict outcomes. Indeed, this final chapter in Foundations of Science challenges students to consider the very nature of studying complex problems and systems and assessing the uncertainty associated with the scientific method. The laboratory exercises involve collaborative projects in which teams of students must apply their acquired knowledge and skills to design experiments focused on answering a question or solving a problem, keeping uncertainty in mind as they report their results and discuss additional data that would be needed to provide a better answer or solution. \nPrerequisite: CCSC-111\n\n      less description for CCSC-SHU  113 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 113",
+            "course_name": "CL Found of Science 6 Biology",
+            "description": "CCSC-SHU  113CL Found of Science 6 Biology",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 114",
+            "course_name": "",
+            "description": "CCSC-SHU  114\n\n   Foundations of Science 6 Physics\n\nFoundations of Science 6, \u201cOscillations,\u201d examines how repetitious or cyclical events, although presumably predictable, are associated with inherent uncertainty in their outcomes. This is embodied in physics and chemistry in quantum theory and the Heisenberg uncertainty principle. But living systems, especially when populations are studied, provide countless examples of oscillatory events that possess inherent uncertainty when scientists try to predict outcomes. Indeed, this final chapter in Foundations of Science challenges students to consider the very nature of studying complex problems and...\n\n      more description for CCSC-SHU  114 \u00bb\n\n      \n\n\n\nFoundations of Science 6, \u201cOscillations,\u201d examines how repetitious or cyclical events, although presumably predictable, are associated with inherent uncertainty in their outcomes. This is embodied in physics and chemistry in quantum theory and the Heisenberg uncertainty principle. But living systems, especially when populations are studied, provide countless examples of oscillatory events that possess inherent uncertainty when scientists try to predict outcomes. Indeed, this final chapter in Foundations of Science challenges students to consider the very nature of studying complex problems and systems and assessing the uncertainty associated with the scientific method. The laboratory exercises involve collaborative projects in which teams of students must apply their acquired knowledge and skills to design experiments focused on answering a question or solving a problem, keeping uncertainty in mind as they report their results and discuss additional data that would be needed to provide a better answer or solution. \nPrerequisite: CCSC-112\n\n      less description for CCSC-SHU  114 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 120",
+            "course_name": "Foundations of Science Biology  I",
+            "description": "CCSC-SHU  120 Foundations of Science Biology  I",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 123",
+            "course_name": "Foundations of Science Physics II",
+            "description": "CCSC-SHU  123 Foundations of Science Physics II",
+            "offering": false
+        },
+        {
+            "course_id": "CCSC-SHU 126",
+            "course_name": "Foundations of Science Chemistry II",
+            "description": "CCSC-SHU  126 Foundations of Science Chemistry II",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "major_id": "DHYG2-UD",
+    "file": "./2015-2016/Dental_Hygiene_Level_2_(DHYG2-UD).html",
+    "courses": [
+        {
+            "course_id": "DHYG2-UD 4",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10173",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/07/2015 ",
+                    "location": "Westphal Theile, Cheryl",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fall II Evaluation",
+            "description": "DHYG2-UD    4 Fall II Evaluation",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 5",
+            "course_name": "Spring II Evaluation",
+            "description": "DHYG2-UD    5 Spring II Evaluation",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 6",
+            "course_name": "Fall III Evaluation",
+            "description": "DHYG2-UD    6 Fall III Evaluation",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 7",
+            "course_name": "Spring III Evaluation",
+            "description": "DHYG2-UD    7 Spring III Evaluation",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 9",
+            "course_name": "Summer II Evaluation",
+            "description": "DHYG2-UD    9 Summer II Evaluation",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 130",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10151",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/09/2015",
+                    "location": "Hays, Rosemary; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Wed 3.00 PM - 4.50 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10152",
+                    "section": "500",
+                    "period": "08/31/2015 - 12/07/2015",
+                    "location": "Hays, Rosemary; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Mon 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Prin of Dh III Lec",
+            "description": "DHYG2-UD  130 Prin of Dh III Lec",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 131",
+            "classes": [
+                {
+                    "format": "Clinic",
+                    "class_id": "10153",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/07/2015",
+                    "location": "Kirby, Lorilei; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan09/01/2015 - 12/08/2015 Tue 2.00 PM - 4.00 PM09/01/2015 - 12/08/2015 Tue 4.00 PM - 6.00 PM09/04/2015 - 12/11/2015 Fri 8.30 AM - 12.45 PM",
+                    "time": "Mon 8.30 AM - 12.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Clinic",
+                    "class_id": "10154",
+                    "section": "002",
+                    "period": "09/01/2015 - 12/08/2015",
+                    "location": "Kirby, Lorilei; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan09/02/2015 - 12/09/2015 Wed 8.30 AM - 12.45 PM09/03/2015 - 12/10/2015 Thu 2.00 PM - 4.00 PM09/04/2015 - 12/11/2015 Fri 8.30 AM - 12.45 PM",
+                    "time": "Tue 8.30 AM - 12.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Principles of Dh III Clinic",
+            "description": "DHYG2-UD  131 Principles of Dh III Clinic",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 132",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10168",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "Shah, Sonal S; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Thu 9.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "General & Oral Pathology",
+            "description": "DHYG2-UD  132 General & Oral Pathology",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 133",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10176",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/10/2015 ",
+                    "location": "Sefo, Dianne; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Clinical Remediation",
+            "description": "DHYG2-UD  133 Clinical Remediation",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 134",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10155",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/09/2015",
+                    "location": "Weinberg, Mea; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Wed 1.00 PM - 2.50 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10156",
+                    "section": "500",
+                    "period": "09/02/2015 - 12/09/2015",
+                    "location": "Weinberg, Mea; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Wed 5.00 PM - 6.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Pharmacology",
+            "description": "DHYG2-UD  134 Pharmacology",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 135",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10157",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/07/2015",
+                    "location": "Stefanou, Lisa; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Mon 1.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10158",
+                    "section": "500",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "Stefanou, Lisa; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Thu 5.00 PM - 7.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Preventive Dentistry & Public Health",
+            "description": "DHYG2-UD  135 Preventive Dentistry & Public Health",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 136",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10159",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/07/2015",
+                    "location": "Balay, Julia; Lichty, Julia; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan",
+                    "time": "Mon 4.30 PM - 6.20 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Nutrition and Health",
+            "description": "DHYG2-UD  136 Nutrition and Health",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 137",
+            "classes": [
+                {
+                    "format": "Clinic",
+                    "class_id": "10160",
+                    "section": "500",
+                    "period": "09/01/2015 - 12/08/2015",
+                    "location": "Kirby, Lorilei; Depena, Toni; Westphal Theile, Cheryl; Murphy, Megan09/02/2015 - 12/09/2015 Wed 6.00 PM - 8.00 PM",
+                    "time": "Tue 6.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Principles of DH III Clinic 1",
+            "description": "DHYG2-UD  137 Principles of DH III Clinic 1",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 138",
+            "course_name": "Principles of DH III Clinic 2",
+            "description": "DHYG2-UD  138 Principles of DH III Clinic 2",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 139",
+            "classes": [
+                {}
+            ],
+            "course_name": "Board Review",
+            "description": "DHYG2-UD  139 Board Review",
+            "offering": true
+        },
+        {
+            "course_id": "DHYG2-UD 140",
+            "course_name": "Prin of Dh IV Lecture",
+            "description": "DHYG2-UD  140 Prin of Dh IV Lecture",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 141",
+            "course_name": "Principles of Dh IV Clinic",
+            "description": "DHYG2-UD  141 Principles of Dh IV Clinic",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 142",
+            "course_name": "Ethics",
+            "description": "DHYG2-UD  142 Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 143",
+            "course_name": "Oral Health Education",
+            "description": "DHYG2-UD  143 Oral Health Education",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 145",
+            "course_name": "Pain Management",
+            "description": "DHYG2-UD  145 Pain Management",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 146",
+            "course_name": "Local Anesthesia/Nitrous Oxide",
+            "description": "DHYG2-UD  146 Local Anesthesia/Nitrous Oxide",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 147",
+            "course_name": "Principles of Dh IV Clinic",
+            "description": "DHYG2-UD  147 Principles of Dh IV Clinic",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 148",
+            "course_name": "Board Review I & II",
+            "description": "DHYG2-UD  148 Board Review I & II",
+            "offering": false
+        },
+        {
+            "course_id": "DHYG2-UD 149",
+            "classes": [
+                {}
+            ],
+            "course_name": "Clinical Practicum",
+            "description": "DHYG2-UD  149 Clinical Practicum",
+            "offering": true
+        }
+    ]
+}

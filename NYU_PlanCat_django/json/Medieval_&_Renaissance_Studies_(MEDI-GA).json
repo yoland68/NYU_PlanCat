@@ -1,0 +1,86 @@
+{
+    "major_id": "MEDI-GA",
+    "file": "./2015-2016/Medieval_&_Renaissance_Studies_(MEDI-GA).html",
+    "courses": [
+        {
+            "course_id": "MEDI-GA 1100",
+            "course_name": "Proseminar in Medieval & Renaissance Studies",
+            "description": "MEDI-GA 1100 Proseminar in Medieval & Renaissance Studies \nAn introduction to the primary materials, reference works, journals, and research methodologies that pertain to the field of Medieval and Renaissance Studies together with an introduction to its sub-disciplines, including religion, psychology and philosophy, secular art and literature, architecture, historiography, economics and trade, science, translation studies, and the history of the book. The course is team taught.",
+            "offering": false
+        },
+        {
+            "course_id": "MEDI-GA 1115",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "19815",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bedos-Rezak, Brigitte"
+                }
+            ],
+            "course_name": "Historical Anthropology of The Middle Ages",
+            "description": "MEDI-GA 1115 Historical Anthropology of The Middle Ages",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-GA 2000",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "2062",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-5"
+                }
+            ],
+            "course_name": "Medieval & Renaissance Workshop",
+            "description": "MEDI-GA 2000 Medieval & Renaissance Workshop",
+            "offering": true
+        },
+        {
+            "course_id": "MEDI-GA 2100",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2102",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 7.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2370",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "194M 301"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2395",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL 275"
+                }
+            ],
+            "course_name": "Studies in Late Latin and Early Vernaculars:Middle High GermanOld EnglishRenaissance Latin",
+            "description": "MEDI-GA 2100 Studies in Late Latin and Early Vernaculars:Middle High GermanOld EnglishRenaissance Latin",
+            "offering": true
+        }
+    ]
+}

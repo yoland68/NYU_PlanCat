@@ -1,0 +1,78 @@
+{
+    "major_id": "PHED-UE",
+    "file": "./2015-2016/Philosophy_of_Education_(PHED-UE).html",
+    "courses": [
+        {
+            "course_id": "PHED-UE 10",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10359",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL150",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Arcilla, Rene; Pai, Grace"
+                }
+            ],
+            "course_name": "Learning and The Meaning of Life",
+            "description": "PHED-UE   10 Learning and The Meaning of Life \nWhat is the most important thing to which I should be devoting my life? This course explores the existential concerns animating questions like this, ones that inspire our lifelong, liberal learning. It focuses on classic works in Western philosophy, literature, and film and examines them as texts of education. Class meetings will be devoted to a mix of lecture and discussion.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Texts & Ideas",
+            "offering": true
+        },
+        {
+            "course_id": "PHED-UE 1000",
+            "course_name": "Independent Study",
+            "description": "PHED-UE 1000 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "PHED-UE 1003",
+            "course_name": "Intro Philosophy of Ed",
+            "description": "PHED-UE 1003 Intro Philosophy of Ed \nAssumptions and implications of educational theory and practice; teaching and learning, the structure of knowledge, impact of the behavioral sciences; indoctrination and social and political influences on education.  Readings from historical and contemporary sources.  Emphasis on both ethics and epistemology.",
+            "offering": false
+        },
+        {
+            "course_id": "PHED-UE 1013",
+            "course_name": "Death and Dying",
+            "description": "PHED-UE 1013 Death and Dying \nA study of death in cultural and historical perspectives with particular attention to religious meaning and ritual.  The care of those who are dying and rituals of bereavement.  Ethical-religious issues concerning the dying.",
+            "offering": false
+        },
+        {
+            "course_id": "PHED-UE 1016",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11778",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 408",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Fraser, James"
+                }
+            ],
+            "course_name": "",
+            "description": "PHED-UE 1016\n\n   Religion/Public Ed In International Context\n\nThe purpose of this course on religion & public education in an international context is for us to engage together in a critical analysis of what continues to be an important contemporary issue. The seminar is designed especially for students preparing for careers in teaching - in both public & private/religious schools, educational administration, educational research, or other professions which will involve them in the ongoing public debates about the uneasy relationship of religion & public education in the United States & other countries. The course will examine these issues historically &...\n\n      more description for PHED-UE 1016 \u00bb\n\n      \n\n\n\nThe purpose of this course on religion & public education in an international context is for us to engage together in a critical analysis of what continues to be an important contemporary issue. The seminar is designed especially for students preparing for careers in teaching - in both public & private/religious schools, educational administration, educational research, or other professions which will involve them in the ongoing public debates about the uneasy relationship of religion & public education in the United States & other countries. The course will examine these issues historically & in terms of current policy debates & students will be asked to make connections to their own educational practice. \n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Context & Cultures\n\n      less description for PHED-UE 1016 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHED-UE 1031",
+            "course_name": "Critical Study of Educ",
+            "description": "PHED-UE 1031 Critical Study of Educ",
+            "offering": false
+        },
+        {
+            "course_id": "PHED-UE 1050",
+            "course_name": "Ethical Issues Prof Life",
+            "description": "PHED-UE 1050 Ethical Issues Prof Life \nEthical issues in the human service professions.  Historical perspective on the evolution of the professional idea.  Ethical issues inherent to the idea of being professional; examples drawn from education, nursing, health, art, and business.",
+            "offering": false
+        },
+        {
+            "course_id": "PHED-UE 1500",
+            "course_name": "Intro to Environ Ethics",
+            "description": "PHED-UE 1500 Intro to Environ Ethics \nA consideration of the leading philosophical ideas involved in the many ways that people are looking at environmental issues. Attention focuses on the variety of interpretations given to humanity?s relationship to the earth & on questions of knowing & learning, moral conduct, the rights of non human life, & the nature of economic activity these interpretations provide.",
+            "offering": false
+        }
+    ]
+}

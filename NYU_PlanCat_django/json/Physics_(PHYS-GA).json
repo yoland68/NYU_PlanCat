@@ -1,0 +1,650 @@
+{
+    "major_id": "PHYS-GA",
+    "file": "./2015-2016/Physics_(PHYS-GA).html",
+    "courses": [
+        {
+            "course_id": "PHYS-GA 1500",
+            "course_name": "Elect for Scientists I",
+            "description": "PHYS-GA 1500 Elect for Scientists I \nFor students using or constructing electronic instrumentation for research in the biological, physical, and social sciences or in engineering. Included are discrete components, circuit theory, filters, transistors, operational amplifiers, and digital electronics. Students build many circuits, often with integrated circuits, and use standard instruments for analyzing and troubleshooting them.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 1501",
+            "course_name": "Electronics for Scientist II",
+            "description": "PHYS-GA 1501 Electronics for Scientist II \nFor students using or constructing electronic instrumentation for research in the biological, physical, and social sciences or in engineering. Included are discrete components, circuit theoryFor students using or constructing electronic instrumentation for research in the biological, physical, and social sciences or in engineering. Included are discrete components, circuit theory, filters, transistors, operational amplifiers, and digital electronics. Students build many circuits, often with integrated circuits, and use standard instruments for analyzing and troubleshooting them.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2000",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1669",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "MEYR 333"
+                }
+            ],
+            "course_name": "Computational Physics",
+            "description": "PHYS-GA 2000 Computational Physics \nEmphasis is on current research where numerical techniques provide unique physical insight. Applications include, among others, solution of differential equations, eigenvalue problems, statistical mechanics, field theory, and chaos.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1670",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "MEYR 333"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1671",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "MEYR 425B"
+                }
+            ],
+            "course_name": "Dynamics",
+            "description": "PHYS-GA 2001 Dynamics \nClassical mechanics of particles and extended bodies from the Lagrangian and Hamiltonian points of view. Applications to two-body problems, rigid bodies, and small oscillations.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2002",
+            "course_name": "Statistical Physics",
+            "description": "PHYS-GA 2002 Statistical Physics \nIntroduction, with representative applications. Review of thermodynamics; Gibbs ensembles for equilibrium; application to ideal gases, condensed phases of matter, and radiation; fluctuations and noise, kinetic theory.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2003",
+            "course_name": "Mathematical Methods I",
+            "description": "PHYS-GA 2003 Mathematical Methods I \nBasic mathematical methods required for understanding of physics and research in physics. Vector and tensor analysis; linear transformations, matrices, and eigenvectors; complex variables, differential equations; Legendre and Bessel functions; integral equations; Green?s functions; group theory; calculus of variation.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2004",
+            "course_name": "Math Methods II",
+            "description": "PHYS-GA 2004 Math Methods II \nBasic mathematical methods required for understanding of physics and research in physics. Vector and tensor analysis; linear transformations, matrices, and eigenvectors; complex variables, differential equations; Legendre and Bessel functions; integral equations; Green?s functions; group theory; calculus of variation.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2005",
+            "course_name": "Electromagnetism I",
+            "description": "PHYS-GA 2005 Electromagnetism I \nGeneral principles and diverse applications of electromagnetic theory; electrostatics and magnetostatics; boundary value problems; Maxwell?s equations; electromagnetic waves, wave guides, simple radiators, and diffraction; plasma physics and magnetohydrodynamics; special theory of relativity.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2006",
+            "course_name": "Electromagnetism II",
+            "description": "PHYS-GA 2006 Electromagnetism II",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1672",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "MEYR 333"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1673",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 433",
+                    "time": "Mon 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Arabgol, Mohsen"
+                }
+            ],
+            "course_name": "Quantum Mechanics I",
+            "description": "PHYS-GA 2011 Quantum Mechanics I \nGeneral principles and diverse applications of quantum theory; wave equations and general formulation; solution of standard problems; approximation methods, scattering theory, and addition of angular momenta; semiclassical theoGeneral principles and diverse applications of quantum theory; wave equations and general formulation; solution of standard problems; approximation methods, scattering theory, and addition of angular momenta; semiclassical theory of radiation, spin, identical particles; application to atoms, molecules, nuclei, and other bound systems.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2012",
+            "course_name": "Quantum Mechanics II",
+            "description": "PHYS-GA 2012 Quantum Mechanics II \nGeneral principles and diverse applications of quantum theory; wave equations and general formulation; solution of standard problems; approximation methods, scattering theory, and addition of angular momenta; semiclassical theory of radiation, spin, identical particles; application to atoms, molecules, nuclei, and other bound systems.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2013",
+            "course_name": "Adv Quantum Mechanics",
+            "description": "PHYS-GA 2013 Adv Quantum Mechanics \nIntroductory quantum field theory. Topics include quantization of scalar, spinor, and vector fields; perturbation and renormalization theory; Feynman diagrams; and quantum electrodynamics, among others.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2015",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1674",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "MEYR 433"
+                }
+            ],
+            "course_name": "Intro to Solid State Physics",
+            "description": "PHYS-GA 2015 Intro to Solid State Physics \nSurvey of major topics, including descriptions of crystalline lattice, phonons; Drude model; energy bands; semiconductors; dielectrics; ferroelectricity; paramagnetism; superconductivity.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2016",
+            "course_name": "Theory of Solid State Physics",
+            "description": "PHYS-GA 2016 Theory of Solid State Physics \nAdvanced, modern approaches. Topics include X-ray, neutron, and light scattering; M?ssbauer effect; energy bands; magnetic field phenomena; crystal field theory; phase transitions; superconductivity, magnetism; Kondo effect.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2017",
+            "course_name": "Phase Transitions & Crit Phenomena",
+            "description": "PHYS-GA 2017 Phase Transitions & Crit Phenomena \nSurveys the theory of phase transitions and critical phenomena: phenomenology and experimental status; Ising and related models; phase diagrams; universality and scaling; expansion methods; exactly soluble models; mean-field theory; perturbation theory; introduction to renormalization group.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2020",
+            "course_name": "Complex Fluids",
+            "description": "PHYS-GA 2020 Complex Fluids \nNature and industry abound with fluids containing polyatomic structures such as polymer molecules and colloidal particles. Such structured fluids differ substantially from so-called simple fluids, and their extraordinarily rich and varied properties often run counter to intuition. This course presents the major categories of complex fluids, explaining both their microscopic structure and also the physical principles by which microstructure gives rise to macroscopic properties.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2022",
+            "course_name": "Biophysics",
+            "description": "PHYS-GA 2022 Biophysics \nThis course focuses on the fundamental physical processes exploited by living organisms in the process of living. In particular, it introduces and develops elements of equilibrium and nonequilibrium statistical mechanics to explain how the molecular-scale components of cells store and process information, how they organize themselves into functional structures, and how these structures cooperatively endow cells with the ability to eat, move, respond to their environment, communicate, and reproduce.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2023",
+            "course_name": "Spec Tpcs Solid State Phys",
+            "description": "PHYS-GA 2023 Spec Tpcs Solid State Phys \nSelection of advanced topics of current research interest in the area of condensed matter physics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2024",
+            "course_name": "Spec Tpcs Solid State Phys",
+            "description": "PHYS-GA 2024 Spec Tpcs Solid State Phys \nSelection of advanced topics of current research interest in the area of condensed matter physics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2025",
+            "course_name": "Intro to Nuclear & Particle Physics",
+            "description": "PHYS-GA 2025 Intro to Nuclear & Particle Physics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2026",
+            "course_name": "Nuclear and Particle Phys",
+            "description": "PHYS-GA 2026 Nuclear and Particle Phys",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2027",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2004",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "MEYR 433"
+                }
+            ],
+            "course_name": "Particle Physics",
+            "description": "PHYS-GA 2027 Particle Physics \nExperimental evidence on elementary particles and their interactions. Phenomenological models, electrons and photon-hadron interactions, weak decays and neutrino interactions, hadronic interactions.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2033",
+            "course_name": "Spec Tpcs Particle Physc",
+            "description": "PHYS-GA 2033 Spec Tpcs Particle Physc \nAdvanced topics in particle physics, including the field-theoretical description of elementary particles and their interactions.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2034",
+            "course_name": "Spec Tpcs Particle Phys:",
+            "description": "PHYS-GA 2034 Spec Tpcs Particle Phys: \nAdvanced topics in particle physics, including the field-theoretical description of elementary particles and their interactions.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2035",
+            "course_name": "Intro to Atomic Physics",
+            "description": "PHYS-GA 2035 Intro to Atomic Physics \nTheory and experiments in atomic structure and processes. Structure of one- and many-electron atoms; theory of angular momentum; Raca algebra; radiation theory; interactions with external fields; collisions.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2036",
+            "course_name": "Atomic Physics",
+            "description": "PHYS-GA 2036 Atomic Physics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2041",
+            "course_name": "Laser Physics",
+            "description": "PHYS-GA 2041 Laser Physics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2042",
+            "course_name": "Physical Optics",
+            "description": "PHYS-GA 2042 Physical Optics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2043",
+            "course_name": "Spc Tpcs Atomic Physics",
+            "description": "PHYS-GA 2043 Spc Tpcs Atomic Physics \nAdvanced topics in atomic physics and closely related areas.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2044",
+            "course_name": "Spc Tpcs Atomic Physics",
+            "description": "PHYS-GA 2044 Spc Tpcs Atomic Physics \nAdvanced topics in atomic physics and closely related areas.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2045",
+            "course_name": "Intro to Astrophysics",
+            "description": "PHYS-GA 2045 Intro to Astrophysics \nIntroduces astrophysics, concentrating on the basic physical ideas concerning the structure and evolution of the stars, galaxies, and the universe at large. Emphasizes results of current research.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2046",
+            "course_name": "Astrophysics",
+            "description": "PHYS-GA 2046 Astrophysics \nTopics may include interstellar molecules; physical processes in the interstellar medium; galactic structure; quasars; elementary particles and cosmology; physics of black holes.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2050",
+            "course_name": "High Energy Astrophysics",
+            "description": "PHYS-GA 2050 High Energy Astrophysics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2051",
+            "course_name": "Extragalatic Astrophysics",
+            "description": "PHYS-GA 2051 Extragalatic Astrophysics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2052",
+            "course_name": "Cosmology",
+            "description": "PHYS-GA 2052 Cosmology",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2053",
+            "course_name": "Spc Tops in Astrophysics",
+            "description": "PHYS-GA 2053 Spc Tops in Astrophysics \nAdvanced topics in astrophysics and related areas.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2054",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17356",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "MEYR 433"
+                }
+            ],
+            "course_name": "Spc Tpcs in AstrophysicsStars",
+            "description": "PHYS-GA 2054 Spc Tpcs in AstrophysicsStars \nAdvanced topics in astrophysics and related areas.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2055",
+            "course_name": "Stat Mech & Many Body Problems",
+            "description": "PHYS-GA 2055 Stat Mech & Many Body Problems \nDevelopment of statistical mechanics and methods for solving the many-body problem in the context of applications; equilibrium and near-equilibrium properties of normal fermion systems, superfluids, and phase transitions.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2056",
+            "course_name": "Theory of Scattering",
+            "description": "PHYS-GA 2056 Theory of Scattering",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2057",
+            "course_name": "Group Theory",
+            "description": "PHYS-GA 2057 Group Theory \nDiscrete and continuous groups: their structure, representations, and associated algebras; Poincar? and internal symmetry groups; applications to atomic, nuclear, solid-state, and elementary particle physics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2058",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1675",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "MEYR 433"
+                }
+            ],
+            "course_name": "Quantum Field Theory I",
+            "description": "PHYS-GA 2058 Quantum Field Theory I \nQFT I focuses on the basics of quantum field theory. It starts with the quantization of free spin-0, spin-1/2, and spin-1 fields, and basics of space-time symmetries. It continues with detailed discussion of relativistic perturbation theory, Feynman diagrams, and applications to scattering processes in quantum electrodynamics.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2059",
+            "course_name": "Spec Topics:",
+            "description": "PHYS-GA 2059 Spec Topics: \nAdvanced topics in many-body theory and statistical mechanics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2060",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17357",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "MEYR 433"
+                }
+            ],
+            "course_name": "General Relativity",
+            "description": "PHYS-GA 2060 General Relativity \nTensor-spinor calculus, special and general theories, unified field theory, applications to relativistic physics and cosmology.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2061",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17358",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "MEYR 425B"
+                }
+            ],
+            "course_name": "Special Topics:Non-Equilibrium Statistical Physics",
+            "description": "PHYS-GA 2061 Special Topics:Non-Equilibrium Statistical Physics \nAdvanced topics in mathematical physics.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2063",
+            "course_name": "Spc Tpcs in Theor Phys",
+            "description": "PHYS-GA 2063 Spc Tpcs in Theor Phys \nAdvanced topics in theoretical physics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2065",
+            "course_name": "Plasma Physics",
+            "description": "PHYS-GA 2065 Plasma Physics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2066",
+            "course_name": "Plasma Physics",
+            "description": "PHYS-GA 2066 Plasma Physics",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2072",
+            "course_name": "Nonlinear Dynam & Chaos",
+            "description": "PHYS-GA 2072 Nonlinear Dynam & Chaos \nChaotic nonlinear dynamical systems from the point of view of the physicist. Examines two routes to chaos, period doubling, and quasiperiodicity, using numerical and analytical techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2075",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "17359",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.45 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "MEYR 325"
+                }
+            ],
+            "course_name": "Experimental Physics",
+            "description": "PHYS-GA 2075 Experimental Physics \nExperiments of historical and current interest conducted by the student. Methodology statistics, signal-to-noise ratio, and the significance of precision in measurement.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2077",
+            "course_name": "Quantum Field Theory II",
+            "description": "PHYS-GA 2077 Quantum Field Theory II \nQFT II focuses on detailed description of non-Abelian gauge theories and their applications to quantum chromodynamics and the Standard Model of electroweak interactions. It covers topics such as the BRST quantization, spontaneous symmetry breaking, Higgs mechanism, and CP violation.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2078",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1676",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "MEYR 433"
+                }
+            ],
+            "course_name": "Quantum Field Theory III",
+            "description": "PHYS-GA 2078 Quantum Field Theory III \nQFT III covers topics such as anomalies, solitons and instantons, lattice gauge theories, and finite temperature field theories. The course starts with detailed discussions of anomalies in various field theoretic models. It covers at great length nonperturbative techniques used to study solitons and instantons. The course also gives a description of gauge theories on a lattice, their applications to strong interactions, as well as field theories at finite temperature and their uses in particle physics and cosmology.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2079",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17360",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "MEYR 425B"
+                }
+            ],
+            "course_name": "",
+            "description": "PHYS-GA 2079\n\n   Intro to String Theory\n\nFirst-quantized free-particle and random paths, the Nambu-Goto and Polyakov strings, Veneziano amplitudes. The classical bosonic string: old covariant approach, the no-ghost theorem and the existence of a critical dimensionality of space-time, gauge invariances. Light-cone formalism, the Hagedorn temperature. Modern covariant quantization, ghosts, and the BSRT symmetry. Global properties of string theory, multiloop diagrams and the moduli space, strings on curved backgrounds. The fermionic string: classical theory and world-sheet supersymmetry, the GSO projection, spectrum and space-time super...\n\n      more description for PHYS-GA 2079 \u00bb\n\n      \n\n\n\nFirst-quantized free-particle and random paths, the Nambu-Goto and Polyakov strings, Veneziano amplitudes. The classical bosonic string: old covariant approach, the no-ghost theorem and the existence of a critical dimensionality of space-time, gauge invariances. Light-cone formalism, the Hagedorn temperature. Modern covariant quantization, ghosts, and the BSRT symmetry. Global properties of string theory, multiloop diagrams and the moduli space, strings on curved backgrounds. The fermionic string: classical theory and world-sheet supersymmetry, the GSO projection, spectrum and space-time supersymmetry. Non-Abelian gauge symmetries in open strings. The heterotic string, compactifications on tori. Tree-level amplitudes in the fermionic and heterotic strings.\n\n      less description for PHYS-GA 2079 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2080",
+            "course_name": "",
+            "description": "PHYS-GA 2080\n\n   Advance Topics in String Theory\n\nLoop diagrams: the partition function of bosonic, fermionic, and heterotic strings. The a?0 limit: low-energy effective Lagrangians for the light modes, Calabi-Yau compactifications, N=1 supersymmetry and supersymmetry breaking. Extended space-time supersymmetry and the constraints on effective Lagrangians of the heterotic and closed superstrings. Conformal and superconformal invariance in two dimensions, the classification of minimal conformal theories. General classification of superstring compactifications. Cosmological solutions, 2-d black holes, the Liouville noncritical string. Fixed-t s...\n\n      more description for PHYS-GA 2080 \u00bb\n\n      \n\n\n\nLoop diagrams: the partition function of bosonic, fermionic, and heterotic strings. The a?0 limit: low-energy effective Lagrangians for the light modes, Calabi-Yau compactifications, N=1 supersymmetry and supersymmetry breaking. Extended space-time supersymmetry and the constraints on effective Lagrangians of the heterotic and closed superstrings. Conformal and superconformal invariance in two dimensions, the classification of minimal conformal theories. General classification of superstring compactifications. Cosmological solutions, 2-d black holes, the Liouville noncritical string. Fixed-t scattering at high energies, all-loop resummations. Random surfaces and 2-d Einstein gravity, topological field theory.\n\n      less description for PHYS-GA 2080 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2081",
+            "course_name": "Spec Tpcs in Appl Math",
+            "description": "PHYS-GA 2081 Spec Tpcs in Appl Math",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2082",
+            "course_name": "Geophysical Fluid Dyn I",
+            "description": "PHYS-GA 2082 Geophysical Fluid Dyn I",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2083",
+            "course_name": "Geophysical Fluid Dyn II",
+            "description": "PHYS-GA 2083 Geophysical Fluid Dyn II",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2090",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1677",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "MEYR 333"
+                }
+            ],
+            "course_name": "",
+            "description": "PHYS-GA 2090\n\n   Practicum in Teaching Physics\n\nCourse designed to develop and enhance teaching skills of graduate students, with specific reference to the basic undergraduate courses in physics. Presentations by the students form the core of the course. Sessions are videotaped. Emphasis is on clarity of presentation and organization of recitation and laboratory materials. Topics include preparations for problem-solving sessions, encouragement of class participation and responses, and techniques for gauging student involvement. Specific content issues arising in elementary mechanics and electromagnetism are addressed. Use of texts, articles...\n\n      more description for PHYS-GA 2090 \u00bb\n\n      \n\n\n\nCourse designed to develop and enhance teaching skills of graduate students, with specific reference to the basic undergraduate courses in physics. Presentations by the students form the core of the course. Sessions are videotaped. Emphasis is on clarity of presentation and organization of recitation and laboratory materials. Topics include preparations for problem-solving sessions, encouragement of class participation and responses, and techniques for gauging student involvement. Specific content issues arising in elementary mechanics and electromagnetism are addressed. Use of texts, articles, and specially prepared sample materials.\n\n      less description for PHYS-GA 2090 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2091",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1678",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Experimental Physics Rsc",
+            "description": "PHYS-GA 2091 Experimental Physics Rsc",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2092",
+            "course_name": "Experimental Physics Rsc",
+            "description": "PHYS-GA 2092 Experimental Physics Rsc",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2093",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1679",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Theoretical Physics Rsch",
+            "description": "PHYS-GA 2093 Theoretical Physics Rsch",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2094",
+            "course_name": "Theoretical Physics Rsch",
+            "description": "PHYS-GA 2094 Theoretical Physics Rsch",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 2095",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1680",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Reading",
+            "description": "PHYS-GA 2095 Research Reading",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-GA 2096",
+            "course_name": "Research Reading",
+            "description": "PHYS-GA 2096 Research Reading",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3301",
+            "course_name": "Experimental Research",
+            "description": "PHYS-GA 3301 Experimental Research",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3302",
+            "course_name": "Experimental Research",
+            "description": "PHYS-GA 3302 Experimental Research",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3303",
+            "course_name": "Theoretical Research",
+            "description": "PHYS-GA 3303 Theoretical Research",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3304",
+            "course_name": "Theoretical Research",
+            "description": "PHYS-GA 3304 Theoretical Research",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3305",
+            "course_name": "Reading",
+            "description": "PHYS-GA 3305 Reading",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3306",
+            "course_name": "Reading",
+            "description": "PHYS-GA 3306 Reading",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-GA 3307",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2115",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Practical Training in Physics",
+            "description": "PHYS-GA 3307 Practical Training in Physics",
+            "offering": true
+        }
+    ]
+}

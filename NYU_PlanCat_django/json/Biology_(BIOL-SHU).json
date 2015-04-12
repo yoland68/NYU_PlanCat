@@ -1,0 +1,138 @@
+{
+    "major_id": "BIOL-SHU",
+    "file": "./2015-2016/Biology_(BIOL-SHU).html",
+    "courses": [
+        {
+            "course_id": "BIOL-SHU 21",
+            "course_name": "Molecular and Cellular Biology",
+            "description": "BIOL-SHU   21 Molecular and Cellular Biology",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 21",
+            "course_name": "Foundations of Biology I",
+            "description": "BIOL-SHU   21 Foundations of Biology I",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 22",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17424",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17422",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17423",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Foundations of Biology II",
+            "description": "BIOL-SHU   22 Foundations of Biology II",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-SHU 26",
+            "course_name": "",
+            "description": "BIOL-SHU   26\n\n   Developmental Biology\n\nMulticellular organisms undergo a series of complex temporal and spatial changes in gene expression following fertilization, which results in the highly organized, coordinated cell divisions needed for growth and development. This course introduces students to the principles and experimental strategies of developmental biology. It covers the cellular and molecular basis for patterning in the embryo; the determination of cell fate; cell differentiation; the genes controlling these events; how the genes are identified and studied; and the cellular proteins that effect shape, movement, and signal...\n\n      more description for BIOL-SHU   26 \u00bb\n\n      \n\n\n\nMulticellular organisms undergo a series of complex temporal and spatial changes in gene expression following fertilization, which results in the highly organized, coordinated cell divisions needed for growth and development. This course introduces students to the principles and experimental strategies of developmental biology. It covers the cellular and molecular basis for patterning in the embryo; the determination of cell fate; cell differentiation; the genes controlling these events; how the genes are identified and studied; and the cellular proteins that effect shape, movement, and signaling among cells. Prerequisite BIOL-250\n\n      less description for BIOL-SHU   26 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 30",
+            "course_name": "",
+            "description": "BIOL-SHU   30\n\n   Genetics\n\nWhy do offspring often exhibit physical features of their parents? Why do combinations of certain features in offspring translate into specific characteristics that either enhance or diminish the organism\u2019s fitness? Answers to questions such as these fall partly within the discipline of genetics, which is the study of heredity. Principles from the Foundations of Science curriculum and Organismal Biology provide a framework for learning about classical genetics, chromosome structure and mutation, gene function and regulation, and aspects of molecular and developmental genetics. Recent studies i...\n\n      more description for BIOL-SHU   30 \u00bb\n\n      \n\n\n\nWhy do offspring often exhibit physical features of their parents? Why do combinations of certain features in offspring translate into specific characteristics that either enhance or diminish the organism\u2019s fitness? Answers to questions such as these fall partly within the discipline of genetics, which is the study of heredity. Principles from the Foundations of Science curriculum and Organismal Biology provide a framework for learning about classical genetics, chromosome structure and mutation, gene function and regulation, and aspects of molecular and developmental genetics. Recent studies in human genetics and their applications, particularly to health-related issues, are also investigated. Prerequisite BIOL-250\n\n      less description for BIOL-SHU   30 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 37",
+            "course_name": "Applied Cell Biology",
+            "description": "BIOL-SHU   37 Applied Cell Biology \nUnderstanding the fundamental methods for growing and studying cells\u2014the smallest units of life\u2014is basic to biology. This course introduces students to the methods used to study cell structure and function. In the laboratory, students study the fundamentals of cell biology and the experimental approaches used to examine the cell. Topics cover cellular, subcellular, and macromolecule localization; biochemical analysis of the cell; and cell culture techniques. Accurate record-keeping, reports, and presentations are emphasized.  Prerequisite SCIE-114",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 42",
+            "course_name": "Biostatistics",
+            "description": "BIOL-SHU   42 Biostatistics \nThe ability to organize and analyze biological and behavioral science data is an essential research tool. This course provides an introduction to the use of statistical methods for analyzing this data. It introduces methods for describing and displaying data, the role and use of probability in describing and understanding living systems, hypotheses testing, and how to design experiments. Biological and behavioral science data and R\u2014a free, open-source statistical software package\u2014are used to gain proficiency with these tools.  Co-requisite BIOL-266.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 44",
+            "course_name": "Microbiology and Microbial Genomics",
+            "description": "BIOL-SHU   44 Microbiology and Microbial Genomics \nA comprehensive description of microbes, the most abundant and diverse organisms on the planet. Organized into four modules: the microbial cell, microbial genomics, microbial development and adaptation, and microbial interactions with the host and the environment. Through lectures and critical analysis of primary literature, students are led to realize how the advent of genomics has revolutionized microbiology, a scientific discipline that is more than a century old. Prerequisite BIOL-250",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 50",
+            "course_name": "Immunology",
+            "description": "BIOL-SHU   50 Immunology \nIntroduction to immunology, with attention to the genetics, molecular, and cell biology of antibody production; T-cell mediated immune responses; and innate immunity. Topics include the nature of antigens, hypersensitivities, transplantation, cytokines, autoimmunity, cancer, response to infection, and vaccines. Prerequisite BIOL-250",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 58",
+            "course_name": "",
+            "description": "BIOL-SHU   58\n\n   Evolution\n\nEvolution encompasses the patterns and mechanisms that explain the diversity of organisms we observe today and during the millions of years of the geological record. Evidence is reviewed that demonstrates the common ancestry of all living things, including humans, and the mechanisms, such as natural selection, that are required and sufficient to explain this pattern of ancestry, diversification, adaptation, speciation, and biogeographic distribution. The course also uses computer and mathematical modeling to explore the fundamentals of population genetics, molecular evolution, phylogenetic sys...\n\n      more description for BIOL-SHU   58 \u00bb\n\n      \n\n\n\nEvolution encompasses the patterns and mechanisms that explain the diversity of organisms we observe today and during the millions of years of the geological record. Evidence is reviewed that demonstrates the common ancestry of all living things, including humans, and the mechanisms, such as natural selection, that are required and sufficient to explain this pattern of ancestry, diversification, adaptation, speciation, and biogeographic distribution. The course also uses computer and mathematical modeling to explore the fundamentals of population genetics, molecular evolution, phylogenetic systematics, and the evolution of developmental systems. Prerequisite CCSC-SHU 109\n\n      less description for BIOL-SHU   58 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 123",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "17415",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Li, Wenshu",
+                    "time": "Wed 1.15 PM - 5.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "17416",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Li, Wenshu",
+                    "time": "Thu 1.15 PM - 5.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "BIOL-SHU  123\n\n   Fos Biology Laboratory\n\nThe course will teach students the skills needed in molecular biology research such as the hand-on techniques of microscopy, transformation, gene expression, PCR, gel electrophoresis, SDS-PAGE, and chromatography. The students will first learn these basic biological techniques in short experiment sets in FoS 5 lab and then apply them as part of a Genetically-Modified Food project in FoS 6 lab. The lab course will also emphasize literature search, scientific writing, peer reviewing, lab notes taking, poster and power point presentations, data analysis, and best practices in lab safety.\nFoS 5&6 ...\n\n      more description for BIOL-SHU  123 \u00bb\n\n      \n\n\n\nThe course will teach students the skills needed in molecular biology research such as the hand-on techniques of microscopy, transformation, gene expression, PCR, gel electrophoresis, SDS-PAGE, and chromatography. The students will first learn these basic biological techniques in short experiment sets in FoS 5 lab and then apply them as part of a Genetically-Modified Food project in FoS 6 lab. The lab course will also emphasize literature search, scientific writing, peer reviewing, lab notes taking, poster and power point presentations, data analysis, and best practices in lab safety.\nFoS 5&6 labs are regarded as an extension to what the course lectures teach rather than a direct linear relationship whereby a lecture is directly applied in the lab. The pre-labs that are given as lectures before the actual lab begins span a weekly 30-45 min and explain the principles behind the techniques that the students will apply that lab. Students are required to study the lab procedure in advance and be prepared for a quiz and discussion of the material.\n\nLearning Outcomes:\nThis course aims at teaching students how to think like a true researcher as well as apply the key molecular biology techniques.\nDuring this course, students will be expected to: gain an understanding of the basics of molecular biology techniques and be able to apply these techniques in the lab;\nacquire the habits of a good scientist including accuracy, cleanliness, orderliness, safety, honesty, teamwork, curiosity, good time management, and self-reliance\ndevelop the ability to convey scientific information; this includes keeping good records with in a lab notebook, writing a satisfactory report, and oral communication;\ndraw conclusions from observed facts and support these conclusions with peer-reviewed literature.\n\n      less description for BIOL-SHU  123 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-SHU 261",
+            "course_name": "",
+            "description": "BIOL-SHU  261\n\n   Genomics and Bioinformatics\n\nFueled by recent advances in technical approaches to data collection and analysis, the biological sciences have entered a new era in which vast amounts of genome-scale sequence and functional data are becoming available for a large number of species. These data are allowing scientists to explore biological function on an unprecedented scale. Familiarity with the fields of genomics and bioinformatics, which impact society on all levels, is vital for the next generation of scientists. This survey course introduces students to a broad range of topics in the fields of genomics and bioinformatics t...\n\n      more description for BIOL-SHU  261 \u00bb\n\n      \n\n\n\nFueled by recent advances in technical approaches to data collection and analysis, the biological sciences have entered a new era in which vast amounts of genome-scale sequence and functional data are becoming available for a large number of species. These data are allowing scientists to explore biological function on an unprecedented scale. Familiarity with the fields of genomics and bioinformatics, which impact society on all levels, is vital for the next generation of scientists. This survey course introduces students to a broad range of topics in the fields of genomics and bioinformatics through lectures and hands-on exercises that use fundamental principles of chemistry, computer science, mathematics, and physics to understand organismal diversity through analyses of genomes. Prerequisite BIOL-250\n\n      less description for BIOL-SHU  261 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-SHU 1128",
+            "course_name": "Systems Biology",
+            "description": "BIOL-SHU 1128 Systems Biology \nThis course focuses on methods to integrate the diverse data of complex networks and pathways developed from genomics, proteomics, and metabolomics and to understand how they work together forming a system with definable phenotypes. Global approaches as well as mathematical and statistical modeling to data collection and analyses are performed. Prerequisites BIOL-250 and 261",
+            "offering": false
+        }
+    ]
+}

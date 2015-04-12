@@ -1,0 +1,30 @@
+{
+    "major_id": "SCMTH-UE",
+    "file": "./2015-2016/Science_&_Mathematics_Education(SCMTH-UE).html",
+    "courses": [
+        {
+            "course_id": "SCMTH-UE 1002",
+            "course_name": "Appl of Microcomputers to Math and SCI Instruct",
+            "description": "SCMTH-UE 1002 Appl of Microcomputers to Math and SCI Instruct \nA study of microcomputer application techniques for teaching science and mathematics. Analysis and application of existing computer programs and techniques to science and mathematics instruction. Field trips and experiences are available.",
+            "offering": false
+        },
+        {
+            "course_id": "SCMTH-UE 1004",
+            "course_name": "Intro Logo:Instr Applic",
+            "description": "SCMTH-UE 1004 Intro Logo:Instr Applic",
+            "offering": false
+        },
+        {
+            "course_id": "SCMTH-UE 1006",
+            "course_name": "Interm Logo Theory/Appl",
+            "description": "SCMTH-UE 1006 Interm Logo Theory/Appl",
+            "offering": false
+        },
+        {
+            "course_id": "SCMTH-UE 1008",
+            "course_name": "Applic of Authoring Lang to Math/SCI Instruct",
+            "description": "SCMTH-UE 1008 Applic of Authoring Lang to Math/SCI Instruct",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,567 @@
+{
+    "major_id": "MPAME-UE",
+    "file": "./2015-2016/Music_Education_(MPAME-UE).html",
+    "courses": [
+        {
+            "course_id": "MPAME-UE 25",
+            "course_name": "Woodwind Practicum",
+            "description": "MPAME-UE   25 Woodwind Practicum \nAn ensemble approach to teaching and learning woodwind instruments. Each student will have experience with at least three different wood instruments.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 26",
+            "course_name": "Strng Practicum",
+            "description": "MPAME-UE   26 Strng Practicum \nAn ensemble approach to teaching and learning string instruments. Each student will have experience with three to four different string instruments.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 28",
+            "course_name": "Vocal & Choral Conductg Practicum",
+            "description": "MPAME-UE   28 Vocal & Choral Conductg Practicum \nIntroduction to vocal/choral materials with emphasis on the developing voice and rehearsal and performance techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 65",
+            "course_name": "Elements of Conducting",
+            "description": "MPAME-UE   65 Elements of Conducting \nBasic principles of conducting, patterns, cueing, score preparation, score reading, rehearsal and performance techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 83",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10689",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Breaux, Michael09/02/2015 - 12/15/2015 Wed 12.40 PM - 1.40 PM with Breaux, Michael",
+                    "time": "Mon 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Concert Band",
+            "description": "MPAME-UE   83 Concert Band \nThis repertory ensemble will perform varied literature from the Symphonic Band and Wind Ensemble genres. The NYU Concert Band will perform traditional as well as contemporary works and will seek top be active in commissioning new works for the band. Membership is open to any student at NYU by audition.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 92",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "11124",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Ira; Shankman, Nancy",
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Collegium and Program Seminar",
+            "description": "MPAME-UE   92 Collegium and Program Seminar \nAll undergraduate music majors meet in Collegium six times each semester to discuss broad issues of the music profession, career opportunities, and department matters.  During the remaining weeks students meet with members of their major program for visits with specialists in their field and for programmatic discussions.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 105",
+            "course_name": "Strategic Music and Branding",
+            "description": "MPAME-UE  105 Strategic Music and Branding \nApplications of new technologies for teaching and learning, including video, digital audio, MIDI, computer notations and score preparation, interactive CAI, internet, web publishing, and portfolio development.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 125",
+            "course_name": "Brass Practicum",
+            "description": "MPAME-UE  125 Brass Practicum \nAn ensemble approach to teaching and learning brass instruments. Each student will experience with at least three different brass instruments.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 192",
+            "classes": [
+                {}
+            ],
+            "course_name": "Lab:Field Observations",
+            "description": "MPAME-UE  192 Lab:Field Observations \nNo Course Description Available",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "11534",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Gilbert, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "11777",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ruthmann, Stephen A",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MPAME-UE 1000 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1027",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10776",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "De Leo, Joseph",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Tchg Music in Jr & Sr Hs",
+            "description": "MPAME-UE 1027 Tchg Music in Jr & Sr Hs \nMusic in the general curriculum.  Developing an understanding and perception of the process of musical thought applicable to youth.  Students observe in selected schools.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1029",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11451",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Ruthmann, Stephen A",
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Foundations of Music Education",
+            "description": "MPAME-UE 1029 Foundations of Music Education \nIntroduction to music education as a profession, exploring the issues and relevant literature that inform and challenge music educators in the context of a diverse and changing culture.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1031",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10777",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Nancy",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Creative Performance Opport in Music Ed",
+            "description": "MPAME-UE 1031 Creative Performance Opport in Music Ed \nStudents serve as a production team that will create, rehearse, produce, and perform a culminating musical presentation at local venues. Such site may be schools, Senior Citizens Homes, Health Care Facilities, Community Centers. Students will assume the roles played by all personnel involved in putting on a performance, as well as becoming familiar with repertoire *music, lyrics, and dialogue) suited to the abilities of the performers.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1048",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10787",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Harris, Esther",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Teaching of Music in The Elementary Grades",
+            "description": "MPAME-UE 1048 Teaching of Music in The Elementary Grades \nIntegrated music and movement experiences in the development of elementary curricula for cognitive-affective growth.  Means and materials, published and self-devised.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1054",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11697",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Breaux, Michael",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Instrumental Materials Techniques in Music Educ",
+            "description": "MPAME-UE 1054 Instrumental Materials Techniques in Music Educ \nInstrumental materials and techniques suited to all levels of music instruction. Particular emphasis on assessment practices, diagnosis of instrumental problems, group methods, and individualized instruction including computer assisted technology.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1080",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11119",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Sung, Yuma",
+                    "time": "Mon 7.30 PM - 9.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "NYU Chamber Ensembles",
+            "description": "MPAME-UE 1080 NYU Chamber Ensembles \nStudy and performance of chamber music.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1083",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10872",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Breaux, Michael09/02/2015 - 12/15/2015 Wed 12.40 PM - 1.40 PM with Breaux, Michael",
+                    "time": "Mon 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Concert Band",
+            "description": "MPAME-UE 1083 Concert Band \nThis repertory ensemble will perform varied literature from the Symphonic Band and Wind Ensemble genres. The NYU Concert Band will perform traditional as well as contemporary works and will seek top be active in commissioning new works for the band. Membership is open to any student at NYU by audition.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1085",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10873",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Ira; Marwah, Deepak",
+                    "time": "Wed 7.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10874",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Figaro, Stanley",
+                    "time": "Thu 7.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10875",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Wright, Chantel; Shankman, Ira",
+                    "time": "Tue 7.00 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10876",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Ira",
+                    "time": "Mon,Thu 6.45 PM - 8.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "10877",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Nancy; Shankman, Ira",
+                    "time": "Mon 6.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11038",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Atorino, John; Shankman, Ira",
+                    "time": "Tue 7.00 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "NYU Choral Arts Society",
+            "description": "MPAME-UE 1085 NYU Choral Arts Society \nFor course description, SEE:  E85.2085",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1092",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "11137",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Shankman, Ira",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "11698",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Shankman, Ira",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Recital",
+            "description": "MPAME-UE 1092 Recital \nFor major recitals and accompanists, by advisement.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1141",
+            "classes": [
+                {}
+            ],
+            "course_name": "Sprv Stdnt Teach Music in Elementary Schools",
+            "description": "MPAME-UE 1141 Sprv Stdnt Teach Music in Elementary Schools \nStudents will fulfill a minimum of 20 days of supervised student teaching in an elementary school setting. By advisement.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1145",
+            "classes": [
+                {}
+            ],
+            "course_name": "Sprv Stdnt Teach Music in Secondary Schools",
+            "description": "MPAME-UE 1145 Sprv Stdnt Teach Music in Secondary Schools \nStudents will fulfill a minimum of 20 days of supervised student teaching in a junior/senior high school setting. By advisement.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1201",
+            "course_name": "Music for Children",
+            "description": "MPAME-UE 1201 Music for Children \nMusic and movement experiences for the classroom (K-6); cognitive basis for aesthetic sensitivity and expression.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 1204",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10893",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Sobol, Elise",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Music for Exceptional Children",
+            "description": "MPAME-UE 1204 Music for Exceptional Children \nMusic-movement experiences for individuals with mild to moderate impairment./dysfunction.  Emphasis on learning strategies in heterogeneous school classrooms.  Aesthetic factors in the individualized education program.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1205",
+            "course_name": "Pract Music Handic Child",
+            "description": "MPAME-UE 1205 Pract Music Handic Child \nMusic-movement experiences for individuals with moderate to severe and profound impairment.  Aesthetic factors in the individualized education program.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 1405",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11852",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hein, Ethan",
+                    "time": "Fri 12.20 PM - 2.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Music Tech Practicum for Music Education",
+            "description": "MPAME-UE 1405 Music Tech Practicum for Music Education \nApplications of new technologies for teaching and learning, including video, digital audio, MIDI, computer notation and score preparation, interactive CAI, internet, web publishing, and portfolio development.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1423",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10926",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rayner, William",
+                    "time": "Thu 12.20 PM - 2.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "10927",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rayner, William",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Guitar Practicum for Music Education",
+            "description": "MPAME-UE 1423 Guitar Practicum for Music Education \nA general introduction to teaching and learning guitar as a classroom instrument.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1424",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10928",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Susman, Robert",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Brass Practicum for Music Education",
+            "description": "MPAME-UE 1424 Brass Practicum for Music Education \nAn ensemble approach to teaching and learning brass instruments. Each student will experience with at least three different brass instruments.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1425",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10929",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Breaux, Michael",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Woodwind Practicum",
+            "description": "MPAME-UE 1425 Woodwind Practicum \nAn ensemble approach to teaching and learning woodwind instrucments. Each student will have experience with at least three different wood instruments.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1426",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "10930",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Tasopoulos, Alexander",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Strings Practicum",
+            "description": "MPAME-UE 1426 Strings Practicum \nAn ensemble approach to teaching and learning string instruments. Each student will have experieince with three to four different string instruments.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1427",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10931",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Meade, David",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Percussion Practicum",
+            "description": "MPAME-UE 1427 Percussion Practicum \nAn ensemble approach to teaching and learning percussion instruments. Students perform, compose/arrange, and conduct using various percussion configurations.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1428",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "11114",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Nancy; Song, Myung",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Vocal/Practicum for Music Ed",
+            "description": "MPAME-UE 1428 Vocal/Practicum for Music Ed \nIntroduction to vocal techniques and materials with emphasis on vocal development at all grade levels, including the changing voice.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAME-UE 1429",
+            "course_name": "Choral Conducting Practicum for Music Ed",
+            "description": "MPAME-UE 1429 Choral Conducting Practicum for Music Ed \nPractical procedures and materials for conducting choral ensembles at all levels of music education. Students enrooled in this course demonstrate essential choral conducting techniques, knowledge of appropriate instrumental repertoire, and the ability to analyze and synthesize chamber and orchestral music scores for conception, interpretation, rehearsal, and performance.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 1431",
+            "course_name": "Instrumental Conducting Practicum for Music Educ",
+            "description": "MPAME-UE 1431 Instrumental Conducting Practicum for Music Educ \nDevelopment of advanced choral and instrumental conducting techniques, including procedures for rehearsal and performances, and appropriate repertoire for all levels.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 1433",
+            "course_name": "Vocal and Choral Conduct Practicum",
+            "description": "MPAME-UE 1433 Vocal and Choral Conduct Practicum \nIntroduction to vocal/choral materials with emphasis on the developing voice and rehearsal and performance technqiues.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAME-UE 1465",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10932",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Nancy",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "11699",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shankman, Ira; Song, Myung",
+                    "time": "Thu 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fundamentals/Conducting",
+            "description": "MPAME-UE 1465 Fundamentals/Conducting \nBasic principles of conductiong, patterns, cuing, score preparation, score reading, rehearsal and performance techniques.",
+            "offering": true
+        }
+    ]
+}

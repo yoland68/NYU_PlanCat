@@ -1,0 +1,274 @@
+{
+    "major_id": "IRISH-GA",
+    "file": "./2015-2016/Irish_Studies_(IRISH-GA).html",
+    "courses": [
+        {
+            "course_id": "IRISH-GA 1001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1516",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Wed 6.10 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "Waters, John"
+                }
+            ],
+            "course_name": "Irish Studies Seminar I",
+            "description": "IRISH-GA 1001 Irish Studies Seminar I \nIntroduction to the inter- and trans-disciplinary nature of contemporary Irish Studies practice, focusing on issues of historiographic and representational controversy in the interpretation of Irish history and culture.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1002",
+            "course_name": "Irish Studies MA Seminar II",
+            "description": "IRISH-GA 1002 Irish Studies MA Seminar II \nStudents achieve basic conversational proficiency in Irish. Examines major historical and cultural subjects surrounding the language such as its decline, attempts at revival, and its contemporary position.",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1080",
+            "course_name": "Modern Irish: Gaelic Trad in Lit & Folklore",
+            "description": "IRISH-GA 1080 Modern Irish: Gaelic Trad in Lit & Folklore",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1083",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2243",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Tue 6.10 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "Waters, John"
+                }
+            ],
+            "course_name": "Literature of Modern Ireland I",
+            "description": "IRISH-GA 1083 Literature of Modern Ireland I",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1084",
+            "course_name": "Lit of Modern Ireland II",
+            "description": "IRISH-GA 1084 Lit of Modern Ireland II",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1085",
+            "course_name": "Topics in Irish Literature:",
+            "description": "IRISH-GA 1085 Topics in Irish Literature:",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1087",
+            "course_name": "Irish Poetry After Yeats",
+            "description": "IRISH-GA 1087 Irish Poetry After Yeats",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1097",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1517",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Waters, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "IRISH-GA 1097 Independent Study \nDesigned to allow flexibility in coursework otherwise unavailable via regular course offerings.  Requires research proposal, abstract, and regularly scheduled meetings with faculty supervisor for approval.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1099",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1518",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Waters, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Guided Research",
+            "description": "IRISH-GA 1099 Guided Research \nPreparation for MA thesis in close supervision with their faculty supervisor.  Requires research proposal, abstract, and a schedule of meetings to their supervisor for approval.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1315",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16737",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon 6.10 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "Moloney, Michael"
+                }
+            ],
+            "course_name": "Irish Music & Cultural Identity",
+            "description": "IRISH-GA 1315 Irish Music & Cultural Identity",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1319",
+            "course_name": "Irish Music in America, 1750 to The Present",
+            "description": "IRISH-GA 1319 Irish Music in America, 1750 to The Present",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1416",
+            "course_name": "History of Modern Ireland I: to 1800",
+            "description": "IRISH-GA 1416 History of Modern Ireland I: to 1800",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1417",
+            "course_name": "History of Modern Ireland II",
+            "description": "IRISH-GA 1417 History of Modern Ireland II",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1419",
+            "course_name": "Irish & Euro Migrations: Jewish & Irish",
+            "description": "IRISH-GA 1419 Irish & Euro Migrations: Jewish & Irish",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1421",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2245",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Tue 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Lee, John"
+                }
+            ],
+            "course_name": "Debates in Modern Irish History",
+            "description": "IRISH-GA 1421 Debates in Modern Irish History",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1425",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16738",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Truxes, Thomas"
+                }
+            ],
+            "course_name": "Ireland in The Atlantic World, 1600-1850",
+            "description": "IRISH-GA 1425 Ireland in The Atlantic World, 1600-1850",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1427",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16739",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Thu 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Casey, Marion"
+                }
+            ],
+            "course_name": "History & Historiograpy of Irish America",
+            "description": "IRISH-GA 1427 History & Historiograpy of Irish America",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1431",
+            "course_name": "Sem: Famine & The Irish Diaspora",
+            "description": "IRISH-GA 1431 Sem: Famine & The Irish Diaspora",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1435",
+            "course_name": "Cult, Emp, Power: Irish/ Indian Cases Brit Empire",
+            "description": "IRISH-GA 1435 Cult, Emp, Power: Irish/ Indian Cases Brit Empire",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 1441",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2246",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Goff, Ivan"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "16868",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Thu 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "O'Cearuil, Padraig"
+                }
+            ],
+            "course_name": "Topics:Topics in Irish Studies",
+            "description": "IRISH-GA 1441 Topics:Topics in Irish Studies \nThe emphasis of this course varies by semester and is designed to allow flexibility in course offerings by Ireland House faculty and by visiting scholars.",
+            "offering": true
+        },
+        {
+            "course_id": "IRISH-GA 1467",
+            "course_name": "Sociology of Change in Ireland",
+            "description": "IRISH-GA 1467 Sociology of Change in Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 2002",
+            "course_name": "Atlantic Economy in the Early Modern World",
+            "description": "IRISH-GA 2002 Atlantic Economy in the Early Modern World",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 2427",
+            "course_name": "Britain & Ireland Since 1750",
+            "description": "IRISH-GA 2427 Britain & Ireland Since 1750",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 9097",
+            "course_name": "Independent Study",
+            "description": "IRISH-GA 9097 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "IRISH-GA 9467",
+            "course_name": "Contemporary Irish Pol & Soc:",
+            "description": "IRISH-GA 9467 Contemporary Irish Pol & Soc:",
+            "offering": false
+        }
+    ]
+}

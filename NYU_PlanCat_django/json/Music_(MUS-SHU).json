@@ -1,0 +1,78 @@
+{
+    "major_id": "MUS-SHU",
+    "file": "./2015-2016/Music_(MUS-SHU).html",
+    "courses": [
+        {
+            "course_id": "MUS-SHU 1351",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19698",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Heldman, Dianna",
+                    "time": "Tue,Thu 3.15 PM - 4.55 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Music Theatre History I",
+            "description": "MUS-SHU 1351 Music Theatre History I \nThis course traces the evolution of musical theatre from the Antiquities through the early-20th Century through the study of distinctive forms of early musical entertainment (i.e. operetta, melodrama, pantomime, minstrelsy, burlesque, extravaganza, revue) and exploring the writers, artists and entrepreneurs as well as the social, political and technological developments that directly influenced and shaped the craft into the Book Musical of the mid 20th century.",
+            "offering": true
+        },
+        {
+            "course_id": "MUS-SHU 1510",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19699",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Heldman, Dianna",
+                    "time": "Mon,Wed 2.45 PM - 4.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Vocal Training: Group",
+            "description": "MUS-SHU 1510 Vocal Training: Group \nThis course introduces singing - in theory and in practice - by means of lectures, listening, individual and group instruction. Topics to be covered are: the history of the voice as a musical instrument; the act of singing as artistic expression and communication of the human condition; and the scientific principles related to healthy vocal technique. Students will receive one-on-one and group instruction as well as participate in discussions and class performances.",
+            "offering": true
+        },
+        {
+            "course_id": "MUS-SHU 1512",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19700",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": "Heldman, Dianna",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Private Voice Instruction",
+            "description": "MUS-SHU 1512 Private Voice Instruction \nStudents will receive individual singing instruction in a studio setting. Vocal function and its application will be discussed and repertoire assigned accordingly. Students are encouraged to explore singing as a communicative tool in delivering text and story telling.",
+            "offering": true
+        },
+        {
+            "course_id": "MUS-SHU 1514",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19701",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": "Heldman, Dianna",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Private Voice Instruction",
+            "description": "MUS-SHU 1514 Private Voice Instruction \nStudents will receive individual singing instruction in a studio setting. Vocal function and its application will be discussed and repertoire assigned accordingly. Students are encouraged to explore singing as a communicative tool in delivering text and story telling.",
+            "offering": true
+        }
+    ]
+}

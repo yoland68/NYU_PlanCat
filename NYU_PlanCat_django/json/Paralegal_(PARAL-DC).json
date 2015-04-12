@@ -1,0 +1,94 @@
+{
+    "major_id": "PARAL-DC",
+    "file": "./2015-2016/Paralegal_(PARAL-DC).html",
+    "courses": [
+        {
+            "course_id": "PARAL-DC 3000",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1023",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intensive Basic Concepts in Paralegal Studies",
+            "description": "PARAL-DC 3000 Intensive Basic Concepts in Paralegal Studies \nThis course provides a broad background in basic concepts: legal research; civil practice; torts; matrimonial (family law); criminal law; contracts; ethics; debtor-creditor relations; business organizations; trusts and estates; and real property.  The objective of this course is to acquaint the beginning student with the principles of jurisprudence and the vocabulary of the law.",
+            "offering": true
+        },
+        {
+            "course_id": "PARAL-DC 3001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1024",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1025",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Basic Concepts in Paralegal Studies",
+            "description": "PARAL-DC 3001 Basic Concepts in Paralegal Studies \nThis course provides a broad background in basic concepts: legal research; civil practice; torts; matrimonial (family law); criminal law; contracts; ethics; debtor-creditor relations; business organizations; trusts and estates; and real property.  The objective of this course is to acquaint the beginning student with the principles of jurisprudence and the vocabulary of the law.",
+            "offering": true
+        },
+        {
+            "course_id": "PARAL-DC 3010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1026",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": "English, Roberto B; Bachman, Judith; Statsinger, Steven; Wirch, Tim; Meirowitz, Clifford; Sawh, Dennis; Levine, Alexander; Reisman, Ronald; Handlin, Joseph; Greenberg, Robert; Keesee, Michael",
+                    "time": "Mon,Tue,Wed,Thu 9.00 AM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intensive Advanced Concepts",
+            "description": "PARAL-DC 3010 Intensive Advanced Concepts \nThis course offers practical training in skills including: the formation, operation, sale, and dissolution of businesses; going public; leveraged buyouts; securities; U.C.C.; intellectual property; trusts and estates; litigation; and real estate.",
+            "offering": true
+        },
+        {
+            "course_id": "PARAL-DC 3011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1027",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Concepts",
+            "description": "PARAL-DC 3011 Advanced Concepts \nThis course offers practical training in skills including: the formation, operation, sale, and dissolution of businesses; going public; leveraged buyouts; securities; U.C.C.; intellectual property; trusts and estates; litigation; and real estate.",
+            "offering": true
+        },
+        {
+            "course_id": "PARAL-DC 3020",
+            "course_name": "Adv Cncpts: Litigation",
+            "description": "PARAL-DC 3020 Adv Cncpts: Litigation",
+            "offering": false
+        }
+    ]
+}

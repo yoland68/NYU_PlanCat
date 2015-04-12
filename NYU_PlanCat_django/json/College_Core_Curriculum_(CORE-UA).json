@@ -1,0 +1,4296 @@
+{
+    "major_id": "CORE-UA",
+    "file": "./2015-2016/College_Core_Curriculum_(CORE-UA).html",
+    "courses": [
+        {
+            "course_id": "CORE-UA 101",
+            "course_name": "Quantitative Reasoning: Math Patterns in Nature",
+            "description": "CORE-UA  101 Quantitative Reasoning: Math Patterns in Nature \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 102",
+            "course_name": "Quantitative Reasoning: Math and The Computer",
+            "description": "CORE-UA  102 Quantitative Reasoning: Math and The Computer",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 103",
+            "course_name": "Quantitative Reasoning: Math Patterns in Society",
+            "description": "CORE-UA  103 Quantitative Reasoning: Math Patterns in Society \nExamines the role of mathematics in a variety of contexts in the social sciences, but with special emphasis on problems in economics. The course develops tools that span both the natural and the social sciences, including sampling, growth and decay, present value, and probability and statistics. These topics are used as a foundation to explore the application of mathematical approaches to economics, especially the use of game theory and its related techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 104",
+            "course_name": "Quantitative Reasoning: Math Patterns in Finance",
+            "description": "CORE-UA  104 Quantitative Reasoning: Math Patterns in Finance",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 105",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6982",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 207"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6983",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 567"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6984",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6985",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 370"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6986",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL139"
+                }
+            ],
+            "course_name": "Quantitative Reasoning: Elementary Statistics",
+            "description": "CORE-UA  105 Quantitative Reasoning: Elementary Statistics \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 106",
+            "course_name": "Quantitative Reasoning:",
+            "description": "CORE-UA  106 Quantitative Reasoning: \nFor as long as people have been able to write numbers (i.e., integers) and do arithmetic, they have discovered that numbers have certain interesting properties. To this ancient study, thought of as recreational, a new importance has been recently attached because of the digital world of cyberspace. Today, number theory is commonly used as the foundation of ingenious methods to both create codes and to break them. This course offers a glimpse of the historical foundation of number theory, motivated by its relevance to 21st-century applications.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 107",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6987",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "19UP 102"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6988",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 507"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6989",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL151"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6990",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "MEYR 261"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6991",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                }
+            ],
+            "course_name": "Quantitative Reasoning: Prob,Stats & Decisn-Mkng",
+            "description": "CORE-UA  107 Quantitative Reasoning: Prob,Stats & Decisn-Mkng \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 108",
+            "course_name": "Quantitative Reasoning: Games of Chance",
+            "description": "CORE-UA  108 Quantitative Reasoning: Games of Chance \nThis course is designed to present the elementary theory of probability through its historical origins ? gambling. Illustrations will be taken from the following games of chance: Lotteries, poker, blackjack, backgammon, craps, roulette, coin tossing, and variations on these games. Students are presumed to be familiar with high school algebra.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 109",
+            "course_name": "Quantitative Reasoning: Math & Computing",
+            "description": "CORE-UA  109 Quantitative Reasoning: Math & Computing \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8418",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "19UP 102"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8419",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 567"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8420",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 569"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8421",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8422",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                }
+            ],
+            "course_name": "Quantitative Reasoning: Great Ideas in Mathematics",
+            "description": "CORE-UA  110 Quantitative Reasoning: Great Ideas in Mathematics \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 201",
+            "course_name": "Natural Science I",
+            "description": "CORE-UA  201 Natural Science I",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 202",
+            "course_name": "",
+            "description": "CORE-UA  202\n\n   Natural Science I: Cosmos and The Earth\n\nFocuses on the modern scientific findings relating to major questions about the universe and our place in it. What is the origin of the universe? How did the elements form? Where do stars and planets come from? Evidence for the big bang theory of the creation of the universe and the formation of elements during stellar evolution is presented, along with how that evidence is extracted from the analysis of light coming from the stars. The constituents of the universe, from the large-scale realm of the galaxies to exotic objects such as neutron stars and black holes, are discussed. The course the...\n\n      more description for CORE-UA  202 \u00bb\n\n      \n\n\n\nFocuses on the modern scientific findings relating to major questions about the universe and our place in it. What is the origin of the universe? How did the elements form? Where do stars and planets come from? Evidence for the big bang theory of the creation of the universe and the formation of elements during stellar evolution is presented, along with how that evidence is extracted from the analysis of light coming from the stars. The constituents of the universe, from the large-scale realm of the galaxies to exotic objects such as neutron stars and black holes, are discussed. The course then focuses on the earth and other earthlike planets.\n\n      less description for CORE-UA  202 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 203",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6992",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Walters, Marc"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6993",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6994",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6995",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6996",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6997",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6998",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6999",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Kallenbach, Neville"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7000",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7001",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7002",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7003",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7004",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7005",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 202"
+                }
+            ],
+            "course_name": "Natural Science I: Energy and the Environment",
+            "description": "CORE-UA  203 Natural Science I: Energy and the Environment \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 204",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7641",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7642",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7643",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7644",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7645",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7646",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7647",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                }
+            ],
+            "course_name": "Natural Science I: Einstein's Universe",
+            "description": "CORE-UA  204 Natural Science I: Einstein's Universe \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 205",
+            "course_name": "Natural Science I: Exploration of Color",
+            "description": "CORE-UA  205 Natural Science I: Exploration of Color \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 206",
+            "course_name": "Natural Science I:",
+            "description": "CORE-UA  206 Natural Science I: \nThe first half deals with the basic phenomena of astronomy: the earth and sky, the motions of stars, sun, moon, and planets. It then considers the historical development of astronomy from antiquity to the 17th century. The last quarter is devoted to the space-age exploration of the solar system. Laboratory exercises help familiarize students with basic astronomical concepts.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 207",
+            "course_name": "Natural Science I:",
+            "description": "CORE-UA  207 Natural Science I:",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 208",
+            "course_name": "",
+            "description": "CORE-UA  208\n\n   Nat SCI I:The Human Body The Ultimate Machinery\n\nHighlights the role of mechanical principles in explaining the function and maintenance of the human body, and the application of biomedical engineering in devising treatments when body parts or functions fail mechanically or biologically. From a structural point of view, the human body develops and maintains itself by the action of mechanical stimuli on complex biological systems. For example, stresses and motions caused by body movements lead to cyclic deformations in the cells within the tissues, producing new tissue and activating reparative processes; and this concept applies to many othe...\n\n      more description for CORE-UA  208 \u00bb\n\n      \n\n\n\nHighlights the role of mechanical principles in explaining the function and maintenance of the human body, and the application of biomedical engineering in devising treatments when body parts or functions fail mechanically or biologically. From a structural point of view, the human body develops and maintains itself by the action of mechanical stimuli on complex biological systems. For example, stresses and motions caused by body movements lead to cyclic deformations in the cells within the tissues, producing new tissue and activating reparative processes; and this concept applies to many other systems in the body. Eventually some of the structures break down, a situation for which the field of bioengineering has produced treatments including artificial parts and organs, augments, transplants, grafts, tissue engineered parts, and external functional aids.\n\n      less description for CORE-UA  208 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 209",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7006",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7007",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7008",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7009",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7010",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7011",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7012",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                }
+            ],
+            "course_name": "Natural Science I: Quarks to Cosmos",
+            "description": "CORE-UA  209 Natural Science I: Quarks to Cosmos \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 214",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7965",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7966",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7967",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7968",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7969",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7970",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7971",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "MEYR 161"
+                }
+            ],
+            "course_name": "Natural Science I: How Things Work",
+            "description": "CORE-UA  214 Natural Science I: How Things Work \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 290",
+            "course_name": "Natural Science I:Energy & Environ Srvc Lrng Sem",
+            "description": "CORE-UA  290 Natural Science I:Energy & Environ Srvc Lrng Sem",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 301",
+            "course_name": "Natural Science II: The Biological Realm",
+            "description": "CORE-UA  301 Natural Science II: The Biological Realm",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 302",
+            "course_name": "Natural Science II Human Genetics",
+            "description": "CORE-UA  302 Natural Science II Human Genetics",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 303",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7013",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Rockman, Matthew"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7014",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7015",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7016",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7017",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7018",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7019",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 203"
+                }
+            ],
+            "course_name": "Natural Science II: Human Genetics",
+            "description": "CORE-UA  303 Natural Science II: Human Genetics \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 304",
+            "course_name": "Natural Science II",
+            "description": "CORE-UA  304 Natural Science II",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 305",
+            "course_name": "Natural Science II: Human Origins",
+            "description": "CORE-UA  305 Natural Science II: Human Origins \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 306",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7020",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Fenton, Andre"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7021",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7022",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7023",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7024",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7025",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7026",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                }
+            ],
+            "course_name": "Natural Science II: Brain and Behavior",
+            "description": "CORE-UA  306 Natural Science II: Brain and Behavior \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 307",
+            "course_name": "Natural Science II: Microbiology",
+            "description": "CORE-UA  307 Natural Science II: Microbiology",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 308",
+            "course_name": "Natural Science II:Human Body Systems",
+            "description": "CORE-UA  308 Natural Science II:Human Body Systems",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 309",
+            "course_name": "Natural Science II: The Body-How it Works",
+            "description": "CORE-UA  309 Natural Science II: The Body-How it Works \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8255",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Jordan, Trace"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8256",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8257",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8258",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8259",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8260",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 201"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8725",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 201"
+                }
+            ],
+            "course_name": "Natural Science II: Molecules of Life",
+            "description": "CORE-UA  310 Natural Science II: Molecules of Life \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 311",
+            "course_name": "Natural Science II: Lessons from the Biosphere",
+            "description": "CORE-UA  311 Natural Science II: Lessons from the Biosphere \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 312",
+            "course_name": "Natural Science II: Earth, Life, & Time",
+            "description": "CORE-UA  312 Natural Science II: Earth, Life, & Time \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 313",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7027",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Azmitia, Efrain"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7028",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7029",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7030",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7031",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.00 PM - 6.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7032",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.00 AM - 10.40 AM",
+                    "open": true,
+                    "professor": "SILV 203"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7033",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": "SILV 203"
+                }
+            ],
+            "course_name": "Natural Science II: The Brain: a User'S Guide",
+            "description": "CORE-UA  313 Natural Science II: The Brain: a User'S Guide \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 314",
+            "course_name": "Natural Science II: Genomes and Diversity",
+            "description": "CORE-UA  314 Natural Science II: Genomes and Diversity \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 315",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8828",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Naftolin, Frederick"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8829",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 10.15 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "180V 806"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8830",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.00 PM - 2.40 PM",
+                    "open": true,
+                    "professor": "180V 806"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19230",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.15 PM - 4.55 PM",
+                    "open": true,
+                    "professor": "180V 806"
+                }
+            ],
+            "course_name": "Natural Science II: Human Reproduction",
+            "description": "CORE-UA  315 Natural Science II: Human Reproduction \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 390",
+            "course_name": "Natural Science II: Human Genetics Seminar",
+            "description": "CORE-UA  390 Natural Science II: Human Genetics Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 400",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7034",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 102",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Appuhn, Karl"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7035",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7036",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7037",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7038",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16604",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16605",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7039",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 101",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Blake, William"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7040",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 131"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7041",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7042",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7043",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL142"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8023",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 131"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16606",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7044",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CASA ",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Cox, Virginia"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7045",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 512"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7046",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7047",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8000",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "7E12 131"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20065",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 205"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8001",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC50",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Lezra, Jacobo"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8002",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L114",
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Perry, Amanda"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8003",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Perry, Amanda"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8004",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 131",
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Benninger, Elizabeth"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8005",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-18",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Benninger, Elizabeth"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8006",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 504",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Loker, Evan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8007",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 131",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Loker, Evan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8786",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-18",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Dallal, Ziad"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8787",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Dallal, Ziad"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8788",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC5",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Larsen, Emily"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8789",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC4",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Larsen, Emily"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8790",
+                    "section": "041",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC3",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Wang, Qin"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9169",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L113",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Wang, Qin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8796",
+                    "section": "050",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV G08",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Zaloom, Caitlin; Poovey, Mary"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8797",
+                    "section": "051",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8798",
+                    "section": "052",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8799",
+                    "section": "053",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8800",
+                    "section": "054",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 510"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9023",
+                    "section": "055",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9024",
+                    "section": "056",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8801",
+                    "section": "060",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 207",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Schwartzberg, Melissa"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8802",
+                    "section": "061",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8803",
+                    "section": "062",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 501"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8804",
+                    "section": "063",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 570"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8805",
+                    "section": "064",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8806",
+                    "section": "070",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 102",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Smith, Mark"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8807",
+                    "section": "071",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8808",
+                    "section": "072",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 512"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8809",
+                    "section": "073",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 510"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8810",
+                    "section": "074",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 510"
+                }
+            ],
+            "course_name": "Texts & Ideas:Animal HumansArts & PublicsDemocracy, Knowledge, and EqualityNatureSans TitreValueVisible and Invisible Cities",
+            "description": "CORE-UA  400 Texts & Ideas:Animal HumansArts & PublicsDemocracy, Knowledge, and EqualityNatureSans TitreValueVisible and Invisible Cities \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 401",
+            "course_name": "Conv of the West: Antiquity and The Middle Ages",
+            "description": "CORE-UA  401 Conv of the West: Antiquity and The Middle Ages \nContinues with Dante?s Inferno, selections from Paradiso, and with other readings from the Middle Ages.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 402",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16612",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 405",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Gerety, Thomas"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16613",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16614",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 500"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16615",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 412"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16616",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B04"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16617",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16617",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16618",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 101",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Gilman, Ernest"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16619",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16620",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 210"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16621",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 518"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16622",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 406"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16623",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16624",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS LL142"
+                }
+            ],
+            "course_name": "Texts & Ideas: Antiquity & The Renaissance",
+            "description": "CORE-UA  402 Texts & Ideas: Antiquity & The Renaissance \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 403",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8776",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 101",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Deneys, Anne"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8777",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8778",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8780",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8781",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL146"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8784",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 504"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8785",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 512"
+                }
+            ],
+            "course_name": "Texts & Ideas: Antiquity & The Enlightenment",
+            "description": "CORE-UA  403 Texts & Ideas: Antiquity & The Enlightenment \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 404",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7048",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 102",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Levene, David"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7972",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7973",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-5"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7049",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 LL31"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7050",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16625",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "12WV L114"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16626",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16626",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7051",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 101",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Renzi, Vincent"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7975",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7052",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7053",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 515"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7054",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-19"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16627",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16904",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16905",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16906",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Texts & Ideas: Antiquity & The 19th Century",
+            "description": "CORE-UA  404 Texts & Ideas: Antiquity & The 19th Century \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 405",
+            "course_name": "Conversations of The West",
+            "description": "CORE-UA  405 Conversations of The West",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 406",
+            "course_name": "Conversations of The West",
+            "description": "CORE-UA  406 Conversations of The West",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 410",
+            "course_name": "Texts and Ideas:",
+            "description": "CORE-UA  410 Texts and Ideas:",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 412",
+            "course_name": "Texts & Ideas: Antiquity & The Renaissance (WTE)",
+            "description": "CORE-UA  412 Texts & Ideas: Antiquity & The Renaissance (WTE) \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 414",
+            "course_name": "Texts & Ideas: Antiquity & The 19th Century (WTE)",
+            "description": "CORE-UA  414 Texts & Ideas: Antiquity & The 19th Century (WTE) \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 500",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7910",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "5WP 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7976",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-19"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7977",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL146"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7978",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7979",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "7E12 131"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19694",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 205"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19695",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-14"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16599",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 101A",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Labanyi, Josephine"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16600",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16601",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16602",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC5"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16603",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC7"
+                }
+            ],
+            "course_name": "Cultures & Contexts: TopicsCivil War & Its Afterlife in 20th Century SpainThe Indian Ocean, from Egypt to Sri Lanka",
+            "description": "CORE-UA  500 Cultures & Contexts: TopicsCivil War & Its Afterlife in 20th Century SpainThe Indian Ocean, from Egypt to Sri Lanka \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 501",
+            "course_name": "Cultures & Contexts: Early States in Mesopotamia & Egypt",
+            "description": "CORE-UA  501 Cultures & Contexts: Early States in Mesopotamia & Egypt \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 502",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19686",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 102",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Rowson, Everett"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19687",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19688",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-12"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19689",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 412"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19690",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19691",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19692",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Islamic Societies",
+            "description": "CORE-UA  502 Cultures & Contexts: Islamic Societies \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 503",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7909",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Rajagopal, Arvind"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7980",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7981",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 504"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7982",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8231",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                }
+            ],
+            "course_name": "Cultures and Contexts:  South Asia",
+            "description": "CORE-UA  503 Cultures and Contexts:  South Asia \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 504",
+            "course_name": "World Culture: Caribbean",
+            "description": "CORE-UA  504 World Culture: Caribbean",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 505",
+            "course_name": "Cultures & Contexts: Africa",
+            "description": "CORE-UA  505 Cultures & Contexts: Africa \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 506",
+            "course_name": "Cultures & Contexts: Chinese & Japanese Traditions",
+            "description": "CORE-UA  506 Cultures & Contexts: Chinese & Japanese Traditions \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 507",
+            "course_name": "Cultures & Contexts: Japan",
+            "description": "CORE-UA  507 Cultures & Contexts: Japan \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 508",
+            "course_name": "Cultures & Contexts: The Pacific Islands",
+            "description": "CORE-UA  508 Cultures & Contexts: The Pacific Islands \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 509",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16592",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/12/2015",
+                    "location": "5WP 101",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Khan, Aisha"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16593",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16594",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL146"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16595",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16596",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16597",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16598",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-19"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Caribbean",
+            "description": "CORE-UA  509 Cultures & Contexts: Caribbean \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 510",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8739",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Kotsonis, Yanni"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8740",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8742",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "12WV L114"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8743",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8748",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8749",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8749",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Cultures and Contexts: Russia Between East and West",
+            "description": "CORE-UA  510 Cultures and Contexts: Russia Between East and West \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 511",
+            "course_name": "Cultures & Contexts: Middle Eastern Societies",
+            "description": "CORE-UA  511 Cultures & Contexts: Middle Eastern Societies \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 512",
+            "course_name": "Cultures & Contexts: China",
+            "description": "CORE-UA  512 Cultures & Contexts: China \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 513",
+            "course_name": "Cultures & Contexts: Pre-Columbian America",
+            "description": "CORE-UA  513 Cultures & Contexts: Pre-Columbian America",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 514",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7060",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 101A",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Fleming, Daniel"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7061",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 510"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7062",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 406"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7063",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL145"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7064",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Ancient Israel",
+            "description": "CORE-UA  514 Cultures & Contexts: Ancient Israel \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 515",
+            "course_name": "Cultures & Contexts: Latin America",
+            "description": "CORE-UA  515 Cultures & Contexts: Latin America \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 516",
+            "course_name": "Cultures & Contexts: India",
+            "description": "CORE-UA  516 Cultures & Contexts: India \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 517",
+            "course_name": "Cultures & Contexts: Africa- History Roots of Contemporary Crisis",
+            "description": "CORE-UA  517 Cultures & Contexts: Africa- History Roots of Contemporary Crisis",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 518",
+            "course_name": "Cultures & Contexts: Mesopotamia & Egypt",
+            "description": "CORE-UA  518 Cultures & Contexts: Mesopotamia & Egypt",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 519",
+            "course_name": "Cultures & Contexts: Native Peoples of North America",
+            "description": "CORE-UA  519 Cultures & Contexts: Native Peoples of North America",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 520",
+            "course_name": "Cultures & Contexts: Muslim Europe",
+            "description": "CORE-UA  520 Cultures & Contexts: Muslim Europe",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 522",
+            "course_name": "Cultures & Contexts: Modern China",
+            "description": "CORE-UA  522 Cultures & Contexts: Modern China",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 523",
+            "course_name": "",
+            "description": "CORE-UA  523\n\n   Cultures & Contexts: Islam in Asia\n\nTwo-thirds of the world?s Muslims today live in Central, South, and Southeast Asia. How did Islamic traditions spread from the Middle East? What has been the nature of the ensuing dialogue between Muslims and adherents of existing traditions (Hinduism, Buddhism, Confucianism, Christianity, shamanism)? Topics include the nature of dialogue and conflict between the adherents of Islam and those of other religious traditions, the economic and social issues behind conflicts waged in the name of religion, the different and constantly evolving ?Islams? that thrive in Asia, and the politics of Islam t...\n\n      more description for CORE-UA  523 \u00bb\n\n      \n\n\n\nTwo-thirds of the world?s Muslims today live in Central, South, and Southeast Asia. How did Islamic traditions spread from the Middle East? What has been the nature of the ensuing dialogue between Muslims and adherents of existing traditions (Hinduism, Buddhism, Confucianism, Christianity, shamanism)? Topics include the nature of dialogue and conflict between the adherents of Islam and those of other religious traditions, the economic and social issues behind conflicts waged in the name of religion, the different and constantly evolving ?Islams? that thrive in Asia, and the politics of Islam today, from Afghanistan eastward to the Philippines.\n\n      less description for CORE-UA  523 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 524",
+            "course_name": "Cultures & Contexts: New Guinea",
+            "description": "CORE-UA  524 Cultures & Contexts: New Guinea",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 525",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19232",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 101",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Ferrer, Ada; Thomson, Sinclair"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19233",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B07"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19234",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19235",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-19"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19236",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19237",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 512"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Latin America and the Caribbean",
+            "description": "CORE-UA  525 Cultures & Contexts: Latin America and the Caribbean",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 526",
+            "course_name": "Cultures & Contexts: The Middle East in The Modern World",
+            "description": "CORE-UA  526 Cultures & Contexts: The Middle East in The Modern World",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 527",
+            "course_name": "Cultures & Contexts: Muslim Spain",
+            "description": "CORE-UA  527 Cultures & Contexts: Muslim Spain",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 528",
+            "course_name": "Cultures & Contexts: Russia Since 1917",
+            "description": "CORE-UA  528 Cultures & Contexts: Russia Since 1917 \nMajor periods, developments, and interpretative issues in Russian politics, history, and society, from the 1917 revolution to the present. The emphasis is on the Soviet experience, though the Tsarist past and post-Soviet developments are also considered. Special attention is given to the role of historical traditions, leadership, ideology, ramifying events, and socioeconomic factors.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 529",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8237",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Beltran, Cristina"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8238",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8239",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-5"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8240",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8241",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC7"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Contemporary Latino Cultures",
+            "description": "CORE-UA  529 Cultures & Contexts: Contemporary Latino Cultures \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 530",
+            "course_name": "Cultures & Contexts: Tibet",
+            "description": "CORE-UA  530 Cultures & Contexts: Tibet",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 531",
+            "course_name": "Culture & Contexts: China & Japan",
+            "description": "CORE-UA  531 Culture & Contexts: China & Japan",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 532",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9071",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV G08",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gomez, Michael"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9072",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9073",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-3"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9074",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9075",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC5"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16589",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16590",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16591",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL142"
+                }
+            ],
+            "course_name": "Cultures & Contexts: African Diaspora",
+            "description": "CORE-UA  532 Cultures & Contexts: African Diaspora \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 533",
+            "course_name": "Cultures & Contexts: Iran",
+            "description": "CORE-UA  533 Cultures & Contexts: Iran \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 534",
+            "course_name": "Cultures & Contexts: The Black Atlantic",
+            "description": "CORE-UA  534 Cultures & Contexts: The Black Atlantic \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 535",
+            "course_name": "Cultures & Contexts: Korea and The Korean Diaspora",
+            "description": "CORE-UA  535 Cultures & Contexts: Korea and The Korean Diaspora \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 536",
+            "course_name": "Cultures & Contexts: Indigenous Australia",
+            "description": "CORE-UA  536 Cultures & Contexts: Indigenous Australia \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 537",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16582",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 101",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Zweig, Ronald"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16583",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 512"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16584",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-15"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16585",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 504"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16586",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-12"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16587",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "12WV L113"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16588",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Modern Israel",
+            "description": "CORE-UA  537 Cultures & Contexts: Modern Israel \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 538",
+            "course_name": "Cultures & Contexts: Islamic Diasporas",
+            "description": "CORE-UA  538 Cultures & Contexts: Islamic Diasporas",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 539",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8232",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Tu, ThuyLinh"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8233",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "WAVE 570"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8234",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "12WV L114"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8235",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GODD B01"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8236",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-12"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Asian / Pacific / American Cultures",
+            "description": "CORE-UA  539 Cultures & Contexts: Asian / Pacific / American Cultures \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 540",
+            "classes": [
+                {
+                    "format": "Recitation",
+                    "class_id": "8763",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8763",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8764",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8764",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8765",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8765",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8766",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8766",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8767",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8767",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8768",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8768",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16654",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16654",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16655",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16655",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16656",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16656",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16657",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16657",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16658",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16658",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16659",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16659",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Cultures and Contexts: Mongol Asia and Its Legacy",
+            "description": "CORE-UA  540 Cultures and Contexts: Mongol Asia and Its Legacy \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 541",
+            "course_name": "Cultures & Contexts: New World Encounters",
+            "description": "CORE-UA  541 Cultures & Contexts: New World Encounters \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 542",
+            "course_name": "Cultures & Contexts: The Byzantine Civilization",
+            "description": "CORE-UA  542 Cultures & Contexts: The Byzantine Civilization",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 543",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16577",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CANT 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16578",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16579",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16580",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC3"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16581",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC3"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Korea",
+            "description": "CORE-UA  543 Cultures & Contexts: Korea \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 544",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7908",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 405",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Abercrombie, Thomas"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7994",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7995",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-5"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7996",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-5"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7997",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "WAVE 570"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7998",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-3"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7999",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 131"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Spain",
+            "description": "CORE-UA  544 Cultures & Contexts: Spain \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 545",
+            "course_name": "Cultures & Contexts: Egypt of The Pharaohs",
+            "description": "CORE-UA  545 Cultures & Contexts: Egypt of The Pharaohs \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 546",
+            "course_name": "Cultures & Contexts: Global Asia",
+            "description": "CORE-UA  546 Cultures & Contexts: Global Asia \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 549",
+            "course_name": "Cultures & Contexts: Multinational Britain",
+            "description": "CORE-UA  549 Cultures & Contexts: Multinational Britain \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 550",
+            "course_name": "Cultures and Contexts: Globalizing The Americas",
+            "description": "CORE-UA  550 Cultures and Contexts: Globalizing The Americas \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 551",
+            "course_name": "Culture and Contexts: Immigrant America in the 19th Century",
+            "description": "CORE-UA  551 Culture and Contexts: Immigrant America in the 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 552",
+            "course_name": "Cultures & Contexts: Empires & The Political Imagination",
+            "description": "CORE-UA  552 Cultures & Contexts: Empires & The Political Imagination \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 553",
+            "course_name": "Cultures & Contexts: Pagan Europe",
+            "description": "CORE-UA  553 Cultures & Contexts: Pagan Europe \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 554",
+            "course_name": "Cultures & Contexts: Italy",
+            "description": "CORE-UA  554 Cultures & Contexts: Italy \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 555",
+            "course_name": "Cultures & Context: Brazil",
+            "description": "CORE-UA  555 Cultures & Context: Brazil \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 556",
+            "classes": [
+                {
+                    "format": "Recitation",
+                    "class_id": "20092",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 406"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20093",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 512"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20094",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20095",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GODD B07"
+                }
+            ],
+            "course_name": "Cultures & Contexts: Germany",
+            "description": "CORE-UA  556 Cultures & Contexts: Germany",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 600",
+            "course_name": "Soc & Social SCI:",
+            "description": "CORE-UA  600 Soc & Social SCI:",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 601",
+            "course_name": "Societies & Soc Science: Discourse in Pol Econ",
+            "description": "CORE-UA  601 Societies & Soc Science: Discourse in Pol Econ",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 602",
+            "course_name": "Societies & Soc SCI: An Economics Perspective",
+            "description": "CORE-UA  602 Societies & Soc SCI: An Economics Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 603",
+            "course_name": "Societies & Soc Science: Wealth, Power & Virtue",
+            "description": "CORE-UA  603 Societies & Soc Science: Wealth, Power & Virtue",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 604",
+            "course_name": "Soc & Soc Sic: Thinking Strategically Reconflict",
+            "description": "CORE-UA  604 Soc & Soc Sic: Thinking Strategically Reconflict",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 605",
+            "course_name": "Soc & Soc SCI: Why Protest?",
+            "description": "CORE-UA  605 Soc & Soc SCI: Why Protest?",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 606",
+            "course_name": "Soc & Soc SCI:Measures & Models of Inequal & Just",
+            "description": "CORE-UA  606 Soc & Soc SCI:Measures & Models of Inequal & Just",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 607",
+            "course_name": "Soc & Soc SCI: Gender & Power in Global Perspect",
+            "description": "CORE-UA  607 Soc & Soc SCI: Gender & Power in Global Perspect",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 608",
+            "course_name": "Soc & Soc SCI: Violence, Justice & Compassion",
+            "description": "CORE-UA  608 Soc & Soc SCI: Violence, Justice & Compassion",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 609",
+            "course_name": "Societies & Soc SCI: The Rule of Law",
+            "description": "CORE-UA  609 Societies & Soc SCI: The Rule of Law",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 610",
+            "course_name": "Soc & Soc SCI: Human Ecology",
+            "description": "CORE-UA  610 Soc & Soc SCI: Human Ecology",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 611",
+            "course_name": "Soc & Soc SCI: Soc Found of Crit Public Debates",
+            "description": "CORE-UA  611 Soc & Soc SCI: Soc Found of Crit Public Debates",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 612",
+            "course_name": "Soc & Soc SCI: Media & Soc Scientific Knowledge",
+            "description": "CORE-UA  612 Soc & Soc SCI: Media & Soc Scientific Knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 613",
+            "course_name": "Soc & Soc SCI: Economy & Society",
+            "description": "CORE-UA  613 Soc & Soc SCI: Economy & Society",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 614",
+            "course_name": "Societies & Soc Sciences Concepts of Eco & Polity",
+            "description": "CORE-UA  614 Societies & Soc Sciences Concepts of Eco & Polity",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 615",
+            "course_name": "Societies & Soc SCI: What is Capitalism",
+            "description": "CORE-UA  615 Societies & Soc SCI: What is Capitalism",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 616",
+            "course_name": "Soc & Soc SCI:",
+            "description": "CORE-UA  616 Soc & Soc SCI:",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 617",
+            "course_name": "Societies & Soc SCI: Art and Mind",
+            "description": "CORE-UA  617 Societies & Soc SCI: Art and Mind",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 618",
+            "course_name": "Soc & Soc SCI: Crime, Justice & Society",
+            "description": "CORE-UA  618 Soc & Soc SCI: Crime, Justice & Society",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 619",
+            "course_name": "Soc & Soc SCI: Social Policy in Modern Society",
+            "description": "CORE-UA  619 Soc & Soc SCI: Social Policy in Modern Society",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 621",
+            "course_name": "Societies and Social Science: Human Nature",
+            "description": "CORE-UA  621 Societies and Social Science: Human Nature",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 622",
+            "course_name": "Soc & Soc SCI: Social Justice in a Diverse Soc",
+            "description": "CORE-UA  622 Soc & Soc SCI: Social Justice in a Diverse Soc",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 623",
+            "course_name": "Soc & Soc SCI: Trust and Social Institutions",
+            "description": "CORE-UA  623 Soc & Soc SCI: Trust and Social Institutions",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 624",
+            "course_name": "Soc & Soc SCI: History and Modernity",
+            "description": "CORE-UA  624 Soc & Soc SCI: History and Modernity",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 625",
+            "course_name": "Soc & Social Science: Cities,Space & Soc Power",
+            "description": "CORE-UA  625 Soc & Social Science: Cities,Space & Soc Power",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 626",
+            "course_name": "Soc & Social Science: Politics & Society",
+            "description": "CORE-UA  626 Soc & Social Science: Politics & Society",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 627",
+            "course_name": "Soc & Social Science: Theories of War & Peace",
+            "description": "CORE-UA  627 Soc & Social Science: Theories of War & Peace",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 629",
+            "course_name": "Societies & Soc SCI:Inst & Values Amer Society",
+            "description": "CORE-UA  629 Societies & Soc SCI:Inst & Values Amer Society",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 630",
+            "course_name": "Soc & Soc Science: Markets",
+            "description": "CORE-UA  630 Soc & Soc Science: Markets",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 631",
+            "course_name": "Soc & Soc SCI: Interdis Persp Met Studies",
+            "description": "CORE-UA  631 Soc & Soc SCI: Interdis Persp Met Studies \nA broad and interdisciplinary introduction to the field of urban studies. Surveying the major approaches deployed to investigate the urban experience in the social space of the modern city. Explores the historical geography of capitalist urbanization with attention to North American and European cities, to colonial and postcolonial cities, and to the global contexts of urban development. Major topics include urban politics and governance; suburban and regional development; urban social movements; urban planning; the gendering of urban space and racial segregation in urban space.",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 650",
+            "course_name": "Soc & Social Sciences: Economics Perspectives",
+            "description": "CORE-UA  650 Soc & Social Sciences: Economics Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 660",
+            "course_name": "Soc & Soc Science: Linguistic Perspectives",
+            "description": "CORE-UA  660 Soc & Soc Science: Linguistic Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 680",
+            "course_name": "Soc & Social SCI:",
+            "description": "CORE-UA  680 Soc & Social SCI:",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 690",
+            "course_name": "Soc & Soc SCI:",
+            "description": "CORE-UA  690 Soc & Soc SCI:",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 691",
+            "course_name": "Soc & Soc SCI: Socio Persp Rule of Law",
+            "description": "CORE-UA  691 Soc & Soc SCI: Socio Persp Rule of Law",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 700",
+            "course_name": "Expressive Culture: Tpcs",
+            "description": "CORE-UA  700 Expressive Culture: Tpcs",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 705",
+            "course_name": "Expressive Culture: Race Sex and Performance",
+            "description": "CORE-UA  705 Expressive Culture: Race Sex and Performance",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 706",
+            "course_name": "Expressive Culture: Peformance:Integrat Arts",
+            "description": "CORE-UA  706 Expressive Culture: Peformance:Integrat Arts",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 710",
+            "course_name": "Expressive Cult: Words",
+            "description": "CORE-UA  710 Expressive Cult: Words \nWhat is literature or the literary? Is there a literary language that works differently from ordinary language? What is literary style and form? What is the position of the writer or artist in relation to society, and what is the function of the reader? Is literature a mirror of the world that it describes, an attempt to influence a reader?s ideas or opinions, an expression of the identity of the writer, or none of these?",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 711",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16571",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 405",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Borenstein, Eliot"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16572",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16573",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 207"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16574",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16575",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC7"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16576",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC7"
+                }
+            ],
+            "course_name": "Expressive Culture: The Graphic Novel",
+            "description": "CORE-UA  711 Expressive Culture: The Graphic Novel \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 720",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16566",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Crow, Thomas"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16567",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 504"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16568",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16569",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 500"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16570",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                }
+            ],
+            "course_name": "Expressive Cult: Images",
+            "description": "CORE-UA  720 Expressive Cult: Images \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 721",
+            "course_name": "Expressive Culture: Painting & Sculpture in New York",
+            "description": "CORE-UA  721 Expressive Culture: Painting & Sculpture in New York \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 722",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7065",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 300",
+                    "time": "Fri 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Broderick, Mosette"
+                }
+            ],
+            "course_name": "Expressive Culture:",
+            "description": "CORE-UA  722 Expressive Culture: \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 730",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9061",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 320",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Mahon, Maureen"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9062",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 218"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9063",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 218"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9064",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 318"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9065",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 318"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9066",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9067",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9068",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9069",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9070",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Expressive Culture: Sounds",
+            "description": "CORE-UA  730 Expressive Culture: Sounds \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 740",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7907",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 101A",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Meineck, Peter"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7990",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 510"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7991",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 570"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7992",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 201"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7993",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "12WV L114"
+                }
+            ],
+            "course_name": "Expressive Culture:Performance",
+            "description": "CORE-UA  740 Expressive Culture:Performance \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 741",
+            "course_name": "Expressive Culture: Perf in Ny Field Study",
+            "description": "CORE-UA  741 Expressive Culture: Perf in Ny Field Study",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 750",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7066",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 102",
+                    "time": "Wed 12.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "Polan, Dana"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7067",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "721B 646"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7068",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "721B 652"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7069",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "721B 652"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7070",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "721B 646"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7071",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "721B 646"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7072",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "721B 652"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9151",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "721B 646"
+                }
+            ],
+            "course_name": "Expressive Culture: Film",
+            "description": "CORE-UA  750 Expressive Culture: Film \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": true
+        },
+        {
+            "course_id": "CORE-UA 751",
+            "course_name": "Expressive Culture: Television",
+            "description": "CORE-UA  751 Expressive Culture: Television \nFor course description, please consult the MAP website: http://map.cas.nyu.edu/page/home",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 761",
+            "course_name": "Expressive Culture: La Belle Epoque",
+            "description": "CORE-UA  761 Expressive Culture: La Belle Epoque \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 762",
+            "course_name": "Expressive Culture: Viva Verdi",
+            "description": "CORE-UA  762 Expressive Culture: Viva Verdi \nFor course description, please consult the College Core Curriculum website: http://core.cas.nyu.edu",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9202",
+            "course_name": "Natural Science I Cosmos & Earth:Origins",
+            "description": "CORE-UA 9202 Natural Science I Cosmos & Earth:Origins",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9505",
+            "course_name": "Cultures and Contexts: Africa",
+            "description": "CORE-UA 9505 Cultures and Contexts: Africa",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9510",
+            "course_name": "Cultures and Contexts: Russia - Between East and West",
+            "description": "CORE-UA 9510 Cultures and Contexts: Russia - Between East and West",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9515",
+            "course_name": "",
+            "description": "CORE-UA 9515\n\n   Cultures & Contexts: Latin America\n\nOver the last 50 years, millions of Latin Americans have experienced extraordinary shifts in their social, political, and cultural landscape, a result of the transformative effects of revolution or insurgency, state repression, popular resistance and social movements. We focus on events that had continental, hemispheric, and even global impact, including the Cuban Revolution of 1959, the military coups of the 1970s, and the Zapatista uprising in 1994. Drawing on a range of primary sources and cultural forms, we listen carefully to the voices of the major social actors of the time. Our sources ...\n\n      more description for CORE-UA 9515 \u00bb\n\n      \n\n\n\nOver the last 50 years, millions of Latin Americans have experienced extraordinary shifts in their social, political, and cultural landscape, a result of the transformative effects of revolution or insurgency, state repression, popular resistance and social movements. We focus on events that had continental, hemispheric, and even global impact, including the Cuban Revolution of 1959, the military coups of the 1970s, and the Zapatista uprising in 1994. Drawing on a range of primary sources and cultural forms, we listen carefully to the voices of the major social actors of the time. Our sources are drawn from a wide range of media: newsprint, television broadcasts, transcripts, testimony, essay, documentary and feature film, art, and music. We deliberately mix artistic representations with documentary evidence to understand how the arts\u2014music, visual art, literature, film\u2014do not just reflect the reality around them, but are themselves vital sites for shaping and changing that reality and our imagination of it, both then and now.\n\n      less description for CORE-UA 9515 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9537",
+            "course_name": "Cultures & contexts: Modern Israel",
+            "description": "CORE-UA 9537 Cultures & contexts: Modern Israel",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9544",
+            "course_name": "",
+            "description": "CORE-UA 9544\n\n   Cultures & Contexts:Spain - At the Crssrds of Europ, N Africa & Americ\n\nTaking advantage of its location in Madrid, this course analyzes the ways in which historical, geopolitical, cultural, artistic, and popular views function to constitute and continuously transform a national culture.  Specifically, the course concentrates on epistemological constructions of Spain\u2014the idea of Spain\u2014that emerges from competing external and internal perspectives. Students will examine how this national culture is constructed in three modules. The first analyzes Spain from North African perspectives as, on the one hand, the traditional site and myth of a lost paradise in Sephardic...\n\n      more description for CORE-UA 9544 \u00bb\n\n      \n\n\n\nTaking advantage of its location in Madrid, this course analyzes the ways in which historical, geopolitical, cultural, artistic, and popular views function to constitute and continuously transform a national culture.  Specifically, the course concentrates on epistemological constructions of Spain\u2014the idea of Spain\u2014that emerges from competing external and internal perspectives. Students will examine how this national culture is constructed in three modules. The first analyzes Spain from North African perspectives as, on the one hand, the traditional site and myth of a lost paradise in Sephardic nostalgic poetry as well as Hispano-Arabic literary traditions and, on the other, as the place to which some contemporary, radical movements view as a strategic goal. The second module looks at American perspectives in which the idea of Spain pits notions of Spanish imperial power and grandeur against the Black Legend, a term that protestant circles in Europe and the United States promoted to attack the legitimacy of Spain\u2019s New World empire. The third perspective focuses on European views and analyzes the depiction of Spain as the embodiment of German and French Romantic ideals beginning at the end of the 17th century and the reemergence of the same notion during the Spanish Civil War (1933-36). Throughout the course, students will have the opportunity to examine some of the principal textual and visual images that contribute to the historical and contemporary construction of a national culture that emerged at geographic and cultural crossroads.\n\n      less description for CORE-UA 9544 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9547",
+            "course_name": "Cultures & Contexts: Multicultlsm in France",
+            "description": "CORE-UA 9547 Cultures & Contexts: Multicultlsm in France",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9548",
+            "course_name": "Cultures & Contexts: Prague Heart of Cent Eur",
+            "description": "CORE-UA 9548 Cultures & Contexts: Prague Heart of Cent Eur",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9549",
+            "course_name": "Cultures and Contexts:Multinational Britain",
+            "description": "CORE-UA 9549 Cultures and Contexts:Multinational Britain",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9554",
+            "course_name": "Culture and Context: Italy",
+            "description": "CORE-UA 9554 Culture and Context: Italy",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9556",
+            "course_name": "Cultures and Contexts: Germany",
+            "description": "CORE-UA 9556 Cultures and Contexts: Germany",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9618",
+            "course_name": "Societies & Soc Sciences Crime,Justice & Society",
+            "description": "CORE-UA 9618 Societies & Soc Sciences Crime,Justice & Society",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9701",
+            "course_name": "Expressive Culture-Words",
+            "description": "CORE-UA 9701 Expressive Culture-Words",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9703",
+            "course_name": "Map:Expressive Culture: Sounds",
+            "description": "CORE-UA 9703 Map:Expressive Culture: Sounds",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9720",
+            "course_name": "",
+            "description": "CORE-UA 9720\n\n   Expressive Culture:  Images\n\nContemporary Art in Britian.  Contemporary art raises vigorous debate and\ncriticism. But what is contemporary about contemporary art? We consider\nsome key issues in dealing critically with contemporary art with a focus on\nwork on display in exhibitions in London, both major national collections\nand private galleries, exploring art produced since the late 1950s through\ncase studies of the work of individual artists and through themes which\ninclude photography, representations of the body, gallery display, video\npractice, and installation art. Topics include how contemporary art came to\n...\n\n      more description for CORE-UA 9720 \u00bb\n\n      \n\n\n\nContemporary Art in Britian.  Contemporary art raises vigorous debate and\ncriticism. But what is contemporary about contemporary art? We consider\nsome key issues in dealing critically with contemporary art with a focus on\nwork on display in exhibitions in London, both major national collections\nand private galleries, exploring art produced since the late 1950s through\ncase studies of the work of individual artists and through themes which\ninclude photography, representations of the body, gallery display, video\npractice, and installation art. Topics include how contemporary art came to\nlook as it does, with a focus on British art; the different forms of\nmaterial and presentation artists have employed; why and how diverse\naudiences are addressed; and how markets, national prizes, and private\ncollections shape the kinds of art produced and inform public taste. We\nalso look at the collection and display of contemporary art, on a private\nand a public scale; dealer galleries, and issues of curation. Critical and\nhistorical writings by artists and theorists will be considered.\n\n      less description for CORE-UA 9720 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9722",
+            "course_name": "Expressive Culture:Architecture in Berlin Field StudyArchitecture in London Field Study",
+            "description": "CORE-UA 9722 Expressive Culture:Architecture in Berlin Field StudyArchitecture in London Field Study",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9723",
+            "course_name": "Expressive Culture: Museum in Washington Field Study",
+            "description": "CORE-UA 9723 Expressive Culture: Museum in Washington Field Study",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9730",
+            "course_name": "Expressive Cultures: Sounds",
+            "description": "CORE-UA 9730 Expressive Cultures: Sounds",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9731",
+            "course_name": "Expressive Culture: Music in Prague Field Study",
+            "description": "CORE-UA 9731 Expressive Culture: Music in Prague Field Study",
+            "offering": false
+        },
+        {
+            "course_id": "CORE-UA 9750",
+            "course_name": "Expressive Culture: Film",
+            "description": "CORE-UA 9750 Expressive Culture: Film",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "major_id": "ENGED-UE",
+    "file": "./2015-2016/English_Education_(ENGED-UE).html",
+    "courses": [
+        {
+            "course_id": "ENGED-UE 71",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10245",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Mon,Wed 3.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "Packer, Rebecca"
+                }
+            ],
+            "course_name": "Lit as Exploration I",
+            "description": "ENGED-UE   71 Lit as Exploration I \nDesigned to develop an understanding of the literary experiences as an encounter between reader and text, and of interpretative problems related to each of the major literary genres.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-UE 193",
+            "course_name": "The Reading of Poetry",
+            "description": "ENGED-UE  193 The Reading of Poetry \nAn introductory course in the reading of poetry, designed to help students improve their abilities to understand , analyze, enjoy, and exercise critical judgment.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10246",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Beck, Sarah",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "ENGED-UE 1000 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-UE 1005",
+            "course_name": "Interm Expository Writing",
+            "description": "ENGED-UE 1005 Interm Expository Writing \nDesigned to help students develop those composing processes and rhetorical strategies needed to generate, focus, present, and polish ideas that clearly inform and powerfully persuade intended audiences.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1030",
+            "course_name": "Lit Sem for English Ed",
+            "description": "ENGED-UE 1030 Lit Sem for English Ed \nSeminar for English majors of a personal and critical perspective. The goal is to help students develop into not only informed and reflective readers of literature but to prepare them to be informed and reflective teachers of literature as well.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1108",
+            "course_name": "Studies in Acting",
+            "description": "ENGED-UE 1108 Studies in Acting",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1185",
+            "course_name": "Advanced Composition",
+            "description": "ENGED-UE 1185 Advanced Composition \nAn advanced course in expository writing for all students, especially those concerned with writing in school settings.  House are arranged for individual counseling.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1191",
+            "course_name": "Writing in The Social Sciences",
+            "description": "ENGED-UE 1191 Writing in The Social Sciences \nFocuses on the principles  and  practices of successful writing in the social sciences by: reading appropriate genres of social science writing (quantitative, qualitative, and literature reviews), using them as models to understand the stylistic and rhetorical demands of such writing, and practicing writing social science texts in preparation for the senior thesis with a particular emphasis on writing a literature review.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1205",
+            "course_name": "Hip Hop and The Teaching of English",
+            "description": "ENGED-UE 1205 Hip Hop and The Teaching of English \nExamines ways that hip hop culture, texts, and language exists as valuable resources worthy of serious study in secondary English classrooms. Students will learn to teach English by learning hip hop, learning about hip hop, and learning through hip hop. Group projects focus on grounded investigations in the area of critical literacy, sociolinguistics, and English language arts teaching/learning. Readings will cover divergent voices in contemporary society as students consider ways to integrate such voices into existing language and literacy curriculums, K through college",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1589",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10247",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Kirkland, David"
+                }
+            ],
+            "course_name": "Tch Eng Multi-Dial Soc",
+            "description": "ENGED-UE 1589 Tch Eng Multi-Dial Soc \nExamines a variety of speech communities and linguistic codes within contemporary American society and their relationship to language use and learning in schools.  Black and Hispanic English vernaculars receive special emphasis.  Group projects focus on actual investigations in the area of sociolinguistics and language teaching/learning.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-UE 1600",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "10248",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Tue,Thu 3.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "Packer, Rebecca"
+                }
+            ],
+            "course_name": "Integrating Reading & Writing With Adoles I",
+            "description": "ENGED-UE 1600 Integrating Reading & Writing With Adoles I \nExplores the major reasons that people read, ways to engage adolescents in meaningful reading, ways to understand and enhance readers' meaning-making processes and experiences, and ways to assess adolescents' reading development over time. This course also addresses the language and literacy needs of English Language Learners and ways of addressing those needs through modifications of curriculum and instruction.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-UE 1601",
+            "course_name": "Integrating Reading & Writing With Adoles II",
+            "description": "ENGED-UE 1601 Integrating Reading & Writing With Adoles II \nExplores the major reasons that people read, ways to engage adolescents in meaningful reading, ways to understand and enhance readers' meaning-making processes and experiences, and ways to assess adolescents' reading development over time. This course also addresses the language and literacy needs of English Language Learners and ways of addressing those needs through modifications of curriculum and instruction.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGED-UE 1911",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10249",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 567",
+                    "time": "Tue 4.55 PM - 7.05 PM",
+                    "open": true,
+                    "professor": "Gouck, Maura"
+                }
+            ],
+            "course_name": "Student Teaching English Education:Middle School",
+            "description": "ENGED-UE 1911 Student Teaching English Education:Middle School \nOne semester supervised student teaching in an English education classroom in middle school a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems and practices as they relate to actual classroom teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGED-UE 1922",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10250",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 567",
+                    "time": "Tue 4.55 PM - 7.05 PM",
+                    "open": true,
+                    "professor": "Gouck, Maura"
+                }
+            ],
+            "course_name": "Student Teaching English Education:High School",
+            "description": "ENGED-UE 1922 Student Teaching English Education:High School \nOne semester supervised student teaching in an English education classroom in high school a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems and practices as they relate to actual classroom teaching.",
+            "offering": true
+        }
+    ]
+}

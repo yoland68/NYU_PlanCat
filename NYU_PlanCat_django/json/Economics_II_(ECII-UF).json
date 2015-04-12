@@ -1,0 +1,40 @@
+{
+    "major_id": "ECII-UF",
+    "file": "./2015-2016/Economics_II_(ECII-UF).html",
+    "courses": [
+        {
+            "course_id": "ECII-UF 102",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12143",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-17",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Jaeckel, Johann"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12224",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-17",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Jaeckel, Johann"
+                }
+            ],
+            "course_name": "Principles of Microeconomics",
+            "description": "ECII-UF  102 Principles of Microeconomics \nThis is the second part of a two-semester introductory sequence dealing with economic principles. The course introduces basic concepts of microeconomic theory by examining price theory and its applications. Topics include consumer demand and choice; indifference curve analysis; big business and public policy; and factor markets and the distribution of income.\n* Economics I and Economics II may meet some of the equivalent course requirements for the College of Arts and Science.",
+            "offering": true
+        },
+        {
+            "course_id": "ECII-UF 9102",
+            "course_name": "Principles of Microeconomics",
+            "description": "ECII-UF 9102 Principles of Microeconomics",
+            "offering": false
+        }
+    ]
+}

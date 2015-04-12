@@ -1,0 +1,130 @@
+{
+    "major_id": "CP-GY",
+    "file": "./2015-2016/Co-op_Education_Program_(CP-GY).html",
+    "courses": [
+        {
+            "course_id": "CP-GY 601",
+            "course_name": "9TH WORK EXPERIENCE",
+            "description": "CP-GY  601 9TH WORK EXPERIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 701",
+            "course_name": "11TH WORK EXPERIENCE",
+            "description": "CP-GY  701 11TH WORK EXPERIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 702",
+            "course_name": "12TH WORK EXPERIENCE",
+            "description": "CP-GY  702 12TH WORK EXPERIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 5990",
+            "course_name": "Internship Seminar",
+            "description": "CP-GY 5990 Internship Seminar \nInternship Seminar provides career development, job search basics and resume development in a seminar setting, arranged with the Wasserman Center for Career Development. This course is open to both undergraduate and graduate students.",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9000",
+            "course_name": "SEMINAR FOR GRADUATE COOP PRACTICUM",
+            "description": "CP-GY 9000 SEMINAR FOR GRADUATE COOP PRACTICUM",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9910",
+            "course_name": "COOPERATIVE PRACTICUM I",
+            "description": "CP-GY 9910 COOPERATIVE PRACTICUM I",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9911",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Internship for MS I",
+            "description": "CP-GY 9911 Internship for MS I \nInternship is a supervised, creative experience that provides full-time graduate students with the opportunity to enhance and augment classroom learning experiences in their field of study. The experience culminates in written reports, from the student, to the faculty supervisors as well as written reports from the supervisor. | Prerequisites: Advisor's approval.",
+            "offering": true
+        },
+        {
+            "course_id": "CP-GY 9920",
+            "course_name": "COOPERATIVE PRACTICUM II",
+            "description": "CP-GY 9920 COOPERATIVE PRACTICUM II",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9921",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Internship for MS II",
+            "description": "CP-GY 9921 Internship for MS II \nInternship is a supervised, creative experience that provides full-time graduate students with the opportunity to enhance and augment classroom learning experiences in their field of study. The experience culminates in written reports, from the student, to the faculty supervisors as well as written reports from the supervisor. | Prerequisites: Advisor's approval and CP-GY 9911",
+            "offering": true
+        },
+        {
+            "course_id": "CP-GY 9930",
+            "course_name": "COOPERATIVE PRACTICUM III",
+            "description": "CP-GY 9930 COOPERATIVE PRACTICUM III",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9940",
+            "course_name": "COOPERATIVE PRACTICUM PHD I",
+            "description": "CP-GY 9940 COOPERATIVE PRACTICUM PHD I",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9941",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Internship for PhD I",
+            "description": "CP-GY 9941 Internship for PhD I \nInternship is a supervised, creative experience that provides full-time graduate students with the opportunity to enhance and augment classroom learning experiences in their field of study. The experience culminates in written reports, from the student, to the faculty supervisors as well as written reports from the supervisor. | Prerequisites: Advisor's approval",
+            "offering": true
+        },
+        {
+            "course_id": "CP-GY 9950",
+            "course_name": "COOPERATIVE PRACTICUM PHD II",
+            "description": "CP-GY 9950 COOPERATIVE PRACTICUM PHD II",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9951",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Internship for PhD II",
+            "description": "CP-GY 9951 Internship for PhD II \nInternship is a supervised, creative experience that provides full-time graduate students with the opportunity to enhance and augment classroom learning experiences in their field of study. The experience culminates in written reports, from the student, to the faculty supervisors as well as written reports from the supervisor. | Prerequisites: Advisor's approval and CP-GY 9941",
+            "offering": true
+        },
+        {
+            "course_id": "CP-GY 9960",
+            "course_name": "COOPERATIVE PRACTICUM PHD III",
+            "description": "CP-GY 9960 COOPERATIVE PRACTICUM PHD III",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9961",
+            "course_name": "Internship for PhD III",
+            "description": "CP-GY 9961 Internship for PhD III \nInternship is a supervised, creative experience that provides full-time graduate students with the opportunity to enhance and augment classroom learning experiences in their field of study. The experience culminates in written reports, from the student, to the faculty supervisors as well as written reports from the supervisor. | Prerequisites: Advisor's approval and CP-GY 9951",
+            "offering": false
+        },
+        {
+            "course_id": "CP-GY 9971",
+            "course_name": "Internship for PhD IV",
+            "description": "CP-GY 9971 Internship for PhD IV \nInternship is a supervised, creative experience that provides full-time graduate students with the opportunity to enhance and augment classroom learning experiences in their field of study. The experience culminates in written reports, from the student, to the faculty supervisors as well as written reports from the supervisor. | Prerequisites: Advisor's approval and CP-GY 9961",
+            "offering": false
+        }
+    ]
+}

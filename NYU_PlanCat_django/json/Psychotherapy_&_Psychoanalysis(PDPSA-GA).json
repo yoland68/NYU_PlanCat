@@ -1,0 +1,308 @@
+{
+    "major_id": "PDPSA-GA",
+    "file": "./2015-2016/Psychotherapy_&_Psychoanalysis(PDPSA-GA).html",
+    "courses": [
+        {
+            "course_id": "PDPSA-GA 4543",
+            "course_name": "Psychoanalytic Supervision",
+            "description": "PDPSA-GA 4543 Psychoanalytic Supervision",
+            "offering": false
+        },
+        {
+            "course_id": "PDPSA-GA 4547",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1721",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "BOBS LL148",
+                    "time": "Tue 8.00 PM - 9.40 PM",
+                    "open": true,
+                    "professor": "Goren, Elizabeth; Levy-Warren, Marsha"
+                }
+            ],
+            "course_name": "Intro to Contemp Psa: Theory, Prac, & Ethics",
+            "description": "PDPSA-GA 4547 Intro to Contemp Psa: Theory, Prac, & Ethics",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4553",
+            "course_name": "Writ Psychoanalytically for Publication",
+            "description": "PDPSA-GA 4553 Writ Psychoanalytically for Publication",
+            "offering": false
+        },
+        {
+            "course_id": "PDPSA-GA 4580",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1854",
+                    "section": "001",
+                    "period": "09/09/2015 - 12/23/2015",
+                    "location": "Barash, Naama",
+                    "time": "Wed 7.10 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2165",
+                    "section": "002",
+                    "period": "09/11/2015 - 09/25/2015",
+                    "location": "BOBS 736 with Aron, Lewis; Bass, Anthony; Corbett, Kenneth; Davies, Jody; Harris, Adrienne11/13/2015 - 12/04/2015 Fri 2.30 PM - 4.10 PM at BOBS 736 with Aron, Lewis; Bass, Anthony; Corbett, Kenneth; Davies, Jody; Harris, Adrienne10/06/2015 - 11/10/2015 Tue 7.30 PM - 9.00 PM at BOBS 837 with Aron, Lewis; Bass, Anthony; Corbett, Kenneth; Davies, Jody; Harris, Adrienne12/08/2015 - 12/22/2015 Tue 7.30 PM - 9.10 PM at BOBS 837",
+                    "time": "Fri 2.30 PM - 4.10 PM",
+                    "open": true,
+                    "professor": "Aron, Lewis; Bass, Anthony; Corbett, Kenneth; Davies, Jody; Harris, Adrienne"
+                }
+            ],
+            "course_name": "Hist & Devel of Psa: Focus Spec Contributors",
+            "description": "PDPSA-GA 4580 Hist & Devel of Psa: Focus Spec Contributors",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4581",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1976",
+                    "section": "001",
+                    "period": "09/09/2015 - 11/04/2015",
+                    "location": "Hirsch, Irwin",
+                    "time": "Wed 1.45 PM - 3.20 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17278",
+                    "section": "002",
+                    "period": "09/04/2015 - 12/18/2015",
+                    "location": "Knafo, Danielle",
+                    "time": "Fri 1.30 PM - 3.10 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2166",
+                    "section": "003",
+                    "period": "09/11/2015 - 10/30/2015",
+                    "location": "Thaler, Aaron",
+                    "time": "Fri 1.10 PM - 2.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17370",
+                    "section": "004",
+                    "period": "09/04/2015 - 12/18/2015",
+                    "location": "BOBS 837",
+                    "time": "Fri 1.00 PM - 2.45 PM",
+                    "open": true,
+                    "professor": "Dimen, Muriel"
+                }
+            ],
+            "course_name": "Clin Case Sems - The Spa",
+            "description": "PDPSA-GA 4581 Clin Case Sems - The Spa",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4582",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17362",
+                    "section": "001",
+                    "period": "09/11/2015 - 10/30/2015",
+                    "location": "Petrucelli, Jean",
+                    "time": "Fri 1.45 PM - 3.20 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17363",
+                    "section": "002",
+                    "period": "09/11/2015 - 10/23/2015",
+                    "location": "Itzhowitz, Sheldon",
+                    "time": "Fri 2.30 PM - 4.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17364",
+                    "section": "003",
+                    "period": "09/09/2015 - 10/28/2015",
+                    "location": "Bach, Sheldon",
+                    "time": "Wed 7.30 PM - 9.05 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17365",
+                    "section": "004",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "Lasky, Richard",
+                    "time": "Tue 7.00 PM - 8.40 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17366",
+                    "section": "005",
+                    "period": "09/21/2015 - 11/09/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Clin Treatment of Spec Disorders: Sel Ptcs",
+            "description": "PDPSA-GA 4582 Clin Treatment of Spec Disorders: Sel Ptcs",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4583",
+            "course_name": "The Study & Clin Use of Dreams: Sel Tpcs",
+            "description": "PDPSA-GA 4583 The Study & Clin Use of Dreams: Sel Tpcs",
+            "offering": false
+        },
+        {
+            "course_id": "PDPSA-GA 4584",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2167",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "Wilner, Warren",
+                    "time": "Tue 10.30 AM - 12.10 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2168",
+                    "section": "002",
+                    "period": "10/24/2015 - 12/05/2015",
+                    "location": "BOBS 736",
+                    "time": "Sat 1.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "Bresler, Jill"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2169",
+                    "section": "003",
+                    "period": "10/06/2015 - 12/01/2015",
+                    "location": "Knoblauch, Steve",
+                    "time": "Tue 8.00 PM - 9.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Comparative Psa: Sel TpcsComp Psa: Comp Anal Maj",
+            "description": "PDPSA-GA 4584 Comparative Psa: Sel TpcsComp Psa: Comp Anal Maj",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4585",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1722",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "Druck, Andrew",
+                    "time": "Wed 11.20 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1723",
+                    "section": "002",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "Fosshage, James",
+                    "time": "Tue 1.15 PM - 2.55 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17372",
+                    "section": "003",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "Director, Lisa",
+                    "time": "Tue 12.30 PM - 2.10 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17373",
+                    "section": "004",
+                    "period": "10/09/2015 - 10/09/2015",
+                    "location": "BOBS 736 with Hoffman, Irwin10/10/2015 - 10/10/2015 Sat 9.30 AM - 3.30 PM at BOBS 736 with Hoffman, Irwin12/04/2015 - 12/04/2015 Fri 5.30 PM - 7.30 PM at BOBS 736 with Hoffman, Irwin12/05/2015 - 12/05/2015 Sat 9.30 AM - 3.30 PM at BOBS 737",
+                    "time": "Fri 5.30 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "Hoffman, Irwin"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17374",
+                    "section": "005",
+                    "period": "09/10/2015 - 10/29/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Psa Theory & Technique: Sel Tpcs",
+            "description": "PDPSA-GA 4585 Psa Theory & Technique: Sel Tpcs",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4586",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2179",
+                    "section": "001",
+                    "period": "10/16/2015 - 10/16/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 6.30 PM",
+                    "open": true,
+                    "professor": "BOBS 73610/17/2015 - 10/17/2015 Sat 9.00 AM - 6.00 PM at BOBS 736"
+                }
+            ],
+            "course_name": "Cultural, Spiritual, & Polit Issues: Sel Tpcs",
+            "description": "PDPSA-GA 4586 Cultural, Spiritual, & Polit Issues: Sel Tpcs",
+            "offering": true
+        },
+        {
+            "course_id": "PDPSA-GA 4587",
+            "course_name": "Gender & Sexuality: Sel Tpcs",
+            "description": "PDPSA-GA 4587 Gender & Sexuality: Sel Tpcs",
+            "offering": false
+        },
+        {
+            "course_id": "PDPSA-GA 4588",
+            "course_name": "Development & Life Span Issue: Sel Tpcs",
+            "description": "PDPSA-GA 4588 Development & Life Span Issue: Sel Tpcs",
+            "offering": false
+        },
+        {
+            "course_id": "PDPSA-GA 4589",
+            "course_name": "Infancy & Psa: Sel Tpcs",
+            "description": "PDPSA-GA 4589 Infancy & Psa: Sel Tpcs",
+            "offering": false
+        }
+    ]
+}

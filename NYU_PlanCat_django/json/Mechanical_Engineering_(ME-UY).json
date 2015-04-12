@@ -1,0 +1,838 @@
+{
+    "major_id": "ME-UY",
+    "file": "./2015-2016/Mechanical_Engineering_(ME-UY).html",
+    "courses": [
+        {
+            "course_id": "ME-UY 101",
+            "course_name": "COMPUTERS IN ME",
+            "description": "ME-UY  101 COMPUTERS IN ME",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 102",
+            "course_name": "COMPUTER-AIDED DRAFTING",
+            "description": "ME-UY  102 COMPUTER-AIDED DRAFTING",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 112",
+            "course_name": "DYNAMICS",
+            "description": "CE-UY  114 | ME-UY  112 DYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 115",
+            "course_name": "ENGINEERING MECHANICS",
+            "description": "ME-UY  115 ENGINEERING MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 116",
+            "course_name": "ENGINEERING MECHANICS 1",
+            "description": "CE-UY  110 | CE-UY  111 | ME-UY  116 ENGINEERING MECHANICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 116",
+            "course_name": "ENGINEERING MECHANICS 1",
+            "description": "CE-UY  111 | ME-UY  116 ENGINEERING MECHANICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 117",
+            "course_name": "ENGINEERING MECHANICS 2",
+            "description": "CE-UY  112 | ME-UY  117 ENGINEERING MECHANICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 117",
+            "course_name": "ENGINEERING MECHANICS 2",
+            "description": "CE-UY  112 | ME-UY  117 ENGINEERING MECHANICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 118",
+            "course_name": "ENGINEERING MECHANICS 3",
+            "description": "ME-UY  118 ENGINEERING MECHANICS 3",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 119",
+            "course_name": "ELEMENTS OF DYNAMICS",
+            "description": "ME-UY  119 ELEMENTS OF DYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 120",
+            "course_name": "ELEM STAT & STREN OF MAT",
+            "description": "ME-UY  120 ELEM STAT & STREN OF MAT",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 121",
+            "course_name": "MECHANICS OF MATERIALS",
+            "description": "CE-UY  202 | ME-UY  121 MECHANICS OF MATERIALS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 121",
+            "course_name": "MECHANICS OF MATERIALS",
+            "description": "CE-UY  202 | ME-UY  121 MECHANICS OF MATERIALS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 122",
+            "course_name": "ANALY & DES OF MECH ELEM",
+            "description": "ME-UY  122 ANALY & DES OF MECH ELEM",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 201",
+            "course_name": "THERMODYNAMICS",
+            "description": "ME-UY  201 THERMODYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 202",
+            "course_name": "THERMODYNAMICS 2",
+            "description": "ME-UY  202 THERMODYNAMICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 203",
+            "course_name": "HEAT TRANSFER",
+            "description": "ME-UY  203 HEAT TRANSFER",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 204",
+            "course_name": "DSGN ENERG TRANS SYSTMS",
+            "description": "ME-UY  204 DSGN ENERG TRANS SYSTMS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 211",
+            "course_name": "FLUIDS 1",
+            "description": "AE-UY  231 | ME-UY  211 FLUIDS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 213",
+            "course_name": "TRANSPORT PROCESSES",
+            "description": "ME-UY  213 TRANSPORT PROCESSES",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 221",
+            "course_name": "INSTRUMENTATION",
+            "description": "ME-UY  221 INSTRUMENTATION",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 222",
+            "course_name": "AUTOMATED CONTROLS",
+            "description": "ME-UY  222 AUTOMATED CONTROLS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 231",
+            "course_name": "FLUIDS MECHANICS",
+            "description": "ME-UY  231 FLUIDS MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 232",
+            "course_name": "COMPRESSIBLE FLOW",
+            "description": "ME-UY  232 COMPRESSIBLE FLOW",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 241",
+            "course_name": "PROPULSION",
+            "description": "ME-UY  241 PROPULSION",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 242",
+            "course_name": "FUND. OF STRESS ANALYSIS",
+            "description": "ME-UY  242 FUND. OF STRESS ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 243",
+            "course_name": "INTERNAL COMBUST ENGINES",
+            "description": "ME-UY  243 INTERNAL COMBUST ENGINES",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 251",
+            "course_name": "VIBRATIONS",
+            "description": "ME-UY  251 VIBRATIONS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 252",
+            "course_name": "SYNTH. MECHANICAL SYSTS.",
+            "description": "ME-UY  252 SYNTH. MECHANICAL SYSTS.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 261",
+            "course_name": "VIBRATIONS",
+            "description": "ME-UY  261 VIBRATIONS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 270",
+            "course_name": "THERMODYNAMICS 1",
+            "description": "ME-UY  270 THERMODYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 271",
+            "course_name": "STRESS ANALYSIS",
+            "description": "AE-UY  271 | ME-UY  271 STRESS ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 272",
+            "course_name": "STRESS ANAL MECH COMP",
+            "description": "ME-UY  272 STRESS ANAL MECH COMP",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 273",
+            "course_name": "STRESS LABORATORY",
+            "description": "ME-UY  273 STRESS LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 281",
+            "course_name": "FLUID SYSTEMS 1",
+            "description": "ME-UY  281 FLUID SYSTEMS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 300",
+            "course_name": "COMP. GRAPHICS IN C.A.D.",
+            "description": "ME-UY  300 COMP. GRAPHICS IN C.A.D.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 301",
+            "course_name": "SYNTH MECHANICAL SYSTMS",
+            "description": "ME-UY  301 SYNTH MECHANICAL SYSTMS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 302",
+            "course_name": "ANALYSIS & DSGN MACH ELEMTS",
+            "description": "ME-UY  302 ANALYSIS & DSGN MACH ELEMTS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 311",
+            "course_name": "HEAT TRANSFER LAB I",
+            "description": "ME-UY  311 HEAT TRANSFER LAB I",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 312",
+            "course_name": "HEAT TRANSFER LAB II",
+            "description": "ME-UY  312 HEAT TRANSFER LAB II",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 315",
+            "course_name": "TRANSPORT PROCESSESS",
+            "description": "ME-UY  315 TRANSPORT PROCESSESS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 316",
+            "course_name": "TURBOMACHINERY",
+            "description": "ME-UY  316 TURBOMACHINERY",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 317",
+            "course_name": "AIR CONDIT/REFRIGERATION",
+            "description": "ME-UY  317 AIR CONDIT/REFRIGERATION",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 321",
+            "course_name": "INSTRUMENTATION",
+            "description": "ME-UY  321 INSTRUMENTATION",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 322",
+            "course_name": "AUTOMATED CONTROLS",
+            "description": "ME-UY  322 AUTOMATED CONTROLS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 323",
+            "course_name": "ADVANCE CONTR & ROBOTICS",
+            "description": "ME-UY  323 ADVANCE CONTR & ROBOTICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 324",
+            "course_name": "INSTRUMENTATION LABORATORY",
+            "description": "ME-UY  324 INSTRUMENTATION LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 325",
+            "course_name": "CONTROLS LAB",
+            "description": "ME-UY  325 CONTROLS LAB",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 331",
+            "course_name": "COMPUT METH IN C.A.D.",
+            "description": "ME-UY  331 COMPUT METH IN C.A.D.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 332",
+            "course_name": "SOLID MODELING",
+            "description": "ME-UY  332 SOLID MODELING",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 337",
+            "course_name": "INTRO TO ROBOTICS",
+            "description": "ME-UY  337 INTRO TO ROBOTICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 340",
+            "course_name": "MANUFACTURING PROCESS",
+            "description": "ME-UY  340 MANUFACTURING PROCESS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 341",
+            "course_name": "FINITE ELEMENTS",
+            "description": "ME-UY  341 FINITE ELEMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 343",
+            "course_name": "ME LABORATORY 3",
+            "description": "ME-UY  343 ME LABORATORY 3",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 350",
+            "course_name": "ME PROJECT PROPOSAL",
+            "description": "ME-UY  350 ME PROJECT PROPOSAL",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 351",
+            "course_name": "FLUID MECHANICS LABORATORY",
+            "description": "ME-UY  351 FLUID MECHANICS LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 351",
+            "course_name": "FLUID MECHANICS LABORATORY",
+            "description": "ME-UY  351 FLUID MECHANICS LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 352",
+            "course_name": "HEAT TRANSFER LABORATORY",
+            "description": "ME-UY  352 HEAT TRANSFER LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 353",
+            "course_name": "M.E. LABORATORY 3",
+            "description": "ME-UY  353 M.E. LABORATORY 3",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 361",
+            "course_name": "DESIGN PROJECT I",
+            "description": "ME-UY  361 DESIGN PROJECT I",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 362",
+            "course_name": "DESIGN PROJECT II",
+            "description": "ME-UY  362 DESIGN PROJECT II",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 363",
+            "course_name": "M.E. PROJECT/STUDY 1",
+            "description": "ME-UY  363 M.E. PROJECT/STUDY 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 364",
+            "course_name": "M.E. PROJECT/STUDY 2",
+            "description": "ME-UY  364 M.E. PROJECT/STUDY 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 371",
+            "course_name": "DESIGN PROJECT I",
+            "description": "ME-UY  371 DESIGN PROJECT I",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 372",
+            "course_name": "DESIGN PROJECT II",
+            "description": "ME-UY  372 DESIGN PROJECT II",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 381",
+            "course_name": "SR. HONORS WORK IN ME 1",
+            "description": "ME-UY  381 SR. HONORS WORK IN ME 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 382",
+            "course_name": "SR. HONORS WORK IN ME 2",
+            "description": "ME-UY  382 SR. HONORS WORK IN ME 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 391",
+            "course_name": "SELECTED TOPICS I",
+            "description": "ME-UY  391 SELECTED TOPICS I",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 392",
+            "course_name": "SELECTED TOPICS II",
+            "description": "ME-UY  392 SELECTED TOPICS II",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 393",
+            "course_name": "SELECTED TOPICS III",
+            "description": "ME-UY  393 SELECTED TOPICS III",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 394",
+            "course_name": "SELECTED TOPICS IV",
+            "description": "ME-UY  394 SELECTED TOPICS IV",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 395",
+            "course_name": "MECH CONTROL SYSTEMS",
+            "description": "ME-UY  395 MECH CONTROL SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 498",
+            "course_name": "X SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "description": "ME-UY  498X SPECIAL TOPICS IN MECHANICAL ENGINEERING \nThe course covers topics of special interest in mechanical engineering to promote  exposure to traditional and emerging issues in mechanical engineering not covered in the program\u2019s mainstay courses. | Prerequisite: Adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 1012",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Introduction to Mechanical Engineering",
+            "description": "ME-UY 1012 Introduction to Mechanical Engineering \nThis course introduces students to the range of mechanical engineering and emphasizes the basic principles and devices for storing and using energy, directing motion and satisfying needs. Case studies look at design issues and related ethical and professional practice issues. Emphasis is on a mindset of exploration. Engineering standards and standard parts. Teams work on and present two design challenges. | Prerequisite: Only first-year students are permitted to enroll in this course.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 1114",
+            "course_name": "COMPUTERS IN ME ANALYSIS & DESIGN",
+            "description": "ME-UY 1114 COMPUTERS IN ME ANALYSIS & DESIGN",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 2112",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "COMPUTER AIDED DESIGN",
+            "description": "ME-UY 2112 COMPUTER AIDED DESIGN \nThe course covers sketching, drawing and computer-aided drafting. Topics: Projection theory\u2014multiview, axonometric, oblique.  Auxiliaries, sections, isometrics, dimensions, fasteners, detail and assembly drawings. Introduction\nto blueprint reading. Overview of CIM and CAD integration with other\nCIM concepts. A design project incorporates developed skills in visualization, drawing techniques, standards and CAD.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 2114",
+            "course_name": "COMPUTERS IN ME",
+            "description": "ME-UY 2114 COMPUTERS IN ME",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 2211",
+            "classes": [
+                {}
+            ],
+            "course_name": "Statics Laboratory",
+            "description": "ME-UY 2211 Statics Laboratory \nThe course deals with measurement and calculations of bending stress, bending moment, shear forces and deflections in beams, buckling of struts and equilibrium analysis of structures. | Co-requisite: ME-UY 2213.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 2213",
+            "classes": [
+                {}
+            ],
+            "course_name": "Statics",
+            "description": "ME-UY 2213 Statics \nThe course covers three-dimensional vector treatment of the static equilibrium of particles and rigid bodies. Topics: Equivalent force and couple systems. Distributed force systems. Static analysis of trusses, frames and machines. Friction, impending motion. Methods of virtual work. | Prerequisite: PH-UY 1013 and MA-UY 1024. Co-requisite: ME-UY 2211.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 2214",
+            "course_name": "STRUCTURAL SYSTEMS 1",
+            "description": "ME-UY 2214 STRUCTURAL SYSTEMS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 2313",
+            "course_name": "THERMODYNAMICS",
+            "description": "ME-UY 2313 THERMODYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 2514",
+            "course_name": "MEASUREMENT SYSTEMS",
+            "description": "ME-UY 2514 MEASUREMENT SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3211",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Mechanics of Materials Laboratory",
+            "description": "ME-UY 3211 Mechanics of Materials Laboratory \nThe course covers measurement of elastic constants for isotropic and anisotropic materials, verification of stress and strain transformation equations, stress concentration concept, unsymmetric bending of beams and torsion of shafts. | Corequisite: ME-UY 3213.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3213",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Mechanics of Materials",
+            "description": "ME-UY 3213 Mechanics of Materials \nThe course examines the Concept of Stresses and Strains in two and three dimensions, Stress-strain relationships, Stress transformation, Strain transformation, Axial members, Torsion of shafts, Bending of beams. | Prerequisites: ME-UY 2213, MT-UY 2813 and MA-UY 2132 or MA-UY 2034. Co-requisite: ME-UY 3211.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3214",
+            "course_name": "STRUCTURAL SYSTEMS 2",
+            "description": "ME-UY 3214 STRUCTURAL SYSTEMS 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3223",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Dynamics",
+            "description": "ME-UY 3223 Dynamics \nThe course explores three-dimensional treatment of the kinematics of particles and rigid bodies using various coordinate systems, Newton\u2019s laws, work, energy, impulse, momentum, conservative force fields, impact and rotation and plane motion of rigid bodies. | Prerequisite: ME-UY 2213 and MA-UY 2132 or MA-UY 2034",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3233",
+            "course_name": "Machine Design",
+            "description": "ME-UY 3233 Machine Design \nThis course introduces students to fundamentals of machine elements, enabling them to employ this knowledge to design machines for various practical applications. The course begins with a brief review of stress, deformation and failure, followed by friction and wear. Subsequently, loaded columns, pressurized cylinders and shafts are presented. Bearings, gears, screws, springs, brakes, clutches and belts are discussed. The course ends with an introduction to MEMS, Micro-Electro Mechanical Systems. | Prerequisite: ME-UY 3213.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3311",
+            "course_name": "Fluid Mechanics Laboratory",
+            "description": "ME-UY 3311 Fluid Mechanics Laboratory \nThe course covers fluid mechanics instrumentation and principles, and consists of a set of laboratory experiments designed to reinforce concepts presented in ME-UY 3313 Fluid Mechanics. In addition, this course involves team work, report writing and oral presentations. | Co-requisite: ME-UY 3313.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3313",
+            "course_name": "Fluid Mechanics",
+            "description": "ME-UY 3313 Fluid Mechanics \nThis course introduces fluid kinematics, hydrostatics and thermodynamics. Topics: Basic conservation laws in integral form for a control volume. Conservation of mass, momentum, angular momentum and energy for flow. Inviscid flow: Bernoulli\u2019s and Euler\u2019s equations. Viscous flow: flows in pipes and ducts, head loss and friction factor. | Prerequisites: ME-UY 3333, MA-UY 2132 or MA-UY 2034 and MA-UY 2122 or MA-UY 2114. Co-requisite: ME-UY 3311.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3314",
+            "course_name": "FLOW & THERMAL SYSTEMS 1",
+            "description": "ME-UY 3314 FLOW & THERMAL SYSTEMS 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3323",
+            "course_name": "Energy Systems",
+            "description": "ME-UY 3323 Energy Systems \nThis first course in power generation focuses on the analysis and design of energy-conversion systems. It will introduce students to fossil, nuclear and renewable-energy (including wind and solar) power plants with equal emphasis. Students gain a comprehensive and detailed understanding of the fundamentals of such systems and the issues related to their operation from economic, environmental and safety points of view. | Prerequisite: ME-UY 3333.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3333",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "THERMODYNAMICS",
+            "description": "ME-UY 3333 THERMODYNAMICS \nThe course centers on properties of pure substances; concepts of work and heat; closed and open systems. Topics: Fundamental laws of thermodynamics. Carnot and Clasius statements of the 2nd law; entropy and entropy production; heat engines, refrigerators, heat pumps; efficiencies, coefficients of performance.| Prerequisite: PH-UY 2033, MA-UY 1124 and MA-UY 2132 or MA-UY 2034.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3411",
+            "classes": [
+                {}
+            ],
+            "course_name": "Automatic Control Laboratory",
+            "description": "ME-UY 3411 Automatic Control Laboratory \nThe course covers system ID, modeling, identification and control of RC electrical network and a DCservo motor, modeling and control of a maglev system, rotary inverted pendulum and a coupled water tank system. | Prerequisite: ME-UY 3511. Co-requisite: ME-UY 3413.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3413",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "ME-UY 3413\n\n   Automatic Control\n\nThe course examines dynamic system modeling, analysis and feedback control design with extensive, hands-on computer simulation. Topics: Modeling and analysis of dynamic systems. Description of interconnected systems via transfer functions and block/signal flow diagrams. System response characterization as transient and steady-state responses and error considerations. Stability of dynamical systems: Routh- Hurwitz criterion and Nyquist criterion. Graphical methods for dynamical system analysis and design: root locus and Bode plot. Computer-aided feedback control design for mechanical, aerospace...\n\n      more description for ME-UY 3413 \u00bb\n\n      \n\n\n\nThe course examines dynamic system modeling, analysis and feedback control design with extensive, hands-on computer simulation. Topics: Modeling and analysis of dynamic systems. Description of interconnected systems via transfer functions and block/signal flow diagrams. System response characterization as transient and steady-state responses and error considerations. Stability of dynamical systems: Routh- Hurwitz criterion and Nyquist criterion. Graphical methods for dynamical system analysis and design: root locus and Bode plot. Computer-aided feedback control design for mechanical, aerospace, robotic, thermo-fluid and vibratory systems. | Prerequisite: ME-UY 3513 and ME-UY 3223. Co-requisite: ME-UY 3411.\n\n      less description for ME-UY 3413 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3414",
+            "course_name": "DYNAMIC SYSTEMS & CONTROL 1",
+            "description": "ME-UY 3414 DYNAMIC SYSTEMS & CONTROL 1",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3424",
+            "course_name": "DYNAMIC SYSTEMS & CONTROL 2",
+            "description": "ME-UY 3424 DYNAMIC SYSTEMS & CONTROL 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3483",
+            "course_name": "MECHATRONICS",
+            "description": "ME-UY 3483 MECHATRONICS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 3511",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Measurement Systems Laboratory",
+            "description": "ME-UY 3511 Measurement Systems Laboratory \nThe course covers electric measurements, data acquisition, passive and active filters for signal conditioning, temperature, position, velocity and acceleration measurements. | Co-requisite: ME-UY 3513.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3513",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Measurement Systems",
+            "description": "ME-UY 3513 Measurement Systems \nThe course focuses on electrical circuits and components, filtering, dynamic measurement system response characteristics, analog signal processing, digital representation, data acquisition, sensors. Study of measurement systems via computer simulation. | Prerequisites: PH-UY 2023 and MA-UY 2132 or MA-UY 2034. Co-requisite: ME-UY 3511.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 3713",
+            "course_name": "",
+            "description": "ME-UY 3713\n\n   MANUFACTURING SYSTEMS I\n\nTo be successful in the marketplace, a product must meet both customer needs and goals of performance, cost, quality, reliability, safety and the environment. The course addresses issues critical to the design of a product for manufacture and the methods that have been found to be successful in addressing these issues. The design process is studied and illustrated through class exercises and a term project. Selected manufacturing processes are studied. Economic feasibility, entrepreneurship and bringing products (and services) to the market are emphasized. |  Prerequisites: PH-UY 1013 and MA-U...\n\n      more description for ME-UY 3713 \u00bb\n\n      \n\n\n\nTo be successful in the marketplace, a product must meet both customer needs and goals of performance, cost, quality, reliability, safety and the environment. The course addresses issues critical to the design of a product for manufacture and the methods that have been found to be successful in addressing these issues. The design process is studied and illustrated through class exercises and a term project. Selected manufacturing processes are studied. Economic feasibility, entrepreneurship and bringing products (and services) to the market are emphasized. |  Prerequisites: PH-UY 1013 and MA-UY 1024.\n\n      less description for ME-UY 3713 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4112",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Senior Design I",
+            "description": "ME-UY 4112 Senior Design I \nThis is the first of two courses dedicated to the capstone design experience in mechanical engineering. In this first course, the students identify and define a project to design, build and test an engineering product or system and complete the preliminary design of their chosen system. The product-realization process, building effective teams and teamwork and communication skills are emphasized. | Prerequisites: ME-UY 2112 and ME-UY 3233. Corequisite: ME-UY 4214 and 4313.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 4113",
+            "course_name": "Senior Design II",
+            "description": "ME-UY 4113 Senior Design II \nThis is the second of two courses dedicated to the capstone design experience in mechanical engineering and based on knowledge and skills acquired in earlier course work. Topics: Product design, development, building and testing prototype hardware, with an emphasis on teamwork. The Product Realization Process emphasizes incorporation of engineering standards and realistic constraints. The course concentrates on communication skills. | Prerequisites: ME-UY 3413, ME-UY 4112, ME-UY 4214, ME-UY 4313.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4114",
+            "course_name": "SENIOR DESIGN II",
+            "description": "ME-UY 4114 SENIOR DESIGN II",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4124",
+            "course_name": "ENGINEERING DESIGN 2",
+            "description": "ME-UY 4124 ENGINEERING DESIGN 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4213",
+            "course_name": "Design and Fabrication of Composite Materials",
+            "description": "ME-UY 4213 Design and Fabrication of Composite Materials \nThe course introduces composite materials. Topics: Introduction to types of reinforcements and matrix materials. Various applications in mechanical engineering. Manufacturing of polymer, metal and ceramic matrix materials. Analysis of laminated composites for mechanical properties. | Prerequisites: MT-UY 2813, MT-UY 2811 and ME-UY 3213.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4214",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Finite Element Modeling, Design and Analysis",
+            "description": "ME-UY 4214 Finite Element Modeling, Design and Analysis \nThe analysis of complex static and dynamic problems involves three steps: selection of a mathematical model; analysis of the model; interpretation of the predicted response. The course deals with deriving analytical solutions and comparing them with Finite Element Analysis results. Students are required to use state-of-the-art commercial software. | Prerequisites: ME-UY 3213, ME-UY 3313, MA-UY 2122 and MA-UY 2132.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 4223",
+            "course_name": "VIBRATIONS",
+            "description": "ME-UY 4223 VIBRATIONS",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4311",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Heat Transfer Laboratory",
+            "description": "ME-UY 4311 Heat Transfer Laboratory \nThe course covers heat-transfer instrumentation and principles and consists of a set of laboratory experiments designed to reinforce the concepts presented in ME-UY 4313 Heat Transfer. In addition, this course involves team work, report writing and oral presentation. | Prerequisite: ME-UY 3311. Co-requisite: ME-UY 4313.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 4313",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Heat Transfer",
+            "description": "ME-UY 4313 Heat Transfer \nThe course introduces modes of conduction, convection and radiation heat transfer. Topics: Analysis of multidimensional geometries for the conduction mode. Unsteady conduction. Numerical methods of analysis. Introduction to convection. Internal and external convection. Natural convection and boiling and condensation. Principles of radiative heat transfer. | Prerequisite: ME-UY 3313. Co-requisite: ME-UY 4311.",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 4314",
+            "course_name": "FLOW & THERMAL SYSTEMS 2",
+            "description": "ME-UY 4314 FLOW & THERMAL SYSTEMS 2",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4353",
+            "course_name": "Internal Combustion Engines",
+            "description": "ME-UY 4353 Internal Combustion Engines \nThe course covers introduction and definitions, engine-operating characteristics. Topics: Thermodynamics of internal combustion engines. Thermodynamics of combustion. Combustion in spark ignition engines. Design for performance and efficiency. Pollutant formation and controls, emissions tests. | Prerequisites: ME-UY 3313 and ME-UY 3333. Co-requisite: ME-UY 4313.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4354",
+            "course_name": "INTERNAL COMBUSTION ENGINES",
+            "description": "ME-UY 4354 INTERNAL COMBUSTION ENGINES",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4363",
+            "course_name": "Heating, Ventilation and Air Conditioning",
+            "description": "ME-UY 4363 Heating, Ventilation and Air Conditioning \nThis course reviews thermodynamic principles, psychometric chart and psychometric analysis, comfort air conditioning and indoor air quality, heating and cooling system, HVAC system design and equipment selection. | Prerequisites: ME-UY 4313.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4373",
+            "course_name": "INTRO TO NUCLEAR ENGINEERING",
+            "description": "ME-UY 4373 INTRO TO NUCLEAR ENGINEERING \nThis is intended to be a required course for the Nuclear Engineering Concentration.  It covers three basic areas: (a) reactor kinetics, as it pertains to neutron reaction associated with fissile materials, (b) power reactor systems, i.e. the various types of nuclear reactors in use and their basic operating principles, and (c) design principles for reactors and reactor systems.  | Prerequisite:  PH-UY 3103 Fundamentals of Applied Nuclear Physics",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4383",
+            "course_name": "Introduction to Radiation Physics and Dosimetry",
+            "description": "ME-UY 4383 Introduction to Radiation Physics and Dosimetry \nTheory and practice of Radiation and Health Physics. Atomic and nuclear structure, X-ray and gamma radiation, interaction of ionizing radiation with matter, and effects of ionizing radiation on living tissue. The course also introduces the principles of radiation detection, radiation measurement, and external and internal dosimetry. Cross listed with PH-UY 3503| Prerequisite: PH-UY 3103",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4393",
+            "classes": [
+                {}
+            ],
+            "course_name": "Nuclear Power Plant Systems",
+            "description": "ME-UY 4393 Nuclear Power Plant Systems \nPrinciples of operation of pressurized and boiling water reactors.  Overall unit and major components of nuclear plants. Reactor and moderator systems.  Reactor control. Heat transfer systems.  Water/steam systems, turbine, and feedwater pumps.  Special safety systems and their operations under transient conditions.  Protection of the public. | Prerequisite: PH-UY 2033",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 4484",
+            "course_name": "SMART SYSTEMS: MECHATRONICS II",
+            "description": "ME-UY 4484 SMART SYSTEMS: MECHATRONICS II",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4514",
+            "course_name": "MECHANICAL ENGINEERING LAB",
+            "description": "ME-UY 4514 MECHANICAL ENGINEERING LAB",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4713",
+            "course_name": "MANUFACTURING SYSTEMS II",
+            "description": "ME-UY 4713 MANUFACTURING SYSTEMS II \nThis course continues ME-UY 3713. It addresses techniques of manufacturing systems that can be applied to business processes in a variety of industries to address bottlenecks, simulation, economic computations, design process and applications. This course builds from the readings and emphasizes project work. The course depends on effective teamwork and focuses on project work and presentations. |  Prerequisite: MN-UY 3713.",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4863",
+            "course_name": "CORROSION & NON-DESTRUCTIVE EVALUATION OF MATERIALS",
+            "description": "ME-UY 4863 CORROSION & NON-DESTRUCTIVE EVALUATION OF MATERIALS \nMechanisms of corrosion and means to prevent corrosion; uniform corrosion, galvanic corrosion, pitting, leaching and corrosion in fresh water; protective coatings, cathodic protection and changes in design and environment to prevent corrosion. Non-destructive testing of materials; Penetrants, Magnetic, Radiography, Eddy Current and Ultrasonic techniques. Materials selection, failure analysis and prevention and design strategies for inspectability. | Pre-requisite: PH-UY 2313",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4911",
+            "course_name": "SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "description": "ME-UY 4911 SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4912",
+            "course_name": "SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "description": "ME-UY 4912 SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4913",
+            "course_name": "SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "description": "ME-UY 4913 SPECIAL TOPICS IN MECHANICAL ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "ME-UY 4983",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "SPECIAL TOPICS IN MECH ENGRADVANCED CADINTEL PROP STRAT FOR ENGINEERS",
+            "description": "ME-UY 4983 SPECIAL TOPICS IN MECH ENGRADVANCED CADINTEL PROP STRAT FOR ENGINEERS",
+            "offering": true
+        },
+        {
+            "course_id": "ME-UY 4993",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "B.S. THESIS IN MECHANICAL ENGINEERING",
+            "description": "ME-UY 4993 B.S. THESIS IN MECHANICAL ENGINEERING \nHonors College students can produce a BS Thesis on a topic of interest to them under faculty advisement. A research project is carried out in traditional and emerging areas of mechanical engineering. The course can be repeated for no more than six credits. | Prerequisites: Honors College status and adviser approval.",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,402 @@
+{
+    "major_id": "COR1-GB",
+    "file": "./2015-2016/Core_Course_(COR1-GB).html",
+    "courses": [
+        {
+            "course_id": "COR1-GB 1101",
+            "course_name": "Business Strategy Analys",
+            "description": "COR1-GB 1101 Business Strategy Analys",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 1102",
+            "course_name": "Managing Organizations I",
+            "description": "COR1-GB 1102 Managing Organizations I",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 1103",
+            "course_name": "Firms & Markets",
+            "description": "COR1-GB 1103 Firms & Markets",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 1112",
+            "course_name": "Managing Organizations I",
+            "description": "COR1-GB 1112 Managing Organizations I",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 1302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20162",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 2-65",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Blader, Steven"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20163",
+                    "section": "11",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 2-65",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Leslie, Lisa"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20164",
+                    "section": "12",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 2-70",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Magee, Joseph"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20165",
+                    "section": "13",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 2-65",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Leslie, Lisa"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20166",
+                    "section": "14",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "KMEC 2-65",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Milliken, Frances"
+                }
+            ],
+            "course_name": "LEADERSHIP IN ORGANIZATIO",
+            "description": "COR1-GB 1302 LEADERSHIP IN ORGANIZATIO \nLEADERSHIP IN ORGANIZATIO",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 1303",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20175",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 2-70",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Said, Maher"
+                }
+            ],
+            "course_name": "FIRMS & MARKETS",
+            "description": "COR1-GB 1303 FIRMS & MARKETS \nFIRMS & MARKETS",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 1305",
+            "course_name": "STATISTICS &DATA ANALYSIS",
+            "description": "COR1-GB 1305 STATISTICS &DATA ANALYSIS \nSTATISTICS &DATA ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 1306",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20191",
+                    "section": "11",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 3-50",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Shalev, Ron"
+                }
+            ],
+            "course_name": "FIN ACCOUNTING & REPORTNG",
+            "description": "COR1-GB 1306 FIN ACCOUNTING & REPORTNG \nFIN ACCOUNTING & REPORTNG",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20194",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "FALL INTERNSHIP",
+            "description": "COR1-GB 2101 FALL INTERNSHIP \nFALL INTERNSHIP",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2102",
+            "course_name": "Integrative Strategy Exe",
+            "description": "COR1-GB 2102 Integrative Strategy Exe",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2103",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20195",
+                    "section": "10",
+                    "period": "09/21/2015 - 10/26/2015",
+                    "location": null,
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 4-120"
+                }
+            ],
+            "course_name": "STRATEGY I",
+            "description": "COR1-GB 2103 STRATEGY I \nSTRATEGY I",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2104",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20196",
+                    "section": "10",
+                    "period": "11/02/2015 - 12/07/2015",
+                    "location": null,
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 4-120"
+                }
+            ],
+            "course_name": "STRATEGY II",
+            "description": "COR1-GB 2104 STRATEGY II \nSTRATEGY II",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2105",
+            "course_name": "Business Communication",
+            "description": "COR1-GB 2105 Business Communication \nPersuasive communication is a vital component to many aspects of business life. This course introduces the basics of communication strategy and persuasion: audience analysis, communicator credibility, message construction and delivery. Written and oral presentation assignments derive from cases used in the Strategy I course. Students receive feedback to improve presentation effectiveness. Additional coaching is available for students who want to work on professional written communication.",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2109",
+            "course_name": "Fund of it & E-Commerce",
+            "description": "COR1-GB 2109 Fund of it & E-Commerce",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2113",
+            "course_name": "THE GLOBAL ECONOMY",
+            "description": "COR1-GB 2113 THE GLOBAL ECONOMY \nTHE GLOBAL ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2114",
+            "course_name": "Competitive Adv from Ops",
+            "description": "COR1-GB 2114 Competitive Adv from Ops",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2119",
+            "course_name": "Fund of it & E-Commerce",
+            "description": "COR1-GB 2119 Fund of it & E-Commerce",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2123",
+            "course_name": "Global Business I",
+            "description": "COR1-GB 2123 Global Business I \nWhat are the key challenges in the global business environment? This course provides a framework for understanding the challenges faced in contemporary business as globalization affects competition, capital markets, and trade. Topics studied include the gains from trade, impediments to free trade, government trade policies, and international efforts to improve the global environment for trade. In addition, the course examines the balance of international payments and the determination of exchange rates.",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2125",
+            "course_name": "Global Business II",
+            "description": "COR1-GB 2125 Global Business II \nWhat are the political and economic relationships among nations that determine growth and affect the global business environment? Decision making in globalized businesses requires an understanding of the underlying concepts of international macroeconomics. The course provides a framework for understanding growth and why some countries are richer than others. In addition, students learn to understand the linkages among work economies through exchange rates, the balance of payments, and national economic policies.",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2203",
+            "course_name": "The Global Economy",
+            "description": "COR1-GB 2203 The Global Economy",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2214",
+            "course_name": "Operations",
+            "description": "COR1-GB 2214 Operations",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2301",
+            "course_name": "STRATEGY",
+            "description": "COR1-GB 2301 STRATEGY \nSTRATEGY",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2302",
+            "course_name": "FOUNDATIONS IN CORP FINAN",
+            "description": "COR1-GB 2302 FOUNDATIONS IN CORP FINAN \nFOUNDATIONS IN CORP FINAN",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 2303",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20203",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": null,
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 3-50"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20204",
+                    "section": "11",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": null,
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 3-50"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20205",
+                    "section": "12",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": null,
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 3-55"
+                },
+                {}
+            ],
+            "course_name": "THE GLOBAL ECONOMY",
+            "description": "COR1-GB 2303 THE GLOBAL ECONOMY \nTHE GLOBAL ECONOMY",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20211",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 3-55",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Steckel, Joel"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20212",
+                    "section": "11",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "KMEC 3-65",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Erdem, Tulin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20213",
+                    "section": "12",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 3-110",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Craig, Charles"
+                }
+            ],
+            "course_name": "MARKETING",
+            "description": "COR1-GB 2310 MARKETING \nMARKETING",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2311",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20217",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 3-70",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Stroebel, Johannes"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20218",
+                    "section": "11",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 3-70",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Stroebel, Johannes"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20219",
+                    "section": "12",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 3-70",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Stroebel, Johannes"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20220",
+                    "section": "13",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Drechsler, Itamar"
+                }
+            ],
+            "course_name": "FOUNDATIONS OF FINANCE",
+            "description": "COR1-GB 2311 FOUNDATIONS OF FINANCE \nFOUNDATIONS OF FINANCE",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 2314",
+            "classes": [
+                {}
+            ],
+            "course_name": "OPERATIONS MANAGEMENT",
+            "description": "COR1-GB 2314 OPERATIONS MANAGEMENT \nOPERATIONS MANAGEMENT",
+            "offering": true
+        },
+        {
+            "course_id": "COR1-GB 3370",
+            "course_name": "Ind Study: Managing Orgs",
+            "description": "COR1-GB 3370 Ind Study: Managing Orgs",
+            "offering": false
+        },
+        {
+            "course_id": "COR1-GB 4102",
+            "course_name": "Research Pract-Acctg II",
+            "description": "COR1-GB 4102 Research Pract-Acctg II",
+            "offering": false
+        }
+    ]
+}

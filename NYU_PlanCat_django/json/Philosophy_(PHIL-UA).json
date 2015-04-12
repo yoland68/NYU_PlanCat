@@ -1,0 +1,994 @@
+{
+    "major_id": "PHIL-UA",
+    "file": "./2015-2016/Philosophy_(PHIL-UA).html",
+    "courses": [
+        {
+            "course_id": "PHIL-UA 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7880",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Pryor, James"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7912",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-19",
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Lee, Andrew"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7913",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 412"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7914",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Lee, Andrew"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7915",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-19",
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Lawrence, Penn"
+                }
+            ],
+            "course_name": "Central Problems in Philosophy",
+            "description": "PHIL-UA    1 Central Problems in Philosophy \nThe most basic questions about human life and its place in the universe. Topics may include free will, the relation of body and mind, and immortality; skepticism, self-knowledge, causality, and a priori knowledge; religious and secular ethical codes and theories; and intuition, rationality, and faith. Includes classic and current philosophers (e.g., Plato, Descartes, Hume, Russell, Sartre).",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 2",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16407",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Richardson, John"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16418",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 510",
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Zhao, Michael"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16419",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 504",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Zhao, Michael"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16420",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 207",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Flocke, Vera"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16421",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-5",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Flocke, Vera"
+                }
+            ],
+            "course_name": "Great Works in Philosophy",
+            "description": "PHIL-UA    2 Great Works in Philosophy",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 3",
+            "course_name": "Ethics and Society",
+            "description": "PHIL-UA    3 Ethics and Society",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 4",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8164",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-18",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Bommarito, Nicolas P"
+                }
+            ],
+            "course_name": "Life and Death",
+            "description": "PHIL-UA    4 Life and Death",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 5",
+            "course_name": "Minds and Machines",
+            "description": "PHIL-UA    5 Minds and Machines",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 6",
+            "course_name": "",
+            "description": "PHIL-UA    6\n\n   Global Ethics\n\nThis course aims to accomplish two things. The first is to introduce three broad traditions of normative thinking about social issues from around the globe: a Confucian tradition, one based in Islamic legal traditions, and one derived from European liberalism. The second is to address three current areas of normative debate: about global economic inequality, about gender justice and human rights. We shall explore these first-order questions against the background of the three broad traditions. Our aim will be to understand some of differences of approach that shape the global conversation abou...\n\n      more description for PHIL-UA    6 \u00bb\n\n      \n\n\n\nThis course aims to accomplish two things. The first is to introduce three broad traditions of normative thinking about social issues from around the globe: a Confucian tradition, one based in Islamic legal traditions, and one derived from European liberalism. The second is to address three current areas of normative debate: about global economic inequality, about gender justice and human rights. We shall explore these first-order questions against the background of the three broad traditions. Our aim will be to understand some of differences of approach that shape the global conversation about these issues that concern people around the world.\n\n      less description for PHIL-UA    6 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9",
+            "course_name": "Practical Reasoning",
+            "description": "PHIL-UA    9 Practical Reasoning",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 10",
+            "course_name": "Central Problems in Philosophy",
+            "description": "PHIL-UA   10 Central Problems in Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 11",
+            "course_name": "Moral Philosophy",
+            "description": "PHIL-UA   11 Moral Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 15",
+            "course_name": "Minds and Machines",
+            "description": "PHIL-UA   15 Minds and Machines \nAn intensive introduction to the discipline of philosophy, by way of study of conceptual issues in cognitive science, focusing on the conflict between computational and biological approaches to the mind. Topics covered include whether a machine could think, the reduction of the mind to the brain, connectionism and neural nets, mental representation, and whether consciousness can be explained materialistically.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 16",
+            "course_name": "Ethics & The Professions",
+            "description": "PHIL-UA   16 Ethics & The Professions",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 17",
+            "course_name": "Life and Death",
+            "description": "PHIL-UA   17 Life and Death",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 20",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7315",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 122",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Moss, Jessica"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7316",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Blumberg, Kyle"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7317",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Blumberg, Kyle"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7318",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-19",
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Dyke, Michelle"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7319",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 406",
+                    "time": "Mon 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Dyke, Michelle"
+                }
+            ],
+            "course_name": "History of Ancient Philosophy",
+            "description": "PHIL-UA   20 History of Ancient Philosophy",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 21",
+            "course_name": "History of Modern Philosophy",
+            "description": "PHIL-UA   21 History of Modern Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 22",
+            "course_name": "Plato",
+            "description": "PHIL-UA   22 Plato",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 24",
+            "course_name": "Aristotle",
+            "description": "PHIL-UA   24 Aristotle \nAristotle is one of the most influential, exciting, and difficult figures in Western Philosophy.  In this course we will examine various aspects of his philosophy: ethics, psychology, politics, physics, metaphysics, and epistemology.  Our aim will be to understand Aristotle\u2019s ideas, and also to engage with them philosophically.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 25",
+            "course_name": "Philosophy in Middle Ages",
+            "description": "PHIL-UA   25 Philosophy in Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 26",
+            "course_name": "",
+            "description": "PHIL-UA   26\n\n   History of French Philosophy\n\nProvides an overview of important developments in French philosophy from the 16th century to the 1940s and 1950s. We will look at the epistemological and metaphysical debates that followed the rediscovery of Ancient philosophy and the Copernican revolution in the sciences, with Montaigne\u2019s skepticism, Descartes\u2019 attempts at securing our knowledge of the soul, God, and the external world, and Condillac\u2019s empiricist critique of Descartes\u2019 theory of knowledge. We will then focus on major developments in French political philosophy in the 18th and 19th centuries, closely intertwined with political...\n\n      more description for PHIL-UA   26 \u00bb\n\n      \n\n\n\nProvides an overview of important developments in French philosophy from the 16th century to the 1940s and 1950s. We will look at the epistemological and metaphysical debates that followed the rediscovery of Ancient philosophy and the Copernican revolution in the sciences, with Montaigne\u2019s skepticism, Descartes\u2019 attempts at securing our knowledge of the soul, God, and the external world, and Condillac\u2019s empiricist critique of Descartes\u2019 theory of knowledge. We will then focus on major developments in French political philosophy in the 18th and 19th centuries, closely intertwined with political events in France at the time. We will read Rousseau, who greatly influenced political philosophy with his theory of society and government, and was an important influence on the French revolutionaries in 1789. We will then turn to 19th-century debates about equality and the heritage of the Revolution. Proudhon\u2019s anarchist critique of property rights, still influent, was an important inspiration for many of the insurgents of the Paris Commune of 1870. Tocqueville provides a liberal, and more cautious, perspective on the political consequences of equality. Finally, we will look at two of the major movements in French philosophy in the first half of the 20th century, Henri Bergson\u2019s attempts at understanding the temporal duration conscious beings inhabit, and Jean-Paul Sartre and Simone de Beauvoir\u2019s distinctive development of existentialism, a philosophy that grapples with the radical consequences of human freedom, including ethical and political ones. We will see that these later movements still find important roots in figures such as Descartes and Rousseau.\n\n      less description for PHIL-UA   26 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 30",
+            "course_name": "Kant",
+            "description": "PHIL-UA   30 Kant \nStudy of Kant's metaphysics, epistemology, and ethics.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 32",
+            "course_name": "From Hegel to Nietzsche",
+            "description": "PHIL-UA   32 From Hegel to Nietzsche \nStudy of principal philosophic works by Hegel and Nietzsche, with some attention to some of the following: Fichte, Schelling, Kierkegaard, Schopenhauer, and Marx.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 35",
+            "course_name": "American Philosophy",
+            "description": "PHIL-UA   35 American Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 36",
+            "course_name": "Existentialism and Phenomenology",
+            "description": "PHIL-UA   36 Existentialism and Phenomenology \nExamines the characteristic method, positions, and themes of the existentialist and phenomenological movements and traces their development through study of such thinkers as Kierkegaard, Nietzsche, Husserl, Heidegger, Merleau-Ponty, and Sartre.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 37",
+            "course_name": "20th C. Analytic Phil",
+            "description": "PHIL-UA   37 20th C. Analytic Phil",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 39",
+            "course_name": "Recent Continental Phil",
+            "description": "PHIL-UA   39 Recent Continental Phil \nSurveys and evaluates the ideas of the major figures in continental philosophy in the latter part of the 20th century. Authors include (late) Heidegger, Gadamer, Habermas, Foucault, and Derrida.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 40",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9144",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 520",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Velleman, James"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16429",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC5",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hoek, Dani\u00ebl"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16430",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 127",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Hoek, Dani\u00ebl"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16431",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 201",
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Lee, Samuel"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16432",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-18",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Lee, Samuel"
+                }
+            ],
+            "course_name": "Ethics",
+            "description": "PHIL-UA   40 Ethics \nExamines fundamental questions of moral philosophy: What are our most basic values, and which of them are specifically moral values? What are the ethical principles, if any, by which we should judge our actions, ourselves, and our lives?",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 41",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16408",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "TISC LC1"
+                }
+            ],
+            "course_name": "The Nature of Values",
+            "description": "PHIL-UA   41 The Nature of Values \nExamines the nature and grounds of judgments about moral and/or nonmoral values. Are such judgments true or false? Can they be more or less justified? Are the values of which they speak objective or subjective?",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 42",
+            "course_name": "Applied Ethics",
+            "description": "PHIL-UA   42 Applied Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 43",
+            "course_name": "Empirical Moral Psychology",
+            "description": "PHIL-UA   43 Empirical Moral Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 45",
+            "course_name": "Political Philosophy",
+            "description": "PHIL-UA   45 Political Philosophy \nExamines fundamental issues concerning the justification of political institutions. Topics may include democratic theory, political obligation and liberty, criteria of a just society, human rights, and civil disobedience.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 50",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8561",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Rini, Regina"
+                }
+            ],
+            "course_name": "Medical Ethics",
+            "description": "PHIL-UA   50 Medical Ethics \nExamines moral issuExamines moral issues in medical practice and research. Topics include euthanasia and quality of life; deception, hope, and paternalism; malpractice and unpredictability; patient rights, virtues, and vices; animal, fetal, and clinical research; criteria for rationing medical care; ethical principles, professional codes, and case analysis (for example, Quinlan, Willowbrook, Baby Jane Doe).",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 51",
+            "course_name": "The Idea of Law in the West",
+            "description": "PHIL-UA   51 The Idea of Law in the West",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 52",
+            "course_name": "Philosophy of Law",
+            "description": "PHIL-UA   52 Philosophy of Law \nExamines the nature of law, its relations to morality, and its limits. Topics: positivism and natural law theory, theories of criminal justice and punishment; concepts of liberty, responsibility, and rights. Considers the views of such thinkers as Austin, Bentham, Dworkin, Fuller, Hart, Rawls, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 53",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7320",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-20"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8931",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-15"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8932",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "TISC LC5"
+                }
+            ],
+            "course_name": "Ethics & The Environment",
+            "description": "PHIL-UA   53 Ethics & The Environment",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 55",
+            "course_name": "Philosophical Perspctive On Feminism & Gender",
+            "description": "PHIL-UA   55 Philosophical Perspctive On Feminism & Gender \nEvaluation of the morality and rationality of typical female and male behavior and motivation and of the social institutions relating the sexes. Critical examination of proposals for change. Topics include development of gender- and non-gender-typed personalities; heterosexuality and alternatives; marriage, adultery, and the family; concepts of sexism and misogyny; and political and economic philosophies of sex equality and inequality.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 57",
+            "course_name": "War and Morality",
+            "description": "PHIL-UA   57 War and Morality",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 58",
+            "course_name": "Intro Environmental Ethics",
+            "description": "PHIL-UA   58 Intro Environmental Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 60",
+            "course_name": "Aesthetics",
+            "description": "PHIL-UA   60 Aesthetics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 61",
+            "course_name": "Aristotle & Averroes",
+            "description": "PHIL-UA   61 Aristotle & Averroes",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 62",
+            "course_name": "Philosophy & Literature",
+            "description": "PHIL-UA   62 Philosophy & Literature",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 63",
+            "course_name": "2 Medieval Minds: Augustine and Aquinas",
+            "description": "PHIL-UA   63 2 Medieval Minds: Augustine and Aquinas",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 65",
+            "course_name": "American Philosophy",
+            "description": "PHIL-UA   65 American Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 70",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7321",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC9"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7547",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7322",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                }
+            ],
+            "course_name": "Logic",
+            "description": "PHIL-UA   70 Logic \nAn introduction to the basic techniques of sentential and predicate logic. Students learn how to put arguments from ordinary language into symbols, how to construct derivations within a formal system, and how to ascertain validity using truth tables or models.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 72",
+            "course_name": "Advanced Logic",
+            "description": "PHIL-UA   72 Advanced Logic \nAn introduction to the basic concepts, methods, and results of metalogic, i.e., the formal study of systems of reasoning.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 73",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16409",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC2",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Lederman, Harvey"
+                }
+            ],
+            "course_name": "Set Theory",
+            "description": "PHIL-UA   73 Set Theory \nAn introduction to the basic concepts and results of set theory.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 74",
+            "course_name": "Modal Logic",
+            "description": "PHIL-UA   74 Modal Logic \nModal logic is the logic of necessity and possibility and other such notions. In recent times, the framework of possible worlds has provided a valuable tool for investigating the formal properties of these notions. This course provides an introduction to the basic concepts, methods, and results of modal logic, with an emphasis on its application to such other fields as philosophy, linguistics, and computer science.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 76",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8479",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Friedman, Jane"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8637",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Holguin, Benjamin"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8638",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 504",
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Holguin, Benjamin"
+                }
+            ],
+            "course_name": "Epistemology",
+            "description": "PHIL-UA   76 Epistemology \nConsiders questions such as the following: Can I have knowledge of anything outside my own mind?for example, physical objects or other minds? Or is the skeptic's attack on my commonplace claims to know unanswerable? What is knowledge, and how does it differ from belief?",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 78",
+            "course_name": "Metaphysics",
+            "description": "PHIL-UA   78 Metaphysics \nDiscusses general questions concerning the nature of reality and truth. What kind of things exist? Are there minds or material bodies? Is change illusory? Are human actions free or causally determined? What is a person, and what, if anything, makes someone one and the same person?",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 80",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8162",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-18"
+                }
+            ],
+            "course_name": "Philosophy of Mind",
+            "description": "PHIL-UA   80 Philosophy of Mind \nExamination of the relationship between the mind and the brain, of the nature of the mental, and of personal identity. Can consciousness be reconciled with a scientific view of the world?",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 81",
+            "course_name": "Consciousness",
+            "description": "PHIL-UA   81 Consciousness \nExamines conceptual and empirical issues about consciousness. Issues covered may include the explanatory gap, the hard and harder problems of consciousness, concepts of consciousness, phenomenal concepts, the mind-body problem and neural correlates of consciousness, higher-order thought theories of consciousness, the inverted spectrum, views of phenomenality as representation, and arguments for dualism.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 85",
+            "course_name": "Philosophy of Language",
+            "description": "PHIL-UA   85 Philosophy of Language \nExamines various philosophical and psychological approaches to language and meaning and their consequences for traditional philosophical problems in metaphysics, epistemology, and ethics. Discusses primarily 20th-century authors, including Russell, Wittgenstein, and Quine.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 90",
+            "course_name": "Philosophy of Science",
+            "description": "PHIL-UA   90 Philosophy of Science \nExamination of philosophical issues about the natural sciences. Central questions include the following: What is the nature of scientific explanation? How does science differ from pseudoscience? What is a scientific law? How do experiments work?",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 91",
+            "course_name": "Philosophy of Biology",
+            "description": "PHIL-UA   91 Philosophy of Biology \nExamines the philosophical or conceptual issues that arise in and about biology, including the proper role, if any, of teleology in biology; the analysis of biological functions; the structure of the theory of evolution by natural selection and the sense of its key concepts, such as fitness and adaptation; the unit of selection; essentialism and the nature of species.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 92",
+            "course_name": "Philosophy of Social SCI",
+            "description": "PHIL-UA   92 Philosophy of Social SCI",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 93",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16424",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 202",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Strevens, Michael"
+                }
+            ],
+            "course_name": "Philosoph Applications of Cognitive Science",
+            "description": "PHIL-UA   93 Philosoph Applications of Cognitive Science",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 94",
+            "course_name": "",
+            "description": "PHIL-UA   94\n\n   Philosophy of Physics\n\nWe will investigate different approaches to understanding space and time, and how the account of space-time structure has evolved in physics. One of the main objectives is to have a clear and accurate understanding of the Special Theory of Relativity, detailed enough to allow the student to solve some physics problems. This will require a bit of mathematics, but not more than algebra. We will discuss the General Theory of Relativity in a more qualitative way, including an account of the structure of black holes. Philosophy students do not need any further background in physics or mathematics, ...\n\n      more description for PHIL-UA   94 \u00bb\n\n      \n\n\n\nWe will investigate different approaches to understanding space and time, and how the account of space-time structure has evolved in physics. One of the main objectives is to have a clear and accurate understanding of the Special Theory of Relativity, detailed enough to allow the student to solve some physics problems. This will require a bit of mathematics, but not more than algebra. We will discuss the General Theory of Relativity in a more qualitative way, including an account of the structure of black holes. Philosophy students do not need any further background in physics or mathematics, and physics students will not benefit from greater mathematical sophistication. We will also study the relevant history of physics and philosophy, particularly the debate between Newton and Leibniz about the nature of space and time. \nThere will be two lectures each week and a recitation section.\n\n      less description for PHIL-UA   94 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 95",
+            "course_name": "Freud and Philosophy",
+            "description": "PHIL-UA   95 Freud and Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 96",
+            "course_name": "Philosophy of Religion",
+            "description": "PHIL-UA   96 Philosophy of Religion",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 98",
+            "course_name": "Philosophy of Math",
+            "description": "PHIL-UA   98 Philosophy of Math",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16474",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "5WP 302"
+                }
+            ],
+            "course_name": "Topics in The History of Philosophy",
+            "description": "PHIL-UA  101 Topics in The History of Philosophy \nCareful study of a few topics in the history of philosophy?either one philosopher?s treatment of several philosophical problems or several philosophers? treatments of one or two closely related problems. Examples: selected topics in Aristotle, theories of causation in early modern philosophy, and Kant?s reaction to Hume.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 102",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "8180",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 202",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Appiah, Kwame Anthony"
+                }
+            ],
+            "course_name": "Topics in Ethics & Pol Philosophy",
+            "description": "PHIL-UA  102 Topics in Ethics & Pol Philosophy",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 103",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16423",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 412",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Unger, Peter"
+                }
+            ],
+            "course_name": "Topics in Metaphysics & Epistemology",
+            "description": "PHIL-UA  103 Topics in Metaphysics & Epistemology \nCareful study of a few current issues in epistemology and metaphysics. Examples: skepticism, necessity, causality, personal identity, and possible worlds.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 104",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16422",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 429",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Horwich, Paul"
+                }
+            ],
+            "course_name": "Topics in Language & Mind",
+            "description": "PHIL-UA  104 Topics in Language & Mind \nCareful study of a few current issues in language and mind. Examples: theory of reference, analyticity, intentionality, theory of mental content and attitudes, emergence and supervenience of mental states.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 122",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16756",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL150"
+                }
+            ],
+            "course_name": "The Greek Thinkers",
+            "description": "PHIL-UA  122 The Greek Thinkers",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 123",
+            "course_name": "Readings in Chinese Philosophy and Culture",
+            "description": "PHIL-UA  123 Readings in Chinese Philosophy and Culture",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 124",
+            "course_name": "Tpcs: Modern East Asian Thought at Crossroads",
+            "description": "PHIL-UA  124 Tpcs: Modern East Asian Thought at Crossroads",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 125",
+            "course_name": "Introduction to Medieval Philosophy",
+            "description": "PHIL-UA  125 Introduction to Medieval Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 126",
+            "course_name": "Renaissance Philosophy",
+            "description": "PHIL-UA  126 Renaissance Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 127",
+            "course_name": "Spinoza'S Theological- Pol Treatise &Its Impact",
+            "description": "PHIL-UA  127 Spinoza'S Theological- Pol Treatise &Its Impact",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 145",
+            "course_name": "Tpcs: European Political Thought Since Rousseau",
+            "description": "PHIL-UA  145 Tpcs: European Political Thought Since Rousseau",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 157",
+            "course_name": "Tpcs in Environmental Values & Society",
+            "description": "PHIL-UA  157 Tpcs in Environmental Values & Society",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 200",
+            "course_name": "Junior Honors Proseminar",
+            "description": "PHIL-UA  200 Junior Honors Proseminar \nA seminar taken in spring of junior year. Introduces students to core readings in some main areas of current philosophy, and provides intensive training in writing philosophy papers. See description of Honors Program, above.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7323",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "5WP 302",
+                    "time": "Mon 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Franklin, Laura"
+                }
+            ],
+            "course_name": "Honors Seminar",
+            "description": "PHIL-UA  201 Honors Seminar \nA seminar taken in fall of senior year. Students begin developing their thesis projects by presentations in the seminar, which is led by a faculty member. Students also begin to meet individually with a separate faculty adviser. See the description of the Honors Program in the \"Program\" section.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 202",
+            "course_name": "Honors Seminar",
+            "description": "PHIL-UA  202 Honors Seminar \nAn independent study taken in spring of senior year. Students meet individually with a faculty adviser producing successive drafts of the honors thesis. See description of Honors Program, above.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 301",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7324",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "PHIL-UA  301 Independent Study \nPrerequisite: permission of the department. Available only for study of subjects not covered in regularly offered courses. 2 or 4 points per term. See the description of Independent Study in the \"Program\" section.",
+            "offering": true
+        },
+        {
+            "course_id": "PHIL-UA 302",
+            "course_name": "Independent Study",
+            "description": "PHIL-UA  302 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 426",
+            "course_name": "Jewish Philosophy in The Medieval World",
+            "description": "PHIL-UA  426 Jewish Philosophy in The Medieval World",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 700",
+            "course_name": "Neoplatonism in The Mid Ages and Renaissance",
+            "description": "PHIL-UA  700 Neoplatonism in The Mid Ages and Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9005",
+            "course_name": "Minds and Machines",
+            "description": "PHIL-UA 9005 Minds and Machines",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9010",
+            "course_name": "Central Problems of Philosophy",
+            "description": "PHIL-UA 9010 Central Problems of Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9026",
+            "course_name": "",
+            "description": "PHIL-UA 9026\n\n   History of French Philosophy\n\nProvides an overview of important developments in French philosophy from the 16th century to the 1940s and 1950s. We will look at the epistemological and metaphysical debates that followed the rediscovery of Ancient philosophy and the Copernican revolution in the sciences, with Montaigne's skepticism, Descartes' attempts at securing our knowledge of the soul, God, and the external world, and Condillac's empiricist critique of Descartes' theory of knowledge. We will then focus on major developments in French political philosophy in the 18th and 19thcenturies, closely intertwined with political ...\n\n      more description for PHIL-UA 9026 \u00bb\n\n      \n\n\n\nProvides an overview of important developments in French philosophy from the 16th century to the 1940s and 1950s. We will look at the epistemological and metaphysical debates that followed the rediscovery of Ancient philosophy and the Copernican revolution in the sciences, with Montaigne's skepticism, Descartes' attempts at securing our knowledge of the soul, God, and the external world, and Condillac's empiricist critique of Descartes' theory of knowledge. We will then focus on major developments in French political philosophy in the 18th and 19thcenturies, closely intertwined with political events in France at the time.We will read Rousseau, who greatly influenced political philosophy with his theory of society and government, and was an important influence on the French revolutionaries in 1789. We will then turn to 19th-century debates about equality and the heritage of the Revolution. Proudhon's anarchist critique of property rights, still influent, was an important inspiration for many of the insurgents of the Paris Commune of 1870. Tocqueville provides a liberal, and more cautious, perspective on the political consequences of equality. Finally, we will look at two of the major movements in French philosophy in the first half of the 20th century, Henri Bergson's attempts at understanding the temporal duration conscious beings inhabit, and Jean-Paul Sartre and Simone de Beauvoir's distinctive development of existentialism, a philosophy that grapples with the radical consequences of human freedom, including ethical and political ones. We will see that these later movements still find important roots in figures such as Descartes and Rousseau.\n\n      less description for PHIL-UA 9026 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9040",
+            "course_name": "Ethics",
+            "description": "PHIL-UA 9040 Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9045",
+            "course_name": "Political Philosophy",
+            "description": "PHIL-UA 9045 Political Philosophy \nExamines fundamental issues concerning the justification of\npolitical institutions. Topics may include democratic theory, political\nobligation and liberty, criteria of a just society, human rights, and civil\ndisobedience.",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9076",
+            "course_name": "Epistemology:Belief, Truth,Knowledge",
+            "description": "PHIL-UA 9076 Epistemology:Belief, Truth,Knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9078",
+            "course_name": "Metaphysics",
+            "description": "PHIL-UA 9078 Metaphysics",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9085",
+            "course_name": "Philosophy of Language",
+            "description": "PHIL-UA 9085 Philosophy of Language",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9092",
+            "course_name": "Philosophy of The Social Sciences",
+            "description": "PHIL-UA 9092 Philosophy of The Social Sciences",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9301",
+            "course_name": "Independent Study",
+            "description": "PHIL-UA 9301 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "PHIL-UA 9538",
+            "course_name": "German Intellectual Trad:Frankfurt School",
+            "description": "PHIL-UA 9538 German Intellectual Trad:Frankfurt School",
+            "offering": false
+        }
+    ]
+}

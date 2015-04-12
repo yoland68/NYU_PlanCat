@@ -1,0 +1,1144 @@
+{
+    "major_id": "HEOP-UE",
+    "file": "./2015-2016/Higher_Education_OpportunitiesProgram_(HEOP-UE).html",
+    "courses": [
+        {
+            "course_id": "HEOP-UE 601",
+            "course_name": "Pre-Freshman Calculus",
+            "description": "HEOP-UE  601 Pre-Freshman Calculus",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 605",
+            "course_name": "Pre-Freshmen Critical Analysis",
+            "description": "HEOP-UE  605 Pre-Freshmen Critical Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 606",
+            "course_name": "Pre-Freshman Writing",
+            "description": "HEOP-UE  606 Pre-Freshman Writing",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 607",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "10463",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Cecconi, Alfred"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11896",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lao, Tara",
+                    "time": "Wed 12.00 PM - 1.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10464",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 361",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Ellis, Angela"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10465",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 404",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Richards, Claudine-Lonje"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10466",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 261",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Banegas, Jacqueline"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10467",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Jung, Richard"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10468",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 121 (SB)",
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "McKoy, Joan"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10469",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 375",
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Jung, Richard"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10471",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL145",
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Richards, Claudine-Lonje"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10472",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 514",
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Ellis, Angela"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11360",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 157",
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Richards, Claudine-Lonje"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10473",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 413",
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "McKoy, Joan"
+                }
+            ],
+            "course_name": "Freshmen Colloquium",
+            "description": "HEOP-UE  607 Freshmen Colloquium",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 608",
+            "course_name": "Pre-Freshman Social/Cultural Foundations",
+            "description": "HEOP-UE  608 Pre-Freshman Social/Cultural Foundations",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 609",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "10474",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Bishop, Kathleen"
+                }
+            ],
+            "course_name": "Cultural Foundations Non-Credit Course (NCC)",
+            "description": "HEOP-UE  609 Cultural Foundations Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 610",
+            "course_name": "Pre-Freshman Pre-Calculus",
+            "description": "HEOP-UE  610 Pre-Freshman Pre-Calculus",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 611",
+            "course_name": "Pre-Freshman Quantitative Reasoning",
+            "description": "HEOP-UE  611 Pre-Freshman Quantitative Reasoning",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 612",
+            "course_name": "Pre-Freshman Individual Research Project",
+            "description": "HEOP-UE  612 Pre-Freshman Individual Research Project",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 613",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "10475",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 836",
+                    "time": "Fri 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": "Kettunen, Robert"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10476",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL148",
+                    "time": "Tue 4.55 PM - 6.45 PM",
+                    "open": true,
+                    "professor": "Kettunen, Robert"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10477",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL139",
+                    "time": "Mon 12.20 PM - 2.10 PM",
+                    "open": true,
+                    "professor": "Haynes, Lyndon"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "10478",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": "BOBS 937",
+                    "time": "Fri 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "Kettunen, Robert"
+                }
+            ],
+            "course_name": "Calculus I Non-Credit Course (NCC)",
+            "description": "HEOP-UE  613 Calculus I Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 614",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11738",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "WAVE 566A"
+                }
+            ],
+            "course_name": "Quantitative Reasoning: Math Patterns in Nature, Non-Credit Course (NCC)",
+            "description": "HEOP-UE  614 Quantitative Reasoning: Math Patterns in Nature, Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 615",
+            "course_name": "Pre-Freshman Statistics for Health Sciences",
+            "description": "HEOP-UE  615 Pre-Freshman Statistics for Health Sciences",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 616",
+            "course_name": "Pre-Freshman Economics I",
+            "description": "HEOP-UE  616 Pre-Freshman Economics I",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 617",
+            "course_name": "Pre-Freshman Statistics for Business",
+            "description": "HEOP-UE  617 Pre-Freshman Statistics for Business",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 618",
+            "course_name": "Statistics for Business Control",
+            "description": "HEOP-UE  618 Statistics for Business Control",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 619",
+            "course_name": "Anatomy & Physiology Workshop",
+            "description": "HEOP-UE  619 Anatomy & Physiology Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 620",
+            "course_name": "Upper Division Math Workshop",
+            "description": "HEOP-UE  620 Upper Division Math Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 621",
+            "course_name": "Pre-Freshman Psychology",
+            "description": "HEOP-UE  621 Pre-Freshman Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 622",
+            "course_name": "Pre-Freshman Creative Arts Projects",
+            "description": "HEOP-UE  622 Pre-Freshman Creative Arts Projects",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 623",
+            "course_name": "Pre-Freshman Modern Chemistry",
+            "description": "HEOP-UE  623 Pre-Freshman Modern Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 624",
+            "course_name": "Pre-Freshmen Colloquium",
+            "description": "HEOP-UE  624 Pre-Freshmen Colloquium",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 625",
+            "course_name": "Pre-Freshman General Chemistry",
+            "description": "HEOP-UE  625 Pre-Freshman General Chemistry",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 627",
+            "course_name": "Pre-Freshman Biology",
+            "description": "HEOP-UE  627 Pre-Freshman Biology",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 628",
+            "course_name": "Pre-Freshman Economics for Stern",
+            "description": "HEOP-UE  628 Pre-Freshman Economics for Stern",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 629",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "10480",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "25W4 C-5"
+                }
+            ],
+            "course_name": "General Chemistry Non-Credit Course (NCC)",
+            "description": "HEOP-UE  629 General Chemistry Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 630",
+            "course_name": "Counseling",
+            "description": "HEOP-UE  630 Counseling",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 631",
+            "course_name": "Pre-Freshman Writing Intensives",
+            "description": "HEOP-UE  631 Pre-Freshman Writing Intensives",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 632",
+            "course_name": "Pre-Freshman Statistics QR",
+            "description": "HEOP-UE  632 Pre-Freshman Statistics QR",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 633",
+            "course_name": "Science Enrichment",
+            "description": "HEOP-UE  633 Science Enrichment",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 636",
+            "course_name": "Pre-Freshamn Introduction to Theatre Studies",
+            "description": "HEOP-UE  636 Pre-Freshamn Introduction to Theatre Studies",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 637",
+            "course_name": "Accounting Workshop",
+            "description": "HEOP-UE  637 Accounting Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 640",
+            "course_name": "Microeconomics Workshop",
+            "description": "HEOP-UE  640 Microeconomics Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 641",
+            "course_name": "Economics I Workshop",
+            "description": "HEOP-UE  641 Economics I Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 642",
+            "course_name": "Pre_Health Science Workshop",
+            "description": "HEOP-UE  642 Pre_Health Science Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 650",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11161",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-16",
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Haynes, Lyndon"
+                }
+            ],
+            "course_name": "Statistics for Behavioral Sciences Non-Credit Course (NCC)",
+            "description": "HEOP-UE  650 Statistics for Behavioral Sciences Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 651",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11162",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11162",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Biology Non-Credit Course (NCC)",
+            "description": "HEOP-UE  651 Biology Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 652",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11163",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 374",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Dunks, Robert"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11895",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Thomas, Wendell O",
+                    "time": "Wed 12.20 PM - 1.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11180",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 508",
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Dunks, Robert"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11181",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL140",
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Frazier, Denise"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11182",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-14",
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Frazier, Denise"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11899",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Thomas, Wendell O",
+                    "time": "Fri 9.00 AM - 10.15 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Writing Intensives",
+            "description": "HEOP-UE  652 Writing Intensives",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 653",
+            "course_name": "Writing for Tisch Non-Credit Course (NCC)",
+            "description": "HEOP-UE  653 Writing for Tisch Non-Credit Course (NCC)",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 654",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11164",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 413"
+                }
+            ],
+            "course_name": "Writing for Gallatin Non-Credit Course (NCC)",
+            "description": "HEOP-UE  654 Writing for Gallatin Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 655",
+            "course_name": "Economics Principles I",
+            "description": "HEOP-UE  655 Economics Principles I",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 656",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11174",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Medor, Jean"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11175",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL142",
+                    "time": "Tue 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Medor, Jean"
+                }
+            ],
+            "course_name": "Upper Division Biology Non-Credit Course (NCC)",
+            "description": "HEOP-UE  656 Upper Division Biology Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 657",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11170",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC3"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11288",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL148",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Daniels, Juma"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11171",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 407",
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Costa, Patricia"
+                }
+            ],
+            "course_name": "Upper Division Organic Chemistry  Non-Credit Course (NCC)",
+            "description": "HEOP-UE  657 Upper Division Organic Chemistry  Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 658",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11172",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11172",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Upper Division General Chemistry Non-Credit Course (NCC)",
+            "description": "HEOP-UE  658 Upper Division General Chemistry Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 659",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11173",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 512",
+                    "time": "Mon 6.00 PM - 7.15 PM",
+                    "open": true,
+                    "professor": "Shopova, Siyka"
+                }
+            ],
+            "course_name": "Upper Division General Physics Non-Credit Course ( NCC)",
+            "description": "HEOP-UE  659 Upper Division General Physics Non-Credit Course ( NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 660",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11737",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 365",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Lau, Katherine"
+                }
+            ],
+            "course_name": "Psychology Non-Credit Course (NCC)",
+            "description": "HEOP-UE  660 Psychology Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 661",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11165",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 514",
+                    "time": "Tue 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Kone, Hassane K."
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11166",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "WAVE 566B"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11167",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 518",
+                    "time": "Thu 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "Kone, Hassane K."
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11254",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 369",
+                    "time": "Mon 12.30 PM - 2.20 PM",
+                    "open": true,
+                    "professor": "Diagana, Cheikhna"
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11900",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Prabhu, Vaishali T",
+                    "time": "Thu 12.30 PM - 2.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Algebra Calc Non-Credit Course (NCC)",
+            "description": "HEOP-UE  661 Algebra Calc Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 662",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11168",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B01",
+                    "time": "Fri 1.00 PM - 2.15 PM",
+                    "open": true,
+                    "professor": "Haynes, Lyndon"
+                }
+            ],
+            "course_name": "Quantitative Reasoning: Elementary Statistics, Non-Credit Course (NCC)",
+            "description": "HEOP-UE  662 Quantitative Reasoning: Elementary Statistics, Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 663",
+            "course_name": "Modern Chemistry Non-Credit Course (NCC)",
+            "description": "HEOP-UE  663 Modern Chemistry Non-Credit Course (NCC)",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 664",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11259",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 413",
+                    "time": "Tue 1.00 PM - 2.50 PM",
+                    "open": true,
+                    "professor": "Kettunen, Robert"
+                }
+            ],
+            "course_name": "Calculus II Non-Credit Course (NCC)",
+            "description": "HEOP-UE  664 Calculus II Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 665",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11413",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Kettunen, Robert",
+                    "time": "Mon 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Calculus III Non-Credit Course (NCC)",
+            "description": "HEOP-UE  665 Calculus III Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 666",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11184",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Medor, Jean"
+                }
+            ],
+            "course_name": "Upper Division Microbiology  Non-Credit Course (NCC)",
+            "description": "HEOP-UE  666 Upper Division Microbiology  Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 667",
+            "course_name": "QR Probability, Stat & Decision Making Workshop",
+            "description": "HEOP-UE  667 QR Probability, Stat & Decision Making Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 668",
+            "course_name": "General Chemistry II",
+            "description": "HEOP-UE  668 General Chemistry II",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 669",
+            "course_name": "Writing for Business",
+            "description": "HEOP-UE  669 Writing for Business",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 670",
+            "course_name": "Economics Workshop II",
+            "description": "HEOP-UE  670 Economics Workshop II",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 671",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11620",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 265",
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Costa, Patricia"
+                }
+            ],
+            "course_name": "Natural Science I: Chemistry & Environment Non-Credit Course (NCC)",
+            "description": "HEOP-UE  671 Natural Science I: Chemistry & Environment Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 672",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11739",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 131",
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Daniels, Juma"
+                }
+            ],
+            "course_name": "Upper Division General Chemistry II Non Credit Course (NCC)",
+            "description": "HEOP-UE  672 Upper Division General Chemistry II Non Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 673",
+            "course_name": "Pre-freshman Creative Writing",
+            "description": "HEOP-UE  673 Pre-freshman Creative Writing",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 674",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11635",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 737",
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Costa, Patricia"
+                }
+            ],
+            "course_name": "Upper Division Organic Chemistry II Non-Credit Course (NCC)",
+            "description": "HEOP-UE  674 Upper Division Organic Chemistry II Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 675",
+            "course_name": "Biology II Workshop",
+            "description": "HEOP-UE  675 Biology II Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 676",
+            "course_name": "Upper Division Biology II Workshop",
+            "description": "HEOP-UE  676 Upper Division Biology II Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 677",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11766",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                }
+            ],
+            "course_name": "Upper Division Pathophysiology",
+            "description": "HEOP-UE  677 Upper Division Pathophysiology",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 678",
+            "course_name": "Introduction to Computer Science",
+            "description": "HEOP-UE  678 Introduction to Computer Science",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 679",
+            "course_name": "Pre-Freshman Writing for Engineering",
+            "description": "HEOP-UE  679 Pre-Freshman Writing for Engineering",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 680",
+            "course_name": "Science Enrichment: Biology I",
+            "description": "HEOP-UE  680 Science Enrichment: Biology I",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 681",
+            "course_name": "Science Enrichment: Organic Chemistry I",
+            "description": "HEOP-UE  681 Science Enrichment: Organic Chemistry I",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 682",
+            "course_name": "Science Enrichment:  Organic Chemistry II",
+            "description": "HEOP-UE  682 Science Enrichment:  Organic Chemistry II",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 683",
+            "course_name": "Science Enrichment:  Physics I",
+            "description": "HEOP-UE  683 Science Enrichment:  Physics I",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 684",
+            "course_name": "Science Enrichment:  General",
+            "description": "HEOP-UE  684 Science Enrichment:  General",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 685",
+            "course_name": "Pre-Freshman Writing for Gallatin",
+            "description": "HEOP-UE  685 Pre-Freshman Writing for Gallatin",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 686",
+            "course_name": "Pre-Freshman Writing for Business",
+            "description": "HEOP-UE  686 Pre-Freshman Writing for Business",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 687",
+            "course_name": "Pre-Freshman Writing for Engineering",
+            "description": "HEOP-UE  687 Pre-Freshman Writing for Engineering",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 688",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11901",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11901",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Science Enrichment: General Chemistry II",
+            "description": "HEOP-UE  688 Science Enrichment: General Chemistry II",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 689",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11904",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Lagerweij, Johannes"
+                }
+            ],
+            "course_name": "Social Foundations Non-Credit Course (NCC)",
+            "description": "HEOP-UE  689 Social Foundations Non-Credit Course (NCC)",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 690",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11903",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Kota, Dheeraj",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Computer Science: Python Non-Credit",
+            "description": "HEOP-UE  690 Computer Science: Python Non-Credit",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 691",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11902",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "General Chemistry for Engineers Non-Credit",
+            "description": "HEOP-UE  691 General Chemistry for Engineers Non-Credit",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 692",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11926",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Molecular and Cell Biology Non-credit",
+            "description": "HEOP-UE  692 Molecular and Cell Biology Non-credit",
+            "offering": true
+        },
+        {
+            "course_id": "HEOP-UE 693",
+            "course_name": "Analysis I Non-Credit",
+            "description": "HEOP-UE  693 Analysis I Non-Credit",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 694",
+            "course_name": "Object Oriented Programming & C++ Non-credit Course",
+            "description": "HEOP-UE  694 Object Oriented Programming & C++ Non-credit Course",
+            "offering": false
+        },
+        {
+            "course_id": "HEOP-UE 700",
+            "classes": [
+                {
+                    "format": "Preparatory",
+                    "class_id": "11923",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Banegas, Jacqueline",
+                    "time": "Fri 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11924",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Banegas, Jacqueline",
+                    "time": "Fri 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Preparatory",
+                    "class_id": "11925",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Banegas, Jacqueline",
+                    "time": "Fri 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "CSTEP Colloquium",
+            "description": "HEOP-UE  700 CSTEP Colloquium",
+            "offering": true
+        }
+    ]
+}

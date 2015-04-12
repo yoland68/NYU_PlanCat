@@ -1,0 +1,48 @@
+{
+    "major_id": "IMPLA-DN",
+    "file": "./2015-2016/Implant_Dentistry_(IMPLA-DN).html",
+    "courses": [
+        {
+            "course_id": "IMPLA-DN 8095",
+            "classes": [
+                {}
+            ],
+            "course_name": "Advanced Surgical & Prosthetic Treatment Planning in Implant Dentistry",
+            "description": "IMPLA-DN 8095 Advanced Surgical & Prosthetic Treatment Planning in Implant Dentistry",
+            "offering": true
+        },
+        {
+            "course_id": "IMPLA-DN 8096",
+            "classes": [
+                {}
+            ],
+            "course_name": "Literature Review in Advanced Implant Dentistry",
+            "description": "IMPLA-DN 8096 Literature Review in Advanced Implant Dentistry",
+            "offering": true
+        },
+        {
+            "course_id": "IMPLA-DN 8097",
+            "classes": [
+                {}
+            ],
+            "course_name": "Fundamentals of  Implant Dentistry",
+            "description": "IMPLA-DN 8097 Fundamentals of  Implant Dentistry",
+            "offering": true
+        },
+        {
+            "course_id": "IMPLA-DN 8098",
+            "course_name": "Contemporary Concepts in Implant Dentistry & Bone Regeneration",
+            "description": "IMPLA-DN 8098 Contemporary Concepts in Implant Dentistry & Bone Regeneration",
+            "offering": false
+        },
+        {
+            "course_id": "IMPLA-DN 8099",
+            "classes": [
+                {}
+            ],
+            "course_name": "Advanced Implant Prosthodontic",
+            "description": "IMPLA-DN 8099 Advanced Implant Prosthodontic",
+            "offering": true
+        }
+    ]
+}

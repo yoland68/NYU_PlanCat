@@ -1,0 +1,208 @@
+{
+    "major_id": "SCHOL-UA",
+    "file": "./2015-2016/CAS_Scholars_Program_(SCHOL-UA).html",
+    "courses": [
+        {
+            "course_id": "SCHOL-UA 10",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6095",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 301",
+                    "time": "Tue 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Ritter, Jonathan"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6096",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Halpin, John"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6097",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 301",
+                    "time": "Thu 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Fleming, Juliet"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6098",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 308",
+                    "time": "Tue 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Eichenberger, Patrick"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6100",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 201",
+                    "time": "Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Deneys, Anne"
+                }
+            ],
+            "course_name": "Freshman Scholars Seminar",
+            "description": "SCHOL-UA   10 Freshman Scholars Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "SCHOL-UA 20",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6101",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Tue 7.45 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Ferrer, Ada"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6102",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 383",
+                    "time": "Tue 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Ertman, Thomas"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6103",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Tue 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Haney, Lynne"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6104",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6105",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "TISC LC9"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6106",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "TISC LC9"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6107",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 383",
+                    "time": "Mon 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Davila, Maria"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6108",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "GCASL 383"
+                }
+            ],
+            "course_name": "Sophomore Scholars Seminar",
+            "description": "SCHOL-UA   20 Sophomore Scholars Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "SCHOL-UA 30",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6109",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6110",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Junior Scholars Seminar",
+            "description": "SCHOL-UA   30 Junior Scholars Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "SCHOL-UA 40",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6111",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6112",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Seniors Scholars Seminar",
+            "description": "SCHOL-UA   40 Seniors Scholars Seminar",
+            "offering": true
+        }
+    ]
+}

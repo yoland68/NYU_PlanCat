@@ -1,0 +1,62 @@
+{
+    "major_id": "APSTA-UE",
+    "file": "./2015-2016/Applied_Statistics_in_Social_Research(APSTA-UE).html",
+    "courses": [
+        {
+            "course_id": "APSTA-UE 10",
+            "course_name": "",
+            "description": "APSTA-UE   10\n\n   Statistical Mysteries and How to Solve Them\n\nAn introductory quantitative & statistical reasoning course designed to help students acquire statistical literacy & competency to survive in a data-rich world. The course introduces students to basic concepts in probability, research design, descriptive statistics, & simple predictive models to help them to become more savvy consumers of the information they will routinely be exposed to in their personal, academic & professional lives. Course material will be conveyed through video clips, case studies, puzzle solving, predictive competitions, & group discussions.\n\nLiberal Arts Core/CORE Equiv...\n\n      more description for APSTA-UE   10 \u00bb\n\n      \n\n\n\nAn introductory quantitative & statistical reasoning course designed to help students acquire statistical literacy & competency to survive in a data-rich world. The course introduces students to basic concepts in probability, research design, descriptive statistics, & simple predictive models to help them to become more savvy consumers of the information they will routinely be exposed to in their personal, academic & professional lives. Course material will be conveyed through video clips, case studies, puzzle solving, predictive competitions, & group discussions.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Quantitative Reasoning\n\n      less description for APSTA-UE   10 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-UE 1085",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10243",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Hassad, Rossi"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10244",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 304",
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Hassad, Rossi"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "11037",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 668",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Rarick, Jason"
+                }
+            ],
+            "course_name": "Basic Statistics I",
+            "description": "APSTA-UE 1085 Basic Statistics I \nReview of the essential mathematics for statistics. Collection & tabulation of data; the properties of frequency distributions; histograms & frequency polygons; measures of central tendency, dispersion & correlation; tests of hypothesis using the normal curve, the T distribution, the F distribution, & the chi-square distribution.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Quantitative Reasoning",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-UE 1086",
+            "course_name": "Basic Statistics II",
+            "description": "APSTA-UE 1086 Basic Statistics II \nThe second semester builds on the foundation of the first and covers particular methods of statistical inference that rely on the normal t, F, and chi-square distributions to test hypotheses about means, variances, correlations, and proportions.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-UE 1995",
+            "course_name": "Intro to Biostatistics",
+            "description": "APSTA-UE 1995 Intro to Biostatistics \nThe collection, tabulation, & elementary analysis of vital statistics. Sources & uses of population, mortality, & morbidity data. Classification & tabulation, frequency distribution, measures of location & variation, rates & ratios, correlations & regression, & tests of significance using the normal curve, the distribution, & the chi-square distribution. Illustrations & examples taken from the health professions.",
+            "offering": false
+        }
+    ]
+}

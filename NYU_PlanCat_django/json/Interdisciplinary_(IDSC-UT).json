@@ -1,0 +1,72 @@
+{
+    "major_id": "IDSC-UT",
+    "file": "./2015-2016/Interdisciplinary_(IDSC-UT).html",
+    "courses": [
+        {
+            "course_id": "IDSC-UT 1",
+            "course_name": "Tisch Univ Scholars Honors Program",
+            "description": "IDSC-UT    1 Tisch Univ Scholars Honors Program",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 2",
+            "course_name": "Tsoa Univ. Scholars Independent Study",
+            "description": "IDSC-UT    2 Tsoa Univ. Scholars Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 10",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "14198",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Int'L Orientation Sem",
+            "description": "IDSC-UT   10 Int'L Orientation Sem",
+            "offering": true
+        },
+        {
+            "course_id": "IDSC-UT 100",
+            "course_name": "Artist in American Culture",
+            "description": "IDSC-UT  100 Artist in American Culture",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 1000",
+            "course_name": "Art, Artist & Social Change",
+            "description": "IDSC-UT 1000 Art, Artist & Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 1100",
+            "course_name": "Urban Ensemble",
+            "description": "IDSC-UT 1100 Urban Ensemble",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 1101",
+            "course_name": "Internship",
+            "description": "IDSC-UT 1101 Internship",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 2100",
+            "course_name": "Urban Ensemble",
+            "description": "IDSC-UT 2100 Urban Ensemble",
+            "offering": false
+        },
+        {
+            "course_id": "IDSC-UT 2101",
+            "course_name": "Urban Ensemble Internshp",
+            "description": "IDSC-UT 2101 Urban Ensemble Internshp",
+            "offering": false
+        }
+    ]
+}

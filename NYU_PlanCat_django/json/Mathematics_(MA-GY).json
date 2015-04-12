@@ -1,0 +1,1605 @@
+{
+    "major_id": "MA-GY",
+    "file": "./2015-2016/Mathematics_(MA-GY).html",
+    "courses": [
+        {
+            "course_id": "MA-GY 502",
+            "course_name": "MATH FOR COMPUTER SCIENCE",
+            "description": "MA-GY  502 MATH FOR COMPUTER SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 505",
+            "course_name": "FOUNDATIONS OF MATHEMATICS",
+            "description": "MA-GY  505 FOUNDATIONS OF MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 511",
+            "course_name": "APPLIED MATH 511",
+            "description": "MA-GY  511 APPLIED MATH 511",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 512",
+            "course_name": "APPLIED MATH 512",
+            "description": "MA-GY  512 APPLIED MATH 512",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 513",
+            "course_name": "Profound Understanding of Basic Mathematics for Teachers",
+            "description": "MA-GY  513 Profound Understanding of Basic Mathematics for Teachers",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 521",
+            "course_name": "ADVANCED DISCOVERY MATH FOR TEACHERS",
+            "description": "MA-GY  521 ADVANCED DISCOVERY MATH FOR TEACHERS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 532",
+            "course_name": "ADV ENG MATH 11",
+            "description": "MA-GY  532 ADV ENG MATH 11",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 535",
+            "course_name": "VECTOR & TENSOR ANALYSIS",
+            "description": "MA-GY  535 VECTOR & TENSOR ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 541",
+            "course_name": "FUND. OF DISCRETE MATH I",
+            "description": "MA-GY  541 FUND. OF DISCRETE MATH I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 542",
+            "course_name": "FUND. OF DISCRETE MATH 2",
+            "description": "MA-GY  542 FUND. OF DISCRETE MATH 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 551",
+            "course_name": "| MG-GY  505 MANAGERIAL PROBABILITY & STAT",
+            "description": "MA-GY  551 | MG-GY  505 MANAGERIAL PROBABILITY & STAT",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 552",
+            "course_name": "CORREL-REGRESS-VAR ANALY",
+            "description": "MA-GY  552 CORREL-REGRESS-VAR ANALY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 553",
+            "course_name": "APPLIED STATISTICS",
+            "description": "MA-GY  553 APPLIED STATISTICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 554",
+            "course_name": "APPLIED DECISION THEORY",
+            "description": "MA-GY  554 APPLIED DECISION THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 555",
+            "course_name": "DESIGN EXPERIMENTS",
+            "description": "MA-GY  555 DESIGN EXPERIMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 556",
+            "course_name": "CORREL/MULTIVARIATE MDLS",
+            "description": "MA-GY  556 CORREL/MULTIVARIATE MDLS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 557",
+            "course_name": "SAMPLING",
+            "description": "MA-GY  557 SAMPLING",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 558",
+            "course_name": "GEOMET. OPTIMIZATION I",
+            "description": "MA-GY  558 GEOMET. OPTIMIZATION I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 559",
+            "course_name": "GEOMET. OPTIMIZATION II",
+            "description": "MA-GY  559 GEOMET. OPTIMIZATION II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 561",
+            "course_name": "ELEMENTS OF PROBABILITY",
+            "description": "MA-GY  561 ELEMENTS OF PROBABILITY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 562",
+            "course_name": "STATISTICS",
+            "description": "MA-GY  562 STATISTICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 565",
+            "course_name": "INTERMED DIFF EQUATIONS",
+            "description": "MA-GY  565 INTERMED DIFF EQUATIONS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 570",
+            "course_name": "INTRODUCTORY GEOMETRY",
+            "description": "MA-GY  570 INTRODUCTORY GEOMETRY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 575",
+            "course_name": "INTRO-DIFFRNTL GEOMETRY",
+            "description": "MA-GY  575 INTRO-DIFFRNTL GEOMETRY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 602",
+            "course_name": "APPLIED MATRIX THEORY II",
+            "description": "EL-GY  613 | MA-GY  602 APPLIED MATRIX THEORY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 603",
+            "course_name": "SYMBOLIC LOGIC",
+            "description": "MA-GY  603 SYMBOLIC LOGIC",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 605",
+            "course_name": "MATHEMATICS 1",
+            "description": "MA-GY  605 MATHEMATICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 606",
+            "course_name": "TPCS:ANALY FOR TCHRS II",
+            "description": "MA-GY  606 TPCS:ANALY FOR TCHRS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 607",
+            "course_name": "FUND. OF MATHEMATICS I",
+            "description": "MA-GY  607 FUND. OF MATHEMATICS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 608",
+            "course_name": "FUND. OF MATHEMATICS II",
+            "description": "IE-GY  608 | MA-GY  608 FUND. OF MATHEMATICS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 610",
+            "course_name": "NUM & APPROX ANALY I",
+            "description": "MA-GY  610 NUM & APPROX ANALY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 611",
+            "course_name": "STAT QUALITY CONTROL",
+            "description": "MA-GY  611 STAT QUALITY CONTROL",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 619",
+            "course_name": "| MA-UY  201 ADVANCED CALCULUS I",
+            "description": "MA-GY  619 | MA-UY  201 ADVANCED CALCULUS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 620",
+            "course_name": "ADVANCED CALCULUS II",
+            "description": "MA-GY  620 ADVANCED CALCULUS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 625",
+            "course_name": "MEASURE/INTGRTN THEORY I",
+            "description": "MA-GY  625 MEASURE/INTGRTN THEORY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 626",
+            "course_name": "MEASURE/INTGRTN THEORY 2",
+            "description": "MA-GY  626 MEASURE/INTGRTN THEORY 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 627",
+            "course_name": "OR: DETERMINISTIC MODELS",
+            "description": "MA-GY  627 OR: DETERMINISTIC MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 630",
+            "course_name": "COMPLEX VARIABLES",
+            "description": "MA-GY  630 COMPLEX VARIABLES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 632",
+            "course_name": "THRY FUNC OF COMP VAR 2",
+            "description": "MA-GY  632 THRY FUNC OF COMP VAR 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 633",
+            "course_name": "THRY OF RIEMANN SURF 1",
+            "description": "MA-GY  633 THRY OF RIEMANN SURF 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 634",
+            "course_name": "RIEMANN SURFACES 2",
+            "description": "MA-GY  634 RIEMANN SURFACES 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 637",
+            "course_name": "TOPICS:COMPLEX VARIABLES",
+            "description": "MA-GY  637 TOPICS:COMPLEX VARIABLES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 638",
+            "course_name": "TOPICS:COMPLEX VARIABLES",
+            "description": "MA-GY  638 TOPICS:COMPLEX VARIABLES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 641",
+            "course_name": "ADV DIFF EQUATIONS 1",
+            "description": "MA-GY  641 ADV DIFF EQUATIONS 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 641",
+            "course_name": "ADV DIFF EQUATIONS 1",
+            "description": "MA-GY  641 ADV DIFF EQUATIONS 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 642",
+            "course_name": "ADV DIFF EQUATIONS 2",
+            "description": "MA-GY  642 ADV DIFF EQUATIONS 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 643",
+            "course_name": "THRY PRT DIFF EQUATIONS 1",
+            "description": "MA-GY  643 THRY PRT DIFF EQUATIONS 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 645",
+            "course_name": "THRY ORDIN DIFF EQUATNS",
+            "description": "MA-GY  645 THRY ORDIN DIFF EQUATNS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 646",
+            "course_name": "THEORY PARTL DIFF EQUATN",
+            "description": "MA-GY  646 THEORY PARTL DIFF EQUATN",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 649",
+            "course_name": "TOPICS IN GEOM & TOPOLGY",
+            "description": "MA-GY  649 TOPICS IN GEOM & TOPOLGY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 650",
+            "course_name": "ORDIN/PRTL DIFF EQUATNS",
+            "description": "MA-GY  650 ORDIN/PRTL DIFF EQUATNS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 660",
+            "course_name": "ELEM. OF METALLURGY",
+            "description": "MA-GY  660 ELEM. OF METALLURGY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 661",
+            "course_name": "SPCL FUNCT-MATH PHYS I",
+            "description": "MA-GY  661 SPCL FUNCT-MATH PHYS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 662",
+            "course_name": "SPCL FUNCT-MATH PHYS II",
+            "description": "MA-GY  662 SPCL FUNCT-MATH PHYS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 666",
+            "course_name": "| ME-GY  732 COMPUT METH:THERM/FLUIDS",
+            "description": "MA-GY  666 | ME-GY  732 COMPUT METH:THERM/FLUIDS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 673",
+            "course_name": "ABSTRACT HARMONIC ANALYSIS 1",
+            "description": "MA-GY  673 ABSTRACT HARMONIC ANALYSIS 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 674",
+            "course_name": "ABSTRACT HARMONIC ANALYSIS 2",
+            "description": "MA-GY  674 ABSTRACT HARMONIC ANALYSIS 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 679",
+            "course_name": "TOPICS IN APPLIED MATHEMATICS",
+            "description": "MA-GY  679 TOPICS IN APPLIED MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 679",
+            "course_name": "TOPICS IN APPLIED MATHMA",
+            "description": "MA-GY  679 TOPICS IN APPLIED MATHMA",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 682",
+            "course_name": "FUNCTIONAL ANALYSIS II",
+            "description": "MA-GY  682 FUNCTIONAL ANALYSIS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 699",
+            "course_name": "TOPICS IN PROB & STATIST",
+            "description": "MA-GY  699 TOPICS IN PROB & STATIST",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 702",
+            "course_name": "INTRO TO MOD ALGEBRA 1",
+            "description": "MA-GY  702 INTRO TO MOD ALGEBRA 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 703",
+            "course_name": "LINEAR ALGEBRA",
+            "description": "MA-GY  703 LINEAR ALGEBRA",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 704",
+            "course_name": "LINEAR ALGEBRA 2",
+            "description": "MA-GY  704 LINEAR ALGEBRA 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 705",
+            "course_name": "LINEAR/MODERN ALGEBRA I",
+            "description": "MA-GY  705 LINEAR/MODERN ALGEBRA I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 706",
+            "course_name": "LINEAR/MODERN ALGEBRA II",
+            "description": "MA-GY  706 LINEAR/MODERN ALGEBRA II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 713",
+            "course_name": "GROUP THEORY 1",
+            "description": "MA-GY  713 GROUP THEORY 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 714",
+            "course_name": "GROUP THEORY 2",
+            "description": "MA-GY  714 GROUP THEORY 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 715",
+            "course_name": "ADV TOP IN ALGEBRA",
+            "description": "MA-GY  715 ADV TOP IN ALGEBRA",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 716",
+            "course_name": "ADV TOP IN ALGEBRA",
+            "description": "MA-GY  716 ADV TOP IN ALGEBRA",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 720",
+            "course_name": "OPTIMUM SEEKING METHODS",
+            "description": "MA-GY  720 OPTIMUM SEEKING METHODS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 723",
+            "course_name": "FIELD THEORY 1",
+            "description": "MA-GY  723 FIELD THEORY 1\n FIELD THEORY 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 751",
+            "course_name": "POINT SET TOPOLOGY 1",
+            "description": "MA-GY  751 POINT SET TOPOLOGY 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 751",
+            "course_name": "POINT SET TOPOLOGY 1",
+            "description": "MA-GY  751 POINT SET TOPOLOGY 1",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 752",
+            "course_name": "POINT SET TOPOLOGY 2",
+            "description": "MA-GY  752 POINT SET TOPOLOGY 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 755",
+            "course_name": "TOPOLOGY I",
+            "description": "MA-GY  755 TOPOLOGY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 756",
+            "course_name": "TOPOLOGY II",
+            "description": "MA-GY  756 TOPOLOGY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 770",
+            "course_name": "DIFFERENTIAL GEOMETRY",
+            "description": "MA-GY  770 DIFFERENTIAL GEOMETRY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 775",
+            "course_name": "MANIF-GEOM DIFFNTL TOP I",
+            "description": "MA-GY  775 MANIF-GEOM DIFFNTL TOP I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 776",
+            "course_name": "MANIF-GEOM DIFFNTL TOP 2",
+            "description": "MA-GY  776 MANIF-GEOM DIFFNTL TOP 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 785",
+            "course_name": "SELECTED TOPICS:GEOMETRY",
+            "description": "MA-GY  785 SELECTED TOPICS:GEOMETRY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 786",
+            "course_name": "SELECTED TOPICS-TOPOLOGY",
+            "description": "MA-GY  786 SELECTED TOPICS-TOPOLOGY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 801",
+            "course_name": "SPCL TPCS:APPLD MATH I",
+            "description": "MA-GY  801 SPCL TPCS:APPLD MATH I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 802",
+            "course_name": "NON-LINEAR PROGRAMMING",
+            "description": "MA-GY  802 NON-LINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 804",
+            "course_name": "CALCULUS FINITE DIF",
+            "description": "MA-GY  804 CALCULUS FINITE DIF",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 805",
+            "course_name": "TENSOR ANALYSIS I",
+            "description": "MA-GY  805 TENSOR ANALYSIS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 806",
+            "course_name": "TENSOR ANALYSIS II",
+            "description": "MA-GY  806 TENSOR ANALYSIS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 812",
+            "course_name": "THEORY OF GAMES",
+            "description": "MA-GY  812 THEORY OF GAMES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 813",
+            "course_name": "LINEAR PROGRAMMING",
+            "description": "IE-GY  631 | MA-GY  813 LINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 813",
+            "course_name": "LINEAR PROGRAMMING",
+            "description": "IE-GY  631 | MA-GY  813 LINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 814",
+            "course_name": "INTEGER PROGRAMMING",
+            "description": "IE-GY  633 | MA-GY  814 INTEGER PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 815",
+            "course_name": "THEORY OF QUEUES",
+            "description": "MA-GY  815 THEORY OF QUEUES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 816",
+            "course_name": "GRAPH THEORY I",
+            "description": "MA-GY  816 GRAPH THEORY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 817",
+            "course_name": "GRAPH THEORY II",
+            "description": "MA-GY  817 GRAPH THEORY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 818",
+            "course_name": "NONLINEAR PROGRAMMING",
+            "description": "IE-GY  632 | MA-GY  818 NONLINEAR PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 818",
+            "course_name": "ADVANCED TOPICS IN ALGEB",
+            "description": "MA-GY  818 ADVANCED TOPICS IN ALGEB",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 819",
+            "course_name": "THEORY OF APPROXIMATION",
+            "description": "MA-GY  819 THEORY OF APPROXIMATION",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 820",
+            "course_name": "THEORY OF APPROXIMATION",
+            "description": "MA-GY  820 THEORY OF APPROXIMATION",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 821",
+            "course_name": "NUMERICAL ANALYSIS",
+            "description": "MA-GY  821 NUMERICAL ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 822",
+            "course_name": "NUMERICL APPROX/ANALY II",
+            "description": "MA-GY  822 NUMERICL APPROX/ANALY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 823",
+            "course_name": "SPCL TPCS:NUMER ANALYSIS",
+            "description": "MA-GY  823 SPCL TPCS:NUMER ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 825",
+            "course_name": "NUMERICAL LINEAR ALGEBRA",
+            "description": "MA-GY  825 NUMERICAL LINEAR ALGEBRA",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 828",
+            "course_name": "AT IN REAL & CMPLX ANLYS",
+            "description": "MA-GY  828 AT IN REAL & CMPLX ANLYS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 832",
+            "course_name": "PARTL DIFF EQ OF MATH PHYS",
+            "description": "MA-GY  832 PARTL DIFF EQ OF MATH PHYS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 833",
+            "course_name": "PART DIFF EQTNS MATH PHY",
+            "description": "MA-GY  833 PART DIFF EQTNS MATH PHY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 835",
+            "course_name": "POTENTIAL THEORY",
+            "description": "MA-GY  835 POTENTIAL THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 836",
+            "course_name": "APPL COMPLX VARIABL",
+            "description": "MA-GY  836 APPL COMPLX VARIABL",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 837",
+            "course_name": "APPLIED MATRIX THEORY",
+            "description": "EL-GY  613 | MA-GY  837 APPLIED MATRIX THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 838",
+            "course_name": "AT IN DIFFERNTL EQUATION",
+            "description": "MA-GY  838 AT IN DIFFERNTL EQUATION",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 839",
+            "course_name": "INTRO-FUNCTIONAL ANALY",
+            "description": "MA-GY  839 INTRO-FUNCTIONAL ANALY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 841",
+            "course_name": "INTEGRAL EQUATIONS I",
+            "description": "MA-GY  841 INTEGRAL EQUATIONS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 842",
+            "course_name": "INTEGRAL EQUATIONS II",
+            "description": "MA-GY  842 INTEGRAL EQUATIONS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 844",
+            "course_name": "OPTIMAL CONTROL THEORY",
+            "description": "EL-GY  823 | MA-GY  844 OPTIMAL CONTROL THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 848",
+            "course_name": "| MA-GY 8143 Advanced Topics in Topology I",
+            "description": "MA-GY  848 | MA-GY 8143 Advanced Topics in Topology I \nCourse content varies. | Prerequisite: MA-GY 7403",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 851",
+            "course_name": "PROBABILITY THEORY",
+            "description": "MA-GY  851 PROBABILITY THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 852",
+            "course_name": "STOCHASTIC PROCESSES",
+            "description": "MA-GY  852 STOCHASTIC PROCESSES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 853",
+            "course_name": "PROBABILITY I",
+            "description": "MA-GY  853 PROBABILITY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 854",
+            "course_name": "PROBABILITY II",
+            "description": "MA-GY  854 PROBABILITY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 855",
+            "course_name": "STOCHASTIC PROCESSES",
+            "description": "MA-GY  855 STOCHASTIC PROCESSES",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 860",
+            "course_name": "FUNCTIONAL ANALYSIS",
+            "description": "MA-GY  860 FUNCTIONAL ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 861",
+            "course_name": "PRINC-STAT INFERENCE I",
+            "description": "MA-GY  861 PRINC-STAT INFERENCE I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 862",
+            "course_name": "PRINC-STAT INFERENCE II",
+            "description": "MA-GY  862 PRINC-STAT INFERENCE II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 863",
+            "course_name": "MULTIVARIATE ANALYSIS I",
+            "description": "MA-GY  863 MULTIVARIATE ANALYSIS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 864",
+            "course_name": "MULTIVARIATE ANALYSIS II",
+            "description": "MA-GY  864 MULTIVARIATE ANALYSIS II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 865",
+            "course_name": "REGRESSION/ANOVAR I",
+            "description": "MA-GY  865 REGRESSION/ANOVAR I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 866",
+            "course_name": "REGRESSION/ANOVAR II",
+            "description": "MA-GY  866 REGRESSION/ANOVAR II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 867",
+            "course_name": "NONPARAMETRIC METHODS",
+            "description": "MA-GY  867 NONPARAMETRIC METHODS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 869",
+            "course_name": "ADV STAT INFERENCE I",
+            "description": "MA-GY  869 ADV STAT INFERENCE I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 870",
+            "course_name": "ADV STAT INFERENCE II",
+            "description": "MA-GY  870 ADV STAT INFERENCE II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 871",
+            "course_name": "ADVANCED PROBABILITY I",
+            "description": "MA-GY  871 ADVANCED PROBABILITY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 872",
+            "course_name": "ADVANCED PROBABILITY II",
+            "description": "MA-GY  872 ADVANCED PROBABILITY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 873",
+            "course_name": "THEORY-STOCHASTIC PRCS I",
+            "description": "MA-GY  873 THEORY-STOCHASTIC PRCS I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 874",
+            "course_name": "THEORY-STOCHASTIC PRCS 2",
+            "description": "MA-GY  874 THEORY-STOCHASTIC PRCS 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 881",
+            "course_name": "STAT ANALY-TIME SERIES I",
+            "description": "MA-GY  881 STAT ANALY-TIME SERIES I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 882",
+            "course_name": "STAT ANALY-TIME SERIES 2",
+            "description": "MA-GY  882 STAT ANALY-TIME SERIES 2",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 931",
+            "course_name": "SEL TOP TEACH MAT I",
+            "description": "MA-GY  931 SEL TOP TEACH MAT I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 932",
+            "course_name": "SEL TOP TEACH MAT II",
+            "description": "MA-GY  932 SEL TOP TEACH MAT II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 935",
+            "course_name": "APPL SCI PROJ-PUB ADMIN",
+            "description": "MA-GY  935 APPL SCI PROJ-PUB ADMIN",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 951",
+            "course_name": "TOP MATH BIOLOGY I",
+            "description": "MA-GY  951 TOP MATH BIOLOGY I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 952",
+            "course_name": "TOP MATH BIOLOGY II",
+            "description": "MA-GY  952 TOP MATH BIOLOGY II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 955",
+            "course_name": "SELECT TOP ADV MA I",
+            "description": "MA-GY  955 SELECT TOP ADV MA I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 956",
+            "course_name": "SELECT TOP ADV MA II",
+            "description": "MA-GY  956 SELECT TOP ADV MA II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 961",
+            "course_name": "MS THESIS IN MATHEMATICS",
+            "description": "MA-GY  961 MS THESIS IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 962",
+            "course_name": "MS THESIS IN MATHEMATICS",
+            "description": "MA-GY  962 MS THESIS IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 963",
+            "course_name": "MS THESIS IN MATHEMATICS",
+            "description": "MA-GY  963 MS THESIS IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 964",
+            "course_name": "MS THESIS IN MATHEMATICS",
+            "description": "MA-GY  964 MS THESIS IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 995",
+            "course_name": "M.S. PROJECT",
+            "description": "MA-GY  995 M.S. PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 996",
+            "course_name": "PROJECT",
+            "description": "MA-GY  996 PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 997",
+            "classes": [
+                {}
+            ],
+            "course_name": "X MS THESIS IN MATH",
+            "description": "MA-GY  997X MS THESIS IN MATH \nIn this course, students present a thesis of independent investigation of a suitable problem in mathematics. Study must include adequate investigation of existing literature relating to the subject. Regular reports on progress of work and regular conferences with assigned faculty adviser are required. | Note: Re-registration fee, any part: 3-credit charge. Prerequisite: Degree status.",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 998",
+            "course_name": "ENGINEER DEGREE PROJECT",
+            "description": "MA-GY  998 ENGINEER DEGREE PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 999",
+            "classes": [
+                {}
+            ],
+            "course_name": "X PHD DISSERTATION IN MATHEMATICS",
+            "description": "MA-GY  999X PHD DISSERTATION IN MATHEMATICS",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 5024",
+            "course_name": "",
+            "description": "MA-GY 5024\n\n   ePoly: Fundamentals of Calculus 1\n\nThis course covers library of Functions: functions of one variable. Limits, derivatives of functions defined by graphs, tables and formulas, differentiation rules for power, polynomial, exponential and logarithmic functions, derivatives of trigonometric functions, the product and quotient rule, the chain rule, applications of the chain rule, maxima and minima, optimization. Note: this course does not apply as credit toward a student's graduate degree. Cannot be taken if student has completed MA-UY 1024. Students may be required to pay for ProctorU and WebAssign. | Prerequisite: Math Diagnostic...\n\n      more description for MA-GY 5024 \u00bb\n\n      \n\n\n\nThis course covers library of Functions: functions of one variable. Limits, derivatives of functions defined by graphs, tables and formulas, differentiation rules for power, polynomial, exponential and logarithmic functions, derivatives of trigonometric functions, the product and quotient rule, the chain rule, applications of the chain rule, maxima and minima, optimization. Note: this course does not apply as credit toward a student's graduate degree. Cannot be taken if student has completed MA-UY 1024. Students may be required to pay for ProctorU and WebAssign. | Prerequisite: Math Diagnostic Placement Exam or MA-UY 912 or MA-UY 914 or Departmental Permission.\n\n      less description for MA-GY 5024 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 5124",
+            "course_name": "",
+            "description": "MA-GY 5124\n\n   ePoly: Fundamentals of Calculus 2\n\nThis course covers definite integrals, theorems about integrals, anti-derivatives, second fundamental theorem of calculus, techniques of integration, introduction to ordinary differential equations, improper integrals, numerical methods of integration, applications of integration, sequences, series, power series, approximations of functions via Taylor polynomials, Taylor series. Note: this course does not apply as credit toward a student's graduate degree. Cannot be taken if student has completed MA-UY 1124. Students may be required to pay for ProctorU and WebAssign. | Prerequisite: MA-GY 5024...\n\n      more description for MA-GY 5124 \u00bb\n\n      \n\n\n\nThis course covers definite integrals, theorems about integrals, anti-derivatives, second fundamental theorem of calculus, techniques of integration, introduction to ordinary differential equations, improper integrals, numerical methods of integration, applications of integration, sequences, series, power series, approximations of functions via Taylor polynomials, Taylor series. Note: this course does not apply as credit toward a student's graduate degree. Cannot be taken if student has completed MA-UY 1124. Students may be required to pay for ProctorU and WebAssign. | Prerequisite: MA-GY 5024 or MA-UY 1024.\n\n      less description for MA-GY 5124 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 5313",
+            "course_name": "",
+            "description": "MA-GY 5313\n\n   Applied Mathematics in Engineering and Science I\n\nThis course covers: Use of matrix algebra techniques in applications. Vector spaces. Solutions of linear algebraic equations. Linear independence. Rank of matrix. Linear transformations. Orthogonality. Gram-Schmidt procedure. Orthogonal matrices. Eigenvalues and eigenvectors. Spectral decomposition. Similarity transformations. Pseudoinverses. Singular value decomposition. Jordan form. Condition numbers of matrices. Iterative methods for eigenvalues of symmetric matrices. | Prerequisite: MA-UY 2122 and MA-UY 2132 or equivalent Note: Not acceptable for graduate credit in the Department of Mathem...\n\n      more description for MA-GY 5313 \u00bb\n\n      \n\n\n\nThis course covers: Use of matrix algebra techniques in applications. Vector spaces. Solutions of linear algebraic equations. Linear independence. Rank of matrix. Linear transformations. Orthogonality. Gram-Schmidt procedure. Orthogonal matrices. Eigenvalues and eigenvectors. Spectral decomposition. Similarity transformations. Pseudoinverses. Singular value decomposition. Jordan form. Condition numbers of matrices. Iterative methods for eigenvalues of symmetric matrices. | Prerequisite: MA-UY 2122 and MA-UY 2132 or equivalent Note: Not acceptable for graduate credit in the Department of Mathematics.\n\n      less description for MA-GY 5313 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 5323",
+            "course_name": "Applied Mathematics in Engineering and Science II",
+            "description": "MA-GY 5323 Applied Mathematics in Engineering and Science II \nThis course covers: Some common partial differential equations, boundary conditions, separation of variables. Wave equation, diffusion equation, Laplace equation. Axial symmetry and spherical symmetry. Adjoint operators and Sturm-Liouville problems. Expansions in orthogonal eigenfunctions. Method of Frobenius. Bessel functions. Integral representations. Asymptotic expansions. Legendre polynomials. Spherical harmonics. Spherical Bessel functions. | Prerequisite: MA-GY 5313. Co-Requisite: None. Note: Not acceptable for graduate credit in the Department of Mathematics.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 5413",
+            "course_name": "Stringology: Mathematics of String Comparisons in Computational Biology",
+            "description": "MA-GY 5413 Stringology: Mathematics of String Comparisons in Computational Biology \nThe course addresses basic combinatorial problems of string manipulation, string matching, string editing, string distance computations, arising from areas of text processing, computational biology and genomics. Classical, modern and entirely new approaches to these problems are presented with all necessary mathematical and computer science backgrounds (including coding theory and symbolic manipulation). Emphasis is on practical and effective algorithm implementations. | Prerequisite: None.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6003",
+            "course_name": "",
+            "description": "MA-GY 6003\n\n   Elements of Discrete Mathematics\n\nThis course covers logic, sets and functions, algorithms, analysis of algorithms. Mathematical models, primitives of na\u00efve set theory. Covered topics: Mathematical reasoning, methods of proof, mathematical induction, recursive definitions, recursive algorithms, Counting, the Pigeonhole principle, discrete probability, recurrence relations, generating functions, inclusion-exclusion. Introduction to graph theory, counting and algorithm analysis, relations, graphs, Boolean algebras, circuits. Turing Machines, algorithm complexity. Introduction to algebraic structures. | Prerequisite: Adviser\u2019s ap...\n\n      more description for MA-GY 6003 \u00bb\n\n      \n\n\n\nThis course covers logic, sets and functions, algorithms, analysis of algorithms. Mathematical models, primitives of na\u00efve set theory. Covered topics: Mathematical reasoning, methods of proof, mathematical induction, recursive definitions, recursive algorithms, Counting, the Pigeonhole principle, discrete probability, recurrence relations, generating functions, inclusion-exclusion. Introduction to graph theory, counting and algorithm analysis, relations, graphs, Boolean algebras, circuits. Turing Machines, algorithm complexity. Introduction to algebraic structures. | Prerequisite: Adviser\u2019s approval.\n\n      less description for MA-GY 6003 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6005",
+            "course_name": "GUIDED STUDIES  IN MATHEMATICS",
+            "description": "MA-GY 6005 GUIDED STUDIES  IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6010",
+            "course_name": "GUIDED STUDIES IN MATHEMATICS",
+            "description": "MA-GY 6010 GUIDED STUDIES IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6013",
+            "course_name": "",
+            "description": "MA-GY 6013\n\n   Applied Matrix Theory I\n\nThis course covers the basics of linear algebra and matrix theory. Topics included: Vector Spaces, linear combinations, affine combinations, linear dependence, affine dependence, bases, dimension, isomorphism, subspaces, calculus of subspaces, dimension of subspaces, dual vector spaces and dual bases, direct sums of vector spaces, quotient spaces, bilinear forms, tensor products, permutations, cycles, parity, linear transformations, transformations as vectors, polynomials, inverses, matrices, matrices associated with linear transformations, invariance, reducibility, projections, adjoints, chan...\n\n      more description for MA-GY 6013 \u00bb\n\n      \n\n\n\nThis course covers the basics of linear algebra and matrix theory. Topics included: Vector Spaces, linear combinations, affine combinations, linear dependence, affine dependence, bases, dimension, isomorphism, subspaces, calculus of subspaces, dimension of subspaces, dual vector spaces and dual bases, direct sums of vector spaces, quotient spaces, bilinear forms, tensor products, permutations, cycles, parity, linear transformations, transformations as vectors, polynomials, inverses, matrices, matrices associated with linear transformations, invariance, reducibility, projections, adjoints, change of basis, similarity. | Prerequisite: MA-UY 2012 and MA-UY 2122 or equivalent. Co-Requisite:\n\n      less description for MA-GY 6013 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6015",
+            "course_name": "GUIDED STUDIES IN MATHEMATICS",
+            "description": "MA-GY 6015 GUIDED STUDIES IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6020",
+            "course_name": "GUIDED STUDIES IN MATHEMATICS",
+            "description": "MA-GY 6020 GUIDED STUDIES IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6023",
+            "course_name": "",
+            "description": "MA-GY 6023\n\n   APPLIED MATRIX THEORY II\n\nThis course is the sequel to MA-GY 6013, basics concepts of linear algebra and matrix  theory. Topics covered: Linear mappings, their range and null spaces, tensor product of transformations, determinants, eigenvalues, multiplicities, triangular form, nilpotence, Jordan form, inner products, inner product spaces, orthogonality, completeness Schwarz\u2019s inequality, complete orthonormal sets, the  projection theorem, linear functionals, self-adjoint transformations, polarization, positive  transformations, isometries, change of orthonormal basis, characterization of spectra, the spectral theorem, ...\n\n      more description for MA-GY 6023 \u00bb\n\n      \n\n\n\nThis course is the sequel to MA-GY 6013, basics concepts of linear algebra and matrix  theory. Topics covered: Linear mappings, their range and null spaces, tensor product of transformations, determinants, eigenvalues, multiplicities, triangular form, nilpotence, Jordan form, inner products, inner product spaces, orthogonality, completeness Schwarz\u2019s inequality, complete orthonormal sets, the  projection theorem, linear functionals, self-adjoint transformations, polarization, positive  transformations, isometries, change of orthonormal basis, characterization of spectra, the spectral theorem, normal transformations orthogonal transformations, functions of transformations, polar decomposition,  commutativity. Applications for matrices and for Differential equations. | Prerequisite: MA-GY 6013.\n\n      less description for MA-GY 6023 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6025",
+            "course_name": "GUIDED STUDIES IN MATHEMATICS",
+            "description": "MA-GY 6025 GUIDED STUDIES IN MATHEMATICS",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6103",
+            "course_name": "",
+            "description": "MA-GY 6103\n\n   Graph Theory\n\nThis course covers: Graphs and digraphs, subgraphs, paths, cycles, trees and forests. Contraction and minors. Vertex-connectivity and edge-connectivity. Structure of k-connected graphs. Menger\u2019s theorem. Planar graphs, drawings and embeddings. Graph colorings: vertex-coloring, edge-coloring, list-coloring. Perfect graphs. Network flows, Ford-Fulkerson Theorem. Matching, Packing and Covering. Ramsey theory. Extremal graph theory, Szemeredi\u2019s regularity lemma. Hamilton cycles. Random graphs. The probabilistic method. Tree-decompositions, tree-width. The graph minor theorem. | Prerequisite: MA-GY...\n\n      more description for MA-GY 6103 \u00bb\n\n      \n\n\n\nThis course covers: Graphs and digraphs, subgraphs, paths, cycles, trees and forests. Contraction and minors. Vertex-connectivity and edge-connectivity. Structure of k-connected graphs. Menger\u2019s theorem. Planar graphs, drawings and embeddings. Graph colorings: vertex-coloring, edge-coloring, list-coloring. Perfect graphs. Network flows, Ford-Fulkerson Theorem. Matching, Packing and Covering. Ramsey theory. Extremal graph theory, Szemeredi\u2019s regularity lemma. Hamilton cycles. Random graphs. The probabilistic method. Tree-decompositions, tree-width. The graph minor theorem. | Prerequisite: MA-GY 6003 or adviser\u2019s approval.\n\n      less description for MA-GY 6103 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6123",
+            "course_name": "Queuing Theory",
+            "description": "MA-GY 6123 Queuing Theory \nThis course covers: Steady-state solutions for single and multiple channels. Various arrival and service distributions and queuing disciplines. Transient solutions. Emphasis on theory, with solution techniques given for specific classes of queues. | Prerequisite: MA-GY 6003 or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6133",
+            "course_name": "Elements of Number Theory",
+            "description": "MA-GY 6133 Elements of Number Theory \nThis course covers: Prime numbers, the fundamental theorem of arithmetic, linear Diophantine equations. Fermat\u2019s Little Theorem, Wilson\u2019s Theorem, Euler\u2019s theorem. Linear congruences, Chinese Remainder Theorem, Euler phi function, Moebius inversion. Primitive roots and indices, quadratic congruences, Quadratic reciprocity law. Perfect numbers, sums of squares, Siegel\u2019s theorem. The prime number theorem. Computational number theory, primality testing, Cryptography. Elliptic curves. | Prerequisite: MA-GY 6003 or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6143",
+            "course_name": "Optimization: Linear and Nonlinear Programming",
+            "description": "MA-GY 6143 Optimization: Linear and Nonlinear Programming \nThis course covers: Theory and application of linear programming techniques. Simplex and revised simplex algorithms. Duality theory, dual simplex method, post-optimality analysis. Degeneracy. Transportation and assignment problems. Quadratic programming, Kuhn-Tucker conditions. Wolfe\u2019s method. | Prerequisite: MA-GY 6003 or adviser\u2019s approval.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6183",
+            "course_name": "TOPICS IN ALGEBRA I",
+            "description": "MA-GY 6183 TOPICS IN ALGEBRA I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6213",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "MA-GY 6213\n\n   Elements of Real Analysis I\n\nThis course and its sequel MA-GY 6223 rigorously treat the basic concepts and results in real analysis. Course topics include limits of sequences, topological concepts of sets for real numbers, properties of continuous functions and differentiable functions. Important concepts and theorems include supremum and infimum, Bolzano-Weierstrass theorem, Cauchy sequences, open sets, closed sets, compact sets, topological characterization of continuity, intermediate value theorem, uniform continuity, mean value theorems and inverse function theorem. | Prerequisite: MA-UY 2122 or permission of adviser....\n\n      more description for MA-GY 6213 \u00bb\n\n      \n\n\n\nThis course and its sequel MA-GY 6223 rigorously treat the basic concepts and results in real analysis. Course topics include limits of sequences, topological concepts of sets for real numbers, properties of continuous functions and differentiable functions. Important concepts and theorems include supremum and infimum, Bolzano-Weierstrass theorem, Cauchy sequences, open sets, closed sets, compact sets, topological characterization of continuity, intermediate value theorem, uniform continuity, mean value theorems and inverse function theorem. | Prerequisite: MA-UY 2122 or permission of adviser.\n\n      less description for MA-GY 6213 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 6223",
+            "course_name": "Elements of Real Analysis II",
+            "description": "MA-GY 6223 Elements of Real Analysis II \nThis course continues MA-GY 6213. The topics are integration, series of real numbers, sequences and series of functions and Fourier series. Important concepts and theorems include Riemann and Riemann-Stieltjes integral, fundamental theorem of calculus, the mean value theorem of integrals, Dirichlet test, absolute and conditional convergence, uniform convergence, Weierstrass test, power series, orthogonal functions and Fourier series. | Prerequisite: MA-GY 6213.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6233",
+            "course_name": "Theory of Ordinary Differential Equations I",
+            "description": "MA-GY 6233 Theory of Ordinary Differential Equations I \nThis course covers: Ordinary differential equations. Existence and uniqueness theorems. Linear systems. Isolated singularities. Self-adjoint eigenvalue problems. Geometric theory of differential equations in the plane. | Prerequisite: MA-GY 6213 and MA-GY 6223",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6243",
+            "course_name": "Theory of Ordinary Differential Equations II",
+            "description": "MA-GY 6243 Theory of Ordinary Differential Equations II \nThis course covers: Ordinary differential equations. Existence and uniqueness theorems. Linear systems. Isolated singularities. Self-adjoint eigenvalue problems. Geometric theory of differential equations in the plane. | Prerequisite: MA-GY 6213 and MA-GY 6223, MA-GY 6233 for MA-GY 6243.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6253",
+            "course_name": "Theory of Partial Differential Equations I",
+            "description": "MA-GY 6253 Theory of Partial Differential Equations I \nThis course covers: Partial differential equations. Cauchy-Kowalewski theorem. First-order differential equations, systems of differential equations in two variables, characteristics and classification, hyperbolic, parabolic and elliptic systems. Well-posedness. | Prerequisites: MA-GY 6213 and MA-GY 6223",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6263",
+            "course_name": "Theory of Partial Differential Equations II",
+            "description": "MA-GY 6263 Theory of Partial Differential Equations II \nThis course covers: Partial differential equations. Cauchy-Kowalewski theorem. First-order differential equations, systems of differential equations in two variables, characteristics and classification, hyperbolic, parabolic and elliptic systems. Well-posedness. | Prerequisites: MA-GY 6253",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6283",
+            "course_name": "Mathematical Modeling in Biology",
+            "description": "MA-GY 6283 Mathematical Modeling in Biology \nThis course covers: Linear and nonlinear difference equations for population growth and propagation. Stability. Competitive systems. Growth of microorganisms. Steady states in chemostats. Predator-prey models. Populations of infectious diseases. Michaelis-Menten kinetics. Cooperative reactions. Hodgkin-Huxlley equations. Fitzhugh-Nagumo model of nerve impulses. Conservation equations. Convection and diffusion of species. Transport in axon. Slime molds. Aggregation. Morphogenesis. | Prerequisite: MA-UY 2122, MA-UY 2132.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6303",
+            "course_name": "",
+            "description": "MA-GY 6303\n\n   Elements of Complex Analysis\n\nThis course covers: Complex numbers, analytic functions, Cauchy\u2019s theorem and consequences, isolated singularities, analytic continuation, open mapping theorem, infinite series and products, harmonic and subharmonic functions, maximum principle, fractional linear transformations, geometric and local properties of analytic functions, Weierstrass Theorem, normal families, residues, conformal mapping, Riemann mapping theorem, branch points, second order linear O.D.E.\u2019s. | Prerequisites: MA-UY 2122 and MA-UY 2132 or equivalent. Co-Requisite:   Note: Not open to students who have taken MA-UY 3112 o...\n\n      more description for MA-GY 6303 \u00bb\n\n      \n\n\n\nThis course covers: Complex numbers, analytic functions, Cauchy\u2019s theorem and consequences, isolated singularities, analytic continuation, open mapping theorem, infinite series and products, harmonic and subharmonic functions, maximum principle, fractional linear transformations, geometric and local properties of analytic functions, Weierstrass Theorem, normal families, residues, conformal mapping, Riemann mapping theorem, branch points, second order linear O.D.E.\u2019s. | Prerequisites: MA-UY 2122 and MA-UY 2132 or equivalent. Co-Requisite:   Note: Not open to students who have taken MA-UY 3112 or MA-UY 4433.\n\n      less description for MA-GY 6303 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6313",
+            "course_name": "Applications of Complex Analysis",
+            "description": "MA-GY 6313 Applications of Complex Analysis \nThis course continues MA-GY 6303. Topics covered: Residues, complex integration, Laplace transforms, Harmonic functions and classical examples from thermodynamics, electricity and magnetism, fluid flow, The Schwarz-Christoffel transformation. | Prerequisites: MA-GY 6303.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6403",
+            "course_name": "Elements of Geometry and Topology",
+            "description": "MA-GY 6403 Elements of Geometry and Topology \nThis course covers: Differential geometry in the plane. Introduction to transformation groups. Space curves and ruled surfaces. Tensors and exterior forms. Manifolds and tensor fields. Theory of surfaces. Introduction to Riemannian geometry. | Prerequisite: MA-GY 2122 and MA-GY 2132 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6513",
+            "course_name": "Applied Statistics I (Data Analysis)",
+            "description": "MA-GY 6513 Applied Statistics I (Data Analysis) \nThis course covers: Treatment of statistical methods and application to analysis of data, fitting of functions to data. Estimation of population parameters, t-tests, chi square tests, rank tests. | Prerequisite: MA-UY 1124 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6523",
+            "course_name": "Regression-Analysis of Variance-Time Series Analysis",
+            "description": "MA-GY 6523 Regression-Analysis of Variance-Time Series Analysis \nThis course discusses models and computational schemes associated with correlation, regression coefficients, analysis of variance and time series models. | Prerequisite: MA-UY 4113 or MA-GY 6513.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6583",
+            "course_name": "",
+            "description": "MA-GY 6583\n\n   Calculus of Variations\n\nThis course covers: Classical problems, such as geodesics, brachistochrones, isoperimetric problems. Euler equations. Geodesic coverings. Weierstrass condition. Hamilton-Jacobi equation. First and second variations. Transversality. Convex sets and functions. Duality. Existence theorems. Generalized curves. Control theory. Time-optimal problems. Optimal processes. Extension of elementary theory of maxima and minima. Euler equations, conditions of Weierstrass, Legendre and Jacobi; Mayer fields; Hamilton-Jacobi equations; transversality; conjugate and focal points. Applications to geodesics, mini...\n\n      more description for MA-GY 6583 \u00bb\n\n      \n\n\n\nThis course covers: Classical problems, such as geodesics, brachistochrones, isoperimetric problems. Euler equations. Geodesic coverings. Weierstrass condition. Hamilton-Jacobi equation. First and second variations. Transversality. Convex sets and functions. Duality. Existence theorems. Generalized curves. Control theory. Time-optimal problems. Optimal processes. Extension of elementary theory of maxima and minima. Euler equations, conditions of Weierstrass, Legendre and Jacobi; Mayer fields; Hamilton-Jacobi equations; transversality; conjugate and focal points. Applications to geodesics, minimal surfaces, isoperimetric problems, Hamilton\u2019s principle, Fermat\u2019s principle, brachistochrones. | Prerequisite: MA-UY 4623 or MA-GY 6223.\n\n      less description for MA-GY 6583 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6653",
+            "course_name": "Numerical Analysis",
+            "description": "MA-GY 6653 Numerical Analysis \nThis course covers: Interpolation. Approximation of functions by polynomials. Fast Fourier transform. Numerical integration. Solution of nonlinear equations. Iterative improvement of solutions of linear equations. Eigenvalues of matrices. Numerical solution of ordinary differential equations. | Prerequisites: MA-UY 2122, MA-UY 2132 and some experience in computer programming.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6663",
+            "course_name": "Numerical Solution of Partial Differential Equations",
+            "description": "MA-GY 6663 Numerical Solution of Partial Differential Equations \nThis course covers: Stability, consistency and convergence of finite-difference methods for initial-value problems. Explicit and implicit schemes. Alternating direction methods and fractional-step methods. Iterative solutions of finite-difference equations for elliptic boundary value problems. Finite elements. Integral equation methods. Nonlinear semigroups, conservation laws and level set methods. | Prerequisites: MA-GY 6013, MA-GY 6653 and some experience in computer programming.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6683",
+            "course_name": "Partial Differential Equations of Mathematical Physics",
+            "description": "MA-GY 6683 Partial Differential Equations of Mathematical Physics \nThis course covers: First and second order partial differential equations and systems of equations. Initial and boundary value problems. Fundamental solutions and Green\u2019s functions. Theory of characteristics. Eigenvalue problems. Rayleigh-Ritz and Ritz-Galerkin methods. Approximate and asymptotic methods. Nonlinear equations. Applications.  | Prerequisite: MA-UY 4623 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6813",
+            "course_name": "Elements of Probability",
+            "description": "MA-GY 6813 Elements of Probability \nThis course covers: Probability of events, distribution of random variables, joint distribution, transformations. | Prerequisite: MA-UY 2122 and MA-UY 3012 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6823",
+            "course_name": "Stochastic Processes",
+            "description": "MA-GY 6823 Stochastic Processes \nThis course covers: Normal and stationary processes, Wiener processes, Poisson and renewal processes, Markov processes. | Prerequisite: MA-GY 6813 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6833",
+            "course_name": "Statistical Inference I",
+            "description": "MA-GY 6833 Statistical Inference I \nThis course covers: Point and interval estimation of statistical parameters. Theory of statistical estimators. Fundamentals of statistical tests of hypotheses. Second semester: extended theory of hypothesis testing, including sequential tests. Nonparametric methods in statistics. | Prerequisite: MA-GY 6813 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6843",
+            "course_name": "Statistical Inference II",
+            "description": "MA-GY 6843 Statistical Inference II \nThis course covers: Point and interval estimation of statistical parameters. Theory of statistical estimators. Fundamentals of statistical tests of hypotheses. Second semester: extended theory of hypothesis testing, including sequential tests. Nonparametric methods in statistics. | Prerequisite: MA-GY 6833",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6853",
+            "course_name": "Multivariate Analysis",
+            "description": "MA-GY 6853 Multivariate Analysis \nThis course covers: Multivariate normal distribution. Simple, partial and multiple correlation. Generalization of student\u2019s ratio. Tests of significance of sets of means. Tests of general linear hypothesis. Some generalizations of analysis of variance. | Prerequisite: MA-GY 6843.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6863",
+            "course_name": "Regression and Analysis of Variance",
+            "description": "MA-GY 6863 Regression and Analysis of Variance \nThis course covers: Linear regression of one or more independent variables. Least square estimates regression coefficients. Gauss-Markov theorem. Confidence regions for and tests of hypotheses about regression coefficients. Tests of general linear hypothesis. Multiple classification in analysis of variance. Power of F-test. Alternative models: I and II, mixed models, analysis of covariance and components of variance. | Prerequisite: MA-GY 6843.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6873",
+            "course_name": "Nonparametric Methods in Statistics",
+            "description": "MA-GY 6873 Nonparametric Methods in Statistics \nThis course covers: Statistical methods not bound by assumption of known parametric form of the distribution of observations. Applications to engineering and scientific research in which observations are not ordered on a numerical scale. Order statistics, tolerance regions, permutation tests, goodness of fit tests, limiting distributions and large-sample properties of tests. | Prerequisite: MA-GY 6813.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6913",
+            "course_name": "Time Series Analysis I",
+            "description": "MA-GY 6913 Time Series Analysis I \nIn this  course, students carefully study tractable models for statistical analysis of scalar time series. Models treated: (l) \u201cerror plus trend\u201d models, (2) stationary stochastic process models with special emphasis on autoregressive models. Estimation, tests of hypotheses and multiple-decision procedures for these models. Spectral representation and filtering, estimation of spectral density. | Prerequisite: MA-GY 6813 and MA-GY 6843",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 6923",
+            "course_name": "Time Series Analysis II",
+            "description": "MA-GY 6923 Time Series Analysis II \nIn this  course, students carefully study tractable models for statistical analysis of scalar time series. Models treated: (l) \u201cerror plus trend\u201d models, (2) stationary stochastic process models with special emphasis on autoregressive models. Estimation, tests of hypotheses and multiple-decision procedures for these models. Spectral representation and filtering, estimation of spectral density. | Prerequisites: MA-GY 6913",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7013",
+            "course_name": "Abstract Algebra",
+            "description": "MA-GY 7013 Abstract Algebra \nThis course covers: Basic algebraic structures, groups, rings, fields, integral domains and modules. Field extensions and Galois theory. | Prerequisite: MA-GY 6013 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7033",
+            "classes": [
+                {}
+            ],
+            "course_name": "Linear Algebra I",
+            "description": "MA-GY 7033 Linear Algebra I \nThis course covers: Basic ideas of linear algebra: Fields, vector spaces, basis, dependence, independence, dimension. Relation to solving systems of linear equations and matrices. Homomorphisms, duality, inner products, adjoints and similarity. | Prerequisites: MA-UY 2012 and MA-UY 2122 or equivalent.",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 7043",
+            "course_name": "Linear Algebra II",
+            "description": "MA-GY 7043 Linear Algebra II \nThis course continues MA-GY 7033. Topics covered: Basic concepts of linear algebra continuing with: Range, nullity, determinants and eigenvalues of matrices and linear homomorphisms, the polar decomposition and spectral properties of linear maps, orthogonality, adjointness and its applications. | Prerequisite: MA-GY 7033.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7213",
+            "course_name": "Real and Complex Analysis I",
+            "description": "MA-GY 7213 Real and Complex Analysis I \nThis course provides rigorously and comprehensively treats real analysis. Topics covered: Outer measure, Lebesgue measure, Lebesgue integral, convergence theorems, functions of bounded variation, integration in measure spaces, the Radon- Nikodyn Theorem and Fubini\u2019s theorm. | Prerequisites: MA-GY 6213 and MA-GY 6223 or equivalent.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7223",
+            "course_name": "Real and Complex Analysis II",
+            "description": "MA-GY 7223 Real and Complex Analysis II \nThis course continues MA-GY 7213 and provides a rigorous and comprehensive treatment of complex analysis. Topics covered: Analytic and meromorphic functions, differentiation and integration, Cauchy\u2019s theorem, Morera\u2019s theorem, Power and Laurent series, residue theory, Rouche\u2019s theorem, conformal mappings, the Riemann mapping theorem and Riemann surfaces. | Prerequisite: MA-GY 7213.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7313",
+            "course_name": "Functional Analysis I",
+            "description": "MA-GY 7313 Functional Analysis I \nThis course, together with its sequel MA-GY 7323, introduces the language and methods of functional analysis. It covers normed spaces, Hilbert spaces, bounded linear functionals, Hahn-Banach theorem, the dual space, bounded operators, Fredholm theory of compact operators, self-adjoint operators and applications to classical analysis. | Prerequisite: MA-GY 6013 and MA-GY 7213",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7323",
+            "course_name": "FUNCTIONAL ANALYSIS II",
+            "description": "MA-GY 7323 FUNCTIONAL ANALYSIS II \nThis course, together with its sequel MA-GY 7323, introduces the language and methods of functional analysis. It covers normed spaces, Hilbert spaces, bounded linear functionals, Hahn-Banach theorem, the dual space, bounded operators, Fredholm theory of compact operators, self-adjoint operators and applications to classical analysis. | Prerequisite: MA-GY 7313",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7333",
+            "course_name": "Measure Theory I",
+            "description": "MA-GY 7333 Measure Theory I \nThis course presents a unified treatment of that part of measure theory that is most useful for its application in modern analysis. Topics covered: Sets and classes, measures and outer measures, measurable functions, integration, general set functions, product spaces, transformations, probability. The dominated convergence theorem, Riesz Representation Theorem, Vitali-Caratheodory theorem, etc. are covered in conjunction with many examples. | Prerequisite: Graduate status.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7343",
+            "course_name": "Measure Theory II",
+            "description": "MA-GY 7343 Measure Theory II \nThis course continues MA-GY 7333 and presents a unified treatment of that part of measure theory that is most useful for applications in modern analysis. Topics covered: Fubini\u2019s theorem, convolutions and distributions are applied to explicit examples. In this part, Baire\u2019s theorem,the Banach-Steinhaus theorem, the Open Mapping theorem, the Hahn-Banach Theorem are derived with the properties of the Radon-Nikodym derivatives to naturally generalize calculus both differential and integral. | Prerequisite: MA-GY 7333.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7353",
+            "course_name": "Fourier and Laplace Transforms",
+            "description": "MA-GY 7353 Fourier and Laplace Transforms \nThis course presents in a unified manner the fundamentals of both continuous and discrete versions of the Fourier and Laplace transforms. Topics covered: Application of transform methods to partial differential equations of mathematical physics. Includes introduction to the Wiener- Hopf technique. | Prerequisite: Graduate status or permission of adviser.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7403",
+            "course_name": "Topology",
+            "description": "MA-GY 7403 Topology \nThis course covers: Topological spaces. Compactness, connectedness, continua, extension theorems and metrization theorems. Simplexes, simplicial topology and applications. Fixed point theorems. Graphs and networks. Homology and cohomology theory. Introduction to Morse theory. | Prerequisite: MA-GY 6213 and MA-GY 6223 or equivalent. Co-Requisite:",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7503",
+            "course_name": "Manifolds and Lie Groups",
+            "description": "MA-GY 7503 Manifolds and Lie Groups \nThis course covers: Elementary theory of manifolds. Tangent space, mappings, submanifolds, fields, fiber bundles, Lie groups, homogeneous spaces. Elements of the theory of connections, Riemannian geometry. Imbedded manifolds. Calculus of variations. Harmonic forms, complex manifolds and Morse theory. | Prerequisite: MA-GY 6213 and MA-GY 6223.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7543",
+            "course_name": "Topological Methods in Analysis",
+            "description": "MA-GY 7543 Topological Methods in Analysis \nThis course covers: Aspects of topological methods and applications to existence theorems in analysis. Use of fixed-point theorems and topological degree to study properties of solutions to ordinary and partial differential equations. No previous courses in topology are required. | Prerequisite: MA-UY 4623 or MA-GY 6223.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7603",
+            "course_name": "TOPICS IN ALGEBRA",
+            "description": "MA-GY 7603 TOPICS IN ALGEBRA \nCourse content varies. In spring of the year before the course offering, a detailed description is posted and mailed to all graduate mathematics students. | Prerequisites: MA-GY 7603: MA-GY 7013 /MA-GY 7613: MA-GY 7603.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7613",
+            "course_name": "Topics in Algebra II",
+            "description": "MA-GY 7613 Topics in Algebra II \nCourse content varies. In spring of the year before the course offering, a detailed description is posted and mailed to all graduate mathematics students. | Prerequisite: MA-GY 7603",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7623",
+            "course_name": "Topics in Linear Algebra I",
+            "description": "MA-GY 7623 Topics in Linear Algebra I \nCourse content varies. | Prerequisites: MA-GY 7033 and MA-GY 7043",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7633",
+            "course_name": "Topics in Linear Algebra II",
+            "description": "MA-GY 7633 Topics in Linear Algebra II \nCourse content varies. | Prerequisites: MA-GY 7623",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7643",
+            "course_name": "Topics in Real Analysis I",
+            "description": "MA-GY 7643 Topics in Real Analysis I \nCourse content varies. | Prerequisites: MA-GY 6213 and MA-GY 6223",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7653",
+            "course_name": "TOPICS IN REAL ANALYSIS II",
+            "description": "MA-GY 7653 TOPICS IN REAL ANALYSIS II \nCourse content varies. | Prerequisites: MA-GY 7643",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7663",
+            "course_name": "Topics in Complex Analysis I",
+            "description": "MA-GY 7663 Topics in Complex Analysis I \nCourse content varies. | Prerequisites: MA-GY 6303 and MA-GY 6313",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7673",
+            "course_name": "Topics in Complex Analysis II",
+            "description": "MA-GY 7673 Topics in Complex Analysis II \nCourse content varies. | Prerequisites: MA-GY 7663",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7683",
+            "course_name": "Topics in Geometry I",
+            "description": "MA-GY 7683 Topics in Geometry I \nCourse content varies. | Prerequisites: MA-GY 6403 and MA-GY 7693",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7693",
+            "course_name": "Topics in Geometry II",
+            "description": "MA-GY 7693 Topics in Geometry II \nCourse content varies. | Prerequisites: MA-GY 7683",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7703",
+            "course_name": "Topics in Topology I",
+            "description": "MA-GY 7703 Topics in Topology I \nCourse content varies. | Prerequisites: MA-GY 6403 and MA-GY 7713",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7713",
+            "course_name": "Topics in Topology II",
+            "description": "MA-GY 7713 Topics in Topology II \nCourse content varies. | Prerequisites: MA-GY 7703",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7723",
+            "classes": [
+                {}
+            ],
+            "course_name": "TOPICS IN APPLIED MATHEMATICS I",
+            "description": "MA-GY 7723 TOPICS IN APPLIED MATHEMATICS I \nCourse content varies. | Prerequisites: MA-GY 7723: graduate status or permission of  Adviser / MA-GY 7733: MA-GY 7723.",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 7733",
+            "classes": [
+                {}
+            ],
+            "course_name": "Topics in Applied Mathematics IISTOCHASTIC MODELLING & APPLIED PROBABILITY",
+            "description": "MA-GY 7733 Topics in Applied Mathematics IISTOCHASTIC MODELLING & APPLIED PROBABILITY \nCourse content varies. | Prerequisites: MA-GY 7723",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 7743",
+            "course_name": "Topics in Probability I",
+            "description": "MA-GY 7743 Topics in Probability I \nCourse content varies. | Prerequisites: MA-GY 6813",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7753",
+            "course_name": "Topics in Probability II",
+            "description": "MA-GY 7753 Topics in Probability II \nCourse content varies. | Prerequisites:  MA-GY 7743",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7763",
+            "course_name": "Topics in Statistics I",
+            "description": "MA-GY 7763 Topics in Statistics I \nCourse content varies. | Prerequisites: MA-GY 6833 and MA-GY 6843",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7773",
+            "course_name": "Topics in Statistics II",
+            "description": "MA-GY 7773 Topics in Statistics II \nCourse content varies. | Prerequisites: MA-GY 7763",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7813",
+            "course_name": "Probability",
+            "description": "MA-GY 7813 Probability \nThis course covers: Measure-theoretic foundations of probability. Expectations, distribution functions, characteristic functions. Modes of convergence of random variables and distribution functions. Laws of large numbers. The multidimensional central-limit theorems and related asymptotic expansions. Infinitely divisible distributions. | Prerequisite: MA-GY 7213.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7833",
+            "course_name": "Stochastic Processes I",
+            "description": "MA-GY 7833 Stochastic Processes I \nThis course covers: Foundations of stochastic processes. Kolmogorov\u2019s extension theorem. Properties of sample paths. Conditional expectation. Martingales. Classes of stochastic processes. Gaussian processes, Markov processes and others. Second order properties. Stationary processes. Applications. | Prerequisite: MA-GY 7813",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 7843",
+            "course_name": "Stochastic Processes II",
+            "description": "MA-GY 7843 Stochastic Processes II \nThis course covers: Foundations of stochastic processes. Kolmogorov\u2019s extension theorem. Properties of sample paths. Conditional expectation. Martingales. Classes of stochastic processes. Gaussian processes, Markov processes and others. Second order properties. Stationary processes. Applications. | Prerequisite: MA-GY 7833",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8003",
+            "course_name": "Advanced Topics in Discrete Mathematics I",
+            "description": "MA-GY 8003 Advanced Topics in Discrete Mathematics I \nCourse content varies. In spring of year before course offering, a detailed description is posted and mailed to all graduate mathematics students. | Prerequisite: MA-GY 6003",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8013",
+            "course_name": "ADVANCED TOPICS IN DISCRETE MATHEMATICS II",
+            "description": "MA-GY 8013 ADVANCED TOPICS IN DISCRETE MATHEMATICS II \nCourse content varies. In spring of year before course offering, a detailed  escription is posted and mailed to all graduate mathematics students. | Prerequisite: MA-GY 6003 / MA-GY 8013: MA-GY 8003.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8023",
+            "course_name": "ADVANCED TOPICS IN ALGEBRA I",
+            "description": "MA-GY 8023 ADVANCED TOPICS IN ALGEBRA I \nCourse content varies. | Prerequisite: MA 7033-GY and MA-GY 7043 / MA-GY 8033: MA-GY 8023.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8033",
+            "course_name": "Advanced Topics in Algebra II",
+            "description": "MA-GY 8033 Advanced Topics in Algebra II \nCourse content varies. | Prerequisite: MA-GY 8023",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8043",
+            "course_name": "Advanced Topics in Real Analysis I",
+            "description": "MA-GY 8043 Advanced Topics in Real Analysis I \nCourse content varies. | Prerequisite: MA-GY 6213 and MA-GY 6223 / MA-GY 8053: MA-GY 8043.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8053",
+            "course_name": "Advanced Topics in Real Analysis II",
+            "description": "MA-GY 8053 Advanced Topics in Real Analysis II \nCourse content varies. | Prerequisite: MA-GY 6213 and MA-GY 6223 / MA-GY 8053: MA-GY 8043.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8063",
+            "course_name": "ADVANCED TOPICS IN LINEAR ALGEBRA I",
+            "description": "MA-GY 8063 ADVANCED TOPICS IN LINEAR ALGEBRA I \nCourse content varies. | Prerequisite: MA-GY 6303 and MA-GY 6313",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8073",
+            "course_name": "ADVANCED TOPICS IN LINEAR ALGEBRA II",
+            "description": "MA-GY 8073 ADVANCED TOPICS IN LINEAR ALGEBRA II \nCourse content varies.  | Prerequisite: MA-GY 8073: MA-GY 8063.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8103",
+            "course_name": "Advanced Topics in Complex Analysis I",
+            "description": "MA-GY 8103 Advanced Topics in Complex Analysis I \nCourse content varies. | Prerequisite: MA-GY 7213 and MA-GY 7223",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8113",
+            "course_name": "Advanced Topics in Complex Analysis II",
+            "description": "MA-GY 8113 Advanced Topics in Complex Analysis II \nCourse content varies. | Prerequisite: MA-GY 7213 and MA-GY 7223",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8123",
+            "course_name": "Advanced Topics in Geometry I",
+            "description": "MA-GY 8123 Advanced Topics in Geometry I \nCourse content varies. | Prerequisite: MA-GY 6403",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8133",
+            "course_name": "Advanced Topics in Geometry II",
+            "description": "MA-GY 8133 Advanced Topics in Geometry II \nCourse content varies. | Prerequisite: MA-GY 6403",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 848",
+            "course_name": "| MA-GY 8143 Advanced Topics in Topology I",
+            "description": "MA-GY  848 | MA-GY 8143 Advanced Topics in Topology I \nCourse content varies. | Prerequisite: MA-GY 7403",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8153",
+            "course_name": "Advanced Topics in Topology II",
+            "description": "MA-GY 8153 Advanced Topics in Topology II \nCourse content varies. | Prerequisite: MA-GY 7403",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8163",
+            "course_name": "Advanced Topics in Applied Mathematics I",
+            "description": "MA-GY 8163 Advanced Topics in Applied Mathematics I \nCourse content varies. | Prerequisite: MA-GY 6003",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8173",
+            "course_name": "Advanced Topics in Applied Mathematics II",
+            "description": "MA-GY 8173 Advanced Topics in Applied Mathematics II \nCourse content varies. | Prerequisite: MA-GY 6003",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8183",
+            "course_name": "Advanced Topics in Probability I",
+            "description": "MA-GY 8183 Advanced Topics in Probability I \nCourse content varies. | Prerequisite: MA-GY 6813",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8193",
+            "course_name": "Advanced Topics in Probability II",
+            "description": "MA-GY 8193 Advanced Topics in Probability II \nCourse content varies. | Prerequisite: MA-GY 6813",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8203",
+            "course_name": "Advanced Topics in Statistics I",
+            "description": "MA-GY 8203 Advanced Topics in Statistics I \nCourse content varies. | Prerequisite: MA-GY 6833 and MA-GY 6843",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8213",
+            "course_name": "ADVANCED TOPICS IN STATISTICS II",
+            "description": "MA-GY 8213 ADVANCED TOPICS IN STATISTICS II \nCourse content varies. | Prerequisite: MA-GY 6833 and MA-GY 6843.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8383",
+            "course_name": "ADVANCED TOPICS IN DIFFERENTIAL EQUATIONS",
+            "description": "MA-GY 8383 ADVANCED TOPICS IN DIFFERENTIAL EQUATIONS \nCourse content varies. | Prerequisite: MA-GY 6233 and MA-GY 6243.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8583",
+            "course_name": "Advanced Topics in Differential Geometry",
+            "description": "MA-GY 8583 Advanced Topics in Differential Geometry \nCourse content varies. | Prerequisite: MA-GY 6403.",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8913",
+            "course_name": "ADV TPCS IN DISCRETE MATH  II",
+            "description": "MA-GY 8913 ADV TPCS IN DISCRETE MATH  II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8963",
+            "course_name": "ADV TOPICS IN LINEAR ALGEBRA I",
+            "description": "MA-GY 8963 ADV TOPICS IN LINEAR ALGEBRA I",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 8973",
+            "course_name": "ADV TPCS IN LINEAR ALGEBRA II",
+            "description": "MA-GY 8973 ADV TPCS IN LINEAR ALGEBRA II",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 9413",
+            "classes": [
+                {}
+            ],
+            "course_name": "Reading in Mathematics I",
+            "description": "MA-GY 9413 Reading in Mathematics I \nIn this course, reading is guided by faculty members and devoted mainly to scholarly papers. | Prerequisite: Department\u2019s permission",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 9423",
+            "classes": [
+                {}
+            ],
+            "course_name": "Reading in Mathematics II",
+            "description": "MA-GY 9423 Reading in Mathematics II \nIn this course, reading is guided by faculty members and devoted mainly to scholarly papers. | Prerequisite: Department\u2019s permission.",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 9433",
+            "classes": [
+                {}
+            ],
+            "course_name": "Reading in Mathematics III",
+            "description": "MA-GY 9433 Reading in Mathematics III \nIn this course, reading is guided by faculty members and devoted mainly to scholarly papers. | Prerequisite: Department\u2019s permission.",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 9443",
+            "classes": [
+                {}
+            ],
+            "course_name": "Reading in Mathematics VI",
+            "description": "MA-GY 9443 Reading in Mathematics VI \nIn this course, reading is guided by faculty members and devoted mainly to scholarly papers. | Prerequisite: Department\u2019s permission.",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 9453",
+            "classes": [
+                {}
+            ],
+            "course_name": "READINGS IN MATHEMATICS V",
+            "description": "MA-GY 9453 READINGS IN MATHEMATICS V \nIn this course, reading is guided by faculty members and devoted mainly to scholarly papers. | Prerequisite: Department\u2019s permission",
+            "offering": true
+        },
+        {
+            "course_id": "MA-GY 9463",
+            "course_name": "READINGS IN MATH VI",
+            "description": "MA-GY 9463 READINGS IN MATH VI \nIn this course, reading is guided by faculty members and devoted mainly to scholarly papers. | Prerequisite: Department\u2019s permission",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 9583",
+            "course_name": "Selected Topics in Advanced Mathematics I",
+            "description": "MA-GY 9583 Selected Topics in Advanced Mathematics I \nThis course reviews current mathematics research. Specific topics vary, depending on instructor. | Prerequisite: Department\u2019s permission",
+            "offering": false
+        },
+        {
+            "course_id": "MA-GY 9593",
+            "course_name": "Selected Topics in Advanced Mathematics II",
+            "description": "MA-GY 9593 Selected Topics in Advanced Mathematics II \nThis course reviews current mathematics research. Specific topics vary, depending on instructor. | Prerequisite: Department\u2019s permission",
+            "offering": false
+        }
+    ]
+}

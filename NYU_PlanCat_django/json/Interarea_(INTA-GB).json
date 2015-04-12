@@ -1,0 +1,372 @@
+{
+    "major_id": "INTA-GB",
+    "file": "./2015-2016/Interarea_(INTA-GB).html",
+    "courses": [
+        {
+            "course_id": "INTA-GB 2108",
+            "course_name": "MANAGRIAL ETHICS:LIT&FILM",
+            "description": "INTA-GB 2108 MANAGRIAL ETHICS:LIT&FILM \nMANAGRIAL ETHICS:LIT&FILM",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2110",
+            "course_name": "Leadership-Global Finc",
+            "description": "INTA-GB 2110 Leadership-Global Finc",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2111",
+            "course_name": "MORAL COURAGE&YOUR PURPOS",
+            "description": "INTA-GB 2111 MORAL COURAGE&YOUR PURPOS \nMORAL COURAGE&YOUR PURPOS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2112",
+            "course_name": "Innov Thnking in Turb Ti",
+            "description": "INTA-GB 2112 Innov Thnking in Turb Ti",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2114",
+            "course_name": "POLITICAL RISK ANALYSIS",
+            "description": "INTA-GB 2114 POLITICAL RISK ANALYSIS \nPOLITICAL RISK ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2115",
+            "course_name": "Economics & The Arts",
+            "description": "INTA-GB 2115 Economics & The Arts",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2120",
+            "course_name": "Business & The Fed Govnm",
+            "description": "INTA-GB 2120 Business & The Fed Govnm",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2121",
+            "course_name": "ENTRPRENRSHP& NEW ECONOMY",
+            "description": "INTA-GB 2121 ENTRPRENRSHP& NEW ECONOMY \nENTRPRENRSHP& NEW ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2130",
+            "course_name": "THE ENTREPRENEURSHIP GAME",
+            "description": "INTA-GB 2130 THE ENTREPRENEURSHIP GAME \nTHE ENTREPRENEURSHIP GAME",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2150",
+            "course_name": "Modls Ldshp:Comm Indstry",
+            "description": "INTA-GB 2150 Modls Ldshp:Comm Indstry \nThe objective of this course is to learn about leadership skills and attributes. In particular, we will examine how these capabilities are utilized in a variety of settings. Principles of leadership will be drawn from readings, cases and, most importantly, from experiences of leaders in both the business world and other sectors of the economy who will join us as Guest Lecturers.",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2170",
+            "course_name": "EVOLUTN,HUMAN NATUR,BUSIN",
+            "description": "INTA-GB 2170 EVOLUTN,HUMAN NATUR,BUSIN \nEVOLUTN,HUMAN NATUR,BUSIN",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2301",
+            "course_name": "Comp & Prod Srvc Indus",
+            "description": "INTA-GB 2301 Comp & Prod Srvc Indus",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2305",
+            "course_name": "Prospects for Eco Grwth",
+            "description": "INTA-GB 2305 Prospects for Eco Grwth",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2306",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20319",
+                    "section": "01",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": "KMEC 3-120",
+                    "time": "Tue 1.30 PM - 4.20 PM",
+                    "open": true,
+                    "professor": "Gode, Dhananjay"
+                }
+            ],
+            "course_name": "BUSINESS DRIVERS-INDUSTRY",
+            "description": "INTA-GB 2306 BUSINESS DRIVERS-INDUSTRY \nBUSINESS DRIVERS-INDUSTRY",
+            "offering": true
+        },
+        {
+            "course_id": "INTA-GB 2308",
+            "course_name": "The Media & The Bus Worl",
+            "description": "INTA-GB 2308 The Media & The Bus Worl",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2310",
+            "course_name": "MANAGING FINC SERVICE BUS",
+            "description": "INTA-GB 2310 MANAGING FINC SERVICE BUS \nMANAGING FINC SERVICE BUS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2323",
+            "course_name": "SUSTAINABLITY&NEW ECONOMY",
+            "description": "INTA-GB 2323 SUSTAINABLITY&NEW ECONOMY \nSUSTAINABLITY&NEW ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2350",
+            "course_name": "Models of Leadership",
+            "description": "INTA-GB 2350 Models of Leadership",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2355",
+            "course_name": "Leadership & Corp Finc",
+            "description": "INTA-GB 2355 Leadership & Corp Finc",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2356",
+            "course_name": "CORPORATE POLITICAL ENGAG",
+            "description": "INTA-GB 2356 CORPORATE POLITICAL ENGAG \nCORPORATE POLITICAL ENGAG",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 2370",
+            "course_name": "EVOLUTN,HUMN NATUR,BUSINS",
+            "description": "INTA-GB 2370 EVOLUTN,HUMN NATUR,BUSINS \nEVOLUTN,HUMN NATUR,BUSINS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3105",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20320",
+                    "section": "10",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "Posner, Michael H",
+                    "time": "Thu 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "GLB MKTS,HUM RGHT&THE PRE",
+            "description": "INTA-GB 3105 GLB MKTS,HUM RGHT&THE PRE \nGLB MKTS,HUM RGHT&THE PRE",
+            "offering": true
+        },
+        {
+            "course_id": "INTA-GB 3125",
+            "course_name": "GOVRNC PUBLC/PRVT SECTORS",
+            "description": "INTA-GB 3125 GOVRNC PUBLC/PRVT SECTORS \nGOVRNC PUBLC/PRVT SECTORS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3143",
+            "course_name": "DIGITAL MUSIC BUSINESS",
+            "description": "INTA-GB 3143 DIGITAL MUSIC BUSINESS \nDIGITAL MUSIC BUSINESS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3150",
+            "course_name": "CORPORATE TURNAROUNDS",
+            "description": "INTA-GB 3150 CORPORATE TURNAROUNDS \nCORPORATE TURNAROUNDS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3160",
+            "course_name": "LAUNCH PROJECTS",
+            "description": "INTA-GB 3160 LAUNCH PROJECTS \nLAUNCH PROJECTS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3170",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "INTA-GB 3170 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3191",
+            "course_name": "Global Study Tour I",
+            "description": "INTA-GB 3191 Global Study Tour I",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3193",
+            "course_name": "GLOBAL STUDY TOUR II",
+            "description": "INTA-GB 3193 GLOBAL STUDY TOUR II \nGLOBAL STUDY TOUR II",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3306",
+            "course_name": "Management Consulting",
+            "description": "INTA-GB 3306 Management Consulting",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3310",
+            "course_name": "Sternfirst: Consult Prac",
+            "description": "INTA-GB 3310 Sternfirst: Consult Prac",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3320",
+            "course_name": "",
+            "description": "INTA-GB 3320\n\n   Managing Investment Fund\n\nManaging Investment Funds is a capstone course that requires students to draw on their knowledge of finance as well as macroeconomics, accounting, competitive analysis, strategy, marketing and other fields to manage a  million endowment fund held by New York University. In addition to honing their analytical skills, by organizing all activities related to institutional asset management, students gain experience in financial writing and oral presentations, advancing financial decisions in a group setting, and handling all of the governance and fiduciary responsibilities of a university endowmen...\n\n      more description for INTA-GB 3320 \u00bb\n\n      \n\n\n\nManaging Investment Funds is a capstone course that requires students to draw on their knowledge of finance as well as macroeconomics, accounting, competitive analysis, strategy, marketing and other fields to manage a  million endowment fund held by New York University. In addition to honing their analytical skills, by organizing all activities related to institutional asset management, students gain experience in financial writing and oral presentations, advancing financial decisions in a group setting, and handling all of the governance and fiduciary responsibilities of a university endowment fund. The central mission of this course is for students to learn through having practical, hands-on investment management experience. Because of the time requirements in formulating an investment strategy, screening and reviewing prospective stocks, updating the status and performance of existing positions, and all of the ancillary duties connected with the operation of a real, live portfolio, the experiential or hands-on component consumes the bulk of class time. However, a related mission is for students to acquire knowledge about institutional funds management and current industry practices and trends. This more traditional learning experience comes through readings and presentations from industry professionals. The endowment funds under management operate as the Michael Price Student Investment Fund (MPSIF). The Fund began in early 2000 thanks to a generous gift from Michael F. Price. During its short life, MPSIF has been a very popular course that helps Stern students to differentiate themselves by providing valuable experience for careers in asset management and related fields. For more detailed information about MPSIF, see the website at http://pages.stern.nyu.edu/~mpsif, and in particular The MPSIF Guidebook that is available at the site.\n\n      less description for INTA-GB 3320 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3335",
+            "course_name": "",
+            "description": "INTA-GB 3335\n\n   Social Venture Fund Prct\n\nThe Practicum Course gives students the hands on educational experience of making investments in social ventures and providing management assistance to grantees.  Practicum students will manage their own investment fund and also support the related work of the Satter Fund.  Students will conduct due diligence on applicants; evaluate and enhance applicants and performance measurement methodologies; work with the prospective grantees to refine their business plans and presentations; write evaluations of the proposed organizations and make recommendations on investments; and, provide management a...\n\n      more description for INTA-GB 3335 \u00bb\n\n      \n\n\n\nThe Practicum Course gives students the hands on educational experience of making investments in social ventures and providing management assistance to grantees.  Practicum students will manage their own investment fund and also support the related work of the Satter Fund.  Students will conduct due diligence on applicants; evaluate and enhance applicants and performance measurement methodologies; work with the prospective grantees to refine their business plans and presentations; write evaluations of the proposed organizations and make recommendations on investments; and, provide management assistance to portfolio organizations on an ongoing basis.  The course involves academic instruction, readings, case studies and guest lectures.  Professor Klein is the executive director of the Blue Ridge Foundation New York.\n\n      less description for INTA-GB 3335 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3336",
+            "course_name": "NONPROFIT CAPITAL MARKET",
+            "description": "INTA-GB 3336 NONPROFIT CAPITAL MARKET \nNONPROFIT CAPITAL MARKET",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3337",
+            "course_name": "SOCIAL PROBLEM-BASED ENTR",
+            "description": "INTA-GB 3337 SOCIAL PROBLEM-BASED ENTR \nSOCIAL PROBLEM-BASED ENTR",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3338",
+            "course_name": "",
+            "description": "INTA-GB 3338\n\n   Fund of Digital Markets\n\nThe Internet and the emerging \"information superhighway\" are dramatically altering the way we transact goods and services. This course examines how new information technologies and networks will affect the exchange of goods and services between buyers and sellers in the 21st century. How will advertising, purchasing, customer service, and trade settlement processes change? What are the economics of different electronic commerce models for these processes? The course evaluates key corporate strategies and initiatives in electronic commerce and the enabling network and user interface technologie...\n\n      more description for INTA-GB 3338 \u00bb\n\n      \n\n\n\nThe Internet and the emerging \"information superhighway\" are dramatically altering the way we transact goods and services. This course examines how new information technologies and networks will affect the exchange of goods and services between buyers and sellers in the 21st century. How will advertising, purchasing, customer service, and trade settlement processes change? What are the economics of different electronic commerce models for these processes? The course evaluates key corporate strategies and initiatives in electronic commerce and the enabling network and user interface technologies that are redefining business, as we know it. These technologies include the Internet, digital media, electronic payments, etc. Finally, the course combines the study of the economic and business strategy principles of e-business with an applied look at specific companies and industries, such as online financial services, online retailing, and electronic publishing.\n\n      less description for INTA-GB 3338 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3340",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20321",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 1-70",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Galloway, Scott"
+                }
+            ],
+            "course_name": "DIGITAL MARKETING",
+            "description": "INTA-GB 3340 DIGITAL MARKETING \nDIGITAL MARKETING",
+            "offering": true
+        },
+        {
+            "course_id": "INTA-GB 3344",
+            "course_name": "FASHION LAW & BUSINESS",
+            "description": "INTA-GB 3344 FASHION LAW & BUSINESS \nFASHION LAW & BUSINESS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3345",
+            "course_name": "FASHION INDSTRY:CREATIVTY",
+            "description": "INTA-GB 3345 FASHION INDSTRY:CREATIVTY \nFASHION INDSTRY:CREATIVTY",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3350",
+            "course_name": "LAUNCH PROJECTS",
+            "description": "INTA-GB 3350 LAUNCH PROJECTS \nLAUNCH PROJECTS",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3359",
+            "course_name": "Curr Tops: Tech for Tchg",
+            "description": "INTA-GB 3359 Curr Tops: Tech for Tchg",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3360",
+            "course_name": "THE PROJECT",
+            "description": "INTA-GB 3360 THE PROJECT \nTHE PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3361",
+            "course_name": "CORPORATE SOCIAL RESPONSI",
+            "description": "INTA-GB 3361 CORPORATE SOCIAL RESPONSI \nCORPORATE SOCIAL RESPONSI",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3362",
+            "course_name": "CORP TURNAROUNDS&LDRSHIP",
+            "description": "INTA-GB 3362 CORP TURNAROUNDS&LDRSHIP \nCORP TURNAROUNDS&LDRSHIP",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3365",
+            "course_name": "Interdptmntl Topics Wksh",
+            "description": "INTA-GB 3365 Interdptmntl Topics Wksh \nThis is an interdepartmental faculty-student workshop, supported in part by the Center for Digital Economy Research. The weekly meetings are devoted mainly to presentations by Stern faculty, although some visitors may be scheduled. Participants are expected to attend the workshop regularly. Students taking the workshop for credit are also expected to write a term paper.",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3370",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "INTA-GB 3370 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3380",
+            "course_name": "",
+            "description": "INTA-GB 3380\n\n   Managerial and Organizat\n\nThe rapid progress of information technology has had a tremendous impact on organizations. Data, analyses, and forecasts that required substantial efforts a decade ago are now at the fingertips of managers. How do these developments affect managerial cognition and decision making? What is the role of managerial cognition in the filtering, interpretation, and sharing of such vast amounts of information? How can firms transform the vast amounts of information into knowledge? How can such knowledge be used for organizational innovation and change? An interdepartmental student-faculty workshop ope...\n\n      more description for INTA-GB 3380 \u00bb\n\n      \n\n\n\nThe rapid progress of information technology has had a tremendous impact on organizations. Data, analyses, and forecasts that required substantial efforts a decade ago are now at the fingertips of managers. How do these developments affect managerial cognition and decision making? What is the role of managerial cognition in the filtering, interpretation, and sharing of such vast amounts of information? How can firms transform the vast amounts of information into knowledge? How can such knowledge be used for organizational innovation and change? An interdepartmental student-faculty workshop open to doctoral students and to advanced MBA students with the consent of the intructors. Participants are expected to attend the workshop regularly. \n\n      less description for INTA-GB 3380 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3388",
+            "course_name": "Research Methods",
+            "description": "INTA-GB 3388 Research Methods",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3391",
+            "course_name": "GLOBAL STUDY TOUR I",
+            "description": "INTA-GB 3391 GLOBAL STUDY TOUR I \nGLOBAL STUDY TOUR I",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 3393",
+            "course_name": "GLOBAL STUDY TOUR II",
+            "description": "INTA-GB 3393 GLOBAL STUDY TOUR II \nGLOBAL STUDY TOUR II",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 4388",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20322",
+                    "section": "01",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": "Raghubir, Priya",
+                    "time": "Tue 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "RESEARCH METHODS SEMINAR",
+            "description": "INTA-GB 4388 RESEARCH METHODS SEMINAR \nRESEARCH METHODS SEMINAR",
+            "offering": true
+        },
+        {
+            "course_id": "INTA-GB 9910",
+            "course_name": "CONTINUOUS TIME PROC",
+            "description": "INTA-GB 9910 CONTINUOUS TIME PROC \nCONTINUOUS TIME PROC",
+            "offering": false
+        },
+        {
+            "course_id": "INTA-GB 9912",
+            "course_name": "PANEL DATA ANALYSIS",
+            "description": "INTA-GB 9912 PANEL DATA ANALYSIS \nPANEL DATA ANALYSIS",
+            "offering": false
+        }
+    ]
+}

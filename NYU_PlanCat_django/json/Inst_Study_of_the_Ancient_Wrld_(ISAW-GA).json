@@ -1,0 +1,328 @@
+{
+    "major_id": "ISAW-GA",
+    "file": "./2015-2016/Inst_Study_of_the_Ancient_Wrld_(ISAW-GA).html",
+    "courses": [
+        {
+            "course_id": "ISAW-GA 1000",
+            "course_name": "Intro to Ancient Egyptian I",
+            "description": "ISAW-GA 1000 Intro to Ancient Egyptian I \nIntroduction to hieroglyphics; readings in ancient Egyptian texts",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 1001",
+            "course_name": "Intro to Ancient Egyptian II",
+            "description": "ISAW-GA 1001 Intro to Ancient Egyptian II",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 1002",
+            "course_name": "Advanced Ancient Egyptain I",
+            "description": "ISAW-GA 1002 Advanced Ancient Egyptain I \nAdvanced readings in ancient Egyptian texts.",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 1003",
+            "course_name": "Advanced Ancient Egyptian II",
+            "description": "ISAW-GA 1003 Advanced Ancient Egyptian II",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3000",
+            "course_name": "Society, Econ, & Culture in Late Antiquity",
+            "description": "ISAW-GA 3000 Society, Econ, & Culture in Late Antiquity",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3001",
+            "course_name": "Intell Hist & Trans of Knowl Ancient Near East",
+            "description": "ISAW-GA 3001 Intell Hist & Trans of Knowl Ancient Near East",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3002",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1996",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 202",
+                    "time": "Wed 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Jones, Alexander R"
+                }
+            ],
+            "course_name": "Special Topics:Observation and Experiment in Ancient Physical Sci",
+            "description": "ISAW-GA 3002 Special Topics:Observation and Experiment in Ancient Physical Sci",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3003",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1417",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1418",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1419",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1420",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1421",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1845",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Study of The Ancient World",
+            "description": "ISAW-GA 3003 Directed Study of The Ancient World",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3004",
+            "course_name": "Archaeology & Documents in East Medit &West Asia",
+            "description": "ISAW-GA 3004 Archaeology & Documents in East Medit &West Asia",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3005",
+            "course_name": "Glob of Knowledge in The Ancient Near East II",
+            "description": "ISAW-GA 3005 Glob of Knowledge in The Ancient Near East II",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3006",
+            "course_name": "The Exact Sciences in Antiquity II",
+            "description": "ISAW-GA 3006 The Exact Sciences in Antiquity II",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3007",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2365",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 202",
+                    "time": "Tue 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Hoyland, Robert"
+                }
+            ],
+            "course_name": "Ancient Texts & DocumentsGreco-Arabic Translation Movement",
+            "description": "ISAW-GA 3007 Ancient Texts & DocumentsGreco-Arabic Translation Movement",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3008",
+            "course_name": "Shaping The Divine in The Ancient Near East",
+            "description": "ISAW-GA 3008 Shaping The Divine in The Ancient Near East",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3009",
+            "course_name": "Special Topics: Central Asia",
+            "description": "ISAW-GA 3009 Special Topics: Central Asia",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3010",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2366",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 202",
+                    "time": "Fri 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Harkness, Ethan"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19309",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 202",
+                    "time": "Tue 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Tseng, Lan-Ying"
+                }
+            ],
+            "course_name": "Special Topics: East AsiaAdvanced Study in Chinese Art and ArchaeologyEarly Chinese Natural Philosophy",
+            "description": "ISAW-GA 3010 Special Topics: East AsiaAdvanced Study in Chinese Art and ArchaeologyEarly Chinese Natural Philosophy",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3011",
+            "course_name": "Archaeology of Consumption in the Ancient Near East",
+            "description": "ISAW-GA 3011 Archaeology of Consumption in the Ancient Near East",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3012",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1877",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 202",
+                    "time": "Thu 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Campbell, Roderick B"
+                }
+            ],
+            "course_name": "Special Topics:Historiography &  Archaeological Theory",
+            "description": "ISAW-GA 3012 Special Topics:Historiography &  Archaeological Theory",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3013",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1799",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 202",
+                    "time": "Mon 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "D''Alfonso, Lorenzo; Murphy, Elizabeth"
+                }
+            ],
+            "course_name": "Special Topics:Production and Value: Political Economy",
+            "description": "ISAW-GA 3013 Special Topics:Production and Value: Political Economy",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3014",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1800",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 615",
+                    "time": "Tue 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Pongratz-Leisten, Beate"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2346",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ISAW 616",
+                    "time": "Thu 11.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "Pongratz-Leisten, Beate"
+                }
+            ],
+            "course_name": "Special Topics:Contents of Library of EshnunnOld Babylonian Historical Inscriptions",
+            "description": "ISAW-GA 3014 Special Topics:Contents of Library of EshnunnOld Babylonian Historical Inscriptions",
+            "offering": true
+        },
+        {
+            "course_id": "ISAW-GA 3015",
+            "course_name": "Special Topics: Cult Interaction",
+            "description": "ISAW-GA 3015 Special Topics: Cult Interaction",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3016",
+            "course_name": "Doctoral Colloquium I",
+            "description": "ISAW-GA 3016 Doctoral Colloquium I",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3017",
+            "course_name": "Doctoral Colloquium II",
+            "description": "ISAW-GA 3017 Doctoral Colloquium II",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3018",
+            "course_name": "Spec Tpcs: Ancient Near East",
+            "description": "ISAW-GA 3018 Spec Tpcs: Ancient Near East",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3019",
+            "course_name": "Spec Tpcs: Archaeology of Mesopotamia & Iran",
+            "description": "ISAW-GA 3019 Spec Tpcs: Archaeology of Mesopotamia & Iran",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3020",
+            "course_name": "Spec Tpcs: Ancient History",
+            "description": "ISAW-GA 3020 Spec Tpcs: Ancient History",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3021",
+            "course_name": "Spec Tpcs: Roman Archaeology",
+            "description": "ISAW-GA 3021 Spec Tpcs: Roman Archaeology",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3022",
+            "course_name": "Public Health in the Ancient World",
+            "description": "ISAW-GA 3022 Public Health in the Ancient World",
+            "offering": false
+        },
+        {
+            "course_id": "ISAW-GA 3023",
+            "course_name": "Special Topics in Digital Humanities for the Ancient World",
+            "description": "ISAW-GA 3023 Special Topics in Digital Humanities for the Ancient World",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "major_id": "ECED-UE",
+    "file": "./2015-2016/Early_Childhood_(ECED-UE).html",
+    "courses": [
+        {
+            "course_id": "ECED-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10284",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Carothers, Suzanne",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "ECED-UE 1000 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "ECED-UE 1019",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10288",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Sewell, Tamara Ann",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lrng Exp Fam/Sch/Comm",
+            "description": "ECED-UE 1019 Lrng Exp Fam/Sch/Comm \nIntroduction to the development of curriculum for young learners in diverse settings. Topics include: early childhood environments, linguistic and cultural diversity, early language and learning in family, school, and community settings, working collaboratively with families to create learning environments responsive to the needs of all children.",
+            "offering": true
+        },
+        {
+            "course_id": "ECED-UE 1024",
+            "course_name": "Integrated Curr in Early Childhood Spec Educ",
+            "description": "ECED-UE 1024 Integrated Curr in Early Childhood Spec Educ \nExploring interconnections among the subject areas of early childhood learning through the planning and implementation of integrated sciences, health, and social studies learning experiences. The integration of literacy and mathematical learning into these curricula and the critical role of the physical environment in supporting an integrated curriculum.",
+            "offering": false
+        },
+        {
+            "course_id": "ECED-UE 1026",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10289",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 429",
+                    "time": "Fri 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Hershman, Susan"
+                }
+            ],
+            "course_name": "Integ Curr Early Chldhd Spec Ed II:",
+            "description": "ECED-UE 1026 Integ Curr Early Chldhd Spec Ed II: \nDeveloping integrated curriculum by exploring the relationships among science, health, and social studies. Literacy and mathematical learning and the role of the environment will be included in the integrative planning.",
+            "offering": true
+        },
+        {
+            "course_id": "ECED-UE 1103",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10290",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 265",
+                    "time": "Fri 10.00 AM - 2.30 PM",
+                    "open": true,
+                    "professor": "Lesser, Ilana"
+                }
+            ],
+            "course_name": "Intro to Early Childood and Special Education",
+            "description": "ECED-UE 1103 Intro to Early Childood and Special Education \nIntroduction to the fields of early childhood education and early childhood special education. Topics include:  historical, political, and economic contexts of early childhood and early childhood special education, philosophies and models of early childhood and early childhood special education, the role of the child in society, and the locations of institutions of early childhood learning.",
+            "offering": true
+        },
+        {
+            "course_id": "ECED-UE 1351",
+            "course_name": "Study of Teaching",
+            "description": "ECED-UE 1351 Study of Teaching \nStudents study the process of teaching through real and stimulated situations.  Emphasis on teacher roles, behavior, alternative teaching models, and decision making in the teaching-learning process.  Students are videotaped twice in their placements for purposes of self-analysis.  Students are expected to apply principles and skills in their fieldwork.",
+            "offering": false
+        },
+        {
+            "course_id": "ECED-UE 1503",
+            "classes": [
+                {}
+            ],
+            "course_name": "Supervised Field Experience in Early Childhood Education",
+            "description": "ECED-UE 1503 Supervised Field Experience in Early Childhood Education \nUniversity supervised field experiences with young children in a variety of early childhood settings. Will be used to support coursework. Minimum weekly requirement of three half-day modules in the field.",
+            "offering": true
+        },
+        {
+            "course_id": "ECED-UE 1904",
+            "classes": [
+                {}
+            ],
+            "course_name": "Student Teaching Early Childhood",
+            "description": "ECED-UE 1904 Student Teaching Early Childhood \nOne semester supervised student teaching in an early childhood classroom in grades N-6 a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems and practices as they relate to actual classroom teaching.",
+            "offering": true
+        }
+    ]
+}

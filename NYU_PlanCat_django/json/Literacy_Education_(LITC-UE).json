@@ -1,0 +1,68 @@
+{
+    "major_id": "LITC-UE",
+    "file": "./2015-2016/Literacy_Education_(LITC-UE).html",
+    "courses": [
+        {
+            "course_id": "LITC-UE 1170",
+            "course_name": "Writing for Children",
+            "description": "LITC-UE 1170 Writing for Children \nTeaching of writing for children as an art form to include analysis of outstanding examples of children's books, familiarity with the major divisions in which children's books are published; preparation and submission of manuscripts for children's book production.  Consultants with children's book editors, authors, and other representatives of book publication.",
+            "offering": false
+        },
+        {
+            "course_id": "LITC-UE 1175",
+            "course_name": "Language and Literacy for Young Children",
+            "description": "LITC-UE 1175 Language and Literacy for Young Children \nThis course will consider the relationship between young children's language development and the acquisition of literacy. We will explore the nature of language, language development, language diversity, early reading and writing development, and the deep connection of language and literacy to all areas of learning.",
+            "offering": false
+        },
+        {
+            "course_id": "LITC-UE 1176",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10296",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Wed 5.20 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Pitts, Harriet"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10295",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 366",
+                    "time": "Wed 3.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "Pitts, Harriet"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10297",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 365",
+                    "time": "Tue 5.20 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Pack, Angela F"
+                }
+            ],
+            "course_name": "Lang & Read Instruction in Early Childhood",
+            "description": "LITC-UE 1176 Lang & Read Instruction in Early Childhood \nTeaching the language related processes with special focus on development listening, speaking, reading and writing for native English language speakers and students who are English language learners. Varied approaches to teaching reading in early childhood programs are presented and tied to other curriculum areas. Students apply concepts by working with children to develop reading skills at developmentally appropriate levels.",
+            "offering": true
+        },
+        {
+            "course_id": "LITC-UE 1177",
+            "course_name": "Lang & Read Instruction in Early Childhood II",
+            "description": "LITC-UE 1177 Lang & Read Instruction in Early Childhood II \nExtends the language-related processes with special focus on developmental reading and writing. Varied approaches to teaching reading in elementary school programs are introduced. Students apply concepts by working with children in their field placement to develop reading skills at developmentally appropriate levels.",
+            "offering": false
+        },
+        {
+            "course_id": "LITC-UE 1178",
+            "course_name": "Lang & Read Instruction for Childhood",
+            "description": "LITC-UE 1178 Lang & Read Instruction for Childhood \nContinuation of Language and Reading instruction for Childhood I.",
+            "offering": false
+        }
+    ]
+}

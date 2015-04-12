@@ -1,0 +1,916 @@
+{
+    "major_id": "JOUR-UA",
+    "file": "./2015-2016/Journalism_(JOUR-UA).html",
+    "courses": [
+        {
+            "course_id": "JOUR-UA 8",
+            "course_name": "Media Ethics, The Law, & The Public Interest",
+            "description": "JOUR-UA    8 Media Ethics, The Law, & The Public Interest",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 10",
+            "course_name": "The Media in America",
+            "description": "JOUR-UA   10 The Media in America",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 11",
+            "course_name": "Media and The Law",
+            "description": "JOUR-UA   11 Media and The Law",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 12",
+            "course_name": "Public Relations & Propaganda",
+            "description": "JOUR-UA   12 Public Relations & Propaganda",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 13",
+            "course_name": "Mass Media & Government",
+            "description": "JOUR-UA   13 Mass Media & Government",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 14",
+            "course_name": "The Foreign Press",
+            "description": "JOUR-UA   14 The Foreign Press",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 15",
+            "course_name": "Problems in Environmental News",
+            "description": "JOUR-UA   15 Problems in Environmental News",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 16",
+            "course_name": "Minorities & The Media",
+            "description": "JOUR-UA   16 Minorities & The Media",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 17",
+            "course_name": "TV & The Information Explosion",
+            "description": "JOUR-UA   17 TV & The Information Explosion",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 18",
+            "course_name": "History of The Media",
+            "description": "JOUR-UA   18 History of The Media",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 19",
+            "course_name": "First Amendment Free Speech",
+            "description": "JOUR-UA   19 First Amendment Free Speech",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 20",
+            "course_name": "Literature of Journalism",
+            "description": "JOUR-UA   20 Literature of Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 21",
+            "course_name": "Report New York",
+            "description": "JOUR-UA   21 Report New York \nA course for high school students in gathering and writing the news, including news evaluation, reporting and writing techniques, and specialized beats, with New York City, especially the East Village, as the lab. Designed to give the journalism student extensive practice. Covers how reporters are assigned stories, how stories are planned and written, and journalism ethics and responsibilities. Students report and write stories under newsroom conditions. Not open to undergraduates.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 22",
+            "course_name": "The Multimedia Tool Kit",
+            "description": "JOUR-UA   22 The Multimedia Tool Kit \nThis intensive multimedia course for high school students is designed to introduce the basic skills required to report, shoot and edit a short story that can be incorporated in a TV broadcast/webcast, a podcast, or a website. Students will learn how to shoot video and stills using small format digital video cameras and how to edit a 3 to 5 minute long package/slideshow, using Final Cut Xpress. Hard work and fun guaranteed. Not open to undergraduates.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 41",
+            "course_name": "Understanding Communications",
+            "description": "JOUR-UA   41 Understanding Communications",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 42",
+            "course_name": "History of American Journalism",
+            "description": "JOUR-UA   42 History of American Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 61",
+            "course_name": "Media Criticism:",
+            "description": "JOUR-UA   61 Media Criticism:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 101",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "6965",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Tue,Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "Lueck, Thomas"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6966",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Tue,Thu 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Quigley, Mary"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8266",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Mon,Wed 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "Beirne, Rosemary"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8430",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 654",
+                    "time": "Tue,Thu 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Hochwald, Lambeth"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9060",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Tue,Thu 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "Stern, Fran"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9178",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 653",
+                    "time": "Mon,Wed 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Kloor, Keith"
+                }
+            ],
+            "course_name": "Journalistic Inquiry",
+            "description": "JOUR-UA  101 Journalistic Inquiry",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 102",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8639",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 655",
+                    "time": "Mon,Wed 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "Solloway, Sylvan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19470",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 653",
+                    "time": "Mon,Wed 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Rosenbaum, Philip"
+                }
+            ],
+            "course_name": "Reporting: Multimedia",
+            "description": "JOUR-UA  102 Reporting: Multimedia \nThis is one of two required reporting classes. Students will learn how to report news and features stories using photographs, video and audio, with the emphasis on story-telling techniques. The course will cover how to develop ideas, reporting techniques using audio and video (including how they differ from written pieces), scripting, audio and visual digital editing, and broadcast story-telling structures.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 122",
+            "course_name": "Reporting II",
+            "description": "JOUR-UA  122 Reporting II",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 123",
+            "course_name": "Copy Editing",
+            "description": "JOUR-UA  123 Copy Editing",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 124",
+            "course_name": "The Interview",
+            "description": "JOUR-UA  124 The Interview",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 125",
+            "course_name": "The Feature Article",
+            "description": "JOUR-UA  125 The Feature Article",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 151",
+            "course_name": "Practice of Public Relations",
+            "description": "JOUR-UA  151 Practice of Public Relations",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 162",
+            "course_name": "Advanced Photojournalism",
+            "description": "JOUR-UA  162 Advanced Photojournalism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 171",
+            "course_name": "Radio News",
+            "description": "JOUR-UA  171 Radio News",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 201",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "6967",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 654",
+                    "time": "Tue 2.00 PM - 5.40 PM",
+                    "open": true,
+                    "professor": "Quigley, Mary"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9059",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 653",
+                    "time": "Wed 3.30 PM - 7.10 PM",
+                    "open": true,
+                    "professor": "Edozien, Frankie"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6969",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 653",
+                    "time": "Thu 2.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Cogan, Brian"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "8337",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 654",
+                    "time": "Mon 1.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "Chideya, Farai Nduu"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6970",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 750",
+                    "time": "Thu 2.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Latty, Yvonne"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "6971",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 750",
+                    "time": "Mon 6.20 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "Mihai, Adrian"
+                }
+            ],
+            "course_name": "The Beat:Covering Gen YMedia CriticismPop (Sub) CultureReporting DowntownTV Neighborhoods",
+            "description": "JOUR-UA  201 The Beat:Covering Gen YMedia CriticismPop (Sub) CultureReporting DowntownTV Neighborhoods \nThis course is designed to hone the student journalist?s ability to research and report deeply and to be able to imagine and develop fresh ideas, test their ideas with the strength of their reporting and research, and then present them in story form.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 202",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "6972",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS LIB",
+                    "time": "Fri 12.20 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "McBride, James"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9058",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 750",
+                    "time": "Tue 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Stephens, Mitchell"
+                }
+            ],
+            "course_name": "Methods and Practice:Point of View",
+            "description": "JOUR-UA  202 Methods and Practice:Point of View",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 203",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "6973",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 655",
+                    "time": "Fri 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "Willens, Kathy"
+                }
+            ],
+            "course_name": "Methods & Practice: Visual Reporting",
+            "description": "JOUR-UA  203 Methods & Practice: Visual Reporting \nThe Art of Editing: From Copy Editing to Top Editing",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 204",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "6974",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 657",
+                    "time": "Wed 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Seife, Charles"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19328",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Mon 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Seife, Charles"
+                }
+            ],
+            "course_name": "Elective Reporting Tpcs:Data Journalism & Investigative ReporingOpinion Writing",
+            "description": "JOUR-UA  204 Elective Reporting Tpcs:Data Journalism & Investigative ReporingOpinion Writing",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 226",
+            "course_name": "Advanced News Editing",
+            "description": "JOUR-UA  226 Advanced News Editing",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 229",
+            "course_name": "Online Magazine",
+            "description": "JOUR-UA  229 Online Magazine",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 230",
+            "course_name": "Mag Editing & Production",
+            "description": "JOUR-UA  230 Mag Editing & Production",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 231",
+            "course_name": "Magazine Article I",
+            "description": "JOUR-UA  231 Magazine Article I",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 244",
+            "course_name": "Methods of Media Criticism",
+            "description": "JOUR-UA  244 Methods of Media Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 252",
+            "course_name": "Writing for Public Relations",
+            "description": "JOUR-UA  252 Writing for Public Relations",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 259",
+            "course_name": "Workshop in Public Relations",
+            "description": "JOUR-UA  259 Workshop in Public Relations",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 260",
+            "course_name": "Corporate & Financial Public Relations",
+            "description": "JOUR-UA  260 Corporate & Financial Public Relations",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 271",
+            "course_name": "Radio News",
+            "description": "JOUR-UA  271 Radio News",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 272",
+            "course_name": "Television Newscast",
+            "description": "JOUR-UA  272 Television Newscast",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 273",
+            "course_name": "TV Reporting",
+            "description": "JOUR-UA  273 TV Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 274",
+            "course_name": "Advanced TV Reporting",
+            "description": "JOUR-UA  274 Advanced TV Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 280",
+            "course_name": "Science Writing",
+            "description": "JOUR-UA  280 Science Writing",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 281",
+            "course_name": "Critical Writing:",
+            "description": "JOUR-UA  281 Critical Writing:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 298",
+            "course_name": "Media & Society",
+            "description": "JOUR-UA  298 Media & Society",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 300",
+            "course_name": "Honors Seminar",
+            "description": "JOUR-UA  300 Honors Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 301",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "9097",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 652",
+                    "time": "Thu 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "Flaherty, Francis"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9127",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 654",
+                    "time": "Mon 4.55 PM - 8.35 PM",
+                    "open": true,
+                    "professor": "Seigel, Jessica"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9128",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 750",
+                    "time": "Thu 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "Sanders, Marlene"
+                }
+            ],
+            "course_name": "Adv Reporting:Advanced TVThe QuestWriting About Home",
+            "description": "JOUR-UA  301 Adv Reporting:Advanced TVThe QuestWriting About Home",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 302",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "6975",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 761",
+                    "time": "Tue 2.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Peyronnin, Joseph"
+                }
+            ],
+            "course_name": "Production and Publication:TV Newscast",
+            "description": "JOUR-UA  302 Production and Publication:TV Newscast",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 332",
+            "course_name": "Magazine Article II",
+            "description": "JOUR-UA  332 Magazine Article II",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 351",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "9057",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 750",
+                    "time": "Tue 4.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Maloney, Jason"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "9161",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 655",
+                    "time": "Wed 1.30 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "Kroeger, Brooke"
+                }
+            ],
+            "course_name": "Honors: Adv Reporting",
+            "description": "JOUR-UA  351 Honors: Adv Reporting",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 352",
+            "course_name": "Honors Senior Seminar",
+            "description": "JOUR-UA  352 Honors Senior Seminar \nThe following semester, honors students are required to take a specially designed honors senior seminar, which culminates in each student?s writing a large (6,000-10,000 word/15-20 minutes for broadcast) feature, completing the capstone. The student has to defend his/her work orally before at least two members of the faculty and perhaps a member of the profession.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 401",
+            "course_name": "Senior Seminar:",
+            "description": "JOUR-UA  401 Senior Seminar: \nAn elective for students who wish to explore concentrated issues such as sex and American politics, literary nonfiction, and photojournalism and war. Each section concentrates on a different topic chosen by the instructor, a member of the full-time faculty. Such offerings include Ethnography for Journalists; The Art of Opinion Writing and Polemic; and The Journalism of Empathy.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 501",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6976",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL C95",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Bazzi, Mohamad"
+                }
+            ],
+            "course_name": "Investigating Journalism",
+            "description": "JOUR-UA  501 Investigating Journalism",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 502",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8184",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "SILV 208"
+                }
+            ],
+            "course_name": "Journalism Ethics & First Amendment Law",
+            "description": "JOUR-UA  502 Journalism Ethics & First Amendment Law \nThis 14-week class is divided equally between ethics and the law. Through the weekly lecture and assigned readings, students are exposed to the various ethical and legal issues surrounding the field of journalism and come away with a clear sense of the role of the journalist in society and the issues that affect that mission today.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 503",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6977",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 657",
+                    "time": "Tue 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Sternhell, Carol"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6978",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 655",
+                    "time": "Thu 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "Newkirk, Pamela"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "8936",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 654",
+                    "time": "Tue 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Fagin, Daniel"
+                }
+            ],
+            "course_name": "Journalism and Society:Covering the EarthMinorities in the MediaWomen and The Media",
+            "description": "JOUR-UA  503 Journalism and Society:Covering the EarthMinorities in the MediaWomen and The Media",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 504",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6979",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 654",
+                    "time": "Tue 11.00 AM - 1.30 PM",
+                    "open": true,
+                    "professor": "Norman, Michael"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "20105",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 653",
+                    "time": "Mon 11.00 AM - 1.30 PM",
+                    "open": true,
+                    "professor": "Dent, David"
+                }
+            ],
+            "course_name": "Journalism as Lit:Learning from the Best to be the Best",
+            "description": "JOUR-UA  504 Journalism as Lit:Learning from the Best to be the Best",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 505",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9056",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Mon 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Edozien, Frankie"
+                }
+            ],
+            "course_name": "Issues and Ideas:Covering Sub-Saharan Africa",
+            "description": "JOUR-UA  505 Issues and Ideas:Covering Sub-Saharan Africa",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 610",
+            "course_name": "History of The Media",
+            "description": "JOUR-UA  610 History of The Media",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 611",
+            "course_name": "Reading The Media: Intro to Media Criticism",
+            "description": "JOUR-UA  611 Reading The Media: Intro to Media Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 621",
+            "course_name": "The Beat: Lapdogs, Attack Dogs, Watchdogs",
+            "description": "JOUR-UA  621 The Beat: Lapdogs, Attack Dogs, Watchdogs",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 622",
+            "course_name": "Tpcs in Media Criticism:",
+            "description": "JOUR-UA  622 Tpcs in Media Criticism:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 630",
+            "course_name": "Adv Reporting: New Forms",
+            "description": "JOUR-UA  630 Adv Reporting: New Forms",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 700",
+            "course_name": "Intro to Gender & Sexuality",
+            "description": "JOUR-UA  700 Intro to Gender & Sexuality",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 720",
+            "course_name": "Women & The Media",
+            "description": "JOUR-UA  720 Women & The Media",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 980",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6980",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Solloway, Sylvan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "JOUR-UA  980 Internship",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6981",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Individualized Studies",
+            "description": "JOUR-UA  997 Advanced Individualized Studies",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-UA 9008",
+            "course_name": "Media Ethics, The Law and The Public Interest",
+            "description": "JOUR-UA 9008 Media Ethics, The Law and The Public Interest",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9020",
+            "course_name": "Book Length Journalism Profile & Imagination",
+            "description": "JOUR-UA 9020 Book Length Journalism Profile & Imagination",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9021",
+            "course_name": "Reporting I",
+            "description": "JOUR-UA 9021 Reporting I",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9101",
+            "course_name": "Journalistic Inquiry",
+            "description": "JOUR-UA 9101 Journalistic Inquiry",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9122",
+            "course_name": "Reporting II:",
+            "description": "JOUR-UA 9122 Reporting II:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9124",
+            "course_name": "The Interview",
+            "description": "JOUR-UA 9124 The Interview",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9201",
+            "course_name": "The Beat:",
+            "description": "JOUR-UA 9201 The Beat:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9202",
+            "course_name": "Methods & Practice:Reporting the Arts",
+            "description": "JOUR-UA 9202 Methods & Practice:Reporting the Arts",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9203",
+            "course_name": "Methods and Practice: Visual Reporting",
+            "description": "JOUR-UA 9203 Methods and Practice: Visual Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9204",
+            "course_name": "Elective Reporting Tpcs:International ReportingMadrid Stories: Engaging w the City thru Doc FilmReporting Armed conflictReporting Buenos Aires:",
+            "description": "JOUR-UA 9204 Elective Reporting Tpcs:International ReportingMadrid Stories: Engaging w the City thru Doc FilmReporting Armed conflictReporting Buenos Aires:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9281",
+            "course_name": "Critical Writing:",
+            "description": "JOUR-UA 9281 Critical Writing:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9282",
+            "course_name": "Travel Writing",
+            "description": "JOUR-UA 9282 Travel Writing",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9283",
+            "course_name": "International Reporting",
+            "description": "JOUR-UA 9283 International Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9298",
+            "course_name": "Media & Society",
+            "description": "JOUR-UA 9298 Media & Society",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9301",
+            "course_name": "Advanced Reporting",
+            "description": "JOUR-UA 9301 Advanced Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9302",
+            "course_name": "Production & PublicationTravel Writing",
+            "description": "JOUR-UA 9302 Production & PublicationTravel Writing",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9501",
+            "course_name": "Investigating Journalism",
+            "description": "JOUR-UA 9501 Investigating Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9502",
+            "course_name": "Methods and Practices: Reporting The Arts",
+            "description": "JOUR-UA 9502 Methods and Practices: Reporting The Arts",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9503",
+            "course_name": "Journalism & Society:Bloggng to Bullets, Changs & Challengs Facng MediaScience, Politics, and the Environment",
+            "description": "JOUR-UA 9503 Journalism & Society:Bloggng to Bullets, Changs & Challengs Facng MediaScience, Politics, and the Environment",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9504",
+            "course_name": "Foreign Media:",
+            "description": "JOUR-UA 9504 Foreign Media:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9505",
+            "course_name": "Issues & Ideas:Global Media Seminar: East-Central Europe",
+            "description": "JOUR-UA 9505 Issues & Ideas:Global Media Seminar: East-Central Europe",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-UA 9980",
+            "course_name": "Internship",
+            "description": "JOUR-UA 9980 Internship",
+            "offering": false
+        }
+    ]
+}

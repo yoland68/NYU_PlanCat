@@ -1,0 +1,950 @@
+{
+    "major_id": "EURO-UA",
+    "file": "./2015-2016/European_and_Mediterranean_Studies(EURO-UA).html",
+    "courses": [
+        {
+            "course_id": "EURO-UA 4",
+            "course_name": "Elemen Serbo-Croatian",
+            "description": "EURO-UA    4 Elemen Serbo-Croatian",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 12",
+            "course_name": "Modern Europe",
+            "description": "EURO-UA   12 Modern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 91",
+            "course_name": "Topics: Russian Empire",
+            "description": "EURO-UA   91 Topics: Russian Empire",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 93",
+            "course_name": "Topics:",
+            "description": "EURO-UA   93 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6814",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "O'Cearuil, Padraig"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6815",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Sweeney, Hilary"
+                }
+            ],
+            "course_name": "Elementary Mod Irish I",
+            "description": "EURO-UA  100 Elementary Mod Irish I \nThis course introduces students to the rudiments of the Irish language, including phonemes and pronunciation, syntactical structure, and verbal conjugations. In addition, a history of the language is provided, as well as a general introduction to Irish culture, including discussions of family and place names. Students are encouraged to begin speaking with basic sentence structures.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 101",
+            "course_name": "Elementary Mod Irish II",
+            "description": "EURO-UA  101 Elementary Mod Irish II \nThis course builds on the grammatical lessons of Elementary Irish I and expands into more complex verbal conjugations while concentrating on idiomatic expressions. The accumulation of vocabulary is stressed and students are introduced to basic literature in Irish while developing beginning conversational fluency.",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 102",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8389",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "O'Cearuil, Padraig"
+                }
+            ],
+            "course_name": "Intermediate Modern Irish I",
+            "description": "EURO-UA  102 Intermediate Modern Irish I \nFor the more advanced student of Irish, this course focuses on improving conversational fluency and on expanding vocabulary through reading more complex literature in Irish.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 103",
+            "course_name": "Modern Irish Language Intermediate II",
+            "description": "EURO-UA  103 Modern Irish Language Intermediate II \nThe focus of this course is on conversational fluency, reading complex literature in Irish, and writing in the Irish language, further encouraging students to strengthen their pronunciation and command of spoken Irish.",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 104",
+            "course_name": "Modern Jewish History",
+            "description": "EURO-UA  104 Modern Jewish History",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 105",
+            "course_name": "Italy Towards The Year 2000",
+            "description": "EURO-UA  105 Italy Towards The Year 2000",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 111",
+            "course_name": "Peoples of Europe",
+            "description": "EURO-UA  111 Peoples of Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 115",
+            "course_name": "Mod Fic: Borderline Poet Cent Eur Thru Film & Lit",
+            "description": "EURO-UA  115 Mod Fic: Borderline Poet Cent Eur Thru Film & Lit",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 133",
+            "course_name": "Globalization & The Nation-State",
+            "description": "EURO-UA  133 Globalization & The Nation-State",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 135",
+            "course_name": "Sem: Irish-American Cinema",
+            "description": "EURO-UA  135 Sem: Irish-American Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 144",
+            "course_name": "European Society and History Since 1750",
+            "description": "EURO-UA  144 European Society and History Since 1750",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 147",
+            "course_name": "Development of The Modern State",
+            "description": "EURO-UA  147 Development of The Modern State",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 149",
+            "course_name": "Atlantic Migration, 1500 - 1945",
+            "description": "EURO-UA  149 Atlantic Migration, 1500 - 1945",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 153",
+            "course_name": "European Thought & Cult in The 19th Century",
+            "description": "EURO-UA  153 European Thought & Cult in The 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 154",
+            "course_name": "20th Century European Culture",
+            "description": "EURO-UA  154 20th Century European Culture",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 155",
+            "course_name": "Europe in The 20th Cent",
+            "description": "EURO-UA  155 Europe in The 20th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 156",
+            "course_name": "Europe Since 1945",
+            "description": "EURO-UA  156 Europe Since 1945",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 161",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17821",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CASA 201",
+                    "time": "Mon 9.30 AM - 12.15 PM",
+                    "open": false,
+                    "professor": "Ben-Ghiat, Ruth"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17821",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CASA 201",
+                    "time": "Mon 9.30 AM - 12.15 PM",
+                    "open": false,
+                    "professor": "Ben-Ghiat, Ruth"
+                }
+            ],
+            "course_name": "Italian Colonialism",
+            "description": "EURO-UA  161 Italian Colonialism \nStudies Italian colonialism from the late 19th century through decolonization. Through readings of colonial travel literature, films, novels, diaries, memoirs, and histories, we address the meaning of colonialism within Italian history and culture, the specificities of Italian colonialism, and the legacies of colonialism in contemporary Italy.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 162",
+            "course_name": "Modern England",
+            "description": "EURO-UA  162 Modern England",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 163",
+            "course_name": "Modern Italy",
+            "description": "EURO-UA  163 Modern Italy",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 164",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8967",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CASA 201"
+                }
+            ],
+            "course_name": "Contemporary Italy",
+            "description": "EURO-UA  164 Contemporary Italy",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 165",
+            "course_name": "Italian Facism",
+            "description": "EURO-UA  165 Italian Facism",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 166",
+            "course_name": "The European Union: Pol Econ of Contemp Eur",
+            "description": "EURO-UA  166 The European Union: Pol Econ of Contemp Eur",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 167",
+            "course_name": "Modern Germany Since 1815",
+            "description": "EURO-UA  167 Modern Germany Since 1815",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 168",
+            "course_name": "Modern Italy Since 1815",
+            "description": "EURO-UA  168 Modern Italy Since 1815",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 169",
+            "course_name": "Modern France",
+            "description": "EURO-UA  169 Modern France",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 172",
+            "course_name": "Modern Russia",
+            "description": "EURO-UA  172 Modern Russia",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 173",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17820",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CASA AUD with Albertini, Stefano09/02/2015 - 12/15/2015 Thu 12.30 PM - 1.45 PM at CASA AUD",
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Albertini, Stefano"
+                }
+            ],
+            "course_name": "Topics:Italian Films, Italian Histories I",
+            "description": "EURO-UA  173 Topics:Italian Films, Italian Histories I",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 174",
+            "course_name": "Topics:",
+            "description": "EURO-UA  174 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 175",
+            "course_name": "The Balkans Since 1800",
+            "description": "EURO-UA  175 The Balkans Since 1800",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 178",
+            "course_name": "History of Poland",
+            "description": "EURO-UA  178 History of Poland",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 181",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8388",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Casey, Marion"
+                }
+            ],
+            "course_name": "Topics in Irish History:Ireland and America Since 1920",
+            "description": "EURO-UA  181 Topics in Irish History:Ireland and America Since 1920 \nEmphasis varies by semester; designed to allow flexibility in course offerings from visiting scholars and specialists in particular fields. Past examinations have included imagery and ideology of Irish nationalism, Irish American popular folk culture, and the Irish in America. Recently, focus has concentrated on the oral history of the Irish in America with course instruction in conducting oral history\ninterviews, writing an archival finding aid, and in editorial decision making for public history projects.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 182",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8390",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 102",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Truxes, Thomas"
+                }
+            ],
+            "course_name": "Hist of Modern Ireland I: 1580-1800",
+            "description": "EURO-UA  182 Hist of Modern Ireland I: 1580-1800",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 183",
+            "course_name": "Hist of Modern Ireland II:",
+            "description": "EURO-UA  183 Hist of Modern Ireland II:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 184",
+            "course_name": "Hist of Mod Ireland III:",
+            "description": "EURO-UA  184 Hist of Mod Ireland III:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 185",
+            "course_name": "Seminar in Irish History",
+            "description": "EURO-UA  185 Seminar in Irish History \nIntensive examination of specific areas of Irish history with an emphasis on critical reading and individual research projects. Past themes include the development and modernization of the Republic of Ireland with particular consideration of the economy; the Great Famine of 1845-1851, which was an immediate and long-term catastrophe for the Irish people but which was also the catalyst for substantial changes--positive and negative--in Irish society and culture; and the cinematic representations of Irish Americans.",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 188",
+            "course_name": "Women & Gender in 20th Century Europe",
+            "description": "EURO-UA  188 Women & Gender in 20th Century Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 189",
+            "course_name": "European Society Since 1890",
+            "description": "EURO-UA  189 European Society Since 1890",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 190",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8969",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "285M 7FL",
+                    "time": "Thu 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Landfried, Christine"
+                }
+            ],
+            "course_name": "Topics: In 20th Century LiteratureThe Role of Experts in European Governance",
+            "description": "EURO-UA  190 Topics: In 20th Century LiteratureThe Role of Experts in European Governance",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 200",
+            "course_name": "Topics:",
+            "description": "EURO-UA  200 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 261",
+            "course_name": "Spanish Civilization Past & Present",
+            "description": "EURO-UA  261 Spanish Civilization Past & Present",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 262",
+            "course_name": "Spanish Civilization Past & Present",
+            "description": "EURO-UA  262 Spanish Civilization Past & Present",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 263",
+            "course_name": "Culture & Communism in Eastern Europe",
+            "description": "EURO-UA  263 Culture & Communism in Eastern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 272",
+            "course_name": "Twentieth Century European Capitalism",
+            "description": "EURO-UA  272 Twentieth Century European Capitalism",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 275",
+            "course_name": "Italian Woman Literary Perspective",
+            "description": "EURO-UA  275 Italian Woman Literary Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 276",
+            "course_name": "Italians On Themselves",
+            "description": "EURO-UA  276 Italians On Themselves",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 279",
+            "course_name": "Italian Autobiographies",
+            "description": "EURO-UA  279 Italian Autobiographies \nCourse examines strategies of self-representation in autobiographies, diaries, letters, and novels of selected authors. Readings include selections from Petrarch, Cellini, Goldoni, Casanova, Alfieri, Pellico, Sciascia, Aleramo, Vigan, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 280",
+            "course_name": "Collective Memory in Contemporary Europe",
+            "description": "EURO-UA  280 Collective Memory in Contemporary Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 286",
+            "course_name": "Englightenment Utopia",
+            "description": "EURO-UA  286 Englightenment Utopia",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 287",
+            "course_name": "Sem: French Revolution",
+            "description": "EURO-UA  287 Sem: French Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 288",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8329",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 404",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Froment, Nils"
+                }
+            ],
+            "course_name": "Contemporary France",
+            "description": "EURO-UA  288 Contemporary France \nAn introduction to French history, politics, and social relations from 1900 to the present. Attention is paid to the successive crises that challenged France\u2019s stature, its national identity, and its Republican model. Topics include the French political and social systems; France\u2019s \u201cexceptionalism\u201d and relationships with Europe, the United States, and globalization; colonialism, immigration, and postcolonialism; and gender and class relations.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 292",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16395",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "285M 7FL",
+                    "time": "Mon 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Fichter, Madigan"
+                }
+            ],
+            "course_name": "Topics:Europe in the Global 1960s",
+            "description": "EURO-UA  292 Topics:Europe in the Global 1960s",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 293",
+            "course_name": "European Cult History: 19th Century Paris",
+            "description": "EURO-UA  293 European Cult History: 19th Century Paris",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 294",
+            "course_name": "The Political Economy of Europe from a Global Perspective",
+            "description": "EURO-UA  294 The Political Economy of Europe from a Global Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 300",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6816",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "285M 7FL",
+                    "time": "Mon 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Fichter, Madigan"
+                }
+            ],
+            "course_name": "Undergraduate Research Seminar",
+            "description": "EURO-UA  300 Undergraduate Research Seminar \nPrerequisite: permission of the instructor. Offered in the fall. 4 points. Trains undergraduates interested in European studies in approaches to research, in the sources and uses of research materials on Europe, and in the process of research.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6817",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Hungarian I",
+            "description": "EURO-UA  401 Elementary Hungarian I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 402",
+            "course_name": "Elementary Hungarian II",
+            "description": "EURO-UA  402 Elementary Hungarian II",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 403",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6818",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "COLU 09/02/2015 - 12/15/2015 Tue 8.30 AM - 10.10 AM at COLU"
+                }
+            ],
+            "course_name": "Intermediate Hungarian I",
+            "description": "EURO-UA  403 Intermediate Hungarian I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 404",
+            "course_name": "Intermed Hungarian II",
+            "description": "EURO-UA  404 Intermed Hungarian II",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 405",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6819",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Romanian I",
+            "description": "EURO-UA  405 Elementary Romanian I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 406",
+            "course_name": "Elem Romanian II",
+            "description": "EURO-UA  406 Elem Romanian II",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 407",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6820",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 1.10 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Romanian I",
+            "description": "EURO-UA  407 Intermediate Romanian I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 408",
+            "course_name": "Intermediate Romanian II",
+            "description": "EURO-UA  408 Intermediate Romanian II",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 409",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6821",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 10.10 AM - 11.25 AM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary I Bosnian-Croatian-Serbian",
+            "description": "EURO-UA  409 Elementary I Bosnian-Croatian-Serbian \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 410",
+            "course_name": "Elementary II Bosnian/Croatian/Serbian",
+            "description": "EURO-UA  410 Elementary II Bosnian/Croatian/Serbian",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 411",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6822",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 11.40 AM - 12.55 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate I Bosnian-Croatian-Serbian",
+            "description": "EURO-UA  411 Intermediate I Bosnian-Croatian-Serbian \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 412",
+            "course_name": "Intermediate II Bosnian/Croatian/Serbian",
+            "description": "EURO-UA  412 Intermediate II Bosnian/Croatian/Serbian",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 415",
+            "course_name": "Adv Hungarian Grammar",
+            "description": "EURO-UA  415 Adv Hungarian Grammar \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 416",
+            "course_name": "Advanced Hungarian II",
+            "description": "EURO-UA  416 Advanced Hungarian II",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 417",
+            "course_name": "Comprehensive Elementary Romanian",
+            "description": "EURO-UA  417 Comprehensive Elementary Romanian",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 418",
+            "course_name": "Intermediate Intensive Romanian",
+            "description": "EURO-UA  418 Intermediate Intensive Romanian",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 419",
+            "course_name": "Supervised Individual Research in Romanian",
+            "description": "EURO-UA  419 Supervised Individual Research in Romanian",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 510",
+            "course_name": "Western European Politics",
+            "description": "EURO-UA  510 Western European Politics \nStudy of the politics of Britain, Ireland, France, and the German Federal Republic. Compares the historical origins of these systems and analyzes their institutions as manifestations of their social and political culture and traditions. Treats each country?s current politics and political trends. Attempts to introduce the basic concepts of comparative political analysis in developing cross-cultural theory.",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 511",
+            "course_name": "",
+            "description": "EURO-UA  511\n\n   Immigration and Politics in Western Europe\n\nThis course explores immigration and patterns of immigrant incorporation in Western Europe in comparative perspective. Since the early 1960s immigration has transformed European countries into multiracial and multiethnic societies. We first explore how public policy contributed to this transformation, how it was structured by different concepts, traditions, and laws on citizenship, and how it was related to transformation of the party system and the emergence of the extreme right and ?identity politics? in Western Europe. We then analyze the impact of this transformation on attempts by Europea...\n\n      more description for EURO-UA  511 \u00bb\n\n      \n\n\n\nThis course explores immigration and patterns of immigrant incorporation in Western Europe in comparative perspective. Since the early 1960s immigration has transformed European countries into multiracial and multiethnic societies. We first explore how public policy contributed to this transformation, how it was structured by different concepts, traditions, and laws on citizenship, and how it was related to transformation of the party system and the emergence of the extreme right and ?identity politics? in Western Europe. We then analyze the impact of this transformation on attempts by European states first to maintain control of their frontiers, and then to incorporate immigrants into the national community. Finally we explore the emerging movement within the European Union to develop harmonized policies for asylum seekers and immigration at a time of growing pressures for increased immigration in Western Europe.\n\n      less description for EURO-UA  511 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 512",
+            "course_name": "Italian Politics",
+            "description": "EURO-UA  512 Italian Politics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 514",
+            "course_name": "British & Irish Politics",
+            "description": "EURO-UA  514 British & Irish Politics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 520",
+            "course_name": "Gov'T & Pol of The Former Soviet",
+            "description": "EURO-UA  520 Gov'T & Pol of The Former Soviet",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 522",
+            "course_name": "East European Government and Politics",
+            "description": "EURO-UA  522 East European Government and Politics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 525",
+            "course_name": "Modern Greek Politics",
+            "description": "EURO-UA  525 Modern Greek Politics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 527",
+            "course_name": "Politics of Southern Europe",
+            "description": "EURO-UA  527 Politics of Southern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 565",
+            "course_name": "Topics:",
+            "description": "EURO-UA  565 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 689",
+            "course_name": "Jewish Europe After the Holocaust",
+            "description": "EURO-UA  689 Jewish Europe After the Holocaust",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 700",
+            "course_name": "Topics: Irish Language",
+            "description": "EURO-UA  700 Topics: Irish Language",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 761",
+            "course_name": "Garcia Lorca Theatre & Poetry",
+            "description": "EURO-UA  761 Garcia Lorca Theatre & Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 865",
+            "course_name": "Tpcs in French Culture:",
+            "description": "EURO-UA  865 Tpcs in French Culture:",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 881",
+            "course_name": "Italian Lit & Cinema",
+            "description": "EURO-UA  881 Italian Lit & Cinema",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 900",
+            "course_name": "Wksp: European Thought & Culture",
+            "description": "EURO-UA  900 Wksp: European Thought & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 981",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6823",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wolff, Lawrence",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "EURO-UA  981 Internship \nPrerequisite: permission of the department. Offered every semester. 4 points. Advanced students of European and Mediterranean studies can earn academic credit for a structured and supervised professional work-learn experience within an approved organization.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 982",
+            "course_name": "Topics in European Union Studies",
+            "description": "EURO-UA  982 Topics in European Union Studies",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 983",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "8323",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "285M 7FL",
+                    "time": "Mon,Wed 2.30 PM - 3.45 PM",
+                    "open": true,
+                    "professor": "Shaw, Tamsin"
+                }
+            ],
+            "course_name": "Topics:Euro Political Thought",
+            "description": "EURO-UA  983 Topics:Euro Political Thought \nTopics vary by semester.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 990",
+            "course_name": "Eurosim",
+            "description": "EURO-UA  990 Eurosim \nOffered every year. 4 points. Teaches the politics and policy of the European Union to prepare students for the annual interuniversity simulation conference held in alternating years in Europe and in New York State.",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 998",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6824",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wolff, Lawrence",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "EURO-UA  998 Independent Study \nPrerequisite: permission of the department. Offered every semester. 1-6 points.",
+            "offering": true
+        },
+        {
+            "course_id": "EURO-UA 2422",
+            "course_name": "France & The Maghree",
+            "description": "EURO-UA 2422 France & The Maghree",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9120",
+            "course_name": "New Concepts in European Politics(in French)",
+            "description": "EURO-UA 9120 New Concepts in European Politics(in French)",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9122",
+            "course_name": "France and The European Union (in French)",
+            "description": "EURO-UA 9122 France and The European Union (in French)",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9123",
+            "course_name": "France and The European Union (in English)",
+            "description": "EURO-UA 9123 France and The European Union (in English)",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9157",
+            "course_name": "European Security After The Cold War",
+            "description": "EURO-UA 9157 European Security After The Cold War",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9163",
+            "course_name": "Modern Italy",
+            "description": "EURO-UA 9163 Modern Italy",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9165",
+            "course_name": "Mediterranean, Postcol Sea: Salento & Sicily",
+            "description": "EURO-UA 9165 Mediterranean, Postcol Sea: Salento & Sicily",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9173",
+            "course_name": "Topics",
+            "description": "EURO-UA 9173 Topics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9174",
+            "course_name": "Topics",
+            "description": "EURO-UA 9174 Topics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9294",
+            "course_name": "The Political Economy of Europe from a Global Perspective",
+            "description": "EURO-UA 9294 The Political Economy of Europe from a Global Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9301",
+            "course_name": "Modern Dissent in Central Europe:The Art of Defeat",
+            "description": "EURO-UA 9301 Modern Dissent in Central Europe:The Art of Defeat",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9313",
+            "course_name": "Soc Pol in Mod Soc: Comp Pol Eco of US & Europe",
+            "description": "EURO-UA 9313 Soc Pol in Mod Soc: Comp Pol Eco of US & Europe",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9471",
+            "course_name": "Politics,Power,&Society: Politics of Europ Union",
+            "description": "EURO-UA 9471 Politics,Power,&Society: Politics of Europ Union",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9510",
+            "course_name": "Western European Politics",
+            "description": "EURO-UA 9510 Western European Politics",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9515",
+            "course_name": "Contemporary Irish Politics & Society",
+            "description": "EURO-UA 9515 Contemporary Irish Politics & Society",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9520",
+            "course_name": "Identity & Politics in Europe Since 1945",
+            "description": "EURO-UA 9520 Identity & Politics in Europe Since 1945",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9530",
+            "course_name": "Int'L Organization: Civil Soc & Governance",
+            "description": "EURO-UA 9530 Int'L Organization: Civil Soc & Governance",
+            "offering": false
+        },
+        {
+            "course_id": "EURO-UA 9938",
+            "course_name": "Sem:Eur Dream of America /Amer Dream of Europe",
+            "description": "EURO-UA 9938 Sem:Eur Dream of America /Amer Dream of Europe",
+            "offering": false
+        }
+    ]
+}

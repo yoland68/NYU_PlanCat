@@ -1,0 +1,34 @@
+{
+    "major_id": "AWS-UF",
+    "file": "./2015-2016/Advanced_Writing_Studio_(AWS-UF).html",
+    "courses": [
+        {
+            "course_id": "AWS-UF 201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12248",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 518",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Tobin, Elayne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12249",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC15"
+                }
+            ],
+            "course_name": "Advanced Writing Studio",
+            "description": "AWS-UF  201 Advanced Writing Studio",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "major_id": "GAMES-GT",
+    "file": "./2015-2016/Game_Design_(GAMES-GT).html",
+    "courses": [
+        {
+            "course_id": "GAMES-GT 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5881",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "19W4 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5882",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "5916",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "2MTC 801"
+                }
+            ],
+            "course_name": "Games 101",
+            "description": "GAMES-GT  101 Games 101 \nGames 101 is the foundational course for the NYU Game Center.  The focus of Games 101 is game literacy \u2013 a shared understanding of games as complex cultural and aesthetic objects. The class will incorporate lectures, discussion, readings, and writing assignments, but the primary activity of the class is critical play \u2013 playing games in order to better understand and appreciate them. The class will cover games on and off the computer, including classic and contemporary board and card games, sports, and games on the PC, internet, and consoles.",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 103",
+            "course_name": "European Video Games of the 1980's",
+            "description": "GAMES-GT  103 European Video Games of the 1980's",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5883",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 825",
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Fernandez-Vara, Clara"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5917",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 830",
+                    "time": "Wed 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Fernandez-Vara, Clara"
+                }
+            ],
+            "course_name": "Game Studies I",
+            "description": "GAMES-GT  110 Game Studies I \nAn introduction to the critical and analytical approaches to the subject of digital games. Though the history of video games spans roughly fifty years, and although more than half of the population plays them, video games have only recently emerged as a field of serious study. This class introduces students to the theory of video games, and answers questions such as: How are video games structured? What types of experiences to video games give? Who plays video games, when and why?",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 111",
+            "course_name": "Game Studies II",
+            "description": "GAMES-GT  111 Game Studies II",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 112",
+            "course_name": "Games and Players",
+            "description": "GAMES-GT  112 Games and Players",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 113",
+            "course_name": "Narrative Strategies in Contemporary Video Games",
+            "description": "GAMES-GT  113 Narrative Strategies in Contemporary Video Games \nNarrative Strategies in Contemporary Video Games is a one-semester course that explores the different ways that modern, digital games go about telling stories and building fictional worlds. This course is both experiential and theoretical, with students not only reading scholarly work on the subject of games and narrative, but also playing specific video games over the course of the semester. Students should have an acquaintanceship with the fundamentals of game design, the history of digital game development, or some familiarity with game studies.",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 120",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Game Studio I",
+            "description": "GAMES-GT  120 Game Studio I",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 121",
+            "course_name": "Game Studio II",
+            "description": "GAMES-GT  121 Game Studio II",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 122",
+            "course_name": "Prototype Studio",
+            "description": "GAMES-GT  122 Prototype Studio",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 123",
+            "course_name": "Narrative Game Studio",
+            "description": "GAMES-GT  123 Narrative Game Studio",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 150",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Game Design I",
+            "description": "GAMES-GT  150 Game Design I",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 151",
+            "course_name": "Game Design II",
+            "description": "GAMES-GT  151 Game Design II",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 152",
+            "course_name": "Board Game Design",
+            "description": "GAMES-GT  152 Board Game Design",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 201",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5918",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "2MTC 825"
+                }
+            ],
+            "course_name": "Visual Design for Games",
+            "description": "GAMES-GT  201 Visual Design for Games",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 211",
+            "course_name": "Audio for Games",
+            "description": "GAMES-GT  211 Audio for Games",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 221",
+            "course_name": "Intro to Games Journalism",
+            "description": "GAMES-GT  221 Intro to Games Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 231",
+            "course_name": "Costumes as Games Controllers",
+            "description": "GAMES-GT  231 Costumes as Games Controllers",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 232",
+            "course_name": "Toy Design",
+            "description": "GAMES-GT  232 Toy Design",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 233",
+            "course_name": "Beyond the Joystick",
+            "description": "GAMES-GT  233 Beyond the Joystick",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 234",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19985",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Big Games",
+            "description": "GAMES-GT  234 Big Games",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6004",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 805",
+                    "time": "Fri 10.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Parker, Matthew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6005",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6005",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Code Lab 0",
+            "description": "GAMES-GT  300 Code Lab 0",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 301",
+            "course_name": "Biz Lab",
+            "description": "GAMES-GT  301 Biz Lab",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 302",
+            "course_name": "Code Lab:",
+            "description": "GAMES-GT  302 Code Lab:",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 303",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5919",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 805",
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Parker, Matthew"
+                }
+            ],
+            "course_name": "Code Lab 2: Code Literacy",
+            "description": "GAMES-GT  303 Code Lab 2: Code Literacy",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 401",
+            "course_name": "Vlaada Chvatil and the Modern Strategic Board Game",
+            "description": "GAMES-GT  401 Vlaada Chvatil and the Modern Strategic Board Game",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 402",
+            "course_name": "Divergent Experiments: Roleplaying Games on the Margins from Dungeons to Do",
+            "description": "GAMES-GT  402 Divergent Experiments: Roleplaying Games on the Margins from Dungeons to Do",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 403",
+            "course_name": "Intro to StarCraft",
+            "description": "GAMES-GT  403 Intro to StarCraft \nThis class will involve the development of a high level understanding of the real time strategy game, Starcraft 2,  including optimizing early gameplay, mastering tactical maneuvers and strategies, and real-time strategic decision making. At the same time it will touch on the development of the industry of e-sports and the design of high-level multiplayer games. Finally, the class will emphasize honing the universally valuable skills of critical thinking, mental discipline, and understanding complex systems and data in real-time, the very skills that make for a world class Starcraft player.",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 404",
+            "course_name": "Modern Tabletop Game Literacy",
+            "description": "GAMES-GT  404 Modern Tabletop Game Literacy",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 405",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "17685",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 7.20 PM",
+                    "open": true,
+                    "professor": "2MTC 802"
+                }
+            ],
+            "course_name": "Looking Glass Games",
+            "description": "GAMES-GT  405 Looking Glass Games",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 999",
+            "course_name": "Independent Study",
+            "description": "GAMES-GT  999 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 1001",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5906",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "2MTC 80509/02/2015 - 12/15/2015 Thu 12.30 PM - 6.10 PM"
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "19402",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "2MTC 82509/02/2015 - 12/15/2015 Thu 12.30 PM - 6.10 PM"
+                }
+            ],
+            "course_name": "Thesis I",
+            "description": "GAMES-GT 1001 Thesis I",
+            "offering": true
+        },
+        {
+            "course_id": "GAMES-GT 1002",
+            "course_name": "Thesis II",
+            "description": "GAMES-GT 1002 Thesis II",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 2600",
+            "course_name": "Games 101",
+            "description": "GAMES-GT 2600 Games 101",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 2605",
+            "course_name": "Intro to Game Design",
+            "description": "GAMES-GT 2605 Intro to Game Design",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 2606",
+            "course_name": "Thinking About Games",
+            "description": "GAMES-GT 2606 Thinking About Games",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 2610",
+            "course_name": "Game Development: Modding",
+            "description": "GAMES-GT 2610 Game Development: Modding",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 2611",
+            "course_name": "Advanced Topics in Game Studies",
+            "description": "GAMES-GT 2611 Advanced Topics in Game Studies",
+            "offering": false
+        },
+        {
+            "course_id": "GAMES-GT 2612",
+            "course_name": "Game Development: Project Studio",
+            "description": "GAMES-GT 2612 Game Development: Project Studio",
+            "offering": false
+        }
+    ]
+}

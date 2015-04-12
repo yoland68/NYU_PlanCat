@@ -1,0 +1,258 @@
+{
+    "major_id": "REAL1-UC",
+    "file": "./2015-2016/Real_Estate_(REAL1-UC).html",
+    "courses": [
+        {
+            "course_id": "REAL1-UC 1001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9818",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Real Estate Principles",
+            "description": "REAL1-UC 1001 Real Estate Principles \nThis course introduces the student to the terminology, concepts, and basic practices of real estate. It surveys real estate law, appraisal, marketing, brokerage, management, finance, investment analysis, and taxation.",
+            "offering": true
+        },
+        {
+            "course_id": "REAL1-UC 1002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9964",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Real Estate Law",
+            "description": "REAL1-UC 1002 Real Estate Law \nThis course reviews the legal issues that arise in real estate. Topics include the basic principles and instruments of real property law, the problems of site acquisition, the organization of the development entity, land-use regulation, financial instruments, leases, property disposition, business organizations, partnership corporations, REITs, and limited liability companies.",
+            "offering": true
+        },
+        {
+            "course_id": "REAL1-UC 1003",
+            "course_name": "Real Estate Marketing",
+            "description": "REAL1-UC 1003 Real Estate Marketing",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1004",
+            "course_name": "Proj Budgt & Est in Re",
+            "description": "REAL1-UC 1004 Proj Budgt & Est in Re",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1005",
+            "course_name": "Real Estate Finance",
+            "description": "REAL1-UC 1005 Real Estate Finance \nThis course investigates the institutions, instruments, and structures by which investment in real estate is financed. It reviews capital markets, the sources and uses of real estate funds, and the role of government in real estate finance.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1008",
+            "course_name": "Introduction to Argus",
+            "description": "REAL1-UC 1008 Introduction to Argus",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1009",
+            "course_name": "Real Estate Valuation",
+            "description": "REAL1-UC 1009 Real Estate Valuation \nThis course introduces real estate valuation concepts and terms and their applications. Topics include valuation foundations, property inspections, site analysis as well as approaches to cost, income, and sales comparison.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1010",
+            "course_name": "",
+            "description": "REAL1-UC 1010\n\n   Real Estate Development\n\nThe course will provide an overview of the methods and procedures utilized in development from inception to completion. Students will study key aspects of the real estate development process: initial planning and visioning, project feasibility and decision making, entering into partnerships and structuring project financing, design, entitlement and approvals, site acquisition, construction management project completion, and leasing and asset management. The course will also examine contemporary and future trends, including sustainability, mixed use, public\u2010private partnerships, trends in desig...\n\n      more description for REAL1-UC 1010 \u00bb\n\n      \n\n\n\nThe course will provide an overview of the methods and procedures utilized in development from inception to completion. Students will study key aspects of the real estate development process: initial planning and visioning, project feasibility and decision making, entering into partnerships and structuring project financing, design, entitlement and approvals, site acquisition, construction management project completion, and leasing and asset management. The course will also examine contemporary and future trends, including sustainability, mixed use, public\u2010private partnerships, trends in design, planning and the public realm, and transit\u2010oriented development. Students will learn through lectures, presentations and field studies.\n\n      less description for REAL1-UC 1010 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1012",
+            "course_name": "Real Estate Accounting & Taxation",
+            "description": "REAL1-UC 1012 Real Estate Accounting & Taxation \nThis course reviews accounting concepts, rules, regulations, and reporting requirements applied to income-producing properties and the accounting. It also offers the tax tools needed to understand the financial statements and positions of real estate investments. \nPrerequisites:  Real Estate Principles",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1013",
+            "course_name": "Construction Materials",
+            "description": "REAL1-UC 1013 Construction Materials",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1015",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9996",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Weiss, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Market Analysis in Real Estate",
+            "description": "REAL1-UC 1015 Market Analysis in Real Estate \nExamine the measurement of demand for real estate products or for a particular project in a specific neighborhood or market. Study the effect on specific markets of national, regional, and local factors. Relevant factors are economic change, social attitudes, changing laws and legal interpretations, and changes in individual attitudes. The course presents modeling techniques for forecasting demand and supply in specific markets.",
+            "offering": true
+        },
+        {
+            "course_id": "REAL1-UC 1016",
+            "course_name": "Topics in Market Analysis in Real Estate",
+            "description": "REAL1-UC 1016 Topics in Market Analysis in Real Estate",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1020",
+            "course_name": "Real Estate and Sustainability",
+            "description": "REAL1-UC 1020 Real Estate and Sustainability \nThis course will examine how sustainability is transforming the real estate industry with regard to urban planning, the construction of new buildings, the retrofitting of existing buildings, and various institutional practices and operations within buildings, such as: recycling, the use of green materials and products, procurement policies and the supply chain, and energy conservation and innovation. Topics include: economic growth and equality, environmental justice, smart growth and planning, and renewable energy sources and techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1023",
+            "course_name": "Programming, Design & Construction in Re",
+            "description": "REAL1-UC 1023 Programming, Design & Construction in Re",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1025",
+            "course_name": "Commercial Lease Analysis",
+            "description": "REAL1-UC 1025 Commercial Lease Analysis \nThis course analyzes the various lease clauses and the cash flow implications of these clauses. It examines the long-term implications of taxes, operating escalations, electricity clauses, loss factors, leasehold improvement costs, and mortgages. Sample leases are used to train students to review and design their own leases.\nPrerequisites: Real Estate Principles",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1033",
+            "course_name": "",
+            "description": "REAL1-UC 1033\n\n   Managing Construct Org:\n\nThis course offers a thorough introduction to organizing and managing the major components of a construction business with an emphasis on cost and project management systems. Topics include the different forms of organization; marketing and sales; types of contracts; general contractor and construction manager contracts; the requisition process from a lender's, owner's, and subcontractor's perspective; estimating, bidding, and award practices; bonds and insurance; subcontracts and material purchasing; cash-flow life-cycle analysis; field supervision; scheduling and expediting changes, claims, ...\n\n      more description for REAL1-UC 1033 \u00bb\n\n      \n\n\n\nThis course offers a thorough introduction to organizing and managing the major components of a construction business with an emphasis on cost and project management systems. Topics include the different forms of organization; marketing and sales; types of contracts; general contractor and construction manager contracts; the requisition process from a lender's, owner's, and subcontractor's perspective; estimating, bidding, and award practices; bonds and insurance; subcontracts and material purchasing; cash-flow life-cycle analysis; field supervision; scheduling and expediting changes, claims, and extras; community, public agency, and labor relations; company finances, cash management, accounting/cost control procedures; and sources and uses for credit.\n\n      less description for REAL1-UC 1033 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1034",
+            "course_name": "",
+            "description": "REAL1-UC 1034\n\n   Planning & Scheduling: Constrctn Proj Mgmt Prac\n\nThis course acquaints students with analytical and quantitative techniques used in effective project management. It reexamines the specific responsibilities of the project manager, superintendent, architect, engineer, and owner-representatives, and their use of practical management skills in planning and scheduling. It discusses payment breakdowns and requisitioning; assessing the cost of project delays; and understanding labor rules and regulations. Topics include feasibility studies; developing the project plan and network; CPM and PERT techniques; optimizing manpower/resource allocation and...\n\n      more description for REAL1-UC 1034 \u00bb\n\n      \n\n\n\nThis course acquaints students with analytical and quantitative techniques used in effective project management. It reexamines the specific responsibilities of the project manager, superintendent, architect, engineer, and owner-representatives, and their use of practical management skills in planning and scheduling. It discusses payment breakdowns and requisitioning; assessing the cost of project delays; and understanding labor rules and regulations. Topics include feasibility studies; developing the project plan and network; CPM and PERT techniques; optimizing manpower/resource allocation and costs; schedule and budget control programs; plan and schedule updating and corrective action process; time/cost analysis; and network compression.\n\n      less description for REAL1-UC 1034 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1040",
+            "course_name": "Real Estate Portfolio Management",
+            "description": "REAL1-UC 1040 Real Estate Portfolio Management \nThis course provides an understanding of the concept of portfolio management and the importance of diversification in controlling portfolio risk. It discusses portfolio theory and asset-pricing models to value and select from alternative investments.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1041",
+            "course_name": "Asset Management",
+            "description": "REAL1-UC 1041 Asset Management \nExamine the practices and techniques of asset managers in the institutional setting as they seek to preserve value in large and divergent portfolios of properties in multiple locations.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1042",
+            "course_name": "Real Estate Capital Markets",
+            "description": "REAL1-UC 1042 Real Estate Capital Markets \nStudents are introduced to capital markets and gain an understanding of the ebb and flow of capital to real estate and its implication for owners, lenders, and investors. It covers real estate securitization, role of rating agencies, securities analysts, and agents.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1043",
+            "course_name": "Interior Construction Management",
+            "description": "REAL1-UC 1043 Interior Construction Management",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1045",
+            "course_name": "Comparative Real Estate Markets in a Global Perspective",
+            "description": "REAL1-UC 1045 Comparative Real Estate Markets in a Global Perspective \nThis course will compare and contrast urban and rural real estate markets in key international markets in Asia, Europe, and Latin America. We will explore the various factors that affect the overall real estate economies in these regions through the study of the following models: urban hierarchy using the institutional approach, the study of finance in city systems, review of emerging markets and urban planning.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 1050",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17089",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "194M 202",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Dicaprio, Elisa"
+                }
+            ],
+            "course_name": "NYC:  The Future Metropolis",
+            "description": "REAL1-UC 1050 NYC:  The Future Metropolis \nWhat will be the future of NYC as a metropolis? This course explores green building design and real estate development within the context of new urban planning trends in NYC and the reinvention of the city in the twenty-first century. Topics include: the advantages of urban density, mass transportation, NYC\u2019s smart electrical grid, sustainable land use, the green urban infrastructure, and PlaNYC 2030.",
+            "offering": true
+        },
+        {
+            "course_id": "REAL1-UC 1971",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10024",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study: Real Estate",
+            "description": "REAL1-UC 1971 Independent Study: Real Estate \nStudents conduct an independent investigation of selected topics outside the boundaries of the classroom. Independent study allows students to pursue specialized interests, within the framework of the curriculum, that are not available in existing courses. Although self-directed, students work closely with a faculty mentor who guides and evaluates their work.",
+            "offering": true
+        },
+        {
+            "course_id": "REAL1-UC 7990",
+            "course_name": "Special Topics in Real Estate:",
+            "description": "REAL1-UC 7990 Special Topics in Real Estate: \nThis course offers intensive study of specific topics in Real Estate focusing on different themes each semester. The topic is listed in the course schedule for the semester.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 7991",
+            "course_name": "Senior Proj Seminar: Real Estate",
+            "description": "REAL1-UC 7991 Senior Proj Seminar: Real Estate \nThe seminar allows students to develop a project under the guidance of a faculty mentor. The seminar requires regular class attendance to discuss projects and to document them as well as individual meetings with the mentor. The projects themselves may be in one of the degree's various concentration areas. Projects must be the student's individual, original work and include the product, the technical documentation, and a learning experience essay summarizing the process and skills used.",
+            "offering": false
+        },
+        {
+            "course_id": "REAL1-UC 7992",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9819",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "Burns, William",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Proj Internship: Real Estate",
+            "description": "REAL1-UC 7992 Senior Proj Internship: Real Estate \nThe internship provides an opportunity for students to use knowledge gained in their major combined with the knowledge provided by professionals in a variety of industry settings. Students are required to complete a minimum of 100 hours during the semester to earn four credits. (Students' full-time jobs cannot serve as internships.) In addition to hours at their placement, they meet regularly with the internship coordinator, maintain weekly logs or journals, and complete a final learning-experience essay summarizing the outcome, including samples of work completed.",
+            "offering": true
+        },
+        {
+            "course_id": "REAL1-UC 7993",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9925",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Carryl, Colin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Project:  Independent Study - Real Estate",
+            "description": "REAL1-UC 7993 Senior Project:  Independent Study - Real Estate",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,730 @@
+{
+    "major_id": "WRI-UF",
+    "file": "./2015-2016/Writing_I_(WRI-UF).html",
+    "courses": [
+        {
+            "course_id": "WRI-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11927",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 301"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11928",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "12WV L114"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11929",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "12WV L114"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11930",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 515"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11931",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 301"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11932",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 402"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12212",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B04",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Reid, Tamuira"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11934",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 383"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11935",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L113",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "D'Alessandro, Nina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12270",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11936",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Reid, Tamuira"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11937",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-8",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Policoff, Stephen"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11938",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 669"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11939",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L113",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "D'Alessandro, Nina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11940",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L114",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Fitterman, Robert"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11941",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL02",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Horng, Susanna"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11943",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L114",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Fitterman, Robert"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11944",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "ARC_ LL03"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11945",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 402"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11946",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 515"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11947",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 518",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Tobin, Elayne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11948",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "ARC_ LL03"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11949",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 121 (SB)"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11950",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL02",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Horng, Susanna"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11951",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 409"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11953",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL147"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11954",
+                    "section": "029",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS 837"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11955",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 274",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Wilkinson, Amy"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12209",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS 737"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11956",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 274",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Wilkinson, Amy"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11957",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 461"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11959",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 465",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Zoble, Jennifer"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11960",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 208"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11961",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL147"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11962",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 206"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12269",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11963",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 465",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Senft, Theresa"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11964",
+                    "section": "041",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL148"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12267",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11965",
+                    "section": "043",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11966",
+                    "section": "044",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11967",
+                    "section": "045",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 384",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Menghraj, Suzanne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11968",
+                    "section": "046",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL148"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12210",
+                    "section": "048",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "GCASL 274"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11970",
+                    "section": "049",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL140",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Goldfin, Robin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11971",
+                    "section": "050",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL140",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Goldfin, Robin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11973",
+                    "section": "052",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 465",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Fulani, Ifeona"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11974",
+                    "section": "053",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 461",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Zoble, Jennifer"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11975",
+                    "section": "054",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 475"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11976",
+                    "section": "055",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS LL147"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11977",
+                    "section": "056",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11978",
+                    "section": "057",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11980",
+                    "section": "059",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 374"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12266",
+                    "section": "061",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11982",
+                    "section": "062",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL149"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11996",
+                    "section": "063",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 509"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11983",
+                    "section": "064",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS 737"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11984",
+                    "section": "065",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL 465"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12211",
+                    "section": "066",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 500"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11986",
+                    "section": "068",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 465"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11987",
+                    "section": "069",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B04",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Bishop, Jacqueline"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11988",
+                    "section": "100",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 274",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wilkinson, Amy"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11989",
+                    "section": "101",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 500"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11990",
+                    "section": "102",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 303",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Longabucco, Matthew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11991",
+                    "section": "103",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL149"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11992",
+                    "section": "104",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B07",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Senft, Theresa"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11993",
+                    "section": "105",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Eve, Sean"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11994",
+                    "section": "106",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Rectenwald, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11995",
+                    "section": "107",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 566B",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Moore, Carley"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12233",
+                    "section": "108",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 206",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Menghraj, Suzanne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12281",
+                    "section": "120",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Moore, Carley",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "WRI-UF  101\n\n   Writing I\n\nWriting I and II comprise a two-semester writing sequence in which students develop analytical thinking abilities in the context of academic essay writing. Writing I has two main objectives. The first is to develop students' self-confidence and fluency by engaging them in the use of writing to express, explore, and develop ideas through a variety of forms, including informal writing (free writing, journal writing, etc.). The second objective is to engage them in practicing the critical and analytical skills they will use throughout their two years in LS's writing-intensive program. The course ...\n\n      more description for WRI-UF  101 \u00bb\n\n      \n\n\n\nWriting I and II comprise a two-semester writing sequence in which students develop analytical thinking abilities in the context of academic essay writing. Writing I has two main objectives. The first is to develop students' self-confidence and fluency by engaging them in the use of writing to express, explore, and develop ideas through a variety of forms, including informal writing (free writing, journal writing, etc.). The second objective is to engage them in practicing the critical and analytical skills they will use throughout their two years in LS's writing-intensive program. The course is conducted as a workshop. Students produce a wide range of writing, both in and out of class, which forms the basis for classroom activities. All papers go through multiple drafts, often with input from peers in addition to the instructor.\n\n      less description for WRI-UF  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "WRI-UF 9101",
+            "course_name": "Writing I",
+            "description": "WRI-UF 9101 Writing I",
+            "offering": false
+        }
+    ]
+}

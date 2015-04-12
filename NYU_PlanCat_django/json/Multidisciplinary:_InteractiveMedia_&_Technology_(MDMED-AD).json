@@ -1,0 +1,84 @@
+{
+    "major_id": "MDMED-AD",
+    "file": "./2015-2016/Multidisciplinary:_InteractiveMedia_&_Technology_(MDMED-AD).html",
+    "courses": [
+        {
+            "course_id": "MDMED-AD 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12967",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "ARTS_CENT 029 with Fitzgerald, Scott08/30/2015 - 12/17/2015 Wed 12.45 PM - 3.25 PM at ARTS_CENT 029",
+                    "time": "Mon 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Fitzgerald, Scott"
+                }
+            ],
+            "course_name": "",
+            "description": "MDMED-AD  101\n\n   Introduction to Interactive Media\n\nWith the advent of digital computation, humans have found a variety of new tools for self-expression and communication. Thinking about how we interface with these tools beyond the mouse and keyboard, we can approach software and electronics as artists and designers and explore new paradigms of interaction with machines and each other. This introductory course will provide students hands-on experience with screen-based and physical interaction design through programming and electronics using microcontrollers, electronics, and writing our own software. Fundamentals of programming and circuit des...\n\n      more description for MDMED-AD  101 \u00bb\n\n      \n\n\n\nWith the advent of digital computation, humans have found a variety of new tools for self-expression and communication. Thinking about how we interface with these tools beyond the mouse and keyboard, we can approach software and electronics as artists and designers and explore new paradigms of interaction with machines and each other. This introductory course will provide students hands-on experience with screen-based and physical interaction design through programming and electronics using microcontrollers, electronics, and writing our own software. Fundamentals of programming and circuit design will supplement readings on human-computer interaction and design theory. Weekly lab exercises encourage students to experiment freely, creating their own novel interfaces and controls for working with machines.\n\n      less description for MDMED-AD  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MDMED-AD 102",
+            "course_name": "Communications Lab",
+            "description": "MDMED-AD  102 Communications Lab \nA production based course that surveys various technologies including digital imaging, video, audio, animation, and basic web development. The forms and uses of new communications technologies are explored in a laboratory context of experimentation and discussion. Principles of interpersonal communications and media theory are considered in this new context.",
+            "offering": false
+        },
+        {
+            "course_id": "MDMED-AD 115",
+            "course_name": "",
+            "description": "MDMED-AD  115\n\n   New Interfaces of Musical Expression\n\nThis course approaches questions such as \"What is performance?\", \"What makes a musical interface intuitive and emotionally immediate?\", and \"How do we create meaningful correlations between performance gestures and their musical consequences?\" Over the semester, we look at many examples of current work by creators of musical interfaces, and discuss a wide range of issues facing technology-enabled performance. Students will design and prototype a musical instrument - a complete system encompassing musical controller, algorithm for mapping input to sound, and the sound output itself. A technical...\n\n      more description for MDMED-AD  115 \u00bb\n\n      \n\n\n\nThis course approaches questions such as \"What is performance?\", \"What makes a musical interface intuitive and emotionally immediate?\", and \"How do we create meaningful correlations between performance gestures and their musical consequences?\" Over the semester, we look at many examples of current work by creators of musical interfaces, and discuss a wide range of issues facing technology-enabled performance. Students will design and prototype a musical instrument - a complete system encompassing musical controller, algorithm for mapping input to sound, and the sound output itself. A technical framework for  prototyping performance controllers is made available. Students focus on musical composition and improvisation techniques as they prepare their prototypes for live performance.\n\n      less description for MDMED-AD  115 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MDMED-AD 116",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13065",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "ARTS_CENT 029 with Protzel, Craig08/30/2015 - 12/17/2015 Tue 3.35 PM - 4.50 PM at ARTS_CENT 029",
+                    "time": "Thu 2.10 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Protzel, Craig"
+                }
+            ],
+            "course_name": "",
+            "description": "MDMED-AD  116\n\n   Mashups - Creating with Web APIs\n\nAs the World Wide Web continues to grow and pervade our everyday lives, an ever-increasing amount of data and digital services are becoming accessible to us through public web APIs - Application Programming Interfaces. Common to many web sites, including YouTube, Twitter, Google Maps, Wikipedia and more, these web APIs offer a way to programmatically request and re-purpose endless troves of information. How might we use these available resources to create unique, creative, and compelling web experiences of our own? Subscribing to a process-oriented approach, much of class time will be spent re...\n\n      more description for MDMED-AD  116 \u00bb\n\n      \n\n\n\nAs the World Wide Web continues to grow and pervade our everyday lives, an ever-increasing amount of data and digital services are becoming accessible to us through public web APIs - Application Programming Interfaces. Common to many web sites, including YouTube, Twitter, Google Maps, Wikipedia and more, these web APIs offer a way to programmatically request and re-purpose endless troves of information. How might we use these available resources to create unique, creative, and compelling web experiences of our own? Subscribing to a process-oriented approach, much of class time will be spent reviewing and writing code, primarily Javascript, for client-side (front-end) web development.\n\n      less description for MDMED-AD  116 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MDMED-AD 202",
+            "course_name": "",
+            "description": "MDMED-AD  202\n\n   Experiential Video Art\n\nVideo heralded a mediated form of expression, quickly embraced by artists, journalists, and provocateurs. This course explores alternative methods of working with video signals in the context of performance and installation. Students develop their own work while examining technical, aesthetic, and theoretical concepts embedded in existing pieces, following video art from the late 1960s to contemporary practices. Topics include thinking about scale, projection mapping, using a camera as a sensor, real-time video manipulation, and alternative screens like LEDs. Previous video experience is encou...\n\n      more description for MDMED-AD  202 \u00bb\n\n      \n\n\n\nVideo heralded a mediated form of expression, quickly embraced by artists, journalists, and provocateurs. This course explores alternative methods of working with video signals in the context of performance and installation. Students develop their own work while examining technical, aesthetic, and theoretical concepts embedded in existing pieces, following video art from the late 1960s to contemporary practices. Topics include thinking about scale, projection mapping, using a camera as a sensor, real-time video manipulation, and alternative screens like LEDs. Previous video experience is encouraged, though not required.\n\n      less description for MDMED-AD  202 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MDMED-AD 203",
+            "course_name": "Network Everything",
+            "description": "MDMED-AD  203 Network Everything \nThis course explores the possibilities and challenges of designing alternate physical network interfaces. Through weekly readings, class discussions, and a series of projects, students can expect to make physical objects that talk to each other over distance. Various protocols such as Bluetooth, Zigbee, and WiFi, and GSM/GPRS are used in the context of creating novel \u201csmart\u201d devices.  Topics of discussion include networking protocols and network topologies; network time vs. physical time; mobile objects; and wireless networks.",
+            "offering": false
+        },
+        {
+            "course_id": "MDMED-AD 204",
+            "course_name": "Digital Fabrication and Design",
+            "description": "MDMED-AD  204 Digital Fabrication and Design \nThis course leads students on a journey that takes an idea from an initial sketch to a physical prototype. With an iterative approach to design, students can expect to revise prototypes multiple times, redesigning and robustly testing each version.  This course will cover software such as Sketchup, digital fabrication, and traditional shop work.",
+            "offering": false
+        },
+        {
+            "course_id": "MDMED-AD 205",
+            "course_name": "Intermediate Topics in Interactive Media",
+            "description": "MDMED-AD  205 Intermediate Topics in Interactive Media \nBuilding on the concepts presented in the foundation courses, these electives may incorporate networked objects, interface design, mobile technologies, social media, or working with large sets of information.",
+            "offering": false
+        },
+        {
+            "course_id": "MDMED-AD 298",
+            "course_name": "Directed Study",
+            "description": "MDMED-AD  298 Directed Study \nSupervised, individual research on a particular topic by arrangement with a faculty member, resulting in a final project of significant scope.",
+            "offering": false
+        }
+    ]
+}

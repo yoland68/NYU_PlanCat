@@ -1,0 +1,220 @@
+{
+    "major_id": "ANTH1-UC",
+    "file": "./2015-2016/Anthropology_(ANTH1-UC).html",
+    "courses": [
+        {
+            "course_id": "ANTH1-UC 5003",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9922",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "GCASL 288",
+                    "time": "Tue 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Abed, Bassam"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17104",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "GODD B01",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Mooney, Brian"
+                }
+            ],
+            "course_name": "Cultural Anthropology",
+            "description": "ANTH1-UC 5003 Cultural Anthropology \nThis course is an introduction to the basic concepts, aims, and findings of cultural anthropology. In addition to exploring the concept of culture as a defining characteristic of human experience, the course analyzes the forces that shape and define such human cultural features as family systems and marriage, sex and gender roles, political and economic institutions, social inequalities and ethnic identities, and religious and ritual behavior. Using a variety of ethnographic examples, the course explores the similarities and differences of peoples and cultures around the world.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH1-UC 5009",
+            "course_name": "American Culture",
+            "description": "ANTH1-UC 5009 American Culture \nIs there such a thing as one unified American culture or are there many American cultures, each shaped and defined by separate ethnic groups? What is the relationship between culture and ethnicity? Do we need to redefine and reinvent what constitutes being American? An anthropological approach to understanding the nature and meaning of American culture, its historical roots, and its current manifestations.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5010",
+            "course_name": "Cultural Geography",
+            "description": "ANTH1-UC 5010 Cultural Geography",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9749",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "WAVE 370"
+                }
+            ],
+            "course_name": "World Cultures: Africa",
+            "description": "ANTH1-UC 5011 World Cultures: Africa \nThis interdisciplinary course examines elements of continuity and change in African civilization. Using the methods and insights of history, anthropology, and other social sciences, this course explores the assimilation of indigenous, Arab, Islamic, and Western traditions in the formation of modern Africa. It draws examples from various nations and ethnic groups to highlight important social, economic, political, and religious trends on the continent.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH1-UC 5012",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9750",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "WAVE 367",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Aksoy, Ozan"
+                }
+            ],
+            "course_name": "World Cultures: Middle East",
+            "description": "ANTH1-UC 5012 World Cultures: Middle East \nThis course is a descriptive and analytic survey of the cultures and peoples of Southwest Asia and North Africa. It explores unifying themes and contrasting elements in a multidisciplinary approach that focuses on the role of Islam in the development of the region; social structure and gender relations; contemporary political and economic issues; and social and cultural transformations.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH1-UC 5013",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9751",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "GCASL 288",
+                    "time": "Mon 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Weisgrau, Maxine"
+                }
+            ],
+            "course_name": "World Cultures: Asia",
+            "description": "ANTH1-UC 5013 World Cultures: Asia \nThis course involves a thematic and comparative survey of cultures and societies of Central, South, Southeast, and East Asia. The course draws on contributions from both the humanities and social sciences to form an understanding of the forces that have shaped the civilizations of Asia. It places special emphasis on the analysis of cultural systems, social structures, religion and ideology, and the rapid development of East Asian economies and societies.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH1-UC 5014",
+            "course_name": "World Cultures: Latin America & The Caribbean",
+            "description": "ANTH1-UC 5014 World Cultures: Latin America & The Caribbean \nThis course offers a historic and comparative study of the cultures and societies of Central and South America and the Caribbean region. Hispanic, native, and Afro-Creole cultures are analyzed with special emphasis on ethnicity, class, and nationhood. This course also reviews the historical factors that shaped and defined contemporary Latin and Caribbean cultures, including the Iberian conquest and the marginalization of indigenous peoples, the slave trade and the plantation economy, and the problems of post-colonial development.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5044",
+            "course_name": "Native Americans",
+            "description": "ANTH1-UC 5044 Native Americans",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5046",
+            "course_name": "Witchcraft, Magic & Social Power",
+            "description": "ANTH1-UC 5046 Witchcraft, Magic & Social Power \nAn interdisciplinary inquiry into witchcraft accusations and persecutions around the world. The course investigates the relationship of magic and witchcraft to social control. Topics include shamanism and power, witchcraft and social control through hierarchies of deviance and acceptable behavior, and curative healing powers and social hierarchy. Some discussion of modern-day versions of witchcraft and devil worship is included.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5047",
+            "course_name": "Anthropology of Religion",
+            "description": "ANTH1-UC 5047 Anthropology of Religion \nThis course examines the cultural nature of belief systems, values, and rituals using a cross-cultural approach. The course introduces students to the various ways in which anthropologists theorize and conceptualize what religion is and what roles it plays in human cultural experience. Topics include the ritual process, rites of passage, myth and symbolism, magic, witchcraft, and the role of gender. Religious revitalization and the globalization of major world religions are analyzed using historical and contemporary examples from around the world.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5050",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17105",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "BOBS LL151",
+                    "time": "Thu 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Weisgrau, Maxine"
+                }
+            ],
+            "course_name": "Gender & Development",
+            "description": "ANTH1-UC 5050 Gender & Development \nThe course examines the relationship between gender and socioeconomic development in societies around the world. Variables that impact gender dynamics -- such as the gender division of labor, sexuality, family structure, marriage practices, community organizations, religious beliefs, and class structures -- are examined for their impact on socioeconomic development. Issues of gender discrimination are highlighted.",
+            "offering": true
+        },
+        {
+            "course_id": "ANTH1-UC 5051",
+            "course_name": "Cities & Urban Life",
+            "description": "ANTH1-UC 5051 Cities & Urban Life \nThe urbanization process is one of the most significant social phenomena of the 20th century. This course explores the dynamics of urbanization and urban life from an anthropological perspective. It looks at issues such as rural-urban migration; migrant adaptation to city life; the construction of communal bonds in cities through such things as kinship, informal networks and ethnic identity; the meaning of slums, squatter settlements, and homelessness for both its inhabitants and others; and the issues of de-urbanization or urban blight.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5056",
+            "course_name": "",
+            "description": "ANTH1-UC 5056\n\n   Culture & Colonialism\n\nThis course explores the meaning of \"culture\" in societies that were subject to long-term colonial rule. It examines the impact of colonial power on social stratification, social categories, gender dynamics, religious identities and practices, and the day-to day lives of people. The course also explores the construction of cultural traditions and national identities and their places in the postcolonial world. Areas might include the cultural impact of British rule in South Asia, French and British rule in the Middle East, Spanish and Portuguese rule in Latin America, and other regimes of colon...\n\n      more description for ANTH1-UC 5056 \u00bb\n\n      \n\n\n\nThis course explores the meaning of \"culture\" in societies that were subject to long-term colonial rule. It examines the impact of colonial power on social stratification, social categories, gender dynamics, religious identities and practices, and the day-to day lives of people. The course also explores the construction of cultural traditions and national identities and their places in the postcolonial world. Areas might include the cultural impact of British rule in South Asia, French and British rule in the Middle East, Spanish and Portuguese rule in Latin America, and other regimes of colonial rule throughout Africa and elsewhere in Asia.\n\n      less description for ANTH1-UC 5056 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5061",
+            "course_name": "Sex, Gender & Language",
+            "description": "ANTH1-UC 5061 Sex, Gender & Language \nThe course examines gender-based differences in language structure and conversation styles, and it analyzes the social context of language as a cultural resource and practice. Topics include gender differences in conversation styles, language, and sexual identity; speech communities; obligatory sexism; and language and power.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5062",
+            "course_name": "Psychology & Culture",
+            "description": "ANTH1-UC 5062 Psychology & Culture \nThis course examines the relationship between culture and personality and how they shape each other. It implements psychological anthropology's methods and theories to explore the effects of childhood training on personality development, possible cultural constructs of mental illness, and other such topics.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5065",
+            "course_name": "Language & Society",
+            "description": "ANTH1-UC 5065 Language & Society \nA sociological and anthropological study of the significance of language and symbols as specific human characteristics, exploring the relationships between linguistic structure and patterns of culture, theories of language acquisition, and current questions surrounding dialect, bilingualism, and literacy. Popular formulations are examined in terms of the scholarly debates over the influences of race, ethnicity, nationality, and gender of language and communication. Students are introduced to the methods of sociolinguistic study.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5066",
+            "course_name": "",
+            "description": "ANTH1-UC 5066\n\n   Law, Culture and Society\n\nThis course provides a cross-cultural study of law and legal systems with a special focus on language and performance. We look beyond law as a formal code to examine the institutions (courts, village councils, law schools), social actors (lawyers, judges, claimants), performances (trials, testimony), practices (opinions, legal documents) and ideologies that together make up legal systems and through which people engage in dispute. The course also explores the power of language as it is used in courts, legal documents, and law school classrooms to resolve disputes and to construct culturally-sp...\n\n      more description for ANTH1-UC 5066 \u00bb\n\n      \n\n\n\nThis course provides a cross-cultural study of law and legal systems with a special focus on language and performance. We look beyond law as a formal code to examine the institutions (courts, village councils, law schools), social actors (lawyers, judges, claimants), performances (trials, testimony), practices (opinions, legal documents) and ideologies that together make up legal systems and through which people engage in dispute. The course also explores the power of language as it is used in courts, legal documents, and law school classrooms to resolve disputes and to construct culturally-specific notions of justice.\n\n      less description for ANTH1-UC 5066 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5070",
+            "course_name": "Rise of Civilizations",
+            "description": "ANTH1-UC 5070 Rise of Civilizations \nThe course examines the foundations and development of early civilizations in the Old and New Worlds. It considers the origins of food production and domestication of plants and animals as well as analyzes the trends toward increasing economic, social, and political complexity that resulted in the rise of early states. Theories of the origins of the state and archaeological evidence from both the Old and the New Worlds are discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5071",
+            "course_name": "Civilizations of The New World",
+            "description": "ANTH1-UC 5071 Civilizations of The New World \nAn examination of the origins and development of the native cultures and civilizations of North America, Mesoamerica, and South America. The course addresses developments that led to urbanism, settlement patterns, migration, and the cultural ecology of the Native American populations. Archaeological, historical, and comparative evidence is used to explain the rise and fall of New World civilizations.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5073",
+            "course_name": "Civilizations of The Ancient Near East",
+            "description": "ANTH1-UC 5073 Civilizations of The Ancient Near East \nThis course surveys ancient Mesopotamian, Anatolian, and Egyptian archaeology covering the rise of the first urban civilization in Sumer, Ur, and Babylon in southern Mesopotamia and also traces the rise of the Egyptian civilization from the Old through the Middle and New Kingdoms. An analysis of the Hittite Kingdom of Anatolia and other civilizations is also provided.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 5090",
+            "course_name": "Sp Tpcs in Anthropology",
+            "description": "ANTH1-UC 5090 Sp Tpcs in Anthropology \nThis course offers intensive study of specific topics in anthropology, focusing on different themes each semester.",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 6669",
+            "course_name": "",
+            "description": "ANTH1-UC 6669\n\n   Transnationalism, Immigration & Identity\n\nThis course covers the experiences of immigrant populations from diverse geographies to the metropolitan centers of the West. Using a global perspective, the course traces the transnational roots and histories of immigrant populations; documents the cultural differences and adaptive strategies of new immigrants; and analyzes the nature of transnational identity, global politics, and cultural processes of adaptation. The course also discusses ethnic community-forming processes, and the roles that are played by ethnic and immigrant groups in the labor market at both the low and high ends of the ...\n\n      more description for ANTH1-UC 6669 \u00bb\n\n      \n\n\n\nThis course covers the experiences of immigrant populations from diverse geographies to the metropolitan centers of the West. Using a global perspective, the course traces the transnational roots and histories of immigrant populations; documents the cultural differences and adaptive strategies of new immigrants; and analyzes the nature of transnational identity, global politics, and cultural processes of adaptation. The course also discusses ethnic community-forming processes, and the roles that are played by ethnic and immigrant groups in the labor market at both the low and high ends of the labor spectrum. It examines perceptions of ethnic and immigrant groups held by \"majority\" or \"host\" societies.\n\n      less description for ANTH1-UC 6669 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 6672",
+            "course_name": "",
+            "description": "ANTH1-UC 6672\n\n   Globalization & World Culture\n\nThis course explores the cultural impacts of intensifying forces of globalization.  Contemporary globalization is often defined as a rapidly intensifying global flow of capital, people, commodities, ideologies, and media images.  These global flows are binding together various regions of the world economically, technologically, ideologically, and culturally.  This course explores the cultural impacts of globalization in different localities to ask whether the world is becoming more culturally homogeneous or whether cultural diversity will endure.  Other questions include whether globalization ...\n\n      more description for ANTH1-UC 6672 \u00bb\n\n      \n\n\n\nThis course explores the cultural impacts of intensifying forces of globalization.  Contemporary globalization is often defined as a rapidly intensifying global flow of capital, people, commodities, ideologies, and media images.  These global flows are binding together various regions of the world economically, technologically, ideologically, and culturally.  This course explores the cultural impacts of globalization in different localities to ask whether the world is becoming more culturally homogeneous or whether cultural diversity will endure.  Other questions include whether globalization is different from modernization, Americanization and Westernization; how cultural identities are reconfigured and manipulated in the process of globalization; and whether forms of cultural resistance to globalization have emerged and why?  Theories of globalization and case studies are discussed and analyzed.\n\n      less description for ANTH1-UC 6672 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ANTH1-UC 7902",
+            "course_name": "",
+            "description": "ANTH1-UC 7902\n\n   Culture, Tourism & Development\n\nThis course introduces theoretical models for analyzing cultural and economic processes in the international tourist industry, with particular emphasis on less developed host countries. It covers global historic and economic development processes within which tourism has evolved, and the anthropological models that apply to these processes. Using specific case studies reflecting issues of gender, class formation, allocation of resources, the environment, health issues, and the question of authenticity, the course examines the potential of tourism as a form of equitable and sustainable developm...\n\n      more description for ANTH1-UC 7902 \u00bb\n\n      \n\n\n\nThis course introduces theoretical models for analyzing cultural and economic processes in the international tourist industry, with particular emphasis on less developed host countries. It covers global historic and economic development processes within which tourism has evolved, and the anthropological models that apply to these processes. Using specific case studies reflecting issues of gender, class formation, allocation of resources, the environment, health issues, and the question of authenticity, the course examines the potential of tourism as a form of equitable and sustainable development. Also examined are tourism from the perspective of state-based policy and international relations.\n\n      less description for ANTH1-UC 7902 \u00ab",
+            "offering": false
+        }
+    ]
+}

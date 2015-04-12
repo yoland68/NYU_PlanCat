@@ -1,0 +1,68 @@
+{
+    "major_id": "GSAS-GA",
+    "file": "./2015-2016/Grad_School_of_Arts_&_Science_(GSAS-GA).html",
+    "courses": [
+        {
+            "course_id": "GSAS-GA 1200",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2111",
+                    "section": "001",
+                    "period": "09/30/2015 - 12/02/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "BOBS LL143"
+                }
+            ],
+            "course_name": "Preparing Future Faculty 1: The Art & Craft of Teaching",
+            "description": "GSAS-GA 1200 Preparing Future Faculty 1: The Art & Craft of Teaching",
+            "offering": true
+        },
+        {
+            "course_id": "GSAS-GA 1201",
+            "course_name": "Preparing Future Faculty 2: Achieving Success through Communication",
+            "description": "GSAS-GA 1201 Preparing Future Faculty 2: Achieving Success through Communication",
+            "offering": false
+        },
+        {
+            "course_id": "GSAS-GA 2000",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1028",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1029",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1030",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Consortia Courses",
+            "description": "GSAS-GA 2000 Consortia Courses",
+            "offering": true
+        }
+    ]
+}

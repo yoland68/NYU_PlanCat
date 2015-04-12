@@ -1,0 +1,90 @@
+{
+    "major_id": "EENG-SHU",
+    "file": "./2015-2016/Electrical_Engineering_(EENG-SHU).html",
+    "courses": [
+        {
+            "course_id": "EENG-SHU 251",
+            "course_name": "Circuits",
+            "description": "EENG-SHU  251 Circuits \nThis course covers Passive DC circuit elements, Kirchoff\u2019s laws, electric power calculations, analysis of DC circuits, Nodal and Loop analysis techniques, voltage and current division, Thevenin\u2019s and Norton\u2019s theorems, and source-free and forced responses of RL, RC and RLC circuits. Prerequisite: MATH-121.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 301",
+            "course_name": "",
+            "description": "EENG-SHU  301\n\n   Advanced Circuits\n\nThe course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of an...\n\n      more description for EENG-SHU  301 \u00bb\n\n      \n\n\n\nThe course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of analog integrated circuits, frequency response of amplifiers, feedback amplifiers, TTL and CMOS digital integrated circuits. Prerequisite: EENG-251.\n\n      less description for EENG-SHU  301 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 304",
+            "course_name": "",
+            "description": "EENG-SHU  304\n\n   Electromagnetic Fields and Waves\n\nElectromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are explored as a special case. The reflection and transmission of pulsed sources at discontinuities are discussed, while impedance transformation and matching are presented for harmonic time dependence. Snell\u2019s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrat...\n\n      more description for EENG-SHU  304 \u00bb\n\n      \n\n\n\nElectromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are explored as a special case. The reflection and transmission of pulsed sources at discontinuities are discussed, while impedance transformation and matching are presented for harmonic time dependence. Snell\u2019s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated. Alternate-week laboratory. Objectives: Establish foundations of electromagnetic wave theory applicable to antennas, transmissions lines and materials; increase appreciation for properties of materials through physical experiments. Prerequisite: CCSC-110.\n\n      less description for EENG-SHU  304 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 306",
+            "course_name": "Instrumentation, Sensors and Actuators",
+            "description": "EENG-SHU  306 Instrumentation, Sensors and Actuators \nThe course focuses on electrical circuits and components, passive and active filtering for signal conditioning, dynamic measurement system response characteristics, analog signal processing, digital representation, data acquisition, sensors, actuators and actuator characteristics. Studies of measurement systems via computer simulation also are discussed. The laboratory experiments draw upon examples from all disciplines of engineering such as data acquisition, operational amplifiers, temperature measurement, and motion and force measurements. Prerequisite: EENG-251.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 322",
+            "course_name": "",
+            "description": "EENG-SHU  322\n\n   Electronics\n\nThis course focuses on circuit models and amplifier frequency response, op-amps, difference amplifier, voltage-to-current converter, slew rate, full-power bandwidth, common-mode rejection, frequency response of closed-loop amplifier, gain-bandwidth product rule, diodes, limiters, clamps and semiconductor physics. Other topics include Bipolar Junction Transistors; small-signal models, cut-off, saturation and active regions; common emitter, common base and emitter-follower amplifier configurations; Field-Effect Transistors (MOSFET and JFET); biasing; small-signal models; common-source and common...\n\n      more description for EENG-SHU  322 \u00bb\n\n      \n\n\n\nThis course focuses on circuit models and amplifier frequency response, op-amps, difference amplifier, voltage-to-current converter, slew rate, full-power bandwidth, common-mode rejection, frequency response of closed-loop amplifier, gain-bandwidth product rule, diodes, limiters, clamps and semiconductor physics. Other topics include Bipolar Junction Transistors; small-signal models, cut-off, saturation and active regions; common emitter, common base and emitter-follower amplifier configurations; Field-Effect Transistors (MOSFET and JFET); biasing; small-signal models; common-source and common gate amplifiers; and integrated circuit MOS amplifiers. The alternate-week laboratory experiments on OP-AMP applications, BJT biasing, large signal operation and FET characteristics. The course studies design and analysis of operational amplifiers; small-signal bipolar junction transistor and field-effect transistor amplifiers; diode circuits; differential pair amplifiers and semiconductor device-physics fundamentals. Prerequisite: EENG-251.\n\n      less description for EENG-SHU  322 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 351",
+            "course_name": "Analog and Digital Communication Theory",
+            "description": "EENG-SHU  351 Analog and Digital Communication Theory \nThe course introduces the principles of the various analog communication fundamentals. Amplitude modulation and demodulation, angle modulation and demodulation. Noise performance of various receivers and information theory with source coding theorem are also dealt. The labs emphasize experiential learning of basic analog and digital communication theory concepts and applications, including experiments demonstrating analog and digital modulation techniques. Prerequisite: EENG-303.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 352",
+            "course_name": "",
+            "description": "EENG-SHU  352\n\n   Control Systems\n\nThe course introduces the principles of dynamic system modeling, analysis, and feedback control design with extensive, hands-on computer simulation. Modeling and analysis of dynamic systems. Description of interconnected systems via transfer functions and block/signal-flow diagrams. System response characterization as transient and steady-state responses and error considerations. Stability of dynamical systems: Routh-Hurwitz criterion and Nyquist criterion. Graphical methods for dynamical system analysis and design:  root locus and Bode plot. Computer-aided feedback control design for mechanic...\n\n      more description for EENG-SHU  352 \u00bb\n\n      \n\n\n\nThe course introduces the principles of dynamic system modeling, analysis, and feedback control design with extensive, hands-on computer simulation. Modeling and analysis of dynamic systems. Description of interconnected systems via transfer functions and block/signal-flow diagrams. System response characterization as transient and steady-state responses and error considerations. Stability of dynamical systems: Routh-Hurwitz criterion and Nyquist criterion. Graphical methods for dynamical system analysis and design:  root locus and Bode plot. Computer-aided feedback control design for mechanical, aerospace, robotic, thermo-fluid, and vibratory systems. Prerequisite: MATH-112.\n\n      less description for EENG-SHU  352 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 354",
+            "course_name": "Electrical Energy and Power Systems",
+            "description": "EENG-SHU  354 Electrical Energy and Power Systems \nIntroduction to electric-energy sources, energy-storage devices, energy economics, environmental issues and electrical hazards. Principles of electric power systems transmission and distribution. Basic electromechanical conversion systems pulse and distribution transformers, induction rotating machines. Principles of electric energy conversion, static power supplies, static controllers and electric-power quality. Fundamentals of power management heat-sinks and cooling systems. Experiments with basic electrical machines. Prerequisite: EENG-304.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 355",
+            "course_name": "Digital Signal Processing",
+            "description": "EENG-SHU  355 Digital Signal Processing \nThe course introduces the principle concepts of discrete-time signals and systems, frequency analysis, sampling of continuous time signals, the z-transform, implementation of discrete time systems, the discrete Fourier transform, fast Fourier transform algorithms, filter design techniques. The labs cover experiential learning of digital signal processing concepts, and require students to use knowledge to create and build prototypes that demonstrate their understanding of the material covered in the lecture. Prerequisite: EENG-303.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 375",
+            "course_name": "Robotic Systems",
+            "description": "EENG-SHU  375 Robotic Systems \nThis course presents an overview of Robotics covering a selection of topics including Controls, Localization, Motion Planning, Sensing, Kinematics, and Human-Robot Interaction. Practical lab and simulation exercises complement the lectures. The students will further specialize and consolidate their knowledge through semester-long hands-on projects that involve the design, implementation, and testing of robotic systems and applications. Prerequisite: EENG-352.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 400",
+            "course_name": "Senior Capstone Design Project I",
+            "description": "EENG-SHU  400 Senior Capstone Design Project I \nPrerequisite: Senior Standing",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 401",
+            "course_name": "Senior Capstone Design Project II",
+            "description": "EENG-SHU  401 Senior Capstone Design Project II \nPrerequisite: EENG-400.",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 2054",
+            "course_name": "",
+            "description": "EENG-SHU 2054\n\n   Signals and Systems\n\nThis course centers on linear system theory for analog and digital systems; linearity, causality and time invariance; impulse response, convolution and stability; the Laplace, z- transforms and applications to Linear Time Invariant (LTI) systems; frequency response, analog and digital filter design. Topics also include Fourier Series, Fourier Transforms and the sampling theorem. Weekly computer-laboratory projects use analysis- and design-computer packages. The course establishes foundations of linear systems theory needed in future courses; use of math packages to solve problems and simulate ...\n\n      more description for EENG-SHU 2054 \u00bb\n\n      \n\n\n\nThis course centers on linear system theory for analog and digital systems; linearity, causality and time invariance; impulse response, convolution and stability; the Laplace, z- transforms and applications to Linear Time Invariant (LTI) systems; frequency response, analog and digital filter design. Topics also include Fourier Series, Fourier Transforms and the sampling theorem. Weekly computer-laboratory projects use analysis- and design-computer packages. The course establishes foundations of linear systems theory needed in future courses; use of math packages to solve problems and simulate systems; and analog and digital filter design. Prerequisite: MATH-112.\n\n      less description for EENG-SHU 2054 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EENG-SHU 3193",
+            "course_name": "",
+            "description": "EENG-SHU 3193\n\n   Very Large Scale Integrated (VLSI) Circuit Design\n\nThe course offers an overview of integrated circuit-design process: planning, design, fabrication and testing; device physics: PN junction, MOSFET and Spice models; inverter static and dynamic behavior and power dissipation; interconnects: cross talk, variation and transistor sizing; logic gates and combinational logic networks; sequential machines and sequential system design; subsystem design: adders, multipliers, static memory (SRAM), dynamic memory (DRAM). Topics include floor planning, clock distribution, power distribution and signal integrity; Input/Output buffers, packaging and testing...\n\n      more description for EENG-SHU 3193 \u00bb\n\n      \n\n\n\nThe course offers an overview of integrated circuit-design process: planning, design, fabrication and testing; device physics: PN junction, MOSFET and Spice models; inverter static and dynamic behavior and power dissipation; interconnects: cross talk, variation and transistor sizing; logic gates and combinational logic networks; sequential machines and sequential system design; subsystem design: adders, multipliers, static memory (SRAM), dynamic memory (DRAM). Topics include floor planning, clock distribution, power distribution and signal integrity; Input/Output buffers, packaging and testing; IC design methodology and CAD tools; implementations: full custom, application-specific integrated circuit (ASIC), field programmable gate arrays (FPGA). The course provides foundations of VLSI design and custom VLSI design methodology and state-of-the-art CAD tools. Prerequisite: EENG-322.\n\n      less description for EENG-SHU 3193 \u00ab",
+            "offering": false
+        }
+    ]
+}

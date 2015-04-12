@@ -1,0 +1,378 @@
+{
+    "major_id": "ISMM1-UC",
+    "file": "./2015-2016/Information_Systems_Management(ISMM1-UC).html",
+    "courses": [
+        {
+            "course_id": "ISMM1-UC 144",
+            "course_name": "",
+            "description": "ISMM1-UC  144\n\n   Accounting for IT Managers\n\nAccounting for IT Managers will look to address the fundamentals of the accounting process necessary for Information Technology Managers.  The course will build on and discuss what analytical tools are necessary to evaluate the accounting information needs of users, what steps are followed for the design, implementation and maintenance of an accounting information system and how to support business processes and cycles.  Topics that will be covered include the components of a contemporary accounting informations systems, security and internal controls (particularly within internet and eCommerc...\n\n      more description for ISMM1-UC  144 \u00bb\n\n      \n\n\n\nAccounting for IT Managers will look to address the fundamentals of the accounting process necessary for Information Technology Managers.  The course will build on and discuss what analytical tools are necessary to evaluate the accounting information needs of users, what steps are followed for the design, implementation and maintenance of an accounting information system and how to support business processes and cycles.  Topics that will be covered include the components of a contemporary accounting informations systems, security and internal controls (particularly within internet and eCommerce environments), globalization of accounting information systems and the timely delivery of accounting information and real-time systems.  The course material would also address the importance of ethics in the evaluation (including cost/benefit), implementation and delivery process of accounting information systems.\n\n      less description for ISMM1-UC  144 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 700",
+            "course_name": "Customer Relationship Management (CRM) Strategies",
+            "description": "ISMM1-UC  700 Customer Relationship Management (CRM) Strategies \nThis course focuses on the changing dialogue between consumers and the providers of goods and services. Students explore customer scenario models and how they are used as part of a marketing campaign. Students define value from a customer\u2019s perspective and learn how to align organizational operations to strengthen the relationship between the customer and the organization.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 701",
+            "course_name": "B2B E-Commerce",
+            "description": "ISMM1-UC  701 B2B E-Commerce \nThis course provides a detailed understanding of ERP and how it is implemented; how the Internet and ERP, are combined to produce b2b eCommerce; how, where, and why EDI is used in the process; electronic catalogs and updates; approval and procedural processes; and integration of master contracts into ERP, and along with other contracts. Systems such as SAP, Oracle, BAAN, and PeopleSoft are explored, as well as eCommerce as systems integration using Ariba, JD Edwards, Netscape, and others. Case studies.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 702",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17112",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "Hawryluk, Bohdan",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Database Design",
+            "description": "ISMM1-UC  702 Database Design \nFocuses on data modeling techniques that will identify and structure all requisite data items for efficient storage and retrieval. The student also learns the SQL query language to develop answers to business questions based on the stored data. Hands-on exercises use Microsoft Access.",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 703",
+            "course_name": "E-Commerce Technologies",
+            "description": "ISMM1-UC  703 E-Commerce Technologies \neCommerce Technologies explores the various technologies online businesses, centering on synchronous and asynchronous environments.  Course topics include: programming applications, networking technologies, database management, archival practices, streaming video, secure socket layering, search engines, web access, server protocol, knowledge management, site design, intellectual property and security.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 704",
+            "course_name": "E-Commerce Strategy & Marketing",
+            "description": "ISMM1-UC  704 E-Commerce Strategy & Marketing \neCommerce Strategy and Marketing examines strategic marketing concepts for online business.  Course topics include: site promotion, digital advertising, customer retention, user profiles, supply chain management, email marketing, search engine placement, data gathering, shopping carts, intermediary marketing and global marketing. This course will cover the essential concepts and practices of virtual buying and selling and its impact on current marketing strategies.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 705",
+            "course_name": "Freshman Sem: Communicat Ion & Technology I",
+            "description": "ISMM1-UC  705 Freshman Sem: Communicat Ion & Technology I",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 706",
+            "course_name": "Freshmn Sem: Com Tech II",
+            "description": "ISMM1-UC  706 Freshmn Sem: Com Tech II",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 708",
+            "course_name": "Managing Database Systms",
+            "description": "ISMM1-UC  708 Managing Database Systms \nThis course examines the theory and principles of basic database design, including data management, modeling techniques, and database manipulation.  Focus will be on the database management team and the process of system development.  Current issues such as programming techniques and languages will be covered.  Students will design and develop a database system.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 710",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17113",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "SILV 515",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Saravanos, Antonios"
+                }
+            ],
+            "course_name": "Project & Innovation Management",
+            "description": "ISMM1-UC  710 Project & Innovation Management",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 719",
+            "course_name": "Visual Presentations With Applications",
+            "description": "ISMM1-UC  719 Visual Presentations With Applications \nPresentations that combine graphics, charts, text, and the spoken word are the most effective means of communicating ideas. How to visually represent numeric data; use color effectively; and organize ideas into persuasive presentations are topics that are explored. Hands-on exercises use Microsoft PowerPoint. (formerly Effective Visual Presentations)",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 720",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17114",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "Greenberg, Allan",
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Networking Architecture & Protocols",
+            "description": "ISMM1-UC  720 Networking Architecture & Protocols \nNetworking Architecture and Protocols will provide the student with a detailed understanding of networking technologies and network principles and how they are used in distributed information systems. Topics include: the OSI model, client server concepts, proprietary and open source computing platforms and network operating systems; current and legacy network architecture including Ethernet and Token Ring; data packet architecture and the TCP/IP protocol suite.",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 721",
+            "course_name": "Network Administration and Management",
+            "description": "ISMM1-UC  721 Network Administration and Management \nNetworking Administration prepares students to install servers; administer resources, manage and troubleshoot hardware and drivers; monitor and optimize system performance and reliability; development and implement backup procedures; use diagnostic tools; configure, install and troubleshoot protocols and services including DNS, DHCP, WINS, TCP/IP and NAT. The course will also introduce students to enterprise security solutions.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 722",
+            "course_name": "Networking Interconnectivity",
+            "description": "ISMM1-UC  722 Networking Interconnectivity \nObtain a broad understanding of the hardware, protocols and services associated with network interconnectivity, including WAN principles, wi-fi (802.11 a,b,g\u2026), common carriers, bridges, routers, mainframe connectivity, VPN (virtual private networks), VOIP, TCP/IP protocol functionality, IP addressing and subnetting, principles of routing algorithms such as distance vector and link state, and analysis of common and proprietary routing protocols such as RIP and IGRP EIGRP.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 723",
+            "course_name": "Networking Security & Privacy Issues",
+            "description": "ISMM1-UC  723 Networking Security & Privacy Issues \nThis course covers the fundamental concepts of information security focusing on intrusion detection and analysis, viruses, worms, trojan horses, computer forensics, and legal and privacy issues. The course also introduces the student to the issues surrounding HIPPA and Sarbanes-Oxley compliance legislation",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 724",
+            "course_name": "Web Architecture & Infrastructure",
+            "description": "ISMM1-UC  724 Web Architecture & Infrastructure \nWeb Architecture and Infrastructure will provide the student with an understanding of how large-scale websites are put together.  Topics will include Web Server Software, Web Services: email, FTP, HTTP, firewalls/security, Client-Server concepts content management systems, LDAP, DNS and more.  A detailed analysis of industry terms will also be covered including scalability, clustering, server farms, and high availability.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 725",
+            "course_name": "",
+            "description": "ISMM1-UC  725\n\n   Disaster Recovery & Continuity Planning\n\nThis course addresses key professional competencies involved in enterprise continuity and disaster planning. Natural disasters, cyberattacks, and national emergency situations such as terrorism represent significant dangers to the ongoing operations and objectives of an organization. Likewise, significant structural changes due to mergers and acquisitions, outsourcing, and reorganization can also threaten the ongoing operations of an enterprise. This course gives student the skills to analyze risks, assess business impacts, create an enterprise continuity strategy, as well as construct, test, ...\n\n      more description for ISMM1-UC  725 \u00bb\n\n      \n\n\n\nThis course addresses key professional competencies involved in enterprise continuity and disaster planning. Natural disasters, cyberattacks, and national emergency situations such as terrorism represent significant dangers to the ongoing operations and objectives of an organization. Likewise, significant structural changes due to mergers and acquisitions, outsourcing, and reorganization can also threaten the ongoing operations of an enterprise. This course gives student the skills to analyze risks, assess business impacts, create an enterprise continuity strategy, as well as construct, test, and maintain a recovery and continuity plan.\n\n      less description for ISMM1-UC  725 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 726",
+            "course_name": "Web Development Basics",
+            "description": "ISMM1-UC  726 Web Development Basics \nThis hands-on course teaches student how to develop professional-looking and maintainable web sites using the XHTML markup language to specify content and Cascading Style Sheets (CSS) to specify format. The student will develop web pages containing form controls that pass information to the server. The course analyzes Client-Server interactions and explores several competing technologies.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 727",
+            "course_name": "Design and Programming for the Web",
+            "description": "ISMM1-UC  727 Design and Programming for the Web \nThis course teaches JavaScript as it relates to web page development. The course discusses JavaScript core language, including JavaScript data types and variables, expressions and operators, functions, arrays, and objects. The course also examines the Document Object Model and the JavaScript event model and explains how you can combine these to interact with HTML components to create dynamic web content. The course also explores how to interact with HTML forms, and how to create, manipulate and save client-side cookies.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 728",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17115",
+                    "section": "001",
+                    "period": "09/14/2015 - 11/02/2015",
+                    "location": "Miceli, Nicholas",
+                    "time": "Mon 6.20 PM - 9.01 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Programming Languages:",
+            "description": "ISMM1-UC  728 Programming Languages: \nThis course provides students with an introduction to the Java programming language and programming techniques using lectures, demonstrations, and labs. The course is designed for students who already have some programming experience. Extensive lab exercises throughout the course provide opportunities to gain practical experience with the Java language. Topics include: types, variables, and operators; methods; conditionals; loops; classes and objects; packages; interfaces; inheritance; exceptions; and file I/O.",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 729",
+            "course_name": "Mobile Application Development:",
+            "description": "ISMM1-UC  729 Mobile Application Development: \nThis course is an introduction to developing native applications for mobile devices. The course alternates focusing on common mobile platforms, including: Blackberry, iOS, and Android. The course is intended to be project-based and assumes participants already have a strong background in programming. During the semester students will complete weekly small labs and one substantial course project.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 730",
+            "course_name": "E-Commerce Law & Regulation",
+            "description": "ISMM1-UC  730 E-Commerce Law & Regulation \nThis course discusses significant areas of law that have an impact on the world of eCommerce. Topics include: commercial law; jurisdiction over internet based activity; intellectual property law; the protection of databases and collections of information; the domain names system; privacy and related rights; the online contracting environment.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 731",
+            "course_name": "Introduction to Cloud Computing",
+            "description": "ISMM1-UC  731 Introduction to Cloud Computing \nCloud computing is a term that is used to describe a variety of computing concepts that involve a large number of computers connected through a real-time communication network such as the Internet. This course introduces students to the emerging cloud computing paradigm and explores several systems topics in cloud computing, including: concept and motivation; virtualization; technologies; architectures; networking; storage and filesystems; programming models; and application development.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 740",
+            "course_name": "Database Systems",
+            "description": "ISMM1-UC  740 Database Systems \nThis course provides a thorough understanding of the mature of data and the methods used in its storage and retrieval.  Course topics will include: overview of data structures; relational, hierarchical. And network data models; review off major features or Oracle and SQL Server; object-oriented databases; XML databases; database middleware.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 741",
+            "course_name": "Database Administration",
+            "description": "ISMM1-UC  741 Database Administration \nThis course focuses on using a DBMS effectively and insuring that the data is both accurate and secure.  Legagl requirements regaradiung privacy will be presented. Course topics will include: fine tuning system performance, data validity and data security and privacy issues, data dictionaries, backup procedures, disaster recovery planning, distributed databases and report generator software.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 742",
+            "course_name": "Business Intelligence",
+            "description": "ISMM1-UC  742 Business Intelligence \nThis course examines how to use existing business data to develop optimum business strategies.  Having the information on a DBMS or other machine-readable form and being able to make the data compatible for analytic applications, as well as examples of such analysis will be the focus of this course.  Course topics will include: type of data available: transactional, non-operational, metadata; nomenclature of data: classes, clusters, associations, patterns; levels of analysis: decision trees; rule induction, statistical, etc.; technology infrastructure required, presentation of analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 743",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17116",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "Acquaro, Paul",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Web Database Design",
+            "description": "ISMM1-UC  743 Web Database Design \nStudents in this course learn both MySQL and PHP (an open source language that has gained wide popularity in the web development community) to design user-friendly, form-based XHTML front ends that communicate with MySQL database servers.",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 744",
+            "course_name": "Advanced SQL Programming",
+            "description": "ISMM1-UC  744 Advanced SQL Programming",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 746",
+            "course_name": "Fundamentals of Computing",
+            "description": "ISMM1-UC  746 Fundamentals of Computing \nFocuses on VBA (Visual Basic for Applications). An initial introduction to programming principles provides the methodology for writing Microsoft Office VBA macros. Hands-on assignments demonstrate how VBA macros enhance the problem-solving capabilities of Microsoft Office for the business user.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 747",
+            "course_name": "Multimedia Presentations",
+            "description": "ISMM1-UC  747 Multimedia Presentations \nThis course directs the student?s efforts in using multimedia capabilities of the PC to develop more effective business presentations, instructional materials, computer games, etc.  Particular attention is given to integrating digital video, audio, and computer animation into attention-getting presentations.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 748",
+            "course_name": "The Busn of Cyberspace",
+            "description": "ISMM1-UC  748 The Busn of Cyberspace \nExploration of the availability of information via the Internet and subscriber information services. Topics include: a survey of providers; how to perform an efficient search; how to integrate downloaded data into your applications; and how to make your data available by creating your own website and web pages.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 749",
+            "course_name": "Intro to The Internet",
+            "description": "ISMM1-UC  749 Intro to The Internet \nThis course is designed to provide students with an overview of Internet Technology. Students will learn the Web, email, newsgroups, mailing lists and downloading. The course explains how to manage electronic tools and Internet resources. Network security, architecture and ongoing development in the area are also discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 751",
+            "course_name": "Networking",
+            "description": "ISMM1-UC  751 Networking \nFocuses on the benefits and problems in installing and using local area networks. LAN standards; LAN connectivity; and LAN administration issues are explored in detail. The functionality of a network operating system and a comparative analysis of available systems are also key topics.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 752",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17117",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "Saravanos, Antonios",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Systems Analy & Design",
+            "description": "ISMM1-UC  752 Systems Analy & Design \nFocuses on the concepts and techniques involved in analyzing, designing, and documenting the requirements for business information systems. Topics include feasibility, justification, specifications, design, implementation, equipment selection, documentation, and performance evaluation.",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 753",
+            "course_name": "Perf Enhancement Prg",
+            "description": "ISMM1-UC  753 Perf Enhancement Prg",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 761",
+            "course_name": "Management of Risk and Quality",
+            "description": "ISMM1-UC  761 Management of Risk and Quality \nThis course explores the principles, history, and ongoing challenges of information systems auditing. It covers IT auditing as it relates to the roles of IS auditors, productivity tools, risk management, quality management,  software acquisitions processes, change management, operational control, and information system development. It also delvest into emerging issues such as the legal environment, privacy, and career planning and development. This course is extremely useful for those planning to become a Certified Information Systems Auditor (CISA).",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 762",
+            "course_name": "Information Security Management",
+            "description": "ISMM1-UC  762 Information Security Management \nThis course looks at the information vulnerabilities and threats facing the enterprise from a management perspective. While examining various processes and issues (identification of assets, data security, archiving and backing up, information destruction, intellectual property rights, and forensics) it focuses on the development of written policy documents and review processes.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 763",
+            "course_name": "Information Management Compliance",
+            "description": "ISMM1-UC  763 Information Management Compliance \nThis course examines how a wide range of regulations and standards are guiding enterprise information systems and technologies. Regulations such as Sarbanes-Oxley, HIPAA, Gramm Leach Billey Act, and California privacy laws have a direct bearing on control objectives related to security, records management, and privacy.  Disparate requirements challenge compliance managers to search out, and in many cases construe, broad responsibilities related to defining objectives.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 771",
+            "course_name": "Management Info Systems",
+            "description": "ISMM1-UC  771 Management Info Systems \nFocuses on the information needs at each level of management in a corporation and how these needs must be met by an integrated information system. The tasks necessary in the development, maintenance, and operation of the information system are defined.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 1971",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10048",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "ISMM1-UC 1971 Independent Study \nStudents conduct an independent investigation of selected topics outside the boundaries of the classroom. Independent study allows students to pursue specialized interests, within the framework of the curriculum, that are not available in existing courses. Although self-directed, students work closely with a faculty mentor who guides and evaluates their work.",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 7990",
+            "course_name": "Spec Top in Information Systems Management",
+            "description": "ISMM1-UC 7990 Spec Top in Information Systems Management \nProvides the opportunity for intensive study of specific topics in Information Systems Management, focusing on a different theme of a topic each time it is offered. The specific topic is listed in the course schedule for the semester.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 7991",
+            "course_name": "Senior Project: Seminar",
+            "description": "ISMM1-UC 7991 Senior Project: Seminar \nThe graduation project consists of either a seminar\nproject or an internship. The seminar allows students\nto develop a project under the guidance of a\nfaculty mentor. The seminar requires regular class\nattendance to discuss projects and to document\nthem, as well as individual meetings with the\nmentor. The projects themselves may be in one of\nthe degree?s various concentration areas. Projects\nmust be the student?s individual, original work\nand include the product, the technical documentation,\nand a learning experience essay summarizing\nthe process and skills used.",
+            "offering": false
+        },
+        {
+            "course_id": "ISMM1-UC 7992",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9746",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "Burns, William",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "ISMM1-UC 7992\n\n   Senior Project: Intrnshp\n\nThe graduation project consists of either a seminar\nproject or an internship. The internship provides\nan opportunity for students to use knowledge\ngained in their major combined with the knowledge\nprovided by professionals in a variety of\nindustry settings. Students are required to complete\na minimum of 100 hours during the semester\nto earn four credits. (Students? full-time jobs\ncannot serve as internships.) In addition to hours\nat their placement, they meet regularly with the\ninternship coordinator, maintain weekly logs or\njournals, and complete a final learning experience\nessay summarizing ...\n\n      more description for ISMM1-UC 7992 \u00bb\n\n      \n\n\n\nThe graduation project consists of either a seminar\nproject or an internship. The internship provides\nan opportunity for students to use knowledge\ngained in their major combined with the knowledge\nprovided by professionals in a variety of\nindustry settings. Students are required to complete\na minimum of 100 hours during the semester\nto earn four credits. (Students? full-time jobs\ncannot serve as internships.) In addition to hours\nat their placement, they meet regularly with the\ninternship coordinator, maintain weekly logs or\njournals, and complete a final learning experience\nessay summarizing the outcome, including samples\nof work completed.\n\n      less description for ISMM1-UC 7992 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ISMM1-UC 7993",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9903",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Project:  Independent Study - Information Systems Management",
+            "description": "ISMM1-UC 7993 Senior Project:  Independent Study - Information Systems Management",
+            "offering": true
+        }
+    ]
+}

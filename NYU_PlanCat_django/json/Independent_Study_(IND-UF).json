@@ -1,0 +1,40 @@
+{
+    "major_id": "IND-UF",
+    "file": "./2015-2016/Independent_Study_(IND-UF).html",
+    "courses": [
+        {
+            "course_id": "IND-UF 301",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "12144",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Squillace, Robert",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "12283",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Squillace, Robert",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "IND-UF  301 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "IND-UF 9301",
+            "course_name": "Independent Study",
+            "description": "IND-UF 9301 Independent Study",
+            "offering": false
+        }
+    ]
+}

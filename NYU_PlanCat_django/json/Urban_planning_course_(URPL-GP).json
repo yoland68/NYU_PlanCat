@@ -1,0 +1,584 @@
+{
+    "major_id": "URPL-GP",
+    "file": "./2015-2016/Urban_planning_course_(URPL-GP).html",
+    "courses": [
+        {
+            "course_id": "URPL-GP 261",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "17347",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.35 PM - 9.35 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                }
+            ],
+            "course_name": "Geographic Information Systems Laboratory",
+            "description": "URPL-GP  261 Geographic Information Systems Laboratory",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 263",
+            "classes": [
+                {
+                    "format": "Recitation",
+                    "class_id": "5245",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.35 PM - 9.35 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                }
+            ],
+            "course_name": "Real Estate Finance Discussion",
+            "description": "URPL-GP  263 Real Estate Finance Discussion",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 1603",
+            "course_name": "Urban Planning Methods and Practice",
+            "description": "URPL-GP 1603 Urban Planning Methods and Practice \nRequired for M.U.P. students.\n\nThe political and institutional environment within which planning occurs. The relationship of planning to political and market processes, the structure of urban and regional political systems, and alternative strategies for planning in urban communities.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 1605",
+            "course_name": "Land Use Law: The Planning Perspective",
+            "description": "URPL-GP 1605 Land Use Law: The Planning Perspective \nLegal and administrative aspects of regulating land use at various levels of government, and understanding the changing legal framework of the regulations such as zoning, urban renewal and eminent domain, inverse condemnation, landmarks and aesthetic controls, environmental laws, growth management and the relationship of the planner to the law.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 1620",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5079",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Galipo, Eric; Stainbrook, Steven"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5081",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.35 PM - 9.35 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5080",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Galipo, Eric; Stainbrook, Steven"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "5082",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC19",
+                    "time": "Wed 8.35 PM - 9.35 PM",
+                    "open": true,
+                    "professor": "Tuttle, Robert"
+                }
+            ],
+            "course_name": "Introduction to Urban Physical Design",
+            "description": "URPL-GP 1620 Introduction to Urban Physical Design \nRequired for M.U.P. students.\n\nAn introduction to the issues in urban physical design and the vocabulary and skills of urban designers and other physical planners. Emphasis is on techniques and approaches to understanding and interpreting the physical environment, primarily in urban settings.",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2251",
+            "course_name": "",
+            "description": "URPL-GP 2251\n\n   Urbanization and Sustainable Development in a Transitional Economy: Shanghai\n\nWithin the next 20 years, China will move 300 million people, similar size as the US population, from rural to urban areas. The massive and rapid urbanization poses tremendous challenges to environment and sustainability, but also offer great opportunities for industrial restructuring and economic development. This process is accompanied with the transition from a centrally-controlled to a market-oriented economy. This course exposes students to diverse issues under this context such as urban renewal, motorization, land use planning, public finance in infrastructure, housing reform, real estat...\n\n      more description for URPL-GP 2251 \u00bb\n\n      \n\n\n\nWithin the next 20 years, China will move 300 million people, similar size as the US population, from rural to urban areas. The massive and rapid urbanization poses tremendous challenges to environment and sustainability, but also offer great opportunities for industrial restructuring and economic development. This process is accompanied with the transition from a centrally-controlled to a market-oriented economy. This course exposes students to diverse issues under this context such as urban renewal, motorization, land use planning, public finance in infrastructure, housing reform, real estate development, property rights, economic development zones, environmental protection, alternative energy, social welfare, etc. The twelve-day course will be held in NYU Center in Shanghai, and combines classroom lectures, local guest speakers, visits to local organizations, and field trips in Shanghai and nearby towns and villages.\n\n      less description for URPL-GP 2251 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2415",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5100",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 279",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Moss, Mitchell"
+                }
+            ],
+            "course_name": "Public Policy and Planning in New York",
+            "description": "URPL-GP 2415 Public Policy and Planning in New York \nThis course explores current issues and problems facing the city of New York with an emphasis on economic development, land use, mass transit, school governance, neighborhood preservation, regional competition, and federal urban policies. Students prepare case studies-individually and in groups- on current planning and policy issues.",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2452",
+            "course_name": "",
+            "description": "URPL-GP 2452\n\n   Transformation of the Urban Economy: Case Studies\n\nThis course examines the tools, tactics, and theories associated with the economic revitalization of cities.  Explicit theories and implicit assumptions about the economic life of cities will be illuminated through numerous real-world case studies, some of which will involve the instructor\u2019s hands-on experience with urban park revitalization and the transformation of Times Square.  Through specific examples we will examine how ideas about urban economic development shift across time and place, to better identify deeper truths.  While reviewing the standard tools in the economic development too...\n\n      more description for URPL-GP 2452 \u00bb\n\n      \n\n\n\nThis course examines the tools, tactics, and theories associated with the economic revitalization of cities.  Explicit theories and implicit assumptions about the economic life of cities will be illuminated through numerous real-world case studies, some of which will involve the instructor\u2019s hands-on experience with urban park revitalization and the transformation of Times Square.  Through specific examples we will examine how ideas about urban economic development shift across time and place, to better identify deeper truths.  While reviewing the standard tools in the economic development toolbox, we will also look at relevant ideas and practices in corporate branding and competitive strategy, managing public space, nurturing creative industries, and changing regulations.  Across all categories and case studies, we will repeatedly ask: What are the things that make cities thrive and grow, and how does one nurture those things?\n\n      less description for URPL-GP 2452 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2470",
+            "course_name": "Transportation Policy",
+            "description": "URPL-GP 2470 Transportation Policy \nThis course examines key features of transportation policy in the United States, including the framework for public policy making, the principal governmental policies and programs, as well as the successes and failures of these policies. The course is mainly concerned with passenger transportation in metropolitan regions.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2471",
+            "course_name": "",
+            "description": "URPL-GP 2471\n\n   Transportation Policy and Behavior\n\nThis course examines the behavioral foundation for policy design, using urban transportation as examples. We introduce multiple frameworks of understanding travel behavior, rational or irrational, contrasting the perspectives of classic economic theory with behavioral economics and social psychology, and suggest corresponding policy interventions: a behavior--theory--policy mapping. Then we present a spectrum of instruments for positively influencing behavior and improving welfare: from manipulating information and changing perceptions of time and space, to pricing and framing, to inducing emo...\n\n      more description for URPL-GP 2471 \u00bb\n\n      \n\n\n\nThis course examines the behavioral foundation for policy design, using urban transportation as examples. We introduce multiple frameworks of understanding travel behavior, rational or irrational, contrasting the perspectives of classic economic theory with behavioral economics and social psychology, and suggest corresponding policy interventions: a behavior--theory--policy mapping. Then we present a spectrum of instruments for positively influencing behavior and improving welfare: from manipulating information and changing perceptions of time and space, to pricing and framing, to inducing emotions of pride and shame, exploiting peer pressure or enhancing self-control and motivation, and to nudging and preference shaping. Most importantly the course challenges students 1) to critique, design, implement and interpret experiments that nudge travel behavior; and 2) to bring behavioral insights to creative design of transport polices, programs and plans\u2014making them not only efficient and equitable but also simpler, consistent, transparent, acceptable, and adaptive to behavioral changes.\n\n      less description for URPL-GP 2471 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2608",
+            "course_name": "",
+            "description": "URPL-GP 2608\n\n   Urban Economics\n\nRequired for M.U.P. students.\n\nNote: P11.1011 (Statistical Methods for Public, Nonprofit, and Health Management) must be taken prior to OR concurrently with this course.\n\nThis course introduces students to the economic forces that shape the spatial development of cities and metropolitan areas. The course examines why cities exist and why some grow more quickly than others. It also explores the location choices of households and firms within metropolitan areas and the resulting land use patterns. Finally, the course examines the spatial aspects of a variety of urban policy issues, such as pover...\n\n      more description for URPL-GP 2608 \u00bb\n\n      \n\n\n\nRequired for M.U.P. students.\n\nNote: P11.1011 (Statistical Methods for Public, Nonprofit, and Health Management) must be taken prior to OR concurrently with this course.\n\nThis course introduces students to the economic forces that shape the spatial development of cities and metropolitan areas. The course examines why cities exist and why some grow more quickly than others. It also explores the location choices of households and firms within metropolitan areas and the resulting land use patterns. Finally, the course examines the spatial aspects of a variety of urban policy issues, such as poverty, segregation, urban decay, crime, congestion, and pollution. Assignments involve the analysis of census data for the New York metropolitan area.\n\n      less description for URPL-GP 2608 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2610",
+            "course_name": "Environmental Impact Assessment",
+            "description": "URPL-GP 2610 Environmental Impact Assessment \nThe legal and regulatory contexts for federal, state, and local environmental impact analysis; techniques and procedures for conducting and evaluating impact assessments for public and private development projects. (This course is also held as a summer institute.)",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2611",
+            "course_name": "",
+            "description": "URPL-GP 2611\n\n   Politics of Infrastructure\n\nThis course will look at New York's hidden infrastructure - the largely unseen but massively complex networks that have underpinned New York's growth and continued strength as a commercial center. It examines the history and operations of the systems in place today - ranging from water, garbage and energy to roadways, ports and telecom - while delving in greater depth into some of the policy issues confronting service-providers and policymakers working in each of these areas.  \n\nKate Ascher is currently Director of Development at Vornado Realty Trust in Manhattan.  She was previously Executi...\n\n      more description for URPL-GP 2611 \u00bb\n\n      \n\n\n\nThis course will look at New York's hidden infrastructure - the largely unseen but massively complex networks that have underpinned New York's growth and continued strength as a commercial center. It examines the history and operations of the systems in place today - ranging from water, garbage and energy to roadways, ports and telecom - while delving in greater depth into some of the policy issues confronting service-providers and policymakers working in each of these areas.  \n\nKate Ascher is currently Director of Development at Vornado Realty Trust in Manhattan.  She was previously Executive Vice-President for Infrastructure at the Economic Development Corporation, a non-profit corporation serving New York City. In that capacity, she oversaw city policy with respect to a variety of areas including energy and telecommunications policy and marine and air transportation.  Kate holds both Masters and Doctorate degrees in Government from the London School of Economics, as well as a Bachelor's\ndegree from Brown University.\n\n      less description for URPL-GP 2611 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2612",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5102",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B06",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Zimmerman, Rae"
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 2612\n\n   Adapting the Physical City\n\nA revolution has been occurring in the way energy, transportation, and water services are provided and used that goes beyond the boundaries of individual buildings and communities. Students will obtain the knowledge and skills to incorporate these new technologies and changes in user behavior into the planning of neighborhoods, communities and regions to conserve energy and water resources and reduce the consequences of service disruptions. CommunicatioA revolution has been occurring in the way energy, transportation, and water services are provided and used that goes beyond the boundaries of ...\n\n      more description for URPL-GP 2612 \u00bb\n\n      \n\n\n\nA revolution has been occurring in the way energy, transportation, and water services are provided and used that goes beyond the boundaries of individual buildings and communities. Students will obtain the knowledge and skills to incorporate these new technologies and changes in user behavior into the planning of neighborhoods, communities and regions to conserve energy and water resources and reduce the consequences of service disruptions. CommunicatioA revolution has been occurring in the way energy, transportation, and water services are provided and used that goes beyond the boundaries of individual buildings and communities. Students will obtain the knowledge and skills to incorporate these new technologies and changes in user behavior into the planning of neighborhoods, communities and regions to conserve energy and water resources and reduce the consequences of service disruptions. Communications and information technology often provide vital links for energy, water and transportation and are also covered in the context of their influence on these other services. Methods to balance alternative approaches in planning and policy frameworks are also emphasized. \n\n      less description for URPL-GP 2612 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2613",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5103",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Restrepo, Carlos"
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 2613\n\n   Sustainable Cities\n\nThe growth of cities around the world is related closely to the simultaneous growth in humanity's population; our technological and economic activity; our social organization; and our physical consumption of land and resources. This course explores the following questions: why is sustainability important; how can we judge theories of sustainable urban development; what are the key issues in understanding the environmental impact of cities; how can our cities become more sustainable.\n\nThe primaThe growth of cities around the world is related closely to the simultaneous growth in humanity's popu...\n\n      more description for URPL-GP 2613 \u00bb\n\n      \n\n\n\nThe growth of cities around the world is related closely to the simultaneous growth in humanity's population; our technological and economic activity; our social organization; and our physical consumption of land and resources. This course explores the following questions: why is sustainability important; how can we judge theories of sustainable urban development; what are the key issues in understanding the environmental impact of cities; how can our cities become more sustainable.\n\nThe primaThe growth of cities around the world is related closely to the simultaneous growth in humanity's population; our technological and economic activity; our social organization; and our physical consumption of land and resources. This course explores the following questions: why is sustainability important; how can we judge theories of sustainable urban development; what are the key issues in understanding the environmental impact of cities; how can our cities become more sustainable.\n\nThe primary concern of the course will be the physical aspects of sustainability, including the built environment, technology, ecology, biology, and economics.  However, sustainability also raises important questions in philosophy, culture and politics, which this course will not focus on directly.\n\n      less description for URPL-GP 2613 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2615",
+            "course_name": "Environment and Urban Dynamics",
+            "description": "URPL-GP 2615 Environment and Urban Dynamics \nThe development of environmental policy and management in terms of changing goals and technology; environmental measurement, standards, and control technologies for environmental protection; techniques of environmental analysis, including environmental models, for environmental planning for air and water quality and solid and hazardous waste management; legal, administrative, and financial institutions as foundations for environmental management; environmental aspects of siting disputes; role of public involvement in environmental decision making.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2616",
+            "course_name": "",
+            "description": "URPL-GP 2616\n\n   Coll On Law: Eco & Polit of Urb Policy\n\nThis course, taught jointly by faculty members of the School of Law and the Wagner School, offers students an opportunity to explore the theoretical underpinnings of the leading current debates about such critical urban policy issues as whether and how to contain suburban sprawl; the impacts of various efforts to increase the production of affordable housing; and the successes and failures of efforts to improve and equalize the quality of education. The primary focus of the colloquium are discussions of works in progress by scholars from around the county, working in such disciplines as planni...\n\n      more description for URPL-GP 2616 \u00bb\n\n      \n\n\n\nThis course, taught jointly by faculty members of the School of Law and the Wagner School, offers students an opportunity to explore the theoretical underpinnings of the leading current debates about such critical urban policy issues as whether and how to contain suburban sprawl; the impacts of various efforts to increase the production of affordable housing; and the successes and failures of efforts to improve and equalize the quality of education. The primary focus of the colloquium are discussions of works in progress by scholars from around the county, working in such disciplines as planning, law, public policy, and economics. In colloquium weeks, students participate in an in-depth discussion of the paper with the author. Students submit a short paper critiquing the work in progress. In alternate weeks, students meet with faculty to discuss supplemental readings and learn the background necessary to understand each paper.\n\n      less description for URPL-GP 2616 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2618",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5235",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 304",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Rosoff, Stephanie"
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 2618\n\n   Geographic Information Systems and Analysis\n\nUnderstanding geographic relationships between people, land use, and resources is fundamental to planning. Urban planners routinely use spatial analysis to inform decision-making. This course will introduce students to Geographic Information Systems (GIS), a tool to analyze and visualize spatial data. The course will emphasize the core functions of GIS: map making, data management, and spatial analysis. Students will learn cartographic best practices, how to find and create spatial data, spatial analysis methodology, and how to approach problem solving from a geographic perspective. Throughout...\n\n      more description for URPL-GP 2618 \u00bb\n\n      \n\n\n\nUnderstanding geographic relationships between people, land use, and resources is fundamental to planning. Urban planners routinely use spatial analysis to inform decision-making. This course will introduce students to Geographic Information Systems (GIS), a tool to analyze and visualize spatial data. The course will emphasize the core functions of GIS: map making, data management, and spatial analysis. Students will learn cartographic best practices, how to find and create spatial data, spatial analysis methodology, and how to approach problem solving from a geographic perspective. Throughout the course, students will build a portfolio of professional quality maps and data visualizations.\n\n      less description for URPL-GP 2618 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2620",
+            "course_name": "Race & Class in American Cities",
+            "description": "URPL-GP 2620 Race & Class in American Cities \nExamines from a theoretical and empirical perspective how different racial, ethnic, and class interests interact in urban planning and development processes. Focuses on political systems and private market arrangements that affect the allocation and distribution of resources. A comparative approach identifies the ways in which different political regimes have analyzed and planned for the needs of a variety of racial, ethnic, and class interests.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2629",
+            "course_name": "",
+            "description": "URPL-GP 2629\n\n   Innovation in US Cities: New Ideas in Policy, Management and Planning\n\nGovernments are undergoing a shift\u2014some might say a revolution\u2014in their approach to operations, service delivery and policy making. With the rise of infinitely complex issues such as globally linked economies and climate change, as well as growing gaps in confidence in the ability of the public sector to address these challenges, prevailing governance approaches no longer seem adequate. There is a move to more innovative approaches \u2013 that tap into open platforms, cross agency collaborations, public/private partnerships, and public engagement to extend reach and enhance public value creation. \n...\n\n      more description for URPL-GP 2629 \u00bb\n\n      \n\n\n\nGovernments are undergoing a shift\u2014some might say a revolution\u2014in their approach to operations, service delivery and policy making. With the rise of infinitely complex issues such as globally linked economies and climate change, as well as growing gaps in confidence in the ability of the public sector to address these challenges, prevailing governance approaches no longer seem adequate. There is a move to more innovative approaches \u2013 that tap into open platforms, cross agency collaborations, public/private partnerships, and public engagement to extend reach and enhance public value creation. \n\nWith a focus on local government, this course will provide a comprehensive overview of the many facets of a new government paradigm that is taking root in various forms throughout the US. The curriculum is designed to function as a live-lab in which students learn new approaches and tools and directly engage in innovations as they\u2019re happening.  Students themselves will be contributing to the understanding of this nascent field.\n\n      less description for URPL-GP 2629 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2631",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5216",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Bastian, Christian; Wheeler, William"
+                }
+            ],
+            "course_name": "Transportation, Land Use and Urban Form",
+            "description": "URPL-GP 2631 Transportation, Land Use and Urban Form",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2632",
+            "course_name": "Urban Planning & Comm Health: Planning Healthy Neighborhoods",
+            "description": "URPL-GP 2632 Urban Planning & Comm Health: Planning Healthy Neighborhoods",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2639",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5104",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B06",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Reilly, Joseph"
+                }
+            ],
+            "course_name": "Real Estate Finance",
+            "description": "URPL-GP 2639 Real Estate Finance \nThis course will provide students with a working knowledge of the fundamentals of real estate analysis and investment as they relate to economic development.  Topics will include a review of the standard tools of financial analysis and economics as they apply in the real estate and economic development context.  Case studies and examples will be drawn from a variety of real estate asset types including multi-family housing, office, retail, industrial, and land.  The course will consist of a mix of lectures, case studies, discussion, and group presentations.",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2645",
+            "course_name": "Planning for Emergencies and Disasters",
+            "description": "URPL-GP 2645 Planning for Emergencies and Disasters",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2652",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5105",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL145",
+                    "time": "Fri 2.00 PM - 3.40 PM",
+                    "open": true,
+                    "professor": "Romeo, Leonardo"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "17498",
+                    "section": "002",
+                    "period": "09/12/2015 - 09/12/2015",
+                    "location": null,
+                    "time": "Sat 9.30 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "TISC LC1909/26/2015 - 09/26/2015 Sat 9.30 AM - 1.00 PM at TISC LC1910/10/2015 - 10/10/2015 Sat 9.30 AM - 1.00 PM at TISC LC1910/24/2015 - 10/24/2015 Sat 9.30 AM - 1.00 PM at TISC LC1911/07/2015 - 11/07/2015 Sat 9.30 AM - 1.00 PM at TISC LC1911/21/2015 - 11/21/2015 Sat 9.30 AM - 1.00 PM at TISC LC1912/05/2015 - 12/05/2015 Sat 9.30 AM - 1.00 PM at TISC LC19"
+                }
+            ],
+            "course_name": "International Development Project Planning",
+            "description": "URPL-GP 2652 International Development Project Planning \nProjects are key instruments of development administration in developing countries and a widely used modality of international development assistance. The course will focus on public investment projects, with emphasis on urban and rural infrastructure and introduce students to the management of the project cycle, the logical framework approach to project planning and the techniques of financial and economic appraisal of investment projects, including risk analysis and the assessment of distributional effects and impact on poverty.",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2660",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17348",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/21/2015",
+                    "location": "Ballon, Hilary",
+                    "time": "Mon,Wed 2.00 PM - 3.40 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17349",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                }
+            ],
+            "course_name": "History and Theory of Planning",
+            "description": "URPL-GP 2660 History and Theory of Planning \nDescribes and analyzes the evolving pattern of urban and metropolitan development in the United States and provides a historical perspective on the origin and values of city planning and the urban planning profession. Students examine alternative theories of planning and the changing role of the planner in the policy-making process and, through readings and class discussion, gain an understanding of the way in which federal, state, and local policies influence urban and regional development.",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2665",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5236",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 2665\n\n   Decentralized Development Planning and Policy Reform in Developing Countries\n\nThis class presents an overview of the theory and practice of planning in developing countries. A central theme is that the structure of a planning system and its success in producing good results depends heavily on the economic, political, institutional, and cultural context of a particular country. Conceptual planning models are considered and evaluated, but the focus of the class is on analyzing how planning systems can work effectively in different country contexts. Detailed case studies drawn from the work of the Institute of Public Administration and exercises based on these cases are an...\n\n      more description for URPL-GP 2665 \u00bb\n\n      \n\n\n\nThis class presents an overview of the theory and practice of planning in developing countries. A central theme is that the structure of a planning system and its success in producing good results depends heavily on the economic, political, institutional, and cultural context of a particular country. Conceptual planning models are considered and evaluated, but the focus of the class is on analyzing how planning systems can work effectively in different country contexts. Detailed case studies drawn from the work of the Institute of Public Administration and exercises based on these cases are an integral part of the class.\n\n      less description for URPL-GP 2665 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2666",
+            "course_name": "",
+            "description": "URPL-GP 2666\n\n   Water Sourcing and Climate Change\n\nIn the coming decades, water will be the central issue in global economic development and hIn the coming decades, water will be the central issue in global economic development and health.  With one in six people around the world currently lacking access to safe drinking water (1.2 billion people), and more than two out of six lacking adequate sanitation (2.6 billion people), water is already a critical factor affecting the social and economic well-being of a sizable proportion of the world's population.  However, with the world's population projected to double in over the next fifty years, an...\n\n      more description for URPL-GP 2666 \u00bb\n\n      \n\n\n\nIn the coming decades, water will be the central issue in global economic development and hIn the coming decades, water will be the central issue in global economic development and health.  With one in six people around the world currently lacking access to safe drinking water (1.2 billion people), and more than two out of six lacking adequate sanitation (2.6 billion people), water is already a critical factor affecting the social and economic well-being of a sizable proportion of the world's population.  However, with the world's population projected to double in over the next fifty years, and with rapidly dwindling water supplies becoming both more scarce and more volatile as a result of global warming, we are likely to face a water crisis so severe it will reshape everything from our governance structures to our modes of economic and agricultural production to our patterns of social interaction.  Water will be the axis around which all public policy revolves.\n\nIn light of the centrality of water as a current and future public policy issue, this course explores innovative and sustainable solutions for water harvesting and distribution to address the challenges presented by anthropogenic climate change.  The field of water harvesting and delivery has generally considered water supplies to be fairly stable, available to be sourced in the same places.  As a result, water infrastructure management has traditionally been concerned with efficient methods of water sourcing, delivery, and purification, and with effective methods of cost-recovery for those services. In this course, we will step out of this conventional framework and look at water provision from a new vantage point:  instead of taking water supplies as a constant, we will look at how water sources are changing as a function of global warming and increased population pressures, and then will ask what implications these shifts are likely to have for water sourcing and water distribution.\n\n      less description for URPL-GP 2666 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2670",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5106",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Gerecke, Sarah; Salama, Jerry",
+                    "time": "Mon 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 2670\n\n   Land Use, Housing and Development\n\nThis interdisciplinary seminar brings together law, urban planning and public policy students to analyze historical and contemporary trends in affordable housing, community development, land use, and housing finance using New York City as a laboratory that is both unique from, and similar to, other American cities.  The course focuses on housing/community development policy, real estate and mortgage financing, subsidies, community participation, environmental impact, and neighborhood change such as gentrification and displacement, with particular emphasis upon how issues of race, poverty, and ...\n\n      more description for URPL-GP 2670 \u00bb\n\n      \n\n\n\nThis interdisciplinary seminar brings together law, urban planning and public policy students to analyze historical and contemporary trends in affordable housing, community development, land use, and housing finance using New York City as a laboratory that is both unique from, and similar to, other American cities.  The course focuses on housing/community development policy, real estate and mortgage financing, subsidies, community participation, environmental impact, and neighborhood change such as gentrification and displacement, with particular emphasis upon how issues of race, poverty, and the economic climate affect federal, state, local and community responses.  We will discuss the causes and consequences of government intervention in housing and neighborhoods, developing tools for students to determine the need for public intervention, the optimal design and financing of housing and community development programs, and how to evaluate success.\n\nPermission of instructors required to register. Please contact Academic Services to register.\n\nThe course is taught at the School of  Law.\n\n      less description for URPL-GP 2670 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 2680",
+            "course_name": "",
+            "description": "URPL-GP 2680\n\n   Advanced Urban Design: Creating Green Cities\n\nThis studio design course offers students the opportunity to conceptualize, plan and test solutions in sketch fashion on variously sized tracts of land.  Through the semester students will be exposed to different building types, typical parking solutions, the\ninteraction of costs and design, and the methodology a developer might use when deciding whether or not to pursue a project. Students will work in teams of two and three on four separate and\nsequential \"sketch\" problems.  At the completion of each problem, students \nwill present their work at a class review session.  During the semeste...\n\n      more description for URPL-GP 2680 \u00bb\n\n      \n\n\n\nThis studio design course offers students the opportunity to conceptualize, plan and test solutions in sketch fashion on variously sized tracts of land.  Through the semester students will be exposed to different building types, typical parking solutions, the\ninteraction of costs and design, and the methodology a developer might use when deciding whether or not to pursue a project. Students will work in teams of two and three on four separate and\nsequential \"sketch\" problems.  At the completion of each problem, students \nwill present their work at a class review session.  During the semester students\nwill also be asked to review various historic plans, and to make presentations and critiques of these plans.\n\n      less description for URPL-GP 2680 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2690",
+            "course_name": "",
+            "description": "URPL-GP 2690\n\n   Advanced Geographical Information Systems and Data Management\n\nThe course focuses on a number of advanced GIS methods now available in ArcGIS 9.0. Students will plan and conduct GIS projects in areas such as urban, environment, and transportation planning, housing, health care delivery, emergency management, etc. \n\nThe primary purpose of this course is to extend and build on the knowledge and skills that students acquired in Introductory GIS courses or through their hands-on experience using GIS. Students will be able to apply the advanced GIS skills they will acquire in this class immediately in their current work, in Capstone projects, and in their fu...\n\n      more description for URPL-GP 2690 \u00bb\n\n      \n\n\n\nThe course focuses on a number of advanced GIS methods now available in ArcGIS 9.0. Students will plan and conduct GIS projects in areas such as urban, environment, and transportation planning, housing, health care delivery, emergency management, etc. \n\nThe primary purpose of this course is to extend and build on the knowledge and skills that students acquired in Introductory GIS courses or through their hands-on experience using GIS. Students will be able to apply the advanced GIS skills they will acquire in this class immediately in their current work, in Capstone projects, and in their future public service professional careers. \n\nIt is anticipated that by the end of the course, students will have a good working knowledge of spatial analysis, geodatabase design and management, modeling various analyses, and mapping with ArcGIS. The uses of GIS are explored from a management point of view, rather than that of the GIS specialist.\n\n      less description for URPL-GP 2690 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 2700",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17354",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "SILV 509"
+                }
+            ],
+            "course_name": "Topics in Urban Planning",
+            "description": "URPL-GP 2700 Topics in Urban Planning",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 4237",
+            "course_name": "Urbanization in Developing Coountries",
+            "description": "URPL-GP 4237 Urbanization in Developing Coountries",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4604",
+            "course_name": "Conflict Management in Planning",
+            "description": "URPL-GP 4604 Conflict Management in Planning \nTo Be Inserted.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4606",
+            "course_name": "Comparative Land Use Planning",
+            "description": "URPL-GP 4606 Comparative Land Use Planning",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4611",
+            "course_name": "",
+            "description": "URPL-GP 4611\n\n   Intelligent Cities: Technology Policy and Planning\n\nGlobal urbanization is driving demand for an estimated $40 trillion in infrastructure over the next two decades, and information technology spreading off the desktop and out of offices and homes into everyday objects. As these two trends collide, a broad range of stakeholders - the information technology industry, real estate developers, technology startups, citizens and civic leaders \u2013 are all looking for new opportunities to address both existing and emerging urban problems using \u201cintelligent\u201d systems. This course will cut through the thick hype around intelligent cities by discussing - what...\n\n      more description for URPL-GP 4611 \u00bb\n\n      \n\n\n\nGlobal urbanization is driving demand for an estimated $40 trillion in infrastructure over the next two decades, and information technology spreading off the desktop and out of offices and homes into everyday objects. As these two trends collide, a broad range of stakeholders - the information technology industry, real estate developers, technology startups, citizens and civic leaders \u2013 are all looking for new opportunities to address both existing and emerging urban problems using \u201cintelligent\u201d systems. This course will cut through the thick hype around intelligent cities by discussing - what are intelligent cities really? Where, why and by whom are they being built? What are the intended and unintended potential consequences? What is the role of urban policy and planning in shaping their evolution? Students are expected to have some basic knowledge of fundamentals of urban planning. This is not a technology or engineering course \u2013 technical concepts will be explored during the lectures as needed to explain their significance in urban affairs.\n\n      less description for URPL-GP 4611 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4617",
+            "course_name": "Environmental Law",
+            "description": "URPL-GP 4617 Environmental Law \nThis course examines environmental laws concerning air and water quality, solid and hazardous waste, and toxic torts from the perspectives of property transfer, liability, public disclosure, citizens suits, enforcement, the application of health and environmental standards, and other topics.",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4620",
+            "course_name": "Race and Class in American Cities",
+            "description": "URPL-GP 4620 Race and Class in American Cities \nAmerican cities are comprised of residents from a great diversity of nations, cultures, religions, and political philosophies. Consequently, conflicts surrounding race, ethnicity, class, and gender are often at the center of disputes about the use of public space and the allocation of city resources. This course examines the patterns of racial\u2010ethnic, class, and gender inequality in American cities. We shall address how these inequalities emerge, how they are perpetuated, and the role of public policy in addressing these social problems.\n\nPrerequisites: None",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4622",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5241",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/20/2015",
+                    "location": "SILV 621",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Brazill, Caitlyn"
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 4622\n\n   Wealth and Inequality: Asset Development and Poverty Reduction in the U.S.\n\nFinancial assets underpin the economic fabric of the U.S. Households' ability to accumulate wealth is a function of income, private financial products and services, and public policy. This course will examine how the accumulation of such assets - namely land, homes, and investments - is stimulated and shaped by government intervention. From tax and policy to banking regulation, poverty alleviation programs to discrimination laws, the U.S. government has historically played a critical role in promoting wealth among some groups and excluding others from such privilege. \n\nThe course will review...\n\n      more description for URPL-GP 4622 \u00bb\n\n      \n\n\n\nFinancial assets underpin the economic fabric of the U.S. Households' ability to accumulate wealth is a function of income, private financial products and services, and public policy. This course will examine how the accumulation of such assets - namely land, homes, and investments - is stimulated and shaped by government intervention. From tax and policy to banking regulation, poverty alleviation programs to discrimination laws, the U.S. government has historically played a critical role in promoting wealth among some groups and excluding others from such privilege. \n\nThe course will review new strategies supported by foundations, community practitioners, financial institutions and policymakers for expanding this country's successful wealth-formation vehicles - such as individual development accounts and life-long savings accounts. At the same time, the course will consider how effective public policy must understand the limitations of such innovations, considering factors undermining asset formation such as predatory lending, consumer psychology and financial product availability. The course, which is designed to be participatory and interactive, will conclude with students conceptualizing their own assets policies.\n\nPrerequisites: CORE-GP 1022 or URPL-GP 1603\n\n      less description for URPL-GP 4622 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 4629",
+            "course_name": "Transportation at the Techn Frontier",
+            "description": "URPL-GP 4629 Transportation at the Techn Frontier",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4631",
+            "course_name": "",
+            "description": "URPL-GP 4631\n\n   Transportation,Land Use and Urban Form\n\nThis is an introductory course in urban transportation planning that examines the evolution of urban transportation systems and the complex relationships between transportation, land use, and urban form. The content of the course is divided into four parts. The first is a historical look at the planning and development of transportation systems and urban form in the U.S. The second part looks more conceptually and theoretically at the relationships between land use and transportation. The third part examines a number of land use and transportation policy questions facing planners today. And th...\n\n      more description for URPL-GP 4631 \u00bb\n\n      \n\n\n\nThis is an introductory course in urban transportation planning that examines the evolution of urban transportation systems and the complex relationships between transportation, land use, and urban form. The content of the course is divided into four parts. The first is a historical look at the planning and development of transportation systems and urban form in the U.S. The second part looks more conceptually and theoretically at the relationships between land use and transportation. The third part examines a number of land use and transportation policy questions facing planners today. And the fourth part explores the normative perspectives and values shaping our views of cities and their transportation systems.\n\nPrerequisites: None.\n\n      less description for URPL-GP 4631 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4632",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5237",
+                    "section": "001",
+                    "period": "10/21/2015 - 12/15/2015",
+                    "location": "GCASL 261",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Day, Kristen"
+                }
+            ],
+            "course_name": "",
+            "description": "URPL-GP 4632\n\n   Planning Healthy Neighborhoods\n\nThis course is designed to introduce students in urban planning to the connections between urban planning and community health, focusing on the neighborhood scale. Although urban planning and public health are closely related in their history and their goals, these fields are typically taught and practiced without reference to each other. The course will examine health issues tied to transportation, land use, urban design, community development, environmental policy, health promotion and disease prevention. This class will involve lectures, discussion, guest speakers, and a field trip. Student...\n\n      more description for URPL-GP 4632 \u00bb\n\n      \n\n\n\nThis course is designed to introduce students in urban planning to the connections between urban planning and community health, focusing on the neighborhood scale. Although urban planning and public health are closely related in their history and their goals, these fields are typically taught and practiced without reference to each other. The course will examine health issues tied to transportation, land use, urban design, community development, environmental policy, health promotion and disease prevention. This class will involve lectures, discussion, guest speakers, and a field trip. Students will conduct a real world group project that addresses a community health issue tied to neighborhood planning.\n\n      less description for URPL-GP 4632 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 4635",
+            "course_name": "Community Equity Wealth Building",
+            "description": "URPL-GP 4635 Community Equity Wealth Building",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4636",
+            "course_name": "Topics in Housing:",
+            "description": "URPL-GP 4636 Topics in Housing:",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4638",
+            "course_name": "Housing and Comm Dev Policy",
+            "description": "URPL-GP 4638 Housing and Comm Dev Policy",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4639",
+            "course_name": "Building Green Housing",
+            "description": "URPL-GP 4639 Building Green Housing",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4647",
+            "course_name": "",
+            "description": "URPL-GP 4647\n\n   Workshop in Planning: Creating 21st Century Communities\n\nThis course will focus on master planning in the 21st century. We will begin with a historical perspective on master planning in the United States and discuss the evolution of the master plan in modern practice. The course will help students understand the theoretical and technical elements of a master plan and will explore approaches and obstacles to plan preparation and implementation, including stakeholder engagement, public participation, political climate and fiscal considerations. In particular this course will focus on the modern master plan\u2019s standard role as a guiding document for dec...\n\n      more description for URPL-GP 4647 \u00bb\n\n      \n\n\n\nThis course will focus on master planning in the 21st century. We will begin with a historical perspective on master planning in the United States and discuss the evolution of the master plan in modern practice. The course will help students understand the theoretical and technical elements of a master plan and will explore approaches and obstacles to plan preparation and implementation, including stakeholder engagement, public participation, political climate and fiscal considerations. In particular this course will focus on the modern master plan\u2019s standard role as a guiding document for decision making on the built and natural environments and the ways in which modern master planning can address the complex environmental, health and social issues that confront today\u2019s communities. The objective of the course will be to encourage students to think about ways in which we can develop a modern paradigm for master planning that takes into account both physical and social community development.\n\n      less description for URPL-GP 4647 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4648",
+            "course_name": "",
+            "description": "URPL-GP 4648\n\n   Geographic Information Systems in Urban Planning I\n\nThe primary purpose of this two-day hands-on GIS course is to provide students with the knowledge and skills they need to solve problems in urban planning, transportation, housing and neighborhood planning, crime and other areas using spatial analysis and the Geographic Information Systems (GIS) software called ArcGIS. Students will be able to apply these new skills immediately in their current work, in their Capstone projects, and in their future public service professional careers.\n\nIn the course of the two days, students will be introduced to ArcMap, ArcCatalog and ArcToolbox and to some ...\n\n      more description for URPL-GP 4648 \u00bb\n\n      \n\n\n\nThe primary purpose of this two-day hands-on GIS course is to provide students with the knowledge and skills they need to solve problems in urban planning, transportation, housing and neighborhood planning, crime and other areas using spatial analysis and the Geographic Information Systems (GIS) software called ArcGIS. Students will be able to apply these new skills immediately in their current work, in their Capstone projects, and in their future public service professional careers.\n\nIn the course of the two days, students will be introduced to ArcMap, ArcCatalog and ArcToolbox and to some of the techniques of manipulating and displaying spatial data while working on a several exercises and case studies. Students will also be introduced to the variety of applications of mapping, and also to database design and data management concepts. They will learn to manipulate and query spatial data, to prepare map layouts, and to design professional looking maps. They will also learn to embed their maps in written reports and PowerPoints.\n\n      less description for URPL-GP 4648 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4649",
+            "course_name": "",
+            "description": "URPL-GP 4649\n\n   Geographic Information Systems in Urban Planning II\n\nGeographic Information Systems in Urban Planning II, is designed as the second part of GIS in Urban Planning hands-on course. It covers some more advanced GIS methods and techniques that are currently available in ArcGIS 9.3. The second class builds on and extends the knowledge and skills that students acquired in URPL-GP.4148 or through their hands-on experience using GIS elsewhere. In URPL-GP.4149 Students will be working on case studies and exercises that are more advanced and challenging than the GIS work covered in the earlier three-day class - URPL-GP.4148.\n\nIt is anticipated that by t...\n\n      more description for URPL-GP 4649 \u00bb\n\n      \n\n\n\nGeographic Information Systems in Urban Planning II, is designed as the second part of GIS in Urban Planning hands-on course. It covers some more advanced GIS methods and techniques that are currently available in ArcGIS 9.3. The second class builds on and extends the knowledge and skills that students acquired in URPL-GP.4148 or through their hands-on experience using GIS elsewhere. In URPL-GP.4149 Students will be working on case studies and exercises that are more advanced and challenging than the GIS work covered in the earlier three-day class - URPL-GP.4148.\n\nIt is anticipated that by the end of this second GIS course students will have very good working knowledge of spatial analysis, database design and management, and of mapping with ArcGIS. Students will be able to apply the GIS skills and knowledge they acquired in this class immediately in their current work, in their Capstone projects, and in future public service professional careers.\n\nOver the three days of class, students will learn to design and execute real-world GIS projects working on case studies in urban planning, transportation, and housing and neighborhood planning, environmental justice and health, and more.\n\n      less description for URPL-GP 4649 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4665",
+            "course_name": "Decentralized Development Planning",
+            "description": "URPL-GP 4665 Decentralized Development Planning",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4670",
+            "course_name": "Urban Innovations in Latin America",
+            "description": "URPL-GP 4670 Urban Innovations in Latin America",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4680",
+            "course_name": "Advanced Urban Design",
+            "description": "URPL-GP 4680 Advanced Urban Design",
+            "offering": false
+        },
+        {
+            "course_id": "URPL-GP 4700",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17355",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "SILV 401"
+                }
+            ],
+            "course_name": "Topics in Urban Planning",
+            "description": "URPL-GP 4700 Topics in Urban Planning",
+            "offering": true
+        },
+        {
+            "course_id": "URPL-GP 6629",
+            "course_name": "Innovations in US Cities: New Ideas in Policy Management and Planning",
+            "description": "URPL-GP 6629 Innovations in US Cities: New Ideas in Policy Management and Planning",
+            "offering": false
+        }
+    ]
+}

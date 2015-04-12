@@ -1,0 +1,312 @@
+{
+    "major_id": "AE-GY",
+    "file": "./2015-2016/Aerospace_Engineering_(AE-GY).html",
+    "courses": [
+        {
+            "course_id": "AE-GY 601",
+            "course_name": "ADVANCED DYNAMICS 1",
+            "description": "AE-GY  601 ADVANCED DYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 602",
+            "course_name": "ADVANCED DYNAMICS 2",
+            "description": "AE-GY  602 ADVANCED DYNAMICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 611",
+            "course_name": "FLUID MECHANICS",
+            "description": "AE-GY  611 FLUID MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 623",
+            "course_name": "| ME-GY  600 COMPUT METH IN AE 1",
+            "description": "AE-GY  623 | ME-GY  600 COMPUT METH IN AE 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 624",
+            "course_name": "COMPUT METH IN AE 2",
+            "description": "AE-GY  624 COMPUT METH IN AE 2",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 643",
+            "course_name": "COMPRESSIBLE FLOW",
+            "description": "AE-GY  643 COMPRESSIBLE FLOW",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 645",
+            "course_name": "FLUID DYNAMICS 1",
+            "description": "AE-GY  645 FLUID DYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 651",
+            "course_name": "| ME-GY  651 ADVANCED DYNAMICS 1",
+            "description": "AE-GY  651 | ME-GY  651 ADVANCED DYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 651",
+            "course_name": "| ME-GY  647 ADVANCED DYNAMICS I",
+            "description": "AE-GY  651 | ME-GY  647 ADVANCED DYNAMICS I",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 652",
+            "course_name": "| ME-GY  648 ADVANCED DYNAMICS II",
+            "description": "AE-GY  652 | ME-GY  648 ADVANCED DYNAMICS II",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 682",
+            "course_name": "AERO/HYDROELASTICITY",
+            "description": "AE-GY  682 AERO/HYDROELASTICITY",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 690",
+            "course_name": "EXP METHODS FLUID DYN RES",
+            "description": "AE-GY  690 EXP METHODS FLUID DYN RES",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 704",
+            "course_name": "AEROTHERMOCHEMISTRY",
+            "description": "AE-GY  704 AEROTHERMOCHEMISTRY",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 731",
+            "course_name": "ANALYT METH:THERM/FLUIDS",
+            "description": "AE-GY  731 ANALYT METH:THERM/FLUIDS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 732",
+            "course_name": "| ME-GY  715 COMPUT METH:THERM/FLUIDS",
+            "description": "AE-GY  732 | ME-GY  715 COMPUT METH:THERM/FLUIDS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 732",
+            "course_name": "| ME-GY  715 COMPT METH/THERMAL-FLUID",
+            "description": "AE-GY  732 | ME-GY  715 COMPT METH/THERMAL-FLUID",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 740",
+            "course_name": "PRINCIPLES FLUID DYNAM",
+            "description": "AE-GY  740 PRINCIPLES FLUID DYNAM",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 741",
+            "course_name": "COMPRESSIBLE FLOW",
+            "description": "AE-GY  741 COMPRESSIBLE FLOW",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 742",
+            "course_name": "VISCOUS FLOW",
+            "description": "AE-GY  742 VISCOUS FLOW",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 743",
+            "course_name": "TURBULENT FLOW",
+            "description": "AE-GY  743 TURBULENT FLOW",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 744",
+            "course_name": "VISCOUS COMPRESS FLOW",
+            "description": "AE-GY  744 VISCOUS COMPRESS FLOW",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 745",
+            "course_name": "HYDRODYNAMICS",
+            "description": "AE-GY  745 HYDRODYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 746",
+            "course_name": "FLUIDS DYNAM-ROTATING",
+            "description": "AE-GY  746 FLUIDS DYNAM-ROTATING",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 748",
+            "course_name": "DYNAM:RARIFIED GASSES",
+            "description": "AE-GY  748 DYNAM:RARIFIED GASSES",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 749",
+            "course_name": "MAGNETOFLUID DYNAMICS",
+            "description": "AE-GY  749 MAGNETOFLUID DYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 750",
+            "course_name": "OCEAN WAVES & TIDES",
+            "description": "AE-GY  750 OCEAN WAVES & TIDES",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 751",
+            "course_name": "AERODYNAMICS:URBAN 1",
+            "description": "AE-GY  751 AERODYNAMICS:URBAN 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 752",
+            "course_name": "AERODYNAMICS:URBAN 2",
+            "description": "AE-GY  752 AERODYNAMICS:URBAN 2",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 755",
+            "course_name": "EXPER METH:THERM/FLUIDS",
+            "description": "AE-GY  755 EXPER METH:THERM/FLUIDS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 759",
+            "course_name": "SPCL TOP:FLUID MECHANICS",
+            "description": "AE-GY  759 SPCL TOP:FLUID MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 801",
+            "course_name": "TRAJECTORIES &  ORBITS",
+            "description": "AE-GY  801 TRAJECTORIES &  ORBITS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 802",
+            "course_name": "SPACE MECHANICS",
+            "description": "AE-GY  802 SPACE MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 803",
+            "course_name": "VEHICLE DYNAMICS 1",
+            "description": "AE-GY  803 VEHICLE DYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 804",
+            "course_name": "VEHICLE DYNAMICS 2",
+            "description": "AE-GY  804 VEHICLE DYNAMICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 806",
+            "course_name": "PHYSICS OF ATMOSPHERE",
+            "description": "AE-GY  806 PHYSICS OF ATMOSPHERE",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 811",
+            "course_name": "ENGINE-AIRPLANE INTEGRAT",
+            "description": "AE-GY  811 ENGINE-AIRPLANE INTEGRAT",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 812",
+            "course_name": "HELICOPTER THEORY",
+            "description": "AE-GY  812 HELICOPTER THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 819",
+            "course_name": "SPCL TOP: AERO/ASTRO",
+            "description": "AE-GY  819 SPCL TOP: AERO/ASTRO",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 901",
+            "course_name": "GUIDED READINGS: AE 1",
+            "description": "AE-GY  901 GUIDED READINGS: AE 1",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 902",
+            "course_name": "GUIDED READINGS: AE 2",
+            "description": "AE-GY  902 GUIDED READINGS: AE 2",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 903",
+            "course_name": "GUIDED READINGS: AE 3",
+            "description": "AE-GY  903 GUIDED READINGS: AE 3",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 904",
+            "course_name": "GUIDED READINGS: AE 4",
+            "description": "AE-GY  904 GUIDED READINGS: AE 4",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 971",
+            "course_name": "SEMINAR: AEROSPACE ENGRG",
+            "description": "AE-GY  971 SEMINAR: AEROSPACE ENGRG",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 972",
+            "course_name": "SEMINAR: AEROSPACE ENGRG",
+            "description": "AE-GY  972 SEMINAR: AEROSPACE ENGRG",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 981",
+            "course_name": "SEMINAR IN AERO & ASTRO",
+            "description": "AE-GY  981 SEMINAR IN AERO & ASTRO",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 987",
+            "course_name": "MS THESIS IN AERO/ASTRO",
+            "description": "AE-GY  987 MS THESIS IN AERO/ASTRO",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 994",
+            "course_name": "SEMINAR IN AERO/ASTRO 2",
+            "description": "AE-GY  994 SEMINAR IN AERO/ASTRO 2",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 996",
+            "course_name": "PROJECT",
+            "description": "AE-GY  996 PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 997",
+            "course_name": "M.S. THESIS",
+            "description": "AE-GY  997 M.S. THESIS",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 998",
+            "course_name": "ENGINEER PROJECT",
+            "description": "AE-GY  998 ENGINEER PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "AE-GY 999",
+            "course_name": "PH.D. DISSERTATION",
+            "description": "AE-GY  999 PH.D. DISSERTATION",
+            "offering": false
+        }
+    ]
+}

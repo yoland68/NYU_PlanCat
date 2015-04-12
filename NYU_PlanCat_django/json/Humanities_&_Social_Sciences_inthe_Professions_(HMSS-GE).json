@@ -1,0 +1,108 @@
+{
+    "major_id": "HMSS-GE",
+    "file": "./2015-2016/Humanities_&_Social_Sciences_inthe_Professions_(HMSS-GE).html",
+    "courses": [
+        {
+            "course_id": "HMSS-GE 2000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4832",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Fri 10.00 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "Bernstein, Erinn"
+                }
+            ],
+            "course_name": "New Graduate Student Orientation Seminar",
+            "description": "HMSS-GE 2000 New Graduate Student Orientation Seminar \nCourse is designed for newly accepted students in the Department of Humanities & Social Sciences. The course will give an introduction to graduate student life & will provide tools & resources to promote academic & professional success.",
+            "offering": true
+        },
+        {
+            "course_id": "HMSS-GE 2701",
+            "course_name": "Comparative Perspectives Belonging & Estrangement",
+            "description": "HMSS-GE 2701 Comparative Perspectives Belonging & Estrangement \nA multidisciplinary seminar the course will investigate themes of belonging & estrangement in the context of immigration, poverty, gender, & minority status.  The course will consider issues of inequality as it is influenced by globalization, immigration &  social diversity,  & how these  dynamics play out in the realm of higher education &  the job market.",
+            "offering": false
+        },
+        {
+            "course_id": "HMSS-GE 3002",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3612",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Fraser, James",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Seminar I",
+            "description": "HMSS-GE 3002 Doctoral Seminar I \nThis seminar will allow students to read the seminal literature in their field of study and to engage with other students in extended discussion of the importance of critical reading of any  and all texts.",
+            "offering": true
+        },
+        {
+            "course_id": "HMSS-GE 3003",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3613",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Fraser, James",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Seminar II",
+            "description": "HMSS-GE 3003 Doctoral Seminar II \nThis seminar will help to guide students as they develop a dissertation proposal.",
+            "offering": true
+        },
+        {
+            "course_id": "HMSS-GE 3004",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3614",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Fraser, James",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Seminar III",
+            "description": "HMSS-GE 3004 Doctoral Seminar III \nProvides an opportunity to discuss progress and problems encountered in the writing of the dissertation. Students are expected to report on their research progress every semester and to offer constructive criticism to the other students in the group.",
+            "offering": true
+        },
+        {
+            "course_id": "HMSS-GE 3011",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3615",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMB 301",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Legewie, Joscha; Corcoran, Sean"
+                }
+            ],
+            "course_name": "Department Seminar I",
+            "description": "HMSS-GE 3011 Department Seminar I \nThis seminar will introduce students to some of the central questions in history, the social sciences,  the humanities, and the arts.",
+            "offering": true
+        },
+        {
+            "course_id": "HMSS-GE 3012",
+            "course_name": "Department Seminar II",
+            "description": "HMSS-GE 3012 Department Seminar II \nThis seminar will introduce students to some of the central questions in history, the social sciences,  the humanities, and the arts.",
+            "offering": false
+        }
+    ]
+}

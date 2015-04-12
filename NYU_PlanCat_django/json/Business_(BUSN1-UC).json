@@ -1,0 +1,364 @@
+{
+    "major_id": "BUSN1-UC",
+    "file": "./2015-2016/Business_(BUSN1-UC).html",
+    "courses": [
+        {
+            "course_id": "BUSN1-UC 101",
+            "course_name": "Intro to Banking",
+            "description": "BUSN1-UC  101 Intro to Banking \nThis course introduces students to the role of banks and financial intermediaries and reviews the fundamentals of banking. Topics include monetary theory, interest rates, the securities and stock market, foreign exchange, the role of the Federal Reserve, the functions of the various financial markets, and the implications of risk and credit in a lending environment.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 102",
+            "course_name": "Intro to Investments",
+            "description": "BUSN1-UC  102 Intro to Investments \nIntroduces the various types of investments employed by individuals and institutions. The purposes, advantages, and disadvantages of each are discussed. Topics include objectives and methods of investing, short- and long-term planning, forecasting and timing, and kinds of investments, including stock options and mutual funds.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 142",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9709",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/22/2015",
+                    "location": "Valenti, Stephen",
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Principles of Accounting",
+            "description": "BUSN1-UC  142 Principles of Accounting \nThis course introduces students to the principles of double-entry systems, control accounts, and subsidiary records. It places emphasis on worksheets and variations of systems as well as accounting procedures involved with partnership and corporation capital accounts. The end results of the accounting process, such as costs, financial relationships, financial analysis, taxes, and budgeting, are investigated.",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 143",
+            "course_name": "Securities Analysis",
+            "description": "BUSN1-UC  143 Securities Analysis \nStudy of theories, techniques, and approaches for determining the values of major types of securities and derivative products. Principles of portfolio analysis and security evaluation in the portfolio context, including risk-return tradeoffs and the effects of international diversification on portfolio risk. Other topics covered are the efficient market hypothesis, derivation of capitalization rates, and fundamental and technical analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 171",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9710",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Valenti, Stephen",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intermediate Accounting",
+            "description": "BUSN1-UC  171 Intermediate Accounting \nThis course is designed to expand students' understanding of accounting theory and practice. It includes practice in the preparation of financial statements and a framework for their interpretation and analysis.",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 172",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9711",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": "25W4 C-8",
+                    "time": "Mon 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Valenti, Stephen"
+                }
+            ],
+            "course_name": "Introduction to Finance",
+            "description": "BUSN1-UC  172 Introduction to Finance \nStudents are introduced to the principles and practice of corporate finance. Basic concepts are introduced with emphasis on working knowledge of organizational and financial structures, methods of financing, financial management, and planning. Investments and strategies, risk and growth, and money and banking are topics of study and discussion.",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 174",
+            "course_name": "Budgetary Process",
+            "description": "BUSN1-UC  174 Budgetary Process \nAll business and nonprofit organizations are controlled through effective budgeting based on realistic forecasting. This course gives nonfinancial managers a working knowledge of budget processes, ranging from design through implementation and analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 342",
+            "course_name": "Economics Int`L Business",
+            "description": "BUSN1-UC  342 Economics Int`L Business \nThis course analyzes and assesses global business competitiveness. It explores multinational enterprises and worldwide corporate activities across national boundaries. International business diplomacy as well as world markets and their locations are also discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 343",
+            "course_name": "",
+            "description": "BUSN1-UC  343\n\n   Science, Technology and The Global Economy\n\nExplores the harnessing of technology and the diffusion of submicronelectronics, integrated telecommunications, computers, semiconductor applications, satellite-based systems, and microminiaturization technology processes in the global economy-worldwide strategic alliances, global market, global management, and global priorities. Analyzes the history and theories of science and technology, and examines the designing and implementation of policies and practices for competing in world-class technological readiness and global quality applications as requirements for the expansion, diversification...\n\n      more description for BUSN1-UC  343 \u00bb\n\n      \n\n\n\nExplores the harnessing of technology and the diffusion of submicronelectronics, integrated telecommunications, computers, semiconductor applications, satellite-based systems, and microminiaturization technology processes in the global economy-worldwide strategic alliances, global market, global management, and global priorities. Analyzes the history and theories of science and technology, and examines the designing and implementation of policies and practices for competing in world-class technological readiness and global quality applications as requirements for the expansion, diversification and acceleration of economic growth and worldwide sustainable development across national boundaries.\n\n      less description for BUSN1-UC  343 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 376",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17032",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/21/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "WAVE 566A"
+                }
+            ],
+            "course_name": "",
+            "description": "BUSN1-UC  376\n\n   Sustainable Management Principles\n\nThis course is designed to explore alternative approaches to management in the 21st century.  The major goal of the course is to educate and engage students on the concept and practice of sustainable management, an emerging discipline that addresses management functions based on the growing evidence and perceived threats to the earth.  Given unprecedented developments in global demographics, climate change, pollution and questionable resource use patterns, there is a compelling need to rethink some of the basic principles and traditional management practices in business and other organizations...\n\n      more description for BUSN1-UC  376 \u00bb\n\n      \n\n\n\nThis course is designed to explore alternative approaches to management in the 21st century.  The major goal of the course is to educate and engage students on the concept and practice of sustainable management, an emerging discipline that addresses management functions based on the growing evidence and perceived threats to the earth.  Given unprecedented developments in global demographics, climate change, pollution and questionable resource use patterns, there is a compelling need to rethink some of the basic principles and traditional management practices in business and other organizations.\nAfter addressing the available data on these environmental challenges, students will proceed to examine the basic tenets of orthodox management approaches and practices and their impact on society, including assumptions underlying management decisions, resource use, and production. The course will explore alternative approaches to control or eliminate the deficiencies of current management practices in solving environmental problems. Specific topics to be addressed in the course include traditional principles of management, emerging principles of sustainable management, best practices in sustainability, new policies, institutions and markets created to support the concept and practice of sustainability, among others. Case studies from a variety of organizations and industries around the world will supplement the text in presenting the content of this course.\n\n      less description for BUSN1-UC  376 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 377",
+            "course_name": "",
+            "description": "BUSN1-UC  377\n\n   Sustainable Development in Emerging Economies\n\nThis course is designed to: (i) identify and critique the various theories and approaches to national development adopted by governments and developing agencies since World War II when a wave of decolonization began, and (ii) Examine alternative approaches to national development rooted in the principle of sustainability.  \nAfter years of experimenting with various theories and approaches to national development,  evidence of success in developing /emerging economies is partial and spotty.  Rapid economic growth and transformation in East Asia and elsewhere in the developing world have not bee...\n\n      more description for BUSN1-UC  377 \u00bb\n\n      \n\n\n\nThis course is designed to: (i) identify and critique the various theories and approaches to national development adopted by governments and developing agencies since World War II when a wave of decolonization began, and (ii) Examine alternative approaches to national development rooted in the principle of sustainability.  \nAfter years of experimenting with various theories and approaches to national development,  evidence of success in developing /emerging economies is partial and spotty.  Rapid economic growth and transformation in East Asia and elsewhere in the developing world have not been easily replicated in countries in other parts of Asia, Africa, Latin America and the developing regions.  In some instances poverty has actually increased. Even in more successful emerging economies, economic growth has come at a cost, in terms of environmental degradation, elevated levels of carbon emission, pollution, growing inequalities in wealth and income, among others.  \nIn this course, students will examine factors that compel the need for an alternative development approach. Drawing from concepts and cases on sustainability, the course will also examine new assumptions and evidence on the earth\u00bfs capacity to support economic growth under conditions such as climate change, resource depletion, demographic trends, and  rapid technological changes. \nTopics to be addressed include a contrast in traditional growth models versus approaches in sustainability, economic  and financial crises that limit development, the resource \u00bfcurse\u00bf in selected countries, new technologies and their impact on sustainability, resource use patterns and best practices in sustainability.\nAfter years of experimenting with various theories and approaches to national development,  evidence of success in developing /emerging economies is partial and spotty.  Rapid economic growth and transformation in East Asia and elsewhere in the developing world have not been easily replicated in countries in other parts of Asia, Africa, Latin America and the developing regions.  In some instances poverty has actually increased. Even in more successful emerging economies, economic growth has come at a cost, in terms of environmental degradation, elevated levels of carbon emission, pollution, growing inequalities in wealth and income, among others.  \n\nIn this course, students will examine factors that compel the need for an alternative development approach. Drawing from concepts and cases on sustainability, the course will also examine new assumptions and evidence on the earth\u2019s capacity to support economic growth under conditions such as climate change, resource depletion, demographic trends, and  rapid technological changes. \n\nTopics to be addressed include a contrast in traditional growth models versus approaches in sustainability, economic  and financial crises that limit development, the resource \u201ccurse\u201d in selected countries, new technologies and their impact on sustainability, resource use patterns and best practices in sustainability.\n\n      less description for BUSN1-UC  377 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 501",
+            "course_name": "Cultural Diversity in Business",
+            "description": "BUSN1-UC  501 Cultural Diversity in Business \nExamines the dynamics of a multicultural society and its impact on the world of business. The nature of intercultural relations and commonly shared perceptions of various cultures are studied. Students learn the advantages and challenges of interacting in multicultural contexts through historical research, role-playing, and simulation.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 502",
+            "course_name": "Bus Comm:Intl Students",
+            "description": "BUSN1-UC  502 Bus Comm:Intl Students \nProvides the opportunity for students for whom English is a second language to develop their oral communications and their understanding of basic business concepts. Students are introduced to general business concepts that they investigate then develop oral and written presentations.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 503",
+            "course_name": "Business Comm:Speaking",
+            "description": "BUSN1-UC  503 Business Comm:Speaking \nA study of human behavior, group dynamics theory, and the communications process provides the foundation for understanding effective oral communications. The power of the spoken word in the contemporary business environment is analyzed. The dynamics of one-to-one, small-group, and large-group interaction are discussed and simulated. (No credit will be awarded if Y13.2201/Oral Communications has been successfully completed.)",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 504",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9717",
+                    "section": "002",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "SILV 620",
+                    "time": "Thu 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Afriyie, Kofi"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9718",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Williams, Denise",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "BUSN1-UC  504\n\n   Business Organization & Management\n\nThis course focuses on the processes and problems of competent management. Methods of setting and maintaining high performance standards and high productivity are discussed, along with topics including management structure, planning, organization, staffing, strategy formulation, decision making, leadership, and social responsibility. This survey considers the general tasks associated with competent management and leadership, irrespective of occupational area, industry, or sector of the economy. Methods for establishing and maintaining motivating workplaces and high performance standards are co...\n\n      more description for BUSN1-UC  504 \u00bb\n\n      \n\n\n\nThis course focuses on the processes and problems of competent management. Methods of setting and maintaining high performance standards and high productivity are discussed, along with topics including management structure, planning, organization, staffing, strategy formulation, decision making, leadership, and social responsibility. This survey considers the general tasks associated with competent management and leadership, irrespective of occupational area, industry, or sector of the economy. Methods for establishing and maintaining motivating workplaces and high performance standards are considered.\n\n      less description for BUSN1-UC  504 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 541",
+            "course_name": "Business Comm: Writing",
+            "description": "BUSN1-UC  541 Business Comm: Writing \nA writing workshop designed to help students develop clear and effective business writing skills. Business memoranda, letters, and reports are written and critiqued for clarity of purpose, organization, strategy, and style. Students study the communications process, language, semantic patterns, and meanings. Special attention is given to case study and problem-solving sessions where actual business problems are analyzed and solutions are presented in written form.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 542",
+            "course_name": "Role of Govt in Busn",
+            "description": "BUSN1-UC  542 Role of Govt in Busn \nThe American government assumes a major role in relation to business, industry, and the economy. The recent deregulation of various major industries represents a change in this relationship. How much control does government have? How much should it have? How might the relationship of government and business change in the future? A case study approach is followed.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 544",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9720",
+                    "section": "200",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Trasky, Melissa",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Business Law",
+            "description": "BUSN1-UC  544 Business Law \nThe course introduces students to the legal and regulatory environment of business. Students examine the laws of contracts, property, sales, negotiable instruments, and the Uniform Commercial Code through conceptual study, case analysis, and legal research.",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 545",
+            "course_name": "Intro to Small Business",
+            "description": "BUSN1-UC  545 Intro to Small Business \nA study of the process of creating and developing a small business, from the initiation of the idea to the operation of the firm. Topics include small business management, product and market assessment, financing and taxation, marketing and promotion, and strategy and planning.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 546",
+            "course_name": "The Global Market",
+            "description": "BUSN1-UC  546 The Global Market \nThis course consists of an analysis and comparison of relevant theories in the field through empirical study and research. The course examines the global market in terms of a constructive role for public policy in the manufacturing environment, and new strategies for American companies producing and marketing worldwide, as well as the research and development and associated structural changes within industries and firms.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 547",
+            "course_name": "Current Trends in Business",
+            "description": "BUSN1-UC  547 Current Trends in Business",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 549",
+            "course_name": "Alternative Dispute Resolution",
+            "description": "BUSN1-UC  549 Alternative Dispute Resolution \n(formerly Labor Management Relations) One of the biggest challenges businesses face today is the increasing acrimonious relationships in the workplace. Recent studies indicate that, on average, we spend 25% of our day dealing with conflict. Consequently, there must be mechanisms to properly problem-solve and collectively manage conflict. ADR is the study of the leading strategies that are being utilized today in the workplace. ADR primarily includes negotiation, mediation, and arbitration. This course is highly interactive and participatory.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 550",
+            "course_name": "Intro to Retail Mgmt",
+            "description": "BUSN1-UC  550 Intro to Retail Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 551",
+            "course_name": "The Art of Management",
+            "description": "BUSN1-UC  551 The Art of Management",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 552",
+            "course_name": "Arts Administration",
+            "description": "BUSN1-UC  552 Arts Administration",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 561",
+            "course_name": "Business Law II",
+            "description": "BUSN1-UC  561 Business Law II",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 571",
+            "course_name": "Intro to Business Plan",
+            "description": "BUSN1-UC  571 Intro to Business Plan \nExamines the theories and methods of business planning. Topics include research and development, projecting and forecasting, demography, fiscal cycles, and international trade and monetary matters. The case study approach is encouraged.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 572",
+            "course_name": "Business Policy Making",
+            "description": "BUSN1-UC  572 Business Policy Making \nAn analysis of the factors involved in setting standard business policies, including ethical issues, legal ramifications, and fiscal considerations. The case study approach is encouraged.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 574",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9722",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/22/2015 ",
+                    "location": "Meth, Stephanie",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship in Business",
+            "description": "BUSN1-UC  574 Internship in Business \nThe internship provides an opportunity for students to gain experience and knowledge through fieldwork in a corporation or organization in the public or private sector. An internship coordinator assists students in locating appropriate fieldwork assignments. Students are required to complete a minimum of 90 hours of fieldwork under the guidance of a fieldwork supervisor. In addition, they meet regularly with the internship coordinator, maintain a journal, and submit a final project or paper.",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 575",
+            "course_name": "Intern Business II",
+            "description": "BUSN1-UC  575 Intern Business II \nThe internship provides an opportunity for students to gain experience and knowledge through fieldwork in a corporation or organization in the public or private sector. An internship coordinator assists students in locating appropriate fieldwork assignments. Students are required to complete a minimum of 90 hours of fieldwork under the guidance of a fieldwork supervisor. In addition, they meet regularly with the internship coordinator, maintain a journal, and submit a final project or paper.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 576",
+            "course_name": "Current Topics",
+            "description": "BUSN1-UC  576 Current Topics \nAn opportunity for in-depth study of special topics in business management and leadership. Students are expected to understand and apply the basic theories and concepts of business management and economics. Topics vary. Refer to the semester schedule for announcement of the specific topic of study.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 581",
+            "course_name": "Global Management",
+            "description": "BUSN1-UC  581 Global Management",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 582",
+            "course_name": "Global Business Seminar",
+            "description": "BUSN1-UC  582 Global Business Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 703",
+            "course_name": "Intro to Business Computing",
+            "description": "BUSN1-UC  703 Intro to Business Computing \nThis first course introduces the student to computer hardware components and the role of operating systems software. Included is a hands-on exploration of Microsoft Office. The student learns how to use Access, Excel, and PowerPoint to solve many realworld business problems. Hands-on lab exercises use all three Office applications.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 943",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9725",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/16/2015",
+                    "location": "SILV 509",
+                    "time": "Wed 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "O'Malley, John"
+                }
+            ],
+            "course_name": "Principles of Marketing",
+            "description": "BUSN1-UC  943 Principles of Marketing \nIn this course marketing as a system of satisfying customer wants is considered from the theoretical as well as from the pragmatic viewpoint. Students study markets, products, and customer motivation, with emphasis on basic marketing research and marketing management. In addition, students analyze the various marketing functions and apply theories and techniques to problems and cases in the context of current marketing practice and market environment.",
+            "offering": true
+        },
+        {
+            "course_id": "BUSN1-UC 944",
+            "course_name": "The New Consumerism",
+            "description": "BUSN1-UC  944 The New Consumerism",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 946",
+            "course_name": "New Product Developmemt and Marketing",
+            "description": "BUSN1-UC  946 New Product Developmemt and Marketing \nNew products and services more often than not are key to organizational growth. This course teaches you a process for consistently developing successful new products and services. The practical methods presented apply to any size company. Topics include: getting new ideas and concepts; evaluating ideas determining what is really new to you and to the end user; how to conduct market research to identify markets; marketing the new products and services; and how to be more successful than average.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 947",
+            "course_name": "Intro Market Research",
+            "description": "BUSN1-UC  947 Intro Market Research",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 972",
+            "course_name": "Basics of Internet Marketing",
+            "description": "BUSN1-UC  972 Basics of Internet Marketing \nInternet has become one of the powerful marketing tools in business. This course provides students with basic information about how the Internet functions; how it is being used by marketers; how to manage the development, design, and building of a company website; how to apply measurement and results research; and how to manage costs. Students also explore the basic business issues confronting the strategic development and tactical implementation of revenue generating websites.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 1901",
+            "course_name": "Intuitive Management",
+            "description": "BUSN1-UC 1901 Intuitive Management",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 1902",
+            "course_name": "Workplace Issues: Rights and Responsibilities",
+            "description": "BUSN1-UC 1902 Workplace Issues: Rights and Responsibilities \nThe evolution of workplace dynamics is rapidly changing. The debate is divergent, ranging from sexual harassment awareness to affirmative action. More attention is also being directed towards workplace violence, negligent living, age discrimination, and employee-at-will doctrines. The emergence of shareholder pressure has created healthy debate in the area of corporate responsibility. Moreover, the escalation of downsizing, rightsizing, and capsizing has forever changed the fabric of the world of business.",
+            "offering": false
+        },
+        {
+            "course_id": "BUSN1-UC 1971",
+            "course_name": "Independent Study - Business",
+            "description": "BUSN1-UC 1971 Independent Study - Business \nStudents conduct independent investigation of selected topics outside the boundaries of the classroom. Independent study allows students to pursue specialized interests, within the framework of the curriculum, that are not available in existing courses. Although self-directed, students work closely with a faculty mentor who guides and evaluates their work.",
+            "offering": false
+        }
+    ]
+}

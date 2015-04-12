@@ -1,0 +1,49 @@
+{
+    "major_id": "MPAIA-UE",
+    "file": "./2015-2016/Interactive_Music_Courses_(MPAIA-UE).html",
+    "courses": [
+        {
+            "course_id": "MPAIA-UE 1053",
+            "course_name": "Intg Art Erly Chld Cur I",
+            "description": "MPAIA-UE 1053 Intg Art Erly Chld Cur I \nExploration of dramatic play in integrated early childhood classroom.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAIA-UE 1054",
+            "classes": [
+                {}
+            ],
+            "course_name": "Integrating The Arts Early Chldhd Curr II",
+            "description": "MPAIA-UE 1054 Integrating The Arts Early Chldhd Curr II \nMaterials and strategies for creating an integrated early childhood curriculum with a focus on infusing the curriculum with music and movement activities.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-UE 1055",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10461",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL151",
+                    "time": "Wed 7.10 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Barrentine, Brian"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10462",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 507",
+                    "time": "Wed 7.10 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Jost, Lauren"
+                }
+            ],
+            "course_name": "Integrated Arts in Childhood Education",
+            "description": "MPAIA-UE 1055 Integrated Arts in Childhood Education \nMethods for integrating music, art, dance, and drama into an integrated childhood education curriculum.",
+            "offering": true
+        }
+    ]
+}

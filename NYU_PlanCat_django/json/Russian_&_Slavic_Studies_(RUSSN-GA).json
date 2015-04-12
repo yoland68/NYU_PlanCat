@@ -1,0 +1,564 @@
+{
+    "major_id": "RUSSN-GA",
+    "file": "./2015-2016/Russian_&_Slavic_Studies_(RUSSN-GA).html",
+    "courses": [
+        {
+            "course_id": "RUSSN-GA 1000",
+            "course_name": "Research Methods and Critical Theory",
+            "description": "RUSSN-GA 1000 Research Methods and Critical Theory",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1973",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Wed 5.20 PM - 7.20 PM",
+                    "open": true,
+                    "professor": "Iampolski, Mikhail"
+                }
+            ],
+            "course_name": "Topics in Russian & Slavic StudiesRussia & Its Disciplines",
+            "description": "RUSSN-GA 1001 Topics in Russian & Slavic StudiesRussia & Its Disciplines",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-GA 1002",
+            "course_name": "Old Russian Literature",
+            "description": "RUSSN-GA 1002 Old Russian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1003",
+            "course_name": "Reading Contemporary Russian for Academic Purposes",
+            "description": "RUSSN-GA 1003 Reading Contemporary Russian for Academic Purposes",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1004",
+            "course_name": "18th C Russian Lit",
+            "description": "RUSSN-GA 1004 18th C Russian Lit",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1006",
+            "course_name": "Sem in 19C Russ Lit:",
+            "description": "RUSSN-GA 1006 Sem in 19C Russ Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1092",
+            "course_name": "Sem 20th C Russian Lit:",
+            "description": "RUSSN-GA 1092 Sem 20th C Russian Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1156",
+            "course_name": "Byzantium & The West, 4th-15th Cents",
+            "description": "RUSSN-GA 1156 Byzantium & The West, 4th-15th Cents",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1303",
+            "course_name": "Russian Empire in Comparative Perspectives",
+            "description": "RUSSN-GA 1303 Russian Empire in Comparative Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1320",
+            "course_name": "Russia & The Ussr: Modernity in Practice",
+            "description": "RUSSN-GA 1320 Russia & The Ussr: Modernity in Practice",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1322",
+            "course_name": "From Imperial to Soviet Russia",
+            "description": "RUSSN-GA 1322 From Imperial to Soviet Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1323",
+            "course_name": "Russia & Its Disciplines",
+            "description": "RUSSN-GA 1323 Russia & Its Disciplines",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1326",
+            "course_name": "Russia: Law & Empire 16th-21th Century",
+            "description": "RUSSN-GA 1326 Russia: Law & Empire 16th-21th Century",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 1330",
+            "course_name": "Cultural History of Russia",
+            "description": "RUSSN-GA 1330 Cultural History of Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2000",
+            "course_name": "Russian Short Story",
+            "description": "RUSSN-GA 2000 Russian Short Story",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2002",
+            "course_name": "Russ Poetry/Russ Futuris",
+            "description": "RUSSN-GA 2002 Russ Poetry/Russ Futuris",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2004",
+            "course_name": "Russian Drama",
+            "description": "RUSSN-GA 2004 Russian Drama",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2006",
+            "course_name": "Spec Stud Literary Genre",
+            "description": "RUSSN-GA 2006 Spec Stud Literary Genre",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2100",
+            "course_name": "Russian Romanticism",
+            "description": "RUSSN-GA 2100 Russian Romanticism",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2101",
+            "course_name": "Modern Russian Painting",
+            "description": "RUSSN-GA 2101 Modern Russian Painting",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2102",
+            "course_name": "Russian Symbolism",
+            "description": "RUSSN-GA 2102 Russian Symbolism",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2103",
+            "course_name": "Theory of Avant-Garde",
+            "description": "RUSSN-GA 2103 Theory of Avant-Garde",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2104",
+            "course_name": "The Russian Avant-Garde",
+            "description": "RUSSN-GA 2104 The Russian Avant-Garde",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2105",
+            "course_name": "Russian Paintings",
+            "description": "RUSSN-GA 2105 Russian Paintings",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2106",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17780",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19UP 224"
+                }
+            ],
+            "course_name": "Special Study Literary:Special Study Literary",
+            "description": "RUSSN-GA 2106 Special Study Literary:Special Study Literary",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-GA 2107",
+            "course_name": "Science & Modern Art",
+            "description": "RUSSN-GA 2107 Science & Modern Art",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2108",
+            "course_name": "Russian Women Artist of The Avant-Garde",
+            "description": "RUSSN-GA 2108 Russian Women Artist of The Avant-Garde",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2109",
+            "course_name": "Problems of Abstraction",
+            "description": "RUSSN-GA 2109 Problems of Abstraction",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2110",
+            "course_name": "Rethinking Russia",
+            "description": "RUSSN-GA 2110 Rethinking Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2111",
+            "course_name": "Social Problems in Contemporary Russia",
+            "description": "RUSSN-GA 2111 Social Problems in Contemporary Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2112",
+            "course_name": "Russian Utopian Fiction",
+            "description": "RUSSN-GA 2112 Russian Utopian Fiction \nSurvey of the development of the utopian tradition in Russia, within the context of the larger European utopian tradition. Special attention is paid to 20th-century works and to questions of genre.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2113",
+            "course_name": "History of Russian Constructivism",
+            "description": "RUSSN-GA 2113 History of Russian Constructivism",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2114",
+            "course_name": "Russian Popular Culture:",
+            "description": "RUSSN-GA 2114 Russian Popular Culture: \nBroad survey of the main trends in Russian film, radio, television, poster art, pop music, and pulp fiction throughout the 20th century, providing an in-depth analysis of the forces and ideologies that helped shape these trends.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2115",
+            "course_name": "Russian Modernism",
+            "description": "RUSSN-GA 2115 Russian Modernism \nRussian fiction from the years immediately prior to the Revolution through the early 1930s. Particular emphasis is placed on the interplay between art and ideology.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2116",
+            "course_name": "Russian Postmodernist Fiction",
+            "description": "RUSSN-GA 2116 Russian Postmodernist Fiction \nExamination of the experimental and self-referential novels and stories of the last decades of the 20th century. Addresses the question of Russian postmodernism?s relation to postmodernism in the West and also to Soviet socialist realism.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2117",
+            "course_name": "Acmeism & Futurism",
+            "description": "RUSSN-GA 2117 Acmeism & Futurism",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2118",
+            "course_name": "Bakhtin",
+            "description": "RUSSN-GA 2118 Bakhtin",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2119",
+            "course_name": "Roman Jakobson:Poetics Linguistics,Semiotics",
+            "description": "RUSSN-GA 2119 Roman Jakobson:Poetics Linguistics,Semiotics",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2120",
+            "course_name": "Authorship & Authority in The Russian Tradition",
+            "description": "RUSSN-GA 2120 Authorship & Authority in The Russian Tradition \nCritical examination of literary works reflecting the Russian author?s role as cultural and moral authority. Focuses on the 19th century (Pushkin, Gogol, Chaadaev, Herzen, Chernyshevsky, Turgenev, Dostoevsky, Tolstoy) with some attention to the Soviet era (Lenin, Mayakovsky, Akhmatova, Solzhenitsyn, Brodsky).",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2121",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19238",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Tue 6.20 PM - 7.20 PM",
+                    "open": true,
+                    "professor": "Borenstein, Eliot"
+                }
+            ],
+            "course_name": "Defining Russia",
+            "description": "RUSSN-GA 2121 Defining Russia \nInterdisciplinary, team-taught course designed to introduce the main methods and chief scholarly debates in contemporary Russian studies.",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-GA 2122",
+            "course_name": "Conspiracy Theories: Paranoid Fict Aftr Freud",
+            "description": "RUSSN-GA 2122 Conspiracy Theories: Paranoid Fict Aftr Freud \nWith its clash of ideologies and the rise and fall of metanarratives (modernism, postmodernism, Marxism), the 20th century saw a proliferation of conspiracy theories and intricate attempts to impose rational order on increasingly chaotic systems. This course examines 20th-century narratives that exemplify and explore the modernist and postmodernist paranoid mindset. Authors include Kafka, Olesha, Freud, Pelevin, Pynchon, Dick, and Sologub.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2123",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17779",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 224",
+                    "time": "Thu 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "Kliger, Ilya"
+                }
+            ],
+            "course_name": "Theories of The Novel and Russian Case Studies",
+            "description": "RUSSN-GA 2123 Theories of The Novel and Russian Case Studies",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-GA 2124",
+            "course_name": "Adultery in The Novel",
+            "description": "RUSSN-GA 2124 Adultery in The Novel \nExamines novels from the Russian, European, and American traditions that take adultery as their organizing theme. Primary texts include Anna Karenina, Madame Bovary, The Scarlet Letter, Jude the Obscure, and others; critical readings by Georg Lukacs, Tony Tanner, Naomi Schor, Shoshana Fleman, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2125",
+            "course_name": "",
+            "description": "RUSSN-GA 2125\n\n   The Narrative Shape of Truth: Verridiction 19C\n\nThe novel has been for a long time understood by its theorists as the genre par excellence of truthlessness. This course attempts to re-evaluate this view, proposing that the nineteenth-century novel in particular should be understood as responding to the emerging tendency to view truth as inseparable from, rather than opposed to, time.  This tendency, then, can be said to account for the specific shape and the remarkable ?success? of the nineteenth-century European novel. It is in these novels that narrative?s essential relation to time achieves its most dramatic fruition.  Readings from Goet...\n\n      more description for RUSSN-GA 2125 \u00bb\n\n      \n\n\n\nThe novel has been for a long time understood by its theorists as the genre par excellence of truthlessness. This course attempts to re-evaluate this view, proposing that the nineteenth-century novel in particular should be understood as responding to the emerging tendency to view truth as inseparable from, rather than opposed to, time.  This tendency, then, can be said to account for the specific shape and the remarkable ?success? of the nineteenth-century European novel. It is in these novels that narrative?s essential relation to time achieves its most dramatic fruition.  Readings from Goethe, Hegel, Balzac, Stendhal, Dostoevsky, Tolstoy, Henry James, Bakhtin, Koj?ve, Peter Brooks\n\n      less description for RUSSN-GA 2125 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2126",
+            "course_name": "The Bildungsroman in Russia & The West",
+            "description": "RUSSN-GA 2126 The Bildungsroman in Russia & The West \nThe course explores the generic field of the Bildungsroman as it organizes a number of representative narratives in nineteenth-century Russia and Western Europe in light of modernity?s paradoxical injunctions towards rigorous socialization on the one hand and subjective volatilization on the other.  The course foregrounds difficulties and rewards of the Bildungsroman within the specifically Russian literary tradition and social context. Readings from Goethe, Balzac, Constant, Dostoevsky, Goncharov, Flaubert, Lermontov, Pushkin, Tolstoy, and Turgenev.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2127",
+            "course_name": "Tragic Realism",
+            "description": "RUSSN-GA 2127 Tragic Realism \nThe course begins with a brief survey of the crucial moments in the history of tragedy from Sophocles to Schiller, complemented by a number of theoretical approaches to the genre. We then move on to explore the category of tragic realism as it applies to nineteenth-century European (especially Russian) narrative.  Authors include Sophocles, Shakespeare, Racine, Schiller, Stendhal, Herzen, Dostoevsky and Tolstoy.  Secondary readings from Hegel, Kierkegaard, Freud, Lacan, Benjamin, Luk?cs, Auerbach, Raymond Williams, and Franco Moretti.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2128",
+            "course_name": "Hegel, Kojeve, & The End of History",
+            "description": "RUSSN-GA 2128 Hegel, Kojeve, & The End of History",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2129",
+            "course_name": "Imagining Eurasia",
+            "description": "RUSSN-GA 2129 Imagining Eurasia \nFocuses on the idea and image of a Eurasia in Russian and Russophone literature, as well as in SFocuses on the idea and image of a Eurasia in Russian and Russophone literature, as well as in Soviet and post-Soviet film.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2130",
+            "course_name": "Russian Intellectual History",
+            "description": "RUSSN-GA 2130 Russian Intellectual History",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2131",
+            "course_name": "Under the Gaze of Others",
+            "description": "RUSSN-GA 2131 Under the Gaze of Others",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2133",
+            "course_name": "19Thc Women'S Lit in Russia, Europe, & U.S.",
+            "description": "RUSSN-GA 2133 19Thc Women'S Lit in Russia, Europe, & U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2134",
+            "course_name": "Inventing a Usable Past: The Case of Russia",
+            "description": "RUSSN-GA 2134 Inventing a Usable Past: The Case of Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2135",
+            "course_name": "Reading Post-Socialist Russia",
+            "description": "RUSSN-GA 2135 Reading Post-Socialist Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2136",
+            "course_name": "Russian Literature and Empire",
+            "description": "RUSSN-GA 2136 Russian Literature and Empire",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2137",
+            "course_name": "Grad Research Seminar and Practicum",
+            "description": "RUSSN-GA 2137 Grad Research Seminar and Practicum",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2138",
+            "course_name": "Russia's Cultural Mythologies: Topos, Text, Commonplace",
+            "description": "RUSSN-GA 2138 Russia's Cultural Mythologies: Topos, Text, Commonplace",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2139",
+            "course_name": "Marxist Aesthetics in Russia",
+            "description": "RUSSN-GA 2139 Marxist Aesthetics in Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2149",
+            "course_name": "Dostoevsky & Modernity",
+            "description": "RUSSN-GA 2149 Dostoevsky & Modernity",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2163",
+            "course_name": "Imperial Russia",
+            "description": "RUSSN-GA 2163 Imperial Russia",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2200",
+            "course_name": "Major Russian Authors: Pushkin",
+            "description": "RUSSN-GA 2200 Major Russian Authors: Pushkin \nThorough examination of Pushkin?s major works in poetry, prose, and drama, with an introduction to critical treatments of Pushkin from the early stages to contemporary approaches.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2201",
+            "course_name": "Literature Seminar St. Petersburg",
+            "description": "RUSSN-GA 2201 Literature Seminar St. Petersburg",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2202",
+            "course_name": "Gogol",
+            "description": "RUSSN-GA 2202 Gogol \nCritical introduction to Gogol?s work. Close reading of his principal texts. Includes Gogol?s dramatic work and Selected Passages from Correspondence with Friends. Explores the debates surrounding Gogol and his heritage between East and West.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2204",
+            "course_name": "Dostoevsky",
+            "description": "RUSSN-GA 2204 Dostoevsky",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2206",
+            "course_name": "Major Russian Authors: Turgenev",
+            "description": "RUSSN-GA 2206 Major Russian Authors: Turgenev",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2208",
+            "course_name": "Major Russian Authors: Tolstoy",
+            "description": "RUSSN-GA 2208 Major Russian Authors: Tolstoy \nStudy of Tolstoy?s and Dostoevsky?s major novels as well as some shorter works and nonfictional writings; consideration of the critical tradition that has grown up around both writers, with attention to their role in the Russian canon and world literature.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2210",
+            "course_name": "Major Russian Authors: Chekhov",
+            "description": "RUSSN-GA 2210 Major Russian Authors: Chekhov \nCritical introduction to Chekhov?s work. Examination of Chekhov?s creative art, with emphasis on the evolution of the thematic and formal elements in his prose. Chekhov?s place within the Russian literary tradition is assessed. Considers Chekhov?s plays and his importance as a dramatist.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2290",
+            "course_name": "Malevich",
+            "description": "RUSSN-GA 2290 Malevich \nExamination of the work and thought of the 20th-century artist Kazimir Malevich.",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2292",
+            "course_name": "Sem 19 Century Russ Lit",
+            "description": "RUSSN-GA 2292 Sem 19 Century Russ Lit",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2301",
+            "course_name": "Formalism, Structuralism in Literature",
+            "description": "RUSSN-GA 2301 Formalism, Structuralism in Literature",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2302",
+            "course_name": "Russian Formalism",
+            "description": "RUSSN-GA 2302 Russian Formalism",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2304",
+            "course_name": "Spc Std Frm/Strc Lit Cri",
+            "description": "RUSSN-GA 2304 Spc Std Frm/Strc Lit Cri",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2610",
+            "course_name": "Special Topics in Theory:",
+            "description": "RUSSN-GA 2610 Special Topics in Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2900",
+            "course_name": "Studies in Lit & The Arts of Performance",
+            "description": "RUSSN-GA 2900 Studies in Lit & The Arts of Performance",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 2957",
+            "course_name": "Freud, Lacan, Bakhtin",
+            "description": "RUSSN-GA 2957 Freud, Lacan, Bakhtin",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3005",
+            "course_name": "Central Europ/Czech Lit",
+            "description": "RUSSN-GA 3005 Central Europ/Czech Lit",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3009",
+            "course_name": "The Spiritual in 20th C Russian Art",
+            "description": "RUSSN-GA 3009 The Spiritual in 20th C Russian Art",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3106",
+            "course_name": "Sp St:Russ-W Euro Lit Re",
+            "description": "RUSSN-GA 3106 Sp St:Russ-W Euro Lit Re",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3213",
+            "course_name": "Tpcs: Nats, States, Ethn East Eur/Russ/Soviet Un",
+            "description": "RUSSN-GA 3213 Tpcs: Nats, States, Ethn East Eur/Russ/Soviet Un",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3592",
+            "course_name": "Sem Slavic Linguistics",
+            "description": "RUSSN-GA 3592 Sem Slavic Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3901",
+            "course_name": "Eastern Europe",
+            "description": "RUSSN-GA 3901 Eastern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 3991",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1731",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "RUSSN-GA 3991 Research",
+            "offering": true
+        },
+        {
+            "course_id": "RUSSN-GA 9005",
+            "course_name": "Cent European & Czech Literature & Culture",
+            "description": "RUSSN-GA 9005 Cent European & Czech Literature & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "RUSSN-GA 9991",
+            "course_name": "Independent Research",
+            "description": "RUSSN-GA 9991 Independent Research",
+            "offering": false
+        }
+    ]
+}

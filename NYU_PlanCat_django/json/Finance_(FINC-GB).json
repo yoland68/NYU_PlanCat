@@ -1,0 +1,1903 @@
+{
+    "major_id": "FINC-GB",
+    "file": "./2015-2016/Finance_(FINC-GB).html",
+    "courses": [
+        {
+            "course_id": "FINC-GB 2000",
+            "course_name": "Futures & Options Worksp",
+            "description": "FINC-GB 2000 Futures & Options Worksp",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2100",
+            "course_name": "Management Communication",
+            "description": "FINC-GB 2100 Management Communication",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2101",
+            "course_name": "Corporate Finance I",
+            "description": "FINC-GB 2101 Corporate Finance I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2102",
+            "course_name": "Advanced Corp Finance",
+            "description": "FINC-GB 2102 Advanced Corp Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2103",
+            "course_name": "Corporate Finance-Part B",
+            "description": "FINC-GB 2103 Corporate Finance-Part B",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2104",
+            "course_name": "Restructuring Firms & in",
+            "description": "FINC-GB 2104 Restructuring Firms & in",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2107",
+            "course_name": "TOPICS:FINANCIAL CRISIS",
+            "description": "FINC-GB 2107 TOPICS:FINANCIAL CRISIS \nTOPICS:FINANCIAL CRISIS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20275",
+                    "section": "10",
+                    "period": "09/29/2015 - 11/10/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Gordon, Robert"
+                }
+            ],
+            "course_name": "TAXES & INVESTING",
+            "description": "FINC-GB 2110 TAXES & INVESTING \nTAXES & INVESTING",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2111",
+            "course_name": "BEHAVRL ECONOMICS&FINANCE",
+            "description": "FINC-GB 2111 BEHAVRL ECONOMICS&FINANCE \nBEHAVRL ECONOMICS&FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2112",
+            "course_name": "EMPRCAL METHODS CORP FINC",
+            "description": "FINC-GB 2112 EMPRCAL METHODS CORP FINC \nEMPRCAL METHODS CORP FINC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2125",
+            "course_name": "Emrg Finc Mkts-Emph Chin",
+            "description": "FINC-GB 2125 Emrg Finc Mkts-Emph Chin",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2129",
+            "course_name": "Princpls Real Estate Fin",
+            "description": "FINC-GB 2129 Princpls Real Estate Fin",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2134",
+            "course_name": "LAW&BUSINESS OF BITCOIN",
+            "description": "FINC-GB 2134 LAW&BUSINESS OF BITCOIN \nLAW&BUSINESS OF BITCOIN",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2139",
+            "course_name": "Real Estate Finance",
+            "description": "FINC-GB 2139 Real Estate Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2150",
+            "course_name": "FINANCL CRISIS 2007-2009",
+            "description": "FINC-GB 2150 FINANCL CRISIS 2007-2009 \nFINANCL CRISIS 2007-2009",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2181",
+            "course_name": "Intntl Trade & Finc -I",
+            "description": "FINC-GB 2181 Intntl Trade & Finc -I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2182",
+            "course_name": "Intl Trade & Finc - II",
+            "description": "FINC-GB 2182 Intl Trade & Finc - II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2183",
+            "course_name": "Int'L Trade & Finance II",
+            "description": "FINC-GB 2183 Int'L Trade & Finance II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2187",
+            "course_name": "Int'L Financial Mgmt",
+            "description": "FINC-GB 2187 Int'L Financial Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2188",
+            "course_name": "Global Fin/Macro Part I",
+            "description": "FINC-GB 2188 Global Fin/Macro Part I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2189",
+            "course_name": "Global Finc & Macro: II",
+            "description": "FINC-GB 2189 Global Finc & Macro: II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2230",
+            "course_name": "LAW&POLICY:FOREIGN INVSTM",
+            "description": "FINC-GB 2230 LAW&POLICY:FOREIGN INVSTM \nLAW&POLICY:FOREIGN INVSTM",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2234",
+            "course_name": "Investment Banking",
+            "description": "FINC-GB 2234 Investment Banking",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2239",
+            "course_name": "Real Estate Capital Mkts",
+            "description": "FINC-GB 2239 Real Estate Capital Mkts \nReal Estate Capital Mkts",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20276",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 3-50",
+                    "time": "Tue,Thu 3.00 PM - 4.20 PM",
+                    "open": true,
+                    "professor": "Liberman, Andres"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20277",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Mueller, Holger"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20278",
+                    "section": "11",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Schnabl, Philipp"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20279",
+                    "section": "12",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Marciano, Anthony"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20280",
+                    "section": "99",
+                    "period": "09/19/2015 - 12/12/2015",
+                    "location": "KMEC 4-80",
+                    "time": "Sat 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Schmeits, Anjolein"
+                }
+            ],
+            "course_name": "CORPORATE FINANCE",
+            "description": "FINC-GB 2302 CORPORATE FINANCE \nThis course is about economic principles: those governing the behavior of markets and firms\u2014and strategic interactions between firms. Situations faced by leading corporations are discussed",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2302",
+            "course_name": "CORPORATE FINANCE",
+            "description": "FINC-GB 2302 CORPORATE FINANCE \nCORPORATE FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2303",
+            "course_name": "Corporate Finance II",
+            "description": "FINC-GB 2303 Corporate Finance II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2304",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20281",
+                    "section": "10",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "KMEC 3-60",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Amihud, Yakov"
+                }
+            ],
+            "course_name": "RESTRUCT FIRMS&INDUSTRIES",
+            "description": "FINC-GB 2304 RESTRUCT FIRMS&INDUSTRIES \nThis course presents a comprehensive analysis of asset and liability restructuring. Topics include industrial organization economics; mergers and acquisitions; divestitures; corporate recapitalization; bankruptcy and reorganization in and out of court workouts; legal",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2304",
+            "course_name": "RESTRUCT FIRMS&INDUSTRIES",
+            "description": "FINC-GB 2304 RESTRUCT FIRMS&INDUSTRIES \nRESTRUCT FIRMS&INDUSTRIES",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2305",
+            "course_name": "Restruct Corp Assets",
+            "description": "FINC-GB 2305 Restruct Corp Assets",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20282",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 1-70",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Hintz, Charles; Ryan, Philip K"
+                }
+            ],
+            "course_name": "MANAGING FINANCIAL BUSINE",
+            "description": "FINC-GB 2310 MANAGING FINANCIAL BUSINE \nMANAGING FINANCIAL BUSINE",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2315",
+            "course_name": "Finc Modlng&Web Bsd Info",
+            "description": "FINC-GB 2315 Finc Modlng&Web Bsd Info",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2320",
+            "course_name": "Anal for Corp Fin Policy",
+            "description": "FINC-GB 2320 Anal for Corp Fin Policy",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2329",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20283",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": null,
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "KMEC 2-80"
+                }
+            ],
+            "course_name": "REAL ESTATE PRIMARY MRKTS",
+            "description": "FINC-GB 2329 REAL ESTATE PRIMARY MRKTS \nREAL ESTATE PRIMARY MRKTS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2330",
+            "course_name": "Financial Research Topic",
+            "description": "FINC-GB 2330 Financial Research Topic \nThis course focuses on recent research in finance. Faculty and students select recently published research or working papers from the Department of Finance seminar series, or faculty or student work-in-progress for intensive review and discussion.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2331",
+            "course_name": "FINANCIAL THEORY I",
+            "description": "FINC-GB 2331 FINANCIAL THEORY I \nFINANCIAL THEORY I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2332",
+            "course_name": "FINANCIAL THEORY II",
+            "description": "FINC-GB 2332 FINANCIAL THEORY II \nFINANCIAL THEORY II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2333",
+            "course_name": "FINANCIAL THEORY III",
+            "description": "FINC-GB 2333 FINANCIAL THEORY III \nFINANCIAL THEORY III",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2334",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20284",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 2-60",
+                    "time": "Tue,Thu 10.30 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Murphy, Charles"
+                }
+            ],
+            "course_name": "INVESTMENT BANKING",
+            "description": "FINC-GB 2334 INVESTMENT BANKING \nINVESTMENT BANKING",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2335",
+            "course_name": "REAL ESTATE INVSTMNT STRA",
+            "description": "FINC-GB 2335 REAL ESTATE INVSTMNT STRA \nREAL ESTATE INVSTMNT STRA",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2336",
+            "course_name": "Financial Theory III",
+            "description": "FINC-GB 2336 Financial Theory III",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2337",
+            "course_name": "FINANCIAL THEORY IV",
+            "description": "FINC-GB 2337 FINANCIAL THEORY IV \nFINANCIAL THEORY IV",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2338",
+            "course_name": "REAL ESTATE INVSTMNT STRA",
+            "description": "FINC-GB 2338 REAL ESTATE INVSTMNT STRA \nREAL ESTATE INVSTMNT STRA",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2339",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20285",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Hizmo, Aurel"
+                }
+            ],
+            "course_name": "REAL ESTATE CAPITAL MKTS",
+            "description": "FINC-GB 2339 REAL ESTATE CAPITAL MKTS \nREAL ESTATE CAPITAL MKTS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 2340",
+            "course_name": "Mortgage Back Securities",
+            "description": "FINC-GB 2340 Mortgage Back Securities",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2341",
+            "course_name": "REAL ESTATE INVSMNT STRAT",
+            "description": "FINC-GB 2341 REAL ESTATE INVSMNT STRAT \nREAL ESTATE INVSMNT STRAT",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2343",
+            "course_name": "Real Estate Mkt Analy",
+            "description": "FINC-GB 2343 Real Estate Mkt Analy",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2345",
+            "course_name": "Cases in Finc Mgmt",
+            "description": "FINC-GB 2345 Cases in Finc Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2349",
+            "course_name": "TRADING-CASH&DERIV SECURT | TRADING:CONCPTN,EVAL&EXEC",
+            "description": "FINC-GB 2349 TRADING-CASH&DERIV SECURT | TRADING:CONCPTN,EVAL&EXEC \nTRADING:CONCPTN,EVAL&EXEC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2350",
+            "course_name": "ALTNTIV INVESTM I:STRATGY",
+            "description": "FINC-GB 2350 ALTNTIV INVESTM I:STRATGY \nALTNTIV INVESTM I:STRATGY",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2351",
+            "course_name": "ALTRNATV INVESTM II:APPLC",
+            "description": "FINC-GB 2351 ALTRNATV INVESTM II:APPLC \nALTRNATV INVESTM II:APPLC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2376",
+            "course_name": "",
+            "description": "FINC-GB 2376\n\n   Fincng/Invstg Pension Vh\n\nApplication of Finance and Portfolio Theory to Financing Retirement covers the three Pillars of Retirement: (1) Social Security and Medicare, (2) employer sponsored plans (defined benefit, hybrid and defined contribution) and (3) personal and family plans (IRAs, HSAs and Long Term Care policies). Over trillion is now invested in a variety of U.S. pension vehicles, with complex finance and portfolio management issues confronting the government, corporations and individuals. All are explored at an analytical and practical level in this course. Knowledge of formal financial theory and portfolio m...\n\n      more description for FINC-GB 2376 \u00bb\n\n      \n\n\n\nApplication of Finance and Portfolio Theory to Financing Retirement covers the three Pillars of Retirement: (1) Social Security and Medicare, (2) employer sponsored plans (defined benefit, hybrid and defined contribution) and (3) personal and family plans (IRAs, HSAs and Long Term Care policies). Over trillion is now invested in a variety of U.S. pension vehicles, with complex finance and portfolio management issues confronting the government, corporations and individuals. All are explored at an analytical and practical level in this course. Knowledge of formal financial theory and portfolio management is desirable but not required.\n\n      less description for FINC-GB 2376 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2387",
+            "course_name": "Global Finance & Macro",
+            "description": "FINC-GB 2387 Global Finance & Macro",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2602",
+            "course_name": "Corp Finance & Corp Law",
+            "description": "FINC-GB 2602 Corp Finance & Corp Law",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2634",
+            "course_name": "Financial Theory I",
+            "description": "FINC-GB 2634 Financial Theory I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2635",
+            "course_name": "Financial Theory II",
+            "description": "FINC-GB 2635 Financial Theory II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 2687",
+            "course_name": "Intl Finan Mgmt",
+            "description": "FINC-GB 2687 Intl Finan Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3070",
+            "course_name": "Independent Study Cf",
+            "description": "FINC-GB 3070 Independent Study Cf",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3100",
+            "course_name": "Advanced Derivatives",
+            "description": "FINC-GB 3100 Advanced Derivatives",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3101",
+            "course_name": "Advanced Derivatives II",
+            "description": "FINC-GB 3101 Advanced Derivatives II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3102",
+            "course_name": "Advanced Derivatives II",
+            "description": "FINC-GB 3102 Advanced Derivatives II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3103",
+            "course_name": "INTL INVESTMENTS ANALYSIS",
+            "description": "FINC-GB 3103 INTL INVESTMENTS ANALYSIS \nINTL INVESTMENTS ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3105",
+            "course_name": "VOLATILITY",
+            "description": "FINC-GB 3105 VOLATILITY \nVOLATILITY",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3106",
+            "course_name": "TOPICS IN CREDIT RISK",
+            "description": "FINC-GB 3106 TOPICS IN CREDIT RISK \nTOPICS IN CREDIT RISK",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3107",
+            "course_name": "Glob Banking & Capit Mkt",
+            "description": "FINC-GB 3107 Glob Banking & Capit Mkt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3108",
+            "course_name": "SEM-STERN FINC FCLTY RSCH",
+            "description": "FINC-GB 3108 SEM-STERN FINC FCLTY RSCH \nSEM-STERN FINC FCLTY RSCH",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3110",
+            "course_name": "Special Topics",
+            "description": "FINC-GB 3110 Special Topics \nTopics vary from semester to semester; check registration information and department bulletin boards for current offerings. Advanced topics of current interest are offered that illustrate current theory and empirical findings in actual case settings. Students may only elect this course once in their degree program.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3111",
+            "course_name": "Option Pricing",
+            "description": "FINC-GB 3111 Option Pricing",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3112",
+            "course_name": "RISK MGMT FINANCIAL INSTS",
+            "description": "FINC-GB 3112 RISK MGMT FINANCIAL INSTS \nRISK MGMT FINANCIAL INSTS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3113",
+            "course_name": "Risk Planning & Insuranc",
+            "description": "FINC-GB 3113 Risk Planning & Insuranc",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3114",
+            "course_name": "Finc Mkts Struct & Regul",
+            "description": "FINC-GB 3114 Finc Mkts Struct & Regul",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3115",
+            "course_name": "China Power Plant Projec",
+            "description": "FINC-GB 3115 China Power Plant Projec",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3117",
+            "course_name": "Equity Analysis",
+            "description": "FINC-GB 3117 Equity Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3118",
+            "course_name": "TOPICS:HEDGE FUND STRA II",
+            "description": "FINC-GB 3118 TOPICS:HEDGE FUND STRA II \nTOPICS:HEDGE FUND STRA II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3119",
+            "course_name": "Structured Finance",
+            "description": "FINC-GB 3119 Structured Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3120",
+            "course_name": "PRIVATE BANK&WEALTH MGMT",
+            "description": "FINC-GB 3120 PRIVATE BANK&WEALTH MGMT \nPRIVATE BANK&WEALTH MGMT",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3121",
+            "course_name": "TOPICS: HEDGE FUND STRATG",
+            "description": "FINC-GB 3121 TOPICS: HEDGE FUND STRATG \nTOPICS: HEDGE FUND STRATG",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3122",
+            "course_name": "INVESTMENT STRATEGIES",
+            "description": "FINC-GB 3122 INVESTMENT STRATEGIES \nINVESTMENT STRATEGIES",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3123",
+            "course_name": "Private Placements",
+            "description": "FINC-GB 3123 Private Placements",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3124",
+            "course_name": "Investment Philosophies",
+            "description": "FINC-GB 3124 Investment Philosophies \nThis is a course designed to expose students to a wide range of investment philosophies. Each week leading professionals or academics speak on a particular philosophy, how it is put into practice, and what determines ultimate success. The intent is to provide an unbiased forum for the presentation of different investment styles, while supplying tools and empirical evidence to enable students to make their own judgments about the relative value of these various philosophies.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3125",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20286",
+                    "section": "10",
+                    "period": "09/17/2015 - 10/22/2015",
+                    "location": "KMEC 4-60",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Smith, Thomas"
+                }
+            ],
+            "course_name": "CORP STRAT & FINC IN EMT",
+            "description": "FINC-GB 3125 CORP STRAT & FINC IN EMT \nCORP STRAT & FINC IN EMT",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3126",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20287",
+                    "section": "10",
+                    "period": "10/29/2015 - 12/10/2015",
+                    "location": "KMEC 4-60",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Dixon, Christopher"
+                }
+            ],
+            "course_name": "FINC ANAL-ENTERTAIN&MEDIA",
+            "description": "FINC-GB 3126 FINC ANAL-ENTERTAIN&MEDIA \nFINC ANAL-ENTERTAIN&MEDIA",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3127",
+            "course_name": "Structured Finance",
+            "description": "FINC-GB 3127 Structured Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3128",
+            "course_name": "BUS DEV MEDIA&ENTERTNMENT",
+            "description": "FINC-GB 3128 BUS DEV MEDIA&ENTERTNMENT \nBUS DEV MEDIA&ENTERTNMENT",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3129",
+            "course_name": "BEHAV & EXP FINANCE",
+            "description": "FINC-GB 3129 BEHAV & EXP FINANCE \nBEHAV & EXP FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3131",
+            "course_name": "Valuation",
+            "description": "FINC-GB 3131 Valuation",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3132",
+            "course_name": "Adv Portofolio Anal",
+            "description": "FINC-GB 3132 Adv Portofolio Anal",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3133",
+            "course_name": "Debt Instruments & Mkts",
+            "description": "FINC-GB 3133 Debt Instruments & Mkts",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3134",
+            "course_name": "Computer Aided Bond Star",
+            "description": "FINC-GB 3134 Computer Aided Bond Star",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3135",
+            "course_name": "Derivatives",
+            "description": "FINC-GB 3135 Derivatives",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3136",
+            "course_name": "Options Theory&Applicati",
+            "description": "FINC-GB 3136 Options Theory&Applicati",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3140",
+            "course_name": "Entertainment Finance",
+            "description": "FINC-GB 3140 Entertainment Finance \nTopics vary from semester to semester; check registration packets and department bulletin boards for current offerings. Topics include entertainment industry special characteristics related to incentive contracts and to complex revenue/profit-sharing agreements. Cases and class discussions also look at how entertainment companies interact with the financial markets and how novel financing arrangements such as the securitization of receipts are changing the industry.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3143",
+            "course_name": "DIGITAL MUSIC BUSINESS",
+            "description": "FINC-GB 3143 DIGITAL MUSIC BUSINESS \nDIGITAL MUSIC BUSINESS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3145",
+            "course_name": "INVEST BNKG&PRIV EQTY-EMT",
+            "description": "FINC-GB 3145 INVEST BNKG&PRIV EQTY-EMT \nINVEST BNKG&PRIV EQTY-EMT",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3148",
+            "course_name": "SOCIAL VENTURE CAPITAL",
+            "description": "FINC-GB 3148 SOCIAL VENTURE CAPITAL \nSOCIAL VENTURE CAPITAL",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3149",
+            "course_name": "STRUCTUR&DYNMCS:FINC MKTS",
+            "description": "FINC-GB 3149 STRUCTUR&DYNMCS:FINC MKTS \nSTRUCTUR&DYNMCS:FINC MKTS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3150",
+            "course_name": "Intl Treasury Management",
+            "description": "FINC-GB 3150 Intl Treasury Management",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3151",
+            "course_name": "Risk Mgmt in Banking",
+            "description": "FINC-GB 3151 Risk Mgmt in Banking",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3152",
+            "course_name": "Intl Treasury Risk Mgmt",
+            "description": "FINC-GB 3152 Intl Treasury Risk Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3154",
+            "course_name": "LAW&BUSINESS MICROFINANCE",
+            "description": "FINC-GB 3154 LAW&BUSINESS MICROFINANCE \nLAW&BUSINESS MICROFINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3160",
+            "course_name": "TOPICS IN CORP FINANCE",
+            "description": "FINC-GB 3160 TOPICS IN CORP FINANCE \nTOPICS IN CORP FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3161",
+            "course_name": "CASES IN CORP FINANCE",
+            "description": "FINC-GB 3161 CASES IN CORP FINANCE \nCASES IN CORP FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3162",
+            "course_name": "Financial E-Commerce",
+            "description": "FINC-GB 3162 Financial E-Commerce \nThis course focuses on the transactions and payment side of Web-based electronic commerce. Topics include electronic bill presentment and payment; financial electronic data interchange models that integrate trading partners and financial institutions; payment models for business-consumer payments; business-to-business electronic procurement models; and Web-enabled credit management. Case studies and extensive Web \"visiting\" are part of this course.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3163",
+            "course_name": "Topics in Valuation",
+            "description": "FINC-GB 3163 Topics in Valuation",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3164",
+            "course_name": "",
+            "description": "FINC-GB 3164\n\n   Topics in Intl Corp Finc\n\nA. To emphasize the pragmatic applications of theory. Dr. Abuaf, a former Chicago academic with 25 years of Wall Street experience will share his experiences with a wide array of his clients (see his bio), and will encourage students to comment B. To emphasize action learning and cross learning from classmates, we will use case studies, and group projects in addition to lectures C. To familiarize students with basic international macroeconomic and international corporate finance risk management concepts D. To analyze and discuss current macroeconomic and corporate finance trends using sound ec...\n\n      more description for FINC-GB 3164 \u00bb\n\n      \n\n\n\nA. To emphasize the pragmatic applications of theory. Dr. Abuaf, a former Chicago academic with 25 years of Wall Street experience will share his experiences with a wide array of his clients (see his bio), and will encourage students to comment B. To emphasize action learning and cross learning from classmates, we will use case studies, and group projects in addition to lectures C. To familiarize students with basic international macroeconomic and international corporate finance risk management concepts D. To analyze and discuss current macroeconomic and corporate finance trends using sound economic and finance theories E. To help students synthesize the theory, the empirical evidence, market color and various other constraints in making pragmatic corporate finance management recommendations\n\n      less description for FINC-GB 3164 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3165",
+            "course_name": "PRIVATE EQUITY FINANCE | TOPICS:PRIVATE EQUITY FIN",
+            "description": "FINC-GB 3165 PRIVATE EQUITY FINANCE | TOPICS:PRIVATE EQUITY FIN \nPRIVATE EQUITY FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3166",
+            "course_name": "Tpcs:Operating Hedge Fnd",
+            "description": "FINC-GB 3166 Tpcs:Operating Hedge Fnd",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3170",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "FINC-GB 3170 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3171",
+            "course_name": "Fin Opers of Insuran Com",
+            "description": "FINC-GB 3171 Fin Opers of Insuran Com",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3172",
+            "course_name": "Investng Fr Pension Fund",
+            "description": "FINC-GB 3172 Investng Fr Pension Fund",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3173",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20288",
+                    "section": "10",
+                    "period": "09/21/2015 - 10/26/2015",
+                    "location": "KMEC 4-60",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "D'Souza, Ian"
+                }
+            ],
+            "course_name": "VENTURE CAPITAL FINANCING",
+            "description": "FINC-GB 3173 VENTURE CAPITAL FINANCING \nVENTURE CAPITAL FINANCING",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3175",
+            "course_name": "Equity Mkt Microstructur",
+            "description": "FINC-GB 3175 Equity Mkt Microstructur",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3176",
+            "course_name": "TOPICS IN INVESTMENTS",
+            "description": "FINC-GB 3176 TOPICS IN INVESTMENTS \nTOPICS IN INVESTMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3177",
+            "course_name": "Topics in Investments",
+            "description": "FINC-GB 3177 Topics in Investments",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3178",
+            "course_name": "Topics in Re Finance",
+            "description": "FINC-GB 3178 Topics in Re Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3179",
+            "course_name": "Special Seminar in Finan",
+            "description": "FINC-GB 3179 Special Seminar in Finan \nCourse will cover the managerial aspects and characteristics of Hedge funds and the Hedge-fund industry.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3181",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20289",
+                    "section": "10",
+                    "period": "11/17/2015 - 12/22/2015",
+                    "location": "KMEC 3-80",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Gordon, Robert"
+                }
+            ],
+            "course_name": "APPLIC OF PORTFOLIO ANAL",
+            "description": "FINC-GB 3181 APPLIC OF PORTFOLIO ANAL \nAPPLIC OF PORTFOLIO ANAL",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3182",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20290",
+                    "section": "10",
+                    "period": "09/17/2015 - 10/22/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Rosenwald, James"
+                }
+            ],
+            "course_name": "GLOBAL VALUE INVESTING",
+            "description": "FINC-GB 3182 GLOBAL VALUE INVESTING \nGLOBAL VALUE INVESTING",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3183",
+            "course_name": "Inv Timing & Port Mgmt",
+            "description": "FINC-GB 3183 Inv Timing & Port Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3185",
+            "course_name": "Spread of Corp Secur & O",
+            "description": "FINC-GB 3185 Spread of Corp Secur & O",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3186",
+            "course_name": "PROJ FIN & INFRASTR INVES",
+            "description": "FINC-GB 3186 PROJ FIN & INFRASTR INVES \nPROJ FIN & INFRASTR INVES",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3187",
+            "course_name": "Domestic Arbitrage",
+            "description": "FINC-GB 3187 Domestic Arbitrage",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3188",
+            "course_name": "TOPICS-INTERNATIONAL FINC",
+            "description": "FINC-GB 3188 TOPICS-INTERNATIONAL FINC \nTOPICS-INTERNATIONAL FINC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3190",
+            "course_name": "Honors Project Course",
+            "description": "FINC-GB 3190 Honors Project Course",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3191",
+            "course_name": "Honors Project Course",
+            "description": "FINC-GB 3191 Honors Project Course",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3192",
+            "course_name": "MINI SEM MICROSTRUCTURE",
+            "description": "FINC-GB 3192 MINI SEM MICROSTRUCTURE \nMINI SEM MICROSTRUCTURE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3194",
+            "course_name": "Futures & Hedging",
+            "description": "FINC-GB 3194 Futures & Hedging",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3195",
+            "course_name": "Intro to Portfolio Anal",
+            "description": "FINC-GB 3195 Intro to Portfolio Anal",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3196",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20291",
+                    "section": "10",
+                    "period": "11/04/2015 - 12/16/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Amihud, Yakov"
+                }
+            ],
+            "course_name": "MERGERS & ACQUISITIONS",
+            "description": "FINC-GB 3196 MERGERS & ACQUISITIONS \nMERGERS & ACQUISITIONS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3197",
+            "course_name": "LEGAL RISK ISSUES: M & A",
+            "description": "FINC-GB 3197 LEGAL RISK ISSUES: M & A \nLEGAL RISK ISSUES: M & A",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3198",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20292",
+                    "section": "01",
+                    "period": "09/03/2015 - 10/22/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Tue,Thu 10.30 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Altman, Edward; Kovensky, Stuart"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20293",
+                    "section": "10",
+                    "period": "09/17/2015 - 10/22/2015",
+                    "location": "KMEC 4-120",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Altman, Edward; Peck, James"
+                }
+            ],
+            "course_name": "BANKRUPTCY & REORG",
+            "description": "FINC-GB 3198 BANKRUPTCY & REORG \nBANKRUPTCY & REORG",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3199",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20294",
+                    "section": "10",
+                    "period": "09/16/2015 - 10/28/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Holmes, Achim"
+                }
+            ],
+            "course_name": "CASE STDS-BANKRPCY&REORGS",
+            "description": "FINC-GB 3199 CASE STDS-BANKRPCY&REORGS \nCASE STDS-BANKRPCY&REORGS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3217",
+            "course_name": "Equity Analysis",
+            "description": "FINC-GB 3217 Equity Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3227",
+            "course_name": "STRUCTURED FINANCE",
+            "description": "FINC-GB 3227 STRUCTURED FINANCE \nSTRUCTURED FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3231",
+            "course_name": "VALUATION",
+            "description": "FINC-GB 3231 VALUATION \nVALUATION",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3233",
+            "course_name": "DEBT INSTRUMENTS",
+            "description": "FINC-GB 3233 DEBT INSTRUMENTS \nDEBT INSTRUMENTS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3261",
+            "course_name": "CASES IN CORP FINANCE",
+            "description": "FINC-GB 3261 CASES IN CORP FINANCE \nCASES IN CORP FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3271",
+            "course_name": "CASES IN INTL INSOLVENCY",
+            "description": "FINC-GB 3271 CASES IN INTL INSOLVENCY \nCASES IN INTL INSOLVENCY",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3273",
+            "course_name": "NEW VENTURE FINANCING",
+            "description": "FINC-GB 3273 NEW VENTURE FINANCING \nNEW VENTURE FINANCING",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3287",
+            "course_name": "GLOBAL BKNG & CAP MKTS",
+            "description": "FINC-GB 3287 GLOBAL BKNG & CAP MKTS \nGLOBAL BKNG & CAP MKTS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3296",
+            "course_name": "MERGERS & ACQUISITIONS",
+            "description": "FINC-GB 3296 MERGERS & ACQUISITIONS \nMERGERS & ACQUISITIONS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3300",
+            "course_name": "Municipal Securities Mar",
+            "description": "FINC-GB 3300 Municipal Securities Mar",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3305",
+            "course_name": "CREDIT RISK",
+            "description": "FINC-GB 3305 CREDIT RISK \nCREDIT RISK",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3306",
+            "course_name": "Credit Risk & Bankruptcy",
+            "description": "FINC-GB 3306 Credit Risk & Bankruptcy",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3310",
+            "course_name": "Spoken Commun Fr Fin Exe",
+            "description": "FINC-GB 3310 Spoken Commun Fr Fin Exe",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3311",
+            "course_name": "VALUATION",
+            "description": "FINC-GB 3311 VALUATION \nVALUATION",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3312",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20295",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 3-60",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Philippon, Thomas"
+                }
+            ],
+            "course_name": "RISK MGMT IN FINC INSTIT",
+            "description": "FINC-GB 3312 RISK MGMT IN FINC INSTIT \nRISK MGMT IN FINC INSTIT",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3313",
+            "course_name": "Risk & Insurance",
+            "description": "FINC-GB 3313 Risk & Insurance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3314",
+            "course_name": "Regul&Innovat in Fin Mkt",
+            "description": "FINC-GB 3314 Regul&Innovat in Fin Mkt",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3315",
+            "course_name": "Valuation & Cash Flow",
+            "description": "FINC-GB 3315 Valuation & Cash Flow",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3317",
+            "course_name": "Equity Analysis",
+            "description": "FINC-GB 3317 Equity Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3318",
+            "course_name": "SEM IN FIN INSTITUTIONS",
+            "description": "FINC-GB 3318 SEM IN FIN INSTITUTIONS \nSEM IN FIN INSTITUTIONS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3320",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20296",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 3-120 with Marciano, Anthony09/03/2015 - 12/10/2015 Tue,Thu 12.00 PM - 1.20 PM at KMEC 3-60 with Marciano, Anthony09/03/2015 - 12/10/2015 Tue,Thu 12.00 PM - 1.20 PM at KMEC 3-80",
+                    "time": "Tue,Thu 12.00 PM - 1.20 PM",
+                    "open": true,
+                    "professor": "Marciano, Anthony"
+                }
+            ],
+            "course_name": "MANAGING INVESTMENT FUNDS",
+            "description": "FINC-GB 3320 MANAGING INVESTMENT FUNDS \nMANAGING INVESTMENT FUNDS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3321",
+            "course_name": "HEDGE FUND STRATEGIES",
+            "description": "FINC-GB 3321 HEDGE FUND STRATEGIES \nHEDGE FUND STRATEGIES",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3323",
+            "course_name": "Private Equity",
+            "description": "FINC-GB 3323 Private Equity",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3325",
+            "course_name": "Working Capital Managmen",
+            "description": "FINC-GB 3325 Working Capital Managmen \nAcquaints students with the modern techniques and practices of short-term corporate finance. The primary focus is on the management of the firm's liquid assets: cash and securities, accounts receivable, and inventories. The importance of good forecasting technique and comprehensive information systems is discussed. Cases and examples illustrate the variety of short-term financing sources and the complications on multinational working capital flows.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3326",
+            "course_name": "Structured Finance",
+            "description": "FINC-GB 3326 Structured Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3328",
+            "course_name": "SEM IN CORPORATE FINANCE",
+            "description": "FINC-GB 3328 SEM IN CORPORATE FINANCE \nSEM IN CORPORATE FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3329",
+            "classes": [
+                {}
+            ],
+            "course_name": "BEHAVIORAL FINANCE",
+            "description": "FINC-GB 3329 BEHAVIORAL FINANCE \nBEHAVIORAL FINANCE",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3330",
+            "course_name": "Fixed Income Securities",
+            "description": "FINC-GB 3330 Fixed Income Securities",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3331",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20298",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/14/2015",
+                    "location": "TISC UC50",
+                    "time": "Mon,Wed 10.30 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Damodaran, Aswath"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20299",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 3-65",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Schmeits, Anjolein"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20300",
+                    "section": "99",
+                    "period": "09/19/2015 - 12/12/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Sat 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Levine, Richard"
+                }
+            ],
+            "course_name": "VALUATION",
+            "description": "FINC-GB 3331 VALUATION \nVALUATION",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3332",
+            "course_name": "Mdrn Prtfl Thry&Asst Mgm | PORTFOLIO MANAGEMENT",
+            "description": "FINC-GB 3332 Mdrn Prtfl Thry&Asst Mgm | PORTFOLIO MANAGEMENT \nPORTFOLIO MANAGEMENT",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3333",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20301",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Tue,Thu 1.30 PM - 2.50 PM",
+                    "open": true,
+                    "professor": "Tuckman, Bruce"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20302",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Tuckman, Bruce"
+                }
+            ],
+            "course_name": "DEBT INSTRUMENTS & MKTS",
+            "description": "FINC-GB 3333 DEBT INSTRUMENTS & MKTS \nDEBT INSTRUMENTS & MKTS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3334",
+            "course_name": "Quant Modeling in Financ",
+            "description": "FINC-GB 3334 Quant Modeling in Financ",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3335",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20303",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 3-60",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Figlewski, Stephen"
+                }
+            ],
+            "course_name": "FUTURES & OPTIONS",
+            "description": "FINC-GB 3335 FUTURES & OPTIONS \nFUTURES & OPTIONS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3336",
+            "course_name": "Advanced Futures & Optio",
+            "description": "FINC-GB 3336 Advanced Futures & Optio",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3338",
+            "course_name": "Seminar in Investments",
+            "description": "FINC-GB 3338 Seminar in Investments \nPrepares advanced doctoral students for the comprehensive examination and for independent research. Focus is on current research topics in financial instruments and in portfolio theory analysis and testing.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3340",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20304",
+                    "section": "01",
+                    "period": "09/02/2015 - 12/14/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Mon,Wed 10.30 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Subrahmanyam, Marti"
+                }
+            ],
+            "course_name": "ADVANCD FUTURES & OPTIONS",
+            "description": "FINC-GB 3340 ADVANCD FUTURES & OPTIONS \nADVANCD FUTURES & OPTIONS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3341",
+            "course_name": "Corporate Debt Strategie",
+            "description": "FINC-GB 3341 Corporate Debt Strategie",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3342",
+            "course_name": "Fin Dot Com",
+            "description": "FINC-GB 3342 Fin Dot Com",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3343",
+            "course_name": "THE BUS OF MUSIC & FILM",
+            "description": "FINC-GB 3343 THE BUS OF MUSIC & FILM \nTHE BUS OF MUSIC & FILM",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3344",
+            "course_name": "Entertainment Finance",
+            "description": "FINC-GB 3344 Entertainment Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3345",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20305",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "Dick, Stacy; Steinberg, Lewis",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "LAW & BUS OF CORP TRANS",
+            "description": "FINC-GB 3345 LAW & BUS OF CORP TRANS \nLAW & BUS OF CORP TRANS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3346",
+            "course_name": "Legal Foundation/Appl Fi",
+            "description": "FINC-GB 3346 Legal Foundation/Appl Fi \nThis course provides an introduction to how the laws of contracts, property, and other areas influence financial markets and transactions. Topics include contract formation; damages or breach of contract; fiduciary duties; property rights; the growth and importance of intellectual property; tort liability; and the role of litigation in corporate governance. Some introduction to the structure of the U.S. legal system and comparisons with other countries are also included.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3347",
+            "course_name": "Topics in Corp Governanc",
+            "description": "FINC-GB 3347 Topics in Corp Governanc",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3348",
+            "course_name": "INVESTING:ENVRNMNT&SOCIAL",
+            "description": "FINC-GB 3348 INVESTING:ENVRNMNT&SOCIAL \nINVESTING:ENVRNMNT&SOCIAL",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3349",
+            "course_name": "Equity Mkts Trdng &Strct",
+            "description": "FINC-GB 3349 Equity Mkts Trdng &Strct \nThis course takes a comprehensive overview look at how markets are organized and how trading occurs. It establishes a framework for understanding how existing markets are set up, how trading occurs in them, and how these markets evolve over time. While the course concentrates on securities markets and trading practices, most of the principles developed are also applicable to other kinds of markets-markets for products, service, and information. Course requirements include some limited computerized trading simulations and a course paper related to some aspect of a new trading market.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3350",
+            "course_name": "Intl Treasury Mangement",
+            "description": "FINC-GB 3350 Intl Treasury Mangement",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3351",
+            "course_name": "Advanced Derivatives I",
+            "description": "FINC-GB 3351 Advanced Derivatives I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3352",
+            "course_name": "Adv Derivatives Part II",
+            "description": "FINC-GB 3352 Adv Derivatives Part II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3353",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20306",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "Roth, Paul; Zicklin, Lawrence",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "LAW&MGMT FINANCL SERVICES",
+            "description": "FINC-GB 3353 LAW&MGMT FINANCL SERVICES \nLAW&MGMT FINANCL SERVICES",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3354",
+            "course_name": "LAW & BUS IN MICROFINANCE",
+            "description": "FINC-GB 3354 LAW & BUS IN MICROFINANCE \nLAW & BUS IN MICROFINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3357",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20307",
+                    "section": "10",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Walter, Ingo; Rappaport, Alan; Zaharoff, Alexander"
+                }
+            ],
+            "course_name": "GLBL WEALTH MGT&PRVT BNKG",
+            "description": "FINC-GB 3357 GLBL WEALTH MGT&PRVT BNKG \nGLBL WEALTH MGT&PRVT BNKG",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3358",
+            "course_name": "Global Investment Bankin",
+            "description": "FINC-GB 3358 Global Investment Bankin",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3361",
+            "course_name": "ENTREPRENEURIAL FINANCE",
+            "description": "FINC-GB 3361 ENTREPRENEURIAL FINANCE \nENTREPRENEURIAL FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3365",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20308",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Tue,Thu 9.00 AM - 10.20 AM",
+                    "open": true,
+                    "professor": "Schwed, Gustavo R"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20309",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Schwed, Gustavo R"
+                }
+            ],
+            "course_name": "PRIVATE EQUITY FINANCE",
+            "description": "FINC-GB 3365 PRIVATE EQUITY FINANCE \nPRIVATE EQUITY FINANCE",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3366",
+            "course_name": "OPERATING HEDGE FUNDS",
+            "description": "FINC-GB 3366 OPERATING HEDGE FUNDS \nOPERATING HEDGE FUNDS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3367",
+            "course_name": "Risk Arbitrage",
+            "description": "FINC-GB 3367 Risk Arbitrage",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3370",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "FINC-GB 3370 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3373",
+            "course_name": "NEW VENTURE FINANCING",
+            "description": "FINC-GB 3373 NEW VENTURE FINANCING \nNEW VENTURE FINANCING",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3374",
+            "course_name": "Ventre Capitl/Priv Equit",
+            "description": "FINC-GB 3374 Ventre Capitl/Priv Equit",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3375",
+            "course_name": "Equity Mkts}Trad&Mkt Mak",
+            "description": "FINC-GB 3375 Equity Mkts}Trad&Mkt Mak",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3377",
+            "course_name": "Finan & Bus Prob Restruc",
+            "description": "FINC-GB 3377 Finan & Bus Prob Restruc",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3378",
+            "course_name": "Topics-Re Invest-Mtg Sec",
+            "description": "FINC-GB 3378 Topics-Re Invest-Mtg Sec",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3379",
+            "course_name": "",
+            "description": "FINC-GB 3379\n\n   Special Seminar in Finan\n\nThis course will cover critical managerial aspects and characteristics of hedge funds and the hedge fund industry. It will look at the legal foundations and structures of hedge funds including the primary regulations in the U.S. and abroad that are most relevant for hedge funds. It will describe operations, control, and administration, due diligence, and valuation issues. Also, while explicitly not a course on hedge fund trading techniques, it will introduce a sampling of major hedge fund strategies from a general perspective so that students better understand the concept of absolute-return st...\n\n      more description for FINC-GB 3379 \u00bb\n\n      \n\n\n\nThis course will cover critical managerial aspects and characteristics of hedge funds and the hedge fund industry. It will look at the legal foundations and structures of hedge funds including the primary regulations in the U.S. and abroad that are most relevant for hedge funds. It will describe operations, control, and administration, due diligence, and valuation issues. Also, while explicitly not a course on hedge fund trading techniques, it will introduce a sampling of major hedge fund strategies from a general perspective so that students better understand the concept of absolute-return strategies. Moreover, we will discuss performance evaluation and investing in hedge funds from the investor's perspective, as well as issues of potential changes in regulation, risk management, and the use of leverage. The course will touch upon ethics in the industry. It is designed to be a multi-functional course that focuses on practical aspects of hedge fund management.\n\n      less description for FINC-GB 3379 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3380",
+            "course_name": "Intl Fixed Income",
+            "description": "FINC-GB 3380 Intl Fixed Income",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3381",
+            "course_name": "Global Markets: India",
+            "description": "FINC-GB 3381 Global Markets: India",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3383",
+            "course_name": "Intl Financial Markets",
+            "description": "FINC-GB 3383 Intl Financial Markets",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3384",
+            "course_name": "EMERGING FINANCIAL MARKET",
+            "description": "FINC-GB 3384 EMERGING FINANCIAL MARKET \nEMERGING FINANCIAL MARKET",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3385",
+            "course_name": "Intl Corporation Finance",
+            "description": "FINC-GB 3385 Intl Corporation Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3387",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20310",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Tue,Thu 3.00 PM - 4.20 PM",
+                    "open": true,
+                    "professor": "Smith, Roy; Walter, Ingo"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20311",
+                    "section": "99",
+                    "period": "09/19/2015 - 12/12/2015",
+                    "location": "KMEC 2-90",
+                    "time": "Sat 1.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "Militello, Frederick C"
+                }
+            ],
+            "course_name": "GLOBAL BANK&CAPTL MARKETS",
+            "description": "FINC-GB 3387 GLOBAL BANK&CAPTL MARKETS \nGLOBAL BANK&CAPTL MARKETS",
+            "offering": true
+        },
+        {
+            "course_id": "FINC-GB 3388",
+            "course_name": "GLOBAL FINANCIAL MARKETS",
+            "description": "FINC-GB 3388 GLOBAL FINANCIAL MARKETS \nGLOBAL FINANCIAL MARKETS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3389",
+            "course_name": "International Finance",
+            "description": "FINC-GB 3389 International Finance \nTheory and analysis of international financial markets. Topics include valuation of assets under global theory assumptions; pricing of foreign exchange risk; foreign currency options and futures; and international financial intermediation. Topics in corporate finance are also considered. There is an emphasis on evaluating empirical evidence related to each of the topics covered.",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3390",
+            "course_name": "Honors Project Course",
+            "description": "FINC-GB 3390 Honors Project Course",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3391",
+            "course_name": "Global Study Tour",
+            "description": "FINC-GB 3391 Global Study Tour",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3392",
+            "course_name": "Sem in Market Micro Stru",
+            "description": "FINC-GB 3392 Sem in Market Micro Stru",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3393",
+            "course_name": "Global Study Tour II",
+            "description": "FINC-GB 3393 Global Study Tour II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3394",
+            "course_name": "INTL FINANCIAL REGULATION",
+            "description": "FINC-GB 3394 INTL FINANCIAL REGULATION \nINTL FINANCIAL REGULATION",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3395",
+            "course_name": "Int'L Mergers & Acquisit",
+            "description": "FINC-GB 3395 Int'L Mergers & Acquisit",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3396",
+            "course_name": "Mergers & Acquisitions",
+            "description": "FINC-GB 3396 Mergers & Acquisitions",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3398",
+            "course_name": "Adv Bankruptcy & Reorg",
+            "description": "FINC-GB 3398 Adv Bankruptcy & Reorg",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3399",
+            "course_name": "LAW&BUS:BANKRUPTCY&REORG",
+            "description": "FINC-GB 3399 LAW&BUS:BANKRUPTCY&REORG \nLAW&BUS:BANKRUPTCY&REORG",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3670",
+            "course_name": "Independent Study",
+            "description": "FINC-GB 3670 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3687",
+            "course_name": "Intl Financial Managemen",
+            "description": "FINC-GB 3687 Intl Financial Managemen",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 3688",
+            "course_name": "Global Banking & Finc Se",
+            "description": "FINC-GB 3688 Global Banking & Finc Se",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4070",
+            "course_name": "Independent Study",
+            "description": "FINC-GB 4070 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4101",
+            "course_name": "RESEARCH PRACTICUM-FINC",
+            "description": "FINC-GB 4101 RESEARCH PRACTICUM-FINC \nRESEARCH PRACTICUM-FINC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4102",
+            "course_name": "RESEARCH PRACT - FINC II",
+            "description": "FINC-GB 4102 RESEARCH PRACT - FINC II \nRESEARCH PRACT - FINC II",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4103",
+            "course_name": "RESEARCH PRACTICUM-FINC 3",
+            "description": "FINC-GB 4103 RESEARCH PRACTICUM-FINC 3 \nRESEARCH PRACTICUM-FINC 3",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4104",
+            "course_name": "RESEARCH PRACTICUM-FINC 4",
+            "description": "FINC-GB 4104 RESEARCH PRACTICUM-FINC 4 \nRESEARCH PRACTICUM-FINC 4",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4105",
+            "course_name": "RESEARCH PRACTICUM-FINC 5",
+            "description": "FINC-GB 4105 RESEARCH PRACTICUM-FINC 5 \nRESEARCH PRACTICUM-FINC 5",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4150",
+            "course_name": "TEACHING PRACTICUM-FIN",
+            "description": "FINC-GB 4150 TEACHING PRACTICUM-FIN \nTEACHING PRACTICUM-FIN",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4192",
+            "course_name": "SEM IN MARKET MICRO STRUC",
+            "description": "FINC-GB 4192 SEM IN MARKET MICRO STRUC \nSEM IN MARKET MICRO STRUC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4301",
+            "course_name": "CORPORATE RESTRUC&REORGAN",
+            "description": "FINC-GB 4301 CORPORATE RESTRUC&REORGAN \nCORPORATE RESTRUC&REORGAN",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4302",
+            "course_name": "Spec Topics: Finc Econ I",
+            "description": "FINC-GB 4302 Spec Topics: Finc Econ I",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4304",
+            "course_name": "SEMINAR IN CORP GOVERNANC",
+            "description": "FINC-GB 4304 SEMINAR IN CORP GOVERNANC \nSEMINAR IN CORP GOVERNANC",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4305",
+            "course_name": "SEM:AGENCY&EXEC COMPENSTN",
+            "description": "FINC-GB 4305 SEM:AGENCY&EXEC COMPENSTN \nSEM:AGENCY&EXEC COMPENSTN",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4306",
+            "course_name": "Sem-Liquidty&Asset Prcng",
+            "description": "FINC-GB 4306 Sem-Liquidty&Asset Prcng",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4307",
+            "course_name": "Seminar in Derivatives",
+            "description": "FINC-GB 4307 Seminar in Derivatives",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4308",
+            "course_name": "Sem: Corp Finc & Banking",
+            "description": "FINC-GB 4308 Sem: Corp Finc & Banking",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4310",
+            "course_name": "Sem:Empirical Finance",
+            "description": "FINC-GB 4310 Sem:Empirical Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4311",
+            "course_name": "Equity Valuation",
+            "description": "FINC-GB 4311 Equity Valuation",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4315",
+            "course_name": "Sem: Intl Corp Finance",
+            "description": "FINC-GB 4315 Sem: Intl Corp Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4318",
+            "course_name": "SEM:FINANCE FACULTY RSRCH",
+            "description": "FINC-GB 4318 SEM:FINANCE FACULTY RSRCH \nSEM:FINANCE FACULTY RSRCH",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4382",
+            "course_name": "Behavioral Seminar",
+            "description": "FINC-GB 4382 Behavioral Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4383",
+            "course_name": "SEMINAR:MACROECON&FINANCE",
+            "description": "FINC-GB 4383 SEMINAR:MACROECON&FINANCE \nSEMINAR:MACROECON&FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 4388",
+            "course_name": "FINANCIAL ECONOMETRICS",
+            "description": "FINC-GB 4388 FINANCIAL ECONOMETRICS \nFINANCIAL ECONOMETRICS",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 7310",
+            "course_name": "Continuous Time Finance",
+            "description": "FINC-GB 7310 Continuous Time Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 7311",
+            "course_name": "COMPUTATIONAL METH in FIN",
+            "description": "FINC-GB 7311 COMPUTATIONAL METH in FIN \nCOMPUTATIONAL METH in FIN",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 7312",
+            "course_name": "Derivative Securities",
+            "description": "FINC-GB 7312 Derivative Securities",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9903",
+            "course_name": "DISSERTATION SEM FINANCE",
+            "description": "FINC-GB 9903 DISSERTATION SEM FINANCE \nDISSERTATION SEM FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9906",
+            "course_name": "DISSERTATION SEM FINANCE",
+            "description": "FINC-GB 9906 DISSERTATION SEM FINANCE \nDISSERTATION SEM FINANCE",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9908",
+            "course_name": "Dissertation Sem Finance",
+            "description": "FINC-GB 9908 Dissertation Sem Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9909",
+            "course_name": "Dissertation - Finance",
+            "description": "FINC-GB 9909 Dissertation - Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9912",
+            "course_name": "Dissertation Sem Finance",
+            "description": "FINC-GB 9912 Dissertation Sem Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9915",
+            "course_name": "Dissertation Sem Finance",
+            "description": "FINC-GB 9915 Dissertation Sem Finance",
+            "offering": false
+        },
+        {
+            "course_id": "FINC-GB 9918",
+            "course_name": "Dissertation Sem Finance",
+            "description": "FINC-GB 9918 Dissertation Sem Finance",
+            "offering": false
+        }
+    ]
+}

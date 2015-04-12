@@ -1,0 +1,1020 @@
+{
+    "major_id": "GERM-UA",
+    "file": "./2015-2016/German_(GERM-UA).html",
+    "courses": [
+        {
+            "course_id": "GERM-UA 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6902",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 504"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6903",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 510"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6904",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 510"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8119",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 510",
+                    "time": "Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Dortmann, Andrea"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8460",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 512"
+                }
+            ],
+            "course_name": "Elementary German I",
+            "description": "GERM-UA    1 Elementary German I \nOpen only to students with no previous training in German; others require permission of the department. Offered every semester. 4 points.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 2",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6905",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 512"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6906",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 512"
+                }
+            ],
+            "course_name": "Elementary German II",
+            "description": "GERM-UA    2 Elementary German II \nContinuation of GERM-UA 1.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6907",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "6908",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 506"
+                }
+            ],
+            "course_name": "Intermediate German I",
+            "description": "GERM-UA    3 Intermediate German I",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 4",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6909",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 506"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9208",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Wed,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "19UP 337"
+                }
+            ],
+            "course_name": "Intermediate German II",
+            "description": "GERM-UA    4 Intermediate German II \nContinuation of  GERM-UA 3.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 10",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8029",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu,Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 402"
+                }
+            ],
+            "course_name": "Intensive Elementary German",
+            "description": "GERM-UA   10 Intensive Elementary German \nOpen to students with no previous training in German and to others on assignment by placement examination or with permission of the department. Completes the equivalent of a year's elementary work GERM-UA 1 and GERM-UA 2 in one semester. Emphasizes spoken and written communication skills. Introduces students to the basic conventions, idioms, and structures of contemporary spoken German.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 11",
+            "course_name": "Elementary Tutorial",
+            "description": "GERM-UA   11 Elementary Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 12",
+            "course_name": "Elementary Tutorial",
+            "description": "GERM-UA   12 Elementary Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 20",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6910",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu,Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 402"
+                }
+            ],
+            "course_name": "Intensive Intermediate German",
+            "description": "GERM-UA   20 Intensive Intermediate German \nCompletes the equivalent of a year?s intermediate work GERM-UA 3 and GERM-UA 4 in one semester. Continuing emphasis on developing spoken and written communication skills. Students learn more-advanced features of the language and begin to read longer and more-complex texts.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 21",
+            "course_name": "Intermediate Tutorial",
+            "description": "GERM-UA   21 Intermediate Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 22",
+            "course_name": "Intermediate Tutorial",
+            "description": "GERM-UA   22 Intermediate Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 41",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6911",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 10.10 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Swedish I",
+            "description": "GERM-UA   41 Elementary Swedish I",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 42",
+            "course_name": "Elementary Swedish II",
+            "description": "GERM-UA   42 Elementary Swedish II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 43",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9196",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.10 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Swedish I",
+            "description": "GERM-UA   43 Intermediate Swedish I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 44",
+            "course_name": "Intermediate Swedish II",
+            "description": "GERM-UA   44 Intermediate Swedish II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 45",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6912",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Dutch I",
+            "description": "GERM-UA   45 Elementary Dutch I",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 46",
+            "course_name": "Elementary Dutch II",
+            "description": "GERM-UA   46 Elementary Dutch II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 47",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6913",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Dutch I",
+            "description": "GERM-UA   47 Intermediate Dutch I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 48",
+            "course_name": "Intermediate Dutch II",
+            "description": "GERM-UA   48 Intermediate Dutch II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 49",
+            "course_name": "Advanced Dutch I",
+            "description": "GERM-UA   49 Advanced Dutch I \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 50",
+            "course_name": "Advanced Dutch",
+            "description": "GERM-UA   50 Advanced Dutch",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 51",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6914",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Finnish I",
+            "description": "GERM-UA   51 Elementary Finnish I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 52",
+            "course_name": "Elementary Finnish II",
+            "description": "GERM-UA   52 Elementary Finnish II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 53",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6915",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Finnish I",
+            "description": "GERM-UA   53 Intermediate Finnish I \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 54",
+            "course_name": "Intermediate Finnish II",
+            "description": "GERM-UA   54 Intermediate Finnish II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 60",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7958",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.10 PM - 5.25 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Advanced Finnish I",
+            "description": "GERM-UA   60 Advanced Finnish I",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 61",
+            "course_name": "Advanced Readings in Finnish II",
+            "description": "GERM-UA   61 Advanced Readings in Finnish II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 62",
+            "course_name": "Advanced Readings in Finnish",
+            "description": "GERM-UA   62 Advanced Readings in Finnish",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 80",
+            "course_name": "Early 20th Century German Prose",
+            "description": "GERM-UA   80 Early 20th Century German Prose",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 91",
+            "course_name": "Advanced Tutorial",
+            "description": "GERM-UA   91 Advanced Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 92",
+            "course_name": "Advanced Tutorial",
+            "description": "GERM-UA   92 Advanced Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 97",
+            "course_name": "German for Reading and Research I",
+            "description": "GERM-UA   97 German for Reading and Research I",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 98",
+            "course_name": "German for Reading & Research II",
+            "description": "GERM-UA   98 German for Reading & Research II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 100",
+            "course_name": "Reading for Honors",
+            "description": "GERM-UA  100 Reading for Honors",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 111",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6916",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "DEUT AUD"
+                }
+            ],
+            "course_name": "",
+            "description": "GERM-UA  111\n\n   Conversation/Composition\n\nOffered every year. 4 points. Required for the German major. Aims to improve students? proficiency in writing and speaking German in three functional areas: description, narration, and argumentation. Grammar and vocabulary are reviewed and practiced as appropriate. Students examine and discuss texts of various genres, then draft and present work of their own in each genre. Discussion and writing components are closely coordinated. Activities inclOffered every year. 4 points. Required for the German major. Aims to improve students? proficiency in writing and speaking German in three functional ...\n\n      more description for GERM-UA  111 \u00bb\n\n      \n\n\n\nOffered every year. 4 points. Required for the German major. Aims to improve students? proficiency in writing and speaking German in three functional areas: description, narration, and argumentation. Grammar and vocabulary are reviewed and practiced as appropriate. Students examine and discuss texts of various genres, then draft and present work of their own in each genre. Discussion and writing components are closely coordinated. Activities inclOffered every year. 4 points. Required for the German major. Aims to improve students? proficiency in writing and speaking German in three functional areas: description, narration, and argumentation. Grammar and vocabulary are reviewed and practiced as appropriate. Students examine and discuss texts of various genres, then draft and present work of their own in each genre. Discussion and writing components are closely coordinated. Activities include presentations, peer review, guided writing, and editing.\n\n      less description for GERM-UA  111 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 114",
+            "course_name": "Advanced Composition and Grammar",
+            "description": "GERM-UA  114 Advanced Composition and Grammar \nImproves students? proficiency in writing German at an advanced level. Students develop skills in the functional areas of analysis, interpretation, and argumentation. The composition endeavor is constructed as a process of drafting, peer review, guided editing, and redrafting. Includes a systematic review of advanced grammar, idioms, and structures necessary for the effective written expression of abstract concepts.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 116",
+            "course_name": "Intro to Comp Lit: The Novel",
+            "description": "GERM-UA  116 Intro to Comp Lit: The Novel",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 124",
+            "course_name": "German for Business",
+            "description": "GERM-UA  124 German for Business \nFamiliarizes students with the conventions and specialized language of business and commerce in the German-speaking countries. Emphasizes development of oral and written communication skills in business contexts and awareness of appropriate social behaviors.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 132",
+            "course_name": "Germany:",
+            "description": "GERM-UA  132 Germany: \nInvestigates cultural and political issues that have arisen in postunification Germany. Aims to equip students with the knowledge, language tools, and comprehension strategies they need to understand and respond to German-language discussions of contemporary events. Focuses on issues of German identity/anxiety such as foreigners in Germany, ?East? versus ?West? Germans, and the role of Germany in Europe. Various genres are explored, including fiction, essays, newspaper articles, Internet publications, and satellite news broadcasts from Berlin.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 133",
+            "course_name": "German Culture 1890-1989",
+            "description": "GERM-UA  133 German Culture 1890-1989 \nOverview of modern and postmodern culture in the German-speaking countries from 1890 to 1989. From the fin de si?cle through Weimar Germany, fascism/exile, and the postwar era to the fall of the Wall, the course traverses the heights and depths of German cultural topography.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 143",
+            "course_name": "German Civilization to 1890",
+            "description": "GERM-UA  143 German Civilization to 1890 \nWhat does ?German? mean? Using maps, texts, and pictorial documents, this course introduces students to various ways of thinking about ?German? language, culture, history, and nation. The overview includes a brief sketch of the Germanic tribes and mythology and Germany in the Middle Ages, Renaissance, Reformation, and modern period to 1890. Contemporary critical issues are introduced, including the relationship between Germans and ?non-Germans? as well as notions of boundaries and their transgression.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 145",
+            "course_name": "",
+            "description": "GERM-UA  145\n\n   Austria: Culture, History, Society\n\nThis course offers an interdisciplinary introduction to the culture ofturn-of-the-century Vienna, one of the birthplaces of twentieth-centurymodernism. The works of Austrian writers, artists, architects, composers, andthinkers will be studied against the backdrop of the political and socialclimate of the Habsburg monarchy\u2019s final years. Works from a wide variety offields\u2014including literary texts (poetry, prose, and drama), film, music, art,architecture, philosophy, and psychology\u2014form the core of this course. We willconsider how cultural production is both shaped by and reflects its historical...\n\n      more description for GERM-UA  145 \u00bb\n\n      \n\n\n\nThis course offers an interdisciplinary introduction to the culture ofturn-of-the-century Vienna, one of the birthplaces of twentieth-centurymodernism. The works of Austrian writers, artists, architects, composers, andthinkers will be studied against the backdrop of the political and socialclimate of the Habsburg monarchy\u2019s final years. Works from a wide variety offields\u2014including literary texts (poetry, prose, and drama), film, music, art,architecture, philosophy, and psychology\u2014form the core of this course. We willconsider how cultural production is both shaped by and reflects its historicalcontext. Figures we will engage with include Sigmund Freud, Arthur Schnitzler,Hugo von Hofmannsthal, Gustav Klimt, Arnold Sch\u00f6nberg, Gustav Mahler, Adolf Loos,Theodor Herzl, and Berta Zuckerkandl. This course is a 100-level,post-intermediate course in German, which will also focus on languageacquisition at the advanced level. A portion of the course will involve visitsto museums in New York, such as the Neue Galerie.Departmentof German\n\n      less description for GERM-UA  145 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 152",
+            "course_name": "Introduction to German Literature",
+            "description": "GERM-UA  152 Introduction to German Literature \nIntroduction to representative authors and works of German literature, with emphasis on the modern period. Students learn basic conventions of literature and literary interpretation, as well as strategies for the effective reading of shorter and longer prose works, drama, and poetry. Guided writing assignments focus on developing the language skills necessary for effective written analysis and interpretation of literary texts in German.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 153",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16540",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 504",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Dortmann, Andrea"
+                }
+            ],
+            "course_name": "Techniques of Translation",
+            "description": "GERM-UA  153 Techniques of Translation \nOffered periodically. 4 points. Introduces students to the history, theory, and practice of translation through German and English texts taken from a variety of cultural backgrounds. While engaging in the craft of translation first hand, students encounter diverse grammatical, syntactical, and stylistic problems, thus gaining a deeper understanding of the German language. Also stresses the acquisition of vocabulary and complex idiomatic structures necessary for effective reading comprehension, as well as written expression.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 185",
+            "course_name": "Introduction to German Poetry",
+            "description": "GERM-UA  185 Introduction to German Poetry \nSurvey of significant authors and developments in German poetry, with emphasis on the 19th and 20th centuries. Traces basic themes; examines narrative, dramatic, and lyric structures in poetry.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 202",
+            "course_name": "Lit & Philosophy: Hegel, Freud, & Literature",
+            "description": "GERM-UA  202 Lit & Philosophy: Hegel, Freud, & Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 216",
+            "course_name": "Intro to Cl: Scoring Lit: The Drug Culture",
+            "description": "GERM-UA  216 Intro to Cl: Scoring Lit: The Drug Culture",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 220",
+            "course_name": "Intro to German Culture & Thought",
+            "description": "GERM-UA  220 Intro to German Culture & Thought",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 236",
+            "course_name": "European Intellectual History, 1600-1789",
+            "description": "GERM-UA  236 European Intellectual History, 1600-1789",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 240",
+            "course_name": "Marx, Nietzsche, & Freud",
+            "description": "GERM-UA  240 Marx, Nietzsche, & Freud \nExamines the work of these three seminal authors by focusing on their notions of interpretation, history, subjectivity, politics, religion, and art. The seminar does not present their work chronologically, but rather creates a dialogue between the authors around each topic and, thereby, delineates the origins of much modern thought.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 244",
+            "course_name": "The German Intellectual Tradition",
+            "description": "GERM-UA  244 The German Intellectual Tradition \nOffered periodically. 4 points. Designed to familiarize students with the major currents of German intellectual and literary history. Organized thematically, conceptually, or according to the trajectories associated with crucial thinkers. Special emphasis is placed on the impact those thinkers have had on literary and aesthetic phenomena.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 249",
+            "course_name": "Introduction to Theory",
+            "description": "GERM-UA  249 Introduction to Theory \nOffered periodically. 4 points. Focuses on crucial theoretical developments in German literary and philosophical discourses. Introduces students to contemporary theoretical issues at the forefront of academic debate and seeks to give students a sense of ground and foundation in terms of the origins of current discussions. Includes considerations of literary phenomena, critical legal studies, feminist and deconstructive theories, the Frankfurt School, and psychoanalysis.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 253",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20422",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 504"
+                }
+            ],
+            "course_name": "Tpcs in German Cinema:*Man, Monster, Machine",
+            "description": "GERM-UA  253 Tpcs in German Cinema:*Man, Monster, Machine \nIntroduces special topics in acquainting students with significant contributions emerging from the German cinematic tradition. Selections are studied generically, thematically, or by historical period. Emphasis is also placed on issues of film analysis and theory. Possible course topics are new German cinema, film and feminism, early German film, and film and nationalism.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 255",
+            "course_name": "Expressionism & Mod in Lit & in The Arts",
+            "description": "GERM-UA  255 Expressionism & Mod in Lit & in The Arts \nDiscussion of German contributions to literature and the arts in a European context during the first half of the 20th century. Course examines Weimar culture, expressionism, new objectivity, political repression, and the contemporary scene. The era is characterized by the works of important writers (Wedekind, Brecht, Benn, Kafka, Hesse, Mann); filmmakers (Wiene, Murnau, Lang, Dido, Papst); and painters (Kirchner, Marc, Macke, Nolde, Klee, Kokoschka, Kandinsky, Grosz, Feininger).",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 275",
+            "course_name": "Representations of The Holocaust",
+            "description": "GERM-UA  275 Representations of The Holocaust \nExamines the possibilities in literature, historiography, film, and other forms of testimony bearing witness to the Holocaust as the event that calls into question basic assumptions about European intellectual traditions. Topics include the limits of representation; the aestheticization of violence; the difference between event and experience; the question of survival; the problem of testimony; the individual, institutional, and historical dimensions of justice, memory, and forgetting. Materials include literary, theoretical, and documentary readings; and film and video viewings.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 283",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20420",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "19UP 337"
+                }
+            ],
+            "course_name": "Topics:Doppelgaenger: Figures of Multiple Identity",
+            "description": "GERM-UA  283 Topics:Doppelgaenger: Figures of Multiple Identity",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 285",
+            "course_name": "Madness and Genius",
+            "description": "GERM-UA  285 Madness and Genius \nExplores the relationship among talent, inspiration, and psychological instability in works of the 19th and 20th centuries. Considers the link between inspiration and possession; Western culture?s valorization of originality; the political purpose of characterizing originality as psychologically transgressive; and the allegorization of the creative process through depictions of madness.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 297",
+            "course_name": "Tpcs in 19th Cent Lit:",
+            "description": "GERM-UA  297 Tpcs in 19th Cent Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 298",
+            "course_name": "Topics in 20th Cent Lit:",
+            "description": "GERM-UA  298 Topics in 20th Cent Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 347",
+            "course_name": "The German Enlightenment",
+            "description": "GERM-UA  347 The German Enlightenment",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 349",
+            "course_name": "German Romanticism",
+            "description": "GERM-UA  349 German Romanticism \nTraces the development of romanticism in Germany in the period 1789-1830. Examines the philosophy of idealism and its aesthetic effect on the various phases of the romantic movements. Considers the Jena, Heidelberg, and Berlin schools in light of their works and their artistic and sociopolitical theories. Representative writings include poetry, novellas, fairy tales, and essays.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 366",
+            "course_name": "20th Cent German Prose",
+            "description": "GERM-UA  366 20th Cent German Prose \nInvestigates significant prose texts of German-language authors from 1900 to the present. Genres discussed include the short story, the novella, and the novel.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 369",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16694",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "19UP 337"
+                }
+            ],
+            "course_name": "Post 1945 German Lit",
+            "description": "GERM-UA  369 Post 1945 German Lit \nExamines works by some of the major German-language writers in the decades following World War II. Concerned with the historical and intellectual background of the period and the confrontation with both the past and the future in representative works.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 377",
+            "course_name": "Modern German Drama",
+            "description": "GERM-UA  377 Modern German Drama \nDevelopment of German-language drama from the early plays of Brecht. Concerns include political motivations of dramatic development; problems in writing 20th-century tragedy; meaning of the grotesque and the absurd; neonaturalist elements.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 390",
+            "course_name": "Tpcs in German Cinema: Film & Literature",
+            "description": "GERM-UA  390 Tpcs in German Cinema: Film & Literature \nn/a",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 397",
+            "course_name": "Topics in 19th Century Literature:",
+            "description": "GERM-UA  397 Topics in 19th Century Literature:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 401",
+            "course_name": "Great Books in German Literature",
+            "description": "GERM-UA  401 Great Books in German Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 420",
+            "course_name": "Modernism:Building Identities",
+            "description": "GERM-UA  420 Modernism:Building Identities",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 456",
+            "course_name": "Age of Goethe",
+            "description": "GERM-UA  456 Age of Goethe \nExamines German reaction to the Enlightenment in the literature of storm and stress and of classicism. Considers irrationalism, social protest, and Humanit?tsdichtung as successive stages of the expansion of consciousness in an age in which Goethe was the central, but not the only significant, literary figure. Readings include Herder, Von der Urpoesie der V?lker and selected poems; Lenz, Die Soldaten; Schiller, Die R?uber, Kabale und Liebe, Maria Stuart, and selected poems; H?lderlin, selected poems.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 466",
+            "course_name": "Fin De Siecle",
+            "description": "GERM-UA  466 Fin De Siecle",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 468",
+            "course_name": "Lit of The Weimar Period",
+            "description": "GERM-UA  468 Lit of The Weimar Period \nThe chaotic Weimar period (1918-1933) began with a revolution and ended with the takeover by the Nazis. During these few years, German modernism evolved from expressionism to the aesthetics of New Sobriety (Neue Sachlichkeit). From the more traditional (Thomas Mann, Hermann Hesse) to the experimental and revolutionary (Bertolt Brecht, Anna Seghers), the works of this period draw into question its subsequent glorification as the golden ?20s. Readings include works by Brecht, Hesse, Roth, Seghers, Klaus Mann, and Thomas Mann.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 475",
+            "course_name": "Minority Discourses",
+            "description": "GERM-UA  475 Minority Discourses \nIn recent years, literary productions have emerged that fall under the heading of ?minority? literatures, often understood as texts written in German by so-called foreigners. This course examines this notion critically and also analyzes the impact of individual works in relation to current debates on multiculturalism, integration, and national identity.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 487",
+            "course_name": "Seminar On 19th Century",
+            "description": "GERM-UA  487 Seminar On 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 488",
+            "course_name": "Seminar 20th Century:",
+            "description": "GERM-UA  488 Seminar 20th Century: \nEach of these courses provides advanced students of German with an in-depth knowledge of one major author of either the 19th or 20th century. Works of the chosen author are examined in terms of how he or she contributes to, and possibly challenges, prevailing aesthetic, political, and cultural trends of his or her time.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 500",
+            "course_name": "Honors Thesis",
+            "description": "GERM-UA  500 Honors Thesis",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 501",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "8197",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Sat 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "19UP 337"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "8405",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Sat 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "19UP 337"
+                }
+            ],
+            "course_name": "Honors Seminar",
+            "description": "GERM-UA  501 Honors Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 801",
+            "course_name": "German Romance and Epic",
+            "description": "GERM-UA  801 German Romance and Epic",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 843",
+            "course_name": "Readings in Contemp Lit Theory: Outrageous Texts",
+            "description": "GERM-UA  843 Readings in Contemp Lit Theory: Outrageous Texts",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 977",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "9160",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 337",
+                    "time": "Sun 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Weatherby, Leif"
+                }
+            ],
+            "course_name": "Internship",
+            "description": "GERM-UA  977 Internship",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 978",
+            "course_name": "Internship",
+            "description": "GERM-UA  978 Internship",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 984",
+            "course_name": "Topics:",
+            "description": "GERM-UA  984 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 985",
+            "course_name": "Work-Study in Germany",
+            "description": "GERM-UA  985 Work-Study in Germany \nConsult the director of undergraduate studies for information.",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 990",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6917",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 337",
+                    "time": "Sun 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Weatherby, Leif"
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "6918",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "GERM-UA  990 Independent Study \nPrerequisite: permission of the department. May be repeated for credit. Offered every semester. 2 to 4 points.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 999",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6919",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CASA 201"
+                }
+            ],
+            "course_name": "Senior Honors Seminar",
+            "description": "GERM-UA  999 Senior Honors Seminar \nPrerequisite: permission of the department. Offered in the fall. 4 points. Advanced seminar for honors students.",
+            "offering": true
+        },
+        {
+            "course_id": "GERM-UA 9001",
+            "course_name": "Elementary German I",
+            "description": "GERM-UA 9001 Elementary German I",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9002",
+            "course_name": "Elementary German II",
+            "description": "GERM-UA 9002 Elementary German II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9003",
+            "course_name": "Intermediate German I",
+            "description": "GERM-UA 9003 Intermediate German I",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9004",
+            "course_name": "Intermediate German II",
+            "description": "GERM-UA 9004 Intermediate German II",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9010",
+            "course_name": "Intensive Elem German",
+            "description": "GERM-UA 9010 Intensive Elem German",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9020",
+            "course_name": "Intensive Intermediate German",
+            "description": "GERM-UA 9020 Intensive Intermediate German",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9021",
+            "course_name": "Intermediate Tutorial",
+            "description": "GERM-UA 9021 Intermediate Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9091",
+            "course_name": "Advanced German Tutorial",
+            "description": "GERM-UA 9091 Advanced German Tutorial",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9111",
+            "course_name": "Composition/Conversation20th Century German History, Politics & Literature",
+            "description": "GERM-UA 9111 Composition/Conversation20th Century German History, Politics & Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9114",
+            "course_name": "Advanced Composition and Grammar",
+            "description": "GERM-UA 9114 Advanced Composition and Grammar",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9132",
+            "course_name": "Berlin:",
+            "description": "GERM-UA 9132 Berlin:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9133",
+            "course_name": "German Culture 1890- 1989",
+            "description": "GERM-UA 9133 German Culture 1890- 1989",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9152",
+            "course_name": "Introduction to German Literature",
+            "description": "GERM-UA 9152 Introduction to German Literature",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9192",
+            "course_name": "Germany Today: Migration Minorities,& Multicultur",
+            "description": "GERM-UA 9192 Germany Today: Migration Minorities,& Multicultur",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9193",
+            "course_name": "Berlin:",
+            "description": "GERM-UA 9193 Berlin:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9225",
+            "course_name": "Berlin's Modern History & Culture: A European Perspective",
+            "description": "GERM-UA 9225 Berlin's Modern History & Culture: A European Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9240",
+            "course_name": "Marx, Nietzsche, & Freud",
+            "description": "GERM-UA 9240 Marx, Nietzsche, & Freud",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9244",
+            "course_name": "German Intellectual Tradition Frankfurt Schl",
+            "description": "GERM-UA 9244 German Intellectual Tradition Frankfurt Schl",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9253",
+            "course_name": "Topics in German CinemaGerman Cinema from",
+            "description": "GERM-UA 9253 Topics in German CinemaGerman Cinema from",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9285",
+            "course_name": "Madness & Genius",
+            "description": "GERM-UA 9285 Madness & Genius",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9290",
+            "course_name": "German Theater of the 20th Century: History & Practice",
+            "description": "GERM-UA 9290 German Theater of the 20th Century: History & Practice",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9293",
+            "course_name": "Cities, Communities and Urban Life:",
+            "description": "GERM-UA 9293 Cities, Communities and Urban Life:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9298",
+            "course_name": "Topics in 20C German LitTraditions of City Writing",
+            "description": "GERM-UA 9298 Topics in 20C German LitTraditions of City Writing",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9366",
+            "course_name": "20th Century German Prose:",
+            "description": "GERM-UA 9366 20th Century German Prose:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9984",
+            "course_name": "Topics:",
+            "description": "GERM-UA 9984 Topics:",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9990",
+            "course_name": "Independent Study",
+            "description": "GERM-UA 9990 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "GERM-UA 9998",
+            "course_name": "Independent Study",
+            "description": "GERM-UA 9998 Independent Study",
+            "offering": false
+        }
+    ]
+}

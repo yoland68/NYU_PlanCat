@@ -1,0 +1,24 @@
+{
+    "major_id": "DC-UF",
+    "file": "./2015-2016/Dean's_Circle_(DC-UF).html",
+    "courses": [
+        {
+            "course_id": "DC-UF 201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12145",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Schwarzbach, Fredric",
+                    "time": "Fri 10.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dean's Circle Research Seminar",
+            "description": "DC-UF  201 Dean's Circle Research Seminar",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "major_id": "GS-UY",
+    "file": "./2015-2016/General_Studies_(GS-UY).html",
+    "courses": [
+        {
+            "course_id": "GS-UY 101",
+            "course_name": "Computer Skills for Engineers",
+            "description": "GS-UY  101 Computer Skills for Engineers \nThis course focuses on the basic functions and intricacies of AutoCAD, Microsoft Word, Excel, Project and PowerPoint. Course requirements: weekly lab assignments, a midterm and final exam, and an individual project synthesizing the course content.",
+            "offering": false
+        },
+        {
+            "course_id": "GS-UY 102",
+            "course_name": "Pre-college Writing",
+            "description": "GS-UY  102 Pre-college Writing \nThis course helps to prepare students for college-level writing. Class time includes reading and writing exercises, grammar quizzes and lessons and a close examination of student writing (workshops). Course requirements include daily participation, weekly quizzes/essays, daily homework assignments and multiple written assignments and revisions.",
+            "offering": false
+        },
+        {
+            "course_id": "GS-UY 103",
+            "course_name": "Pre-college Math",
+            "description": "GS-UY  103 Pre-college Math \nThe course helps to prepare students for math at the Polytechnic School of Engineering. The math course taken over the summer will be determined by the results of the Math Assessment. Course requirements include daily participation, weekly quizzes, daily homework assignments and a midterm and final exam.",
+            "offering": false
+        },
+        {
+            "course_id": "GS-UY 104",
+            "classes": [
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "STUDY SKILLS",
+            "description": "GS-UY  104 STUDY SKILLS",
+            "offering": true
+        },
+        {
+            "course_id": "GS-UY 105",
+            "classes": [
+                {}
+            ],
+            "course_name": "MATH SEMINAR",
+            "description": "GS-UY  105 MATH SEMINAR",
+            "offering": true
+        },
+        {
+            "course_id": "GS-UY 106",
+            "course_name": "Pre-college Physics",
+            "description": "GS-UY  106 Pre-college Physics \nThis course introduces the foundational concepts and laws of physics and their connection to the engineering disciplines. The subject matter helps students apply scientific methods to physical problems and prepares them for university-level physics. Topics include vectors, kinematics, Newton\u2019s Laws, work and energy, momentum and collision theory, rotational motion, and angular momentum. Course requirements: daily participation, weekly quizzes, daily homework and a midterm and final exam.",
+            "offering": false
+        }
+    ]
+}

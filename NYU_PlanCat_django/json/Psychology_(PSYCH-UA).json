@@ -1,0 +1,1370 @@
+{
+    "major_id": "PSYCH-UA",
+    "file": "./2015-2016/Psychology_(PSYCH-UA).html",
+    "courses": [
+        {
+            "course_id": "PSYCH-UA 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7365",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "CANT 200"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7366",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7367",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 620"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7368",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7369",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7370",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 388"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7371",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "WAVE 370"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7372",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL139"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7373",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7374",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL 388"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9226",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7375",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CANT 200"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7376",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7377",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7378",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7379",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7380",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7381",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL151"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7382",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7383",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL149"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7384",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "MEYR 261"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9227",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Psychology",
+            "description": "PSYCH-UA    1 Intro to Psychology \nAmodio, Coons, Marcus, Phelps. Offered every semester. 4 points. Fundamental principles of psychology, with emphasis on basic research and applications in psychology's major theoretical areas of study: thought, memory, learning, perception, personality, social processes, development, and the physiological bases of psychology. Included in the class is direct observation of methods of investigation through laboratory demonstrations and by student participation in current research projects.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 2",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7385",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "PSYCH-UA    2\n\n   Teaching in Psychology\n\nPrerequisite: admittance by application only. Hilford. Offered every semester. 2 points. The purpose of this course is to train students in teaching science, specifically psychology. Students attend a two-hour weekly seminar on teaching psychology as well as the IntroducPrerequisite: admittance by application only. Hilford. Offered every semester. 2 points. The purpose of this course is to train students in teaching science, specifically psychology. Students attend a two-hour weekly seminar on teaching psychology as well as the Introduction to Psychology lecture. Students put their training to...\n\n      more description for PSYCH-UA    2 \u00bb\n\n      \n\n\n\nPrerequisite: admittance by application only. Hilford. Offered every semester. 2 points. The purpose of this course is to train students in teaching science, specifically psychology. Students attend a two-hour weekly seminar on teaching psychology as well as the IntroducPrerequisite: admittance by application only. Hilford. Offered every semester. 2 points. The purpose of this course is to train students in teaching science, specifically psychology. Students attend a two-hour weekly seminar on teaching psychology as well as the Introduction to Psychology lecture. Students put their training to immediate use by teaching a weekly Introduction to Psychology recitation.\n\n      less description for PSYCH-UA    2 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 9",
+            "course_name": "Statistical Reasoning for The Beh. Sciences",
+            "description": "PSYCH-UA    9 Statistical Reasoning for The Beh. Sciences \nAims to provide students with tools for evaluating data from psychological studies. Students gain familiarity with data description, variance and variability, significance tests, confidence bounds, and linear regression, among other topics. Students work on psychological data sets, learn approaches to statistical prediction, and learn to interpret results from randomized experiments and correlational surveys.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 10",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7386",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL C95"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7392",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7387",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC19"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7388",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "TISC LC19"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7389",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7390",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7391",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7393",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7394",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7395",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "TISC LC19"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7396",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7397",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "TISC LC19"
+                }
+            ],
+            "course_name": "Statistics for The Behavioral Sciences",
+            "description": "PSYCH-UA   10 Statistics for The Behavioral Sciences \nBauer. Offered every semester. 4 points. Students gain familiarity with data description, variance and variability, significance tests, confidence bounds, and linear regression, among other topics. Students work on psychological data sets, learn approaches to statistical prediction, and learn to interpret results from randomized experiments.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 11",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16799",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 206"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16801",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                }
+            ],
+            "course_name": "Data Analysis & Experimental Design",
+            "description": "PSYCH-UA   11 Data Analysis & Experimental Design",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 20",
+            "course_name": "Learning",
+            "description": "PSYCH-UA   20 Learning",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 22",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7398",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "12WV G08"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7399",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7401",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                }
+            ],
+            "course_name": "Perception",
+            "description": "PSYCH-UA   22 Perception \nCarrasco, Heeger, Landy, Pelli. Offered every semester. 4 points. How do we construct a conception of physical reality based on sensory experience? Survey of basic facts, theories, and methods of studying sensation and perception. The major emphasis is on vision and audition, although other modalities may be covered. Represen-tative topics include receptor function and physiology; color; motion; depth; psychophysics of detection, discrimination, and appearance; perceptual constancies; adaptation, pattern recognition, and the interaction of knowledge and perception.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 23",
+            "course_name": "Advanced Seminar in Memory",
+            "description": "PSYCH-UA   23 Advanced Seminar in Memory \nExamination of the conceptual problems involved in understanding the retention of information. Reviews research findings addressed to those problems, involving studies with humans and animals, and with environmental, psychological, and biochemical variables.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 24",
+            "course_name": "Physiological Psych",
+            "description": "PSYCH-UA   24 Physiological Psych",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 25",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7403",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "12WV G08"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7404",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7405",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "MEYR 261"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7407",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS LL151"
+                }
+            ],
+            "course_name": "Cognitive Neuroscience",
+            "description": "PSYCH-UA   25 Cognitive Neuroscience \nCurtis, Davachi. Offered every semester. 4 points. Provides students with a broad understanding of the foundations of cognitive neuroscience, including dominant theories of the neural underpinnings of a variety of cognitive processes and the research that has led to those theories. In doing so, students also learn about the goals of cognitive neuroscience research and the methods that are being employed to reach these goals.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 26",
+            "course_name": "Advanced Seminar in Thinking",
+            "description": "PSYCH-UA   26 Advanced Seminar in Thinking",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 27",
+            "course_name": "Language and Mind",
+            "description": "PSYCH-UA   27 Language and Mind \nIntroduces students to the field of cognitive science through an examination of language behavior, one of the major domains of inquiry in the discipline. Begins with interactive discussions of how best to characterize and study the mind. These principles are then illustrated through an examination of research and theories related to language representation and use. The course draws from research in both formal linguistics and psycholinguistics.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 29",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7411",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7413",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7414",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7415",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7416",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7417",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                }
+            ],
+            "course_name": "Cognition",
+            "description": "PSYCH-UA   29 Cognition \nMcElree, Murphy, Rehder. Offered every semester. 4 points. Introduction to theories and research in some major areas of cognitive psychology, including human memory, attention, language production and comprehension, thinking, and reasoning.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 30",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7418",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "19W4 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7419",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7421",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 LL27"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7422",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-13"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7424",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                }
+            ],
+            "course_name": "Personality",
+            "description": "PSYCH-UA   30 Personality \nAndersenAndersen. Offered every semester. 4 points. Introduction to research in personality, including such topics as the self-concept; unconscious processes; how we relate to others; and stress, anxiety, and depression.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 31",
+            "course_name": "Theories of Personality",
+            "description": "PSYCH-UA   31 Theories of Personality",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 32",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7425",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL C95"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7426",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "BOBS LL151"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7427",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7428",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "7E12 123 (SB)"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7429",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7430",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7431",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "7E12 LL33"
+                }
+            ],
+            "course_name": "Social Psychology",
+            "description": "PSYCH-UA   32 Social Psychology \nGollwitzer, Trope, Uleman. Offered every semester. 4 points. Introduction to theories and research about the social behavior of individuals, such as perception of others and the self, attraction, affiliation, altruism and helping, aggression, moral thought and action, attitudes, influence, conformity, social exchange and bargaining, group decision making, leadership and power, and environmental psychology.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 34",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8881",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC UC50"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8882",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "MEYR 261"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8883",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8885",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 620"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8886",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL151"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8887",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "7E12 129"
+                }
+            ],
+            "course_name": "Developmental Psychology",
+            "description": "PSYCH-UA   34 Developmental Psychology \nAdolph, Johnson, Voloumanos. Offered every semester. 4 points. Introduction and overview of theoretical issues and selected research in developmental psychology. Focuses on infancy through adolescence. Lectures interweave theory, methods, and findings about how we develop as perceiving, thinking, and feeling beings.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 38",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "7432",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lab in Social & Organizational Psycholog",
+            "description": "PSYCH-UA   38 Lab in Social & Organizational Psycholog \nStudents are acquainted with research methodology in organizational psychology. They then perform an original study, such as a laboratory experiment or research survey, in one of these areas.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 39",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "7433",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "Lab in Personality & Social Psychology",
+            "description": "PSYCH-UA   39 Lab in Personality & Social Psychology \nMethodology and procedures of personality and social psychological research and exercises in data analysis and research design. Statistical concepts such as reliability and validity, methods of constructing personality measures, merits and limitations of correlational and experimental research designs, and empirical evaluation of theories. Student teams conduct research projects.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 40",
+            "course_name": "Lab in Developmental Psychology",
+            "description": "PSYCH-UA   40 Lab in Developmental Psychology \nReview of observational and experimental techniques used in studying children. Each student chooses a topic and conducts a short-term study on that topic in a field or laboratory setting. Two presentations require a literature review and a proposed experimental design, and a report of the results of the study, which is due at semester?s end.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 42",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "7752",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "MEYR 415"
+                }
+            ],
+            "course_name": "Lab in Infancy Research",
+            "description": "PSYCH-UA   42 Lab in Infancy Research \nPart of a yearlong research training program. Students learn general methods for studying infant development and specific methods for examining infants' perceptual-motor development. Students design and conduct laboratory research projects, code and analyze data, and prepare results for presentation and publication (grant proposals, conference submissions, and journal submissions).",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 43",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "7763",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 2.20 PM",
+                    "open": true,
+                    "professor": "MEYR 851"
+                }
+            ],
+            "course_name": "Lab in Clinical Research",
+            "description": "PSYCH-UA   43 Lab in Clinical Research \nPrerequisites: PSYCH-UA 1, PSYCH-UA 10 AND PSYCH-UA 30 OR PSYCH-UA\n51. \nThe course is concerned with the process of scientific investigation into issues related to psychopathology, personality dynamics, individual differences, interpersonal interaction, and psychotherapy process. All basic aspects of research methodology are covered. Students complete a set of research exercises and submit writing assignments in APA style.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 44",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "8014",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "Lab in Perception",
+            "description": "PSYCH-UA   44 Lab in Perception \nPresents a state-of-the-art introduction to the design and implementation of experiments in perception. By participating in class-designed experiments and by carrying out a research project designed by individual or pairs of students, students learn how to formulate an experimental question, design and conduct an experiment, statistically analyze experimental data using a variety of statistical tests, write up the experiments as research papers, and present a short research talk.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 45",
+            "course_name": "Lab in Cognitive Neuroscience",
+            "description": "PSYCH-UA   45 Lab in Cognitive Neuroscience \nThe major approaches to cognitive neuroscience will be discussed from a practical point of view, including imaging and neuropsychological patient data. The core component of the class will be hands-on: students will design, execute, and analyze an electrophysiological experiment using EEG or MEG.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 46",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "8015",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "Lab in Human Cognition",
+            "description": "PSYCH-UA   46 Lab in Human Cognition \nPresents a state-of-the-art introduction to the design and implementation of experiments in cognitive psychology as performed on computers. Experiments are performed in the areas of perception, learning, memory, and decision making. Students carry out independent research projects and learn to write research reports conforming to APA guidelines.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 47",
+            "course_name": "Lab in Statistical Methods",
+            "description": "PSYCH-UA   47 Lab in Statistical Methods \nAn advanced undergraduate course in analysis of variance (ANOVA) and multiple regression that aims to reinforce first semester statistics and extend knowledge and application of statistics to problem solving using exploratory data analysis using both Excel and SPSS. The course seeks to bridge the gap between basic statistics courses offered at the undergraduate level and graduate statistics.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 48",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "7434",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7435",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": "MEYR 159"
+                }
+            ],
+            "course_name": "Lab in Psychopathology",
+            "description": "PSYCH-UA   48 Lab in Psychopathology \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 51",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7436",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "19W4 101"
+                }
+            ],
+            "course_name": "Abnormal Psychology",
+            "description": "PSYCH-UA   51 Abnormal Psychology \nThe kinds, dynamics, causes, and treatment of psychopathology. Topics include early concepts of abnormal behavior; affective disorders, anxiety disorders, psychosis, and personality disorders; the nature and effectiveness of traditional and modern methods of psychotherapy; and viewpoints of major psychologists past and present.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 52",
+            "course_name": "Behavioral & Integrative Neuroscience",
+            "description": "PSYCH-UA   52 Behavioral & Integrative Neuroscience",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 56",
+            "course_name": "Psycholinguistics",
+            "description": "PSYCH-UA   56 Psycholinguistics \nExamines theories and research concerning the cognitive processes and linguistic representations that enable language comprehension and production. Topics include speech perception, visual processes during reading, word recognition, syntactic processing, and semantic/discourse processing.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 57",
+            "course_name": "Language Acquisition and Cognitive Development",
+            "description": "PSYCH-UA   57 Language Acquisition and Cognitive Development \nIn the first three years of life, children go from helpless creatures, fresh out of the womb, to toddlers with a basic grasp of language and the people and objects in the world around them. How do they do that? This seminar will discuss current issues in language acquisition and cognitive development, exploring nature, nurture, and their interaction.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 58",
+            "course_name": "Computational Neurosci",
+            "description": "PSYCH-UA   58 Computational Neurosci",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 61",
+            "course_name": "Advanced Seminar in Perception",
+            "description": "PSYCH-UA   61 Advanced Seminar in Perception",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 62",
+            "course_name": "Industrial Organizat'L Psychology",
+            "description": "PSYCH-UA   62 Industrial Organizat'L Psychology \nPersonal, social, and environmental factors related to people?s attitudes and performance in industry and other organizations. Topics include personnel selection and evaluation, training and development, attitudes and motivation, leadership, group dynamics, organizational structure and climate, and job design and working conditions.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 65",
+            "course_name": "Conflict & Negotiation",
+            "description": "PSYCH-UA   65 Conflict & Negotiation",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 72",
+            "course_name": "Gender Roles & Behavior",
+            "description": "PSYCH-UA   72 Gender Roles & Behavior",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 73",
+            "course_name": "Attitudes & Persuasion",
+            "description": "PSYCH-UA   73 Attitudes & Persuasion",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 74",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9130",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "MEYR 551"
+                }
+            ],
+            "course_name": "",
+            "description": "PSYCH-UA   74\n\n   Motivation and Volition\n\nThe course provides an overview of the major theories and findings in research on motivation and volition. More specifically, we will address the history of research on motivation and volition, classic phenomena of being motivated versus lacking motivation and willpower, the psychology of goals (goal setting, goal implementation, effortful goal pursuits, disengagement, content and structure of goals, the mental representation of goals), disorders of self-regulation, and cognitive-neuropsychological research as well as the perspective of economics on motivation and volition. We will focus on un...\n\n      more description for PSYCH-UA   74 \u00bb\n\n      \n\n\n\nThe course provides an overview of the major theories and findings in research on motivation and volition. More specifically, we will address the history of research on motivation and volition, classic phenomena of being motivated versus lacking motivation and willpower, the psychology of goals (goal setting, goal implementation, effortful goal pursuits, disengagement, content and structure of goals, the mental representation of goals), disorders of self-regulation, and cognitive-neuropsychological research as well as the perspective of economics on motivation and volition. We will focus on understanding the interrelations and contradictions between the different approaches, and on designing research that promotes these different lines of thinking.\n\n      less description for PSYCH-UA   74 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 76",
+            "course_name": "Psychology & The Law",
+            "description": "PSYCH-UA   76 Psychology & The Law",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 79",
+            "course_name": "Psychology of Marriage",
+            "description": "PSYCH-UA   79 Psychology of Marriage",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 80",
+            "course_name": "Psychopathology",
+            "description": "PSYCH-UA   80 Psychopathology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 81",
+            "course_name": "Clinical Intervent in Psychological Disorders",
+            "description": "PSYCH-UA   81 Clinical Intervent in Psychological Disorders",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 82",
+            "course_name": "Behavior Modification",
+            "description": "PSYCH-UA   82 Behavior Modification",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 85",
+            "course_name": "Adolescent Psychology",
+            "description": "PSYCH-UA   85 Adolescent Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 87",
+            "course_name": "Psychology of Aging",
+            "description": "PSYCH-UA   87 Psychology of Aging",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 88",
+            "course_name": "Psychology & Religion",
+            "description": "PSYCH-UA   88 Psychology & Religion",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 91",
+            "course_name": "Psychology of Art",
+            "description": "PSYCH-UA   91 Psychology of Art",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 92",
+            "course_name": "Philosophy, History, and Systems of Psychology",
+            "description": "PSYCH-UA   92 Philosophy, History, and Systems of Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 93",
+            "course_name": "Preventive Psychology",
+            "description": "PSYCH-UA   93 Preventive Psychology \nExamines the idea of prevention beginning with its earliest roots in the fields of both public and mental health to more contemporary perspectives on the promotion of well-being. Alternative meanings, conceptual frameworks, risk-protective models, as well as research and ethical issues in prevention are examined. A wide array of exemplary preventive interventions during each major life state serves as the foci of analyses, in terms of their conception, strategies of intervention, and demonstrated effects.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 94",
+            "course_name": "Social Issues and Social Policy",
+            "description": "PSYCH-UA   94 Social Issues and Social Policy \nReviews research on causes, psychological correlates or consequences, and social policy options for dealing with selected social problems or social issues. Because most social issues are not purely psychological in nature, readings from other disciplines are included. The instructor chooses two or three social or policy issues to be explored in depth each term. Possible topics include poverty, homelessness, immigration, racism, affirmative action, child care, work and family, school dropout, and prevention of AIDS.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 95",
+            "course_name": "Child Development and Public Policy",
+            "description": "PSYCH-UA   95 Child Development and Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 200",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7437",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "MEYR 551"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "7438",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "MEYR 551"
+                }
+            ],
+            "course_name": "Honors Seminar",
+            "description": "PSYCH-UA  200 Honors Seminar \nPrerequisite: admission to the psychology honors program. Offered in the fall. 4 points. Students read and discuss recent studies and classical papers related to current controversies in psychology. A portion of class time is set aside for discussion of theoretical and technical aspects of each student's thesis project.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 201",
+            "course_name": "Honors Seminar II",
+            "description": "PSYCH-UA  201 Honors Seminar II \nA continuation of V89.0200. Students are also expected to present preliminary results of their thesis projects and interpret their findings.",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 202",
+            "course_name": "Honors Seminar",
+            "description": "PSYCH-UA  202 Honors Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7441",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "194M 210"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8016",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "MEYR"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8417",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "MEYR 307"
+                }
+            ],
+            "course_name": "Spec Topics Psyc:Lab in Social & Affective Neuroscience SystemRelational Aspects of the SelfSt: Experiments in Beauty",
+            "description": "PSYCH-UA  300 Spec Topics Psyc:Lab in Social & Affective Neuroscience SystemRelational Aspects of the SelfSt: Experiments in Beauty \nSeminars of an advanced level. Topics vary each time offered.",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 990",
+            "course_name": "Teaching of Psychology",
+            "description": "PSYCH-UA  990 Teaching of Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 991",
+            "course_name": "Teaching of Psychology",
+            "description": "PSYCH-UA  991 Teaching of Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 992",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "7847",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "MEYR 415"
+                }
+            ],
+            "course_name": "Tutorial in Infancy Research",
+            "description": "PSYCH-UA  992 Tutorial in Infancy Research \nStudents learn general methods for studying infant development and specific methods for examining infants? perceptual-motor development. Students design and conduct laboratory research projects, code and analyze data, and prepare results for presentation and publication (grant proposals, conference submissions, journal submissions).",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 993",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7444",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Supervised Reading",
+            "description": "PSYCH-UA  993 Supervised Reading \nn/a",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 995",
+            "course_name": "Fieldwork",
+            "description": "PSYCH-UA  995 Fieldwork",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 996",
+            "course_name": "Fieldwork",
+            "description": "PSYCH-UA  996 Fieldwork",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 999",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7445",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "PSYCH-UA  999\n\n   Research Experience & Methods\n\nThis course may be repeated for three semesters. It is normally taken for 4 points, but may be approved for less after the first semester with permission of the instructor. McMeniman. Offered every semester. 1 to 4 points. Undergraduate students are paired with faculty, advanced graduate students, or other researchers on a one-to-one basis to pursue common research goals in psychology. Undergraduates serve as apprentices on survey, laboratory, clinical, and field research projects and in return receive guidance in reading and developing research skills. Biweekly meetings deal with research met...\n\n      more description for PSYCH-UA  999 \u00bb\n\n      \n\n\n\nThis course may be repeated for three semesters. It is normally taken for 4 points, but may be approved for less after the first semester with permission of the instructor. McMeniman. Offered every semester. 1 to 4 points. Undergraduate students are paired with faculty, advanced graduate students, or other researchers on a one-to-one basis to pursue common research goals in psychology. Undergraduates serve as apprentices on survey, laboratory, clinical, and field research projects and in return receive guidance in reading and developing research skills. Biweekly meetings deal with research methods and design and allow students an opportunity to speak on their research projects. Written assignments include several brief homework assignments and a final journal-style research report.\n\n      less description for PSYCH-UA  999 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PSYCH-UA 9001",
+            "course_name": "Intro to Psychology",
+            "description": "PSYCH-UA 9001 Intro to Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9022",
+            "course_name": "Perception",
+            "description": "PSYCH-UA 9022 Perception",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9029",
+            "course_name": "Cognition",
+            "description": "PSYCH-UA 9029 Cognition",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9030",
+            "course_name": "Personality",
+            "description": "PSYCH-UA 9030 Personality",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9030",
+            "course_name": "Personality",
+            "description": "PSYCH-UA 9030 Personality",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9032",
+            "course_name": "Social Psychology",
+            "description": "PSYCH-UA 9032 Social Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9034",
+            "course_name": "Developmental Psychology",
+            "description": "PSYCH-UA 9034 Developmental Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9036",
+            "course_name": "Community Psychology",
+            "description": "PSYCH-UA 9036 Community Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9051",
+            "course_name": "Abnormal Psychology",
+            "description": "PSYCH-UA 9051 Abnormal Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9056",
+            "course_name": "Psycholinguistics",
+            "description": "PSYCH-UA 9056 Psycholinguistics",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9074",
+            "course_name": "Psychology and Social Issues",
+            "description": "PSYCH-UA 9074 Psychology and Social Issues",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9085",
+            "course_name": "Psych of Adolescence: Amer & European Exper",
+            "description": "PSYCH-UA 9085 Psych of Adolescence: Amer & European Exper",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9095",
+            "course_name": "Child Development & Public Policy",
+            "description": "PSYCH-UA 9095 Child Development & Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "PSYCH-UA 9300",
+            "course_name": "Special Topics in Psychology",
+            "description": "PSYCH-UA 9300 Special Topics in Psychology",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,906 @@
+{
+    "major_id": "ECON-GB",
+    "file": "./2015-2016/Economics_(ECON-GB).html",
+    "courses": [
+        {
+            "course_id": "ECON-GB 2101",
+            "course_name": "Finc Hist:Mny&Pwr,18-21C",
+            "description": "ECON-GB 2101 Finc Hist:Mny&Pwr,18-21C",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2105",
+            "course_name": "ENERGY & THE ENVIRONMENT",
+            "description": "ECON-GB 2105 ENERGY & THE ENVIRONMENT \nENERGY & THE ENVIRONMENT",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2110",
+            "course_name": "ECONOMICS OF HEALTHCARE",
+            "description": "ECON-GB 2110 ECONOMICS OF HEALTHCARE \nThis course is designed to give the student a general understanding of the economics of healthcare. More specifically",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2110",
+            "course_name": "ECONOMICS OF HEALTHCARE",
+            "description": "ECON-GB 2110 ECONOMICS OF HEALTHCARE \nECONOMICS OF HEALTHCARE",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2112",
+            "course_name": "ECON&MGMT:PHARM & BIOTECH",
+            "description": "ECON-GB 2112 ECON&MGMT:PHARM & BIOTECH \nECON&MGMT:PHARM & BIOTECH",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2119",
+            "course_name": "ENTRTNT&MEDIA: MKTS& ECON",
+            "description": "ECON-GB 2119 ENTRTNT&MEDIA: MKTS& ECON \nENTRTNT&MEDIA: MKTS& ECON",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2123",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20264",
+                    "section": "10",
+                    "period": "11/17/2015 - 12/22/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Foudy, Joseph"
+                }
+            ],
+            "course_name": "CHINA BUS,SOCIETY&FOR REL",
+            "description": "ECON-GB 2123 CHINA BUS,SOCIETY&FOR REL \nCHINA BUS,SOCIETY&FOR REL",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2129",
+            "course_name": "BUST,BOOM,BUST:1920-1930s",
+            "description": "ECON-GB 2129 BUST,BOOM,BUST:1920-1930s \nBUST,BOOM,BUST:1920-1930s",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2133",
+            "course_name": "MONETARY POLICY",
+            "description": "ECON-GB 2133 MONETARY POLICY \nMONETARY POLICY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2134",
+            "course_name": "Taxes,Bus Strat,& Eco Po",
+            "description": "ECON-GB 2134 Taxes,Bus Strat,& Eco Po",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2137",
+            "course_name": "The Japanese Economy",
+            "description": "ECON-GB 2137 The Japanese Economy",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2138",
+            "course_name": "Global Perspectives",
+            "description": "ECON-GB 2138 Global Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2139",
+            "course_name": "Finc Regulations&Innovat",
+            "description": "ECON-GB 2139 Finc Regulations&Innovat",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2141",
+            "course_name": "Current Eco&Fin Problems",
+            "description": "ECON-GB 2141 Current Eco&Fin Problems",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2155",
+            "course_name": "BEHAVIOURAL ECONOMICS",
+            "description": "ECON-GB 2155 BEHAVIOURAL ECONOMICS \nBEHAVIOURAL ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2172",
+            "course_name": "Urban Real Estate Eco",
+            "description": "ECON-GB 2172 Urban Real Estate Eco",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2182",
+            "course_name": "Development Eco & Financ",
+            "description": "ECON-GB 2182 Development Eco & Financ",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2183",
+            "course_name": "Russian Economy in Trans",
+            "description": "ECON-GB 2183 Russian Economy in Trans",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2190",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20265",
+                    "section": "10",
+                    "period": "09/16/2015 - 10/28/2015",
+                    "location": "KMEC 4-120",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Smith, George"
+                }
+            ],
+            "course_name": "GLOB PERSP ENTERPRISE SYS",
+            "description": "ECON-GB 2190 GLOB PERSP ENTERPRISE SYS \nGLOB PERSP ENTERPRISE SYS",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2195",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20266",
+                    "section": "10",
+                    "period": "11/04/2015 - 12/16/2015",
+                    "location": "KMEC 4-120",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Smith, George"
+                }
+            ],
+            "course_name": "ADVCD GLOBAL PERSPECTIVES",
+            "description": "ECON-GB 2195 ADVCD GLOBAL PERSPECTIVES \nADVCD GLOBAL PERSPECTIVES",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2233",
+            "course_name": "MONETARY POLICY,BK&CTL BK",
+            "description": "ECON-GB 2233 MONETARY POLICY,BK&CTL BK \nMONETARY POLICY,BK&CTL BK",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2301",
+            "course_name": "Anal Meth in Eco",
+            "description": "ECON-GB 2301 Anal Meth in Eco",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2305",
+            "course_name": "",
+            "description": "ECON-GB 2305\n\n   Entrep Leadshp:Patrn&Pro\n\nEntrepreneurship is the introduction of significant change into economic life. This course examines the manifold aspects of entrepreneurship and its impacts on economic development, primarily through the close examination of biographies of representative actors, to illuminate our understanding of some basic economic and historical theories about entrepreneurship. Addresses such questions as the following: What is the relationship between entrepreneurial undertakings, on the one hand, and culture and institutions, on the other? How can society and its organizations enhance entrepreneurship? Are...\n\n      more description for ECON-GB 2305 \u00bb\n\n      \n\n\n\nEntrepreneurship is the introduction of significant change into economic life. This course examines the manifold aspects of entrepreneurship and its impacts on economic development, primarily through the close examination of biographies of representative actors, to illuminate our understanding of some basic economic and historical theories about entrepreneurship. Addresses such questions as the following: What is the relationship between entrepreneurial undertakings, on the one hand, and culture and institutions, on the other? How can society and its organizations enhance entrepreneurship? Are there typical problems that every entrepreneur must confront and solve to be successful? Can we discern common personality traits or behavioral attributes among the various entrepreneurs in our study?\n\n      less description for ECON-GB 2305 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2310",
+            "course_name": "Western European Busines",
+            "description": "ECON-GB 2310 Western European Busines",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2311",
+            "course_name": "Intermediate Microecon",
+            "description": "ECON-GB 2311 Intermediate Microecon",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2314",
+            "course_name": "EMPIRICAL BUSINESS STRATG",
+            "description": "ECON-GB 2314 EMPIRICAL BUSINESS STRATG \nEMPIRICAL BUSINESS STRATG",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2315",
+            "course_name": "",
+            "description": "ECON-GB 2315\n\n   Glob Econ Intgrtn& Entre\n\nThe course is divided into two parts. The first part examines the factors that motivate the process of economic and monetary integration, with special attention devoted to the study of integration within particular regions, namely Europe, North America, and Asia. It explores the benefits of trade and monetary integration and analyzes the conditions that need to be satisfied for countries to enjoy these benefits. The second part of the course studies several aspects of entrepreneurship with particular attention to the opportunities and challenges that larger and more integrated markets create f...\n\n      more description for ECON-GB 2315 \u00bb\n\n      \n\n\n\nThe course is divided into two parts. The first part examines the factors that motivate the process of economic and monetary integration, with special attention devoted to the study of integration within particular regions, namely Europe, North America, and Asia. It explores the benefits of trade and monetary integration and analyzes the conditions that need to be satisfied for countries to enjoy these benefits. The second part of the course studies several aspects of entrepreneurship with particular attention to the opportunities and challenges that larger and more integrated markets create for entrepreneurial initiatives. Special attention is devoted to the financing of new and small enterprises and the development of the venture capital market. The ways in which entrepreneurship affects the economic growth of the country and the factors that stimulate entrepreneurship are additional areas of focus.\n\n      less description for ECON-GB 2315 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2316",
+            "course_name": "AESTHETICS:GLOBALZTN,ECON",
+            "description": "ECON-GB 2316 AESTHETICS:GLOBALZTN,ECON \nAESTHETICS:GLOBALZTN,ECON",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2320",
+            "course_name": "FUTURE OF GLOBAL ECONOMY",
+            "description": "ECON-GB 2320 FUTURE OF GLOBAL ECONOMY \nFUTURE OF GLOBAL ECONOMY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2322",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20267",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 3-60",
+                    "time": "Tue,Thu 10.30 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "Foudy, Joseph"
+                }
+            ],
+            "course_name": "ASIAN ECONOMIES",
+            "description": "ECON-GB 2322 ASIAN ECONOMIES \nASIAN ECONOMIES",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2330",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20268",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "KMEC 4-110",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Smith, George"
+                }
+            ],
+            "course_name": "ECON & BUS HIST - US",
+            "description": "ECON-GB 2330 ECON & BUS HIST - US \nECON & BUS HIST - US",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2331",
+            "course_name": "Macroeconomics",
+            "description": "ECON-GB 2331 Macroeconomics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2332",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20269",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 3-80",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Sargent, Thomas"
+                }
+            ],
+            "course_name": "ADVANCED MACROECONOMICS",
+            "description": "ECON-GB 2332 ADVANCED MACROECONOMICS \nADVANCED MACROECONOMICS",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2333",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20270",
+                    "section": "99",
+                    "period": "09/19/2015 - 12/12/2015",
+                    "location": "KMEC 2-80",
+                    "time": "Sat 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Adrian, Tobias"
+                }
+            ],
+            "course_name": "MON POL BNKS & CNTR BNKS",
+            "description": "ECON-GB 2333 MON POL BNKS & CNTR BNKS \nMON POL BNKS & CNTR BNKS",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2334",
+            "course_name": "Economics of Taxation",
+            "description": "ECON-GB 2334 Economics of Taxation",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2336",
+            "course_name": "Business History - US",
+            "description": "ECON-GB 2336 Business History - US",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2337",
+            "course_name": "Comp Anal:Japns &US Econ",
+            "description": "ECON-GB 2337 Comp Anal:Japns &US Econ \nExamines the Japanese economy as an application of modern macro- and microeconomics. Provides a comparative analysis of the Japanese economy, in particular, with the U.S. economy. Topics include historical perspective and modernization, postwar economic growth and technical change, industrial structure, public finance and tax systems, financial liberalization, political economy of trade friction, exchange rates, and Japanese management style.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2338",
+            "course_name": "",
+            "description": "ECON-GB 2338\n\n   Global Perspectives\n\nThis course compares the rise and evolution of modern corporate enterprise across nations. Considers the social and economic contexts for and the patterns of creation, growth, and change in industrial organization from the first industrial revolution to the present day. Discusses how and why different societies have achieved competitive advantages in domestic markets and global trade at different times. Examines the effects of culture, technology, finance, and government on the economies of England, Germany, Japan, the United States, and the East Asian tigers, as well as newly developing and l...\n\n      more description for ECON-GB 2338 \u00bb\n\n      \n\n\n\nThis course compares the rise and evolution of modern corporate enterprise across nations. Considers the social and economic contexts for and the patterns of creation, growth, and change in industrial organization from the first industrial revolution to the present day. Discusses how and why different societies have achieved competitive advantages in domestic markets and global trade at different times. Examines the effects of culture, technology, finance, and government on the economies of England, Germany, Japan, the United States, and the East Asian tigers, as well as newly developing and lagging economies around the world.\n\n      less description for ECON-GB 2338 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2339",
+            "course_name": "Finc Regulations&Innovat",
+            "description": "ECON-GB 2339 Finc Regulations&Innovat",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2340",
+            "course_name": "",
+            "description": "ECON-GB 2340\n\n   Bus & Public Polcy Europ\n\nThis is a study of the historical development of Europe in terms of both economic and political integration, which covers the long-run history of Europe, but focuses on the 20th century. The aim of the course is to explain the origins and character of modern European institutions, particularly but not exclusively those of the European Union (EU). Topics include war and ethnic conflict; trade, capital markets, and labor markets within Europe; protectionism and the Common Agricultural Policy; the \"widening\" of the EU; the origins and functioning of the euro; the prospects for fiscal federalism; ...\n\n      more description for ECON-GB 2340 \u00bb\n\n      \n\n\n\nThis is a study of the historical development of Europe in terms of both economic and political integration, which covers the long-run history of Europe, but focuses on the 20th century. The aim of the course is to explain the origins and character of modern European institutions, particularly but not exclusively those of the European Union (EU). Topics include war and ethnic conflict; trade, capital markets, and labor markets within Europe; protectionism and the Common Agricultural Policy; the \"widening\" of the EU; the origins and functioning of the euro; the prospects for fiscal federalism; European political trends (pro- and anti-European sentiment); immigration to Europe; and the European Union as a partner and rival to the United States.\n\n      less description for ECON-GB 2340 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2341",
+            "course_name": "Current Eco&Fin Problems",
+            "description": "ECON-GB 2341 Current Eco&Fin Problems",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2342",
+            "course_name": "",
+            "description": "ECON-GB 2342\n\n   Current Eco&Fin Problems\n\nThis course provides an overview of a broad range of issues and problems confronting the business and financial communities. Topics include the outlook for the world economy; interest rates and stock prices; the balance of payments problem; the changing structure of the money and capital markets; the issue of inflation/deflation; governmental regulation and deregulation; and the current fiscal and monetary scene. Problems are approached on both domestic and international bases. The goal is to provide a sense of perspective and interdependence in dealing with forces and factors that influence d...\n\n      more description for ECON-GB 2342 \u00bb\n\n      \n\n\n\nThis course provides an overview of a broad range of issues and problems confronting the business and financial communities. Topics include the outlook for the world economy; interest rates and stock prices; the balance of payments problem; the changing structure of the money and capital markets; the issue of inflation/deflation; governmental regulation and deregulation; and the current fiscal and monetary scene. Problems are approached on both domestic and international bases. The goal is to provide a sense of perspective and interdependence in dealing with forces and factors that influence decision makers.\n\n      less description for ECON-GB 2342 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2343",
+            "course_name": "FINC CRISIS&POL RESPONSE",
+            "description": "ECON-GB 2343 FINC CRISIS&POL RESPONSE \nFINC CRISIS&POL RESPONSE",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2344",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20271",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "KMEC 4-110",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Karydakis, Anthony"
+                }
+            ],
+            "course_name": "THE ECONOMY & FIN MARKTS",
+            "description": "ECON-GB 2344 THE ECONOMY & FIN MARKTS \nTHE ECONOMY & FIN MARKTS",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2345",
+            "course_name": "BUS SOCIAL&OTHER NETWORKS | ECO:SOCIAL&OTHER NETWORKS",
+            "description": "ECON-GB 2345 BUS SOCIAL&OTHER NETWORKS | ECO:SOCIAL&OTHER NETWORKS \nECO:SOCIAL&OTHER NETWORKS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2346",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20272",
+                    "section": "10",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "KMEC 3-120",
+                    "time": "Tue,Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Spence, Andrew M"
+                }
+            ],
+            "course_name": "GRWTH DVLP WORLD/GLB ECON",
+            "description": "ECON-GB 2346 GRWTH DVLP WORLD/GLB ECON \nGRWTH DVLP WORLD/GLB ECON",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2347",
+            "course_name": "REAL WORLD ANAL ECON DATA",
+            "description": "ECON-GB 2347 REAL WORLD ANAL ECON DATA \nREAL WORLD ANAL ECON DATA",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2348",
+            "course_name": "PUBLIC POLICY&BUS STRATGY",
+            "description": "ECON-GB 2348 PUBLIC POLICY&BUS STRATGY \nPUBLIC POLICY&BUS STRATGY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2350",
+            "course_name": "GLOBL POVERTY ALLEVIATION",
+            "description": "ECON-GB 2350 GLOBL POVERTY ALLEVIATION \nGLOBL POVERTY ALLEVIATION",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2355",
+            "course_name": "BEHAVIORAL ECONOMICS",
+            "description": "ECON-GB 2355 BEHAVIORAL ECONOMICS \nBEHAVIORAL ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2358",
+            "course_name": "GLBL ECONMC TRENDS&POLICY",
+            "description": "ECON-GB 2358 GLBL ECONMC TRENDS&POLICY \nGLBL ECONMC TRENDS&POLICY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2360",
+            "course_name": "SPORTS ECONOMICS",
+            "description": "ECON-GB 2360 SPORTS ECONOMICS \nSPORTS ECONOMICS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2361",
+            "course_name": "Eco & Finan Forecasting",
+            "description": "ECON-GB 2361 Eco & Finan Forecasting",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2364",
+            "course_name": "Strat Use of Incent& Inf",
+            "description": "ECON-GB 2364 Strat Use of Incent& Inf",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2365",
+            "course_name": "INNOVATIVE ENTREPRENEURSH",
+            "description": "ECON-GB 2365 INNOVATIVE ENTREPRENEURSH \nINNOVATIVE ENTREPRENEURSH",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2366",
+            "course_name": "Designing Efficient Orgs",
+            "description": "ECON-GB 2366 Designing Efficient Orgs",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2367",
+            "course_name": "Inform & Org of The Firm",
+            "description": "ECON-GB 2367 Inform & Org of The Firm",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2368",
+            "course_name": "Info in The Marketplace",
+            "description": "ECON-GB 2368 Info in The Marketplace",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2370",
+            "course_name": "Strat Interaction in Mkt",
+            "description": "ECON-GB 2370 Strat Interaction in Mkt",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2372",
+            "course_name": "Urban Real Estate Econom",
+            "description": "ECON-GB 2372 Urban Real Estate Econom",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2375",
+            "course_name": "Law & Economics of Busin",
+            "description": "ECON-GB 2375 Law & Economics of Busin",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2380",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20273",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "TISC 200",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Roubini, Nouriel"
+                }
+            ],
+            "course_name": "INTL MACRO POL,THRY&EVDNC",
+            "description": "ECON-GB 2380 INTL MACRO POL,THRY&EVDNC \nINTL MACRO POL,THRY&EVDNC",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 2381",
+            "course_name": "Intl Trade & Finance",
+            "description": "ECON-GB 2381 Intl Trade & Finance",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2382",
+            "course_name": "Development Eco & Financ",
+            "description": "ECON-GB 2382 Development Eco & Financ",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2383",
+            "course_name": "",
+            "description": "ECON-GB 2383\n\n   Economies in Transition\n\nMore than 10 years after the fall of the Berlin Wall, the economies in transition report varied experiences. Generally, the Eastern European countries are faring better than Russia and the other successor states to the former Soviet Union. With few exceptions, however, the performances of these countries are problematic and sometimes poor. Why has it proven so difficult for these former communist countries to replace their failed centrally planned economies with market economies? In large measure, the answers can be traced to aspects of the discredited centrally planned mechanism and the econo...\n\n      more description for ECON-GB 2383 \u00bb\n\n      \n\n\n\nMore than 10 years after the fall of the Berlin Wall, the economies in transition report varied experiences. Generally, the Eastern European countries are faring better than Russia and the other successor states to the former Soviet Union. With few exceptions, however, the performances of these countries are problematic and sometimes poor. Why has it proven so difficult for these former communist countries to replace their failed centrally planned economies with market economies? In large measure, the answers can be traced to aspects of the discredited centrally planned mechanism and the economic environment it engendered. Initially, it was anticipated that if the old systems were dismantled and capitalism given a chance to begin, that capitalism would flourish, thus accomplishing the transition. Due to the persistence of the deep distortions created by central planning in the communist environment, however, this has not proven to be enough. While ownership may no longer be in the hands of the state, effective market economies have rarely been forged. Income levels have fallen, income inequality has risen, many transitions take place outside the normal economic channels, and there is substantial capital flight. In many cases, crony capitalism has been the outcome. This course provides a framework for understanding the process of transition by furnishing a basic knowledge of both Soviet economic history and the administrative-command mechanism identified with Soviet central planning. Against this background, the economics of transition are explored. Particular attention is devoted to the following issues: the appropriate speed of transition, privatization, restructuring, corporate governance, banking and financial markets, and growth and macroeconomic stability.\n\n      less description for ECON-GB 2383 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2384",
+            "course_name": "Thry of Intl Trade",
+            "description": "ECON-GB 2384 Thry of Intl Trade",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2385",
+            "course_name": "",
+            "description": "ECON-GB 2385\n\n   Intl Compet&Multntl Entr\n\nThis course addresses several questions involving a firm's international activities. It begins by examining aspects of the international economic environment of a firm. First, building on the international concepts developed in the core courses, the course examines trade policy in both perfectly competitive and imperfectly competitive industries. Next, it examines recent changes in the international competitive environment with an emphasis on regional commercial integration; the operations of fixed exchange rate systems, such as the European Monetary System; and the impacts of international bo...\n\n      more description for ECON-GB 2385 \u00bb\n\n      \n\n\n\nThis course addresses several questions involving a firm's international activities. It begins by examining aspects of the international economic environment of a firm. First, building on the international concepts developed in the core courses, the course examines trade policy in both perfectly competitive and imperfectly competitive industries. Next, it examines recent changes in the international competitive environment with an emphasis on regional commercial integration; the operations of fixed exchange rate systems, such as the European Monetary System; and the impacts of international borrowing and lending. The course then takes an in-depth look at multinational enterprises, examining the economic forces that give rise to multinationals and the impact of multinational enterprises on international trade, product, and factor markets and on the economies of the home and host countries.\n\n      less description for ECON-GB 2385 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2389",
+            "course_name": "SOC&ECON SETTING-BUSINESS",
+            "description": "ECON-GB 2389 SOC&ECON SETTING-BUSINESS \nSOC&ECON SETTING-BUSINESS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2390",
+            "course_name": "Economic History of US",
+            "description": "ECON-GB 2390 Economic History of US",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2391",
+            "course_name": "FINC HIST:MNY&PWR,18-21CN",
+            "description": "ECON-GB 2391 FINC HIST:MNY&PWR,18-21CN \nFINC HIST:MNY&PWR,18-21CN",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2392",
+            "course_name": "DEVELOP FINC INSTIT &MKTS",
+            "description": "ECON-GB 2392 DEVELOP FINC INSTIT &MKTS \nDEVELOP FINC INSTIT &MKTS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2393",
+            "course_name": "Corp Enter:Prof Star&Per",
+            "description": "ECON-GB 2393 Corp Enter:Prof Star&Per",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 2397",
+            "course_name": "Social Setting of Bus",
+            "description": "ECON-GB 2397 Social Setting of Bus",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3133",
+            "course_name": "NYC:Economic Outlook",
+            "description": "ECON-GB 3133 NYC:Economic Outlook",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3134",
+            "course_name": "Women&Work in The US",
+            "description": "ECON-GB 3134 Women&Work in The US",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3136",
+            "course_name": "Evol Mod Amer Corp",
+            "description": "ECON-GB 3136 Evol Mod Amer Corp",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3137",
+            "course_name": "Eco Struc&Indus Pol Japa",
+            "description": "ECON-GB 3137 Eco Struc&Indus Pol Japa",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3161",
+            "course_name": "Workshop in Economics",
+            "description": "ECON-GB 3161 Workshop in Economics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3162",
+            "course_name": "Wrksh Macro Monetary Thr",
+            "description": "ECON-GB 3162 Wrksh Macro Monetary Thr",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3170",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "ECON-GB 3170 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3182",
+            "course_name": "LAW&ECON MUNICIPAL GOVERN",
+            "description": "ECON-GB 3182 LAW&ECON MUNICIPAL GOVERN \nLAW&ECON MUNICIPAL GOVERN",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3192",
+            "course_name": "History of American Bus",
+            "description": "ECON-GB 3192 History of American Bus",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3270",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "ECON-GB 3270 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3311",
+            "course_name": "Int'L Econ. Envirn.",
+            "description": "ECON-GB 3311 Int'L Econ. Envirn.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3312",
+            "course_name": "",
+            "description": "ECON-GB 3312\n\n   Adv Microeconomics\n\nAs a sequel to Microeconomics I, this course covers the basics of game theory and oligopoly theory. The main focus of this course is on strategic interactions, where few agents have to take into account the effect of their actions on others. We discuss simultaneous and sequential games in extensive and normal forms and apply non-cooperative and cooperative equilibrium concepts. We then go to applications in the choice of price, variety, and quality in oligopoly and monopolistic competition; strategic coordination, collusion, and creation and stability of cartels; first mover's advantage and di...\n\n      more description for ECON-GB 3312 \u00bb\n\n      \n\n\n\nAs a sequel to Microeconomics I, this course covers the basics of game theory and oligopoly theory. The main focus of this course is on strategic interactions, where few agents have to take into account the effect of their actions on others. We discuss simultaneous and sequential games in extensive and normal forms and apply non-cooperative and cooperative equilibrium concepts. We then go to applications in the choice of price, variety, and quality in oligopoly and monopolistic competition; strategic coordination, collusion, and creation and stability of cartels; first mover's advantage and disadvantage; nonlinear pricing; and economics of networks, including financial networks and innovation.\n\n      less description for ECON-GB 3312 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3313",
+            "course_name": "Conflct&Dec Mkng:Econ Pr",
+            "description": "ECON-GB 3313 Conflct&Dec Mkng:Econ Pr \nThis course explores the economics of regulation, law, and public policy and their applications to business activity. The economic principles underlying regulation and other laws affecting businesses are discussed. Analysis of the applications of regulation, governing both its intended and unintended effects, and its legal and institutional framework, are explored. Emphasis is placed on developing practical understanding for business decision making.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3325",
+            "course_name": "Macroeconomic Analysis",
+            "description": "ECON-GB 3325 Macroeconomic Analysis \nThis is a course in dynamic macroeconomic theory with emphasis on the connections between theory and aggregate time series data. The course content includes a development of the tools of dynamic, stochastic analysis; a review of evidence on business cycles and asset prices; and a description of current research strategies for explaining aggregate phenomena.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3332",
+            "course_name": "ADVANCED TOPICS MACROECON",
+            "description": "ECON-GB 3332 ADVANCED TOPICS MACROECON \nADVANCED TOPICS MACROECON",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3334",
+            "course_name": "Microeconomic Decisions",
+            "description": "ECON-GB 3334 Microeconomic Decisions \nA course covering the foundations of microeconomics, it presents standard consumer's and firm's theory and extends the analysis to allow for uncertainty. It also introduces general equilibrium theory, information economics, and game theory. Lectures rely on constrained optimization and comparative static techniques. This course will be offered at the Graduate School of Arts and Science.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3335",
+            "course_name": "MICROECON:THEORY&APPLCTNS",
+            "description": "ECON-GB 3335 MICROECON:THEORY&APPLCTNS \nMICROECON:THEORY&APPLCTNS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3340",
+            "course_name": "",
+            "description": "ECON-GB 3340\n\n   Eco Growth & Tech Change\n\nThe course discusses the trends in economic growth and the factors that influence them. Descriptive and optimal models are considered after a discussion of the appropriate analytical techniques. Consideration of empirical studies that indicate the importance of technical change in determining the growth rate leads to a discussion of microeconomic and growth theoretical models of technical change. Specific topics include techniques for estimation of production functions and technical change; optimal control methods and their application in growth theory; group theoretic methods in economic dyna...\n\n      more description for ECON-GB 3340 \u00bb\n\n      \n\n\n\nThe course discusses the trends in economic growth and the factors that influence them. Descriptive and optimal models are considered after a discussion of the appropriate analytical techniques. Consideration of empirical studies that indicate the importance of technical change in determining the growth rate leads to a discussion of microeconomic and growth theoretical models of technical change. Specific topics include techniques for estimation of production functions and technical change; optimal control methods and their application in growth theory; group theoretic methods in economic dynamics; innovation and public policy; and international trade and R&D.\n\n      less description for ECON-GB 3340 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3341",
+            "course_name": "Economics of Survival",
+            "description": "ECON-GB 3341 Economics of Survival",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3342",
+            "course_name": "Economy of Large Firms",
+            "description": "ECON-GB 3342 Economy of Large Firms",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3343",
+            "course_name": "Information,Firms&Market",
+            "description": "ECON-GB 3343 Information,Firms&Market",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3345",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20274",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "King, Mervyn A",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "MONEY&MODERN CAPITALISM",
+            "description": "ECON-GB 3345 MONEY&MODERN CAPITALISM \nMONEY&MODERN CAPITALISM",
+            "offering": true
+        },
+        {
+            "course_id": "ECON-GB 3351",
+            "course_name": "ECONOMETRICS I",
+            "description": "ECON-GB 3351 ECONOMETRICS I \nECONOMETRICS I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3352",
+            "course_name": "ECONOMETRICS II",
+            "description": "ECON-GB 3352 ECONOMETRICS II \nECONOMETRICS II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3353",
+            "course_name": "Adv Topics Econometrics",
+            "description": "ECON-GB 3353 Adv Topics Econometrics",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3360",
+            "course_name": "INDUSTRIAL ORGANIZATION",
+            "description": "ECON-GB 3360 INDUSTRIAL ORGANIZATION \nINDUSTRIAL ORGANIZATION",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3362",
+            "course_name": "Wrksh Macro Monetary Thr",
+            "description": "ECON-GB 3362 Wrksh Macro Monetary Thr",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3365",
+            "course_name": "Wrkshp in Applied Micro",
+            "description": "ECON-GB 3365 Wrkshp in Applied Micro",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3370",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "ECON-GB 3370 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3371",
+            "course_name": "Independent Studies",
+            "description": "ECON-GB 3371 Independent Studies",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3375",
+            "course_name": "URBAN SYSTEMS",
+            "description": "ECON-GB 3375 URBAN SYSTEMS \nURBAN SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3380",
+            "course_name": "Labor Economics II",
+            "description": "ECON-GB 3380 Labor Economics II",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3382",
+            "course_name": "LAW&ECON MUNICIPAL GOVERN",
+            "description": "ECON-GB 3382 LAW&ECON MUNICIPAL GOVERN \nLAW&ECON MUNICIPAL GOVERN",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3383",
+            "course_name": "Foreign Direct Investmen",
+            "description": "ECON-GB 3383 Foreign Direct Investmen",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3384",
+            "course_name": "Thry of Intl Trade",
+            "description": "ECON-GB 3384 Thry of Intl Trade \nThis is a survey of the economic analysis of the determinants and effects of international trade and government policies toward trade. Develops both the Ricardian and Heckscher-Ohlin theories of trade, as well as theories of intraindustry trade. Discusses other theories and empirical tests of the determinants of the trade patterns. Presents analysis of the effects of tariffs, quotas, and other government policies toward trade, as well as analysis of distortions arising from market failures.",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3385",
+            "course_name": "Intl Corporation Finance",
+            "description": "ECON-GB 3385 Intl Corporation Finance",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3386",
+            "course_name": "",
+            "description": "ECON-GB 3386\n\n   Intl Macroeconomics\n\nThis course provides a broad overview of modern international macroeconomics and finance examining inter-temporal approaches to the determination of the current account and foreign debt accumulation; theoretical models and empirical evidence on the determinants of nominal and real exchange rates under flexible and sticky prices; asset pricing and portfolio choice in open economies; empirical evidence on the efficiency of the foreign exchange market; international business cycles; models of fixed exchange rates, target zones, and speculative attacks on fixed exchange rate regimes; the role of o...\n\n      more description for ECON-GB 3386 \u00bb\n\n      \n\n\n\nThis course provides a broad overview of modern international macroeconomics and finance examining inter-temporal approaches to the determination of the current account and foreign debt accumulation; theoretical models and empirical evidence on the determinants of nominal and real exchange rates under flexible and sticky prices; asset pricing and portfolio choice in open economies; empirical evidence on the efficiency of the foreign exchange market; international business cycles; models of fixed exchange rates, target zones, and speculative attacks on fixed exchange rate regimes; the role of open economy factors in macroeconomic stabilization; and the optimal currency area and policy coordination debate.\n\n      less description for ECON-GB 3386 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 3634",
+            "course_name": "Microeconomic Decisions",
+            "description": "ECON-GB 3634 Microeconomic Decisions",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4101",
+            "course_name": "RESEARCH PRACTICUM-ECON I",
+            "description": "ECON-GB 4101 RESEARCH PRACTICUM-ECON I \nRESEARCH PRACTICUM-ECON I",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4102",
+            "course_name": "RESEARCH PRACTICUM-ECON 2",
+            "description": "ECON-GB 4102 RESEARCH PRACTICUM-ECON 2 \nRESEARCH PRACTICUM-ECON 2",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4103",
+            "course_name": "RESEARCH PRACTICUM-ECON 3",
+            "description": "ECON-GB 4103 RESEARCH PRACTICUM-ECON 3 \nRESEARCH PRACTICUM-ECON 3",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4104",
+            "course_name": "RESEARCH PRACTICUM-ECON 4",
+            "description": "ECON-GB 4104 RESEARCH PRACTICUM-ECON 4 \nRESEARCH PRACTICUM-ECON 4",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4105",
+            "course_name": "RESEARCH PRACTICUM-ECON 5",
+            "description": "ECON-GB 4105 RESEARCH PRACTICUM-ECON 5 \nRESEARCH PRACTICUM-ECON 5",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4150",
+            "course_name": "TEACHING PRACTICUM - ECON",
+            "description": "ECON-GB 4150 TEACHING PRACTICUM - ECON \nTEACHING PRACTICUM - ECON",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4301",
+            "course_name": "STRATEGY I (ECONOMICS)",
+            "description": "ECON-GB 4301 STRATEGY I (ECONOMICS) \nSTRATEGY I (ECONOMICS)",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4302",
+            "course_name": "Instit,Corp Gov&Capt Mkt",
+            "description": "ECON-GB 4302 Instit,Corp Gov&Capt Mkt",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4315",
+            "course_name": "TOPICS IN GAME THEORY",
+            "description": "ECON-GB 4315 TOPICS IN GAME THEORY \nTOPICS IN GAME THEORY",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 4325",
+            "course_name": "INFO FRICTNS,NTWRKS&MACRO",
+            "description": "ECON-GB 4325 INFO FRICTNS,NTWRKS&MACRO \nINFO FRICTNS,NTWRKS&MACRO",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9903",
+            "course_name": "Dissertation Sem Economi",
+            "description": "ECON-GB 9903 Dissertation Sem Economi",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9906",
+            "course_name": "DISSERTATION SEMINAR",
+            "description": "ECON-GB 9906 DISSERTATION SEMINAR \nDISSERTATION SEMINAR",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9909",
+            "course_name": "Dissertation Sem Economi",
+            "description": "ECON-GB 9909 Dissertation Sem Economi",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9912",
+            "course_name": "Dissertation Sem Economi",
+            "description": "ECON-GB 9912 Dissertation Sem Economi",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9914",
+            "course_name": "DISSERTATION SEMINAR ECON",
+            "description": "ECON-GB 9914 DISSERTATION SEMINAR ECON \nDISSERTATION SEMINAR ECON",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9915",
+            "course_name": "Dissertation Sem Economi",
+            "description": "ECON-GB 9915 Dissertation Sem Economi",
+            "offering": false
+        },
+        {
+            "course_id": "ECON-GB 9918",
+            "course_name": "Dissertation Sem Economi",
+            "description": "ECON-GB 9918 Dissertation Sem Economi",
+            "offering": false
+        }
+    ]
+}

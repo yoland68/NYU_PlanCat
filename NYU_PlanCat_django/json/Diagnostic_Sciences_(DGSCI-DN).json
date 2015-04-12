@@ -1,0 +1,555 @@
+{
+    "major_id": "DGSCI-DN",
+    "file": "./2015-2016/Diagnostic_Sciences_(DGSCI-DN).html",
+    "courses": [
+        {
+            "course_id": "DGSCI-DN 6968",
+            "course_name": "6YR-6 Conferences in OMFS",
+            "description": "DGSCI-DN 6968 6YR-6 Conferences in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9290",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19867",
+                    "section": "500",
+                    "period": "09/02/2015 - 09/30/2015 ",
+                    "location": "Loomer, Peter M; Morris, Deborah",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "DPID Clinical Orientation Program",
+            "description": "DGSCI-DN 9290 DPID Clinical Orientation Program",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9291",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19712",
+                    "section": "500",
+                    "period": "09/02/2015 - 12/18/2015 ",
+                    "location": "Sadda, Raid",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Oral Surgery Semi Series",
+            "description": "DGSCI-DN 9291 Oral Surgery Semi Series",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9292",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19711",
+                    "section": "500",
+                    "period": "09/02/2015 - 12/18/2015 ",
+                    "location": "Okazaki, Katsushi",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Principles & Practice of Endodontics",
+            "description": "DGSCI-DN 9292 Principles & Practice of Endodontics",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9293",
+            "course_name": "Practice Management III",
+            "description": "DGSCI-DN 9293 Practice Management III",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9294",
+            "course_name": "PG Ortho Foundation Sciences and Ethics Remediation",
+            "description": "DGSCI-DN 9294 PG Ortho Foundation Sciences and Ethics Remediation",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9295",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19892",
+                    "section": "500",
+                    "period": "09/02/2015 - 12/23/2015 ",
+                    "location": "Malek, Matthew; Pellicciari, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Introduction to Clinical Endodontics",
+            "description": "DGSCI-DN 9295 Introduction to Clinical Endodontics",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9296",
+            "course_name": "Fundamentals of basic Perio",
+            "description": "DGSCI-DN 9296 Fundamentals of basic Perio",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9297",
+            "course_name": "Classic Lit Review",
+            "description": "DGSCI-DN 9297 Classic Lit Review",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9298",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19886",
+                    "section": "500",
+                    "period": "09/02/2015 - 12/18/2015 ",
+                    "location": "Spivakovsky, Silvia",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Evidence Based Dentistry",
+            "description": "DGSCI-DN 9298 Evidence Based Dentistry",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9299",
+            "course_name": "Director's Series",
+            "description": "DGSCI-DN 9299 Director's Series",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9300",
+            "course_name": "Inter Pub Health/Experiential",
+            "description": "DGSCI-DN 9300 Inter Pub Health/Experiential",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9301",
+            "course_name": "Board Exam preparation",
+            "description": "DGSCI-DN 9301 Board Exam preparation",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9302",
+            "course_name": "Contemporary Concepts in Implant Dentistry and Bone Regeneration",
+            "description": "DGSCI-DN 9302 Contemporary Concepts in Implant Dentistry and Bone Regeneration",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9303",
+            "course_name": "Ortho/Perio Seminar",
+            "description": "DGSCI-DN 9303 Ortho/Perio Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9304",
+            "course_name": "Fundamentals of Periodontics",
+            "description": "DGSCI-DN 9304 Fundamentals of Periodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9305",
+            "course_name": "Elective in Esthetic Implant Placement",
+            "description": "DGSCI-DN 9305 Elective in Esthetic Implant Placement",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9306",
+            "course_name": "YR3 Fundamentals of Pros",
+            "description": "DGSCI-DN 9306 YR3 Fundamentals of Pros",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9307",
+            "classes": [
+                {}
+            ],
+            "course_name": "Multi-Disciplinary Clinics",
+            "description": "DGSCI-DN 9307 Multi-Disciplinary Clinics",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9308",
+            "classes": [
+                {}
+            ],
+            "course_name": "Treatment Confirmation Board",
+            "description": "DGSCI-DN 9308 Treatment Confirmation Board",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9309",
+            "classes": [
+                {}
+            ],
+            "course_name": "Perio and Implant Seminar Series",
+            "description": "DGSCI-DN 9309 Perio and Implant Seminar Series",
+            "offering": true
+        },
+        {
+            "course_id": "DGSCI-DN 9310",
+            "course_name": "YR1 Advanced Education in Endo Clinics",
+            "description": "DGSCI-DN 9310 YR1 Advanced Education in Endo Clinics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9311",
+            "course_name": "YR1 Principles to the Practice of Endodontics",
+            "description": "DGSCI-DN 9311 YR1 Principles to the Practice of Endodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9312",
+            "course_name": "YR1 Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9312 YR1 Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9313",
+            "course_name": "YR1 Conferences in Endodontics",
+            "description": "DGSCI-DN 9313 YR1 Conferences in Endodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9314",
+            "course_name": "YR2 Adv Education in Endodontic",
+            "description": "DGSCI-DN 9314 YR2 Adv Education in Endodontic",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9315",
+            "course_name": "YR2 Principles Essential to the Practice of Endodontics",
+            "description": "DGSCI-DN 9315 YR2 Principles Essential to the Practice of Endodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9316",
+            "course_name": "YR2 Conferences in Endodontics",
+            "description": "DGSCI-DN 9316 YR2 Conferences in Endodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9317",
+            "course_name": "YR1 Conferences in Orthodontic",
+            "description": "DGSCI-DN 9317 YR1 Conferences in Orthodontic",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9318",
+            "course_name": "YR2 Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9318 YR2 Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9319",
+            "course_name": "YR2 Conference in Orthodontic",
+            "description": "DGSCI-DN 9319 YR2 Conference in Orthodontic",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9320",
+            "course_name": "YR3 Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9320 YR3 Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9321",
+            "course_name": "YR3 Conferences in Orthodontics",
+            "description": "DGSCI-DN 9321 YR3 Conferences in Orthodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9322",
+            "course_name": "YR1 Advanced Education in Pediatric DentistrySeminars",
+            "description": "DGSCI-DN 9322 YR1 Advanced Education in Pediatric DentistrySeminars",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9323",
+            "course_name": "YR2 Advanced Education in Pediatric Dentistry Seminars",
+            "description": "DGSCI-DN 9323 YR2 Advanced Education in Pediatric Dentistry Seminars",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9324",
+            "course_name": "YR1 Principles Essential to the Practice of Periodontics",
+            "description": "DGSCI-DN 9324 YR1 Principles Essential to the Practice of Periodontics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9325",
+            "course_name": "YR1 Multi-Disciplinary Conferences in Perio",
+            "description": "DGSCI-DN 9325 YR1 Multi-Disciplinary Conferences in Perio",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9326",
+            "course_name": "YR1 Periodontics Conferences",
+            "description": "DGSCI-DN 9326 YR1 Periodontics Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9327",
+            "course_name": "Principles Essential to the Practice of advanced Education in Periodontics YR2",
+            "description": "DGSCI-DN 9327 Principles Essential to the Practice of advanced Education in Periodontics YR2",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9328",
+            "course_name": "Perio YR2 Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9328 Perio YR2 Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9329",
+            "course_name": "Periodontics Conferences",
+            "description": "DGSCI-DN 9329 Periodontics Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9330",
+            "course_name": "Principles Essential to the Practice of Advanced Education in Periodontics YR3",
+            "description": "DGSCI-DN 9330 Principles Essential to the Practice of Advanced Education in Periodontics YR3",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9331",
+            "course_name": "YR3 Multi-Disciplinary Confercenes",
+            "description": "DGSCI-DN 9331 YR3 Multi-Disciplinary Confercenes",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9332",
+            "course_name": "Periodontics Conferences YR3",
+            "description": "DGSCI-DN 9332 Periodontics Conferences YR3",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9333",
+            "course_name": "YR2 Pros Conference",
+            "description": "DGSCI-DN 9333 YR2 Pros Conference",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9334",
+            "course_name": "YR2 Prosthodontic Clinic",
+            "description": "DGSCI-DN 9334 YR2 Prosthodontic Clinic",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9335",
+            "course_name": "YR3 Pros Conference",
+            "description": "DGSCI-DN 9335 YR3 Pros Conference",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9336",
+            "course_name": "YR1 Prosthodontic Clinic",
+            "description": "DGSCI-DN 9336 YR1 Prosthodontic Clinic",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9338",
+            "course_name": "YR1 Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9338 YR1 Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9339",
+            "course_name": "4YR1 Advanced Education in OMFS",
+            "description": "DGSCI-DN 9339 4YR1 Advanced Education in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9340",
+            "course_name": "4YR1 Principles Essential to the Practice  of OMFS",
+            "description": "DGSCI-DN 9340 4YR1 Principles Essential to the Practice  of OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9341",
+            "course_name": "4YR1 Conferences in Oral & Maxillofacial Surgery",
+            "description": "DGSCI-DN 9341 4YR1 Conferences in Oral & Maxillofacial Surgery",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9342",
+            "course_name": "4YR2 Advanced Education in OMFS",
+            "description": "DGSCI-DN 9342 4YR2 Advanced Education in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9343",
+            "course_name": "4YR2 Principles to the Practice of OMFS",
+            "description": "DGSCI-DN 9343 4YR2 Principles to the Practice of OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9344",
+            "course_name": "4YR2 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9344 4YR2 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9345",
+            "course_name": "4YR2 Conferences in OMFS",
+            "description": "DGSCI-DN 9345 4YR2 Conferences in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9346",
+            "course_name": "4YR3 Advanced Education in OMFS Clinics",
+            "description": "DGSCI-DN 9346 4YR3 Advanced Education in OMFS Clinics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9347",
+            "course_name": "4YR3 Principles Essential to the Practice",
+            "description": "DGSCI-DN 9347 4YR3 Principles Essential to the Practice",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9348",
+            "course_name": "4YR3 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9348 4YR3 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9349",
+            "course_name": "4YR3 Conferences in Oral & Maxillofacial Surgery",
+            "description": "DGSCI-DN 9349 4YR3 Conferences in Oral & Maxillofacial Surgery",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9350",
+            "course_name": "4YR4 Advanced Education in OMFS Clinics",
+            "description": "DGSCI-DN 9350 4YR4 Advanced Education in OMFS Clinics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9351",
+            "course_name": "4YR4 Principles Essential to the Practice of OMFS",
+            "description": "DGSCI-DN 9351 4YR4 Principles Essential to the Practice of OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9352",
+            "course_name": "4YR4 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9352 4YR4 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9353",
+            "course_name": "4YR4 Conferences in OMFS",
+            "description": "DGSCI-DN 9353 4YR4 Conferences in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9354",
+            "course_name": "6YR1 Advanced Education in OMFS",
+            "description": "DGSCI-DN 9354 6YR1 Advanced Education in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9355",
+            "course_name": "6YR1 Principles Essential to the Practice of OMFS",
+            "description": "DGSCI-DN 9355 6YR1 Principles Essential to the Practice of OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9356",
+            "course_name": "6YR1 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9356 6YR1 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9357",
+            "course_name": "6YR1  Conferences in OMFS",
+            "description": "DGSCI-DN 9357 6YR1  Conferences in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9358",
+            "course_name": "6YR2 &YR3 PG OMFS Advanced Specialty Education Core Sciences",
+            "description": "DGSCI-DN 9358 6YR2 &YR3 PG OMFS Advanced Specialty Education Core Sciences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9359",
+            "course_name": "6YR4 PG OMFS Advanced Specialty Education Core Sciences",
+            "description": "DGSCI-DN 9359 6YR4 PG OMFS Advanced Specialty Education Core Sciences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9360",
+            "course_name": "6YR4 Advanced Education in OMFS Clinic",
+            "description": "DGSCI-DN 9360 6YR4 Advanced Education in OMFS Clinic",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9361",
+            "course_name": "6YR4 Principles to the Practice of OMFS",
+            "description": "DGSCI-DN 9361 6YR4 Principles to the Practice of OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9362",
+            "course_name": "6YR4 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9362 6YR4 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9363",
+            "course_name": "6YR4 OMFS Conferences in OMFS",
+            "description": "DGSCI-DN 9363 6YR4 OMFS Conferences in OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9364",
+            "course_name": "6YR5 PG Advanced Specialty Education Core Sciences",
+            "description": "DGSCI-DN 9364 6YR5 PG Advanced Specialty Education Core Sciences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9365",
+            "course_name": "6YR-6 Advanced Education in OMFS Clinics",
+            "description": "DGSCI-DN 9365 6YR-6 Advanced Education in OMFS Clinics",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9366",
+            "course_name": "6YR-6 Principles Essential to the Practice of OMFS",
+            "description": "DGSCI-DN 9366 6YR-6 Principles Essential to the Practice of OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9367",
+            "course_name": "6YR-6 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9367 6YR-6 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9368",
+            "course_name": "6YR-6 Conferences OMFS",
+            "description": "DGSCI-DN 9368 6YR-6 Conferences OMFS",
+            "offering": false
+        },
+        {
+            "course_id": "DGSCI-DN 9369",
+            "course_name": "4YR1 OMFS Multi-Disciplinary Conferences",
+            "description": "DGSCI-DN 9369 4YR1 OMFS Multi-Disciplinary Conferences",
+            "offering": false
+        }
+    ]
+}

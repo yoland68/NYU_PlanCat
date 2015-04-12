@@ -1,0 +1,747 @@
+{
+    "major_id": "HPSE-GE",
+    "file": "./2015-2016/Higher_&_Post-Secondary_Education(HPSE-GE).html",
+    "courses": [
+        {
+            "course_id": "HPSE-GE 2004",
+            "course_name": "Readings in Business and Workplace Learning",
+            "description": "HPSE-GE 2004 Readings in Business and Workplace Learning \nStudy & analysis of significant current writing in national business & business education periodicals & books; consideration of solutions to inherent problems & application to business  & classroom settings",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2005",
+            "course_name": "Undergraduate Advising",
+            "description": "HPSE-GE 2005 Undergraduate Advising \nThis course will examine the theoretical & practical underpinnings of advising on a college campus. Materials covered will include best practices in academic, career, & student program advising.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2007",
+            "course_name": "Budgeting in Higher Education",
+            "description": "HPSE-GE 2007 Budgeting in Higher Education \nThis course will introduce students to principles of funding allocation within post-secondary institutions. It will focus primarily on departmental & programmatic assets & needs, & will expose\nstudents to best practices in the field.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2010",
+            "course_name": "Informal Learning in organizations",
+            "description": "HPSE-GE 2010 Informal Learning in organizations \nThe integration of concepts related to understanding the development & evaluation of workplace learning practices.  Students combine business management & adult learning concepts as a framework to plan for & evaluate a wide range of training approaches in organizations.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2011",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4384",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Malczewski, Joan"
+                }
+            ],
+            "course_name": "How Colleges Work",
+            "description": "HPSE-GE 2011 How Colleges Work \nIntroduction to the organizational dynamics of colleges & universities. Beginning with a review of organizational theory, students will review the various types of college structures (universities, four-year colleges, community colleges, for profit colleges.) Students will study key functional areas: finance; enrollment management; academic affairs; student services & explore how these areas are affected by governance & managerial approaches. Assignments will include case studies that present examples of strategic planning & management challenges.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2015",
+            "course_name": "",
+            "description": "HPSE-GE 2015\n\n   The College Environment\n\nCourse focuses on the study of environments with a particular focus on the college campus. Examine various approaches to describing environments & learning ways to assess various settings in the college environment. Course also includes the interaction between students & their environments & the implications this has for administrators in higher education. Course is intended for mid-level administrators in higher education & embodies a practitioner-oriented approach to the study of the campus environment. Designed to meet the needs of practitioners who must understand ways that the environment...\n\n      more description for HPSE-GE 2015 \u00bb\n\n      \n\n\n\nCourse focuses on the study of environments with a particular focus on the college campus. Examine various approaches to describing environments & learning ways to assess various settings in the college environment. Course also includes the interaction between students & their environments & the implications this has for administrators in higher education. Course is intended for mid-level administrators in higher education & embodies a practitioner-oriented approach to the study of the campus environment. Designed to meet the needs of practitioners who must understand ways that the environment influence student behaviors & experiences.\n\n      less description for HPSE-GE 2015 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2016",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4746",
+                    "section": "001",
+                    "period": "11/11/2015 - 11/11/2015",
+                    "location": "SILV 406 with Shapses, Samantha11/18/2015 - 11/18/2015 Wed 6.45 PM - 8.25 PM at SILV 406 with Shapses, Samantha12/02/2015 - 12/02/2015 Wed 6.45 PM - 8.25 PM at SILV 406 with Shapses, Samantha12/09/2015 - 12/09/2015 Wed 6.45 PM - 8.25 PM at SILV 406 with Shapses, Samantha12/16/2015 - 12/16/2015 Wed 6.45 PM - 8.25 PM at 25W4 C-5",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Shapses, Samantha"
+                }
+            ],
+            "course_name": "Social Justice on The College Campus",
+            "description": "HPSE-GE 2016 Social Justice on The College Campus \nThis course will cover the origins of social justice theory & its current-day relevance for higher education educators & practitioners. Students will explore models of oppression & empowerment & learn to infuse social justice frameworks into curricular & extracurricular programming.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2020",
+            "course_name": "Colloqium in Workplace Education",
+            "description": "HPSE-GE 2020 Colloqium in Workplace Education \nAnalysis of the changing nature of workplace & workforce education.  The colloquium examines such educational issues as workplace literacy, the corporate university, & government legislation & policies.  Includes guest lectures by a wide variety of human resource professionals in classroom & site-specific settings.  Selected current research related to these topics is also examined",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2025",
+            "course_name": "The College Presidency",
+            "description": "HPSE-GE 2025 The College Presidency \nDesigned to promote an understanding of the many facets of the college & university presidency.  Students investigate & analyze the college presidency from class discussions & research.  Special emphasis is placed on the president as institutional leader to both internal & external constituents.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2035",
+            "course_name": "Business Education at the College Level",
+            "description": "HPSE-GE 2035 Business Education at the College Level \nAnalysis of curriculum developments, teaching problems, & trends in business education in two-year colleges, in higher education, & in teacher-education institutions.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2041",
+            "course_name": "American College in a  Global Context",
+            "description": "HPSE-GE 2041 American College in a  Global Context \nExploration of the issues affecting the American college, its development, present status, & prospects for the future. Special attention given to problems related to administration & governance, students, faculty, & curriculum & teaching, in comparison with international post-secondary institutions.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2045",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4617",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL139",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Moja, Audrey"
+                }
+            ],
+            "course_name": "Internationalism and Study Abroad",
+            "description": "HPSE-GE 2045 Internationalism and Study Abroad \nThis course focuses on the history, design, variety, impact & challenges of contemporary study abroad programs.  The links between internationalization & globalization in the development of study abroad programs in the United States will be analyzed. Discussion will include the origins of study abroad; the many varieties of academic formats, sponsorships & venues; the demographics of student participants; the academic, cultural & personal learning of students; & the academic & administrative challenges faced by sponsoring colleges & universities.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2046",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17217",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "O'Connor, Bridget"
+                }
+            ],
+            "course_name": "Curriculum  Development",
+            "description": "HPSE-GE 2046 Curriculum  Development \nPrinciples & sources of curriculum construction and development in higher education:  academic plans, internal and external influences, evaluation criteria for curricula; review of research.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2057",
+            "course_name": "The Community College",
+            "description": "HPSE-GE 2057 The Community College \nExamination of the organization, function, & objectives of two-year colleges.  Investigation of their operations, including research into problems of curriculum development, student services, articulation, & special programs designed to meet community needs.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2061",
+            "course_name": "The Transition from High School to College",
+            "description": "HPSE-GE 2061 The Transition from High School to College \nThis course exposes the students to the various issues, trends, research, & practice related to the high school to college transition. There is a social justice framework guiding much of the materials assigned & discussed to expose students to the various realities impacting specific student populations. The materials in this course focus on American educational institutions & trends.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2067",
+            "course_name": "Campus Community and Student Subcultures",
+            "description": "HPSE-GE 2067 Campus Community and Student Subcultures \nThis course will explore perspectives of college/university community, the impact of education & campus contexts, the various groups who comprise the college campus (e.g. traditional/non-traditional populations) & the dynamic of interaction that contribute to student development, retention, & other outcomes.  The goals of this course are to increase awareness & understanding of the role that community & student subcultures play in the overall student experience while in college & how to structure communities to foster student success.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2068",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4735",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-15",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Klein, Sara"
+                }
+            ],
+            "course_name": "",
+            "description": "HPSE-GE 2068\n\n   The Impact of College On Student Success\n\nThis course examines how college impact students. Specifically, it is designed to introduce graduate students to those pre-&-existing institutional conditions, educational practices, & campus experiences that influence student decision-making, ranging from college choice to retention. Students will learn about major theoretical perspectives explaining the formative relationship between the college environment & the student, the research informing & emerging from these perspectives, & how each can be used to inform their own processes of decision-making regarding what constitutes the effective ...\n\n      more description for HPSE-GE 2068 \u00bb\n\n      \n\n\n\nThis course examines how college impact students. Specifically, it is designed to introduce graduate students to those pre-&-existing institutional conditions, educational practices, & campus experiences that influence student decision-making, ranging from college choice to retention. Students will learn about major theoretical perspectives explaining the formative relationship between the college environment & the student, the research informing & emerging from these perspectives, & how each can be used to inform their own processes of decision-making regarding what constitutes the effective educational policies & practices.\n\n      less description for HPSE-GE 2068 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2069",
+            "course_name": "College Student Learning and Development",
+            "description": "HPSE-GE 2069 College Student Learning and Development \nCharacteristics of students attending various types of colleges & universities.  Theories of growth & development for traditional & older-aged students.  Review of research on attendance & withdrawal, institutional environment & student subcultures, & the immediate & long-term effects of a college experience.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2070",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4792",
+                    "section": "001",
+                    "period": "09/02/2015 - 09/02/2015",
+                    "location": "SILV 406 with Wolniak, Gregory C09/09/2015 - 09/09/2015 Wed 6.45 PM - 8.25 PM at SILV 406 with Wolniak, Gregory C09/16/2015 - 09/16/2015 Wed 6.45 PM - 8.25 PM at SILV 406 with Wolniak, Gregory C09/23/2015 - 09/23/2015 Wed 6.45 PM - 8.25 PM at SILV 406 with Wolniak, Gregory C09/30/2015 - 09/30/2015 Wed 6.45 PM - 8.25 PM at SILV 406",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Wolniak, Gregory C"
+                }
+            ],
+            "course_name": "Enrollment Mgmt/Retention Programs In Higher Education",
+            "description": "HPSE-GE 2070 Enrollment Mgmt/Retention Programs In Higher Education \nFocus is on theoretical & practice-based understandings of admissions & retention programming in U.S. colleges. Links between practice & the theory & research relating to college choice, access, & retention will be explored. Variations by student population & institutional type will be presented & implications for programming will be considered.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2076",
+            "course_name": "External Quality Assurance",
+            "description": "HPSE-GE 2076 External Quality Assurance \nBuilding on an understanding of higher education management issues, this course will present various approaches to external quality assurance, including accreditation, & will utilize an international perspective. Through case studies, this course will present the various roles & responsibilities of the external quality assurance (EQA) agencies in different national settings & the major approaches they follow to serve their policy contexts. Challenges, national contexts, & current topics in EQA processes will be covered.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2077",
+            "course_name": "",
+            "description": "HPSE-GE 2077\n\n   Operating a Quality Assurance Agency\n\nBuilding on an understanding of higher education management issues, this course focuses on the structure & management of external quality assurance (accreditation) agencies including cycles & methods of review, essential elements of approval & recognition stages for higher education institutions, training of external reviewers, decision making, reporting & follow-up, & mediating between government, employers & higher education institutions. Student learning will focus on the functioning of a quality assurance agency, including policies & procedures, governance & management, funding, stake hold...\n\n      more description for HPSE-GE 2077 \u00bb\n\n      \n\n\n\nBuilding on an understanding of higher education management issues, this course focuses on the structure & management of external quality assurance (accreditation) agencies including cycles & methods of review, essential elements of approval & recognition stages for higher education institutions, training of external reviewers, decision making, reporting & follow-up, & mediating between government, employers & higher education institutions. Student learning will focus on the functioning of a quality assurance agency, including policies & procedures, governance & management, funding, stake holder relations, selection & training of reviewers, & provision of information.\n\n      less description for HPSE-GE 2077 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2081",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17222",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 409",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Steisel Goldfarb, Paula"
+                }
+            ],
+            "course_name": "Designing and Managing Organizational Learning Programs",
+            "description": "HPSE-GE 2081 Designing and Managing Organizational Learning Programs \nA guide in the design, development, management, & evaluation of learning programs in organizational settings. Topics include the development of learning program proposals, innovative instructional techniques, & the best practices in learning management.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2086",
+            "course_name": "Evaluating Learning in Postsecondary Education",
+            "description": "HPSE-GE 2086 Evaluating Learning in Postsecondary Education \nCharacteristics of good tests, construction of informal tests, simple statistical techniques in testing, use of tests in diagnosis, & remedial teaching & evaluation of the testing materials available in business subjects.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2087",
+            "course_name": "Building and Maintaining Institutional Quality",
+            "description": "HPSE-GE 2087 Building and Maintaining Institutional Quality \nFocuses on institutional assessment, program evaluation, & accreditation by external quality assurance agencies, governmental organizations, & special groups. Examines approaches for building & maintaining institutional quality, including the role of strategic planning & resource allocation; defining, developing, & assessing outcomes including student learning; analyzing & presenting data; & developing & using institutional self-study reports.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2088",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4385",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 500",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "O'Connor, Bridget"
+                }
+            ],
+            "course_name": "Research Approaches & Techniques",
+            "description": "HPSE-GE 2088 Research Approaches & Techniques \nThe purpose of this course is to develop good consumers of educational research in both postsecondary & workplace settings. As part of an action research proposal, students will develop data collection procedures & instruments appropriate to investigating problems in practice settings.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2090",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4088",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 406",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Marcus, Ann"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4472",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-14",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Gifford, Antoinette"
+                }
+            ],
+            "course_name": "Foundations of Higher Education",
+            "description": "HPSE-GE 2090 Foundations of Higher Education \nIntroduces colleges & universities as a career professional field. Emphasis on historical development, philosophical & sociological foundations, the structure & variety of students & institutions; governance & administration, professional standards, the role of specialists, ethical problems & relationships to other professions & educational sectors.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2093",
+            "course_name": "Professional Seminar in Higher Education",
+            "description": "HPSE-GE 2093 Professional Seminar in Higher Education \nThe seminar reviews the history & scope of higher education & student affairs; studies structure & function of administrative & professional norms & ethics; issues of professional practice & supervision; case studies pertinent to student roles & responsibilities",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2097",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4089",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-14",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Kanter, Martha J"
+                }
+            ],
+            "course_name": "Leadership in Higher Education",
+            "description": "HPSE-GE 2097 Leadership in Higher Education \nLeadership in Higher Education is designed to give students an understanding of several major theoretical approaches to understanding leadership, & to study how leadership functions within higher education. Students explore many theories of leadership, using case studies to evaluate their usefulness. Readings include approaches to the analysis of colleges & universities including an assessment of which leadership styles & strategies can be most effective.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2099",
+            "course_name": "Minority Serving Institutions",
+            "description": "HPSE-GE 2099 Minority Serving Institutions \nMinority-serving institutions (i.e., historically Black colleges & universities, Tribal colleges & universities, Hispanic-serving institutions, & Asian-serving institutions) all play a significant, but under-examined role in American higher education. This course covers the development & evolution of these institutions in the context of American higher education both historically & more contemporarily. This course will emphasize the characteristics of MSIs based on their political & racialized origins, student populations, funding schemes, governance & leadership.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4090",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL146",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Stage, Frances"
+                }
+            ],
+            "course_name": "Internship in College Teaching",
+            "description": "HPSE-GE 2101 Internship in College Teaching \nFor those considering college teaching or desiring to improve their competencies as instructors. Students intern with master teachers, teach classes under critical supervision, develop, administer, & grade examinations, & analyze results. Several meetings are held with an instructor in the department to discuss problems in college teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2103",
+            "course_name": "International Business Education",
+            "description": "HPSE-GE 2103 International Business Education \nThe structure of business education in both the developed & the developing countries of the world outside the United States. Current problems are considered that are relevant to teaching business subjects in these countries, at all levels & in all types of institutions, & the training of educators for international service.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2105",
+            "course_name": "Internship I",
+            "description": "HPSE-GE 2105 Internship I \nInternships are developed for field experiences in business & business education settings.  For business, internships include on site examinations of procedures, policies & technology; for business, education, intercepts provide experiences in classroom settings with master teachers.  Seminar meetings are held with program faculty to analyze experiences within the designated field setting.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2106",
+            "course_name": "Internship II",
+            "description": "HPSE-GE 2106 Internship II \nInternships are developed for field experiences in business & business education settings.  For business, internships include on site examinations of procedures, policies & technology; for business, education, intercepts provide experiences in classroom settings with master teachers.  Seminar meetings are held with program faculty to analyze experiences within the designated field setting.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2115",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17221",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 785",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Nolan, Terrance"
+                }
+            ],
+            "course_name": "Higher Education and the Law",
+            "description": "HPSE-GE 2115 Higher Education and the Law \nExamines legal problems & issues as they affect the students, faculty, & administrators of colleges & universities.  Major topics include liability, contract law, due process, confidentiality of records, search & seizure, and discrimination.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2117",
+            "course_name": "Financing Higher Education",
+            "description": "HPSE-GE 2117 Financing Higher Education \nProblems of financing both public & private institutions of higher education.  An examination of the financial needs of institutions & of policies & practices to meet these needs.  Attention is give to the organization & operation of financial programs & to federal, state, & foundation activities in financing higher education.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2121",
+            "classes": [
+                {}
+            ],
+            "course_name": "Higher Education Studies, Administrative Work and Field Experiences",
+            "description": "HPSE-GE 2121 Higher Education Studies, Administrative Work and Field Experiences \nIndividually designed internship program to meet special needs of doctoral candidates.  Experiences may combine supervised work assignments at metropolitan universities, colleges, or community colleges with research studies to be completed in connection with such work responsibilities.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2122",
+            "course_name": "Theories of Learning in Colleges & the Workplace",
+            "description": "HPSE-GE 2122 Theories of Learning in Colleges & the Workplace \nStudents use learning theory to develop their own teaching philosophy and apply both to the development of instructional methods appropriate for their content and teaching environment. Includes examination of learning theory, instructional techniques, tools, strategies, and issues related to effective teaching and adult learning in academic and organizational settings.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2125",
+            "course_name": "Faculty Personnel: Policies, Practices, and Problems",
+            "description": "HPSE-GE 2125 Faculty Personnel: Policies, Practices, and Problems \nStudy of faculty personnel policies & practices: recruitment, selection, teaching, effectiveness, salaries, tenure determination, evaluation, & dismissal.  Issues of collective bargaining & faculty development are also included.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2130",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17220",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 780",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Stimpson, Catharine"
+                }
+            ],
+            "course_name": "Higher Educ & Engaged Imagination:  Representations of Colleges and Universities",
+            "description": "HPSE-GE 2130 Higher Educ & Engaged Imagination:  Representations of Colleges and Universities \nPopular beliefs about higher education arise as much from literary, & cultural, sources as from academic & professional research. This innovative course interrogates the idea, \u201cHow do we know what we know about higher education?\u201d By applying a humanistic method the course engages the imagination of writers & readers, in discovering & re-discovering the meaning, history, & purposes of higher education. Through the lens of literature, but also of the other arts & media, students will understand the hopes, fears, & conflicts associated with higher education.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2131",
+            "course_name": "Higher Education and Contemporary Society",
+            "description": "HPSE-GE 2131 Higher Education and Contemporary Society \nAnalysis of the changing role of higher education in a diverse & contemporary society.  Emphasis is placed on the mission & role of public & private two-year & four-year colleges in urban settings.  Federal & state higher education policies along with recent court decisions are reviewed in relation to their impact on educational access, equity, & pluralism.  Recent social & educational systemic initiatives developed to respond to the needs of a\u00a0growing diverse society are examined.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2135",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4736",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 406",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Kanter, Martha J"
+                }
+            ],
+            "course_name": "The Politics of Higher Education",
+            "description": "HPSE-GE 2135 The Politics of Higher Education \nAnalysis of the relationship between higher education & the development of political policy, with particular attention to both federal & state interest in university activities; impact of federal aid on the structure & development of universities & colleges; emergence of academic interest groups on the national & state levels & their role in shaping higher education policy.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2137",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4791",
+                    "section": "001",
+                    "period": "10/07/2015 - 10/07/2015",
+                    "location": "Ellett, Thomas10/14/2015 - 10/14/2015 Wed 6.45 PM - 8.25 PM with Ellett, Thomas10/21/2015 - 10/21/2015 Wed 6.45 PM - 8.25 PM with Ellett, Thomas10/28/2015 - 10/28/2015 Wed 6.45 PM - 8.25 PM with Ellett, Thomas11/04/2015 - 11/04/2015 Wed 6.45 PM - 8.25 PM with Ellett, Thomas",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Professional Competencies in Student Affairs",
+            "description": "HPSE-GE 2137 Professional Competencies in Student Affairs \nIntroduces colleges & university student personnel administration as a professional area.  Emphasis on the historical development of the profession, professional standards, the role of specialists in the field, ethical problems, & relations to other helping professions & services.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2139",
+            "course_name": "Globalization and Higher Education Reforms",
+            "description": "HPSE-GE 2139 Globalization and Higher Education Reforms \nThis course provides an introductory exploration & analysis of the impact of globalization on higher education. International, regional, & national systems of higher education will form the base for the discussion of issues related to increased demand for access, growth, & concerns over quality. The course contributes to an understanding of contextual factors relevant to setting policy for external quality assurance agencies, especially relating to coordination of different models & international exchange of credits, degrees, students, & personnel.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2141",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4092",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 737",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Funk, Michael"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "4655",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-12",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Gifford, Antoinette"
+                }
+            ],
+            "course_name": "Internship in Higher Education",
+            "description": "HPSE-GE 2141 Internship in Higher Education \nInternship experience in student personnel & academic administration, including regularly scheduled seminar meetings. Students explore the history & scope of higher education & student affairs. They will also discuss problems, investigate issues in professional practice, & conduct case studies pertinent to student roles & responsibilities.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2150",
+            "course_name": "",
+            "description": "HPSE-GE 2150\n\n   Global Perspectives in Higher Education\n\nA study abroad course designed to provide students with an opportunity to examine higher education systems in other countries & to discover & analyze similarities & differences in comparison to higher education in the United States. Through visits to universities & public & private colleges, students will engage in discussions with government officials, higher education leadership, faculty members, deans of students & their staffs & students in foreign institutions. The course explores the role that higher education systems in other countries address issues of equity & their role in the strati...\n\n      more description for HPSE-GE 2150 \u00bb\n\n      \n\n\n\nA study abroad course designed to provide students with an opportunity to examine higher education systems in other countries & to discover & analyze similarities & differences in comparison to higher education in the United States. Through visits to universities & public & private colleges, students will engage in discussions with government officials, higher education leadership, faculty members, deans of students & their staffs & students in foreign institutions. The course explores the role that higher education systems in other countries address issues of equity & their role in the stratification of society.\n\n      less description for HPSE-GE 2150 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2151",
+            "course_name": "",
+            "description": "HPSE-GE 2151\n\n   Global Perspectives in Higher Education: Israel\n\nThe study trip to Israel is designed to provide graduate students with an opportunity to examine Israel\u2019s higher education system & to discover & analyze similarities & differences in comparison to higher education in the United States. Through visits to universities & public & private colleges, we will engage in discussions with rectors, faculty members, deans of students & their staffs, & students themselves. Special lectures with sociologists & national officials will help us understand the goals & future aspirations of Israeli higher education & how higher education meets the social & poli...\n\n      more description for HPSE-GE 2151 \u00bb\n\n      \n\n\n\nThe study trip to Israel is designed to provide graduate students with an opportunity to examine Israel\u2019s higher education system & to discover & analyze similarities & differences in comparison to higher education in the United States. Through visits to universities & public & private colleges, we will engage in discussions with rectors, faculty members, deans of students & their staffs, & students themselves. Special lectures with sociologists & national officials will help us understand the goals & future aspirations of Israeli higher education & how higher education meets the social & political, & cultural needs of society. In addition to meeting on the campus in New York, students will participate in a series of site visits in Israel that will provide an in-depth case study of its higher education. The course includes lectures from scholars & visits to 6 Israeli colleges & universities to meet with faculty, administrators, & students. Additional sessions will be held with directors of the National Council on Higher Education & a recent government commission on the future of higher education. Topics will include curricular options, admissions requirements, distribution of students by class & ethnic group, college climate, & services offered.\n\n      less description for HPSE-GE 2151 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2152",
+            "course_name": "",
+            "description": "HPSE-GE 2152\n\n   Global Perspectives in Higher Education: India\n\nDesigned to provide graduate students with an opportunity to examine India\u2019s higher education system & to discover & analyze similarities & differences in comparison to higher education in the United States. Through visits to universities & public & private colleges, we will engage in discussion with directors, faculty members, deans of students & their staffs & students themselves. Special lectures with sociologists & national officials will help us understand the goals & future aspirations of Indian higher education & how higher education meets the social, political, & cultural needs of soci...\n\n      more description for HPSE-GE 2152 \u00bb\n\n      \n\n\n\nDesigned to provide graduate students with an opportunity to examine India\u2019s higher education system & to discover & analyze similarities & differences in comparison to higher education in the United States. Through visits to universities & public & private colleges, we will engage in discussion with directors, faculty members, deans of students & their staffs & students themselves. Special lectures with sociologists & national officials will help us understand the goals & future aspirations of Indian higher education & how higher education meets the social, political, & cultural needs of society. In addition to meeting on the campus in New York, students will participate in a two week travel program in India  that will provide an in-depth case study of its higher education. The course includes lectures from scholars & visits to Indian colleges & universities to meet with faculty, administrators, & students. Additional sessions will be held with directors of the national government commission on the future of higher education. Topics will include curricular options, admissions requirements, distribution of students by class & ethnic group, college climate, & services offered.\n\n      less description for HPSE-GE 2152 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2153",
+            "course_name": "",
+            "description": "HPSE-GE 2153\n\n   Global Perspectives in Higher Education: Brazil\n\nExamines globalization & higher education in Brazil with comparison to the United States through an historical overview & an analysis of contemporary issues. Students will gain an understanding of the variety of higher education institutions in Brazil (large/small, public/private/religious, etc.) & will become familiar with issues of equity & access, internationalization in higher education, faculty & student mobility, variation among public versus private universities\u2019 economic structures, the role of foreign university partnerships, & other higher education issues. Visits to public & private...\n\n      more description for HPSE-GE 2153 \u00bb\n\n      \n\n\n\nExamines globalization & higher education in Brazil with comparison to the United States through an historical overview & an analysis of contemporary issues. Students will gain an understanding of the variety of higher education institutions in Brazil (large/small, public/private/religious, etc.) & will become familiar with issues of equity & access, internationalization in higher education, faculty & student mobility, variation among public versus private universities\u2019 economic structures, the role of foreign university partnerships, & other higher education issues. Visits to public & private universities & colleges in Brazil allow students to engage in discussions with directors, faculty members, deans & students.\n\n      less description for HPSE-GE 2153 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2154",
+            "course_name": "",
+            "description": "HPSE-GE 2154\n\n   Global Perspectives in Higher Education: Turkey\n\nThis course is designed to provide graduate students with an opportunity to examine Turkey's higher education system & to discover & analyze similarities & differences in comparison to higher education in the United States & other countries. The course will focus on Turkey's ancient & very recent university traditions. Turkey has several institutions of higher learning, which date back more than 500 years, & has seen rapid development & expansion among universities in the last few decades. Changes in national law in 1981 permitted the establishment of private non-profit universities. Today, th...\n\n      more description for HPSE-GE 2154 \u00bb\n\n      \n\n\n\nThis course is designed to provide graduate students with an opportunity to examine Turkey's higher education system & to discover & analyze similarities & differences in comparison to higher education in the United States & other countries. The course will focus on Turkey's ancient & very recent university traditions. Turkey has several institutions of higher learning, which date back more than 500 years, & has seen rapid development & expansion among universities in the last few decades. Changes in national law in 1981 permitted the establishment of private non-profit universities. Today, there are 102 public universities & 52 private universities, several which are internationally ranked, all under the jurisdiction of central policy agencies & a national testing & admissions system.\n\n      less description for HPSE-GE 2154 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2155",
+            "course_name": "Global  Perspectives in Higher Education: Cuba",
+            "description": "HPSE-GE 2155 Global  Perspectives in Higher Education: Cuba \nA study abroad course designed to examine & compare higher education systems in Cuba & the United States. The course explores the role that higher education systems plays in Cuba & it addresses issues of equity & social stratification. Through visits to University of Havana, the University of Cienfuegos, & local community colleges, degree-granting distance education sites, & vocational centers, students will gain a deeper understanding of higher education within a centralized economy.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 2161",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4093",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EAST 207",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Funk, Michael"
+                }
+            ],
+            "course_name": "Diversity in Higher Education",
+            "description": "HPSE-GE 2161 Diversity in Higher Education \nExamines current issues & research relating to participation & success of students & faculty from different backgrounds in U.S. higher education.   Emphasis is on the interplay between ethnicity & institutional, societal, governmental, & personal influences on participation & retention of students & faculty.  Considers the extent to which efforts by institutions & governments have been successful in encouraging access & retention in various levels & types of institutions.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "4094",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Gifford, Antoinette",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4095",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Marcus, Ann",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4096",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Mayhew, Mathew",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4097",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Moja, Audrey",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4098",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "O'Connor, Bridget",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4099",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Stage, Frances",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4100",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Funk, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4101",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Dietrich, Erich",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "HPSE-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 2310",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "4809",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Higher Education and Students Affairs Capstone Workshop",
+            "description": "HPSE-GE 2310 Higher Education and Students Affairs Capstone Workshop \nThis one-semester workshop enables students in the M.A. Higher Education & Student Affairs to launch & complete their capstone project, which consists of a professional philosophy statement & portfolio. The capstone requires students to apply their academic & experiential learning to challenges found in the professional field.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 3001",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17218",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 785",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Marcus, Ann"
+                }
+            ],
+            "course_name": "Doctoral Colloquium in Higher Education",
+            "description": "HPSE-GE 3001 Doctoral Colloquium in Higher Education \nThis colloquium provides an opportunity for doctoral students to work closely with program faculty in studying major texts/theorists in the field of higher education. Topics will vary from year to year.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 3009",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17219",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 284",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Mayhew, Mathew"
+                }
+            ],
+            "course_name": "Doctoral Seminar in Higher Education",
+            "description": "HPSE-GE 3009 Doctoral Seminar in Higher Education \nAll new doctoral students register for this integrative seminar. The focus is on higher & workplace education as a professional field, on the conduct of literature reviews, on writing a synthesis,  of the research literature & on understanding research. The goal of the seminar is the production of a paper that can with additional development help the student achieve candidacy.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 3015",
+            "course_name": "",
+            "description": "HPSE-GE 3015\n\n   Doctoral Project Seminar: Institutional Research\n\nThis workshop focused on literature & case studies drawn from institutional research as a way of helping students translate their interest in a particular problem of practice into a prospectus for an Ed.D culminating project. Students learn about the conduct of institutional research, study the methodologies & designs most frequently used in institutional research projects. The intent of the workshop is to provide opportunities for participants to select & apply methodologies & designs to potential culminating projects & to receive feedback on their efforts from faculty members & others member...\n\n      more description for HPSE-GE 3015 \u00bb\n\n      \n\n\n\nThis workshop focused on literature & case studies drawn from institutional research as a way of helping students translate their interest in a particular problem of practice into a prospectus for an Ed.D culminating project. Students learn about the conduct of institutional research, study the methodologies & designs most frequently used in institutional research projects. The intent of the workshop is to provide opportunities for participants to select & apply methodologies & designs to potential culminating projects & to receive feedback on their efforts from faculty members & others members of their cohort & to assist them in completing the prospectus required for advancement to candidacy.\n\n      less description for HPSE-GE 3015 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 3016",
+            "course_name": "",
+            "description": "HPSE-GE 3016\n\n   Dissertation Proposal Seminar in Higher Education\n\nThis workshop focused on literature & case studies drawn from institutional research as a way of helping students translate their interest in a particular problem of practice into a prospectus for an Ed.D culminating project. Students learn about the conduct of institutional research, study the methodologies & designs most frequently used in institutional research projects. The intent of the workshop is to provide opportunities for participants to select & apply methodologies & designs to potential culminating projects & to receive feedback on their efforts from faculty members & others member...\n\n      more description for HPSE-GE 3016 \u00bb\n\n      \n\n\n\nThis workshop focused on literature & case studies drawn from institutional research as a way of helping students translate their interest in a particular problem of practice into a prospectus for an Ed.D culminating project. Students learn about the conduct of institutional research, study the methodologies & designs most frequently used in institutional research projects. The intent of the workshop is to provide opportunities for participants to select & apply methodologies & designs to potential culminating projects & to receive feedback on their efforts from faculty members & others members of their cohort & to assist them in completing the prospectus required for advancement to candidacy.\n\n      less description for HPSE-GE 3016 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 3020",
+            "course_name": "Seminar in Adult and Workplace Learning",
+            "description": "HPSE-GE 3020 Seminar in Adult and Workplace Learning \nDesigned to help instructors at the post secondary level, corporate educators, & administrators understand how adults use a formal & informal learning strategies. Students will analyze a variety of workplace learning issues & develops organizational solutions, including applications for institutions of higher education. An additional outcome of the course is a targeted literature search.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 3109",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4747",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 504",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Moja, Audrey"
+                }
+            ],
+            "course_name": "Globalization and Higher Education Reforms",
+            "description": "HPSE-GE 3109 Globalization and Higher Education Reforms \nThis course provides an introductory exploration & analysis of the impact of globalization on higher education. International, regional, & national systems of higher education will form the base for the discussion of issues related to increased demand for access, growth, & concerns over quality. The course contributes to an understanding of contextual factors relevant to setting policy for external quality assurance agencies, especially relating to coordination of different models & international exchange of credits, degrees, students, & personnel.",
+            "offering": true
+        },
+        {
+            "course_id": "HPSE-GE 3110",
+            "course_name": "Economics and Finance of Higher Education",
+            "description": "HPSE-GE 3110 Economics and Finance of Higher Education \nConsiders essential elements of economic theories of the public finance & human capital. Examines arguments for & against various policy strategies for funding higher education. Provides knowledge of higher education finance & budgeting & undergraduate student aid. Includes a Virtual University simulation that provides experience working with key variables.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 3119",
+            "course_name": "Governance of Colleges and Universities",
+            "description": "HPSE-GE 3119 Governance of Colleges and Universities \nInvestigation of governance structures & practices in American colleges and universities.  Study of the effect on such structures & practices of a number of identifiable sets of variables: public/private, urban/rural, autonomous/system-connected.  Exploration of relationships of such variables as goals, authority, & power on the effectiveness & efficiency of instructional & administrative outcomes.",
+            "offering": false
+        },
+        {
+            "course_id": "HPSE-GE 3120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17223",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Stage, Frances",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Theoretical Research Perspectives on College Students",
+            "description": "HPSE-GE 3120 Theoretical Research Perspectives on College Students \nExplores theoretical approaches used to study college students. Examines competing frameworks & the contributions of emergent approaches to understanding college students. Tracks the evolution of several approaches to better understand the research process.",
+            "offering": true
+        }
+    ]
+}

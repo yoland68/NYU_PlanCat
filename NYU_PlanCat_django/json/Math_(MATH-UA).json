@@ -1,0 +1,2096 @@
+{
+    "major_id": "MATH-UA",
+    "file": "./2015-2016/Math_(MATH-UA).html",
+    "courses": [
+        {
+            "course_id": "MATH-UA 9",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7122",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "12WV G08"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7123",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7124",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7125",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7126",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7127",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "5WP 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7128",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7129",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7130",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7131",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7132",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 207"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7133",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 1302"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7134",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7135",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7136",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "7E12 125"
+                }
+            ],
+            "course_name": "Algebra and Calculus",
+            "description": "MATH-UA    9 Algebra and Calculus \nPrerequisite: Three years of high school math or permission of the department. An intensive course in intermediate algebra and trigonometry. Topics include algebraic, exponential, logarithmic, and trigonometric functions and their graphs.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 17",
+            "course_name": "Calculus for The Social Sciences",
+            "description": "MATH-UA   17 Calculus for The Social Sciences \nPrerequisite: V63.0009 with a grade of C or better, or permission of the department. Appropriate for students in business minor, business education, and Morse Academic Plan. Derivatives, antiderivatives, and integrals of functions of one real variable. Logarithmic and exponential functions. Applications to finance and economics; growth and decay models. Introduction to probability.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7137",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7138",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7561",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8140",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8567",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                }
+            ],
+            "course_name": "Discrete Mathematics",
+            "description": "MATH-UA  120 Discrete Mathematics \nA first course in discrete mathematics. Sets, algorithms, and induction. Combinatorics. Graphs and trees. Combinatorial circuits. Logic and Boolean algebra.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 121",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7139",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "19UP 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7140",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7141",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7142",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7143",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7144",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 405"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7145",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7146",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7147",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7148",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7149",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7150",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7151",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7152",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7153",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7154",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "19W4 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7155",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GCASL 261"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7156",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7157",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 403"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7158",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7159",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "12WV G08"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7160",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7161",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7162",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7163",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7164",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "19UP 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7165",
+                    "section": "027",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7166",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GCASL 361"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7167",
+                    "section": "029",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7168",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7169",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7170",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16504",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7171",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16505",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7172",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7173",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7174",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL 261"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7175",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 261"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7176",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7177",
+                    "section": "041",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "MEYR 121"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7178",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7180",
+                    "section": "044",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GCASL 361"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7181",
+                    "section": "045",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7562",
+                    "section": "046",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "12WV G08"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7673",
+                    "section": "047",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 361"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7674",
+                    "section": "048",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL 361"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16506",
+                    "section": "049",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16507",
+                    "section": "050",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GODD B06"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-UA  121\n\n   Calculus I\n\nPrerequisite: Any one of the following: a score of 650 or higher on the mathematics portion of the SAT, a score of 650 or higher on the SAT Subject Test in Mathematics 1, a score of 650 or higher on the SAT Subject Test in Mathematics 2, an ACT mathematics score of 30 or higher, a score of 3 or higher on the AP Calculus AB exam, an AB subscore of 3 or higher on the AP Calculus BC exam, a score of 3 or higher on the AP Calculus BC exam, a grade of C or higher in Algebra and Calculus (MATH-UA 9), or a passing score on a departmental placement exam. \n\nDerivatives, antiderivatives, and integrals...\n\n      more description for MATH-UA  121 \u00bb\n\n      \n\n\n\nPrerequisite: Any one of the following: a score of 650 or higher on the mathematics portion of the SAT, a score of 650 or higher on the SAT Subject Test in Mathematics 1, a score of 650 or higher on the SAT Subject Test in Mathematics 2, an ACT mathematics score of 30 or higher, a score of 3 or higher on the AP Calculus AB exam, an AB subscore of 3 or higher on the AP Calculus BC exam, a score of 3 or higher on the AP Calculus BC exam, a grade of C or higher in Algebra and Calculus (MATH-UA 9), or a passing score on a departmental placement exam. \n\nDerivatives, antiderivatives, and integrals of functions of one variable. Applications include graphing, maximizing, and minimizing functions. Definite\nintegrals and the fundamental theorem of calculus. Areas and volumes.\n\n      less description for MATH-UA  121 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 122",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7182",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7183",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7184",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7185",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7186",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7187",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7188",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7189",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7190",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                }
+            ],
+            "course_name": "Calculus II",
+            "description": "MATH-UA  122 Calculus II \nTechniques of integration. Further applications. Plane analytic geometry. Polar coordinates and parametric equations. Infinite series, including power series.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 123",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7191",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7192",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7193",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7194",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7195",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7196",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8151",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8568",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                }
+            ],
+            "course_name": "Calculus III",
+            "description": "MATH-UA  123 Calculus III \nPrerequisite: MATH-UA.0122 with a grade of C or better, departmental placement exam, or permission of the department. Functions of several variables. Vectors in the plane and space. Partial derivatives with applications. Double and triple integrals. Spherical and cylindrical coordinates. Surface and line integrals. Divergence, gradient, and curl. Theorem of Gauss and Stokes.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 125",
+            "course_name": "Introduction to Mathematical Proofs",
+            "description": "MATH-UA  125 Introduction to Mathematical Proofs",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 130",
+            "course_name": "Set Theory",
+            "description": "MATH-UA  130 Set Theory \nAn introduction to the basic concepts and results of set theory. Identical to PHIL-UA 73.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 140",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7197",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 5.20 PM",
+                    "open": true,
+                    "professor": "SILV 508"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7198",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7199",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.55 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "25W4 C-20"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7200",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.20 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7201",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "WAVE 367"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7202",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8723",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 11.20 AM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9228",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "CIWW 202"
+                }
+            ],
+            "course_name": "Linear Algebra",
+            "description": "MATH-UA  140 Linear Algebra \nSystems of linear equations. Gaussian elimination, matrices, determinants, and Cramer?s rule. Vectors, vector spaces, basis and dimension, linear transformations. Eigenvalues, eigenvectors, quadratic forms.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 141",
+            "course_name": "Honors Linear Algebra I",
+            "description": "MATH-UA  141 Honors Linear Algebra I \nLinear spaces, subspaces, and quotient spaces; linear dependence and independence; basis and dimension. Linear transformation and matrices; dual spaces and transposition. Solving linear equations. Determinants. Quadratic forms and their relation to local extrema of multivariable functions.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 142",
+            "course_name": "Honors Linear Algebra II",
+            "description": "MATH-UA  142 Honors Linear Algebra II \nSpecial theory, eigenvalues, and eigenvectors; Jordan canonical forms. Inner product and orthogonality. Self-adjoint mappings, matrix inequalities. Normal linear spaces and linear transformation between them. Positive matrices. Applications.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 143",
+            "course_name": "Calculus I for Bio & Life Science",
+            "description": "MATH-UA  143 Calculus I for Bio & Life Science \nEquivalent to V63.0121, this course is for calculus students who plan to enter the medical or life sciences. Examples and problems are drawn from a wide selection of topics in biology, including physiology, ecology, genetics, bioinformatics, probability, biostatistics, enzymology, and neurophysiology.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 144",
+            "course_name": "Introduction to Computer Simulation",
+            "description": "MATH-UA  144 Introduction to Computer Simulation",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 205",
+            "course_name": "Modal  Logic",
+            "description": "MATH-UA  205 Modal  Logic",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 211",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7884",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "19W4 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7885",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7886",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B06"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8097",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8124",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8146",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "19W4 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8147",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 361"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8148",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8149",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8150",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8415",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "12WV G08"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8416",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8454",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "GCASL 275"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8455",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 369"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8456",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 269"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8457",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 207"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8458",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-20"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9215",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "7E12 125"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9216",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9217",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 512"
+                }
+            ],
+            "course_name": "Mathematics for Economics I",
+            "description": "MATH-UA  211 Mathematics for Economics I \nElements of calculus and linear algebra are important to the study of economics. This class is designed to provide the appropriate tools for study in the policy concentration. Examples and motivation are drawn from important topics in economics. Topics covered include derivatives of functions of one and several variables; interpretations of the derivatives; convexity; constrained and unconstrained optimization; series, including geometric and Taylor series; ordinary differential equations; matrix algebra; eigenvalues; and (possibly) dynamic optimization and multivariable integration.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 212",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8035",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL C95"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8036",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8141",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8142",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL 369"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8143",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 383"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8144",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "19UP 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8145",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9179",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 202"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16510",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 275"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16511",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GODD B02"
+                }
+            ],
+            "course_name": "Mathematics for Economics II",
+            "description": "MATH-UA  212 Mathematics for Economics II \nElements of calculus and linear algebra are important to the study of economics. This class is designed to provide the appropriate tools for study in the policy concentration. Examples and motivation are drawn from important topics in economics. Topics covered include derivatives of functions of one and several variables; interpretations of the derivatives; convexity; constrained and unconstrained optimization; series, including geometric and Taylor series; ordinary differential equations; matrix algebra; eigenvalues; and (possibly) dynamic optimization and multivariable integration.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 213",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8382",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL C95"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8383",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 305"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8384",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                }
+            ],
+            "course_name": "Mathematics for Economics III",
+            "description": "MATH-UA  213 Mathematics for Economics III \nFurther topics in vector calculus. Vector spaces, matrix analysis. Linear and nonlinear programming with applications to game theory. This course will provide economics students who have taken MATH-UA 211 Mathematics for Economics I and MATH-UA 212 Mathematics for Economics II with the tools to take higher-level mathematics courses.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 221",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7204",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7205",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 202"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-UA  221\n\n   Honors Calculus I\n\nThis is the first semester of a year-long course that covers the essential content of Calculus II, Calculus III and Linear Algebra. The first 1/3 semester discusses sequences and series, Taylor's theorem, and power series. The next 1/3 semester introduces concepts from linear algebra including: linear systems of equations; matrices and LU decomposition; determinants; vector spaces; eigenvalues and eigenvectors. The last 1/3 semester introduces topics from vector calculus including: functions of several variables; vector-valued functions; partial derivatives; various applications including maxi...\n\n      more description for MATH-UA  221 \u00bb\n\n      \n\n\n\nThis is the first semester of a year-long course that covers the essential content of Calculus II, Calculus III and Linear Algebra. The first 1/3 semester discusses sequences and series, Taylor's theorem, and power series. The next 1/3 semester introduces concepts from linear algebra including: linear systems of equations; matrices and LU decomposition; determinants; vector spaces; eigenvalues and eigenvectors. The last 1/3 semester introduces topics from vector calculus including: functions of several variables; vector-valued functions; partial derivatives; various applications including maxima and minima.\n\n      less description for MATH-UA  221 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 222",
+            "course_name": "Honors Calculus II",
+            "description": "MATH-UA  222 Honors Calculus II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 224",
+            "course_name": "Vector Analysis",
+            "description": "MATH-UA  224 Vector Analysis \nBrief review of multivariate calculus: partial derivatives, chain rule, Riemann integral, change of variables, line integrals. Lagrange multipliers. Inverse and implicit function theorems and their applications. Introduction to calculus on manifolds: definition and examples of manifolds, tangent vectors and vector fields, differential forms, exterior derivative, line integrals and integration of forms.\nGauss' and Stokes' theorems on manifolds.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 228",
+            "course_name": "",
+            "description": "MATH-UA  228\n\n   Fundamental Dynamics of Earth's Atmosphere and Climate\n\nAn introduction to the dynamical processes that drive the circulation of the atmosphere and ocean, and their interaction. This is the core of climate science. Lectures will be guided by consideration of observations and experiments, but the goal is to develop an understanding of the unifying principles of planetary fluid dynamics. Topics include the global energy balance, convection and radiation (the greenhouse effect), effects of planetary rotation (the Coriolis force), structure of the atmospheric circulation (the Hadley cell and wind patterns), structure of the oceanic circulation (wind-dr...\n\n      more description for MATH-UA  228 \u00bb\n\n      \n\n\n\nAn introduction to the dynamical processes that drive the circulation of the atmosphere and ocean, and their interaction. This is the core of climate science. Lectures will be guided by consideration of observations and experiments, but the goal is to develop an understanding of the unifying principles of planetary fluid dynamics. Topics include the global energy balance, convection and radiation (the greenhouse effect), effects of planetary rotation (the Coriolis force), structure of the atmospheric circulation (the Hadley cell and wind patterns), structure of the oceanic circulation (wind-driven currents and the thermohaline circulation), climate and climate variability (including El Nino and anthropogenic warming).\n\n      less description for MATH-UA  228 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 230",
+            "course_name": "Introduction to Fluid Dynamics",
+            "description": "MATH-UA  230 Introduction to Fluid Dynamics",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 233",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7206",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 101"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7207",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8427",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Theory of Probability",
+            "description": "MATH-UA  233 Theory of Probability \nIntroduction to the mathematical techniques of random phenomena occurring in the natural, physical, and social sciences. Axioms of mathematical probability, combinatorial analysis, binomial distribution, Poisson and normal approximation, random variables and probability distributions, generating functions, Markov chains, applications.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 234",
+            "course_name": "Mathematical Statistics",
+            "description": "MATH-UA  234 Mathematical Statistics \nIntroduction to the mathematical foundations and techniques of modern statistical analysis used in the interpretation of data in quantitative sciences. Mathematical theory of sampling; normal populations and distributions; chi-square, t, and F distributions; hypothesis testing; estimation; confidence intervals; sequential analysis; correlation, regression, and analysis of variance. Applications.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 235",
+            "course_name": "Probability & Statistics",
+            "description": "MATH-UA  235 Probability & Statistics \nA combination of V63.0233 and V63.0234 at a more elementary level to acquaint the student with both probability and statistics in a single term. In probability: mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; law of large numbers and the normal distribution; application to coin-tossing, radioactive decay, etc. In statistics: sampling; normal and other useful distributions; testing of hypotheses; confidence intervals; correlation and regression; applications to scientific, industrial, and financial data.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 240",
+            "course_name": "Combinatorics",
+            "description": "MATH-UA  240 Combinatorics \nTechniques for counting and enumeration, including generating functions, the principle of inclusion and exclusion, and Polya counting. Graph theory. Modern algorithms and data structures for graph theoretic problems.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 243",
+            "course_name": "Intro to Cryptography",
+            "description": "MATH-UA  243 Intro to Cryptography",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 245",
+            "course_name": "Logic",
+            "description": "MATH-UA  245 Logic \nPropositional calculus, quantification theory, and properties of axiomatic systems. Introduction to set theory. Computability and its applications to the incompleteness theorem.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 246",
+            "course_name": "Abstract Algebra",
+            "description": "MATH-UA  246 Abstract Algebra \nAn introduction to the main concepts, constructs, and applications of modern algebra. Groups, transformation groups, Sylow theorems and structure theory; rings, polynomial rings and unique factorization; introduction to fields and Galois theory. \nNOTES: This course does not count toward the math major because of its considerable overlap with the more intensive Algebra I, MATH-UA 343, required as part of the majors program in Mathematics. It is, however, accepted toward the math minor, and is a strongly recommended course in the Steinhardt Math Ed major.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 248",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7208",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7209",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Theory of Numbers",
+            "description": "MATH-UA  248 Theory of Numbers \nDivisibility and prime numbers. Linear and quadratic congruences. The classical number-theoretic functions. Continued fractions. Diophantine equations.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 250",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7210",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 202"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7211",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Mathematics of Finance",
+            "description": "MATH-UA  250 Mathematics of Finance \nIntroduction to the mathematics of finance. Topics: linear programming with application to pricing. Interest rates and present value. Basic probability, random walks, central limit theorem, Brownian motion, log-normal model of stock prices. Black-Scholes theory of options. Dynamic programming with application to portfolio optimization.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 251",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16525",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16526",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                }
+            ],
+            "course_name": "Intro to Math Modeling",
+            "description": "MATH-UA  251 Intro to Math Modeling \nFormulation and analysis of mathematical models. Mathematical tools include dimensional analysis, optimization, simulation, probability, and elementary differential equations. Applications to biology, economics, other areas of science. The necessary mathematical and scientific background is developed as needed. Students participate in formulating models as well as in analyzing them.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 252",
+            "course_name": "Numerical Analysis",
+            "description": "MATH-UA  252 Numerical Analysis \nIn numerical analysis one explores how mathematical problems can be analyzed and solved with a computer. As such, numerical analysis has very broad applications in mathematics, physics, engineering, finance, and the life sciences. This course introduces the subject for mathematics majors. Theory and practical examples using Matlab are combined in the studying of topics ranging from simple root-finding procedures to differential equations and the finite element method.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 255",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7212",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "7213",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                }
+            ],
+            "course_name": "Mathematics and Biology",
+            "description": "MATH-UA  255 Mathematics and Biology \nIntended primarily for premedical students with interest and ability in mathematics. Topics of medical importance using mathematics as a tool, including control of the heart, optimal principles in the lung, cell membranes, electrophysiology, countercurrent exchange in the kidney, acid-base balance, muscle, cardiac catheterization, and computer diagnosis. Material from the physical sciences is introduced as needed and developed within the course.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 256",
+            "course_name": "Computers in Medicine & Biology",
+            "description": "MATH-UA  256 Computers in Medicine & Biology \nIntroduces the student of biology or mathematics to the use of computers as tools for modeling physiological phenomena. The student constructs two computer models selected from the following list: circulation, gas exchange in the lung, control of cell volume, and the renal countercurrent mechanism. The student then uses the model to conduct simulated physiological experiments.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 262",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7214",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7215",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 101"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9220",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "9221",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Ordinary Diff Equations",
+            "description": "MATH-UA  262 Ordinary Diff Equations \nFirst- and second-order equations. Series solutions. Laplace transforms. Introduction to partial differential equations and Fourier series.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 263",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16527",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16528",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                }
+            ],
+            "course_name": "Partial Diff Equations",
+            "description": "MATH-UA  263 Partial Diff Equations \nMany laws of physics are formulated as partial differential equations. This course discusses the simplest examples of such laws as embodied in the wave equation, the diffusion equation, and Laplace?s equation. Nonlinear conservation laws and the theory of shock waves. Applications to physics, chemistry, biology, and population dynamics.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 264",
+            "course_name": "Chaos & Dynamical Systems",
+            "description": "MATH-UA  264 Chaos & Dynamical Systems \nTopics include fixed points of one-dimensional maps; linear operators and linear approximations; stability and bifurcation; logistic maps. Cantor set, fractal sets, symbolic dynamics, conjugacy of maps. Dynamics in two dimensions. Introduction for students with little preparation to the recent discovery that, in certain regimes, fully deterministic mechanics can produce chaotic behavior.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 270",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7216",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7217",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "CIWW 201"
+                }
+            ],
+            "course_name": "Transformation & Geometries",
+            "description": "MATH-UA  270 Transformation & Geometries \nThis is a thorough course in planar Euclidean geometry. Emphasis is placed on development of students' proof-writing and problem-solving skills. It begins with a study of the basic structures (e.g.,\\ angles, lines, arcs) and concepts (e.g.,\\ construction, congruence, similarity) known to Euclid and builds toward modern results. The second half of the course will focus on isometries of the plane, their classification, and applications of complex numbers and conformal maps to geometry. Time permitting, contrasts will be made with some non-Euclidean geometries.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 282",
+            "course_name": "Functions of a Complex Variable",
+            "description": "MATH-UA  282 Functions of a Complex Variable \nComplex numbers and complex functions. Differentiation and the Cauchy-Riemann equations. Cauchy?s theorem and the Cauchy integral formula. Singularities, residues, Taylor and Laurent series. Fractional linear transformations and conformal mapping. Analytic continuation.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 325",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7218",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 1302"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7219",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 101"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7220",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7221",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                }
+            ],
+            "course_name": "Analysis",
+            "description": "MATH-UA  325 Analysis \nThis course is an introduction to rigorous analysis on the real line. Topics include: the real number system, sequences and series of numbers, functions of a real variable (continuity and differentiability), the Riemann integral, basic topological notions in a metric space, sequences and series of functions including Taylor and Fourier series.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 326",
+            "course_name": "Analysis II",
+            "description": "MATH-UA  326 Analysis II \nRigorous study of functions of several variables. Limits and continuity. Differentiable functions. The implicit function theorem. Transformation of multiple integrals. Riemann integral.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 328",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8672",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8673",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 512"
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-UA  328\n\n   Honors Analysis I\n\nThis is an introduction to the rigorous treatment of the foundations of real analysis in one variable. It is based entirely on proofs. Students are expected to know what a mathematical proof is and are also expected to be able to read a proof before taking this class. Topics include: properties of the real number system, sequences, continuous functions, topology of the real line, compactness, derivatives, the Riemann integral, sequences of functions, uniform convergence, infinite series and Fourier series. Additional topics may include: Lebesgue measure and integral on the real line, metric sp...\n\n      more description for MATH-UA  328 \u00bb\n\n      \n\n\n\nThis is an introduction to the rigorous treatment of the foundations of real analysis in one variable. It is based entirely on proofs. Students are expected to know what a mathematical proof is and are also expected to be able to read a proof before taking this class. Topics include: properties of the real number system, sequences, continuous functions, topology of the real line, compactness, derivatives, the Riemann integral, sequences of functions, uniform convergence, infinite series and Fourier series. Additional topics may include: Lebesgue measure and integral on the real line, metric spaces, and analysis on metric spaces.\n\n      less description for MATH-UA  328 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 329",
+            "course_name": "Honors Analysis II",
+            "description": "MATH-UA  329 Honors Analysis II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 343",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7224",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 517"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7225",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 517"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7226",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7227",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                }
+            ],
+            "course_name": "Algebra",
+            "description": "MATH-UA  343 Algebra \nIntroduction to abstract algebraic structures, including groups, rings, and fields. Sets and relations. Congruences and unique factorization of integers. Groups, permutation groups, homomorphisms and quotient groups. Rings and quotient rings, Euclidean rings, polynomial rings. Fields, finite extensions.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 344",
+            "course_name": "Algebra II",
+            "description": "MATH-UA  344 Algebra II \nExtension fields and roots of polynomials. Construction with straight edge and compass. Elements of Galois theory.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 348",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8667",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8674",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                }
+            ],
+            "course_name": "Honors Algebra I",
+            "description": "MATH-UA  348 Honors Algebra I \nIntroduction to abstract algebraic structures, including groups, rings, and fields. Sets and relations. Congruences and unique factorization of integers. Groups, permutation groups, group actions, homomorphisms and quotient groups, direct products, classification of finitely generated abelian groups, Sylow theorems. Rings, ideals and quotient rings, Euclidean rings, polynomial rings, unique factorization.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 349",
+            "course_name": "Honors Algebra II",
+            "description": "MATH-UA  349 Honors Algebra II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 375",
+            "course_name": "Topology",
+            "description": "MATH-UA  375 Topology \nMetric spaces, topological spaces, compactness, connectedness. Covering spaces and homotopy groups.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 377",
+            "course_name": "Differential Geometry",
+            "description": "MATH-UA  377 Differential Geometry \nThe differential properties of curves and surfaces. Introduction to manifolds and Riemannian geometry.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 393",
+            "course_name": "Honors I",
+            "description": "MATH-UA  393 Honors I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 394",
+            "course_name": "Senior Honors II",
+            "description": "MATH-UA  394 Senior Honors II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 395",
+            "course_name": "Special Topics",
+            "description": "MATH-UA  395 Special Topics \nLecture-seminar course on advanced topics selected by the instructor. Topics vary yearly. Detailed course descriptions are available during preregistration.Covers topics not offered regularly: experimental courses and courses offered on student demand.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 396",
+            "course_name": "Special Topics II",
+            "description": "MATH-UA  396 Special Topics II",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 397",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16512",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16523",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                }
+            ],
+            "course_name": "Honors III",
+            "description": "MATH-UA  397 Honors III",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 398",
+            "course_name": "Honors IV",
+            "description": "MATH-UA  398 Honors IV",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7229",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "7879",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MATH-UA  997 Independent Study \nPrerequisite: permission of the department. 2 or 4 points per term. To register for this course, a student must complete an application form for independent study and have it approved by a faculty sponsor and the director of undergraduate studies.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-UA 998",
+            "course_name": "Independent Study",
+            "description": "MATH-UA  998 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9121",
+            "course_name": "Calculus I",
+            "description": "MATH-UA 9121 Calculus I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9123",
+            "course_name": "Calculus III",
+            "description": "MATH-UA 9123 Calculus III",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9140",
+            "course_name": "Linear Algebra",
+            "description": "MATH-UA 9140 Linear Algebra \nSystems of linear equations. Gaussian elimination, matrices, determinants, and Cramer\u2019s rule. Vectors, vector spaces, basis and dimension, linear transformations. Eigenvalues, eigenvectors, quadratic forms.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9211",
+            "course_name": "Mathematics for Economics I",
+            "description": "MATH-UA 9211 Mathematics for Economics I",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9224",
+            "course_name": "Vector Analysis",
+            "description": "MATH-UA 9224 Vector Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9233",
+            "course_name": "Theory of Probability",
+            "description": "MATH-UA 9233 Theory of Probability \nAn introduction to the mathematical treatment of random phenomena occurring in the natural, physical, and social sciences. Axioms of mathematical probability, combinatorial analysis, binomial distribution, Poisson and normal approximation, random variables and probability distributions, generating functions, Markov chains applications.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9251",
+            "course_name": "Introduction to Mathematical Modeling",
+            "description": "MATH-UA 9251 Introduction to Mathematical Modeling",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9252",
+            "course_name": "Numerical Analysis",
+            "description": "MATH-UA 9252 Numerical Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-UA 9262",
+            "course_name": "Ordinary Differential Equations",
+            "description": "MATH-UA 9262 Ordinary Differential Equations",
+            "offering": false
+        }
+    ]
+}

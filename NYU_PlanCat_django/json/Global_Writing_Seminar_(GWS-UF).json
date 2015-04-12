@@ -1,0 +1,74 @@
+{
+    "major_id": "GWS-UF",
+    "file": "./2015-2016/Global_Writing_Seminar_(GWS-UF).html",
+    "courses": [
+        {
+            "course_id": "GWS-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12246",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 206",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Menghraj, Suzanne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12247",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Reid, Tamuira"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12250",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Longabucco, Matthew"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12251",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 500",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Polchin, James"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12252",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Eve, Sean"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16537",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-8",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Policoff, Stephen"
+                }
+            ],
+            "course_name": "Global Writing Seminar",
+            "description": "GWS-UF  101 Global Writing Seminar",
+            "offering": true
+        }
+    ]
+}

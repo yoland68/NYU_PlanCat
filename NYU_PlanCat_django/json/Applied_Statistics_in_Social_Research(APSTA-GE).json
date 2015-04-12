@@ -1,0 +1,398 @@
+{
+    "major_id": "APSTA-GE",
+    "file": "./2015-2016/Applied_Statistics_in_Social_Research(APSTA-GE).html",
+    "courses": [
+        {
+            "course_id": "APSTA-GE 2001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3274",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC19",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Weinberg, Sharon"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3275",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC19",
+                    "time": "Mon 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Corcoran, Sean"
+                }
+            ],
+            "course_name": "Statistics for Behav and Social Sciences I",
+            "description": "APSTA-GE 2001 Statistics for Behav and Social Sciences I \nIntroduction to the basic tools of applied statistics, using the latest version of SPSS as a platform to achieve a hands-on experience with real data. Topics include both descriptive (measures of location, variability, correlation, and simple regression) and inferential  (probability, central limit theorem, sampling distributions, hypothesis tests, and confidence intervals) statistics. The course is not appropriate for students seeking to learn the mathematical underpinnings of these techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2002",
+            "course_name": "Statistics for Behav and Social Sciences II",
+            "description": "APSTA-GE 2002 Statistics for Behav and Social Sciences II \nIntroduces students to an array of inferential techniques (t-tests, one- and two-way anova, simple and multiple regression, nonparametric methods) using the latest version of SPSS as a platform to achieve a hands-on experience with real data. The course is not appropriate for students seeking to learn the mathematical underpinnings of these techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2003",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3276",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Tue 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Weinberg, Sharon"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3277",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "TISC LC19"
+                }
+            ],
+            "course_name": "",
+            "description": "APSTA-GE 2003\n\n   Interm Quantitative Methods: General Linear Model\n\nThis course is designed to meet the data analytic needs of the doctoral students whose dissertation relies on the analysis of quantitative data. Procedures important to the data analyst are covered including data entry and definition, treating missing data, detecting outliers, and transforming distributions. First term topics include multiple regression, analysis of covariance, repeated measures analysis of variance, and multivariate analysis of variance and covariance.  Second term topics emphasize categorical data analysis, odds, rations, standardization, log linear models, logistic regressi...\n\n      more description for APSTA-GE 2003 \u00bb\n\n      \n\n\n\nThis course is designed to meet the data analytic needs of the doctoral students whose dissertation relies on the analysis of quantitative data. Procedures important to the data analyst are covered including data entry and definition, treating missing data, detecting outliers, and transforming distributions. First term topics include multiple regression, analysis of covariance, repeated measures analysis of variance, and multivariate analysis of variance and covariance.  Second term topics emphasize categorical data analysis, odds, rations, standardization, log linear models, logistic regression. Other topics include multinominal logistic models, survival analysis, principle components, and factor analysis. The approach is conceptual with heavy reliance on computer software packages. Appropriate for doctoral students desiring specialized knowledge beyond the introductory sequence.\n\n      less description for APSTA-GE 2003 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2004",
+            "course_name": "",
+            "description": "APSTA-GE 2004\n\n   Advanced Modeling I: Topics in Multivariate Analysis\n\nThis course is designed to meet the data analytic needs of the doctoral students whose dissertation relies on the analysis of quantitative data. Procedures important to the data analyst are covered including data entry and definition, treating missing data, detecting outliers, and transforming distributions. First term topics include multiple regression, analysis of covariance, repeated measures analysis of variance, and multivariate analysis of variance and covariance.  Second term topics emphasize categorical data analysis, odds, rations, standardization, log linear models, logistic regressi...\n\n      more description for APSTA-GE 2004 \u00bb\n\n      \n\n\n\nThis course is designed to meet the data analytic needs of the doctoral students whose dissertation relies on the analysis of quantitative data. Procedures important to the data analyst are covered including data entry and definition, treating missing data, detecting outliers, and transforming distributions. First term topics include multiple regression, analysis of covariance, repeated measures analysis of variance, and multivariate analysis of variance and covariance.  Second term topics emphasize categorical data analysis, odds, rations, standardization, log linear models, logistic regression. Other topics include multinominal logistic models, survival analysis, principle components, and factor analysis. The approach is conceptual with heavy reliance on computer software packages. Appropriate for doctoral students desiring specialized knowledge beyond the introductory sequence\n\n      less description for APSTA-GE 2004 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2005",
+            "course_name": "Introductory Statistics for The Health Professions",
+            "description": "APSTA-GE 2005 Introductory Statistics for The Health Professions \nThe collection, tabulation, and elementary analysis of vital statistics. Sources and uses of population, mortality, and morbidity data.  Classification and tabulation, frequency distribution, measures of location and variation, rates and ratios, correlations and regression, and tests of significance using the normal curve, the t distribution, and the chi-square distribution.  Illustrations and examples taken from the health professions.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2010",
+            "course_name": "Topics in Advanced Quantitative Methods",
+            "description": "APSTA-GE 2010 Topics in Advanced Quantitative Methods \nThis 'umbrella' course provides modules of specialized topics in advanced quantitative methodology that are understood to be essential for graduate training in the social, behavioral, allied health and policy sciences. Module topics include analysis of complex surveys, causal inference, classification and clustering, factor analysis and latent variables, missing data, sampling, multi-level modeling, and spatial data analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2011",
+            "course_name": "",
+            "description": "APSTA-GE 2011\n\n   Topics Adv Quantitative Methods: Classification/Clustering\n\nClassification and clustering are important statistical techniques commonly applied in many social and behavioral science research problems. Both seek to understand social phenomena through the identification of naturally occurring homogeneous groupings within a population. Classification techniques are used to sort new observations into preexisting or know groupings while clustering techniques sort the population under study into groupings based on their observed characteristics. Both help to reveal hidden structure that may be used in further analysis. This course will compare and contrast t...\n\n      more description for APSTA-GE 2011 \u00bb\n\n      \n\n\n\nClassification and clustering are important statistical techniques commonly applied in many social and behavioral science research problems. Both seek to understand social phenomena through the identification of naturally occurring homogeneous groupings within a population. Classification techniques are used to sort new observations into preexisting or know groupings while clustering techniques sort the population under study into groupings based on their observed characteristics. Both help to reveal hidden structure that may be used in further analysis. This course will compare and contrast these techniques, including many of their variations, with an emphasis on applications.\n\n      less description for APSTA-GE 2011 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2012",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3278",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 122",
+                    "time": "Fri 9.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "Hill, Jennifer"
+                }
+            ],
+            "course_name": "",
+            "description": "APSTA-GE 2012\n\n   Topics Advanced Quantitative Methods:  Causal Inference\n\nCourse provides students with a basic knowledge of both how to perform analyses and critique the use of some more advanced statistical methods useful in answering policy questions. While randomized experiments will be discussed, the primary focus will be the challenge of answering causal questions using data that do not meet such standards. Several approaches for observational data including propensity score methods, instrumental variables, difference in differences, fixed effects models and regression discontinuity designs will be discussed. Examples from real public policy studies will be us...\n\n      more description for APSTA-GE 2012 \u00bb\n\n      \n\n\n\nCourse provides students with a basic knowledge of both how to perform analyses and critique the use of some more advanced statistical methods useful in answering policy questions. While randomized experiments will be discussed, the primary focus will be the challenge of answering causal questions using data that do not meet such standards. Several approaches for observational data including propensity score methods, instrumental variables, difference in differences, fixed effects models and regression discontinuity designs will be discussed. Examples from real public policy studies will be used to illustrate key ideas and methods.\n\n      less description for APSTA-GE 2012 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2013",
+            "course_name": "Topics in Advanced Quantitative Methods: Missing Data",
+            "description": "APSTA-GE 2013 Topics in Advanced Quantitative Methods: Missing Data \nCourse provides students with a basic knowledge of missing data analysis, beginning with the types of missing data mechanisms (e.g., missing completely at random). We then discuss the problems with ignoring missing data and examine problems with conventional fixes. Single imputation with noise is contrasted with multiple imputation approaches.  Real examples from policy research are given throughout. More advanced topics include pattern mixture models and handling data that are not missing at random",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2014",
+            "course_name": "Topics Advanced Quantitative Methods: Stats Analysis of Networks",
+            "description": "APSTA-GE 2014 Topics Advanced Quantitative Methods: Stats Analysis of Networks \nThis course is an introduction to the analysis and modeling of network data. Network analysis is a key tool in understanding relational data - data describing the relationships between pairs and groups of individuals, as well as the global structure of relationships. We will focus on applications to and building tools for research in the social sciences, but the methodology can be extended to other areas. By the end of the course, you should have a working knowledge of basic network analysis tools and be able to use them to analyze your own data.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2015",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17387",
+                    "section": "001",
+                    "period": "09/08/2015 - 10/27/2015",
+                    "location": "194M 304",
+                    "time": "Tue 3.30 PM - 6.45 PM",
+                    "open": true,
+                    "professor": "Mijanovich, Todor"
+                }
+            ],
+            "course_name": "",
+            "description": "APSTA-GE 2015\n\n   Topics in Advanced Quantitative Methods:   Applied Spatial Statistics\n\nSpatial data arise when information collected on units that reside in different locations.  Common examples include geology, criminology & epidemiology, where the goal may be to identify patterning or clusters (;hot spots') in the outcomes across the terrain being examined.  In the social sciences, a similar set of questions & techniques are required, for example in studies of homelessness, poverty, environmental justice, & education.  However, spatial data present a novel set of exploratory & modeling challenges, given the unique way in which outcomes are related (correlated) with each other ...\n\n      more description for APSTA-GE 2015 \u00bb\n\n      \n\n\n\nSpatial data arise when information collected on units that reside in different locations.  Common examples include geology, criminology & epidemiology, where the goal may be to identify patterning or clusters (;hot spots') in the outcomes across the terrain being examined.  In the social sciences, a similar set of questions & techniques are required, for example in studies of homelessness, poverty, environmental justice, & education.  However, spatial data present a novel set of exploratory & modeling challenges, given the unique way in which outcomes are related (correlated) with each other through proximity.  This course is an overview of the methods needed to analyze data for which it is suspected that the spatial component plays an important role.\n\n      less description for APSTA-GE 2015 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2016",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4627",
+                    "section": "001",
+                    "period": "09/14/2015 - 10/19/2015",
+                    "location": "WAVE 435",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Halpin, Peter"
+                }
+            ],
+            "course_name": "Topics in Adv Quantitative Methods: Factor Scoring and Practical Issues in Scaling",
+            "description": "APSTA-GE 2016 Topics in Adv Quantitative Methods: Factor Scoring and Practical Issues in Scaling \nCourse reviews & expands on the topics of measurement & reliability/. The general topic is factor scoring with a focus on how to implement, evaluate, & interpret different methods of scoring in the multidimensional factor model. Students will learn how to conduct exploratory factor analysis in settings where test/questionnaire data have been collected  & a method for getting scores from those data is required. The course is especially well suited to students who have collected test/questionnaire data & are in the analysis phase of a research project.",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2017",
+            "course_name": "",
+            "description": "APSTA-GE 2017\n\n   Topics Adv Quantitative Methods: Ed Data Sci Practicum\n\nThis intensive laboratory course will focus on doing data analysis projects with real data selected by the students. The core skills are oriented around first framing good research questions, then having these guide interacting with data of all types & varying quality (e.g., web-scraped, or clickstream-based rather than large national surveys) via visualization, principled modeling & evaluation of models using statistical learning techniques such as regression, classification & clustering, & presentation of results, using \u201creproducible research\u201d tools (e.g., knitr, sweave) in the R programming...\n\n      more description for APSTA-GE 2017 \u00bb\n\n      \n\n\n\nThis intensive laboratory course will focus on doing data analysis projects with real data selected by the students. The core skills are oriented around first framing good research questions, then having these guide interacting with data of all types & varying quality (e.g., web-scraped, or clickstream-based rather than large national surveys) via visualization, principled modeling & evaluation of models using statistical learning techniques such as regression, classification & clustering, & presentation of results, using \u201creproducible research\u201d tools (e.g., knitr, sweave) in the R programming language.\n\n      less description for APSTA-GE 2017 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2040",
+            "course_name": "",
+            "description": "APSTA-GE 2040\n\n   Multi-Level Modeling Growth Curve\n\nThis is a course on models for multi-level growth curve data. These data arise in longitudinal designs, which are quite common to education and applied social, behavioral and policy science. Traditional methods, such as OLS regression, are not appropriate in this settings, as they fail to model the complex correlational structure that is induced by these designs. Proper inference requires that we include aspects of the design in the model itself. Moreover, these more sophisticated techniques allow the researcher to learn new and important characteristics of the social and behavioral processes ...\n\n      more description for APSTA-GE 2040 \u00bb\n\n      \n\n\n\nThis is a course on models for multi-level growth curve data. These data arise in longitudinal designs, which are quite common to education and applied social, behavioral and policy science. Traditional methods, such as OLS regression, are not appropriate in this settings, as they fail to model the complex correlational structure that is induced by these designs. Proper inference requires that we include aspects of the design in the model itself. Moreover, these more sophisticated techniques allow the researcher to learn new and important characteristics of the social and behavioral processes under study. In this module, we will develop and fit a set of models for longitudinal designs (these are often called growth curve models). The course assignments will use state of the art statistical software to explore, fit and interpret the models.\n\n      less description for APSTA-GE 2040 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2041",
+            "course_name": "Practicum in Multi-Level Models Growth Curves",
+            "description": "APSTA-GE 2041 Practicum in Multi-Level Models Growth Curves \nThis is a practicum course on models for multi-level growth curve data. This course is a natural sequel to E10.2040 Multi-Level Modeling Growth Curve. Building on the theory and examples developed in that course, students will participate in a guided, larger research project that employs multi-level growth curve models. Students will meet in groups with the instructor in a lab setting to fit, evaluate and describe these models. The final project for the course will consist of a 'results and discussion' section, journal article quality write-up.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2042",
+            "course_name": "",
+            "description": "APSTA-GE 2042\n\n   Multi-Level Model Nested Data\n\nThis is a course on models for multi-level nested data. These data arise in nested designs, which are quite common to education and applied social, behavioral and policy science. Traditional methods, such as OSL regression, are not appropriate in this setting, as they fail to model the complex correlational structure that is induced by these designs. Proper inference requires that we include aspects of the design in the model itself. Moreover, these more sophisticated techniques allow the researcher to learn new and important characteristics of the social and behavioral processes under study. ...\n\n      more description for APSTA-GE 2042 \u00bb\n\n      \n\n\n\nThis is a course on models for multi-level nested data. These data arise in nested designs, which are quite common to education and applied social, behavioral and policy science. Traditional methods, such as OSL regression, are not appropriate in this setting, as they fail to model the complex correlational structure that is induced by these designs. Proper inference requires that we include aspects of the design in the model itself. Moreover, these more sophisticated techniques allow the researcher to learn new and important characteristics of the social and behavioral processes under study. In this module, we will develop and fit a set of models for nested designs (these are sometimes called hierarchical linear models). The course assignments will use state of the art statistical software to explore, fit and interpret the models.\n\n      less description for APSTA-GE 2042 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2043",
+            "course_name": "Practicum in Multi-Level Model Nested Data",
+            "description": "APSTA-GE 2043 Practicum in Multi-Level Model Nested Data \nThis is a practicum course on models for nested multi-level data. This course is a natural sequel to E10.2042 Multi-Level Modeling Nested Data. Building on the theory and examples developed in that course, students will participate in a guided, larger research project that employs multi-level nested data models. Students will meet in groups with the instructor in a lab setting to fit, evaluate and describe these models. The final project for the course will consist of a 'results and discussion' section, journal article quality write-up.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2085",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3281",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 361",
+                    "time": "Mon 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Chan, Danny"
+                }
+            ],
+            "course_name": "Basic Statistics I",
+            "description": "APSTA-GE 2085 Basic Statistics I \nThis introductory two-semester course is designed to prepare undergraduate- and master's-level students to use statistics for data analysis.  The course make use of SPSS for Windows, a statistical computer software package for the social sciences.  The first semester serves as a foundation for the second, covering methods for displaying and describing data. Topics include frequency distributions and their graphical representations, percentiles, measures of central tendency and dispersion, correlation, and simple regression.",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2086",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3282",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 261",
+                    "time": "Tue 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Chan, Danny"
+                }
+            ],
+            "course_name": "Basic Statistics II",
+            "description": "APSTA-GE 2086 Basic Statistics II \nThe second semester builds on the foundation of the first and covers particular methods of statistical inference that rely on the normal t, F, and chi-square distributions to test hypotheses about means, variances, correlations, and proportions.",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2094",
+            "course_name": "",
+            "description": "APSTA-GE 2094\n\n   Factor Analysis & Structural Equation Model\n\nThis course is designed to meet the needs of doctoral students who wish to learn about and ultimately conduct analysis of data using structural equations modeling techniques. The factor analysis portion will focus on analysis related to structural equation modeling. The course will begin with the theory of matric algebra and factor analysis. Students will learnt he underlying theory of the applications and assumptions for the use of the technique using LISREL. Theoretical presentation of a model, data entry, confirmatory factor analysis, and model specification will form the bulk of the class....\n\n      more description for APSTA-GE 2094 \u00bb\n\n      \n\n\n\nThis course is designed to meet the needs of doctoral students who wish to learn about and ultimately conduct analysis of data using structural equations modeling techniques. The factor analysis portion will focus on analysis related to structural equation modeling. The course will begin with the theory of matric algebra and factor analysis. Students will learnt he underlying theory of the applications and assumptions for the use of the technique using LISREL. Theoretical presentation of a model, data entry, confirmatory factor analysis, and model specification will form the bulk of the class. The class will include reviews and criticism of extant research applying the techniques. The course will rely heavily on work in laboratory sessions that combines demonstrations, group work and tutorials on individual projects.\n\n      less description for APSTA-GE 2094 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2101",
+            "course_name": "Statistical Consulting",
+            "description": "APSTA-GE 2101 Statistical Consulting \nThis 1-point seminar is designed to assist graduate students in the quantitative methods specific to their thesis. After an initial meeting as a group, additional meetings are arranged, both one-on-one, and in smaller groups. The students refine their research methodology under the guidance of a statistician. Specific analytic techniques are suggested and some guidance is provided in learning any new material, but for the most part, this is left to the student via self-study.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2110",
+            "course_name": "",
+            "description": "APSTA-GE 2110\n\n   Applied Statistics:Large Database in Education\n\nThis course provides hands-on experience applying estimation techniques used by social and behavioral scientists to large longitudinal education databases. Students begin with descriptive statistics and correlations, estimate OLS regression models, and then move onto indicator variable, common functional forms, and estimation of fixed effect models, random effects models and regression discontinuity designs. In addition, students will use STATA for estimation and become familiar with the national datasets. After this course students will be able to use large datasets with modern statistical so...\n\n      more description for APSTA-GE 2110 \u00bb\n\n      \n\n\n\nThis course provides hands-on experience applying estimation techniques used by social and behavioral scientists to large longitudinal education databases. Students begin with descriptive statistics and correlations, estimate OLS regression models, and then move onto indicator variable, common functional forms, and estimation of fixed effect models, random effects models and regression discontinuity designs. In addition, students will use STATA for estimation and become familiar with the national datasets. After this course students will be able to use large datasets with modern statistical software and will be prepared for an independent project in their capstone class.\n\n      less description for APSTA-GE 2110 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2122",
+            "course_name": "",
+            "description": "APSTA-GE 2122\n\n   Applied Statistical Modeling & Inference\n\nThis is a course in intermediate & advanced statistical inference techniques in the context of applied research questions in data science.  Assuming some prior exposure to probability & statistics, this course will first cover topics such as exploratory data analysis & visualization, principles of estimation & hypothesis testing & the general & generalized linear models, including scientific computation (e.g., E-M Algorithm, Newton-Raphson, and Monte Carlo techniques).  These topics are followed by recent developments in model selection & Bayesian modeling.  The student will be expected to und...\n\n      more description for APSTA-GE 2122 \u00bb\n\n      \n\n\n\nThis is a course in intermediate & advanced statistical inference techniques in the context of applied research questions in data science.  Assuming some prior exposure to probability & statistics, this course will first cover topics such as exploratory data analysis & visualization, principles of estimation & hypothesis testing & the general & generalized linear models, including scientific computation (e.g., E-M Algorithm, Newton-Raphson, and Monte Carlo techniques).  These topics are followed by recent developments in model selection & Bayesian modeling.  The student will be expected to understand the mathematical theory, implement related statistical algorithms in statistical programming language such as R, & interpret models & parameters in the context of applied statistical analysis of real data.\n\n      less description for APSTA-GE 2122 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2134",
+            "course_name": "Exp & Quasi Exp Design",
+            "description": "APSTA-GE 2134 Exp & Quasi Exp Design \nEmphasis on experimental and quasi-experimental designs. Application of basic and more complex designs such as factorial square, and repeated measures. In addition, measurement, reliability, and power analysis will be covered.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "4836",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Scott, Marc",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4837",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hill, Jennifer",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4838",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Weinberg, Sharon",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4839",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lu, Ying",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4840",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Halpin, Peter",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4841",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Harel, Daphna",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "APSTA-GE 2300 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2310",
+            "course_name": "Internship",
+            "description": "APSTA-GE 2310 Internship",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2401",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17388",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 667",
+                    "time": "Wed 12.30 PM - 2.30 PM",
+                    "open": true,
+                    "professor": "Hill, Jennifer; Lu, Ying"
+                }
+            ],
+            "course_name": "",
+            "description": "APSTA-GE 2401\n\n   Statistical Consulting Research Seminar\n\nThis course is designed to assist graduate students in the quantitative methods specific to the design and analysis of their theses. In this seminar format, under the guidance of one or more statistical faculty members, students will have opportunity to present and defend their scholarly work-in-progress. They will also be required to critique and provide constructive suggestions for their fellow students. The focus of critiques will be on the research methodology and other statistical issues. Students will additionally benefit from being able to observe how the participating faculty diagnosis...\n\n      more description for APSTA-GE 2401 \u00bb\n\n      \n\n\n\nThis course is designed to assist graduate students in the quantitative methods specific to the design and analysis of their theses. In this seminar format, under the guidance of one or more statistical faculty members, students will have opportunity to present and defend their scholarly work-in-progress. They will also be required to critique and provide constructive suggestions for their fellow students. The focus of critiques will be on the research methodology and other statistical issues. Students will additionally benefit from being able to observe how the participating faculty diagnosis and solve statistical issues that arise in others' presented work and to benefit from this advice in their own work. In essence this course provides training in statistical consulting along with detailed feedback on one's dissertation research\n\n      less description for APSTA-GE 2401 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2994",
+            "course_name": "Adv Data Analysis Health/Policy Resch: Gen Linear Models",
+            "description": "APSTA-GE 2994 Adv Data Analysis Health/Policy Resch: Gen Linear Models \nA second year course in advanced statistical techniques that covers useful quantitative tools in health & policy research.  Assuming a strong foundation in regression & the general linear model, this course focuses on data analysis that utilizes models for categorical, discrete or limited outcomes that are commonly seen in health & policy studies.  Examples include health status, number of clinic visits, etc.  In this course students will also learn the principles of likelihood-based inference, which will assist them in some of the more advanced statistics courses.",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2995",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3294",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 203",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Lu, Ying"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4464",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.45 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "WAVE 668"
+                }
+            ],
+            "course_name": "Biostatistics I",
+            "description": "APSTA-GE 2995 Biostatistics I \nThis course in intended for consumers of statistics in the biological, medical, and public health fields. It is the first of a two-course sequence. Measurement, frequency distribution, ranks and percentiles, measures of location and variation, rates and ratios. Analysis with correlation, regression, confidence intervals, tests of significance. Introduction to experimental design. Use of SPSS to perform analysis. Illustrations and examples from the health professions.",
+            "offering": true
+        },
+        {
+            "course_id": "APSTA-GE 2996",
+            "course_name": "Biostatistics II",
+            "description": "APSTA-GE 2996 Biostatistics II \nThis course in intended for consumers of statistics in the biological, medical, and public health fields. It is the second of a two-course sequence. Categorical analysis: odds rations, relative risk, diagnostic test statistics. Measures used in epidemiology. Analysis of variance. Non-parametric and permutation tests. Introduction to survival analysis. Common experimental designs. Use of SPSS to perform analysis. Illustrations and examples from the health professions",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2997",
+            "course_name": "",
+            "description": "APSTA-GE 2997\n\n   Advanced Data Analysis in Health and Policy Research\n\nThis course is a second year Crosse in advanced statistical techniques that covers useful quantitative tools in health & policy research.  Assuming a strong foundation in regression & the general linear model, this course focuses on data analysis that utilizes models for categorical, discrete or limited outcomes that are commonly seen in health & policy studies,  Examples include health status, number of clinic visits, etc.  In this course students will also learn the principles of likelihood-based inference, which will assist them in some of the more advanced statistics courses offered throug...\n\n      more description for APSTA-GE 2997 \u00bb\n\n      \n\n\n\nThis course is a second year Crosse in advanced statistical techniques that covers useful quantitative tools in health & policy research.  Assuming a strong foundation in regression & the general linear model, this course focuses on data analysis that utilizes models for categorical, discrete or limited outcomes that are commonly seen in health & policy studies,  Examples include health status, number of clinic visits, etc.  In this course students will also learn the principles of likelihood-based inference, which will assist them in some of the more advanced statistics courses offered through the IDRS program.\n\n      less description for APSTA-GE 2997 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "APSTA-GE 2998",
+            "course_name": "",
+            "description": "APSTA-GE 2998\n\n   Adv Data Analysis in Health and Policy Research: Survival Analysis\n\nA second year course in advanced statistical techniques that introduces basic concepts & methods for analyzing survival time data obtained by tracking individuals until occurrence of an event or their loss to follow-up (e.g., time to death or degree). Assuming a strong foundation in regression & the inferential statistics, this course will cover nonparametric, semiparametric & parametric survival models that are commonly seen in health & policy studies. Students will also learn discrete time event history models, which are useful tools in longitudinal data analysis. Examples in this course inc...\n\n      more description for APSTA-GE 2998 \u00bb\n\n      \n\n\n\nA second year course in advanced statistical techniques that introduces basic concepts & methods for analyzing survival time data obtained by tracking individuals until occurrence of an event or their loss to follow-up (e.g., time to death or degree). Assuming a strong foundation in regression & the inferential statistics, this course will cover nonparametric, semiparametric & parametric survival models that are commonly seen in health & policy studies. Students will also learn discrete time event history models, which are useful tools in longitudinal data analysis. Examples in this course include assessing risk factors for time to death among heart transplant patients, & risk factors for juvenile delinquency.\n\n      less description for APSTA-GE 2998 \u00ab",
+            "offering": false
+        }
+    ]
+}

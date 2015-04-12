@@ -1,0 +1,34 @@
+{
+    "major_id": "SAGC-UF",
+    "file": "./2015-2016/South_Asian_Cultures-_Global_Cultures(SAGC-UF).html",
+    "courses": [
+        {
+            "course_id": "SAGC-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12106",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 308",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Almeida, Rochelle"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12107",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 308",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Almeida, Rochelle"
+                }
+            ],
+            "course_name": "South Asian Cultures",
+            "description": "SAGC-UF  101 South Asian Cultures \nThis course provides a broad understanding of the social developments of the Indian sub-continent. The countries studied may include India, Pakistan, Bangladesh and/or Sri Lanka. Coverage may focus on the pre-modern, modern and/or contemporary aspects of the region?s experiences, which span thousands of years. A variety of materials, from fictional and non-fictional texts to video and film may be used to explore the interactions of tradition and change in different time periods, and to illuminate such issues as colonialism, sectarianism, and modernization.",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,728 @@
+{
+    "major_id": "TCSM1-UC",
+    "file": "./2015-2016/Sports_Management_(TCSM1-UC).html",
+    "courses": [
+        {
+            "course_id": "TCSM1-UC 1000",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9843",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 269",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hollander, David"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9844",
+                    "section": "002",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": "25W4 C-20",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Hollander, David"
+                }
+            ],
+            "course_name": "Introduction to Sports Management",
+            "description": "TCSM1-UC 1000 Introduction to Sports Management \nAn overview of the history of leisure and sports as a cultural phenomenon.  Topics include: the nature of leisure behavior; historical, ethical, social, and economic aspects of the sports industry; the terminology of sports; and the forces that have effected the growth of sports as a business.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9889",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-20"
+                }
+            ],
+            "course_name": "Organizations in Sports",
+            "description": "TCSM1-UC 1010 Organizations in Sports \nA survey of businesses, organizations, and political entities that work within and affect the sports industry.  Topics covered include: the function and organization of: governing bodies; professional leagues; individual franchises; conferences; broadcast entities; sporting goods manufacturers; sports agencies; and marketing firms.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1020",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9986",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "WAVE 431"
+                }
+            ],
+            "course_name": "Consumer Behavior",
+            "description": "TCSM1-UC 1020 Consumer Behavior \nA survey of consumer behavior in sports.  Topics covered include: social factors shaping how individuals perceive and use leisure time and discretionary income, ways consumers manifest interest in sports, impact of group dynamics and decision making, the role of media in shaping consumer choices and opinions, fan affinity and avidity.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1050",
+            "course_name": "Entrepreneurship in Sports",
+            "description": "TCSM1-UC 1050 Entrepreneurship in Sports \nStudents develop an idea for a sports business and then determine whether or not the idea is feasible. Special emphasis is placed on discovering and evaluating opportunities, developing appropriate business concepts; determining and acquiring needed resources, and managing the start-up and growth phases of new business creation. The operational requirements of a wide range of sports businesses are considered.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1060",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17605",
+                    "section": "002",
+                    "period": "09/04/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "GCASL 375"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9846",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                }
+            ],
+            "course_name": "Applied Research",
+            "description": "TCSM1-UC 1060 Applied Research \nA review of the processes of obtaining and analyzing relevant, reliable, valid, and current information necessary for the examination of the sports industry practices and trends.  Topics to be covered include: assessing scholarly research, analyzing industry reports, staying current with industry trends, designing a coherent research project, analyzing data, and applying research findings to specific managerial problems.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1071",
+            "course_name": "Professional Seminar I",
+            "description": "TCSM1-UC 1071 Professional Seminar I \nAn introduction to college and to the educational culture, policies, procedures, resources, and programs of the Tisch Center and New York University.  Topics to be covered include: self assessment, educational goals, study skills, an introduction to library resources, the process of finding materials, and a tour of University resources, including the Bobst Library.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1072",
+            "course_name": "Professional Seminar II",
+            "description": "TCSM1-UC 1072 Professional Seminar II \nAn explanation of and preparation for Internship I and II.  Topics to be covered include: identifying professional skills and interests, writing resumes, preparing cover letters, basic interviewing, searching for an internship, networking skills, writing business letters, and learning business etiquette.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1073",
+            "course_name": "Professional Seminar III",
+            "description": "TCSM1-UC 1073 Professional Seminar III \nAn introduction to public speaking and interviewing.  Topics to be covered include: preparing formal and informal speeches, platform skills, presenting ideas, presenting yourself professionally, and interviewing skills.  Students will revise their resumes, participate in mock interviews, and make a public presentation.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1074",
+            "course_name": "Professional Seminar IV",
+            "description": "TCSM1-UC 1074 Professional Seminar IV \nAn examination of the process of transitioning from college to full-time career positions or graduate school. Topics to be covered include: selecting job opportunities, continuing professional education, balancing personal and professional lives, managing transitions, identifying role models, and managing career and finances.  Students will update their resumes and networking databases.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1080",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10108",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 433",
+                    "time": "Wed 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Hollander, David"
+                }
+            ],
+            "course_name": "Advanced Seminar in Sports Management",
+            "description": "TCSM1-UC 1080 Advanced Seminar in Sports Management \nA review and analysis of an important current issue through the perspectives of operations, marketing, finance, human resources, law, and strategic management.  Topics covered include: strategic thinking, global perspectives, and practical business research.  Students will work in teams on analyzing the topic and develop a range of management strategies for a specific problem.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1091",
+            "course_name": "",
+            "description": "TCSM1-UC 1091\n\n   Internship I: SMLS\n\nA three hundred (300) hour supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students meet with a Faculty Advisor to set written objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, students are required to submit an evaluation from their internship work experience supervisor for each 150 hours of their internship.  Students will work for one hundred fifty (150) hours at one company or organization and one hundred fifty (150...\n\n      more description for TCSM1-UC 1091 \u00bb\n\n      \n\n\n\nA three hundred (300) hour supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students meet with a Faculty Advisor to set written objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, students are required to submit an evaluation from their internship work experience supervisor for each 150 hours of their internship.  Students will work for one hundred fifty (150) hours at one company or organization and one hundred fifty (150) hours at another.  To complete three hundred (300) hours at a single organization, students will need to obtain the approval of their Faculty Advisor. This course must be completed in one semester or two consecutive semesters (fall/spring, spring/summer, summer/fall).    This course is a pass/fail course.  The course must be taken twice.\n\n      less description for TCSM1-UC 1091 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1092",
+            "course_name": "",
+            "description": "TCSM1-UC 1092\n\n   Internship II: SMLS\n\nA supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students may register for this course three times.   Students registering for one unit (300 hours) should complete the course work in one semester or two consecutive semesters.  Students can also complete two units (600 hours) in one semester or two consecutive semesters.  Students meet with a Faculty Advisor to set objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, stude...\n\n      more description for TCSM1-UC 1092 \u00bb\n\n      \n\n\n\nA supervised and structured work experience in a hospitality, tourism, or sports organization under the supervision of a Faculty Advisor.  Students may register for this course three times.   Students registering for one unit (300 hours) should complete the course work in one semester or two consecutive semesters.  Students can also complete two units (600 hours) in one semester or two consecutive semesters.  Students meet with a Faculty Advisor to set objectives, engage in online discussions with other students, and complete a written assessment of their learning outcomes.  In addition, students are required to submit an evaluation from their internship work experience supervisor for each one hundred fifty (150) hours of their internship. Students registered for three units must also prepare a presentation for fellow students and faculty that provides an overview of the company, the work experience, and learning outcomes in addition to other course assignments.  The presentation will be accompanied by a written analysis of the current status of the company, the industry sector, and professional outlook for the future of the firm.  This course is a pass/fail course.  The course may be taken for one unit, two units, or three units.\n\n      less description for TCSM1-UC 1092 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9985",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 129",
+                    "time": "Tue 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Prober, Jonathan; Felz, William"
+                }
+            ],
+            "course_name": "Financial Management for Sports Organizations",
+            "description": "TCSM1-UC 1100 Financial Management for Sports Organizations \nA survey of financial instruments utilized when analyzing the fiscal stability of various sports entities, organizations and governing bodies.Topics covered include: basic financial concepts and reporting requirements that apply to the sports industry,financial markets and institutions, ratio analysis, the time value of money, raising and investing capital, budgeting, forecasting, planning and managing long term investments, debt and equity management, and risk assessment.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9851",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "GCASL 379"
+                }
+            ],
+            "course_name": "Sports Management Accounting",
+            "description": "TCSM1-UC 1120 Sports Management Accounting \nA survey of accounting instruments and statements utilized within the sports industry.  Topics covered include: accounting principles that govern a business life cycle; cash basis versus accrual basis accounting; original, adjusting, and closing journal entries; the creation of balance sheets, income statements, owner?s equity statements, and statement of cash flows; contra asset accounts; and depreciation calculations.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1200",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17254",
+                    "section": "001",
+                    "period": "09/07/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "GCASL 288"
+                }
+            ],
+            "course_name": "Human Resource Management",
+            "description": "TCSM1-UC 1200 Human Resource Management \nAn examination of the role of human resource management in sports management operations from social, legal, competitive, and global perspectives. Topics include: human asset planning, recruiting, selecting, hiring, orienting, training, retaining, motivating, developing, compensating, evaluating, and supporting employees.  Legislation, regulations, labor unions, and organizational needs will be discussed from the perspective of both functional and strategic approaches.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1350",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10092",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "7E12 LL27"
+                }
+            ],
+            "course_name": "Leadership for Crisis Situations",
+            "description": "TCSM1-UC 1350 Leadership for Crisis Situations \nAn analysis of the challenges and processes involved in making an intervention or leading a team or organization through a difficult period, crisis, or major change as well as promoting solutions to stakeholders and the public at large.  Topics to be covered include: leading, managing, negotiating, planning for emergencies, team building, motivating, and communicating in a multicultural, changing global industry environment.  Students will analyze at least one major industry case.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1360",
+            "course_name": "Customer Relationship Management",
+            "description": "TCSM1-UC 1360 Customer Relationship Management \nAn analysis of expectations and strategies to assess and satisfy customer demands.  Topics to be covered include: customer behaviors and expectations, service delivery strategies, customer value, guest satisfaction, service quality, continuous improvement processes, customer communication skills, technological applications, and reward and loyalty programs.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 1600",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17606",
+                    "section": "001",
+                    "period": "09/07/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "GCASL 388"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17612",
+                    "section": "002",
+                    "period": "09/04/2015 - 09/04/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17613",
+                    "section": "003",
+                    "period": "09/07/2015 - 09/07/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17614",
+                    "section": "004",
+                    "period": "09/10/2015 - 09/10/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Business Development I",
+            "description": "TCSM1-UC 1600 Business Development I \nAn examination of business management principles (planning, organizing, staffing, directing, and controlling) and organizational structures (single proprietorship, partnership, limited liability corporation, C corporation, and S corporation) from human, legal and financial perspectives.  Topics covered include: life cycles of businesses, financial and risk analysis for businesses, legal issues in business operations, premises liability, franchising arrangements, analysis of physical assets, industry practices, managerial strategies, and current governmental regulations.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17599",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Business Development II",
+            "description": "TCSM1-UC 1601 Business Development II \nAn examination of the principles of organizing, operating, financing and operating single and mixed use projects from the perspectives of business operators, investors, and owners.  Topics covered include: project finance, market analysis, facility contracts, leaseholder agreements, models of mortgages and public financing, sources of capital and their impact on projects, and public and private partnerships.  A case study analyzing a particular project will be integrated into the course.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 1602",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9991",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "GCASL 365"
+                }
+            ],
+            "course_name": "Business Development III",
+            "description": "TCSM1-UC 1602 Business Development III \nAn analysis of the challenges faced and skills necessary in running a small organization or making changes within a large one from the perspectives of marketing, finance, law, and human resources.  Topics covered included: the principles and procedures for starting a business, changing corporate structures, franchising, media strategies, making businesses successful over the long term, making effective changes in organizations, leading an organization, the dimensions of entrepreneurial behavior.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9933",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Myler, Cameron",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship I",
+            "description": "TCSM1-UC 2000 Internship I \nBasic concepts of group processes, leadership and supervision in recreation. Analysis of leadership techniques, methods and styles. Study of fundamental supervisory functions. Topics include: trends and issues in leadership, comprehension of individual leadership abilities, understanding of planning, implementation and evaluation of programs and activities.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9934",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Myler, Cameron",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship I",
+            "description": "TCSM1-UC 2001 Internship I",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2010",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9935",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Myler, Cameron",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship II",
+            "description": "TCSM1-UC 2010 Internship II \nExamination of leisure interests, needs and patterns of participation in urban centers in relation to facilities, programs, and personnel required for delivery of leisure services. Emphasis is given to study of different cultural groups and the development of skills and techniques for leading recreation activities.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2320",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9857",
+                    "section": "001",
+                    "period": "09/07/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "WAVE 433"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10094",
+                    "section": "002",
+                    "period": "09/04/2015 - 12/15/2015",
+                    "location": "WAVE 566A",
+                    "time": "Fri 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "McDonnell, Wayne; Felz, William"
+                }
+            ],
+            "course_name": "Sports Law",
+            "description": "TCSM1-UC 2320 Sports Law \nA survey of the legal system and the ways it intersects with organized sports.  Topics covered include:  legislative processes; common and civil law systems; contractual analysis and interpretation; constitutional rights; remedies; the powers of Commissioners; player contractual issues; regulation of agents; fiduciary relations; collective bargaining agreement, arbitration and negotiation; tort liability, defamation, gender equity and discrimination.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2330",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17203",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                }
+            ],
+            "course_name": "Sports Facility Management",
+            "description": "TCSM1-UC 2330 Sports Facility Management \nAn examination of the issues related to public assembly sports facilities (stadiums, aquatic centers, and arenas). Topics to be covered include planning, managing, operating, maintaining and pricing events at a variety of different facilities. Also considered are issues related to the maximizing of revenue from new and existing facilities; event security and patron flow.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2340",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9936",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "WAVE 431"
+                }
+            ],
+            "course_name": "Food, Beverage, & Catering Operations",
+            "description": "TCSM1-UC 2340 Food, Beverage, & Catering Operations \nAn examination of the challenges in operating food and beverage outlets as well as on- and off-premise catering.  Topic to be covered include: menu development, beverage operations, levels and types of service, structures of kitchens and dining rooms, in-room dining, marketing, customer service, purchasing, inventory management, labor scheduling, pricing, costing, and the role of the food and beverage manager.  Actual case studies of operations will be used.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2350",
+            "course_name": "Strategic Pricing and Revenue Management",
+            "description": "TCSM1-UC 2350 Strategic Pricing and Revenue Management \nMaximizing revenue with a sports facility and maintaining control of internal and external costs is essential to earning a profit. Whether managing an inventory, determining cost of items, or developing a staffing plan, students will learn to measure tangible and intangible areas that affect the bottom line. Topics include pricing theory, cost-value-profit analysis, yield management, review of business agreements, competitive analysis, evaluating a merchandising plan, and managing inventory.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 2360",
+            "course_name": "Marketing of Sales of Sports Facilities",
+            "description": "TCSM1-UC 2360 Marketing of Sales of Sports Facilities \nOne of the challenges facing sports managers today is how to create innovative products and marketing strategies so the sports facility gains a market presence. This course applies marketing concepts to the sports complexes with emphasis on the role of sales, public relations, promotion, media planning, and marketing management. Topics include distribution channels/ product identification; differentiation programming and packaging, marketing trends, and application of sales techniques to sports operations.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 2380",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10101",
+                    "section": "001",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "WAVE 566A"
+                }
+            ],
+            "course_name": "Collegiate Athletic Departments",
+            "description": "TCSM1-UC 2380 Collegiate Athletic Departments \nAn analysis of individual collegiate athletic departments and their impact on the sports industry.  Topics to be covered include: the departmental structures of NCAA Division I, II and Division III member institutions; the role of the athletic director; departmental staffing; trends in coaching; coaching contracts; financial trends in collegiate athletics; scholarship and facility funding; NCAA and conference compliance; conference realignment; Title IX and Gender Equity.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2400",
+            "course_name": "",
+            "description": "TCSM1-UC 2400\n\n   Sports Business Development: Understanding Sports as a Business in New York and Beyond\n\nSports are an expanding global business.  This expansion includes opportunities beyond the playing field or arena, in media, broadcasting, sponsorship, marketing, leadership, law and governance.  Perhaps no other city in the world is home to or the focal point of such a range of sports business entities as is New York. The city is the home to five major professional sports leagues, nine major sports franchises, numerous iconic facilities and venues, the best attended annual sporting event in the world- tennis\u2019 U.S. Open, major networks, marketing and advertising agencies and law firms all work...\n\n      more description for TCSM1-UC 2400 \u00bb\n\n      \n\n\n\nSports are an expanding global business.  This expansion includes opportunities beyond the playing field or arena, in media, broadcasting, sponsorship, marketing, leadership, law and governance.  Perhaps no other city in the world is home to or the focal point of such a range of sports business entities as is New York. The city is the home to five major professional sports leagues, nine major sports franchises, numerous iconic facilities and venues, the best attended annual sporting event in the world- tennis\u2019 U.S. Open, major networks, marketing and advertising agencies and law firms all working in the sports sector.  This course through a range of guest lectures with sports sector leaders, site visits to key firms and facilities and classroom experiences designed to make use of New York as a laboratory will explore the breadth and depth of this exciting and growing field.\n\nLearning Objectives\n1.\tIndentify the various types of sports business entities in the New York marketplace\n2.\tDescribe the major revenue generation capability of sports business entities in the New York marketplace\n3.\tAnalyze the interrelationship between different sports business entities\n4.\tDescribe why New York has developed as a hub for sports business\n5.\tAnalyze whether the sports businesses practices seen in New York are adaptable around the world\n\nStudents completing this course would receive credit in the Tisch Center.\n\n      less description for TCSM1-UC 2400 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 2420",
+            "course_name": "Planning, Design, and Construction of Facilities",
+            "description": "TCSM1-UC 2420 Planning, Design, and Construction of Facilities \nThis course provides an overview of sports facility planning, design, development and construction process form its inception to the grand opening. Topics will focus on the identification of property location, identification of capital, zoning laws, local building policies and the design and planning of a facility. The importance of interior and exterior design and the use of existing resources will be discussed. Students will learn how to plan and design a sports facility using graphics and computer-aided design programs.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 2430",
+            "course_name": "Investment & Finance of Sporting Events",
+            "description": "TCSM1-UC 2430 Investment & Finance of Sporting Events \nKnowledge of investment analysis and financing is a vital necessity in sports development, property acquisition and the planning of events. This course will focus on the various investments and financial analysis methods used to decide on investment in sports facility projects and events. Topics include cash flow analysis as it relates to property investment, methods of measuring the rate of return, income-property analysis, exploration of public and private markets, equity and debt sources of funds, and the use of software programs as a tool of financial analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "TCSM1-UC 2440",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9858",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": "7E12 121 (SB)",
+                    "time": "Thu 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Myler, Cameron"
+                }
+            ],
+            "course_name": "International Sports Governance",
+            "description": "TCSM1-UC 2440 International Sports Governance \nAn examination of the international and national governing bodies that control sports. Topics to be covered include: the structure of the International Olympic Committee (IOC); the range of international sports governing bodies (IGBs); the relationship of the IOC with IGBs; National Governing Bodies (NGBs); other organizations including the NCAA and AAU; concurrent governance between diverse organizations on the international and national levels; athlete rights; privacy; drug testing administration and procedure.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2450",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9937",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "GCASL 375"
+                }
+            ],
+            "course_name": "",
+            "description": "TCSM1-UC 2450\n\n   Contracts & Negotiations\n\nAn in-depth examination of contractual theory, interpretation and enforcement combined with an examination of the theory of negotiation and creativity in developing solution-oriented processes for achieving results in sports, events and entertainment businesses.  Topics to be covered include: valid contractual formation; rules of interpretation and conflict resolution applied by courts; rules of remedy and measures of damages; forms of alternative dispute resolution; the process of developing negotiating priorities and outcomes; BATNA and other theoretical processes and creative contractual pr...\n\n      more description for TCSM1-UC 2450 \u00bb\n\n      \n\n\n\nAn in-depth examination of contractual theory, interpretation and enforcement combined with an examination of the theory of negotiation and creativity in developing solution-oriented processes for achieving results in sports, events and entertainment businesses.  Topics to be covered include: valid contractual formation; rules of interpretation and conflict resolution applied by courts; rules of remedy and measures of damages; forms of alternative dispute resolution; the process of developing negotiating priorities and outcomes; BATNA and other theoretical processes and creative contractual provisions and terms and their enforceability.\n\n      less description for TCSM1-UC 2450 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2460",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17204",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "GCASL 365"
+                }
+            ],
+            "course_name": "Antitrust & Collective Bargaining",
+            "description": "TCSM1-UC 2460 Antitrust & Collective Bargaining \nAn in-depth examination of the intersection between antitrust, labor law and the major professional sports leagues which operate as natural monopolies and as such, technical violators of antitrust laws. Topics covered include: antitrust and labor law and their application to the sports setting; the history of sports leagues violations of antitrust laws; and how sports leagues use a variety of legal exceptions to permit their activities.  Students will also examine primary source material from the collective bargaining agreements of the major sports leagues.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2470",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9891",
+                    "section": "001",
+                    "period": "09/07/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "SILV 407"
+                }
+            ],
+            "course_name": "Professional Sports Franchises",
+            "description": "TCSM1-UC 2470 Professional Sports Franchises \nAn examination of the basic business unit of American professional sports, the individual franchise.  Topics of discussion include: the nature of ownership; franchise exclusivity; rights vested in the franchise; the creation of local broadcast rights and the building of regional sports networks; the reasons for building and upgrading venues and facilities; revenue maximization; hiring of skilled professional staff; strategic pricing; customer knowledge and relationship strategies. Via a case study method, students will review the success and failure of a variety of sports franchises.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2480",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9988",
+                    "section": "001",
+                    "period": "09/07/2015 - 12/15/2015",
+                    "location": "WAVE 435",
+                    "time": "Mon 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "Montoya, Shannon; McDonnell, Wayne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10096",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "GCASL 261"
+                }
+            ],
+            "course_name": "Leagues & Governing Organizations",
+            "description": "TCSM1-UC 2480 Leagues & Governing Organizations \nAn examination of American sports leagues, conferences and governing bodies.  Topics to be covered include: the formation of governance organizations; problems faced in governing professional and amateur sports; the relationship between member institutions and governing organizations; the role of the commissioner; the ability of a governing organization to discipline member entities; realignment and expansion; collective marketing; public relations; licensing; sponsorship; and the collective sale of media rights.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2500",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10097",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Sports Media Strategies",
+            "description": "TCSM1-UC 2500 Sports Media Strategies \nAn in depth examination of the different channels of media distribution necessary to adequately market and promote sports activities.  Topics to be covered include: broadcast distribution of sports properties via rights fee as compared to time buy in all forms of traditional and digital media; the value of local and international endorsements; using media distribution for direct marketing or indirect public relations; the impact of new technology on sports media strategy formulation; and legal ramifications of defamation, false light and unfair use of proprietary material.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2520",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9987",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "GCASL 379"
+                }
+            ],
+            "course_name": "Media & Global Technology",
+            "description": "TCSM1-UC 2520 Media & Global Technology \nThis course is designed to explore information management and the technological methods used to collect and process the abundance of information and to apply it in marketing sports products and entertainment services.  The course will explore the advances in computer technology, which are revolutionizing the way new public facilities are being designed, presented and marketed.  Topics to be covered include: data collection, sport market research, database management, forecasting, advanced media and Internet marketing.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2530",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9892",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": "7E12 123 (SB)",
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "DeLuca, Leonard"
+                }
+            ],
+            "course_name": "Sport & Entertainment Packaging",
+            "description": "TCSM1-UC 2530 Sport & Entertainment Packaging \nStudents will learn how to develop all the components necessary to package sports and entertainment events and to identify the components that are attractive to sought-after markets, as well as explore opportunities for combining sporting events with other local tourism services and attractions.  Topics to be covered include: how supply is characterized by sport-event venues and the destination, services necessary to host visitors, opportunities for developing special promotions and entertainment products that can be used and enjoyed by visitors, spectators, and fans.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 2540",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9938",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "GCASL 379"
+                }
+            ],
+            "course_name": "Licensing & Merchandising",
+            "description": "TCSM1-UC 2540 Licensing & Merchandising \nAn examination of the laws and regulations protecting intangible creations and how those creations are disseminated as part of sports commerce and the principles involved in the branding and sales of licensed property.  Topics covered include the protection of: inventions; discoveries; trade secrets; business concepts; artistic works; computer software; brand names; product designs; celebrity image/persona; and various types of license agreements; and the principles of production, inventory and preparation for sale of licensed products.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 3430",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9939",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "GODD B01"
+                }
+            ],
+            "course_name": "Sports Tourism & Mega Events",
+            "description": "TCSM1-UC 3430 Sports Tourism & Mega Events \nAn examination of the development of sports tourism, including the challenges of developing and operating sports events and venues for mega events. Topics to be covered include: the historical development of events and venues; the nature of special mega events; the infrastructures of tourism events; the financial, facility, environmental, and planning aspects of large scale events; volunteer management; and the economic and socio-cultural impacts of sport tourism.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 3660",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9859",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "SILV 403"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9931",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 388",
+                    "time": "Tue 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Philipakos, Theodore"
+                }
+            ],
+            "course_name": "Marketing of Sports & Events",
+            "description": "TCSM1-UC 3660 Marketing of Sports & Events \nExamination of marketing concepts and methods available for sports businesses and sports events marketers. Topics covered include: the societal marketing philosophy; marketing research; market segmentation; and marketing mix strategies related to programming, distribution, pricing and promotion of sports and sporting events.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 3900",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9860",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "TCSM1-UC 3900 Independent Study \nProvides an opportunity to work with a faculty mentor on a research project. Approved topics should be extensions of existing courses previously taken or knowledge areas in which no courses are offered. Independent research is intended to extend the student?s knowledge in an area in which his or her interest is more specialized than the norm. A written paper is required at the end of the project. Prior approval by an academic advisor as to the number of credits for which the student may register and the topic of the research is required.",
+            "offering": true
+        },
+        {
+            "course_id": "TCSM1-UC 3950",
+            "course_name": "Emerging Issues in Sports Business",
+            "description": "TCSM1-UC 3950 Emerging Issues in Sports Business \nA review and analysis of important current trends and issues in sports through the perspectives of operations, marketing, finance, human resources, law, leadership, technology, and strategic management.  Topics to be covered include: strategic thinking, sustainability, global perspectives, trend analysis, and practical business research.  Students will work in teams analyzing the topic and develop a range of management strategies for a specific case or set of issues.",
+            "offering": false
+        }
+    ]
+}

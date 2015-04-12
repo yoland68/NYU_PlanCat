@@ -1,0 +1,266 @@
+{
+    "major_id": "CHEM-AD",
+    "file": "./2015-2016/Chemistry_(CHEM-AD).html",
+    "courses": [
+        {
+            "course_id": "CHEM-AD 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "12741",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EAST_ADMIN 006",
+                    "time": "Mon,Wed 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "Trabolsi, Ali"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "12742",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EXP_RES 171",
+                    "time": "Mon 12.45 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Trabolsi, Ali"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20141",
+                    "section": "003",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EAST_ADMIN 006",
+                    "time": "Sun 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Trabolsi, Ali"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "20143",
+                    "section": "004",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EXP_RES 171",
+                    "time": "Tue 12.45 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Trabolsi, Ali"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20144",
+                    "section": "005",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EAST_ADMIN 006",
+                    "time": "Sun 3.35 PM - 4.50 PM",
+                    "open": true,
+                    "professor": "Trabolsi, Ali"
+                }
+            ],
+            "course_name": "Organic Chemistry 1",
+            "description": "CHEM-AD  101 Organic Chemistry 1 \nOrganic chemistry is the study of carbon-containing compounds. Organic Chemistry 1 presents the structure and bonding, conformational analysis, stereochemistry, and spectroscopy of organic materials, subjects that partly trace their roots to the development of quantum theory. The topics covered include basic reaction mechanisms, such as substitution and elimination, and the reactions of aliphatic and aromatic hydrocarbons, alcohols, ethers, carbonyl compounds, and carboxylic acids. The course incorporates modern analytical methods that are the cornerstone of contemporary organic chemistry.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 102",
+            "course_name": "",
+            "description": "CHEM-AD  102\n\n   Organic Chemistry 2\n\nOrganic Chemistry 2 offers a comprehensive and rigorous survey of aliphatic and aromatic compounds, with particular emphasis on reactions from both a synthetic as well as a mechanistic viewpoint. The topics include conjugated systems, aromatic compounds, including phenols and aryl halides as well as a thorough discussion of delocalized chemical bonding; aldehydes and ketones; amines; carboxylic acids and their derivatives; lipids such as fatty acids and triglycerides; and carbohydrates. The course is a continuation of Organic Chemistry 1, with an emphasis on multifunctional organic compounds, ...\n\n      more description for CHEM-AD  102 \u00bb\n\n      \n\n\n\nOrganic Chemistry 2 offers a comprehensive and rigorous survey of aliphatic and aromatic compounds, with particular emphasis on reactions from both a synthetic as well as a mechanistic viewpoint. The topics include conjugated systems, aromatic compounds, including phenols and aryl halides as well as a thorough discussion of delocalized chemical bonding; aldehydes and ketones; amines; carboxylic acids and their derivatives; lipids such as fatty acids and triglycerides; and carbohydrates. The course is a continuation of Organic Chemistry 1, with an emphasis on multifunctional organic compounds, including topics of relevance to biochemistry and biological systems, such as carbohydrates, amino acids, peptides, and nucleic acids. The course continues the emphasis on modern analytical methods that are the cornerstone of contemporary organic chemistry, with added emphasis on their application to biology and biological chemistry.\n\n      less description for CHEM-AD  102 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 103",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12807",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Tue,Thu 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Kirmizialtin, Serdal"
+                }
+            ],
+            "course_name": "",
+            "description": "CHEM-AD  103\n\n   Physical Chemistry: Thermodynamics and Kinetics\n\nThis course covers two fundamental concepts in physical chemistry: equilibrium thermodynamics and chemical kinetics, which examine the relationship between energy and matter and rates of reactions, respectively. The definition and the interpretation of basic issues in chemistry, including internal energy, transition states, chemical potential, reaction rates, phase transitions and catalysis, are described in detail. This course uses an extensive mathematical apparatus. The course provides a firm theoretical and practical knowledge necessary to resolve typical chemical problems by focusing on t...\n\n      more description for CHEM-AD  103 \u00bb\n\n      \n\n\n\nThis course covers two fundamental concepts in physical chemistry: equilibrium thermodynamics and chemical kinetics, which examine the relationship between energy and matter and rates of reactions, respectively. The definition and the interpretation of basic issues in chemistry, including internal energy, transition states, chemical potential, reaction rates, phase transitions and catalysis, are described in detail. This course uses an extensive mathematical apparatus. The course provides a firm theoretical and practical knowledge necessary to resolve typical chemical problems by focusing on the deeper understanding of their physical foundation and meaning.\n\n      less description for CHEM-AD  103 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 104",
+            "course_name": "",
+            "description": "CHEM-AD  104\n\n   Physical Chemistry: Quantum Mechanics and  Spectroscopy\n\nThis course is primarily devoted to quantum mechanics, a theory that currently plays a central role in structural chemistry, theoretical chemistry, and spectroscopy. In contrast to classical mechanics, which describes the interaction of energy and matter on large bodies, quantum mechanics focuses on the interactions of energy and matter at the atomic and subatomic level. Hence, this course provides detailed insight into modern approaches that explain the structure and spectra of atoms and molecules. After completion of this course, students are able to understand the origins and meanings of ke...\n\n      more description for CHEM-AD  104 \u00bb\n\n      \n\n\n\nThis course is primarily devoted to quantum mechanics, a theory that currently plays a central role in structural chemistry, theoretical chemistry, and spectroscopy. In contrast to classical mechanics, which describes the interaction of energy and matter on large bodies, quantum mechanics focuses on the interactions of energy and matter at the atomic and subatomic level. Hence, this course provides detailed insight into modern approaches that explain the structure and spectra of atoms and molecules. After completion of this course, students are able to understand the origins and meanings of key chemical concepts, including wave functions, atomic and molecular orbitals, energy levels, hybridization, atomic and molecular spectra, and electron spin. They are also able to interpret various spectra\u2014 electronic, rotational, infrared, and nuclear magnetic resonance\u2014and to correlate these to the structures of atoms and molecules.\n\n      less description for CHEM-AD  104 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 203",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "20147",
+                    "section": "001",
+                    "period": "10/28/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CHEM-AD  203\n\n   Physical Chemistry Laboratory: Thermodynamics and Kinetics\n\nThis laboratory-based course follows closely the lectures in CHEM-AD 103 and provides students with practical skills that are required for performing experiments in physical sciences. The course introduces the principles and practices of \u201cclassical\u201d physicochemical methods in chemical thermodynamics and kinetics, and continues with modern experimental and computational methods that are widely used in contemporary analytical, organic, physical, and biological chemistry laboratories. The experiments include thermochemical techniques such as calorimetry to determine the heat exchange during chemi...\n\n      more description for CHEM-AD  203 \u00bb\n\n      \n\n\n\nThis laboratory-based course follows closely the lectures in CHEM-AD 103 and provides students with practical skills that are required for performing experiments in physical sciences. The course introduces the principles and practices of \u201cclassical\u201d physicochemical methods in chemical thermodynamics and kinetics, and continues with modern experimental and computational methods that are widely used in contemporary analytical, organic, physical, and biological chemistry laboratories. The experiments include thermochemical techniques such as calorimetry to determine the heat exchange during chemical reactions or physical processes, construction and interpretation of phase diagrams of binary and ternary mixtures, measurement and prediction of kinetic rates of chemical reactions, determination of rate constants, characterization of colloids, and measuring the electrochemical properties of matter. The experiments will be supported by computer simulations, and are highly focused on the processes of experimentation, data recording, correct analysis, and meaningful interpretation of the observations. After completion of this course, the students will be able to approach a chemical problem, set up a hypothesis, perform accurate measurement, interpret the results, verify the hypothesis, draw conclusions, and communicate effectively the results orally and in writing.\n\n      less description for CHEM-AD  203 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 204",
+            "course_name": "",
+            "description": "CHEM-AD  204\n\n   Physical Chemistry Laboratory: Spectroscopy\n\nThis laboratory-based course is coupled to the lectures in CHEM-AD 104 and focuses on the principles and use of modern computational and experimental methods for predicting structure and energy, spectroscopic characterization, and structure determination. The students become familiar with modern instrumental methods such as absorption (ultraviolet-visible) spectroscopy, fluorescence spectroscopy, infrared spectroscopy, nuclear magnetic resonance, and structure analysis by single crystal X-ray diffraction. The students learn how to use and interface analytical equipment, acquire, process and an...\n\n      more description for CHEM-AD  204 \u00bb\n\n      \n\n\n\nThis laboratory-based course is coupled to the lectures in CHEM-AD 104 and focuses on the principles and use of modern computational and experimental methods for predicting structure and energy, spectroscopic characterization, and structure determination. The students become familiar with modern instrumental methods such as absorption (ultraviolet-visible) spectroscopy, fluorescence spectroscopy, infrared spectroscopy, nuclear magnetic resonance, and structure analysis by single crystal X-ray diffraction. The students learn how to use and interface analytical equipment, acquire, process and analyze data, and interpret the results. The course also includes a computational component and makes use of quantum chemical calculations to predict energies, reaction rates, and structures of molecules. The theoretical results are correlated with the experimental data to arrive at correct interpretation of the results. After the completion of this course the students will be able to characterize materials by using the common analytical methods.\n\n      less description for CHEM-AD  204 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 298",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17236",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CHEM-AD  298\n\n   Directed Study\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in chemistry. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires...\n\n      more description for CHEM-AD  298 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in chemistry. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Research in Chemistry are available from the Office of the Dean of Science.\n\n      less description for CHEM-AD  298 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 299",
+            "course_name": "",
+            "description": "CHEM-AD  299\n\n   Directed Study\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in chemistry. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires...\n\n      more description for CHEM-AD  299 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in chemistry. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship. Typically, this course is only open to students with a minimum overall GPA of 3.3 and a minimum major GPA of 3.5, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Research in Chemistry are available from the Office of the Dean of Science.\n\n      less description for CHEM-AD  299 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 301",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12774",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Mon,Wed 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Rabeh, Wael"
+                }
+            ],
+            "course_name": "",
+            "description": "CHEM-AD  301\n\n   Biochemistry 1 | Biochemistry: Macromolecular Structure and Function\n\nBiochemistry investigates the chemical structures, reactions, and processes that occur in living systems. Indeed, the very principles of chemistry, biology, physics, and math converge in the field of biochemistry, and biochemical concepts provide a focal point for many disciplines, including biology, healthcare, the pharmaceutical industry, environmental studies and ecology, and our understanding of evolution. This course opens the study of biochemistry with a rigorous investigation of biological macromolecules, including the structure and function of proteins, nucleic acids, carbohydrates, an...\n\n      more description for CHEM-AD  301 \u00bb\n\n      \n\n\n\nBiochemistry investigates the chemical structures, reactions, and processes that occur in living systems. Indeed, the very principles of chemistry, biology, physics, and math converge in the field of biochemistry, and biochemical concepts provide a focal point for many disciplines, including biology, healthcare, the pharmaceutical industry, environmental studies and ecology, and our understanding of evolution. This course opens the study of biochemistry with a rigorous investigation of biological macromolecules, including the structure and function of proteins, nucleic acids, carbohydrates, and lipids. This then leads to the investigation of enzyme structure, including their mechanism of action and their regulation, moving toward a deep understanding of information flow in cells via detailed biochemical studies of replication, transcription, and translation.\n\n      less description for CHEM-AD  301 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 302",
+            "course_name": "",
+            "description": "CHEM-AD  302\n\n   Biochemistry 2 | Biochemistry: Metabolism\n\nBiochemistry investigates the chemical structures, reactions and processes that occur in living systems. Indeed, the very principles of chemistry, biology, physics, and math converge in the field of biochemistry, and biochemical concepts provide a focal point for many disciplines, including biology, healthcare, the pharmaceutical industry, environmental studies and ecology, and our understanding of evolution. This course opens the study of metabolic pathways by which cells catabolize and metabolize carbohydrates, lipids, and proteins. We will examine the mechanisms of the different reactions t...\n\n      more description for CHEM-AD  302 \u00bb\n\n      \n\n\n\nBiochemistry investigates the chemical structures, reactions and processes that occur in living systems. Indeed, the very principles of chemistry, biology, physics, and math converge in the field of biochemistry, and biochemical concepts provide a focal point for many disciplines, including biology, healthcare, the pharmaceutical industry, environmental studies and ecology, and our understanding of evolution. This course opens the study of metabolic pathways by which cells catabolize and metabolize carbohydrates, lipids, and proteins. We will examine the mechanisms of the different reactions that constitute these pathways and the regulatory mechanisms that control their efflux in living systems. Review of scientific literature will broaden our understanding of metabolism in the human body with special focus on human diseases as a result of defects in metabolic pathways.\n\n      less description for CHEM-AD  302 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 304",
+            "course_name": "Experimental Biochemistry",
+            "description": "CHEM-AD  304 Experimental Biochemistry \nThis course provides a rigorous introduction to the molecular analysis of biomolecules. Selected experiments and instruction in analytical techniques used in biochemical research, including chromatography, spectrophotometry, and electrophoresis; isolation and characterization of selected biomolecules; kinetic analysis of enzymatic activity; and analysis of protein-protein and protein-DNA interactions that direct basic biochemical pathways.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 310",
+            "course_name": "",
+            "description": "CHEM-AD  310\n\n   Biophysical Chemistry\n\nApplications of physical and chemical principles to topics of biochemical and biological interest with an emphasis on the basic principles underlying biophysical techniques that are used to study important macromolecules such as proteins and nucleic acids. Topics include molecular spectroscopic techniques such as light absorption, fluorescence, and circular dichroism, as well as nuclear magnetic resonance and vibrational spectroscopy. Applications of these methods to important biophysical, biochemical, and biological problems of current interest such as protein folding, imaging, and protein-DN...\n\n      more description for CHEM-AD  310 \u00bb\n\n      \n\n\n\nApplications of physical and chemical principles to topics of biochemical and biological interest with an emphasis on the basic principles underlying biophysical techniques that are used to study important macromolecules such as proteins and nucleic acids. Topics include molecular spectroscopic techniques such as light absorption, fluorescence, and circular dichroism, as well as nuclear magnetic resonance and vibrational spectroscopy. Applications of these methods to important biophysical, biochemical, and biological problems of current interest such as protein folding, imaging, and protein-DNA and protein-protein interactions are discussed.\n\n      less description for CHEM-AD  310 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 311",
+            "course_name": "Inorganic Chemistry",
+            "description": "CHEM-AD  311 Inorganic Chemistry \nStudies of methods in inorganic chemistry that make use of symmetry to describe bonding and spectra of inorganic compounds with an interdisciplinary emphasis whenever feasible. Reactions and kinetics are also discussed for inorganic, organometallic, and bioinorganic compounds. Selected topics in main group chemistry are also included.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 313",
+            "course_name": "Bioorganic Chemistry",
+            "description": "CHEM-AD  313 Bioorganic Chemistry \nCovering a broad range of topics at the interface between organic chemistry and biology, this course focuses on current advances in bioorganic chemistry, chemical biology, molecular pharmacology, functional genomics, and molecular evolution. Students are expected to enter the class with previous coursework in the chemical structure and conformation of polypeptides and nucleic acids.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 314",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12894",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EAST_ADMIN 001",
+                    "time": "Mon 9.15 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Amin, Shady"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19534",
+                    "section": "002",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "EAST_ADMIN 001",
+                    "time": "Wed 9.15 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Amin, Shady"
+                }
+            ],
+            "course_name": "Analytical Chemistry",
+            "description": "CHEM-AD  314 Analytical Chemistry \nModern topics in analytical chemistry and quantitative analysis, including instrumental analysis of acid-base equilibria, titrations, and kinetics; chromatographic methods; spectrophotometry; mass spectrometry; and electroanalytical chemistry.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 315",
+            "course_name": "Special Topics in Chemistry",
+            "description": "CHEM-AD  315 Special Topics in Chemistry \nThis course provides in-depth treatment of an area of current interest in chemistry. Lectures present background material and address current problems in the area related to the topic. Students read and discuss review articles and current literature on the topic. Course content is determined on a semester-by-semester basis and focus on interdisciplinary topics.",
+            "offering": false
+        },
+        {
+            "course_id": "CHEM-AD 390",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17235",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 001",
+                    "time": "Mon 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "Dore, Timothy"
+                }
+            ],
+            "course_name": "Chemistry Capstone Seminar",
+            "description": "CHEM-AD  390 Chemistry Capstone Seminar \nThe capstone seminar series provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascinations of NYUAD scientists and mathematicians.  Through the exposure to NYUAD faculty research students identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth chemistry capstone proposal.  The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 400",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "13033",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CHEM-AD  400\n\n   Capstone Research\n\nThe senior capstone experience in chemistry is designed to engage students in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The research project focuses on the art of scientific problem-solving through theoretical analysis and/or experimental and technical design. The capstone project provides an opportunity for students to use their knowledge and skills to identify and solve a problem or answer a question in the field of chemistry. The students design and execute a project under the guidance of a faculty mentor. The project ...\n\n      more description for CHEM-AD  400 \u00bb\n\n      \n\n\n\nThe senior capstone experience in chemistry is designed to engage students in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The research project focuses on the art of scientific problem-solving through theoretical analysis and/or experimental and technical design. The capstone project provides an opportunity for students to use their knowledge and skills to identify and solve a problem or answer a question in the field of chemistry. The students design and execute a project under the guidance of a faculty mentor. The project culminates in a presentation and a written document of significant length that describes the work in detail.\n\n      less description for CHEM-AD  400 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CHEM-AD 401",
+            "course_name": "",
+            "description": "CHEM-AD  401\n\n   Capstone Research\n\nThe senior capstone experience in chemistry is designed to engage students in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The research project focuses on the art of scientific problem-solving through theoretical analysis and/or experimental and technical design. The capstone project provides an opportunity for students to use their knowledge and skills to identify and solve a problem or answer a question in the field of chemistry. The students design and execute a project under the guidance of a faculty mentor. The project ...\n\n      more description for CHEM-AD  401 \u00bb\n\n      \n\n\n\nThe senior capstone experience in chemistry is designed to engage students in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The research project focuses on the art of scientific problem-solving through theoretical analysis and/or experimental and technical design. The capstone project provides an opportunity for students to use their knowledge and skills to identify and solve a problem or answer a question in the field of chemistry. The students design and execute a project under the guidance of a faculty mentor. The project culminates in a presentation and a written document of significant length that describes the work in detail.\n\n      less description for CHEM-AD  401 \u00ab",
+            "offering": false
+        }
+    ]
+}

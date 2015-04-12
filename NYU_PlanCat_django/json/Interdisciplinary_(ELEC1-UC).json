@@ -1,0 +1,960 @@
+{
+    "major_id": "ELEC1-UC",
+    "file": "./2015-2016/Interdisciplinary_(ELEC1-UC).html",
+    "courses": [
+        {
+            "course_id": "ELEC1-UC 1000",
+            "course_name": "Intro to Programming Using C",
+            "description": "ELEC1-UC 1000 Intro to Programming Using C \nA thorough introduction to the systems development life cycle, programming, and program design. Although C language in a DOS environment is used as the vehicle for introducing computer concepts, this course is not intended to be a complete introduction to the C language.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1001",
+            "course_name": "C Programming Part I",
+            "description": "ELEC1-UC 1001 C Programming Part I \nAn introduction to the C programming language. It focuses on the structure and syntax of C and includes a detailed study of data structures and flow control, I/O, functions, operations, pointers, and the standard C function libraries.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1002",
+            "course_name": "C Programming Part II",
+            "description": "ELEC1-UC 1002 C Programming Part II \nExpands on the knowledge of C learned in Part I, concentrating on the full 32-bit Windows environment and new user interface. The course covers the basic Windows programming structure, processing of messages, accessing the mouse, dialogue boxes, standard controls, menus, bitmaps, and icons, as well as many Windows features, such as common interface control elements, multithreaded multitasking, and consoles.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1003",
+            "course_name": "Object-Oriented Program C++ Part I",
+            "description": "ELEC1-UC 1003 Object-Oriented Program C++ Part I \nThis two-part course provides complete coverage of the syntax and semantics of the C++ language. Emphasis is on acquiring a solid foundation in C++ language features while developing an understanding of object-oriented principles necessary for successful use of the language. Part I topics include references, constants, inlines, overloading, classes, members, constructors, destructors, scope, encapsulation, data abstraction, and type safety. Students develop practical skills through hands-on work in the language.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1004",
+            "course_name": "Object-Oriented Program C++ Part II",
+            "description": "ELEC1-UC 1004 Object-Oriented Program C++ Part II \nThis course continues coverage of C++ and object-oriented principles. Topics covered include virtual functions, inheritance, and the design of polymorphic classes, exception handling, I/O streams, and run-time type identification. Templates are covered in depth. Common traps and pitfalls are discussed. Emphasis is on a hands-on, design-driven approach to appropriate and effective use of the language. Students design and implement C++ classes and a practical application.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1005",
+            "course_name": "UNIX I:",
+            "description": "ELEC1-UC 1005 UNIX I: \nCovers the general-purpose UNIX utilities for searching, sorting, merging, editing, formatting, and printing data. Individual utilities are connected together with pipes and other forms of I/O redirection, and run as a group by means of shellscripts. Students edit files (including HTML World Wide Web pages) with the vi text editor, and search through data using regular expressions. This course does not cover the kernel or UNIX internals.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1006",
+            "course_name": "Object-Oriented Analysis & Design",
+            "description": "ELEC1-UC 1006 Object-Oriented Analysis & Design \nIntroduces the fundamental concepts of object-oriented analysis (OOA), design (OOD), and programming (OOP), and how object-oriented languages differ from procedural languages. Notation is used to teach the concepts of abstraction, encapsulation, modularity, hierarchy, and polymorphism. This course is designed for both programmers and analysts. No coding is required; however, prior experience in a modern general-purpose programming language (C, C++, Smalltalk, Ada) is expected.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1007",
+            "course_name": "Java Basics: Intro to Programming Using Java",
+            "description": "ELEC1-UC 1007 Java Basics: Intro to Programming Using Java \nThis is a course for those with no prior programming experience. Students learn the fundamental concepts of object-oriented computer programming using Java. It does not provide complete coverage of the Java language or of web application development and is not appropriate for computer neophytes. Upon successful completion of this course, students are prepared to enter Java I.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1008",
+            "course_name": "JAVA II",
+            "description": "ELEC1-UC 1008 JAVA II \nThis course is designed for programmers already familiar with Java. Topics include JavaBeans, security, swing components, collections framework, input method framework, drag-and-drop data transfer, JDBC, Java Archive (JAR), and file streams.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1009",
+            "course_name": "Networking & UNIX",
+            "description": "ELEC1-UC 1009 Networking & UNIX \nThis course is intended for students interested in understanding and developing UNIX networking software and managing UNIX computer networks. It covers the principles, protocols, and design of UNIX computer networks and the development of UNIX networking software. Topics include: network principles and topology, networking protocols in UNIX with an emphasis on TCP/IP, a review of the architecture of network interconnections, and much more.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1010",
+            "course_name": "UNIX II: Systems Administration",
+            "description": "ELEC1-UC 1010 UNIX II: Systems Administration \nThis course provides students with the knowledge needed for the administration of a stand-alone or networked UNIX computer system and its peripherals. The course covers both versions of UNIX, BSD, and System V. Topics include: UNIX system and network overview, system start-up and shutdown, UNIX file systems, user account management, system security, system backup, and much more.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1011",
+            "course_name": "UNIX System Internals",
+            "description": "ELEC1-UC 1011 UNIX System Internals",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1013",
+            "course_name": "Museum Management",
+            "description": "ELEC1-UC 1013 Museum Management",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1023",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9894",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9805",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Managing The Arts",
+            "description": "ELEC1-UC 1023 Managing The Arts \nSurvey the principal tasks, concerns, and skill requirements of the nonprofit arts manager. Topics include the history of the arts and arts management in the United States, legal obligations of the board, organizational structures, fundraising, audience development, economic development and the arts, working with artists, and the budget process. Also study personnel issues, programming, developing partnerships, planning, advocacy, and job searches.",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1024",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9895",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "ELEC1-UC 1024\n\n   Fundraising for The Arts\n\nGain an understanding of the basic principles of fundraising for the arts from both public and private sources and learn the techniques, skills, and strategies for implementing an effective fundraising plan in challenging times. Central issues discussed include recent fundraising trends; assessing organizational readiness and making the \"case\"; the role and resources of the board, staff, and volunteers; how to identify potential supporters and sustain relationships with public, private, and individual donors; and how to communicate effectively through written and oral presentations. Acquire th...\n\n      more description for ELEC1-UC 1024 \u00bb\n\n      \n\n\n\nGain an understanding of the basic principles of fundraising for the arts from both public and private sources and learn the techniques, skills, and strategies for implementing an effective fundraising plan in challenging times. Central issues discussed include recent fundraising trends; assessing organizational readiness and making the \"case\"; the role and resources of the board, staff, and volunteers; how to identify potential supporters and sustain relationships with public, private, and individual donors; and how to communicate effectively through written and oral presentations. Acquire the core competencies needed for a career in arts and cultural fundraising.\n\n      less description for ELEC1-UC 1024 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1025",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9896",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Marketing The Arts",
+            "description": "ELEC1-UC 1025 Marketing The Arts \nExamine what a nonprofit arts manager must know about the business of both performing and visual arts marketing. Learn how to identify and develop arts audiences and increase earned income through the creation and implementation of a comprehensive marketing plan. Topics include market research, pricing, budgeting and income projections, branding and graphic design, direct marketing techniques, promotions, advertising, public relations, and digital and interactive marketing. Case studies and guest speakers aid in analyzing current marketing trends and developing effective marketing strategies.",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1026",
+            "course_name": "Financial Management for the Arts",
+            "description": "ELEC1-UC 1026 Financial Management for the Arts \nExplore the challenging issues of budgeting, accounting, and financial management in today's art world. Discuss how best to construct a budget, how to manage in times of financial crisis, and how to meet auditing and accountability requirements. Using case studies, gain a thorough overview of financial management in small to mid-size arts organizations, with emphasis on practical issues, such as ensuring an honest box office, understanding a balance sheet, and knowing what tasks to delegate. \nGuest speakers are featured.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1027",
+            "course_name": "",
+            "description": "ELEC1-UC 1027\n\n   Financing Cultural Institutions: Strategies and Challenges\n\nCover the basic models of how cultural institutions finance their programs in light of the challenges presented by today's competitive economic environment. Topics include how institutions price services; the different roles played by auxiliaries (food service, retail, and others); membership programs as a fundraising tool; and how capital financing and grants management fit into the financial mix. The role of the board is discussed, as are current trends in institutional financing, including Internet use. The course may include one field trip. No prior coursework in finance or business is req...\n\n      more description for ELEC1-UC 1027 \u00bb\n\n      \n\n\n\nCover the basic models of how cultural institutions finance their programs in light of the challenges presented by today's competitive economic environment. Topics include how institutions price services; the different roles played by auxiliaries (food service, retail, and others); membership programs as a fundraising tool; and how capital financing and grants management fit into the financial mix. The role of the board is discussed, as are current trends in institutional financing, including Internet use. The course may include one field trip. No prior coursework in finance or business is required.\n\n      less description for ELEC1-UC 1027 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1034",
+            "course_name": "The Art Auction",
+            "description": "ELEC1-UC 1034 The Art Auction \nExamine the ever-evolving art auction business and its importance in the international art market. Gain insight into the history of art auctions, the roles of the art expert, and the myriad services provided by auction houses, including the rise of private sales and financial guarantees. The impact of the Internet, including the rise in the number of online auctions and the immediate worldwide availability of auction sales information, is analyzed. Learn how to buy and sell at auction, how an auction is put together, and how to navigate the industry.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1035",
+            "course_name": "Legal and Ethical Aspects of Appraising",
+            "description": "ELEC1-UC 1035 Legal and Ethical Aspects of Appraising",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1036",
+            "course_name": "",
+            "description": "ELEC1-UC 1036\n\n   Uniform Standards of Professional Appraisal Practice for Personal Property Appraisers\n\nThe Uniform Standards of Professional Appraisal Practice (USPAP) sets a unified code of ethics and standards for appraisal report writing. This unique USPAP seminar, offered in cooperation with the Appraisers Association of America, concentrates on personal property appraising and prepares students for the USPAP examination offered at the close of the course. Passing this exam is proof of professional competence and commitment and is essential for those who intend to become professional appraisers. The curriculum follows the guidelines of the Appraisal Standards Board of the Appraisal Foundati...\n\n      more description for ELEC1-UC 1036 \u00bb\n\n      \n\n\n\nThe Uniform Standards of Professional Appraisal Practice (USPAP) sets a unified code of ethics and standards for appraisal report writing. This unique USPAP seminar, offered in cooperation with the Appraisers Association of America, concentrates on personal property appraising and prepares students for the USPAP examination offered at the close of the course. Passing this exam is proof of professional competence and commitment and is essential for those who intend to become professional appraisers. The curriculum follows the guidelines of the Appraisal Standards Board of the Appraisal Foundation.\n\n      less description for ELEC1-UC 1036 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1037",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9898",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9899",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "IRS Legal Guidelines of Fine and Decorative Arts",
+            "description": "ELEC1-UC 1037 IRS Legal Guidelines of Fine and Decorative Arts \nLearn current tax law as it applies to the valuation of fine and decorative arts for estate, inheritance, gift, and income tax purposes, and for donations to charitable institutions.",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1038",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9897",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Methods for Appraisers",
+            "description": "ELEC1-UC 1038 Research Methods for Appraisers \nAppraisal students and collectors learn about the tools that enable an appraiser to research a work of art or object, determine the appropriate market from which to draw comparables, write a narrative analysis, and assign a value. Suggestions are offered on the use of standard reference works and major reference centers in the New York metropolitan area. By completing a research project, participants gain broad exposure to the standards and methodologies used by accredited appraisers.",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1039",
+            "course_name": "",
+            "description": "ELEC1-UC 1039\n\n   Today's American and International Art Market\n\nDiscover global and regional trends in today's international art market by analyzing auction sales and gallery activity for both established and emerging artists. Through the examination of several specific collecting categories, both historically and in the context of the current global economy, this course addresses questions about the future of the art market. What factors affect today's market trends? Where is the market headed? Students working in or aspiring to work in the art market, whether as art dealers or professional advisors, examine issues of art loss and restitution, national pa...\n\n      more description for ELEC1-UC 1039 \u00bb\n\n      \n\n\n\nDiscover global and regional trends in today's international art market by analyzing auction sales and gallery activity for both established and emerging artists. Through the examination of several specific collecting categories, both historically and in the context of the current global economy, this course addresses questions about the future of the art market. What factors affect today's market trends? Where is the market headed? Students working in or aspiring to work in the art market, whether as art dealers or professional advisors, examine issues of art loss and restitution, national patrimony, and increasing worldwide wealth.\n\n      less description for ELEC1-UC 1039 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1040",
+            "course_name": "Starting a Successful Art",
+            "description": "ELEC1-UC 1040 Starting a Successful Art \nIdentify and investigate the skills necessary to launch, sustain, and grow an art business. All aspects of starting and running an art business are covered, from creating an identity and building a reputation to budgeting and operations management. Practical examples are used throughout. Each student starts the course by stating their business concept to the class. Students then learn the basic elements of a good business plan and begin the process of writing one. This course is ideal for those who are considering establishing an art business.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1090",
+            "course_name": "Internship",
+            "description": "ELEC1-UC 1090 Internship",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9806",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "News Reporting",
+            "description": "ELEC1-UC 1100 News Reporting",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1101",
+            "course_name": "Copyediting & Headline Writing for Journalists",
+            "description": "ELEC1-UC 1101 Copyediting & Headline Writing for Journalists",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1102",
+            "course_name": "Television News Reportng & Writing",
+            "description": "ELEC1-UC 1102 Television News Reportng & Writing",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1106",
+            "course_name": "Legal & Ethical Issues in Journalism",
+            "description": "ELEC1-UC 1106 Legal & Ethical Issues in Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1108",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9807",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Interviewing",
+            "description": "ELEC1-UC 1108 Interviewing",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1109",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9808",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9809",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Feature Writing",
+            "description": "ELEC1-UC 1109 Feature Writing",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9810",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Writing for Magazines",
+            "description": "ELEC1-UC 1110 Writing for Magazines",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1114",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9811",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Becoming a Film Critic",
+            "description": "ELEC1-UC 1114 Becoming a Film Critic",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1115",
+            "course_name": "Business Journalism",
+            "description": "ELEC1-UC 1115 Business Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1117",
+            "course_name": "Film & Media Journalism",
+            "description": "ELEC1-UC 1117 Film & Media Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1118",
+            "course_name": "Writing Opinion Columns & Editorials",
+            "description": "ELEC1-UC 1118 Writing Opinion Columns & Editorials",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1203",
+            "course_name": "Appraisal Writing Workshop",
+            "description": "ELEC1-UC 1203 Appraisal Writing Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1206",
+            "course_name": "Intensive Bridging & Routing",
+            "description": "ELEC1-UC 1206 Intensive Bridging & Routing \nThis course provides a basis for understanding the interrelationships between internet technologies and advertising, as well as outlines the different technical options for advertising, describes tools for evaluating your advertising, and provides guidelines on how to use internet technologies to develop an effective campaign.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1209",
+            "course_name": "",
+            "description": "ELEC1-UC 1209\n\n   Essentials of Appraising\n\nLearn the essential framework of personal property appraisal and acquire an education in appraising with this introductory course. Discuss important issues in the field and gain a general knowledge of the duties of a professional appraiser. Study different kinds of appraisals (estate tax, insurance, charitable contributions, and equitable distribution); examine the types of value and evaluation approaches used in appraisal reports; and look at markets and the varieties of property most often appraised. Other topics include client relations, standards and codes of ethics, and establishing a pra...\n\n      more description for ELEC1-UC 1209 \u00bb\n\n      \n\n\n\nLearn the essential framework of personal property appraisal and acquire an education in appraising with this introductory course. Discuss important issues in the field and gain a general knowledge of the duties of a professional appraiser. Study different kinds of appraisals (estate tax, insurance, charitable contributions, and equitable distribution); examine the types of value and evaluation approaches used in appraisal reports; and look at markets and the varieties of property most often appraised. Other topics include client relations, standards and codes of ethics, and establishing a practice.\n\n      less description for ELEC1-UC 1209 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1210",
+            "course_name": "Intro to Appraising Fine Arts",
+            "description": "ELEC1-UC 1210 Intro to Appraising Fine Arts",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1214",
+            "course_name": "Great Photographers",
+            "description": "ELEC1-UC 1214 Great Photographers",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1230",
+            "course_name": "Oracle Database Administration I",
+            "description": "ELEC1-UC 1230 Oracle Database Administration I \nThis course covers the essentials of database administration in an Oracle environment. Students learn how to do storage allocation for databases and to create new databases. In addition, it addresses user administration issues, including adding new users to a database and the security and privilege issues involved. The course concludes with a section on database tuning and monitoring from the systems aspect.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1232",
+            "course_name": "Oracle Fundamentals",
+            "description": "ELEC1-UC 1232 Oracle Fundamentals \nThis course presents an introduction to the Oracle relational database management system. Students work with an interactive tool (SQL*PLUS) and learn to create simple and complex select statements to query the database and format that output with Oracle's commands. Students also learn how to manipulate data with insert, update, and delete statements; create database objects including tables (with constraints), views, sequence generators and indexes; and create PL/SQL blocks. Access to Oracle is provided through the campus network. Note: The University is running Oracle 8.1.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1233",
+            "course_name": "Oracle Database 10G: Program With Pl/Sql",
+            "description": "ELEC1-UC 1233 Oracle Database 10G: Program With Pl/Sql",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1234",
+            "course_name": "",
+            "description": "ELEC1-UC 1234\n\n   Oracle Database Administration II\n\nIn this class, students learn how to configure an Oracle database for multilingual applications. Students practice various methods of recovering the database, using RMAN, SQL, and Flashback technology. It also cover tools to monitor database performance and what steps to take to improve database performance. Students learn how to use various database technologies, such as Resource Manager, the Scheduler, and Automatic Storage Management (ASM). The course reinforces lecture topics with structured hands-on practices and a workshop. This course is designed to prepare you for the corresponding Ora...\n\n      more description for ELEC1-UC 1234 \u00bb\n\n      \n\n\n\nIn this class, students learn how to configure an Oracle database for multilingual applications. Students practice various methods of recovering the database, using RMAN, SQL, and Flashback technology. It also cover tools to monitor database performance and what steps to take to improve database performance. Students learn how to use various database technologies, such as Resource Manager, the Scheduler, and Automatic Storage Management (ASM). The course reinforces lecture topics with structured hands-on practices and a workshop. This course is designed to prepare you for the corresponding Oracle Certified Professional exam.\n\n      less description for ELEC1-UC 1234 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1235",
+            "course_name": "Oracle Forms Developer 10G: Build Internet Apps",
+            "description": "ELEC1-UC 1235 Oracle Forms Developer 10G: Build Internet Apps \nStudents are introduced to two of Oracle's development tools-forms and reports. In a hands-on approach, students learn the fundamentals and create forms, which make up the basis for the development of applications. Students also learn to create and manipulate various types of reports, as well as integrate the tools with each other.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1239",
+            "course_name": "Oracle Database 10G: Intro to Sql",
+            "description": "ELEC1-UC 1239 Oracle Database 10G: Intro to Sql",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1245",
+            "course_name": "Oracle Advanced Tuning & Administraion",
+            "description": "ELEC1-UC 1245 Oracle Advanced Tuning & Administraion",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1400",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9812",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Screenwriting I",
+            "description": "ELEC1-UC 1400 Screenwriting I",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1401",
+            "course_name": "Screenwriting II",
+            "description": "ELEC1-UC 1401 Screenwriting II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1402",
+            "course_name": "Java I",
+            "description": "ELEC1-UC 1402 Java I \nJava is a platform-neutral, object-oriented, and secure programming language for creating interactive content on the web. This course provides a survey of the Java programming language. Topics include classes and objects, inheritance, interfaces, exception handling, applets, strings, input/output, utility classes, Java architecture, garbage collection, and other Java features.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1405",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9813",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Marketing Your Screenplay",
+            "description": "ELEC1-UC 1405 Marketing Your Screenplay",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1406",
+            "course_name": "Javascript",
+            "description": "ELEC1-UC 1406 Javascript \nJavaScript is a semi-object-oriented scripting language for creating dynamic, interactive content in otherwise static HTML pages. This course explores developing advanced graphic user interfaces and interactive information processing \"in-line\" on web pages.",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1408",
+            "course_name": "Xml for Web Development",
+            "description": "ELEC1-UC 1408 Xml for Web Development",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1410",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10113",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Writing a Screenplay in Ten Weeks",
+            "description": "ELEC1-UC 1410 Writing a Screenplay in Ten Weeks",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 1413",
+            "course_name": "The Art & Craft of Dialogue",
+            "description": "ELEC1-UC 1413 The Art & Craft of Dialogue",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 1426",
+            "course_name": "Advanced Class in Screenwriting",
+            "description": "ELEC1-UC 1426 Advanced Class in Screenwriting",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 2015",
+            "course_name": "The Documentary Tradition",
+            "description": "ELEC1-UC 2015 The Documentary Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 2017",
+            "course_name": "The Art of Editing",
+            "description": "ELEC1-UC 2017 The Art of Editing",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 2018",
+            "course_name": "The Art of Editing II",
+            "description": "ELEC1-UC 2018 The Art of Editing II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 2020",
+            "course_name": "Fundamentals of Producing",
+            "description": "ELEC1-UC 2020 Fundamentals of Producing",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 2207",
+            "course_name": "Digital Editing II With Final Cut Pro",
+            "description": "ELEC1-UC 2207 Digital Editing II With Final Cut Pro",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 2210",
+            "course_name": "Intro to Avid Nonlinear Editing",
+            "description": "ELEC1-UC 2210 Intro to Avid Nonlinear Editing",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4011",
+            "course_name": "Multinational Corp & World Politics",
+            "description": "ELEC1-UC 4011 Multinational Corp & World Politics",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4013",
+            "course_name": "American Trade Politics & The World Trade System",
+            "description": "ELEC1-UC 4013 American Trade Politics & The World Trade System",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4016",
+            "course_name": "International Dispute Settlement",
+            "description": "ELEC1-UC 4016 International Dispute Settlement",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4024",
+            "course_name": "Non-Org:Int'L Perspectiv",
+            "description": "ELEC1-UC 4024 Non-Org:Int'L Perspectiv",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4025",
+            "course_name": "Crisis in The World Economy",
+            "description": "ELEC1-UC 4025 Crisis in The World Economy",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4029",
+            "course_name": "Peacemaking & Conflict Resolution",
+            "description": "ELEC1-UC 4029 Peacemaking & Conflict Resolution",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4031",
+            "course_name": "International Conflict Analysis",
+            "description": "ELEC1-UC 4031 International Conflict Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4035",
+            "course_name": "Internat'L Negotiations Cases and Lessons",
+            "description": "ELEC1-UC 4035 Internat'L Negotiations Cases and Lessons",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4039",
+            "course_name": "European Union: Internal & External Dynamics",
+            "description": "ELEC1-UC 4039 European Union: Internal & External Dynamics",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4041",
+            "course_name": "Promoting Human Rights",
+            "description": "ELEC1-UC 4041 Promoting Human Rights",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4044",
+            "course_name": "Crisis/Humanitarian Aid",
+            "description": "ELEC1-UC 4044 Crisis/Humanitarian Aid",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4046",
+            "course_name": "Nongovernmental Organiz Evolution & Operation",
+            "description": "ELEC1-UC 4046 Nongovernmental Organiz Evolution & Operation",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4052",
+            "course_name": "The Geopolitics of Oil: The Persian Gulf",
+            "description": "ELEC1-UC 4052 The Geopolitics of Oil: The Persian Gulf",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4054",
+            "course_name": "Refugee Protection & Practices",
+            "description": "ELEC1-UC 4054 Refugee Protection & Practices",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 4057",
+            "course_name": "The Global Natural Resource Challenge",
+            "description": "ELEC1-UC 4057 The Global Natural Resource Challenge",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9997",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intensive French I",
+            "description": "ELEC1-UC 5601 Intensive French I",
+            "offering": true
+        },
+        {
+            "course_id": "ELEC1-UC 5602",
+            "course_name": "Intensive German I",
+            "description": "ELEC1-UC 5602 Intensive German I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5603",
+            "course_name": "Intensive Italian I",
+            "description": "ELEC1-UC 5603 Intensive Italian I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5604",
+            "course_name": "Intensive Japanese I",
+            "description": "ELEC1-UC 5604 Intensive Japanese I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5606",
+            "course_name": "Intensive Latin I",
+            "description": "ELEC1-UC 5606 Intensive Latin I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5607",
+            "course_name": "Intensive Mandarin I",
+            "description": "ELEC1-UC 5607 Intensive Mandarin I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5608",
+            "course_name": "Intensive Russian I",
+            "description": "ELEC1-UC 5608 Intensive Russian I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5609",
+            "course_name": "Intensive Spanish I",
+            "description": "ELEC1-UC 5609 Intensive Spanish I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5611",
+            "course_name": "Intensive Arabic I",
+            "description": "ELEC1-UC 5611 Intensive Arabic I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5614",
+            "course_name": "Intensive Portuguese I",
+            "description": "ELEC1-UC 5614 Intensive Portuguese I",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5621",
+            "course_name": "Mandarin I and II",
+            "description": "ELEC1-UC 5621 Mandarin I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5626",
+            "course_name": "French I and II",
+            "description": "ELEC1-UC 5626 French I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5632",
+            "course_name": "Russian: Three-Week Intensive I and II",
+            "description": "ELEC1-UC 5632 Russian: Three-Week Intensive I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5633",
+            "course_name": "Japanese: Three-Week Intensive I and II",
+            "description": "ELEC1-UC 5633 Japanese: Three-Week Intensive I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5634",
+            "course_name": "Mandarin: Three-Week Intensive I and II",
+            "description": "ELEC1-UC 5634 Mandarin: Three-Week Intensive I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5635",
+            "course_name": "Arabic: Three-Week Intensive Modern Standard I & II",
+            "description": "ELEC1-UC 5635 Arabic: Three-Week Intensive Modern Standard I & II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5636",
+            "course_name": "French: Three-Week Intensive I and II",
+            "description": "ELEC1-UC 5636 French: Three-Week Intensive I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5637",
+            "course_name": "Spanish: Three-Week Intensive I and II",
+            "description": "ELEC1-UC 5637 Spanish: Three-Week Intensive I and II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5638",
+            "course_name": "Intensive Italian I & II",
+            "description": "ELEC1-UC 5638 Intensive Italian I & II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5641",
+            "course_name": "Intensive French II",
+            "description": "ELEC1-UC 5641 Intensive French II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5642",
+            "course_name": "Intensive German II",
+            "description": "ELEC1-UC 5642 Intensive German II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5643",
+            "course_name": "Intensive Italian II",
+            "description": "ELEC1-UC 5643 Intensive Italian II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5644",
+            "course_name": "Japanese: Intensive II",
+            "description": "ELEC1-UC 5644 Japanese: Intensive II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5646",
+            "course_name": "Latin: Intensive II",
+            "description": "ELEC1-UC 5646 Latin: Intensive II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5647",
+            "course_name": "Intensive Mandarin II",
+            "description": "ELEC1-UC 5647 Intensive Mandarin II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5649",
+            "course_name": "Intensive Spanish II",
+            "description": "ELEC1-UC 5649 Intensive Spanish II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5651",
+            "course_name": "Intensive Arabic II",
+            "description": "ELEC1-UC 5651 Intensive Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5656",
+            "course_name": "Intensive Portuguese II",
+            "description": "ELEC1-UC 5656 Intensive Portuguese II",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5661",
+            "course_name": "Intensive Russian III & IV",
+            "description": "ELEC1-UC 5661 Intensive Russian III & IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5662",
+            "course_name": "Japanese: Three-Week Intensive III and IV",
+            "description": "ELEC1-UC 5662 Japanese: Three-Week Intensive III and IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5663",
+            "course_name": "Mandarin: Three-Week Intensive III and IV",
+            "description": "ELEC1-UC 5663 Mandarin: Three-Week Intensive III and IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5664",
+            "course_name": "Arabic: Three-Week Intensive Modern Standard III & IV",
+            "description": "ELEC1-UC 5664 Arabic: Three-Week Intensive Modern Standard III & IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5665",
+            "course_name": "Intensive French III & IV",
+            "description": "ELEC1-UC 5665 Intensive French III & IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5666",
+            "course_name": "Intensive Spanish III & IV",
+            "description": "ELEC1-UC 5666 Intensive Spanish III & IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5667",
+            "course_name": "Intensive Italian III & IV",
+            "description": "ELEC1-UC 5667 Intensive Italian III & IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5670",
+            "course_name": "Intensive Arabic III",
+            "description": "ELEC1-UC 5670 Intensive Arabic III",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5671",
+            "course_name": "Intensive French III",
+            "description": "ELEC1-UC 5671 Intensive French III",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5673",
+            "course_name": "Intensive Italian III",
+            "description": "ELEC1-UC 5673 Intensive Italian III",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5677",
+            "course_name": "Intensive Mandarin III",
+            "description": "ELEC1-UC 5677 Intensive Mandarin III",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5679",
+            "course_name": "Intensive Spanish III",
+            "description": "ELEC1-UC 5679 Intensive Spanish III",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5680",
+            "course_name": "Intensive Spanish IV",
+            "description": "ELEC1-UC 5680 Intensive Spanish IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5681",
+            "course_name": "Intensive French IV",
+            "description": "ELEC1-UC 5681 Intensive French IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5682",
+            "course_name": "Intensive Arabic IV",
+            "description": "ELEC1-UC 5682 Intensive Arabic IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5683",
+            "course_name": "Intensive Italian IV",
+            "description": "ELEC1-UC 5683 Intensive Italian IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 5687",
+            "course_name": "Intensive Mandarin IV",
+            "description": "ELEC1-UC 5687 Intensive Mandarin IV",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 9100",
+            "course_name": "Fundraising Concepts and Practices",
+            "description": "ELEC1-UC 9100 Fundraising Concepts and Practices",
+            "offering": false
+        },
+        {
+            "course_id": "ELEC1-UC 9225",
+            "course_name": "Ethics &  the Laws of Non-Profits",
+            "description": "ELEC1-UC 9225 Ethics &  the Laws of Non-Profits",
+            "offering": false
+        }
+    ]
+}

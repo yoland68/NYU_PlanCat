@@ -1,0 +1,1648 @@
+{
+    "major_id": "ENGL-GA",
+    "file": "./2015-2016/English_(ENGL-GA).html",
+    "courses": [
+        {
+            "course_id": "ENGL-GA 1060",
+            "course_name": "Introductory Old English",
+            "description": "ENGL-GA 1060 Introductory Old English \nStudy of the language, literature, and culture of the Anglo-Saxons from about AD 500-1066. Oral readings of the original texts and a survey of basic grammar. Representative prose selections are read, but emphasis is on the brilliant short poems?Caedmon?s Hymn, The Battle of Maldon, The Seafarer, The Wanderer, and The Dream of the Rood?that prepare the reader for the epic Beowulf.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1061",
+            "course_name": "Introductory Mid English",
+            "description": "ENGL-GA 1061 Introductory Mid English \nStudy of representative prose and verse texts from 1100 to 1500, read in the original dialects, with emphasis on the continuity of literary traditions and creative innovation.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1070",
+            "course_name": "Intro to Sanskrit I",
+            "description": "ENGL-GA 1070 Intro to Sanskrit I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1080",
+            "course_name": "Modern Irish: Gaelic Trad in Wrtg & Folklore",
+            "description": "ENGL-GA 1080 Modern Irish: Gaelic Trad in Wrtg & Folklore",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1083",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1335",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Tue 6.10 PM - 8.40 PM",
+                    "open": true,
+                    "professor": "Waters, John"
+                }
+            ],
+            "course_name": "Literature of Modern Ireland I",
+            "description": "ENGL-GA 1083 Literature of Modern Ireland I",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 1084",
+            "course_name": "Literature of Modern Ireland II",
+            "description": "ENGL-GA 1084 Literature of Modern Ireland II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1085",
+            "course_name": "Topics in Irish Lit:",
+            "description": "ENGL-GA 1085 Topics in Irish Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1087",
+            "course_name": "Irish Poetry After Yeats",
+            "description": "ENGL-GA 1087 Irish Poetry After Yeats",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1111",
+            "course_name": "Exemplary Texts: Poetry & Experience",
+            "description": "ENGL-GA 1111 Exemplary Texts: Poetry & Experience",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1115",
+            "course_name": "Bible & Lit Criticism",
+            "description": "ENGL-GA 1115 Bible & Lit Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1152",
+            "course_name": "Studies in Beowulf",
+            "description": "ENGL-GA 1152 Studies in Beowulf",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1322",
+            "course_name": "Renaissance in England",
+            "description": "ENGL-GA 1322 Renaissance in England",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1344",
+            "course_name": "Shakespeare I",
+            "description": "ENGL-GA 1344 Shakespeare I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1345",
+            "course_name": "Shakespeare II",
+            "description": "ENGL-GA 1345 Shakespeare II \nShakespeare?s major comedies, histories, and tragedies",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1419",
+            "course_name": "Irish & Euro Migrations: Jewish & Irish",
+            "description": "ENGL-GA 1419 Irish & Euro Migrations: Jewish & Irish",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1420",
+            "course_name": "17th Century Poetry",
+            "description": "ENGL-GA 1420 17th Century Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1530",
+            "course_name": "Restoration & 18th Cent Drama",
+            "description": "ENGL-GA 1530 Restoration & 18th Cent Drama",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1560",
+            "course_name": "English Novel in 18th Century",
+            "description": "ENGL-GA 1560 English Novel in 18th Century",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1600",
+            "course_name": "Theory Clashes: Persist of Theologico-Political",
+            "description": "ENGL-GA 1600 Theory Clashes: Persist of Theologico-Political",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1662",
+            "course_name": "Intro Victorian Novel:",
+            "description": "ENGL-GA 1662 Intro Victorian Novel:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1720",
+            "course_name": "Intro to Modern British Novel",
+            "description": "ENGL-GA 1720 Intro to Modern British Novel",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1740",
+            "course_name": "Topics in Canadian Literature",
+            "description": "ENGL-GA 1740 Topics in Canadian Literature",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1750",
+            "course_name": "Mod Afro-Amer Novelists",
+            "description": "ENGL-GA 1750 Mod Afro-Amer Novelists",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1755",
+            "course_name": "African-American Literature",
+            "description": "ENGL-GA 1755 African-American Literature",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1764",
+            "course_name": "World Lit in English:",
+            "description": "ENGL-GA 1764 World Lit in English: \nLiterature that emerged with the breakup of the British Empire, with representative works from India, Pakistan, Nigeria, Kenya, South Africa, Australia, New Zealand, and Canada.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1770",
+            "course_name": "Topics in Performance:",
+            "description": "ENGL-GA 1770 Topics in Performance: \nVarious topics in the history and theory of performance, including animality, spectatorship, mass culture, and others.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1800",
+            "course_name": "Intro Tpcs in History of The Prod of Knowledge",
+            "description": "ENGL-GA 1800 Intro Tpcs in History of The Prod of Knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1841",
+            "course_name": "Intro to American Fiction, 1900-1945",
+            "description": "ENGL-GA 1841 Intro to American Fiction, 1900-1945",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1924",
+            "course_name": "Intro to Modern British and American Poetry",
+            "description": "ENGL-GA 1924 Intro to Modern British and American Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1955",
+            "course_name": "Intro Tpcs in Criticism:",
+            "description": "ENGL-GA 1955 Intro Tpcs in Criticism:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1957",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17470",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 222",
+                    "time": "Mon 6.00 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Meisel, Perry"
+                }
+            ],
+            "course_name": "Intro Tpcs in Literary Theory:Textuality",
+            "description": "ENGL-GA 1957 Intro Tpcs in Literary Theory:Textuality",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 1970",
+            "course_name": "The Craft of Drama",
+            "description": "ENGL-GA 1970 The Craft of Drama",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 1972",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17471",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 105",
+                    "time": "Mon 5.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Engel, Deena; Hoover, David"
+                }
+            ],
+            "course_name": "Topics in Digital Humanities",
+            "description": "ENGL-GA 1972 Topics in Digital Humanities",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2001",
+            "course_name": "Proseminar in Poetics & The Orgins of Lit Theory",
+            "description": "ENGL-GA 2001 Proseminar in Poetics & The Orgins of Lit Theory",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2044",
+            "course_name": "Development of The English Language",
+            "description": "ENGL-GA 2044 Development of The English Language \nHistory of the English language from its beginnings in the fifth century to the present, with special emphasis on the Indo-European origins of English; Old and Middle English; internal developments in phonology, morphology, syntax, and vocabulary; and the rise of a standard dialect.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2045",
+            "course_name": "Structure Modern English",
+            "description": "ENGL-GA 2045 Structure Modern English \nIntroduction to the linguistic study of the English language, with special emphasis on phonetics, syntax, semantics, language acquisition, and the linguistic study of style.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2046",
+            "course_name": "Practicum: Comp Theory",
+            "description": "ENGL-GA 2046 Practicum: Comp Theory \nStudy of the current research on the composing process and its implications for classroom teStudy of the current research on the composing process and its implications for classroom teaching. Considers all aspects of the writing process from prewriting through final product. Participants may be observed in a classroom setting.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2047",
+            "course_name": "Contemp Rhetrcl Theories",
+            "description": "ENGL-GA 2047 Contemp Rhetrcl Theories",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2048",
+            "course_name": "Hist of Rhetoric:",
+            "description": "ENGL-GA 2048 Hist of Rhetoric: \nSurvey of representative Western arguments about the nature of discourse, from Plato to Erasmus. Topics include epistemological, ethical, and literary values and the questions of the power, authority, and purposes of language.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2052",
+            "course_name": "Literary Theor & Rhetorc",
+            "description": "ENGL-GA 2052 Literary Theor & Rhetorc",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2060",
+            "course_name": "Rsch in Written Discours",
+            "description": "ENGL-GA 2060 Rsch in Written Discours",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2061",
+            "course_name": "Theories of Discourse",
+            "description": "ENGL-GA 2061 Theories of Discourse",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2062",
+            "course_name": "Studies in Prose Genres: Autobiography",
+            "description": "ENGL-GA 2062 Studies in Prose Genres: Autobiography",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2072",
+            "course_name": "Topics in English Lang:",
+            "description": "ENGL-GA 2072 Topics in English Lang: \nVaried content, approaches, and organization. Possible topics include, among others, linguistic approaches to literature, philology and literary history, speech-act theory/pragmatics and the study of literature, Standard English and the idea of correctness, and dialect and literature.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2075",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2405",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 105",
+                    "time": "Wed 5.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Vargo, Gregory Thomas"
+                }
+            ],
+            "course_name": "Individualizing Writing Instruction",
+            "description": "ENGL-GA 2075 Individualizing Writing Instruction",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2080",
+            "course_name": "Proseminar",
+            "description": "ENGL-GA 2080 Proseminar \nIntroduction to the aims and methods of doctoral work in the institutional context of the literary profession.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2081",
+            "course_name": "Proseminar",
+            "description": "ENGL-GA 2081 Proseminar",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2100",
+            "course_name": "Hist of Engl/Amer Biogra",
+            "description": "ENGL-GA 2100 Hist of Engl/Amer Biogra",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2110",
+            "course_name": "Literary Biography and Biographical Critism",
+            "description": "ENGL-GA 2110 Literary Biography and Biographical Critism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2115",
+            "course_name": "Bible and Lit Criticism",
+            "description": "ENGL-GA 2115 Bible and Lit Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2120",
+            "course_name": "Practicum in Literary Biography",
+            "description": "ENGL-GA 2120 Practicum in Literary Biography",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2130",
+            "course_name": "Wksp/Literary Biography",
+            "description": "ENGL-GA 2130 Wksp/Literary Biography",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2131",
+            "course_name": "Wkshp in Lit Biography II",
+            "description": "ENGL-GA 2131 Wkshp in Lit Biography II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2155",
+            "course_name": "Tpc Early Mod Writ Cult:",
+            "description": "ENGL-GA 2155 Tpc Early Mod Writ Cult:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2181",
+            "course_name": "Proseminar",
+            "description": "ENGL-GA 2181 Proseminar",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2200",
+            "course_name": "Paleography & Codicology",
+            "description": "ENGL-GA 2200 Paleography & Codicology \nA survey of Latin scripts of the European Middle Ages and Renaissance (500-1550) and of methods and materials of medieval book production.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2250",
+            "course_name": "Medieval Lit from Norman Conquest to Malory",
+            "description": "ENGL-GA 2250 Medieval Lit from Norman Conquest to Malory",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2251",
+            "course_name": "Med Lit Norman-Malory II",
+            "description": "ENGL-GA 2251 Med Lit Norman-Malory II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2252",
+            "course_name": "Major Works 14th Century (Exclusive of Chaucer)",
+            "description": "ENGL-GA 2252 Major Works 14th Century (Exclusive of Chaucer)",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2266",
+            "course_name": "Chaucer I",
+            "description": "ENGL-GA 2266 Chaucer I \nReading and discussion of the text of Canterbury Tales.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2267",
+            "course_name": "Chaucer II",
+            "description": "ENGL-GA 2267 Chaucer II \nTroilus and other works.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2270",
+            "course_name": "Topics in Medieval Lit",
+            "description": "ENGL-GA 2270 Topics in Medieval Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2271",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17473",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 805",
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Momma, Haruko"
+                }
+            ],
+            "course_name": "Topics Med Lit II:",
+            "description": "ENGL-GA 2271 Topics Med Lit II:",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2275",
+            "course_name": "Medieval Women",
+            "description": "ENGL-GA 2275 Medieval Women",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2280",
+            "course_name": "Studies The English Epic",
+            "description": "ENGL-GA 2280 Studies The English Epic",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2295",
+            "course_name": "Med & Early Tudor Drama",
+            "description": "ENGL-GA 2295 Med & Early Tudor Drama",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2310",
+            "course_name": "Major Works of 15th Cent",
+            "description": "ENGL-GA 2310 Major Works of 15th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2323",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17480",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 105",
+                    "time": "Mon 1.00 PM - 3.45 PM",
+                    "open": true,
+                    "professor": "Guillory, John"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19302",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CASA 201",
+                    "time": "Wed 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Tylus, Jane; Wofford, Susanne"
+                }
+            ],
+            "course_name": "Tpcs in Renaissance Lit:",
+            "description": "ENGL-GA 2323 Tpcs in Renaissance Lit:",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2333",
+            "course_name": "Elizabethan & Jacobean Drama",
+            "description": "ENGL-GA 2333 Elizabethan & Jacobean Drama \nMarlowe, Jonson, Kyd, Marston, Tourneur, Webster, Middleton, Rowley, Ford, Chapman.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2344",
+            "course_name": "Shakespeare I",
+            "description": "ENGL-GA 2344 Shakespeare I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2414",
+            "course_name": "The Age of Donne",
+            "description": "ENGL-GA 2414 The Age of Donne \nThe poetry of Donne, Herbert, Jonson, and selected minor poets; the prose of Hooker, Donne, Bacon, Browne, and Burton.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2422",
+            "course_name": "The Age of Milton",
+            "description": "ENGL-GA 2422 The Age of Milton",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2430",
+            "course_name": "Milton",
+            "description": "ENGL-GA 2430 Milton \nThe poems of Milton, with emphasis on the major works Paradise Lost, Paradise Regained, and Samson Agonistes, together with selected readings in Milton?s prose.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2501",
+            "course_name": "Hist of Literary Crit: from 1800",
+            "description": "ENGL-GA 2501 Hist of Literary Crit: from 1800",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2521",
+            "course_name": "Restoration & Early 18th Century Lit",
+            "description": "ENGL-GA 2521 Restoration & Early 18th Century Lit \nThe major works of Dryden, Swift, and Pope, together with the works of such contemporaries as Bunyan, Butler, Rochester, Marvell, Behn, Astell, Addison, and Steele.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2535",
+            "course_name": "Childrens Lit",
+            "description": "ENGL-GA 2535 Childrens Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2540",
+            "course_name": "Tpcs in 18th C Lit I",
+            "description": "ENGL-GA 2540 Tpcs in 18th C Lit I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2541",
+            "course_name": "Topics in 18th Century English Lit",
+            "description": "ENGL-GA 2541 Topics in 18th Century English Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2545",
+            "course_name": "Intell Prose of 18th C",
+            "description": "ENGL-GA 2545 Intell Prose of 18th C",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2550",
+            "course_name": "Age of Johnson",
+            "description": "ENGL-GA 2550 Age of Johnson",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2560",
+            "course_name": "English Novel in 18th Century",
+            "description": "ENGL-GA 2560 English Novel in 18th Century",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2620",
+            "course_name": "Romantic Movement",
+            "description": "ENGL-GA 2620 Romantic Movement \nProse and poetry of Blake, Wordsworth, and Coleridge, with romantic prose.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2621",
+            "course_name": "The Romantic Movement II",
+            "description": "ENGL-GA 2621 The Romantic Movement II \nProse and poetry of Byron, Shelley, and Keats, with romantic prose.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2626",
+            "course_name": "Topics in Romanticism I:",
+            "description": "ENGL-GA 2626 Topics in Romanticism I: \nTopics in political, philosophical, and critical approaches to romanticism.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2627",
+            "course_name": "Tpcs in Romanticism II:",
+            "description": "ENGL-GA 2627 Tpcs in Romanticism II:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2650",
+            "course_name": "Topics in Victorian Lit: Poetry",
+            "description": "ENGL-GA 2650 Topics in Victorian Lit: Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2660",
+            "course_name": "Stds in Victorian Lit I",
+            "description": "ENGL-GA 2660 Stds in Victorian Lit I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2661",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17474",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Thu 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Spear, Jeffrey"
+                }
+            ],
+            "course_name": "Victorian Studies",
+            "description": "ENGL-GA 2661 Victorian Studies \nVictorian poetry, fiction, and nonfiction prose in cultural context.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2662",
+            "course_name": "Victorian Novel I",
+            "description": "ENGL-GA 2662 Victorian Novel I \nNovels selected from those of Dickens, Thackeray, the Bront?s, Mrs. Gaskell, Trollope, George Eliot, Meredith, Hardy, Samuel Butler, and Gissing.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2663",
+            "course_name": "Victorian Novel II:",
+            "description": "ENGL-GA 2663 Victorian Novel II:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2700",
+            "course_name": "Lit of Transition I",
+            "description": "ENGL-GA 2700 Lit of Transition I \nThe emergence of modern British literature from the 1800s to the 1920s",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2701",
+            "course_name": "Lit of Transition II",
+            "description": "ENGL-GA 2701 Lit of Transition II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2710",
+            "course_name": "Tpcs/Lit of Transition: Early Joyce in Int Frame",
+            "description": "ENGL-GA 2710 Tpcs/Lit of Transition: Early Joyce in Int Frame",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2720",
+            "course_name": "Modern British Novel",
+            "description": "ENGL-GA 2720 Modern British Novel \nThe problem of modernism in English prose fiction from Pater to Joyce and Woolf.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2721",
+            "course_name": "Contemporary Brit Novel",
+            "description": "ENGL-GA 2721 Contemporary Brit Novel \nTopics include pulp; fictions and documents of the permanent war culture; popular music; graphic, avant-garde, children?s, and postcolonial narrative and film. Readings include Beckett, Burgess, Sillitoe, Spark, Lessing, Rushdie, Amis, Ishiguro, Alan Moore, Ballard, Dyer, Sinclair, and Welsh.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2730",
+            "course_name": "Topics in Irish Lit:",
+            "description": "ENGL-GA 2730 Topics in Irish Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2731",
+            "course_name": "Lit of Mod Ireland: 1200-1800",
+            "description": "ENGL-GA 2731 Lit of Mod Ireland: 1200-1800",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2802",
+            "course_name": "",
+            "description": "ENGL-GA 2802\n\n   Early American Lit\n\nAmerican literature, 1607-1800, in its cultural setting. Topics include the literature of exploration and promotion; American Puritan poetry and prose; writing in the early South and the middle colonies; rise of the epic, the novel, and the theatre during the American Revolution, with related study of music and painting of tAmerican literature, 1607-1800, in its cultural setting. Topics include the literature of exploration and promotion; American Puritan poetry and prose; writing in the early South and the middle colonies; rise of the epic, the novel, and the theatre during the American Revol...\n\n      more description for ENGL-GA 2802 \u00bb\n\n      \n\n\n\nAmerican literature, 1607-1800, in its cultural setting. Topics include the literature of exploration and promotion; American Puritan poetry and prose; writing in the early South and the middle colonies; rise of the epic, the novel, and the theatre during the American Revolution, with related study of music and painting of tAmerican literature, 1607-1800, in its cultural setting. Topics include the literature of exploration and promotion; American Puritan poetry and prose; writing in the early South and the middle colonies; rise of the epic, the novel, and the theatre during the American Revolution, with related study of music and painting of the period; the beginning of American romanticism.\n\n      less description for ENGL-GA 2802 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2805",
+            "course_name": "Tpcs in Transatlantic Literature",
+            "description": "ENGL-GA 2805 Tpcs in Transatlantic Literature",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2810",
+            "course_name": "Amer Lit: 1800-1865",
+            "description": "ENGL-GA 2810 Amer Lit: 1800-1865 \nBrown, Irving, Cooper, Poe, Emerson, Douglass, and Thoreau.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2811",
+            "course_name": "Amer Lit 1800-1865:",
+            "description": "ENGL-GA 2811 Amer Lit 1800-1865: \nHawthorne, Melville, and Whitman.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2820",
+            "course_name": "American Lit 1865-1900",
+            "description": "ENGL-GA 2820 American Lit 1865-1900 \nThe poetry and fiction of the post-Civil War era, including Dickinson, De Forest, Howells, Twain, Garland, James, Crane, Frederic, Chopin, and Norris.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2831",
+            "course_name": "Colloquium in Amer Civ",
+            "description": "ENGL-GA 2831 Colloquium in Amer Civ",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2834",
+            "course_name": "Colloquium: Amer Civ I",
+            "description": "ENGL-GA 2834 Colloquium: Amer Civ I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2835",
+            "course_name": "Colloq: Amer Civiliz II",
+            "description": "ENGL-GA 2835 Colloq: Amer Civiliz II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2836",
+            "course_name": "North American Lit in Comparative Context:",
+            "description": "ENGL-GA 2836 North American Lit in Comparative Context:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2838",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17483",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 105",
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "McHenry, Elizabeth"
+                }
+            ],
+            "course_name": "Topics in Amer Lit I:",
+            "description": "ENGL-GA 2838 Topics in Amer Lit I: \nStudies in major authors and themes.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2839",
+            "course_name": "Topics in Amer Lit II:",
+            "description": "ENGL-GA 2839 Topics in Amer Lit II: \nStudies in major authors and themes.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2840",
+            "course_name": "Amer Poetry Since 1900",
+            "description": "ENGL-GA 2840 Amer Poetry Since 1900",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2841",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17482",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 105",
+                    "time": "Thu 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Hendin, Josephine"
+                }
+            ],
+            "course_name": "American Fiction",
+            "description": "ENGL-GA 2841 American Fiction \nReadings in 20th-century American fiction and nonfiction prose, with emphasis on the theory of fictionaReadings in 20th-century American fiction and nonfiction prose, with emphasis on the theory of fictional genres, literary innovation, stylistic experimentation, and recurrent themes in the modern novel; Dreiser, Wharton, Fitzgerald, Hemingway, Faulkner, Dos Passos, Cather, Steinbeck, Lewis, and Wolfe.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2843",
+            "course_name": "American Fiction Since 1945",
+            "description": "ENGL-GA 2843 American Fiction Since 1945 \nExamines works of prose fiction produced in the United States since the end of World War II in 1945.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2844",
+            "course_name": "Contemporary Amer Novel",
+            "description": "ENGL-GA 2844 Contemporary Amer Novel",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2861",
+            "course_name": "Henry James: Major Wks",
+            "description": "ENGL-GA 2861 Henry James: Major Wks",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2867",
+            "course_name": "Modern English Drama",
+            "description": "ENGL-GA 2867 Modern English Drama",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2890",
+            "course_name": "The Humanities in An Era of Global Comparatism",
+            "description": "ENGL-GA 2890 The Humanities in An Era of Global Comparatism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2900",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17476",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Mon 6.20 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Hofmeyr, Isabel"
+                }
+            ],
+            "course_name": "Tpcs in Postcolonial Studies:",
+            "description": "ENGL-GA 2900 Tpcs in Postcolonial Studies: \nIntermediate-level study of literary and theoretical works pertaining to the eras of decolonization and globalization.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2901",
+            "course_name": "Tpcs in Postcolonial Theory",
+            "description": "ENGL-GA 2901 Tpcs in Postcolonial Theory \nIntermediate-level study of literary and theoretical works pertaining to the eras of decolonization and globalization.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2902",
+            "course_name": "Topics in Black Lit:",
+            "description": "ENGL-GA 2902 Topics in Black Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2908",
+            "course_name": "Women and The Novel",
+            "description": "ENGL-GA 2908 Women and The Novel",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2910",
+            "course_name": "Women Poets & Tradition",
+            "description": "ENGL-GA 2910 Women Poets & Tradition",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2911",
+            "course_name": "Gend/Cult Fict Autobio",
+            "description": "ENGL-GA 2911 Gend/Cult Fict Autobio",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2912",
+            "course_name": "Literature & Philosophy",
+            "description": "ENGL-GA 2912 Literature & Philosophy \nMutual influence of ?literary? and philosophical texts; philosophical and rhetorical terminology; poetics, politics, and law; poetics, aesthetics, and hermeneutics; critique, criticism, and deconstruction; theories of fiction and memory.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2913",
+            "course_name": "Literature & Psychology:",
+            "description": "ENGL-GA 2913 Literature & Psychology: \nExamination of the common ground of literature and psychology in the light of modern psychoanalytic theory.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2916",
+            "course_name": "Tpcs in Lit & Mod Cult:",
+            "description": "ENGL-GA 2916 Tpcs in Lit & Mod Cult: \nStudies in the interaction of literature and modern culture.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2917",
+            "course_name": "Topics in Modern Lit & Culture II",
+            "description": "ENGL-GA 2917 Topics in Modern Lit & Culture II \nTopics may include the formal properties of literary modernism, its social and political contexts, or particular modernist authors.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2918",
+            "course_name": "Criticism & Reportage",
+            "description": "ENGL-GA 2918 Criticism & Reportage",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2920",
+            "course_name": "Spec Tpcs Reader Resp",
+            "description": "ENGL-GA 2920 Spec Tpcs Reader Resp",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2924",
+            "course_name": "Mod Brit/Amer Poetry I",
+            "description": "ENGL-GA 2924 Mod Brit/Amer Poetry I \nStudies in major poets, with emphasis on the intrinsic character of poems; Hardy, Hopkins, Yeats, Pound, Stevens, Williams, Eliot, Crane, Auden, Thomas, Lowell, and Hughes.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2925",
+            "course_name": "Mod Brit+Amer Poetry II",
+            "description": "ENGL-GA 2925 Mod Brit+Amer Poetry II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2927",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19273",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Mon 12.30 PM - 2.55 PM",
+                    "open": true,
+                    "professor": "Shaw, Lytle"
+                }
+            ],
+            "course_name": "Topics in Contemp Poetry",
+            "description": "ENGL-GA 2927 Topics in Contemp Poetry \nApproaches to the work of contemporary poets. Context varies yearly.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 2928",
+            "course_name": "Lit of Modern Ireland: Joyce",
+            "description": "ENGL-GA 2928 Lit of Modern Ireland: Joyce",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2930",
+            "course_name": "Modern Drama I",
+            "description": "ENGL-GA 2930 Modern Drama I \nRepresentational drama of Scribe, Hauptmann, Ibsen, Strindberg, Gorki, Chekhov, Wilde, Shaw, O?Casey, O?Neill, Williams, Miller, Albee, and Osborne.; nonrepresentational drama of B?chner, Strindberg, Kaiser, O?Neill, Jarry, Apollinaire, Ibsen, Yeats, Eliot, Brecht, Pirandello, Artaud, Genet, Ionesco, Beckett, and Pinter.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2931",
+            "course_name": "Modern Drama II",
+            "description": "ENGL-GA 2931 Modern Drama II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2932",
+            "course_name": "Mod Dram II:Brecht & Co",
+            "description": "ENGL-GA 2932 Mod Dram II:Brecht & Co",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2934",
+            "course_name": "The Politics of Culture",
+            "description": "ENGL-GA 2934 The Politics of Culture",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2940",
+            "course_name": "Little Magazine",
+            "description": "ENGL-GA 2940 Little Magazine",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2944",
+            "course_name": "The Social Life of Paper",
+            "description": "ENGL-GA 2944 The Social Life of Paper \nConsiders the history, production, circulation, and use of paper in the social production of knowledge, the shared imagination of value, and the mutual relations of consumers and commodities.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2948",
+            "course_name": "Derrida'S Greatest Hits",
+            "description": "ENGL-GA 2948 Derrida'S Greatest Hits",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2950",
+            "course_name": "Intro to Poetic Analysis",
+            "description": "ENGL-GA 2950 Intro to Poetic Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2951",
+            "course_name": "Poetic Language & Prosody",
+            "description": "ENGL-GA 2951 Poetic Language & Prosody",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2952",
+            "course_name": "Poetic Structure & Genre",
+            "description": "ENGL-GA 2952 Poetic Structure & Genre \nPart one: a survey of the classical genres, e.g., epic, pastoral, elegy, and satire; their decline in the 18th century; and, in their place, the rise of the modern lyric. Part two: an examination of the structure of poetic texts, with special attention to their representation of cognitive states and processes.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2953",
+            "course_name": "Major Texts Crit Theory",
+            "description": "ENGL-GA 2953 Major Texts Crit Theory \nMajor texts in critical theory from Plato to the present century are examined in order to raise fundamental questions concerning the origins, nature, and uses of literature.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2954",
+            "course_name": "Contemp Crit Theories:",
+            "description": "ENGL-GA 2954 Contemp Crit Theories: \nComparative examination of major schools of contemporary criticism, American and European, describing the variety of critical perspectives and how they are interrelated.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2955",
+            "course_name": "Topics in Criticism I:",
+            "description": "ENGL-GA 2955 Topics in Criticism I: \nApplication, exemplification, and reception of literary theory; history of criticism and theory. Critical configurations like the division of the public sphere and private space.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2956",
+            "course_name": "Tpcs in Criticism II:",
+            "description": "ENGL-GA 2956 Tpcs in Criticism II: \nApplication, exemplification, and reception of literary theory; history of criticism and theory. Critical configurations like the division of the public sphere and private space.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2957",
+            "course_name": "Topics in Lit Theory I",
+            "description": "ENGL-GA 2957 Topics in Lit Theory I \nContent varies.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2958",
+            "course_name": "Topics in Literary Theory II",
+            "description": "ENGL-GA 2958 Topics in Literary Theory II \nContent varies.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2960",
+            "course_name": "Language of Criticism",
+            "description": "ENGL-GA 2960 Language of Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2961",
+            "course_name": "Rhetorics Trad to Mod",
+            "description": "ENGL-GA 2961 Rhetorics Trad to Mod",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2962",
+            "course_name": "Russ Formalsm+Relat Crit",
+            "description": "ENGL-GA 2962 Russ Formalsm+Relat Crit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2964",
+            "course_name": "Rhetoric/Deconstruction",
+            "description": "ENGL-GA 2964 Rhetoric/Deconstruction \nContinuity/discontinuity of rhetoric and poetics with deconstruction as criticism. First- and second-degree deconstruction. Theory of metaphor and tropes; allegories of reading.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2965",
+            "course_name": "History of Literary Theory & Criticism",
+            "description": "ENGL-GA 2965 History of Literary Theory & Criticism \nClassical, medieval, Renaissance, and neoclassical texts from English and Continental literature.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2966",
+            "course_name": "Critical Theory:",
+            "description": "ENGL-GA 2966 Critical Theory: \nEuropean romantics to contemporary theory, with reference to neoclassicism.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2970",
+            "course_name": "History of the Book",
+            "description": "ENGL-GA 2970 History of the Book",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2971",
+            "course_name": "Practicum in Digital Humanities",
+            "description": "ENGL-GA 2971 Practicum in Digital Humanities",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 2980",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1336",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Wed 3.30 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "McLane, Maureen"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17478",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Tue 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "Fleming, Juliet"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17479",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Thu 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "Fleming, Juliet"
+                }
+            ],
+            "course_name": "Intro to Adv Lit Study",
+            "description": "ENGL-GA 2980 Intro to Adv Lit Study \nAn introduction to major methodological and theoretical approaches to literature and culture through the close reading and contextualization of select literary works.",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1337",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Parikh, Crystal",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Guided Research I",
+            "description": "ENGL-GA 3001 Guided Research I",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3002",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1338",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Parikh, Crystal",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Guided Research II",
+            "description": "ENGL-GA 3002 Guided Research II",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3003",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1339",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Parikh, Crystal",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Guided Research III",
+            "description": "ENGL-GA 3003 Guided Research III",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3005",
+            "course_name": "Guided Research",
+            "description": "ENGL-GA 3005 Guided Research",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3018",
+            "course_name": "Memory, Creativity, &Lit Practice in Middle Ages",
+            "description": "ENGL-GA 3018 Memory, Creativity, &Lit Practice in Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3054",
+            "course_name": "Topics in Rhetoric and Composition",
+            "description": "ENGL-GA 3054 Topics in Rhetoric and Composition",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3154",
+            "course_name": "Studies in Old English Verse & Prose",
+            "description": "ENGL-GA 3154 Studies in Old English Verse & Prose",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3155",
+            "course_name": "Sem: Studies in Beowulf",
+            "description": "ENGL-GA 3155 Sem: Studies in Beowulf",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3198",
+            "course_name": "Topics: History of Rhetoric",
+            "description": "ENGL-GA 3198 Topics: History of Rhetoric",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3223",
+            "course_name": "Sem Post-Symb Poetry: Ezra Pound",
+            "description": "ENGL-GA 3223 Sem Post-Symb Poetry: Ezra Pound",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3268",
+            "course_name": "Chaucer:Seminar",
+            "description": "ENGL-GA 3268 Chaucer:Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3269",
+            "course_name": "Topics in Medieval Lit:",
+            "description": "ENGL-GA 3269 Topics in Medieval Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3270",
+            "course_name": "Topics in Medieval:",
+            "description": "ENGL-GA 3270 Topics in Medieval:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3323",
+            "course_name": "Tpcs in Renaissance Lit",
+            "description": "ENGL-GA 3323 Tpcs in Renaissance Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3324",
+            "course_name": "Tpcs in Renaissance Lit",
+            "description": "ENGL-GA 3324 Tpcs in Renaissance Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3347",
+            "course_name": "Seminar:Shakespeare",
+            "description": "ENGL-GA 3347 Seminar:Shakespeare",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3432",
+            "course_name": "Topics in 17th Cent Lit I:",
+            "description": "ENGL-GA 3432 Topics in 17th Cent Lit I:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3433",
+            "course_name": "Tpcs in 17th Cent Lit II",
+            "description": "ENGL-GA 3433 Tpcs in 17th Cent Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3450",
+            "course_name": "Tpcs in Lit & Visual Arts",
+            "description": "ENGL-GA 3450 Tpcs in Lit & Visual Arts",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3536",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17484",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Mon 3.00 PM - 5.45 PM",
+                    "open": true,
+                    "professor": "Siskin, Clifford"
+                }
+            ],
+            "course_name": "Tpcs/18th Cent Engl Lit",
+            "description": "ENGL-GA 3536 Tpcs/18th Cent Engl Lit",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3537",
+            "course_name": "Adv Doctoral Seminar",
+            "description": "ENGL-GA 3537 Adv Doctoral Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3626",
+            "course_name": "Tpcs in Romantic Lit I",
+            "description": "ENGL-GA 3626 Tpcs in Romantic Lit I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3627",
+            "course_name": "Sem: Topics in Romanticism",
+            "description": "ENGL-GA 3627 Sem: Topics in Romanticism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3629",
+            "course_name": "Topics in Lit Theory:",
+            "description": "ENGL-GA 3629 Topics in Lit Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3636",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17485",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Tue 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "McLane, Maureen"
+                }
+            ],
+            "course_name": "Poetry Unbound",
+            "description": "ENGL-GA 3636 Poetry Unbound",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3650",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17486",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Thu 12.15 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Maynard, John"
+                }
+            ],
+            "course_name": "Tpcs in Victorian Lit I",
+            "description": "ENGL-GA 3650 Tpcs in Victorian Lit I",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3651",
+            "course_name": "Top:in Victorian Lit II",
+            "description": "ENGL-GA 3651 Top:in Victorian Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3700",
+            "course_name": "Tpcs/Lit of Transition I",
+            "description": "ENGL-GA 3700 Tpcs/Lit of Transition I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3701",
+            "course_name": "Topics in Literature of Transition",
+            "description": "ENGL-GA 3701 Topics in Literature of Transition",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3720",
+            "course_name": "Tpcs in Brit Fiction: 1890 - Present",
+            "description": "ENGL-GA 3720 Tpcs in Brit Fiction: 1890 - Present",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3721",
+            "course_name": "Top in Brit Fiction:",
+            "description": "ENGL-GA 3721 Top in Brit Fiction:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3730",
+            "course_name": "Topics in Irish Lit: Yeats, Joyce, Beckett",
+            "description": "ENGL-GA 3730 Topics in Irish Lit: Yeats, Joyce, Beckett",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3802",
+            "course_name": "Tpcs Early Amer Lit",
+            "description": "ENGL-GA 3802 Tpcs Early Amer Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3810",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17600",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 306",
+                    "time": "Wed 12.15 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "Trujillo, Simon"
+                }
+            ],
+            "course_name": "Topics in Amer Lit",
+            "description": "ENGL-GA 3810 Topics in Amer Lit",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3811",
+            "course_name": "Sem:Top Amer Literature Thry 19th Cent Novel",
+            "description": "ENGL-GA 3811 Sem:Top Amer Literature Thry 19th Cent Novel",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3820",
+            "course_name": "Topics in American Lit: 1865-1900",
+            "description": "ENGL-GA 3820 Topics in American Lit: 1865-1900",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3840",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19254",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "244G 306"
+                }
+            ],
+            "course_name": "Topics in Amer Lit:Black Experimentalism",
+            "description": "ENGL-GA 3840 Topics in Amer Lit:Black Experimentalism",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3841",
+            "course_name": "Tpc Amer Lit Since 1900, II",
+            "description": "ENGL-GA 3841 Tpc Amer Lit Since 1900, II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3900",
+            "course_name": "Tpcs in Postcolonial Studies",
+            "description": "ENGL-GA 3900 Tpcs in Postcolonial Studies \nAdvanced study of literary and theoretical works pertaining to the eras of decolonization and globalization.",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3914",
+            "course_name": "Literary Biography",
+            "description": "ENGL-GA 3914 Literary Biography",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3918",
+            "course_name": "Top in Hist of Rhetoric",
+            "description": "ENGL-GA 3918 Top in Hist of Rhetoric",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3920",
+            "course_name": "Topics in Criticism I:",
+            "description": "ENGL-GA 3920 Topics in Criticism I:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3921",
+            "course_name": "Topics in Criticism",
+            "description": "ENGL-GA 3921 Topics in Criticism",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3926",
+            "course_name": "Tpcs in Brit/Amer Lit I",
+            "description": "ENGL-GA 3926 Tpcs in Brit/Amer Lit I",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3927",
+            "course_name": "Tpcs Brit/Amer Poetry II",
+            "description": "ENGL-GA 3927 Tpcs Brit/Amer Poetry II",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3930",
+            "course_name": "Topics Modern Drama",
+            "description": "ENGL-GA 3930 Topics Modern Drama",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3931",
+            "course_name": "Mthds &Concepts Media, Literacy, Hist of Book",
+            "description": "ENGL-GA 3931 Mthds &Concepts Media, Literacy, Hist of Book",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3951",
+            "course_name": "Topics in The History of Production of Knowledge",
+            "description": "ENGL-GA 3951 Topics in The History of Production of Knowledge",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3954",
+            "course_name": "Topics in Poetics",
+            "description": "ENGL-GA 3954 Topics in Poetics",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3955",
+            "course_name": "Old Eng: Beowulf & Its Analogues",
+            "description": "ENGL-GA 3955 Old Eng: Beowulf & Its Analogues",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3957",
+            "course_name": "Tpcs in Crit I:",
+            "description": "ENGL-GA 3957 Tpcs in Crit I:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3958",
+            "course_name": "Tpcs in Criticism: Visual Culture",
+            "description": "ENGL-GA 3958 Tpcs in Criticism: Visual Culture",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3961",
+            "course_name": "Inst of Learning",
+            "description": "ENGL-GA 3961 Inst of Learning",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3970",
+            "course_name": "Dissertation Seminar in British Lit",
+            "description": "ENGL-GA 3970 Dissertation Seminar in British Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3971",
+            "course_name": "Dissertation Seminar in British Literature",
+            "description": "ENGL-GA 3971 Dissertation Seminar in British Literature",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3972",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1340",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 805",
+                    "time": "Fri 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": "Parikh, Crystal"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1778",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "244G 105",
+                    "time": "Mon 9.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Cannon, Christopher"
+                }
+            ],
+            "course_name": "Dissertation Seminar:",
+            "description": "ENGL-GA 3972 Dissertation Seminar:",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 3973",
+            "course_name": "Dissertation Seminar in American Literature",
+            "description": "ENGL-GA 3973 Dissertation Seminar in American Literature",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3974",
+            "course_name": "Adv Doc Sem: Theory",
+            "description": "ENGL-GA 3974 Adv Doc Sem: Theory",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3975",
+            "course_name": "Doctoral Seminar",
+            "description": "ENGL-GA 3975 Doctoral Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3980",
+            "course_name": "Workshop on Professional Practices",
+            "description": "ENGL-GA 3980 Workshop on Professional Practices",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3981",
+            "course_name": "Dissertation Seminar",
+            "description": "ENGL-GA 3981 Dissertation Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 3985",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1798",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.00 AM - 11.00 AM",
+                    "open": true,
+                    "professor": "244G 805"
+                }
+            ],
+            "course_name": "Pedagogy Colloquim",
+            "description": "ENGL-GA 3985 Pedagogy Colloquim",
+            "offering": true
+        },
+        {
+            "course_id": "ENGL-GA 9001",
+            "course_name": "Guided Research",
+            "description": "ENGL-GA 9001 Guided Research",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 9002",
+            "course_name": "Reading and Research in London",
+            "description": "ENGL-GA 9002 Reading and Research in London",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 9730",
+            "course_name": "Topics in Irish Lit",
+            "description": "ENGL-GA 9730 Topics in Irish Lit",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 9731",
+            "course_name": "Topics in Irish Lit:",
+            "description": "ENGL-GA 9731 Topics in Irish Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "ENGL-GA 9930",
+            "course_name": "Contemporary Irish Drama",
+            "description": "ENGL-GA 9930 Contemporary Irish Drama",
+            "offering": false
+        }
+    ]
+}

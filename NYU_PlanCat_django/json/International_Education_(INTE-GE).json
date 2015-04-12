@@ -1,0 +1,494 @@
+{
+    "major_id": "INTE-GE",
+    "file": "./2015-2016/International_Education_(INTE-GE).html",
+    "courses": [
+        {
+            "course_id": "INTE-GE 2007",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3616",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Burde, Dana"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3617",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "BOBS 737"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3618",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "BOBS 737"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4622",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "TISC LC15"
+                }
+            ],
+            "course_name": "Comparative Std Educ I",
+            "description": "INTE-GE 2007 Comparative Std Educ I \nA comparative study of education in developed and emerging nations. Involves the application of a wide range of comparative methodologies to educational systems in different societies.  Emphasis is on the comparative analysis of educational environments and cultures.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2008",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3619",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 102",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Cherng, Hua-Yu; Al-Abbadi, Khaled"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3620",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L111",
+                    "time": "Thu 7.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "Al-Abbadi, Khaled"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3621",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-6",
+                    "time": "Thu 11.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "Al-Abbadi, Khaled"
+                }
+            ],
+            "course_name": "Comparative Std Educ II",
+            "description": "INTE-GE 2008 Comparative Std Educ II \nThis course serves as an introduction to the analytic & empirical methodologies employed in contemporary quantitative analyses of international, comparative, & US education. Across various sub-fields & topics covered in this class, this course will emphasize thoughtful consumption of literature that uses quantitative methods, a basic understanding of the statistics & theory behind different methods, & application of common statistical techniques",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2009",
+            "course_name": "Approaches Study Abroad",
+            "description": "INTE-GE 2009 Approaches Study Abroad \nAn examination of study abroad programs in colleges and universities, including the history and current state of exchange programs in higher education. Focus is on the assessment of study abroad needs for particular institutions, the use of advertising and marketing to promote study abroad programs, the preparation of students who go abroad, and a knowledge of the skills needed to prepare for the study abroad job market.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2023",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4690",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 122",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Spreen, Carol Anne"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4691",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "BOBS 837"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4692",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 7.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "BOBS 837"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4693",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4694",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 7.45 PM - 8.45 PM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                }
+            ],
+            "course_name": "Cross-Cultural Studies of Socialization",
+            "description": "INTE-GE 2023 Cross-Cultural Studies of Socialization \nInterdisciplinary examination of literature in the social sciences and history that locates in cultural those factors that shape and influence human behavior and social development.  Emphasis is on cross-cultural comparison of socialization as a specific area of culture.  Case studies are drawn from child rearing, informal and formal education, rituals, rites of passage, and culture and personality theory.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2025",
+            "course_name": "Comparative Studies of Socialization",
+            "description": "INTE-GE 2025 Comparative Studies of Socialization \nInterdisciplinary examination of literature in the social sciences and history that compares social development and human behavior in different social systems and more than one historical setting.  The interrelationship of education to the family and other social institutions is examined historically.  Focus is on studies that define people by the social institutions in which they work and live.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2027",
+            "course_name": "",
+            "description": "INTE-GE 2027\n\n   Intl Perspectives On Gender and Education\n\nOverview of major discussions and debates relative to gender and education in both 'developed' and 'developing' countries. Examines theoretical understandings of gender, and the intersection of gender, schooling and global social justice. Key issues include gender and education internationally, specifically the educational status of girls and women, empowerment and education, and the role of boys and men in promoting gender equality. Also examines innovative strategies to 'undo' gender, including the role of international donor agencies, the State, and NGOs. Course concludes by studying the ro...\n\n      more description for INTE-GE 2027 \u00bb\n\n      \n\n\n\nOverview of major discussions and debates relative to gender and education in both 'developed' and 'developing' countries. Examines theoretical understandings of gender, and the intersection of gender, schooling and global social justice. Key issues include gender and education internationally, specifically the educational status of girls and women, empowerment and education, and the role of boys and men in promoting gender equality. Also examines innovative strategies to 'undo' gender, including the role of international donor agencies, the State, and NGOs. Course concludes by studying the role of teachers and innovative educational programs.\n\n      less description for INTE-GE 2027 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2028",
+            "course_name": "",
+            "description": "INTE-GE 2028\n\n   Comparative Politics, Education, and Conflict\n\nExplores the politics of civil conflict, peace-building, and the role of education in promising violence or peace. Explores the role of external actors (international organizations, bilateral donors, non governmental organizations), local actors (civil society associations, nationalist and ideological state factions), and their influence on education systems during was and emerging peace. Readings and discussion will focus on humanitarian action, human rights and development, nationalism and ethnic conflict, the political economy of post-conflict education, and the politics of promoting educat...\n\n      more description for INTE-GE 2028 \u00bb\n\n      \n\n\n\nExplores the politics of civil conflict, peace-building, and the role of education in promising violence or peace. Explores the role of external actors (international organizations, bilateral donors, non governmental organizations), local actors (civil society associations, nationalist and ideological state factions), and their influence on education systems during was and emerging peace. Readings and discussion will focus on humanitarian action, human rights and development, nationalism and ethnic conflict, the political economy of post-conflict education, and the politics of promoting education in early reconstruction and peace-building. Case studies will include Afghanistan, Colombia, Sierra Leone, Pakistan, and West Bank/Gaze, but students will be encouraged to explore cases of their choosing.\n\n      less description for INTE-GE 2028 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2030",
+            "course_name": "",
+            "description": "INTE-GE 2030\n\n   Good Work in The Era of Globalization\n\nIn this advanced interdisciplinary and comparative graduate seminar we shall explore Good Work in the Era of Globalization by delving in basic social science work in research anthropology, research sociology, and research psychology. We shall do so critically examining various basic texts on globalization and various notions of the good life. After a series of lectures introducing advanced graduate students to the Good Work Project led by Professor Howard Gardner and the Globalization and Learning project led by Prof. Suarez-Orozco, we will turn our focus to basic scholarship in different regi...\n\n      more description for INTE-GE 2030 \u00bb\n\n      \n\n\n\nIn this advanced interdisciplinary and comparative graduate seminar we shall explore Good Work in the Era of Globalization by delving in basic social science work in research anthropology, research sociology, and research psychology. We shall do so critically examining various basic texts on globalization and various notions of the good life. After a series of lectures introducing advanced graduate students to the Good Work Project led by Professor Howard Gardner and the Globalization and Learning project led by Prof. Suarez-Orozco, we will turn our focus to basic scholarship in different regions of the world. We shall focus on two broad areas of the world - Asia and the Americas and one or two areas of work (such as journalism and medicine) will be probed in some depth. At the conclusion of the seminar, we will consider how educational institutions can mediate and modulate the potent forces of globalization.\n\n      less description for INTE-GE 2030 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2173",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17010",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.40 PM",
+                    "open": true,
+                    "professor": "7E12 LL25"
+                }
+            ],
+            "course_name": "Contemp Int'L Relations: Peace/Security Educ",
+            "description": "INTE-GE 2173 Contemp Int'L Relations: Peace/Security Educ \nExamination of the movement toward defensive strategies and the stabilization of military competition in Europe and the Third World.  Focus is on citizen education, understanding and involvement in decisions concerning possible shifts to defensive strategies, and their impact on policies to lessen military confrontation.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2174",
+            "course_name": "Contemp Int'L Relations: Peace & Security Educ II",
+            "description": "INTE-GE 2174 Contemp Int'L Relations: Peace & Security Educ II",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2297",
+            "course_name": "Sem in Asian Studies I",
+            "description": "INTE-GE 2297 Sem in Asian Studies I",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2298",
+            "course_name": "Sem in Asian Studies II",
+            "description": "INTE-GE 2298 Sem in Asian Studies II",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3622",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hosay, Philip",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4463",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Burde, Dana",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4567",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Cherng, Hua-Yu",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4853",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "King, Elisabeth",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "19551",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Spreen, Carol Anne",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "INTE-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2545",
+            "course_name": "Interdisc Perspectives On The New Immigration",
+            "description": "INTE-GE 2545 Interdisc Perspectives On The New Immigration \nImmigration has continually shaped notions of race & ethnicity throughout the history of the United States. Focusing on immigration post-1960s but building off of a foundation of research on early race relations in the US, this course serves as an introduction to different theoretical & empirical scholarship on race/ethnicity & immigration. Topics include immigrant adaptation/assimilation,  social mobility, panethnicity, & the shifting construction of racial categories.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2802",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3623",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Friedman, Jonathan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Field Study & Sem in Int'L Ed",
+            "description": "INTE-GE 2802 Field Study & Sem in Int'L Ed \nDesigned for graduate students who wish to serve as interns in international and intercultural settings.  Permission to register is based on evaluation of each student's proposal outlining the nature of the study.  Requirements include the maintenance of a log describing activities and a research project based on the work experience.  Open by special permission to other School of Education students.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2803",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3624",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 122",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Arcilla, Rene; Hosay, Philip"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3625",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 836",
+                    "time": "Mon 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "Friedman, Jonathan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3626",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL148",
+                    "time": "Mon 6.45 PM - 7.45 PM",
+                    "open": true,
+                    "professor": "Pai, Grace"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3627",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 836",
+                    "time": "Mon 8.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Friedman, Jonathan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "3628",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL148",
+                    "time": "Mon 8.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Pai, Grace"
+                }
+            ],
+            "course_name": "International Education",
+            "description": "INTE-GE 2803 International Education \nExamination of seminal concepts in cross-cultural communication and in global analysis.  Focus is on the development of the field of international education and its mission as interpreted by various exponents in different cultural contexts.  Course content is drawn from a variety of social science disciplines as well as from education.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2804",
+            "course_name": "",
+            "description": "INTE-GE 2804\n\n   Int'L Ed & Cult Rela\n\nExamination of educational and cultural exchange programs that  disseminate information to foreign countries about a nation's policies, institutions, culture and values.  Focus is on the development of international information programs, the purposes of exchange programs, and the relationship between government and private educational and cultural communities.  Case studies are drawn from such organizations as the United Nations Department of Public Information, the United States Information Agency, the Council on International Exchange of Scholars, the Institute of International Education, an...\n\n      more description for INTE-GE 2804 \u00bb\n\n      \n\n\n\nExamination of educational and cultural exchange programs that  disseminate information to foreign countries about a nation's policies, institutions, culture and values.  Focus is on the development of international information programs, the purposes of exchange programs, and the relationship between government and private educational and cultural communities.  Case studies are drawn from such organizations as the United Nations Department of Public Information, the United States Information Agency, the Council on International Exchange of Scholars, the Institute of International Education, and the Academy for Educational Development.\n\n      less description for INTE-GE 2804 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2805",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4631",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTE-GE 2805\n\n   Globalization & Educ\n\nThe course examines the conceptual and empirical work on the social, cultural, and economic aspects of globalization and their implications for education. We shall explore education in light of: 1) the increasing de-territorialization of cultural formations; 2) the emergence of global markets along with the post-nationalization of the production and distribution of goods and services -- with a concomitant premiss on knowledge -- intensive work;  3) new information and communication technologies which are reshaping the structure and meaning of work, belonging and community; 4) unprecedented pop...\n\n      more description for INTE-GE 2805 \u00bb\n\n      \n\n\n\nThe course examines the conceptual and empirical work on the social, cultural, and economic aspects of globalization and their implications for education. We shall explore education in light of: 1) the increasing de-territorialization of cultural formations; 2) the emergence of global markets along with the post-nationalization of the production and distribution of goods and services -- with a concomitant premiss on knowledge -- intensive work;  3) new information and communication technologies which are reshaping the structure and meaning of work, belonging and community; 4) unprecedented population movements and worldwide immigration. We shall examine recent conceptual work, in globalization and its relationships to human experience with a focus on youth.\n\n      less description for INTE-GE 2805 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2806",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3629",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 369",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Halpern, Joann"
+                }
+            ],
+            "course_name": "The Practice of International Education",
+            "description": "INTE-GE 2806 The Practice of International Education \nPractices and applications of the various areas of international education at the tertiary level of the United States. Examines key areas in the field: international student and scholar services; study abroad; international recruitment and admissions; institutional linkages; and governance, development, leadership, and protocol.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2809",
+            "course_name": "Int'L Studies in Human Rights Education",
+            "description": "INTE-GE 2809 Int'L Studies in Human Rights Education \nExamination of international human rights standards and principals, using case studies to analyze violations of basic human rights programs. Emphasis is on the role of international and local NGOs (non-governmental organizations) in the human rights movement, and the role of education in promoting human rights. Considers different approaches to teaching human rights in both formal and non-formal educational settings.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2811",
+            "course_name": "",
+            "description": "INTE-GE 2811\n\n   The Global Curriculum Internationalization of Higher Education in the United States\n\nThis course examines historical & contemporary issues surrounding the internationalization of higher education in the United States, focusing on how the production of knowledge about international issues changes according to transformations in global political, economic, social, & cultural contexts. The course first establishes a theoretical foundation in issues related to the production of knowledge, national interests, universities, & globalization & education & then turns to the history of university internationalization in the U.S. Readings & discussion will trace the early \u201cborrowing\u201d of ...\n\n      more description for INTE-GE 2811 \u00bb\n\n      \n\n\n\nThis course examines historical & contemporary issues surrounding the internationalization of higher education in the United States, focusing on how the production of knowledge about international issues changes according to transformations in global political, economic, social, & cultural contexts. The course first establishes a theoretical foundation in issues related to the production of knowledge, national interests, universities, & globalization & education & then turns to the history of university internationalization in the U.S. Readings & discussion will trace the early \u201cborrowing\u201d of educational models from Europe, the historical development of the U.S. research university, the establishment of area studies centers after World War II, the explosion of student interest in study abroad, & the increasing establishment of satellite campuses & university partnerships in places such as the Persian Gulf & Singapore.\n\n      less description for INTE-GE 2811 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2812",
+            "course_name": "Cross Cultural Ed for The Global Economy",
+            "description": "INTE-GE 2812 Cross Cultural Ed for The Global Economy \nExamination of models of cross-cultural education programs offered in the United States and abroad. Focus is on the basic cultural assumptions of different approaches to cross-cultural training in a global economy.  Explores the possibilities of developing a model program for multinational corporations, foundations, and governmental organizations that design, develop, and implement cross-cultural training programs for persons in international settings.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2815",
+            "course_name": "International Approaches to Restorative Justice and Education",
+            "description": "INTE-GE 2815 International Approaches to Restorative Justice and Education \nWhat should be our educational response to crimes & human rights violations?  How might educational programs appropriately deal with an ugly history &/ or prevent current of future transgression?  Those questions serve as a launching point for inquiry into the intersection or education & restorative justice.  Among the themes of our close reading & discussions will be the role of truth & reconciliation efforts, education for or against responsibility &/ or guilt, education for forgiveness, public shaming, retributive justice, & the historical and international context of these & more.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2819",
+            "course_name": "Int'L Ethics:Rights Respons Obligations",
+            "description": "INTE-GE 2819 Int'L Ethics:Rights Respons Obligations \nAn examination of a global ethic. A history of the origin of human rights, including the Declaration of Independence, the Declaration of the Rights of Man, and the Declaration of Human Rights.  Examinations of responsibility as the ethical basis of rights and obligations. Case studies in the 20th century violations of rights and attempts to secure rights.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2861",
+            "course_name": "Tech Assist in Ed Abrd: Theory & Practice I",
+            "description": "INTE-GE 2861 Tech Assist in Ed Abrd: Theory & Practice I \nAnalysis of the problems of transferring educational techniques, strategies, and institutions from one cultural area to another.  Emphasis is on understanding the receiving culture and its views of assistance and intervention in its domestic affairs.  Case Studies are drawn from experiences of the Peace corps, AID, the United Nations Development Program, and other nonprofit and government agencies.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 2862",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4766",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 621",
+                    "time": "Wed 2.00 PM - 3.40 PM",
+                    "open": true,
+                    "professor": "King, Elisabeth"
+                }
+            ],
+            "course_name": "International Dev Educ",
+            "description": "INTE-GE 2862 International Dev Educ \nAnalysis of the problems of transferring educational techniques, strategies, and institutions from one cultural area to another.  Emphasis is on understanding the receiving culture and its views of assistance and intervention in its domestic affairs.  Case Studies are drawn from experiences of the Peace corps, AID, the United Nations Development Program, and other nonprofit and government agencies.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 2878",
+            "course_name": "United Nations at Work",
+            "description": "INTE-GE 2878 United Nations at Work \nExamines the role of voluntary international non governmental organizations (INGOs) in the United Nations system.  Focus on analyzing the organization and operation of INGOs, assessing their impact on local-to-global linkages, lobbying nation-states, and bringing attention to such cross-national problems as human rights, world hunger, women in development, peace and security.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 3097",
+            "course_name": "Content Seminar in Int'L Ed I",
+            "description": "INTE-GE 3097 Content Seminar in Int'L Ed I \nA culminating and integrating experience designed to provide doctoral students writing their dissertations the opportunity to discuss and probe the broader aspects of international development education, global and cross-cultural education, and public diplomacy.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 3098",
+            "course_name": "Content Sem in Int'L Ed II",
+            "description": "INTE-GE 3098 Content Sem in Int'L Ed II \nA culminating and integrating experience designed to provide doctoral students writing their dissertations the opportunity to discuss and probe the broader aspects of international development education, global and cross-cultural education, and public diplomacy.",
+            "offering": false
+        },
+        {
+            "course_id": "INTE-GE 3801",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4763",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMB 301",
+                    "time": "Tue 1.45 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Hosay, Philip"
+                }
+            ],
+            "course_name": "Research in Int'L Ed I",
+            "description": "INTE-GE 3801 Research in Int'L Ed I \nA review of current research and the development of research projects based on previous training and course work.  Focus on evaluating research in such areas as education in other cultures, global communications, modernization, educational transfer, and international cultural relations.",
+            "offering": true
+        },
+        {
+            "course_id": "INTE-GE 3802",
+            "course_name": "Research in Int'L Ed II",
+            "description": "INTE-GE 3802 Research in Int'L Ed II \nA review of current research and the development of research projects based on previous training and course work.  Focus on evaluating research in such areas as education in other cultures, global communications, modernization, educational transfer, and international cultural relations.",
+            "offering": false
+        }
+    ]
+}

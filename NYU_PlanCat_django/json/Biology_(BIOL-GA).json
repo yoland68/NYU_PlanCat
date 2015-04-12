@@ -1,0 +1,854 @@
+{
+    "major_id": "BIOL-GA",
+    "file": "./2015-2016/Biology_(BIOL-GA).html",
+    "courses": [
+        {
+            "course_id": "BIOL-GA 1001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1191",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV G08",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Hochwagen, Andreas; Li, Fei"
+                }
+            ],
+            "course_name": "Bio Core I: Molecules & Cells",
+            "description": "BIOL-GA 1001 Bio Core I: Molecules & Cells \nThis intensive team-taught core course, which is required for incoming M.S. and Ph.D. biology students, surveys the major topics of up-to-date molecular and cellular biology, starting with molecular structure and function of proteins and polynucleic acids and ending with cell division and apoptosis. These topics are taught by biology faculty with expertise in each area. This course is part of a suite of courses that includes a companion, discussion-based, 2000-level course following the same topics each week (Bio Core 3).",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1002",
+            "course_name": "Bio Core II: Genes, Systems & Evolution",
+            "description": "BIOL-GA 1002 Bio Core II: Genes, Systems & Evolution \nThis intensive team-taught core course surveys the major topics of modern biology, including genetics, systematics, genomics, systems biology, developmental genetics, plant biology, immunology, neurobiology, population genetics, evolution, and geobiology. The course is designed to build on and incorporate the molecular/cell focus of the preceding course. These topics are taught by biology faculty with expertise in each area. This course is part of a suite of courses that includes a companion, discussion-based, 2000-level course following the same topics each week (Bio Core 4).",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1004",
+            "course_name": "Environmental Health",
+            "description": "BIOL-GA 1004 Environmental Health \nDiscusses some of the basic concepts of environmental science and major global environmental problems, such as global warming, soil erosion, overpopulation, and loss of biota. Another part of the course focuses on environmental health problems, such as exposure to lead, mercury, halogenated hydrocarbons, asbestos, and radon. Other lectures are devoted to carcinogenesis, air pollution, toxic wastes, epidemiology, and risk assessment.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1192",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "7E12 125",
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Wirgin, Isaac"
+                }
+            ],
+            "course_name": "Ecotoxicology: Hudson River Case Study",
+            "description": "BIOL-GA 1005 Ecotoxicology: Hudson River Case Study",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1006",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1193",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 803",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Zelikoff, Judith"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1783",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 803",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Zelikoff, Judith"
+                }
+            ],
+            "course_name": "Toxicology",
+            "description": "BIOL-GA 1006 Toxicology \nIntroduction to the science of toxicology, stressing basic concepts essential to understanding the action of exogenous chemical agents on biological systems. Principles underlying the absorption, metabolism, and elimination of chemicals are discussed. Toxicokinetics, specific classes of toxic responses, and experimental methods used to assess toxicity are also examined.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1007",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1194",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC19",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Gunsalus, Kristin; Katari, Manpreet"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1867",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC19",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Gunsalus, Kristin; Katari, Manpreet"
+                }
+            ],
+            "course_name": "",
+            "description": "BIOL-GA 1007\n\n   Programming for Biologists\n\nThis course provides introductory theory and hands-on training in bioinformatics for graduate students or advanced undergraduates in biology who have no prior computational experience.  Knowledge of foundational concepts and practical applications acquired in this course will provide a starting point for further advanced study in bioinformatics and computational biology. Hands-on exercises will introduce students to the Linux operating system and provide basic computer programming skills as applied to bioinformatics, using Python. Topics covered: pairwise and multiple sequence alignment, BLAST...\n\n      more description for BIOL-GA 1007 \u00bb\n\n      \n\n\n\nThis course provides introductory theory and hands-on training in bioinformatics for graduate students or advanced undergraduates in biology who have no prior computational experience.  Knowledge of foundational concepts and practical applications acquired in this course will provide a starting point for further advanced study in bioinformatics and computational biology. Hands-on exercises will introduce students to the Linux operating system and provide basic computer programming skills as applied to bioinformatics, using Python. Topics covered: pairwise and multiple sequence alignment, BLAST and related algorithms, sequence motifs, Hidden Markov Models, gene expression analysis, and resources for functional associations (gene ontology, pathways and networks).\n\n      less description for BIOL-GA 1007 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1009",
+            "course_name": "Biological Databases & Datamining",
+            "description": "BIOL-GA 1009 Biological Databases & Datamining \nThe course is divided into three sections: 1) Introduction to MySQL and R. 2) Introduction to different data types, and 3) Machine learning methods for data mining. Students will learn to create their own database using MySQL and SQLite containing different types of biological data. Students will also learn to mine the heterogeneous biological data using machine-learning methods such as Support Vector Machines and Multiple Regressions. We will apply these methods on experimental data in order to classify and prediction gene function and regulation.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1011",
+            "course_name": "Advanced Immunology:",
+            "description": "BIOL-GA 1011 Advanced Immunology: \nIntroduction to immunology and its literature. Focuses on the mechanisms that govern the immune response and also trains students in reading and evaluating primary research articles that are published in peer-reviewed journals.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1020",
+            "course_name": "Adv Top Cell/Molec Immun",
+            "description": "BIOL-GA 1020 Adv Top Cell/Molec Immun \nIn-depth exploration of a topic in cellular and molecular aspects of immunity, including cellular interactions, antigen processing and presentation, pathogenesis, viral immunology, and cytokines.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1022",
+            "course_name": "",
+            "description": "BIOL-GA 1022\n\n   Cornerstones of the Central Dogma\n\nA single scientific paper can create or revolutionize an entire field.  Each week we will critically evaluate a single paper that made a lasting impact on molecular biology.  Focus will be on the methodological innovation and scientific rigor that underlies these seminal works.  The subsequent interactive lecture will explore a research topic suggested by the discussion paper, tracing it to the 21st century through the guided analysis of 2-3 key papers.  Despite its focus on classic literature, this course is not simply historical:  the major emphasis in both the discussion and lecture compone...\n\n      more description for BIOL-GA 1022 \u00bb\n\n      \n\n\n\nA single scientific paper can create or revolutionize an entire field.  Each week we will critically evaluate a single paper that made a lasting impact on molecular biology.  Focus will be on the methodological innovation and scientific rigor that underlies these seminal works.  The subsequent interactive lecture will explore a research topic suggested by the discussion paper, tracing it to the 21st century through the guided analysis of 2-3 key papers.  Despite its focus on classic literature, this course is not simply historical:  the major emphasis in both the discussion and lecture components will be on fundamental biological questions, experimental design, and the interpretation of data.\n\n      less description for BIOL-GA 1022 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1023",
+            "course_name": "",
+            "description": "BIOL-GA 1023\n\n   Hot Topics Microbiology & Infectious Diseases\n\nThe relationship between microbial pathogens and their human hosts is continuously changing.  Although our immune system has become extremely sophisticated throughout evolution, microbes are also evolving at a fast rate to overcome host defenses.  The development of techniques, such as sanitation and vaccination, and the discovery of antimicrobial drugs, such as antibiotics, has revolutionized medicine.   However, even though some infectious diseases have been eradicated (e.g., smallpox), others that were on the verge of extinction are re-emerging (e.g., TB) and new ones have gained prominence...\n\n      more description for BIOL-GA 1023 \u00bb\n\n      \n\n\n\nThe relationship between microbial pathogens and their human hosts is continuously changing.  Although our immune system has become extremely sophisticated throughout evolution, microbes are also evolving at a fast rate to overcome host defenses.  The development of techniques, such as sanitation and vaccination, and the discovery of antimicrobial drugs, such as antibiotics, has revolutionized medicine.   However, even though some infectious diseases have been eradicated (e.g., smallpox), others that were on the verge of extinction are re-emerging (e.g., TB) and new ones have gained prominence (e.g., AIDS).  This course is designed as a detailed survey of some of the most important human pathogens.  It investigates these agents in detail and includes the most cutting edge basic research findings as well as epidemiology, treatment and prevention of infections.\n\n      less description for BIOL-GA 1023 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1031",
+            "course_name": "Spc Topics in Physiology",
+            "description": "BIOL-GA 1031 Spc Topics in Physiology \nDesigned for students with a background in mammalian physiology. Topics include reproduction biology, regulation of ion and water excretion, maintenance and control of cardiovascular function, and respiratory physiology.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1045",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19100",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 102",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hochwagen, Andreas"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19968",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 102",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hochwagen, Andreas"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20027",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "194M 203"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20028",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                }
+            ],
+            "course_name": "Protein Biochemistry",
+            "description": "BIOL-GA 1045 Protein Biochemistry",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1051",
+            "course_name": "Cell Biology:",
+            "description": "BIOL-GA 1051 Cell Biology: \nExamination of the molecular mechanisms underlying cell proliferation and differentiation. Five topics are chosen for discussion: signal transduction, regulation of cell cycle, cytoskeleton, cell-cell and cell-matrix interaction, and intracellular transport. The importance of these issues in the understanding of development, immunity, and cancer is emphasized.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1069",
+            "course_name": "Principles of Evolution",
+            "description": "BIOL-GA 1069 Principles of Evolution \nPatterns of evolution and adaptation as seen in the paleontological record; speciation, extinction, and the geographic distribution of populations; the basics of population genetics and molecular evolution. Elements of numerical taxonomy and recent developments in phylogenetic systematics.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1080",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1858",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Tue 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Reiss, Carol"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1860",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Tue 8.00 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Reiss, Carol"
+                }
+            ],
+            "course_name": "Animal Virology",
+            "description": "BIOL-GA 1080 Animal Virology \nDetails the molecular life cycles of viruses that infect mammalian cells. Topics covered include disease pathogenesis, immune evasion mechanisms, vaccination, and genetic immunization vectors.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1082",
+            "course_name": "Genes & Animal Behavior",
+            "description": "BIOL-GA 1082 Genes & Animal Behavior \nSurvey of principles and patterns of animal behavior. Covers classical ethological research of Lorenz and others and modern research on the molecular basis of behavior, especially in model systems. Behaviors studied include reproductive behavior, rhythmic behavior, learning and memory, and feeding behavior.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1101",
+            "course_name": "Neuronal Plasticity",
+            "description": "BIOL-GA 1101 Neuronal Plasticity \nIntroductory survey of neuronal plasticity and the principles of neuroanatomy, pharmacology, and development of the brain and spinal cord. Presents various forms of plasticity from regeneration to neuronal transplantation. Topics include dynamic instability, addiction, depression, hibernation, spinal injury, and Alzheimer?s disease. Covers the role of neurotransmitters and growth factors in regulating brain plasticity. Stresses interactions between neurons, astroglial cells, and other nonneuronal cells. Summarizes animal and human studies of functional and structural recovery.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1122",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1195",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 607",
+                    "time": "Mon,Wed 11.00 AM - 3.30 PM",
+                    "open": true,
+                    "professor": "Kirov, Nikolai"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1196",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 607",
+                    "time": "Mon,Wed 3.30 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "Kirov, Nikolai"
+                }
+            ],
+            "course_name": "Lab Molecular Biology I",
+            "description": "BIOL-GA 1122 Lab Molecular Biology I \nAnalyzes selective developmental systems using recombinant DNA techniques. Purification of nucleic acids from eukaryotes and prokaryotes; bacteria transformation; restriction enzyme analysis; immobilization of nucleic acids on nitrocellulose membrane; and DNA-DNA, DNA-RNA hybridization.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1123",
+            "course_name": "Lab Molecular Biology II",
+            "description": "BIOL-GA 1123 Lab Molecular Biology II \nAnalyzes selective developmental systems using recombinant DNA techniques. Purification of nucleic acids from eukaryotes and prokaryotes; bacteria transformation; restriction enzyme analysis; immobilization of nucleic acids on nitrocellulose membrane; and DNA-DNA, DNA-RNA hybridization.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1124",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1197",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rushlow, Christine",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lab in Molecular Bio III",
+            "description": "BIOL-GA 1124 Lab in Molecular Bio III \nAnalyzes selective developmental systems using recombinant DNA techniques. Purification of nucleic acids from eukaryotes and prokaryotes; bacteria transformation; restriction enzyme analysis; immobilization of nucleic acids on nitrocellulose membrane; and DNA-DNA, DNA-RNA hybridization.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1125",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1198",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rushlow, Christine",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lab Molecular Biology IV",
+            "description": "BIOL-GA 1125 Lab Molecular Biology IV \nAnalyzes selective developmental systems using recombinant DNA techniques. Purification of nucleic acids from eukaryotes and prokaryotes; bacteria transformation; restriction enzyme analysis; immobilization of nucleic acids on nitrocellulose membrane; and DNA-DNA, DNA-RNA hybridization.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1126",
+            "course_name": "Advanced Genetics",
+            "description": "BIOL-GA 1126 Advanced Genetics \nIn-depth study of experimental genetics from Mendel to the present, emphasizing methods and logic of the genetic approach to biological research. Covers classical experiments on inheritance, chromosomes and genetic linkage, genetic variability, mutagenesis, DNA, and the nature of the genetic code. Special topics from both classic and recent literature include (but are not limited to) genetic screens, epistasis analysis, suppressors/enhancers, and mosaic analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1127",
+            "course_name": "",
+            "description": "BIOL-GA 1127\n\n   Bioinformatics & Genomes\n\nThe recent explosion in the availability of genome-wide data such as whole genome sequences and microarray data led to a vast increase in bioinformatics research and tool development. Bioinformatics is becoming a cornerstone for modern biology, especially in fields such as genomics. It is thus crucial to understand the basic ideas and to learn fundamental bioinformatics techThe recent explosion in the availability of genome-wide data such as whole genome sequences and microarray data led to a vast increase in bioinformatics research and tool development. Bioinformatics is becoming a cornerston...\n\n      more description for BIOL-GA 1127 \u00bb\n\n      \n\n\n\nThe recent explosion in the availability of genome-wide data such as whole genome sequences and microarray data led to a vast increase in bioinformatics research and tool development. Bioinformatics is becoming a cornerstone for modern biology, especially in fields such as genomics. It is thus crucial to understand the basic ideas and to learn fundamental bioinformatics techThe recent explosion in the availability of genome-wide data such as whole genome sequences and microarray data led to a vast increase in bioinformatics research and tool development. Bioinformatics is becoming a cornerstone for modern biology, especially in fields such as genomics. It is thus crucial to understand the basic ideas and to learn fundamental bioinformatics techniques. The emphasis of this course is on developing not only an understanding of existing tools but also the programming and statistics skills that allow students to solve new problems in a creative way.\n\n      less description for BIOL-GA 1127 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1128",
+            "course_name": "Systems Biology",
+            "description": "BIOL-GA 1128 Systems Biology \nIntroduction to genomic methods for acquiring and analyzing genomic DNA sequence. Topics: genomic approaches to determining gene function, including determining genome-wide expression patterns; the use of genomics for disease-gene discovery and epidemiology; the emerging fields of comparative genomics and proteomics; and applications of genomics to the pharmaceutical and agbiotech sectors. Throughout the course, the computational methods for analysis of genomic data is stressed.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1129",
+            "course_name": "Evolutionary Genetics & Genomics",
+            "description": "BIOL-GA 1129 Evolutionary Genetics & Genomics \nThe genetic and genomic mechanisms underlying evolutionary change, including the genetics of adaptation and character regression; evolution of complex characters and traits such as organ systems, the senses, and patterns of behavior; methods for the study of quantitative trait locus (QTL) variation and multifactorial systems.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1130",
+            "course_name": "",
+            "description": "BIOL-GA 1130\n\n   Appl Genomics: Intro to Bioinformtcs &Netwrk Mod\n\nThis course introduces fundamental methods of analyzing large data sets from genomics experiments. Through a combination of lectures, hands-on computational training, and in-depth discussions of current scientific papers, students learn the conceptual foundations of basic analytical methods, the computational skills to implement these methods, and the reasoning skills to read critically the primary literature in genomics. Analysis focuses on data from genome-wide studies of gene expression using microarrays and from genome-wide studies of molecular interactions. Methods covered include cluster...\n\n      more description for BIOL-GA 1130 \u00bb\n\n      \n\n\n\nThis course introduces fundamental methods of analyzing large data sets from genomics experiments. Through a combination of lectures, hands-on computational training, and in-depth discussions of current scientific papers, students learn the conceptual foundations of basic analytical methods, the computational skills to implement these methods, and the reasoning skills to read critically the primary literature in genomics. Analysis focuses on data from genome-wide studies of gene expression using microarrays and from genome-wide studies of molecular interactions. Methods covered include clustering, multiple-hypothesis testing, and network inference. A large part of the course is dedicated to students completing an individual project that is tailored to meet their background and training.\n\n      less description for BIOL-GA 1130 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1131",
+            "course_name": "",
+            "description": "BIOL-GA 1131\n\n   Biophysical Modeling of Cells & Populations\n\nThis course covers modeling of biological systems at multiple levels.  The first part of the course begins with some basic molecular biology, including cooperative binding and simple induction of genes.   A general approach to quantitative modeling of transcriptional regulation is developed and then applied to study small genetic circuits with feedback loops.  Pattern formation and the mechanisms by which cells perceive spatial information from chemical signals are studied, and  how biological systems can function robustly in the face of noise is investigated.   In the second part of the cours...\n\n      more description for BIOL-GA 1131 \u00bb\n\n      \n\n\n\nThis course covers modeling of biological systems at multiple levels.  The first part of the course begins with some basic molecular biology, including cooperative binding and simple induction of genes.   A general approach to quantitative modeling of transcriptional regulation is developed and then applied to study small genetic circuits with feedback loops.  Pattern formation and the mechanisms by which cells perceive spatial information from chemical signals are studied, and  how biological systems can function robustly in the face of noise is investigated.   In the second part of the course, cellular behaviors within heterogeneous populations are studied; also, population models are introduced (and relate the population models to the molecular/cellular models of the first part of the course).  Diverse biological examples will be presented over the course of the semester to illustrate key concepts in modeling.\n\n      less description for BIOL-GA 1131 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 1501",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1199",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1200",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1875",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1876",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "CIWW 312"
+                }
+            ],
+            "course_name": "Math in Medicine/Biology",
+            "description": "BIOL-GA 1501 Math in Medicine/Biology \nDiscussion of topics of medical importance using mathematics as a tool: control of the heart, optimal principles in the lung, cell membranes, electrophysiology, countercurrent exchange in the kidney, acid-base balance, muscle, cardiac catheterization; computer diagnosis. Material from the physical sciences and mathematics is introduced and developed.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 1502",
+            "course_name": "Computers in Medicine & Biology",
+            "description": "BIOL-GA 1502 Computers in Medicine & Biology \nIntroduces students of biology or mathematics to the use of computers as tools for modeling physiological phenomena. Each student constructs two computer models selected from the following: circulation, gas exchange in the lung, control of cell volume, and the renal countercurrent mechanism.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2003",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1201",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 1008",
+                    "time": "Wed 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Li, Fei"
+                }
+            ],
+            "course_name": "Bio Core III: Molecules & Cells/Discussion Based",
+            "description": "BIOL-GA 2003 Bio Core III: Molecules & Cells/Discussion Based \nThis intensive team-taught course complements the lecture course Bio Core 1 by providing in-depth discussions of modern papers on topics related to those addressed in Bio Core 1, i.e., molecular and cellular biology from molecular structure and function of proteins/nucleic acids to cell division and apoptosis. These discussions are led by the same faculty who teach the corresponding lectures in Bio Core 1 and who have deep expertise in each area. This course is part of the suite of courses Bio Core 1-4.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2004",
+            "course_name": "Bio Core IV: Genes, Systems & Evolution",
+            "description": "BIOL-GA 2004 Bio Core IV: Genes, Systems & Evolution \nThis intensive team-taught course complements the lecture course Bio Core 2 by providing in-depth discussions of modern papers on topics related to those addressed in Bio Core 2, i.e., genetics, systematics, genomics, systems biology, development, plants, immunology, neurobiology, evolution, and geobiology. These discussions are led by the same faculty who teach the corresponding lectures in Bio Core 2 and who have deep expertise in each area. This course is part of the suite of courses Bio Core 1-4.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2015",
+            "course_name": "",
+            "description": "BIOL-GA 2015\n\n   Genomics and Public Health\n\nThis course describes the developing relationship between genomics and\n genomic technologies with\n the health of populations in a global context. Topics covered include\n genomic technologies and their\n applications, genetic epidemiology, the human microbiome, infectious\n disease genomics, and the\n ethical, legal and social implications of genomics. The course\n consists of lectures, group discussions\n focused on current scientific papers, guest seminars, and a hands-on\n sequencing workshop. Students\n will leave the course with an increased awareness of how sequencing of\n microbes, pa...\n\n      more description for BIOL-GA 2015 \u00bb\n\n      \n\n\n\nThis course describes the developing relationship between genomics and\n genomic technologies with\n the health of populations in a global context. Topics covered include\n genomic technologies and their\n applications, genetic epidemiology, the human microbiome, infectious\n disease genomics, and the\n ethical, legal and social implications of genomics. The course\n consists of lectures, group discussions\n focused on current scientific papers, guest seminars, and a hands-on\n sequencing workshop. Students\n will leave the course with an increased awareness of how sequencing of\n microbes, parasites and\n human genomes helps develop better diagnostics and therapies and a\n greater understanding of\n human health globally.\n PREREQUISITES\n Students that are not Biology majors or who have not taken Biocore I\n (BIOL-GA.1001) should contact\n the Instructor prior to enrollment to discuss their academic\n background in biology.\n\n      less description for BIOL-GA 2015 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2017",
+            "course_name": "",
+            "description": "BIOL-GA 2017\n\n   Structure-Function Relat in Cellular Macromolecul\n\nCellular macromolecules, particularly nucleic acids and proteins, are the key molecules that provide cells with functional diversity. The nucleic acids DNA and RNA act as the informational storage and transmission molecules of cells, while proteins execute and regulate most cellular activities and provide crucial structural elements. The tools of the biochemist and molecular biologist have provided scientists with unprecedented structural detail of these macromolecules, so much so that an understanding of the critical relationships between macromolecular structure and macromolecular function c...\n\n      more description for BIOL-GA 2017 \u00bb\n\n      \n\n\n\nCellular macromolecules, particularly nucleic acids and proteins, are the key molecules that provide cells with functional diversity. The nucleic acids DNA and RNA act as the informational storage and transmission molecules of cells, while proteins execute and regulate most cellular activities and provide crucial structural elements. The tools of the biochemist and molecular biologist have provided scientists with unprecedented structural detail of these macromolecules, so much so that an understanding of the critical relationships between macromolecular structure and macromolecular function can now be made. This course emphasizes key structure-function relationships for DNA, RNA, and proteins. The detailed structures of these molecules are examined; important methods and tools used to elucidate their structural elements are described; and the relationshipCellular macromolecules, particularly nucleic acids and proteins, are the key molecules that provide cells with functional diversity. The nucleic acids DNA and RNA act as the informational storage and transmission molecules of cells, while proteins execute and regulate most cellular activities and provide crucial structural elements. The tools of the biochemist and molecular biologist have provided scientists with unprecedented structural detail of these macromolecules, so much so that an understanding of the critical relationships between macromolecular structure and macromolecular function can now be made. This course emphasizes key structure-function relationships for DNA, RNA, and proteins. The detailed structures of these molecules are examined; important methods and tools used to elucidate their structural elements are described; and the relationship between microstructure and function are emphasized.\n\n      less description for BIOL-GA 2017 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2021",
+            "course_name": "Biomaterials -- Tissue Interface II",
+            "description": "BIOL-GA 2021 Biomaterials -- Tissue Interface II",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2024",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2455",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "Dasanayake, Ananda; Cools, Juliana",
+                    "time": "Thu 5.00 PM - 7.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Tissue Interface I",
+            "description": "BIOL-GA 2024 Tissue Interface I",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2026",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2456",
+                    "section": "001",
+                    "period": "09/04/2015 - 12/18/2015",
+                    "location": "Ricci, John; Mijares, Dindo; Bromage, Timothy",
+                    "time": "Fri 1.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Introduction to Electron Microscopy",
+            "description": "BIOL-GA 2026 Introduction to Electron Microscopy",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2027",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1202",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Host Response to Infection & Trauma",
+            "description": "BIOL-GA 2027 Host Response to Infection & Trauma",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2028",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2457",
+                    "section": "001",
+                    "period": "09/14/2015 - 12/14/2015",
+                    "location": "Ricci, John; Mijares, Dindo",
+                    "time": "Mon 5.00 PM - 7.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Introduction to Research",
+            "description": "BIOL-GA 2028 Introduction to Research",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2029",
+            "course_name": "Metal and Ceramic Biomaterials",
+            "description": "BIOL-GA 2029 Metal and Ceramic Biomaterials",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2030",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1857",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC19 with Katari, Manpreet; Tranchina, Daniel09/02/2015 - 12/15/2015 Mon 11.00 AM - 12.15 PM at WAVE 369",
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Katari, Manpreet; Tranchina, Daniel"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "2310",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "TISC LC19"
+                }
+            ],
+            "course_name": "Statistics in Biology",
+            "description": "BIOL-GA 2030 Statistics in Biology \nAdvanced course on techniques of statistical analysis and experimental design that are useful in research and in the interpretation of biology literature. Principles of statistical inference, the design of experiments, and analysis of data are taught using examples drawn from the literature. Covers the use of common parametric and nonparametric distributions for the description of data and the testing of hypotheses.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2040",
+            "course_name": "Molecular and Genetic Toxicology",
+            "description": "BIOL-GA 2040 Molecular and Genetic Toxicology \nAnalyzes the modes by which organisms handle damage to DNA by physical and chemical agents, the mechanisms of converting damage to mutations, and the theoretical basis for carcinogenesis screening methods utilizing mutagenesis. Topics include systems for mutagenesis testing, mutational spectra, and inducible responses to DNA damage.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2042",
+            "course_name": "Genetic Susceptibility & Toxicogenomics",
+            "description": "BIOL-GA 2042 Genetic Susceptibility & Toxicogenomics",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2048",
+            "course_name": "Integrative Seminars in Oral Biology I: Oral Systemic Connections",
+            "description": "BIOL-GA 2048 Integrative Seminars in Oral Biology I: Oral Systemic Connections",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2049",
+            "course_name": "Integrative Seminars in Oral Biology II: Bone Biology & Craniofacial Development",
+            "description": "BIOL-GA 2049 Integrative Seminars in Oral Biology II: Bone Biology & Craniofacial Development",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2128",
+            "course_name": "Stem Cell Biology",
+            "description": "BIOL-GA 2128 Stem Cell Biology",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2130",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1203",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Developmental Systems I",
+            "description": "BIOL-GA 2130 Developmental Systems I \nExplores fundamental questions, concepts, and methodologies of modern inquiry into the genetic and epigenetic mechanisms of development through lectures, readings in the primary literature, and laboratory work. Topics include embryonic axis determination, region-specific gene expression, cell specification through cell-cell interaction, gastrulation, and organogenesis.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2131",
+            "course_name": "Developmental Systems II",
+            "description": "BIOL-GA 2131 Developmental Systems II \nFundamental questions, concepts, and methodologies of modern inquiry into the genetic and epigenetic mechanisms of development are explored through lectures, readings in the primary literature, and laboratory work.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2220",
+            "course_name": "Neurobiology",
+            "description": "BIOL-GA 2220 Neurobiology",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2221",
+            "course_name": "Developmental Neurobiology",
+            "description": "BIOL-GA 2221 Developmental Neurobiology \nRecent advances in genetic model systems as well as the development of new tools in vertebrate embryology have allowed much insight into the development of the central nervous system (CNS). This course focuses on the development of well-studied central nervous systems through a comparison of invertebrate and vertebrate species. It provides an in-depth description of the molecular and cellular mechanisms that pattern the CNS. Topics include cell specification, synapse formation, and use-dependent plasticity.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2303",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1204",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC11",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Zhong, Hua"
+                }
+            ],
+            "course_name": "Intro to Biostatistics",
+            "description": "BIOL-GA 2303 Intro to Biostatistics \nIntroduction to probability and statistical methods utilized in the analysis and interpretation of experimental and epidemiologic data. Statistical techniques associated with the normal, binomial, Poisson, t, F, and chi-squared distributions, plus an introduction to nonparametric methods. Applications in biology, medicine, and the health sciences.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2310",
+            "course_name": "Principles of Toxicology",
+            "description": "BIOL-GA 2310 Principles of Toxicology \nBroad introduction to the science of toxicology, stressing basic concepts essenBroad introduction to the science of toxicology, stressing basic concepts essential to the understanding of the action of exogenous chemical agents on biological systems. Principles underlying the absorption, metabolism, and elimination of chemicals are discussed. Toxicokinetics, specific classes of toxic responses, and experimental methods used to assess toxicity are reviewed.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2520",
+            "course_name": "Issues in Global Pediatric Oral Health",
+            "description": "BIOL-GA 2520 Issues in Global Pediatric Oral Health",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2851",
+            "course_name": "Advanced tpcs in Math Biology",
+            "description": "BIOL-GA 2851 Advanced tpcs in Math Biology",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2852",
+            "course_name": "Advanced Tpcs in Math Biology",
+            "description": "BIOL-GA 2852 Advanced Tpcs in Math Biology",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 2855",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1205",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1314",
+                    "time": "Wed 2.30 PM - 4.20 PM",
+                    "open": true,
+                    "professor": "Rinzel, John"
+                }
+            ],
+            "course_name": "Special Topics in Math: Physiology",
+            "description": "BIOL-GA 2855 Special Topics in Math: Physiology",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 2856",
+            "course_name": "Special Topics in Math: Physiology",
+            "description": "BIOL-GA 2856 Special Topics in Math: Physiology",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3001",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1206",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 10.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "BOBS LL145"
+                }
+            ],
+            "course_name": "The Art of Scientific Investigation",
+            "description": "BIOL-GA 3001 The Art of Scientific Investigation \nThis course in the ethics and communication of scientific research is designed to complement the more information-based courses offered by the Depart-ment of Biology and equips Ph.D. students with the necessary skills to conduct research ethically and to be aware of the ethical and societal implications of their research. The course also trains students in effective scientific communication through paper writing and presenting research to specialist and nonspecialist audiences and in fellowship and grant writing.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3013",
+            "course_name": "Immunology Journal Club: Topic:",
+            "description": "BIOL-GA 3013 Immunology Journal Club: Topic:",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3014",
+            "course_name": "Biochemistry Journal Clu",
+            "description": "BIOL-GA 3014 Biochemistry Journal Clu",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3015",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1207",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 1003",
+                    "time": "Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Birnbaum, Kenneth"
+                }
+            ],
+            "course_name": "Pre-Doctoral Colloquium",
+            "description": "BIOL-GA 3015 Pre-Doctoral Colloquium \nStudents gain experience in the preparation and presentation of formal scientific seminars.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3025",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2253",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL149",
+                    "time": "Fri 12.30 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Reiss, Carol"
+                }
+            ],
+            "course_name": "NYU-STEP Individual Development Plan",
+            "description": "BIOL-GA 3025 NYU-STEP Individual Development Plan \nA ten week introduction for trainees to explore their interests, strengths, goals, and career options.  Initially, each participant will complete myIDP online and then discuss their results.  In addition, panel discussions with professionals in different potential jobs and strategies for job searches will be included.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3034",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1208",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Birnbaum, Kenneth",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Predoc Col Srvy Lab Mthd",
+            "description": "BIOL-GA 3034 Predoc Col Srvy Lab Mthd \nFirst term: Students attend orientation sessions with individual faculty to discuss current departmental research.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3035",
+            "course_name": "Predoc Col Srvy Lab Mthd",
+            "description": "BIOL-GA 3035 Predoc Col Srvy Lab Mthd \nSecond term: Each student arranges to complete three projects (six to eight weeks in duration), each under the supervision of a different faculty member, in the department?s laboratories.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3303",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1209",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rushlow, Christine",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research",
+            "description": "BIOL-GA 3303 Research \nIndividual research projects carried out under the supervision of the faculty.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3304",
+            "course_name": "Research",
+            "description": "BIOL-GA 3304 Research \nIndividual research projects carried out under the supervision of the faculty.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3305",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1210",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rushlow, Christine",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading",
+            "description": "BIOL-GA 3305 Reading \nReading and analysis of selected literature in a specific area of biology under the supervision of the faculty. Gives students intensive coverage of material that is appropriate for their individual research needs.",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3306",
+            "course_name": "Reading",
+            "description": "BIOL-GA 3306 Reading \nReading and analysis of selected literature in a specific area of biology under the supervision of the faculty. Gives students intensive coverage of material that is appropriate for their individual research needs.",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3350",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2085",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Individual Research in Oral Biology I",
+            "description": "BIOL-GA 3350 Directed Individual Research in Oral Biology I",
+            "offering": true
+        },
+        {
+            "course_id": "BIOL-GA 3351",
+            "course_name": "Directed Individual Research in Oral Biology II",
+            "description": "BIOL-GA 3351 Directed Individual Research in Oral Biology II",
+            "offering": false
+        },
+        {
+            "course_id": "BIOL-GA 3352",
+            "course_name": "Directed Individual Research in Oral Biology III",
+            "description": "BIOL-GA 3352 Directed Individual Research in Oral Biology III",
+            "offering": false
+        }
+    ]
+}

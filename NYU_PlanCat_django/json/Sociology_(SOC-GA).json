@@ -1,0 +1,1228 @@
+{
+    "major_id": "SOC-GA",
+    "file": "./2015-2016/Sociology_(SOC-GA).html",
+    "courses": [
+        {
+            "course_id": "SOC-GA 1116",
+            "course_name": "Critical Thry of Society",
+            "description": "SOC-GA 1116 Critical Thry of Society",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2000",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "SILV 404"
+                }
+            ],
+            "course_name": "Design of Social Research",
+            "description": "SOC-GA 1301 Design of Social Research",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 1401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2001",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "25W4 C-15"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2010",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "12WV L111"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2094",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "12WV L111"
+                }
+            ],
+            "course_name": "Applied Quantitative Analysis I",
+            "description": "SOC-GA 1401 Applied Quantitative Analysis I",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 1402",
+            "course_name": "Applied Quantitive Analysis II",
+            "description": "SOC-GA 1402 Applied Quantitive Analysis II",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1432",
+            "course_name": "Sociology of Religion",
+            "description": "SOC-GA 1432 Sociology of Religion",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1442",
+            "course_name": "Sociology Internl Rltns",
+            "description": "SOC-GA 1442 Sociology Internl Rltns",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1443",
+            "course_name": "Makg Socty Thr Politics",
+            "description": "SOC-GA 1443 Makg Socty Thr Politics",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1501",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2002",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "25W4 C-17"
+                }
+            ],
+            "course_name": "Proseminar",
+            "description": "SOC-GA 1501 Proseminar",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 1502",
+            "course_name": "Proseminar",
+            "description": "SOC-GA 1502 Proseminar",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1514",
+            "course_name": "Zionism & Health",
+            "description": "SOC-GA 1514 Zionism & Health",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1604",
+            "course_name": "Survey Research Methods",
+            "description": "SOC-GA 1604 Survey Research Methods",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1616",
+            "course_name": "Revolutions in The Islamic Near East",
+            "description": "SOC-GA 1616 Revolutions in The Islamic Near East",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1617",
+            "course_name": "Sociology of Islam",
+            "description": "SOC-GA 1617 Sociology of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1618",
+            "course_name": "Shi'Hite Islam",
+            "description": "SOC-GA 1618 Shi'Hite Islam",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1822",
+            "course_name": "Prblms Contmpry Fr Scty",
+            "description": "SOC-GA 1822 Prblms Contmpry Fr Scty",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1824",
+            "course_name": "Religion in French Society",
+            "description": "SOC-GA 1824 Religion in French Society",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1901",
+            "course_name": "Data Mgmt for Social Scientists & Pros",
+            "description": "SOC-GA 1901 Data Mgmt for Social Scientists & Pros",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1903",
+            "course_name": "Data Analysis",
+            "description": "SOC-GA 1903 Data Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 1998",
+            "course_name": "Independent Study: MA Thesis",
+            "description": "SOC-GA 1998 Independent Study: MA Thesis",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2000",
+            "course_name": "Sociology of Teaching & Learning: a Practicum",
+            "description": "SOC-GA 2000 Sociology of Teaching & Learning: a Practicum",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2072",
+            "course_name": "Comparativ Media Systems",
+            "description": "SOC-GA 2072 Comparativ Media Systems",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2102",
+            "course_name": "Social Psychology",
+            "description": "SOC-GA 2102 Social Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2103",
+            "course_name": "Social Psychology II",
+            "description": "SOC-GA 2103 Social Psychology II",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2110",
+            "course_name": "Hist of Social Theory",
+            "description": "SOC-GA 2110 Hist of Social Theory",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2111",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1732",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "295L 4155"
+                }
+            ],
+            "course_name": "Classical Theory",
+            "description": "SOC-GA 2111 Classical Theory \nExamines major figures of modern sociology, including Marx, Durkheim, Weber, and Simmel. Focuses on the conditions and assumptions of social theory, the process of concept formation and theory building, general methodological issues, and the present relevance of the authors examined. An effort is made to speculate on the nature of the growth of knowledge in sociology.",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2112",
+            "course_name": "Selected Traditions & Authors in Soc Theory",
+            "description": "SOC-GA 2112 Selected Traditions & Authors in Soc Theory",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2113",
+            "course_name": "Systemic Social Theory",
+            "description": "SOC-GA 2113 Systemic Social Theory",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2114",
+            "course_name": "Critical Prob Soc Theory",
+            "description": "SOC-GA 2114 Critical Prob Soc Theory",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2115",
+            "course_name": "Contemporary Theory: Basic",
+            "description": "SOC-GA 2115 Contemporary Theory: Basic",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2121",
+            "course_name": "Research Colloquium",
+            "description": "SOC-GA 2121 Research Colloquium",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2132",
+            "course_name": "Organizations",
+            "description": "SOC-GA 2132 Organizations",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2133",
+            "course_name": "Comp Modern Societies",
+            "description": "SOC-GA 2133 Comp Modern Societies",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2135",
+            "course_name": "Race and Ethnicity",
+            "description": "SOC-GA 2135 Race and Ethnicity",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2137",
+            "course_name": "Social Stratification",
+            "description": "SOC-GA 2137 Social Stratification \nAssesses the research and theoretical work on economic inequality and classes in the social sciences. Reviews important classic contributions (including Marx, Weber, and Schumpeter), compares competing approaches (including Marxist, conflict, functionalist, elite, and status attainment theories), and surveys modern directions of development (such as labor market studies, socialist inequality, the role of the state).",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2139",
+            "course_name": "Population",
+            "description": "SOC-GA 2139 Population",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2140",
+            "course_name": "Sociology of The Middle East",
+            "description": "SOC-GA 2140 Sociology of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2141",
+            "course_name": "Social Change:",
+            "description": "SOC-GA 2141 Social Change:",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2145",
+            "course_name": "Sociology Global Hist, Dimensions & Dynamics",
+            "description": "SOC-GA 2145 Sociology Global Hist, Dimensions & Dynamics \nExamines the process of globalization in its historical trajectory; its economic, political, and social dimensions; and its theoretical, cultural, and ideological representations. Focuses on the dialectics of global-local interaction and its consequences for the production of new categories of knowledge, academic disciplines, and methods.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2147",
+            "course_name": "Objects, Consumption, Desires",
+            "description": "SOC-GA 2147 Objects, Consumption, Desires",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2151",
+            "course_name": "Communications",
+            "description": "SOC-GA 2151 Communications",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2153",
+            "course_name": "Social Movements",
+            "description": "SOC-GA 2153 Social Movements \nSurveys controversies and research issues and topics in social movements. Topics include classical, economic, resource mobilization, political process, and political opportunity theories of social protest movements; so-called new social movements; and issues of identity formation. Analyzes recent thinking and research concerning the consequences or impact of social protest movements, including the U.S. civil rights movement, labor movements, neopopulist movements, and revolutionary movements.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2160",
+            "course_name": "Deviance & Soc Control",
+            "description": "SOC-GA 2160 Deviance & Soc Control \nCumulative development and changing emphasis in deviance theory. Major methods of research and analytic models. Ecological anomie and subculture, functionalist, learning, and conflict perspectives. The social reactions approach: labeling processes and deviance amplification, organizational processing, and collective struggles over deviance definitions. Disputes over ?labeling.? Political and public policy implications of deviance sociology.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2161",
+            "course_name": "Social Policy",
+            "description": "SOC-GA 2161 Social Policy",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2211",
+            "course_name": "Socialization",
+            "description": "SOC-GA 2211 Socialization",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2227",
+            "course_name": "Sex and Gender",
+            "description": "SOC-GA 2227 Sex and Gender \nCritically assesses the research and theoretical work on gender inequality in the social sciences. Provides a sophisticated, scholarly grasp of this fast developing field. Topics include the origins of gender inequality, economic equality between the sexes, political inequality, reproduction and child rearing, sexuality, violence, and ideology. Compares the competing theories of the causes of gender inequality and of changes in inequality.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2244",
+            "course_name": "Adv Tpcs Food Studies: Food Sociology",
+            "description": "SOC-GA 2244 Adv Tpcs Food Studies: Food Sociology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2270",
+            "course_name": "Globalization & Europeanization",
+            "description": "SOC-GA 2270 Globalization & Europeanization",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2302",
+            "course_name": "Data Generating and Theorizing",
+            "description": "SOC-GA 2302 Data Generating and Theorizing",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2303",
+            "course_name": "Qualitative Research",
+            "description": "SOC-GA 2303 Qualitative Research \nSupervised experience in activities and techniques of qualitative, naturalistic field methods like observation, interviewing, and participant observation. Exploratory work may lead to an empirical dissertation project.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2304",
+            "course_name": "Concpt Formation & Theorizing",
+            "description": "SOC-GA 2304 Concpt Formation & Theorizing",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2307",
+            "course_name": "Research Form & Design",
+            "description": "SOC-GA 2307 Research Form & Design",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2308",
+            "course_name": "Historical Compara Mthds",
+            "description": "SOC-GA 2308 Historical Compara Mthds \nOverview of issues in historical and comparative methodology in macro-sociology: methods of and current controversies in historical and comparative sociology; debates about what makes sociology ?historical? to debates about the benefits of techniques, such as qualitative comparative analysis; analysis of recent macrosociological investigations in sociology, employing comparative and historical methods.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2309",
+            "course_name": "Survey Design & Conduct",
+            "description": "SOC-GA 2309 Survey Design & Conduct",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2310",
+            "course_name": "Social Indicators",
+            "description": "SOC-GA 2310 Social Indicators",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2311",
+            "course_name": "Sample Design",
+            "description": "SOC-GA 2311 Sample Design",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2312",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2133",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Advanced Multivariate Statistics",
+            "description": "SOC-GA 2312 Advanced Multivariate Statistics \nMatrix formulation of regression, probit, and logit. Simultaneous equation systems, exploratory and confirmatory factor analysis, measurement models, loglinear models, time-series, and panel analysis. Pooling methods.",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2313",
+            "course_name": "Math Models in Sociology",
+            "description": "SOC-GA 2313 Math Models in Sociology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2314",
+            "course_name": "Longitudinal Statistics",
+            "description": "SOC-GA 2314 Longitudinal Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2321",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1733",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Apprenticeship",
+            "description": "SOC-GA 2321 Research Apprenticeship",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2322",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1734",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Apprenticeship",
+            "description": "SOC-GA 2322 Research Apprenticeship",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2323",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1735",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research Apprenticeship",
+            "description": "SOC-GA 2323 Research Apprenticeship",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2324",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1736",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rsch Apprenticeship IV",
+            "description": "SOC-GA 2324 Rsch Apprenticeship IV",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2325",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1737",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rsch Apprenticeship V",
+            "description": "SOC-GA 2325 Rsch Apprenticeship V",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2326",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1738",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rsch Apprenticeship VI",
+            "description": "SOC-GA 2326 Rsch Apprenticeship VI",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2330",
+            "course_name": "Intro to Methods of Sociological Research",
+            "description": "SOC-GA 2330 Intro to Methods of Sociological Research",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2331",
+            "course_name": "Methods & Statistics I",
+            "description": "SOC-GA 2331 Methods & Statistics I \nThis two-semester sequence provides an introduction to quantitative research in sociology, integrating the study of research methods and statistics. The first semester introduces basic methodological issues and basic statistics. The second semester introduces multivariate techniques, emphasizing application through the study of one social science data set",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2332",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1901",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1902",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "12WV L111"
+                }
+            ],
+            "course_name": "Intro to Statistics",
+            "description": "SOC-GA 2332 Intro to Statistics \nThis two-semester sequence provides an introduction to quantitative research in sociology, integrating the study of research methods and statistics. The first semester introduces basic methodological issues and basic statistics. The second semester introduces multivariate techniques, emphasizing application through the study of one social science data set",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2333",
+            "course_name": "Statistics & Methods III",
+            "description": "SOC-GA 2333 Statistics & Methods III",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2401",
+            "course_name": "Medical Sociology",
+            "description": "SOC-GA 2401 Medical Sociology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2407",
+            "course_name": "Sociology of Education",
+            "description": "SOC-GA 2407 Sociology of Education \nSociological perspective on American education. Topics include the social context of socialization and learning; the effects of schooling; desegregation and social inequality; teachers as unionized professionals; school politics and bureaucracy; and selected policy issues confronting American education. Emphasis is on American institutions, although comparative perspectives are discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2410",
+            "course_name": "Labor & Society",
+            "description": "SOC-GA 2410 Labor & Society",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2411",
+            "course_name": "Industrial Sociology",
+            "description": "SOC-GA 2411 Industrial Sociology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2412",
+            "course_name": "",
+            "description": "SOC-GA 2412\n\n   Sociology of Occupations\n\nIntroduction to occupational analysis, its relation to class and organizational theory, the changing occupation distribution of the labor force, and theories explaining it and predicting its future. Considers impact on work commitment, identity, solidarity, status and career, and systematic mIntroduction to occupational analysis, its relation to class and organizational theory, the changing occupation distribution of the labor force, and theories explaining it and predicting its future. Considers impact on work commitment, identity, solidarity, status and career, and systematic methods of anal...\n\n      more description for SOC-GA 2412 \u00bb\n\n      \n\n\n\nIntroduction to occupational analysis, its relation to class and organizational theory, the changing occupation distribution of the labor force, and theories explaining it and predicting its future. Considers impact on work commitment, identity, solidarity, status and career, and systematic mIntroduction to occupational analysis, its relation to class and organizational theory, the changing occupation distribution of the labor force, and theories explaining it and predicting its future. Considers impact on work commitment, identity, solidarity, status and career, and systematic methods of analyzing occupations.\n\n      less description for SOC-GA 2412 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2413",
+            "course_name": "Worker Self Management",
+            "description": "SOC-GA 2413 Worker Self Management",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2414",
+            "course_name": "Sociology of Culture",
+            "description": "SOC-GA 2414 Sociology of Culture \nSurvey of major approaches to the sociology of culture and the use of cultural theory in sociological analysis generally. Specific topics include cultural institutions, the relationship of popular to elite culture, different media of cultural communication and expression, historical transformations of culture (including debates over postmodernism), cultural hegemony and domination, and cultural politics. Authors whose works are studied include Raymond Williams, Stuart Hall, Pierre Bourdieu, Paul Gilroy, Paul DiMaggio, and Charles Taylor.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2415",
+            "course_name": "Sociology of Arts",
+            "description": "SOC-GA 2415 Sociology of Arts",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2416",
+            "course_name": "Sociology of Childhood",
+            "description": "SOC-GA 2416 Sociology of Childhood",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2418",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17377",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Sociology of Science",
+            "description": "SOC-GA 2418 Sociology of Science",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2419",
+            "course_name": "Sociology of Morality",
+            "description": "SOC-GA 2419 Sociology of Morality",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2422",
+            "course_name": "Sociology of Knowledge",
+            "description": "SOC-GA 2422 Sociology of Knowledge \nReviews and evaluates important perspectives on the relationship between knowledge and social structure. Focuses on a number of research strategies concerned with types of knowledge and knowledge-systems, codes and symbols, the manipulation of knowledge for social and political purposes, the study of ideologies, and the major factors in knowledge production.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2432",
+            "course_name": "Socio of Religion",
+            "description": "SOC-GA 2432 Socio of Religion",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2434",
+            "course_name": "Sociology of Law:",
+            "description": "SOC-GA 2434 Sociology of Law: \nTheoretical perspectives and research strategies in the sociology of law. Topics include the development of legal norms, legal participation and litigiousness, law and dispute resolution, the courts, the organization of public law enforcement, the legal profession, the relationship between social and legal change, and the use of law in social engineering.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2435",
+            "course_name": "Society & Economy",
+            "description": "SOC-GA 2435 Society & Economy \nExamines the relationship between economic institutions and other social institutions. Considers how economic life influences and is affected by political organizations, the logic of organizational functioning, kinship systems, class conflict, and other social phenomena. Materials include classical theoretical works and contemporary studies.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2441",
+            "course_name": "Political Sociology",
+            "description": "SOC-GA 2441 Political Sociology \nSurveys controversies and research topics in political sociology. At the center of these investigations are states and power. Explores concepts of power and the theories of the state. Topics are the formation of states, political institutions, and social policies and the determinants and outcomes of collective action.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2442",
+            "course_name": "Adv Research On Political Sociology",
+            "description": "SOC-GA 2442 Adv Research On Political Sociology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2451",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16764",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "295L 4155"
+                }
+            ],
+            "course_name": "Family",
+            "description": "SOC-GA 2451 Family \nSystematic introduction to the literature on family and kinship. Includes classical theories and examines the major areas of contemporary research. Topics include family formation, social reciprocity, family dissolution, the history oSystematic introduction to the literature on family and kinship. Includes classical theories and examines the major areas of contemporary research. Topics include family formation, social reciprocity, family dissolution, the history of the family, and a comparison of general theoretical paradigms.",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2463",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16765",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Urban Sociology",
+            "description": "SOC-GA 2463 Urban Sociology \nIntroduction to the field of urban sociology that looks at the interplay between studies of city life and theories about cities. Traces the development of modern American cities; examines the theories that emerged to explain the causes and consequences of urbanization; and analyzes the social, political, and economic processes of community growth and decline among urban and suburban residents.",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 2464",
+            "course_name": "Comp Urban Politics & Policy",
+            "description": "SOC-GA 2464 Comp Urban Politics & Policy",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2503",
+            "course_name": "Criminology",
+            "description": "SOC-GA 2503 Criminology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2508",
+            "course_name": "Sociology of Punishment",
+            "description": "SOC-GA 2508 Sociology of Punishment",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2510",
+            "course_name": "Contemp Pol Theory & Law",
+            "description": "SOC-GA 2510 Contemp Pol Theory & Law",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2520",
+            "course_name": "Sociology of Contemp Ireland",
+            "description": "SOC-GA 2520 Sociology of Contemp Ireland",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2521",
+            "course_name": "Women and The Law",
+            "description": "SOC-GA 2521 Women and The Law",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 2588",
+            "course_name": "Soc Control & The State",
+            "description": "SOC-GA 2588 Soc Control & The State",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2191",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Interdisciplinary Sem:Sociology of Conflict and War",
+            "description": "SOC-GA 3000 Interdisciplinary Sem:Sociology of Conflict and War",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3001",
+            "course_name": "Sem in Public Sociology",
+            "description": "SOC-GA 3001 Sem in Public Sociology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3110",
+            "course_name": "Sem Soc Thry: Mod & Hist",
+            "description": "SOC-GA 3110 Sem Soc Thry: Mod & Hist",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3111",
+            "course_name": "Sem in Soc Theory",
+            "description": "SOC-GA 3111 Sem in Soc Theory",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3112",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1739",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2130",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "295L 4155"
+                }
+            ],
+            "course_name": "Seminar:Research and Writing Seminar",
+            "description": "SOC-GA 3112 Seminar:Research and Writing Seminar \nAdvanced analysis of one or two sociological theorists or traditions, considering the origins, major claims, and current debates over their status (e.g., Marxism, Foucault, Merton, Bourdieu, Habermas).",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3113",
+            "course_name": "Adv Sem Selected Themes in Soc Theory:",
+            "description": "SOC-GA 3113 Adv Sem Selected Themes in Soc Theory: \nAdvanced analysis of a particular theoretical question, looking at how varying authors and traditions have attempted to answer it; reviews historical and contemporary debates.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3115",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2189",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Adv Seminar in Contemporary Social Theory:Marxist Theory",
+            "description": "SOC-GA 3115 Adv Seminar in Contemporary Social Theory:Marxist Theory \nTopics in sociological theory since World War II, including structural functionalism, interpretive approaches, rational choice theory, Marxism, critical theory, European developments, and the theoretical eclecticism of the discipline.",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3116",
+            "course_name": "Seminar in Politics, Culture, & Social Theory",
+            "description": "SOC-GA 3116 Seminar in Politics, Culture, & Social Theory \nAn in-depth exploration of one or more core themes linking culture, politics and social theory; for example, Enlightenment and Romanticism, secularism, cosmopolitanism, humanitarianism, punishment and social control, nationalism or democracy.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3117",
+            "course_name": "Adv Sem in Politics, Culture, & Social Theory",
+            "description": "SOC-GA 3117 Adv Sem in Politics, Culture, & Social Theory \nA seminar devoted to the advancement of graduate student research projects engaging core themes linking politics, culture and social theory. Prerequisite: G93.3116 or permission of the instructor.",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3137",
+            "course_name": "Adv Research Seminar",
+            "description": "SOC-GA 3137 Adv Research Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3153",
+            "course_name": "Sem: Social Movements",
+            "description": "SOC-GA 3153 Sem: Social Movements",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3204",
+            "course_name": "Adv Sem in Soc Psyc",
+            "description": "SOC-GA 3204 Adv Sem in Soc Psyc",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3223",
+            "course_name": "Methods & Statistics II",
+            "description": "SOC-GA 3223 Methods & Statistics II",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3227",
+            "course_name": "Sem: Gender & Welfare State",
+            "description": "SOC-GA 3227 Sem: Gender & Welfare State",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3306",
+            "course_name": "Seminar Research Methods:",
+            "description": "SOC-GA 3306 Seminar Research Methods:",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3402",
+            "course_name": "Science & Culture",
+            "description": "SOC-GA 3402 Science & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3407",
+            "course_name": "Sem: The Cult of Science",
+            "description": "SOC-GA 3407 Sem: The Cult of Science",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3411",
+            "course_name": "Sem in Sociology of Work",
+            "description": "SOC-GA 3411 Sem in Sociology of Work",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3414",
+            "course_name": "Soc of Occupatns/Profns",
+            "description": "SOC-GA 3414 Soc of Occupatns/Profns",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3441",
+            "course_name": "Sem in Macrosociology:",
+            "description": "SOC-GA 3441 Sem in Macrosociology:",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3442",
+            "course_name": "Seminar in Political Soc",
+            "description": "SOC-GA 3442 Seminar in Political Soc",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3451",
+            "course_name": "Research Seminar:Gender, Family & Social Change",
+            "description": "SOC-GA 3451 Research Seminar:Gender, Family & Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3462",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2192",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Seminar:Sociology of Morality",
+            "description": "SOC-GA 3462 Seminar:Sociology of Morality",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3463",
+            "course_name": "Research Seminar On Organizations",
+            "description": "SOC-GA 3463 Research Seminar On Organizations",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3503",
+            "course_name": "Research Seminar: Criminology",
+            "description": "SOC-GA 3503 Research Seminar: Criminology",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3513",
+            "course_name": "Criminology Rsch Seminar",
+            "description": "SOC-GA 3513 Criminology Rsch Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3514",
+            "course_name": "Sem On Gender & Deviance",
+            "description": "SOC-GA 3514 Sem On Gender & Deviance",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3534",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2190",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Seminar:Social Networks",
+            "description": "SOC-GA 3534 Seminar:Social Networks",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3543",
+            "course_name": "Gender Politics & Law",
+            "description": "SOC-GA 3543 Gender Politics & Law",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3901",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1740",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Dissertation I",
+            "description": "SOC-GA 3901 Doctoral Dissertation I",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3902",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1741",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Dissertation II",
+            "description": "SOC-GA 3902 Doctoral Dissertation II",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3903",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1742",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doct Dissertation III",
+            "description": "SOC-GA 3903 Doct Dissertation III",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3904",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1743",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Dissertation IV",
+            "description": "SOC-GA 3904 Doctoral Dissertation IV",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3915",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1744",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course I",
+            "description": "SOC-GA 3915 Reading Course I",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3916",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1745",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course II",
+            "description": "SOC-GA 3916 Reading Course II",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3917",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1746",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course III",
+            "description": "SOC-GA 3917 Reading Course III",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3918",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1747",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course IV",
+            "description": "SOC-GA 3918 Reading Course IV",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3919",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1748",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading Course V",
+            "description": "SOC-GA 3919 Reading Course V",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3920",
+            "course_name": "Regal Culture",
+            "description": "SOC-GA 3920 Regal Culture",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3921",
+            "course_name": "Sem On Theory & Culture:",
+            "description": "SOC-GA 3921 Sem On Theory & Culture:",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3922",
+            "course_name": "Doctoral Sem Women+Work",
+            "description": "SOC-GA 3922 Doctoral Sem Women+Work",
+            "offering": false
+        },
+        {
+            "course_id": "SOC-GA 3925",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1749",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.15 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "295L 4156"
+                }
+            ],
+            "course_name": "Miniseminar:1st Year Proseminar",
+            "description": "SOC-GA 3925 Miniseminar:1st Year Proseminar",
+            "offering": true
+        },
+        {
+            "course_id": "SOC-GA 3926",
+            "course_name": "Mini-Seminar:Gender and Culture",
+            "description": "SOC-GA 3926 Mini-Seminar:Gender and Culture",
+            "offering": false
+        }
+    ]
+}

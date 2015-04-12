@@ -1,0 +1,1780 @@
+{
+    "major_id": "MEIS-UA",
+    "file": "./2015-2016/Middle_Eastern_and_Islamic_Studies(MEIS-UA).html",
+    "courses": [
+        {
+            "course_id": "MEIS-UA 50",
+            "course_name": "Intermediate Turkish II",
+            "description": "MEIS-UA   50 Intermediate Turkish II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7266",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "GCASL 384"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7267",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 303",
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Alnaemi, Ali"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7268",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 207",
+                    "time": "Mon,Tue,Wed,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Alnaemi, Ali"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7269",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 303",
+                    "time": "Mon,Tue,Wed,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Uthman, Nader"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7270",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 303",
+                    "time": "Mon,Tue,Wed,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Uthman, Nader"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7271",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 207"
+                }
+            ],
+            "course_name": "Elementary Arabic I",
+            "description": "MEIS-UA  101 Elementary Arabic I \nBuilds basic skills in modern standard Arabic, the language read and understood by educated Arabs from Baghdad to Casablanca. Five hours per week of instruction and drills, stressing the proficiency approach, plus work in the language laboratory.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 102",
+            "course_name": "Elementary Arabic II",
+            "description": "MEIS-UA  102 Elementary Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 103",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7272",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 303",
+                    "time": "Mon,Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Alnaemi, Ali"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7273",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B01",
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Hassan, Amani"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7274",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B01",
+                    "time": "Mon,Tue,Wed,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Hassan, Amani"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16539",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Uthman, Nader"
+                }
+            ],
+            "course_name": "Intermediate Arabic I",
+            "description": "MEIS-UA  103 Intermediate Arabic I \nBuilds on the skills acquired in Elementary Arabic I and II, with increased emphasis on writing and reading from modern sources, in addition to aural/oral proficiency.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 104",
+            "course_name": "Intermediate Arabic II",
+            "description": "MEIS-UA  104 Intermediate Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 105",
+            "course_name": "Advanced Contemporary Arabic I",
+            "description": "MEIS-UA  105 Advanced Contemporary Arabic I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 106",
+            "course_name": "Advanced Arabic: Contemporary",
+            "description": "MEIS-UA  106 Advanced Arabic: Contemporary",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 107",
+            "course_name": "Food & Identity in Mid East & its Jewish Communities",
+            "description": "MEIS-UA  107 Food & Identity in Mid East & its Jewish Communities",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 112",
+            "course_name": "Narrating Iraq: Culture Between Nation & Diaspora",
+            "description": "MEIS-UA  112 Narrating Iraq: Culture Between Nation & Diaspora",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 113",
+            "course_name": "Tpcs: The Crusades, 1095-1291",
+            "description": "MEIS-UA  113 Tpcs: The Crusades, 1095-1291",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 148",
+            "course_name": "The Holocaust & Israeli Society",
+            "description": "MEIS-UA  148 The Holocaust & Israeli Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 149",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17196",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-9"
+                }
+            ],
+            "course_name": "Israel Studies:Israeli Politics and Society",
+            "description": "MEIS-UA  149 Israel Studies:Israeli Politics and Society",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 170",
+            "course_name": "",
+            "description": "MEIS-UA  170\n\n   Political Cinema & Representation of the Other\n\nIn contemporary war, the \u2018Other\u2019 is viewed not only as an enemy to be fought but, often, as one to be eliminated. How do filmmakers fight against or, alternately, reinforce, such deadly representations? This seminar will focus primarily, though not exclusively, on one of the world\u2019s most conflict-ridden regions\u2014the Middle East\u2014though it will also explore films from Soviet Russia, Nazi Germany, France and the United States. Through selected readings and film screenings, we will explore how the \u2018Other\u2019 is constructed politically, aesthetically and ethically. This class is designed for anyone int...\n\n      more description for MEIS-UA  170 \u00bb\n\n      \n\n\n\nIn contemporary war, the \u2018Other\u2019 is viewed not only as an enemy to be fought but, often, as one to be eliminated. How do filmmakers fight against or, alternately, reinforce, such deadly representations? This seminar will focus primarily, though not exclusively, on one of the world\u2019s most conflict-ridden regions\u2014the Middle East\u2014though it will also explore films from Soviet Russia, Nazi Germany, France and the United States. Through selected readings and film screenings, we will explore how the \u2018Other\u2019 is constructed politically, aesthetically and ethically. This class is designed for anyone interested in filmmaking and film criticism, in contemporary politics and history, especially those of the Middle East, in cinema of conflict and violence, and the ethical questions associated with them. Identical to AHSEM-UA 170.\n\n      less description for MEIS-UA  170 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 181",
+            "course_name": "Ethnicity in the Jewish People & State of Israel",
+            "description": "MEIS-UA  181 Ethnicity in the Jewish People & State of Israel",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 186",
+            "course_name": "Immigration in Israeli Society",
+            "description": "MEIS-UA  186 Immigration in Israeli Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 187",
+            "course_name": "Women in Israeli Society",
+            "description": "MEIS-UA  187 Women in Israeli Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 190",
+            "course_name": "Tpcs 20th Century Lit:",
+            "description": "MEIS-UA  190 Tpcs 20th Century Lit:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 191",
+            "course_name": "Tpcs 20C Lit: Rethinking Seculrsm Thru Global Lit",
+            "description": "MEIS-UA  191 Tpcs 20C Lit: Rethinking Seculrsm Thru Global Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 201",
+            "course_name": "Islam and The Shaping of The Middle East",
+            "description": "MEIS-UA  201 Islam and The Shaping of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 207",
+            "course_name": "Advanced Conversational Chinese I",
+            "description": "MEIS-UA  207 Advanced Conversational Chinese I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 208",
+            "course_name": "Advanced Conversational Chinese II",
+            "description": "MEIS-UA  208 Advanced Conversational Chinese II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7275",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 201"
+                }
+            ],
+            "course_name": "Elementary Urdu I",
+            "description": "MEIS-UA  301 Elementary Urdu I \nIntroduces students to the basics of Urdu alphabet, grammar, and sentence structure. All four skills are emphasized?writing and reading, as well as speaking and listening. Tailored to address students' interests not only in the language but also in the culture in which it is rooted.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 302",
+            "course_name": "Elementary Urdu II",
+            "description": "MEIS-UA  302 Elementary Urdu II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 303",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8818",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8818",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intermediate Urdu I",
+            "description": "MEIS-UA  303 Intermediate Urdu I \nContinues where Elementary Urdu leaves off. The students are introduced to literary texts. Along with specific language tasks, criticism and analysis now form part of the curriculum. Dictation, memorizing poetry, comprehension, and engaging in longer sessions of conversation form an important part of this course. By the end of this course, students should have achieved some fluency in reading literary texts, writing short essays, and carrying on a conversation.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 304",
+            "course_name": "Intermediate Urdu II",
+            "description": "MEIS-UA  304 Intermediate Urdu II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 306",
+            "course_name": "Modern Hebrew Literature",
+            "description": "MEIS-UA  306 Modern Hebrew Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 307",
+            "course_name": "Biblical Literature",
+            "description": "MEIS-UA  307 Biblical Literature",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 308",
+            "course_name": "Modern Hebrew in Translation",
+            "description": "MEIS-UA  308 Modern Hebrew in Translation",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7277",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "194M 201"
+                }
+            ],
+            "course_name": "Elementary Persian I",
+            "description": "MEIS-UA  401 Elementary Persian I \nGrammar, phonetics, and pronunciation of modern standard Persian, reading simple texts, and writing short compositions. Builds basic skills in modern standard Persian in preparation for reading classical Persian literature.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 402",
+            "course_name": "Elementary Persian II",
+            "description": "MEIS-UA  402 Elementary Persian II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 403",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7278",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Intermediate Persian I",
+            "description": "MEIS-UA  403 Intermediate Persian I \nBuilds on the skills acquired in Elementary Persian I and II through continued study of grammar and syntax. Practice in spoken Persian. Introduction to classical and modern prose and poetry.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 404",
+            "course_name": "Intermediate Persian II",
+            "description": "MEIS-UA  404 Intermediate Persian II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 405",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7279",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "GCASL 374"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7280",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "GCASL 374"
+                }
+            ],
+            "course_name": "Elementary Hindi",
+            "description": "MEIS-UA  405 Elementary Hindi \nAs a part of a two-year curriculum, prepares the student for a high level of proficiency in Hindi. Through a variety of class, small-group, and paired activities, as well as language and computer lab sessions, students are expected to develop reading, speaking, listening, and writing skills. The instructor also takes into consideration individual needs.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 406",
+            "course_name": "Elementary Hindi II",
+            "description": "MEIS-UA  406 Elementary Hindi II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 407",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7281",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "194M 301"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "7282",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "GCASL 388"
+                }
+            ],
+            "course_name": "Intermediate Hindi I",
+            "description": "MEIS-UA  407 Intermediate Hindi I \nDesigned to further develop fluency in oral and written communication. In addition to the class, small-group activities, and language and computer lab sessions, students are given an individual assignment to work with native speakers from the community and report on their findings. The reading assignments are designed to broaden understanding of content used for oral presentations.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 408",
+            "course_name": "Intermed Hindi II",
+            "description": "MEIS-UA  408 Intermed Hindi II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 409",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7283",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 207"
+                }
+            ],
+            "course_name": "",
+            "description": "MEIS-UA  409\n\n   Advanced Hindi I\n\nOffers an overview of Indian culture via original texts and is designed to improve students' advanced-level reading, as well as their written and oral discourse in Hindi. Emphasis is placed on the development of linguistic skills required for a close reading and in-depth analysis of complex texts. Introduction is learner-centered, and students have a choice in the selection of the texts and topics for their presentations. Taught seminar-style, the course combines classroom discussions, oral reports, and occasional background lectures. Students should have completed the two-year sequence of Hin...\n\n      more description for MEIS-UA  409 \u00bb\n\n      \n\n\n\nOffers an overview of Indian culture via original texts and is designed to improve students' advanced-level reading, as well as their written and oral discourse in Hindi. Emphasis is placed on the development of linguistic skills required for a close reading and in-depth analysis of complex texts. Introduction is learner-centered, and students have a choice in the selection of the texts and topics for their presentations. Taught seminar-style, the course combines classroom discussions, oral reports, and occasional background lectures. Students should have completed the two-year sequence of Hindi or have an equOffers an overview of Indian culture via original texts and is designed to improve students' advanced-level reading, as well as their written and oral discourse in Hindi. Emphasis is placed on the development of linguistic skills required for a close reading and in-depth analysis of complex texts. Introduction is learner-centered, and students have a choice in the selection of the texts and topics for their presentations. Taught seminar-style, the course combines classroom discussions, oral reports, and occasional background lectures. Students should have completed the two-year sequence of Hindi or have an equivalent background.\n\n      less description for MEIS-UA  409 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 410",
+            "course_name": "Advanced Hindi II",
+            "description": "MEIS-UA  410 Advanced Hindi II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 415",
+            "course_name": "Readings in Urdu Lit I",
+            "description": "MEIS-UA  415 Readings in Urdu Lit I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 421",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7284",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Punjabi I",
+            "description": "MEIS-UA  421 Elementary Punjabi I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 422",
+            "course_name": "Elementary Punjabi II",
+            "description": "MEIS-UA  422 Elementary Punjabi II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 423",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7285",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Punjabi I",
+            "description": "MEIS-UA  423 Intermediate Punjabi I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 424",
+            "course_name": "Intermediate Punjabi II",
+            "description": "MEIS-UA  424 Intermediate Punjabi II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 425",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7286",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Bengali I",
+            "description": "MEIS-UA  425 Elementary Bengali I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 426",
+            "course_name": "Elementary Bengali II",
+            "description": "MEIS-UA  426 Elementary Bengali II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 427",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7287",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Bengali I",
+            "description": "MEIS-UA  427 Intermediate Bengali I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 428",
+            "course_name": "Intermediate Bengali II",
+            "description": "MEIS-UA  428 Intermediate Bengali II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 429",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7288",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 2.10 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Tamil I",
+            "description": "MEIS-UA  429 Elementary Tamil I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 430",
+            "course_name": "Elementary Tamil II",
+            "description": "MEIS-UA  430 Elementary Tamil II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 431",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7289",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Tamil I",
+            "description": "MEIS-UA  431 Intermediate Tamil I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 432",
+            "course_name": "Intermediate Tamil II",
+            "description": "MEIS-UA  432 Intermediate Tamil II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 442",
+            "course_name": "Advanced Punjabi II",
+            "description": "MEIS-UA  442 Advanced Punjabi II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 443",
+            "course_name": "Supervised Readings I",
+            "description": "MEIS-UA  443 Supervised Readings I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 501",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7290",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "KEVO LL1"
+                }
+            ],
+            "course_name": "Elementary Turkish I",
+            "description": "MEIS-UA  501 Elementary Turkish I \nIntroduction to the written and spoken language of modern Turkey. All texts are in Latin characters and comprise both textual and audio material.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 502",
+            "course_name": "Elementary Turkish II",
+            "description": "MEIS-UA  502 Elementary Turkish II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 503",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7291",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Tue,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "KEVO LL1"
+                }
+            ],
+            "course_name": "Intermediate Turkish I",
+            "description": "MEIS-UA  503 Intermediate Turkish I \nMaterials from Turkish newspapers, magazines, literature, and radio provide the basis for reading comprehension and conversational ability in modern Turkish.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 504",
+            "course_name": "Intermed Turkish II",
+            "description": "MEIS-UA  504 Intermed Turkish II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 511",
+            "course_name": "Elementary Uzbek I",
+            "description": "MEIS-UA  511 Elementary Uzbek I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 512",
+            "course_name": "Elementary Uzbek II",
+            "description": "MEIS-UA  512 Elementary Uzbek II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 513",
+            "course_name": "Intermediate Uzbek I",
+            "description": "MEIS-UA  513 Intermediate Uzbek I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 514",
+            "course_name": "Intermediate Uzbek II",
+            "description": "MEIS-UA  514 Intermediate Uzbek II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 518",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19338",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Peirce, Leslie"
+                }
+            ],
+            "course_name": "Topics in Middle Eastern History:Istanbul & the Empire of the Ottomans",
+            "description": "MEIS-UA  518 Topics in Middle Eastern History:Istanbul & the Empire of the Ottomans \nAdvanced undergraduate course that focuses on specic issues in Middle Eastern history. Topics vary each time it is offered.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 519",
+            "course_name": "History of Modern Turkey",
+            "description": "MEIS-UA  519 History of Modern Turkey",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 535",
+            "course_name": "Sem: Tpcs in Eurasian Hist: The Mongol Empire",
+            "description": "MEIS-UA  535 Sem: Tpcs in Eurasian Hist: The Mongol Empire",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 553",
+            "course_name": "Truth or Fiction? The Middle East in Novels, Autobiography, and Historical Scholarship",
+            "description": "MEIS-UA  553 Truth or Fiction? The Middle East in Novels, Autobiography, and Historical Scholarship",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 600",
+            "course_name": "Archaeology & History of The Near East",
+            "description": "MEIS-UA  600 Archaeology & History of The Near East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 601",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7292",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Elementary Armenian I",
+            "description": "MEIS-UA  601 Elementary Armenian I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 602",
+            "course_name": "Elem Armenian II",
+            "description": "MEIS-UA  602 Elem Armenian II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 603",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7293",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "COLU"
+                }
+            ],
+            "course_name": "Intermediate Western Armenian I",
+            "description": "MEIS-UA  603 Intermediate Western Armenian I",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 604",
+            "course_name": "Intermediate Armenian II",
+            "description": "MEIS-UA  604 Intermediate Armenian II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 607",
+            "course_name": "Ancient Near Eastern Mythology",
+            "description": "MEIS-UA  607 Ancient Near Eastern Mythology",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 609",
+            "course_name": "Land of Israel Through The Ages",
+            "description": "MEIS-UA  609 Land of Israel Through The Ages",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 611",
+            "course_name": "History of Ancient Egypt, 3200-50Bc",
+            "description": "MEIS-UA  611 History of Ancient Egypt, 3200-50Bc \nPolitical and intellectual history of ancient Egypt, introducing the student to a variety of religious and secular texts and showing how Egyptologists have drawn on biographical texts, royal inscriptions, literary papyri, and archaeological remains to re-create Egyptian history.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 612",
+            "course_name": "Near East Under The Greeks & Romans",
+            "description": "MEIS-UA  612 Near East Under The Greeks & Romans",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 613",
+            "course_name": "Archaeology of Israel",
+            "description": "MEIS-UA  613 Archaeology of Israel",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 614",
+            "course_name": "Culture and Society of Ancient Egypt",
+            "description": "MEIS-UA  614 Culture and Society of Ancient Egypt \nSurvey of the literary, religious, and material culture of ancient Egypt. Each class examines the ancient Egyptian intellectual world as shown by a major monument (e.g., the Great Pyramid) along with its cultural background. Daily life as well as the visual and symbolic aspects of the civilization are illustrated with slides and charts. The reading emphasizes historical, literary, and religious texts in translation.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 615",
+            "course_name": "Modern Jewish Thought",
+            "description": "MEIS-UA  615 Modern Jewish Thought",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 616",
+            "course_name": "Topics in Islamic History",
+            "description": "MEIS-UA  616 Topics in Islamic History \nTopics vary by semester.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 620",
+            "course_name": "",
+            "description": "MEIS-UA  620\n\n   Istanbul: Culture, Memory and the City\n\nIn this course, picking up on different socio-cultural, economic and political transformations and cultural identification through the context of Istanbul, we will attend to a variety of topics revolving around urban culture that might include: social transformation, urbanism, and gentrification; minorities (e.g., Armenians, Greeks, Jews, Kurds, the Roma, and so on) and cultural identification; food and memory; nostalgia, commodification and neighborhoods; museumization of \u201cculture\u201d; exile; cosmopolitanism and migration. In this light, we will read ethnographies, studies in cultural and litera...\n\n      more description for MEIS-UA  620 \u00bb\n\n      \n\n\n\nIn this course, picking up on different socio-cultural, economic and political transformations and cultural identification through the context of Istanbul, we will attend to a variety of topics revolving around urban culture that might include: social transformation, urbanism, and gentrification; minorities (e.g., Armenians, Greeks, Jews, Kurds, the Roma, and so on) and cultural identification; food and memory; nostalgia, commodification and neighborhoods; museumization of \u201cculture\u201d; exile; cosmopolitanism and migration. In this light, we will read ethnographies, studies in cultural and literary history, as well as literature and other primary sources. We will also watch films, and address how some of these issues get displayed as a \u201cspectacle\u201d or merely a \u201cd\u00e9cor\u201d in narratives, such as detective stories, or in such projects as Istanbul: Cultural Capital of Europe in 2010. As such, taking Istanbul as our centerpiece, we will explore a variety of concepts and dynamics and ask informed questions about cultural identification and space, with a main focus on the twentieth century.\n\n      less description for MEIS-UA  620 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 625",
+            "course_name": "Brand Turkey: Authoritarianism, Neo-Ottomanism, and Cultural Politics from the 1980 and Beyond",
+            "description": "MEIS-UA  625 Brand Turkey: Authoritarianism, Neo-Ottomanism, and Cultural Politics from the 1980 and Beyond",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 627",
+            "course_name": "Town & Country in The Middle East",
+            "description": "MEIS-UA  627 Town & Country in The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 640",
+            "course_name": "The Making of The Muslim Middle East, 600 - 1400",
+            "description": "MEIS-UA  640 The Making of The Muslim Middle East, 600 - 1400 \nA historical and comparative approach to the first half millennium of Islamic history. Course traces the cultural and religious strands shaping the institutions, belief systems, and practices. Using primary sources, students explore the major debates in the cultural history of this period.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 645",
+            "course_name": "Afghanistan: Society & State",
+            "description": "MEIS-UA  645 Afghanistan: Society & State",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 649",
+            "course_name": "Cultural Pluralism in The Ottoman Empire",
+            "description": "MEIS-UA  649 Cultural Pluralism in The Ottoman Empire \nDuring the first half of the semester, we discuss the differences in the ideology and practice between the Muslim Middle East and the Christian West with regard to the rights of minority subjects. Tracing the early history of the Ottoman Empire, students explore the limits of tolerance within the sultan?s realms and the nature of ?multiculturalism? in specific settings, such as Cyprus, Bosnia, and Aleppo (Syria). The second half of the course addresses the impact of modern economic and political conditions on relations between the different communities of the empire.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 650",
+            "course_name": "The Ottoman Empire & The World Around It",
+            "description": "MEIS-UA  650 The Ottoman Empire & The World Around It \nExamines the Ottoman Empire from a world historical perspective. Beginning with the collapse of the Byzantine state and ending with the French Revolution, students gain an understanding of the Ottoman state and society and its responses to, and participation in, global trade, interstate warfare, and the cultural and political development of the modern world.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 651",
+            "course_name": "The Turks Past & Present",
+            "description": "MEIS-UA  651 The Turks Past & Present",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 652",
+            "course_name": "",
+            "description": "MEIS-UA  652\n\n   The Arts of The Book in The Islamic World\n\nIntroduces the arts of the Islamic world during a period of dynamic cultural and political change. Beginning with the Mongol invasion of the 13th century, the course traces the development of the Islamic art and architecture through the eras of the Timurids, the ?gunpowder empires? of the Mughals, Ottomans, and the Safavids, European colonialism, and the art of the nation-state. It examines the art of the regions of Morocco and al-Andalus in the West to Central Asia, India and China in the East. It includes some of the most celebrated monuments of the Islamic world including the Alhambra and t...\n\n      more description for MEIS-UA  652 \u00bb\n\n      \n\n\n\nIntroduces the arts of the Islamic world during a period of dynamic cultural and political change. Beginning with the Mongol invasion of the 13th century, the course traces the development of the Islamic art and architecture through the eras of the Timurids, the ?gunpowder empires? of the Mughals, Ottomans, and the Safavids, European colonialism, and the art of the nation-state. It examines the art of the regions of Morocco and al-Andalus in the West to Central Asia, India and China in the East. It includes some of the most celebrated monuments of the Islamic world including the Alhambra and the Taj Mahal. In addition, the course covers production of art across media, painting, textiles, carpets, ceramics, and metalwork.\n\n      less description for MEIS-UA  652 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 653",
+            "course_name": "Art in The Islamic World I: Prophet to Mongols",
+            "description": "MEIS-UA  653 Art in The Islamic World I: Prophet to Mongols",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 654",
+            "course_name": "Art in The Islamic World II: Mongols to Modernism",
+            "description": "MEIS-UA  654 Art in The Islamic World II: Mongols to Modernism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 659",
+            "course_name": "Italy and the Mediterranean Empire, Politics and Culture",
+            "description": "MEIS-UA  659 Italy and the Mediterranean Empire, Politics and Culture",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 660",
+            "course_name": "Mediterranean Worlds",
+            "description": "MEIS-UA  660 Mediterranean Worlds",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 661",
+            "course_name": "Ethnography of Muslim Diasporas",
+            "description": "MEIS-UA  661 Ethnography of Muslim Diasporas",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 665",
+            "course_name": "Perspectives On Islam",
+            "description": "MEIS-UA  665 Perspectives On Islam \nA broad survey of the most central Islamic texts, beliefs and practices. Using primary texts in translation, examines such issues as scripture, ritual, and law and contextualizes them within some of the most pivotal social and political developments in Islamic history. Intended for students with little or no previous background in Islamic studies.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 667",
+            "course_name": "Islam in The West",
+            "description": "MEIS-UA  667 Islam in The West",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 674",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9218",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Islam and Politics",
+            "description": "MEIS-UA  674 Islam and Politics \nExplains the rise of Islamic political movements in the contemporary Middle East and looks at the various ways in which they have been discussed in the media and in academic writings. Examples of Islamist writings and publications are also presented in order to elucidate the ways in which Islamists depict themselves and their concerns. Because of the nature of these movements, the course has a multidisciplinary approach, drawing on concepts from politics, history, and law.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 675",
+            "course_name": "Russia & The Middle East in Modern Times",
+            "description": "MEIS-UA  675 Russia & The Middle East in Modern Times",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 676",
+            "course_name": "The United States & The Near East in 20th Cent",
+            "description": "MEIS-UA  676 The United States & The Near East in 20th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 677",
+            "course_name": "Colonial, Imperialism & Nationalism in Mid East",
+            "description": "MEIS-UA  677 Colonial, Imperialism & Nationalism in Mid East \nAddresses theories of nationalism and its emergence as the primary political ideology in the Middle East. Investigates historiographical problems in writing nationalist history and the intersection of class and gender concerns with national identities.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 678",
+            "course_name": "Cinema, Politics, & Soc in The Middle East",
+            "description": "MEIS-UA  678 Cinema, Politics, & Soc in The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 679",
+            "course_name": "Islam & The West",
+            "description": "MEIS-UA  679 Islam & The West",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 680",
+            "course_name": "Hist of Judaism:",
+            "description": "MEIS-UA  680 Hist of Judaism:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 681",
+            "course_name": "Medieval Jewish History",
+            "description": "MEIS-UA  681 Medieval Jewish History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 682",
+            "course_name": "Modern Jewish History",
+            "description": "MEIS-UA  682 Modern Jewish History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 684",
+            "course_name": "Israel & Zionism",
+            "description": "MEIS-UA  684 Israel & Zionism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 688",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "9184",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL1"
+                }
+            ],
+            "course_name": "Topics in Modern Middle Eastern HistoryThe US and the Middle East",
+            "description": "MEIS-UA  688 Topics in Modern Middle Eastern HistoryThe US and the Middle East \nTopics vary by semester.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 689",
+            "course_name": "Europe and Middle East",
+            "description": "MEIS-UA  689 Europe and Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 690",
+            "course_name": "The Emergence of The Modern Middle East",
+            "description": "MEIS-UA  690 The Emergence of The Modern Middle East \nSurveys main political, social, economic, and intellectual currents of the 20th century. Emphasis on historical background and development of current problems in the region. Topics include imperialism, nationalism, religion, Orientalism, women, class formation, oil, the Arab-Israeli crisis, and the Iranian revolution.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 691",
+            "course_name": "What is Islam?",
+            "description": "MEIS-UA  691 What is Islam? \nAn introductory course dealing with the life of the Prophet Muhammad and the origins of Islam; the beliefs and practices of the Islamic community; differences between Sunni and Shiite Islam; Sufism; the spiritual, intellectual, and artistic life of the Islamic commonwealth; and modern Islamic revival.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 692",
+            "course_name": "Sociology of Islam",
+            "description": "MEIS-UA  692 Sociology of Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 693",
+            "course_name": "Islam in Asia",
+            "description": "MEIS-UA  693 Islam in Asia",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 694",
+            "course_name": "Islam and The West",
+            "description": "MEIS-UA  694 Islam and The West \nExamines the evolution of diplomatic, trade, and cultural contacts between Islam and the West. Particular attention is paid to the complex relationship that developed between these two civilizations and their historical impact on each other.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 695",
+            "course_name": "Migrating Islam",
+            "description": "MEIS-UA  695 Migrating Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 696",
+            "course_name": "Zionism & The State of Israel",
+            "description": "MEIS-UA  696 Zionism & The State of Israel \nExamines the history of Zionism and as an ideology and political movement from its origins in the 19th century to the present as reflected in the modern State of Israel. Topics include ideological foundations, the role of Herzl and the rise of political Zionism, the Balfour Declaration, early Jewish settlements in Palestine, Zionism as a cultural focus for diaspora Jewry, the Arab-Zionist encounter, modern Israeli society, and contemporary critiques of Zionism.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 697",
+            "course_name": "Palestine, Zionism, & Israel",
+            "description": "MEIS-UA  697 Palestine, Zionism, & Israel \nThis course is a survey of the history of Palestine in the modern period, focusing on the conflict for control of this land from its origins in the late nineteenth century until the present. The purpose of this course is to examine the evolution of this ongoing struggle in its historical context and to try to understand why the various parties to this conflict have thought and acted as they did.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 698",
+            "course_name": "Israel: Fact Through Fiction",
+            "description": "MEIS-UA  698 Israel: Fact Through Fiction \nClashes between ideology and reality in the State of Israel. Eastern and Western cultures and the human impact of different sociopolitical structures in Israel are considered primarily through translations from works by Yizhar, Yehoshua, Kahana-Carmon, Hareven, Oz, Amichai, Avidan, and Almog.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 699",
+            "course_name": "Iraq & The Jews: a Hist Perspective",
+            "description": "MEIS-UA  699 Iraq & The Jews: a Hist Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 700",
+            "course_name": "Modern Central Asia",
+            "description": "MEIS-UA  700 Modern Central Asia \nSurveys the emergence of the newly independent states of Central Asia, the historical legacy that connects them, and the political, social, environmental, and economic problems that they confront today.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 706",
+            "course_name": "Muslim Spain: Literature & Society",
+            "description": "MEIS-UA  706 Muslim Spain: Literature & Society",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 708",
+            "course_name": "Landmarks of Modern & Contemp Arabic Lit",
+            "description": "MEIS-UA  708 Landmarks of Modern & Contemp Arabic Lit",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 709",
+            "course_name": "Jewish Societies-Mid Eas",
+            "description": "MEIS-UA  709 Jewish Societies-Mid Eas",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 710",
+            "course_name": "Masterpieces of Middle Eastern Literature",
+            "description": "MEIS-UA  710 Masterpieces of Middle Eastern Literature \nSurvey of the masterpieces of Arabic, Persian, and Turkish literature from pre-Islamic times to the present. Selected texts in translation from the major genres, both in prose and poetry, are studied as works of art in themselves and as a reflection of the societies that produced them.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 711",
+            "course_name": "Literature & Society in the Middle East",
+            "description": "MEIS-UA  711 Literature & Society in the Middle East \nExamines selected works in translation of leading 20th-century poets, novelists, and short story writers that reflect changing conditions and mores within Middle Eastern and North African societies. Investigates such topics as conflicts between traditionalists and modernists, the impact of urbanization on rural societies, and the existential dilemmas of men and women.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 712",
+            "course_name": "Hero & Antihero in Arab Literature & Film",
+            "description": "MEIS-UA  712 Hero & Antihero in Arab Literature & Film \nCompares the role of the hero and antihero in the works of fiction of leading Arab authors with their cinematic renditions. A discussion of the difficulty of translating novels into film, as well as the successful cinema industry that has thrived for the last century. The creation of heroes and heroines as modern mythical characters and the language of cinema are investigated.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 713",
+            "course_name": "From Hebrew to Israeli Lit (in Translation)",
+            "description": "MEIS-UA  713 From Hebrew to Israeli Lit (in Translation)",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 714",
+            "course_name": "Women and War: Contemporary Arabic Literature and Film",
+            "description": "MEIS-UA  714 Women and War: Contemporary Arabic Literature and Film \nWomen are central figures in the political upheavals of the modern Middle East; their images have had a remarkable hold on national and international imaginations. The course investigates the representations of women and war in Arabic literature and film through such topics as the gendering of war; the gender politics of national symbolism and liberation; the politics and aesthetics of documentary film; revolutionary erotic and antierotic; and combat and collaboration.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 715",
+            "course_name": "Comparative Imperialisms",
+            "description": "MEIS-UA  715 Comparative Imperialisms",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 716",
+            "course_name": "The Arabian Nights",
+            "description": "MEIS-UA  716 The Arabian Nights \nThe Arabian Nights have been an essential and dynamic literary meeting point between Arabic/Islamic literature and the Western canon. This course examines both sides of this cultural dichotomy. Literary analysis of the tales includes close reading of the structure of the original as well as modern variations by authors such as Poe and Rushdie.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 717",
+            "course_name": "South Asian Literature",
+            "description": "MEIS-UA  717 South Asian Literature \nAddresses the rich literary product of modern and contemporary South Asia. Offers more advanced undergraduates a window on a rich and culturally varied area of the world, as well as an understanding of aspects of South Asian history and society as represented in translations of modern prose writing (short stories and novels) originally written in South Asian languages.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 718",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7294",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "BOBS LL139"
+                }
+            ],
+            "course_name": "",
+            "description": "MEIS-UA  718\n\n   Introduction to Ancient Indian Literature\n\nAn introductory course designed to acquaint students with the great works of the ancient Indian literary tradition, a major part of which was written in Sanskrit. The earliest form of that language, called Vedic Sanskrit, is the language of the Vedic hymns, especially those of the Rig Veda. Sanskrit has had an unbroken literary tradition for over 3,000 years. This rich and vast literary, religious, and philosophical heritage is introduced in this course. In addition, students work with excerpts from the Jain and Buddhist canons written in Prakrits and examples of Tamil poetry. Selections from ...\n\n      more description for MEIS-UA  718 \u00bb\n\n      \n\n\n\nAn introductory course designed to acquaint students with the great works of the ancient Indian literary tradition, a major part of which was written in Sanskrit. The earliest form of that language, called Vedic Sanskrit, is the language of the Vedic hymns, especially those of the Rig Veda. Sanskrit has had an unbroken literary tradition for over 3,000 years. This rich and vast literary, religious, and philosophical heritage is introduced in this course. In addition, students work with excerpts from the Jain and Buddhist canons written in Prakrits and examples of Tamil poetry. Selections from the Vedic literature, classical drama, epics, story literature, and lyric poetry are studied in English translation.\n\n      less description for MEIS-UA  718 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 719",
+            "course_name": "Introduction to Ancient Egyptian Religion",
+            "description": "MEIS-UA  719 Introduction to Ancient Egyptian Religion \nExamines the religious beliefs of the ancient Egyptians, including the nature of the gods, syncretism, private religion, theories of divine kingship, the judgment of the dead, cultic practices, the life of priests, the relationship between this world and the afterlife, wisdom literature as moral thought, festivals, funerary practices, creation myths, and foreign gods and influences?all illustrated by Egyptian religious texts or scenes from temples and tombs.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 720",
+            "course_name": "Middle Eastern Literature",
+            "description": "MEIS-UA  720 Middle Eastern Literature \nTopics vary by semester.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 721",
+            "course_name": "Myth & Ancient Near East",
+            "description": "MEIS-UA  721 Myth & Ancient Near East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 722",
+            "course_name": "The Medieval Indian Ocean World: Mobility and Encounters",
+            "description": "MEIS-UA  722 The Medieval Indian Ocean World: Mobility and Encounters",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 727",
+            "course_name": "East/West? Politics of Cultural Representation and the Middle East",
+            "description": "MEIS-UA  727 East/West? Politics of Cultural Representation and the Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 728",
+            "course_name": "Women and Gender in Islam",
+            "description": "MEIS-UA  728 Women and Gender in Islam \nExamines the rights, roles, and the physical appearance of Muslim women. This course investigates the complexity of the messages and models relating to gender in one of the world?s most influential religious traditions. Beginning with the rise of Islam, the class observes how foundational texts and personalities are interpreted and reinterpreted for changing times.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 729",
+            "course_name": "Gender,Identity,&Society in The Middle East",
+            "description": "MEIS-UA  729 Gender,Identity,&Society in The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 730",
+            "course_name": "Love, Proph & Madness in Arabic Literature & Islamic Cult 7th-16th Century",
+            "description": "MEIS-UA  730 Love, Proph & Madness in Arabic Literature & Islamic Cult 7th-16th Century",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 744",
+            "course_name": "Gender, Nation, & The Colonial Condition",
+            "description": "MEIS-UA  744 Gender, Nation, & The Colonial Condition",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 747",
+            "course_name": "",
+            "description": "MEIS-UA  747\n\n   Arab Theatre & Film:\n\nExamines recent trends in contemporary Arab theatre and film, contextualizing these within a broader history of Arab performance. Particular attention is given to how experimental practitioners have explored issues of human rights and the control of territories under the modern state. Strategies addressed include the conflation of the past and present as a means of exploring the persistence of the colonial power structure in the modern Arab world; the use of the parable to speak truth to power; the incorporation of the populist entertainment forms that directly engage the audience; and the use...\n\n      more description for MEIS-UA  747 \u00bb\n\n      \n\n\n\nExamines recent trends in contemporary Arab theatre and film, contextualizing these within a broader history of Arab performance. Particular attention is given to how experimental practitioners have explored issues of human rights and the control of territories under the modern state. Strategies addressed include the conflation of the past and present as a means of exploring the persistence of the colonial power structure in the modern Arab world; the use of the parable to speak truth to power; the incorporation of the populist entertainment forms that directly engage the audience; and the use of familiar tales to explore new political realities.\n\n      less description for MEIS-UA  747 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 750",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8522",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 401"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8523",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "BOBS 836"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8524",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 500"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8525",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "194M 210"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8526",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "194M 301"
+                }
+            ],
+            "course_name": "Politics of The Middle East",
+            "description": "MEIS-UA  750 Politics of The Middle East \nHistorical-political background of the Middle East and its contemporary social and political problems, including the impact of the West; religious and liberal reactions; conflict of nationalisms (Arab, Iranian, Turkish, and Zionist); and revolutionary socialism. Specific social, political, and economic problems?using a few selected countries for comparison and analysis?including the role of the military, the intelligentsia, the religious classes, the legitimization of power, urban-rural cleavages, bureaucracy, and political parties.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 751",
+            "course_name": "Topics in Mideast Politics:",
+            "description": "MEIS-UA  751 Topics in Mideast Politics: \nTopics vary by semester.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 752",
+            "course_name": "International Politics of Middle East",
+            "description": "MEIS-UA  752 International Politics of Middle East \nSystematic study of the international politics of the Middle East, emphasizing the period since World War II. Emphasis on the relationship among patterns of inter-Arab, Arab-Israeli, and Great Power politics and on the relationship between domestic and external politics. Attempts to relate the Arab-Israeli conflict to interregional politics, the place and role of Turkey and Iran, and the problems in the Persian Gulf.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 757",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16534",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 1.15 PM",
+                    "open": true,
+                    "professor": "194M 308"
+                }
+            ],
+            "course_name": "Travel Literature",
+            "description": "MEIS-UA  757 Travel Literature",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 779",
+            "course_name": "",
+            "description": "MEIS-UA  779\n\n   Tolerance & Intolerance in Islamic History\n\nIn the light of contemporary conflicts, this course investigates the history of Islamic attitudes toward the Other, in both theory and practice. Topics include the treatment of non-Muslim minorities in Islamic states; norms for Muslims in non-Muslim states; sectarian (especially Sunni-Shi?i) divisions within Islamic societies; intra-Islamic theological and legal controversies; relations between religion and government; and freedom and control of expression and behavior. The primary focus is on the evolution of attitudes in medieval and early modern times, but with a view to understanding the r...\n\n      more description for MEIS-UA  779 \u00bb\n\n      \n\n\n\nIn the light of contemporary conflicts, this course investigates the history of Islamic attitudes toward the Other, in both theory and practice. Topics include the treatment of non-Muslim minorities in Islamic states; norms for Muslims in non-Muslim states; sectarian (especially Sunni-Shi?i) divisions within Islamic societies; intra-Islamic theological and legal controversies; relations between religion and government; and freedom and control of expression and behavior. The primary focus is on the evolution of attitudes in medieval and early modern times, but with a view to understanding the roots of modern controversies.\n\n      less description for MEIS-UA  779 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 780",
+            "course_name": "Islamic Law & Society",
+            "description": "MEIS-UA  780 Islamic Law & Society \nIntroduces students to Islamic law through a reading of its various genres and a study of a selection of secondary sources covering a number of substantive topics (for example, ritual, criminal, and public law). Also focuses on the ways Islamic law has interacted with Islamic societies in historical practice and the way it has adapted, or not adapted, to the challenges of modernity.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 781",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16536",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "194M 301"
+                }
+            ],
+            "course_name": "The Qu'Ran and Its Interpretation",
+            "description": "MEIS-UA  781 The Qu'Ran and Its Interpretation \nAn introduction to the content, themes and style of the Qur?an and surveying the diversity of interpretive approaches to the text (legal, mystical, sectarian, literary, and politically engaged) in the medieval and modern periods.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 782",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "16915",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "KEVO LL2"
+                }
+            ],
+            "course_name": "Tpcs in Islamic StudiesIslamic Theology and Philosophy",
+            "description": "MEIS-UA  782 Tpcs in Islamic StudiesIslamic Theology and Philosophy \nTopics vary by semester.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 783",
+            "course_name": "Women & Islamic Law",
+            "description": "MEIS-UA  783 Women & Islamic Law \nThe aim of this course is to acquaint students with the ways Islamic law has treated women in theory and practice. Students are exposed to medieval and modern legal texts regarding the status of women as believers, daughters, wives, mothers, and legal persons. Case studies from different periods of Islamic history are read and discussed as well as writings from contemporary anthropology.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 785",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17904",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "1WP 401",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Mirsepassi, Ali"
+                }
+            ],
+            "course_name": "",
+            "description": "MEIS-UA  785\n\n   Sociology of Religion: Islam & the Modern World\n\nThis course is designed to explore the role of religion in modern societies. We will examine religion as an important social institution and also as a cultural system. We will study canonical and contemporary theories of religion (Marx, Durkheim, Weber, Dewey, and Geertz). The focus of the course, however, will be Islam. We will look at the cultural context and historical construction of Islam, as well as the different social contexts within which Islam has evolved. We will examine the relationship between Islam and modernity, including secular ideologies, gender politics, and modern democracy...\n\n      more description for MEIS-UA  785 \u00bb\n\n      \n\n\n\nThis course is designed to explore the role of religion in modern societies. We will examine religion as an important social institution and also as a cultural system. We will study canonical and contemporary theories of religion (Marx, Durkheim, Weber, Dewey, and Geertz). The focus of the course, however, will be Islam. We will look at the cultural context and historical construction of Islam, as well as the different social contexts within which Islam has evolved. We will examine the relationship between Islam and modernity, including secular ideologies, gender politics, and modern democracy. We will pay particular attention to the role that Islam plays in the everyday life of those who practice it, who are affected by it, or who struggle with it as their tradition. Our goal is to study Islam not as a fixed object or authentic tradition but as a social and cultural phenomenon subject to change, contestation, and critique.  Texts may include John Dewey, A Common Faith; Karen Armstrong, Islam: A Short History; Fatima Mernissi, Islam and Democracy; Leila Ahmed, A Quiet Revolution: The Veil's Resurgence, from the Middle East to America. Elizabeth Fernea, and In Search of Islamic Feminism.\n\n      less description for MEIS-UA  785 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 786",
+            "course_name": "Reason @ Faith in Islam",
+            "description": "MEIS-UA  786 Reason @ Faith in Islam",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 787",
+            "course_name": "Gender & Sexuality in Medieval Islamic Soc",
+            "description": "MEIS-UA  787 Gender & Sexuality in Medieval Islamic Soc \nThe course attempts to get behind myths of unbridled sensuality and well-stocked harems to the realities, through careful reading of selected primary sources from the medieval period in English translation, including religious treatises on marriage and proper gender roles, love poetry, stories from the Arabian Nights, and works of erotica, supplemented by secondary studies. The emphasis throughout is on evaluating the role of culture?whether Middle Eastern or Western?in shaping fundamental sexual attitudes.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 790",
+            "course_name": "The Civil & Religions of The Ancient Near East",
+            "description": "MEIS-UA  790 The Civil & Religions of The Ancient Near East \nIntroduction to the ancient Near East. Places the civilizations of Mesopotamia, Egypt, and Anatolia in their historical framework and discusses their institutions.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 793",
+            "course_name": "Hist of Modern Armenia",
+            "description": "MEIS-UA  793 Hist of Modern Armenia",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 795",
+            "course_name": "Armenian History",
+            "description": "MEIS-UA  795 Armenian History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 796",
+            "course_name": "Iran Past and Present",
+            "description": "MEIS-UA  796 Iran Past and Present \nAncient Iranian culture and its influence on the Near East. The impact of the Arab-Islamic conquest, the Islamization of Iran, and the Iranian role in the development of Islamic civilization. The rebirth of Iranian self-consciousness and the establishment of Shiism as the state religion under the Safavids. Traditional Iranian culture in conflict with the West. Modern Iran from the reinstitution of the monarchy to the Islamic revolution. Illustrated with readings, slides, films, a museum visit, live recitations, and music.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 797",
+            "course_name": "Iran State, Politics and Culture",
+            "description": "MEIS-UA  797 Iran State, Politics and Culture",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 798",
+            "course_name": "Topics in Modern Middle Eastern Culture",
+            "description": "MEIS-UA  798 Topics in Modern Middle Eastern Culture",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 799",
+            "course_name": "The Passionate Nomad: Turkish Lit in Transl",
+            "description": "MEIS-UA  799 The Passionate Nomad: Turkish Lit in Transl",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 800",
+            "course_name": "Judaism, Christianity, & Islam",
+            "description": "MEIS-UA  800 Judaism, Christianity, & Islam \nComparative study of the three great monotheistic religious traditions: how each understood its origin and evolution and their similarities and differences in matters of scripture, worship, authority, community, theology, and mysticism.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 801",
+            "course_name": "God & Man in Arabia: Hist of The Holy Places",
+            "description": "MEIS-UA  801 God & Man in Arabia: Hist of The Holy Places",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 802",
+            "course_name": "Area Economics- Mideast",
+            "description": "MEIS-UA  802 Area Economics- Mideast",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 803",
+            "course_name": "Origins of Christianity: Apostles to Crusades",
+            "description": "MEIS-UA  803 Origins of Christianity: Apostles to Crusades",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 807",
+            "course_name": "Dead Sea Scrolls: Judaism & Christianity",
+            "description": "MEIS-UA  807 Dead Sea Scrolls: Judaism & Christianity",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 809",
+            "course_name": "Modern Perspectives On The Bible",
+            "description": "MEIS-UA  809 Modern Perspectives On The Bible",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 810",
+            "course_name": "Jerusalem: The City, The Shrine & The Conflict",
+            "description": "MEIS-UA  810 Jerusalem: The City, The Shrine & The Conflict",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 811",
+            "course_name": "Comparative Imperialisms",
+            "description": "MEIS-UA  811 Comparative Imperialisms",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 812",
+            "course_name": "The City of Cairo",
+            "description": "MEIS-UA  812 The City of Cairo",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 830",
+            "course_name": "Travel & Dicovery in World History",
+            "description": "MEIS-UA  830 Travel & Dicovery in World History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 836",
+            "course_name": "The Asian-American Experience",
+            "description": "MEIS-UA  836 The Asian-American Experience",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 842",
+            "course_name": "Islamic Ethics",
+            "description": "MEIS-UA  842 Islamic Ethics",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 843",
+            "course_name": "Jesus and His Times",
+            "description": "MEIS-UA  843 Jesus and His Times",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 844",
+            "course_name": "Rdgs in Contemp Lit:Thry Global Culture Theory",
+            "description": "MEIS-UA  844 Rdgs in Contemp Lit:Thry Global Culture Theory",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 845",
+            "course_name": "Rdgs Contemp Lit Theory: Cities & Modernism",
+            "description": "MEIS-UA  845 Rdgs Contemp Lit Theory: Cities & Modernism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 863",
+            "course_name": "Sufis: Mystics in Islam",
+            "description": "MEIS-UA  863 Sufis: Mystics in Islam \nReadings in the Sufi poets in translation and reflections of their influence in Persian literature and the European tradition. Sufism as one of the primary manifestations of the Islamic spirit in Iran. The effect of Sufism (the hidden path that leads from the individual to God) on the shape of Islam, on the spirit of Persian literature and art, and on Western religious sensibilities.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 870",
+            "course_name": "Mongols to Modernism",
+            "description": "MEIS-UA  870 Mongols to Modernism",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 892",
+            "course_name": "Egyptian Art",
+            "description": "MEIS-UA  892 Egyptian Art",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 893",
+            "course_name": "Images of The Orient in The Mod Imagin",
+            "description": "MEIS-UA  893 Images of The Orient in The Mod Imagin",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 897",
+            "course_name": "Problems of Technology in Mid East",
+            "description": "MEIS-UA  897 Problems of Technology in Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 951",
+            "course_name": "Tpcs: Al-Andalus in Modern Fiction",
+            "description": "MEIS-UA  951 Tpcs: Al-Andalus in Modern Fiction",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 980",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7295",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Internship",
+            "description": "MEIS-UA  980 Internship \nPrerequisite: permission and placement for departmental majors from the director of undergraduate studies. 2 or 4 points.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 981",
+            "course_name": "Internship",
+            "description": "MEIS-UA  981 Internship",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 991",
+            "course_name": "Sem:Millenarianism in Thought and Deed",
+            "description": "MEIS-UA  991 Sem:Millenarianism in Thought and Deed",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 992",
+            "course_name": "Neoplatonism in The Mid Ages & Renaissance",
+            "description": "MEIS-UA  992 Neoplatonism in The Mid Ages & Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 993",
+            "course_name": "The Crusades",
+            "description": "MEIS-UA  993 The Crusades",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 994",
+            "course_name": "Supervised Reading II",
+            "description": "MEIS-UA  994 Supervised Reading II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 997",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "7296",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "7297",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MEIS-UA  997 Independent Study \nPrerequisite: permission of the instructor. 1 to 4 points per term.",
+            "offering": true
+        },
+        {
+            "course_id": "MEIS-UA 998",
+            "course_name": "Independent Study",
+            "description": "MEIS-UA  998 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9101",
+            "course_name": "Elementary Arabic I",
+            "description": "MEIS-UA 9101 Elementary Arabic I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9102",
+            "course_name": "Elementary Arabic II",
+            "description": "MEIS-UA 9102 Elementary Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9103",
+            "course_name": "Intermediate Arabic I",
+            "description": "MEIS-UA 9103 Intermediate Arabic I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9104",
+            "course_name": "Intermediate Arabic II",
+            "description": "MEIS-UA 9104 Intermediate Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9105",
+            "course_name": "Advanced Contemporary Arabic I",
+            "description": "MEIS-UA 9105 Advanced Contemporary Arabic I",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9106",
+            "course_name": "Advanced Contemporary Arabic II",
+            "description": "MEIS-UA 9106 Advanced Contemporary Arabic II",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9107",
+            "course_name": "Food & Identity In Middle East & its Jewish Communities",
+            "description": "MEIS-UA 9107 Food & Identity In Middle East & its Jewish Communities",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9108",
+            "course_name": "Ethnicity in the Jewish People and State of Isreal",
+            "description": "MEIS-UA 9108 Ethnicity in the Jewish People and State of Isreal",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9109",
+            "course_name": "Travel & Discovery in World History",
+            "description": "MEIS-UA 9109 Travel & Discovery in World History",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9110",
+            "course_name": "Media, Culture & Communication",
+            "description": "MEIS-UA 9110 Media, Culture & Communication",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9111",
+            "course_name": "Political Cinema & Representation of the Other",
+            "description": "MEIS-UA 9111 Political Cinema & Representation of the Other",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9150",
+            "course_name": "Languages of Israel",
+            "description": "MEIS-UA 9150 Languages of Israel \nAn introduction to the principal languages spoken in\ncontemporary Israel (chiefly Hebrew and Arabic, but also English, Russian,\nand Amharic) and to social practices and state policies concerning their\nuse.  As part of the course students will learn the Hebrew and Arabic\nalphabets and the basics of the two languages' lexicons and grammatical\nstructures, with a mind to exploring their common features.  The course\nincludes tours of Tel Aviv's multilingual \"linguistic landscape,\" in which\ndifferent languages are displayed in public spaces both separately and\ntogether.",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9165",
+            "course_name": "The Mediterranean: a Postcolonial Sea",
+            "description": "MEIS-UA 9165 The Mediterranean: a Postcolonial Sea",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9201",
+            "course_name": "Islam & The Shaping of of The Middle East",
+            "description": "MEIS-UA 9201 Islam & The Shaping of of The Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9688",
+            "course_name": "Sem:",
+            "description": "MEIS-UA 9688 Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9691",
+            "course_name": "What is Islam?",
+            "description": "MEIS-UA 9691 What is Islam?",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9694",
+            "course_name": "Islam and The West",
+            "description": "MEIS-UA 9694 Islam and The West",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9750",
+            "course_name": "Politics of The Near & Middle East",
+            "description": "MEIS-UA 9750 Politics of The Near & Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9751",
+            "course_name": "Topics in Middle East Politics:Palestinan-Israeli Conflict",
+            "description": "MEIS-UA 9751 Topics in Middle East Politics:Palestinan-Israeli Conflict",
+            "offering": false
+        },
+        {
+            "course_id": "MEIS-UA 9997",
+            "course_name": "Independent Study",
+            "description": "MEIS-UA 9997 Independent Study",
+            "offering": false
+        }
+    ]
+}

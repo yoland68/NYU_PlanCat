@@ -1,0 +1,154 @@
+{
+    "major_id": "MPAIA-GE",
+    "file": "./2015-2016/Interactive_Music_Courses_(MPAIA-GE).html",
+    "courses": [
+        {
+            "course_id": "MPAIA-GE 2005",
+            "course_name": "Integrated Arts",
+            "description": "MPAIA-GE 2005 Integrated Arts",
+            "offering": false
+        },
+        {
+            "course_id": "MPAIA-GE 2010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3769",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B02",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Magill, Richard"
+                }
+            ],
+            "course_name": "Human Dev/Ed in Arts",
+            "description": "MPAIA-GE 2010 Human Dev/Ed in Arts \nExamines theories of human development in the practice of art, dance, music and theatre, and the role of the arts in education. The course emphasizes a view of the arts and art-making behavior that is based on the study of human cognition and emotion. The goal of the course is to understand artistic behavior as both an act of expression and intelligence. Students ill explore these perspectives through fieldwork in arts education settings. Special topics relating to cultural diversity, technology, and creativity will be examined.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-GE 2029",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3770",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 512",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Yen, Chianan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "4830",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Technology Resources for Performing Arts Educ",
+            "description": "MPAIA-GE 2029 Technology Resources for Performing Arts Educ \nApplications of communication and digital technologies as designed for performing arts as resources for performing arts educators. Special emphasis is given to the use of the World Wide Web (WWW) as a resource for researching and creating performing arts materials and developing collaboration in the performing arts.  Applications of the WWW as an archive for performing arts materials and portfolios are also explored.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-GE 2031",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3771",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Beyer, Thomas",
+                    "time": "Mon 10.00 AM - 11.40 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Collaborative Projects in The Performing Arts",
+            "description": "MPAIA-GE 2031 Collaborative Projects in The Performing Arts \nProjects developed collaboratively by performing artists, arts technicians, composers, choreographers, directors, and others designed for live and processed performance in various performance venues.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-GE 2050",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3772",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL151",
+                    "time": "Fri 1.30 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "Seymour, Phillip"
+                }
+            ],
+            "course_name": "Arts Early Chldhd Curr I",
+            "description": "MPAIA-GE 2050 Arts Early Chldhd Curr I \nTheoretical, philosophical,, and practical bases for creating an integrated early childhood curriculum focusing on infusing the curriculum with music and movement activities.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-GE 2051",
+            "course_name": "Arts Early Chld Curr II",
+            "description": "MPAIA-GE 2051 Arts Early Chld Curr II \nDramatic play and its contributions to an integrated early childhood curriculum",
+            "offering": false
+        },
+        {
+            "course_id": "MPAIA-GE 3097",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4031",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 837",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Gilbert, John"
+                }
+            ],
+            "course_name": "Dissertation Proposal Seminar",
+            "description": "MPAIA-GE 3097 Dissertation Proposal Seminar",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-GE 3400",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3773",
+                    "section": "001",
+                    "period": "10/02/2015 - 10/02/2015",
+                    "location": null,
+                    "time": "Fri 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "SILV 52011/06/2015 - 11/06/2015 Fri 5.00 PM - 8.00 PM at SILV 52012/04/2015 - 12/04/2015 Fri 5.00 PM - 8.00 PM at SILV 520"
+                }
+            ],
+            "course_name": "Performing Arts Research Collegium",
+            "description": "MPAIA-GE 3400 Performing Arts Research Collegium \nDoctoral dissertation advisement with dissertation committee coordinated with seminars in which students present their works in progress and discuss research problems. Current researchers in the performing arts are invited to share research and writing.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAIA-GE 3401",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3774",
+                    "section": "001",
+                    "period": "10/02/2015 - 10/02/2015",
+                    "location": null,
+                    "time": "Fri 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "SILV 52011/06/2015 - 11/06/2015 Fri 5.00 PM - 8.00 PM at SILV 52012/04/2015 - 12/04/2015 Fri 5.00 PM - 8.00 PM at SILV 520"
+                }
+            ],
+            "course_name": "Performing Arts Research Collegium",
+            "description": "MPAIA-GE 3401 Performing Arts Research Collegium \nDoctoral dissertation advisement with dissertation committee coordinated with seminars in which students present their works in progress and discuss research problems. Current researchers in the performing arts are invited to share research and writing.",
+            "offering": true
+        }
+    ]
+}

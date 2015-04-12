@@ -1,0 +1,766 @@
+{
+    "major_id": "ALHAM-UA",
+    "file": "./2015-2016/Hamilton_Program_(ALHAM-UA).html",
+    "courses": [
+        {
+            "course_id": "ALHAM-UA 100",
+            "course_name": "Doing Political Econ: Appr to Public Policy",
+            "description": "ALHAM-UA  100 Doing Political Econ: Appr to Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 110",
+            "course_name": "Fld Sem: Representation & Accountability",
+            "description": "ALHAM-UA  110 Fld Sem: Representation & Accountability",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 131",
+            "course_name": "Field Sem: Congressional Elections",
+            "description": "ALHAM-UA  131 Field Sem: Congressional Elections",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 171",
+            "course_name": "Int Field Sem: Domestic Determinants of Ir",
+            "description": "ALHAM-UA  171 Int Field Sem: Domestic Determinants of Ir",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 172",
+            "course_name": "War, Peace, & World Order",
+            "description": "ALHAM-UA  172 War, Peace, & World Order",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 172",
+            "course_name": "Mimesis and Mimicry",
+            "description": "ALHAM-UA  172 Mimesis and Mimicry",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7779",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 200",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Egan, Patrick"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7780",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-11"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7781",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7782",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "WAVE 669"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7783",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-17"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7784",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 308"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16769",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-10"
+                }
+            ],
+            "course_name": "Power & Politics in America",
+            "description": "ALHAM-UA  300 Power & Politics in America",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 315",
+            "course_name": "Controversies in Public Policy:  Logic and Evidence",
+            "description": "ALHAM-UA  315 Controversies in Public Policy:  Logic and Evidence",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 337",
+            "course_name": "The Rule of Law",
+            "description": "ALHAM-UA  337 The Rule of Law",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 341",
+            "course_name": "Private Influence in Public Policy",
+            "description": "ALHAM-UA  341 Private Influence in Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 342",
+            "course_name": "Amer Public Opinion & Pressure Groups",
+            "description": "ALHAM-UA  342 Amer Public Opinion & Pressure Groups",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 344",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8379",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "8379",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "The Election Process",
+            "description": "ALHAM-UA  344 The Election Process",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 350",
+            "course_name": "Bureaucracy & Public Policy",
+            "description": "ALHAM-UA  350 Bureaucracy & Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 395",
+            "course_name": "American Field Sem:",
+            "description": "ALHAM-UA  395 American Field Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 396",
+            "course_name": "Honors Sem: Politics & Courts",
+            "description": "ALHAM-UA  396 Honors Sem: Politics & Courts",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 500",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6083",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19W4 101",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Tucker, Joshua"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6084",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "SILV 501"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6085",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-10"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6086",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-2"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6087",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-17"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6088",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-17"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6089",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 210"
+                }
+            ],
+            "course_name": "Comparative Politics",
+            "description": "ALHAM-UA  500 Comparative Politics",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 505",
+            "course_name": "The Electoral Process in Comparative Perspectives",
+            "description": "ALHAM-UA  505 The Electoral Process in Comparative Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 530",
+            "course_name": "Latin American Politics",
+            "description": "ALHAM-UA  530 Latin American Politics",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 562",
+            "course_name": "Comparative Politics of South Asia",
+            "description": "ALHAM-UA  562 Comparative Politics of South Asia",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 584",
+            "course_name": "Comtemporary African Politics Scacco",
+            "description": "ALHAM-UA  584 Comtemporary African Politics Scacco",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 595",
+            "course_name": "Tpcs:",
+            "description": "ALHAM-UA  595 Tpcs:",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 700",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "7711",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 200",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Satyanath, Shanker"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7712",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "194M 209"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7713",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7714",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 210"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7715",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 301"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7716",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-11"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7717",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-4"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7718",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 308"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7719",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7720",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 518"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7721",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 308"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8613",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 301"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8614",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 308"
+                }
+            ],
+            "course_name": "International Politics",
+            "description": "ALHAM-UA  700 International Politics",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 710",
+            "course_name": "US Foreign Policy",
+            "description": "ALHAM-UA  710 US Foreign Policy",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 711",
+            "course_name": "The Politics of Human Rights",
+            "description": "ALHAM-UA  711 The Politics of Human Rights",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 712",
+            "course_name": "National Security",
+            "description": "ALHAM-UA  712 National Security",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 720",
+            "course_name": "Diplomacy & Negotiation",
+            "description": "ALHAM-UA  720 Diplomacy & Negotiation",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 725",
+            "course_name": "Political Economy of Development",
+            "description": "ALHAM-UA  725 Political Economy of Development",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 741",
+            "course_name": "War, Peace, and World Order",
+            "description": "ALHAM-UA  741 War, Peace, and World Order",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 775",
+            "course_name": "Int'L Political Economy",
+            "description": "ALHAM-UA  775 Int'L Political Economy",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 795",
+            "course_name": "Int Field Sem:",
+            "description": "ALHAM-UA  795 Int Field Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 800",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6090",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 405",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Acikgoz, Gizem"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6091",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6091",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6092",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6093",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "7722",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8916",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16768",
+                    "section": "007",
+                    "period": "09/08/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                }
+            ],
+            "course_name": "Quantitative Methods in Political Science",
+            "description": "ALHAM-UA  800 Quantitative Methods in Political Science",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 810",
+            "course_name": "Political Engineering: Design of Institutions",
+            "description": "ALHAM-UA  810 Political Engineering: Design of Institutions",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 812",
+            "course_name": "Intro to Political Psychology",
+            "description": "ALHAM-UA  812 Intro to Political Psychology",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 842",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "6094",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 414",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Casper, Brett"
+                }
+            ],
+            "course_name": "Doing Political Economy: Apprs to Public Policy",
+            "description": "ALHAM-UA  842 Doing Political Economy: Apprs to Public Policy",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 844",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "8377",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 208",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Brams, Steven"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "8378",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "16767",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "25W4 C-8"
+                }
+            ],
+            "course_name": "Games, Strategy, & Politics",
+            "description": "ALHAM-UA  844 Games, Strategy, & Politics",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 845",
+            "course_name": "Social Choice & Politics",
+            "description": "ALHAM-UA  845 Social Choice & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 895",
+            "course_name": "Field Sem:",
+            "description": "ALHAM-UA  895 Field Sem:",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 950",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20485",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 412",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Beck, Nathaniel"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "20487",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20486",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "25W4 C-6"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20490",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Honors",
+            "description": "ALHAM-UA  950 Senior Honors",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 990",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20491",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gilligan, Michael"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "20492",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 508",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Smith, Alastair"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20493",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "20494",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                }
+            ],
+            "course_name": "IR Senior Honors",
+            "description": "ALHAM-UA  990 IR Senior Honors",
+            "offering": true
+        },
+        {
+            "course_id": "ALHAM-UA 991",
+            "course_name": "Ir Senior Honors",
+            "description": "ALHAM-UA  991 Ir Senior Honors",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 994",
+            "course_name": "Tpcs:",
+            "description": "ALHAM-UA  994 Tpcs:",
+            "offering": false
+        },
+        {
+            "course_id": "ALHAM-UA 1124",
+            "course_name": "Contemporary African Politics",
+            "description": "ALHAM-UA 1124 Contemporary African Politics",
+            "offering": false
+        }
+    ]
+}

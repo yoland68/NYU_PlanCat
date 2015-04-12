@@ -1,0 +1,284 @@
+{
+    "major_id": "STAT-UB",
+    "file": "./2015-2016/Statistics_&_Operations_Research(STAT-UB).html",
+    "courses": [
+        {
+            "course_id": "STAT-UB 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9281",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Brabazon, Kevin"
+                }
+            ],
+            "course_name": "Stats F/Business Control",
+            "description": "STAT-UB    1 Stats F/Business Control \nThis course examines modern statistical methods as a basis for decision making in the face of uncertainty. Topics include probability theory, discrete and continuous distributions, hypothesis testing, estimation, and statistical quality control. With the aid of computers, these statistical methods are used to analyze data.",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9282",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/20/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Perry, Patrick"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9536",
+                    "section": "002",
+                    "period": "10/21/2015 - 12/15/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Brabazon, Kevin"
+                }
+            ],
+            "course_name": "Regress/Forcasting Model",
+            "description": "STAT-UB    3 Regress/Forcasting Model \nPresents an introduction to statistical models and their application to decision making. Topics include the simple linear regression model, inference in regression analysis, sensitivity analysis, and multiple regression analysis.",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 8",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17247",
+                    "section": "001",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "Lakner, Peter",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "STAT-UB    8\n\n   Appl Stoch Proc F/Fin Models\n\nPresents a mathematical background for the stochastic processes that are widely employed as modeling tools in finance. The emphasis is on an intuitive approach and examples rather than on proofs and mathematical rigor. Topics include random walks, martingales, Markov chains, Poisson process and other continuous time Markov chains, Brownian motion, geometric Brownian motion, and other diffusion processes. The relevance of the considered processes to financial modeling is stressed throughout. In particular, applications to pricing of derivative securities and to modeling of the term structure of...\n\n      more description for STAT-UB    8 \u00bb\n\n      \n\n\n\nPresents a mathematical background for the stochastic processes that are widely employed as modeling tools in finance. The emphasis is on an intuitive approach and examples rather than on proofs and mathematical rigor. Topics include random walks, martingales, Markov chains, Poisson process and other continuous time Markov chains, Brownian motion, geometric Brownian motion, and other diffusion processes. The relevance of the considered processes to financial modeling is stressed throughout. In particular, applications to pricing of derivative securities and to modeling of the term structure of interest rates are discussed.\n\n      less description for STAT-UB    8 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 10",
+            "course_name": "Categorical Data",
+            "description": "STAT-UB   10 Categorical Data \nIntroduces discrete random variables, with most of the emphasis going to the bivariate and multivariate situations. Major topics are the chi-squared statistic, Fisher?s exact test, odds ratio estimates and intervals, sets of tables, the log-linear model, model fitting, and logit analysis. Minor topics that may be covered are the Mantel-Haenszel statistic, rate standardizing, and detailed modeling of interaction in the two-dimension table.",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 11",
+            "course_name": "Intro to Sampling Techniques",
+            "description": "STAT-UB   11 Intro to Sampling Techniques \nConsiders commonly used sampling schemes such as simple, random, stratified, multistage, and double sampling and examines their efficiency. Studies methods of estimation, including ratio and regression. Other topics include poststratification, multivariate surveys, analytic studies, problems of nonresponse, nonsampling errors, and randomized response technique. Theory is illustrated with examples from diverse fields.",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 14",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17248",
+                    "section": "001",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "Melnick, Edward",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro Theory of Probability",
+            "description": "STAT-UB   14 Intro Theory of Probability \nCovers the basic concepts of probability. Topics include the axiomatic definition of probability; combinatorial theorems; conditional probability and independent events; random variables and probability distributions; expectation of functions of random variables; special discrete and continuous distributions, including the chi-square, t, F, and bivariate normal distributions; law of large numbers; central limit theorem; and moment generating functions. The theory of statistical estimation is introduced with a discussion on maximum likelihood estimation.",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 15",
+            "course_name": "Stat Infer/Regress.Analy",
+            "description": "STAT-UB   15 Stat Infer/Regress.Analy \nConsists of two distinct components: statistical inference and regression analysis. Statistical inference topics include the principles of statistical estimation and inference, Neyman Pearson Lemma, testing of means, variances, tests of independence, and nonparametric methods. Regression analysis discusses the general linear regression model, least squares estimation, departures from standard assumptions, autocorrelation, multicollinearity, analysis of residuals, choice of variables, and nonlinear models.",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 17",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17249",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "Simonoff, Jeffrey",
+                    "time": "Tue,Thu 1.30 PM - 2.50 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "STAT-UB   17\n\n   Regression & Multivarite Data Analysis\n\nThis is a data-driven, applied statistics course focusing on the analysis of data using regression models. It emphasizes applications to the analysis of business and other data and makes extensive use of computer statistical packages. Topics include simple and multiple linear regression, residual analysis and other regression diagnostics, multicollinearity and model selection, autoregression, heteroscedasticity, regression models using categorical predictors, and logistic regression. All topics are illustrated on real data sets obtained from financial markets, market research studies, and othe...\n\n      more description for STAT-UB   17 \u00bb\n\n      \n\n\n\nThis is a data-driven, applied statistics course focusing on the analysis of data using regression models. It emphasizes applications to the analysis of business and other data and makes extensive use of computer statistical packages. Topics include simple and multiple linear regression, residual analysis and other regression diagnostics, multicollinearity and model selection, autoregression, heteroscedasticity, regression models using categorical predictors, and logistic regression. All topics are illustrated on real data sets obtained from financial markets, market research studies, and other scientific inquiries.\n\n      less description for STAT-UB   17 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 18",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17250",
+                    "section": "001",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "Hurvich, Clifford",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "STAT-UB   18\n\n   Forecast Time Series Dat\n\nThe course is an exposition of time series and forecasting techniques with emphasis on ideas, methods, and interpretations. Discusses the determination of the best analytical model for a given problem and the application of this model in the decision-making process for purposes that include description, explanation, and control of time-dependent data. Illustrates all techniques with case studies and uses computer program packages as an aid for obtaining solutions. The major focus is the Box-Jenkins approach to modeling and forecasting time series. Topics include model building, model selecting...\n\n      more description for STAT-UB   18 \u00bb\n\n      \n\n\n\nThe course is an exposition of time series and forecasting techniques with emphasis on ideas, methods, and interpretations. Discusses the determination of the best analytical model for a given problem and the application of this model in the decision-making process for purposes that include description, explanation, and control of time-dependent data. Illustrates all techniques with case studies and uses computer program packages as an aid for obtaining solutions. The major focus is the Box-Jenkins approach to modeling and forecasting time series. Topics include model building, model selecting, descriptions of timing and correlation relationships among data sets and forecasting models, estimation, and diagnostic checking. Other topics are seasonal adjustment, exponential smoothing models, state space models, and nonlinear models.\n\n      less description for STAT-UB   18 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 21",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17251",
+                    "section": "001",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "Frydman, Halina",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "STAT-UB   21\n\n   Stochastic Processes I\n\nThis is an introductory course in stochastic processes. Presents classes of stochastic processes, which are widely used as modeling tools in many fields of application, including finance, economics, accounting, and actuarial science. Covers basic theory of discrete and continuous time Markov chains, Brownian motion and its generalization, and martingales. Also discusses statistical aspects of these processes. In the final part of the course, introduces the idea of stochastic integration and develops the rules of stochastic calculus. If time permits, also considers some stochastic differential ...\n\n      more description for STAT-UB   21 \u00bb\n\n      \n\n\n\nThis is an introductory course in stochastic processes. Presents classes of stochastic processes, which are widely used as modeling tools in many fields of application, including finance, economics, accounting, and actuarial science. Covers basic theory of discrete and continuous time Markov chains, Brownian motion and its generalization, and martingales. Also discusses statistical aspects of these processes. In the final part of the course, introduces the idea of stochastic integration and develops the rules of stochastic calculus. If time permits, also considers some stochastic differential equations.\n\n      less description for STAT-UB   21 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 22",
+            "course_name": "Oper Mgmt Stochastic Env",
+            "description": "STAT-UB   22 Oper Mgmt Stochastic Env",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 27",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9672",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Tenenbein, Aaron"
+                }
+            ],
+            "course_name": "Mathematics of Investmnt",
+            "description": "STAT-UB   27 Mathematics of Investmnt \nDiscusses the mathematical and technical aspects of investments. Topics include measurement of interest and discount rates, accumulated value and present value, annuities, sinking funds, amortization of debt, and determination of yield rates on securities. Applications include bond evaluation, mortgages, capital budgeting, and depreciation methods.",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-UB 37",
+            "course_name": "Life Contingencies",
+            "description": "STAT-UB   37 Life Contingencies \nApplies probability and mathematics of investment to problems of premiums and reserves on annuities and insurance policies. Topics include probabilities of mortality, laws of mortality, joint life probabilities and annuities, and multiple decrement theory. Applications to pension plans are discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 40",
+            "course_name": "",
+            "description": "STAT-UB   40\n\n   Actuarial Aspects in Financing Retirement\n\nThis course is an introduction to the major actuarial issues in financing retirement plans. The course focuses on the interesting financial theories raised by companies with large defined benefit pension plans. It also deals with the significant role of defined contribution plans (mostly 401(k)s and IRAs), considering why they are so popular with employer and employees, and why they fail in many instances. The course explores the dilemma of how to convert lump sum amounts at retirement into incomes that last through retirement yet are adequate and secure, as well as the dilemmas in financing g...\n\n      more description for STAT-UB   40 \u00bb\n\n      \n\n\n\nThis course is an introduction to the major actuarial issues in financing retirement plans. The course focuses on the interesting financial theories raised by companies with large defined benefit pension plans. It also deals with the significant role of defined contribution plans (mostly 401(k)s and IRAs), considering why they are so popular with employer and employees, and why they fail in many instances. The course explores the dilemma of how to convert lump sum amounts at retirement into incomes that last through retirement yet are adequate and secure, as well as the dilemmas in financing government entitlements (social security, Medicare and Medicaid) and the likely future, including projection of longevity. Students also explore issues surrounding the financing of post-retirement medical care and long-term care (nursing home stays) and how employer, government, and family responsibilities are evolving.\n\n      less description for STAT-UB   40 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 94",
+            "course_name": "Ind Study: Stats, Op Res or Actuarial Science",
+            "description": "STAT-UB   94 Ind Study: Stats, Op Res or Actuarial Science",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 95",
+            "course_name": "Ind Study: Stats, Op Res or Actuarial SCI",
+            "description": "STAT-UB   95 Ind Study: Stats, Op Res or Actuarial SCI",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 96",
+            "course_name": "Actuarial Prblms Wksp II",
+            "description": "STAT-UB   96 Actuarial Prblms Wksp II",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 98",
+            "course_name": "Ind Study: Stats, Op Res or Actuarial Science",
+            "description": "STAT-UB   98 Ind Study: Stats, Op Res or Actuarial Science",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 99",
+            "course_name": "Ind Study: Stats, Op Res or Actuarial Science",
+            "description": "STAT-UB   99 Ind Study: Stats, Op Res or Actuarial Science",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-UB 103",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9286",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Mon,Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Giloni, Avi"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9287",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC UC25",
+                    "time": "Mon,Wed,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Brabazon, Kevin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9288",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 3-90",
+                    "time": "Mon,Wed,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Chen, Xi"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9648",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-90",
+                    "time": "Tue,Thu,Fri 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Frydman, Halina"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17243",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Mon,Wed,Fri 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Tatum, Lawrence"
+                }
+            ],
+            "course_name": "Stats F/Bus Cntl Regress & Forecasting Models",
+            "description": "STAT-UB  103 Stats F/Bus Cntl Regress & Forecasting Models \nThis course examines modern statistical methods as a basis for decision making in the face of uncertainty. Topics include probability theory, discrete and continuous distributions, hypothesis testing, estimation, and statistical quality control. With the aid of computers, these statistical methods are used to analyze data. Also presented are an introduction to statistical models and their application to decision making. Topics include the simple linear regression model, inference in regression analysis, sensitivity analysis, and multiple regression analysis.",
+            "offering": true
+        }
+    ]
+}

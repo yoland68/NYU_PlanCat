@@ -1,0 +1,868 @@
+{
+    "major_id": "CLASS-GA",
+    "file": "./2015-2016/Classics_(CLASS-GA).html",
+    "courses": [
+        {
+            "course_id": "CLASS-GA 1001",
+            "course_name": "Intro to Classical Stds",
+            "description": "CLASS-GA 1001 Intro to Classical Stds \nSurvey of tools and methods used in classical philology; papyrology; paleography; stemmatization of manuscripts; editing of texts; source criticism (reconstruction of lost works, disentangling of diverse traditions); historiographical use of literary material.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1002",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20024",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "SILV 503A"
+                }
+            ],
+            "course_name": "Prosem in ArchaeologyCleopatra between East & West: Archaeology",
+            "description": "CLASS-GA 1002 Prosem in ArchaeologyCleopatra between East & West: Archaeology \nMethods and problems of classics research as they pertain to the archaeological sciences; bibliographical resources and problems involving the interpretation and evaluation of evidence from epigraphy, numismatics, art, and architecture. Typical archaeological sites are surveyed and analyzed.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 1003",
+            "course_name": "Latin Lit Origins Repub Augustan Movement",
+            "description": "CLASS-GA 1003 Latin Lit Origins Repub Augustan Movement \nExtensive reading in Latin prose and poetry of the republican period. Texts are studied in chronological sequence, and major themes of republican intellectual history are explored. Readings include selections from the archaic laws, songs, Livius, Naevius, Ennius, Accius, Pacuvius, Plautus, Terence, Caecilius, Cato, Lucilius, Cicero, Sallust, Lucretius, Catullus, Varro, Varro of Atax, Cinna, and Calvus.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1005",
+            "course_name": "Latin Lit, Imperial Lit:",
+            "description": "CLASS-GA 1005 Latin Lit, Imperial Lit: \nExtensive reading in Latin prose and poetry of the Augustan and imperial periods. Texts are studied in chronological sequence, and major themes of early imperial intellectual history are explored. Readings focus on literature of the golden and silver ages in a variety of genres, including epic, pastoral, tragic drama, satire, epigram, letters, and historical writings.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1009",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20025",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "SILV 503A"
+                }
+            ],
+            "course_name": "Greek Literature",
+            "description": "CLASS-GA 1009 Greek Literature \nExtensive reading in Greek prose and poetry of the archaic and classical periods. Texts are studied in chroExtensive reading in Greek prose and poetry of the archaic and classical periods. Texts are studied in chronological sequence, and major themes of Greek cultural and intellectual history such as the rise of the polis are explored. Readings range from Homer to Thucydides and include both major and minor authors.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 1011",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19855",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "SILV 503A"
+                }
+            ],
+            "course_name": "Greek Rhetoric and Stylistics",
+            "description": "CLASS-GA 1011 Greek Rhetoric and Stylistics \nThe development of Greek rhetoric and prose style. A review of morphology and syntax is followed by intensive close reading of selections from authors in chronological sequence. Emphasis is on close translation and syntactical and stylistic analysis.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 1012",
+            "course_name": "Latin Rhetoric/Stylistic",
+            "description": "CLASS-GA 1012 Latin Rhetoric/Stylistic \nThe development of Latin rhetoric and prose style. A review of morphology and syntax is followed by close reading of selections with emphasis on translation and syntactical and stylistic analysis.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1013",
+            "course_name": "Greek Literature Survey",
+            "description": "CLASS-GA 1013 Greek Literature Survey \nArchaic, classical, and Hellenistic poetry, including selections from Homer, Hesiod, the Homeric Hymns, lyric poetry, classical drama, and the poetry of Alexandria. Texts are studied in chronological sequence, and attention is paid to Greek intellectual and social history as well as to questions of style and genre.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1014",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19856",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Survey/Latin Literature",
+            "description": "CLASS-GA 1014 Survey/Latin Literature",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 1016",
+            "course_name": "Art & Cult of Etruscans",
+            "description": "CLASS-GA 1016 Art & Cult of Etruscans",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1022",
+            "course_name": "Greek History: Rise of Polis",
+            "description": "CLASS-GA 1022 Greek History: Rise of Polis",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1023",
+            "course_name": "Topics in Greek Hist: Cults & Shrines",
+            "description": "CLASS-GA 1023 Topics in Greek Hist: Cults & Shrines",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1036",
+            "course_name": "Greek Philosophy",
+            "description": "CLASS-GA 1036 Greek Philosophy",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1040",
+            "course_name": "Intro to Ancient Studies",
+            "description": "CLASS-GA 1040 Intro to Ancient Studies \nIntroduction to the methods and approaches used to uncover the ancient past and to the categories of evidence available in this quest. Develops a sense of how to apply various methods to the study of a given corpus of data. Deals with the means of transmission of ancient evidence to modern scholarship and culture and provides a sense of ancient studies as a whole.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1064",
+            "course_name": "Latin for Graduate Research I",
+            "description": "CLASS-GA 1064 Latin for Graduate Research I",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1065",
+            "course_name": "Latin for Graduate Research II",
+            "description": "CLASS-GA 1065 Latin for Graduate Research II",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1066",
+            "course_name": "Medieval Latin",
+            "description": "CLASS-GA 1066 Medieval Latin",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1140",
+            "course_name": "Med/Mod Greek Oral Narr Poetry",
+            "description": "CLASS-GA 1140 Med/Mod Greek Oral Narr Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1142",
+            "course_name": "Modern Greek Poetry",
+            "description": "CLASS-GA 1142 Modern Greek Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1143",
+            "course_name": "Aristotle Poetics",
+            "description": "CLASS-GA 1143 Aristotle Poetics",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1144",
+            "course_name": "Poetics Oral Comp:Homer & Mod Grk Folksongs",
+            "description": "CLASS-GA 1144 Poetics Oral Comp:Homer & Mod Grk Folksongs",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1145",
+            "course_name": "Mod Greek Literature",
+            "description": "CLASS-GA 1145 Mod Greek Literature",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1150",
+            "course_name": "Tpcs: Greek Priestesses: Curating An Exhibition",
+            "description": "CLASS-GA 1150 Tpcs: Greek Priestesses: Curating An Exhibition",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1151",
+            "course_name": "Tpcs: Ancient Art at Risk: Cons/Ethics/Cult",
+            "description": "CLASS-GA 1151 Tpcs: Ancient Art at Risk: Cons/Ethics/Cult",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 1502",
+            "course_name": "Women/Classical Antiquity",
+            "description": "CLASS-GA 1502 Women/Classical Antiquity",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2019",
+            "course_name": "Greek Urbanism",
+            "description": "CLASS-GA 2019 Greek Urbanism",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2272",
+            "course_name": "Svetonius",
+            "description": "CLASS-GA 2272 Svetonius",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2315",
+            "course_name": "Express Self/Ancient & Mod Eur: Plato-Descantes",
+            "description": "CLASS-GA 2315 Express Self/Ancient & Mod Eur: Plato-Descantes",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2501",
+            "course_name": "Intro to Epigraphy",
+            "description": "CLASS-GA 2501 Intro to Epigraphy",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2502",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19860",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 229",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Bianchi, Emanuela"
+                }
+            ],
+            "course_name": "Revisiting The Western Classics",
+            "description": "CLASS-GA 2502 Revisiting The Western Classics",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 2510",
+            "course_name": "Archaeology & Monuments:",
+            "description": "CLASS-GA 2510 Archaeology & Monuments:",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2541",
+            "course_name": "Greek Paleogralthy",
+            "description": "CLASS-GA 2541 Greek Paleogralthy \nIntroduction to medieval and Renaissance Greek literary hands in majuscule and minuscule scripts, dating of manuscripts, codicology, stemmatics, and textual criticism. Preparation of a specimen critical edition of a selected passage of Greek literature from manuscript facsimiles.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2551",
+            "course_name": "Latin Paleography",
+            "description": "CLASS-GA 2551 Latin Paleography",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2601",
+            "course_name": "History of Ancient Near East",
+            "description": "CLASS-GA 2601 History of Ancient Near East",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2811",
+            "course_name": "Caesar,Civil War",
+            "description": "CLASS-GA 2811 Caesar,Civil War",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2812",
+            "course_name": "Sallust",
+            "description": "CLASS-GA 2812 Sallust \nReading of one or both of the monographs and the major fragments of the Historiae. Attention is paid to Sallust?s contribution to the canonical style and aims of Latin historiography and to the development of the historical monograph as a narrative form.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2814",
+            "course_name": "Caesar & Lucan",
+            "description": "CLASS-GA 2814 Caesar & Lucan \nConsiders the writing of the Roman civil war from the perspectives of the victorious dictator and of the opposition poet. Questions of literary influence, political perspective, propaganda, and style are investigated. (In a given term, this course may concentrate more on one of the two texts than the other.)",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2816",
+            "course_name": "Livy",
+            "description": "CLASS-GA 2816 Livy \nStudy of selected books of the Ab urbe condita. Topics include the nature of Roman historiography and Livy?s place in its tradition, narrative structures and strategies, the relation of style to content, and contemporary political issues and Livy?s response to them.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2818",
+            "course_name": "Polybius & Livy",
+            "description": "CLASS-GA 2818 Polybius & Livy",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2821",
+            "course_name": "Tacitus",
+            "description": "CLASS-GA 2821 Tacitus \nReading of either the minor works or parts of the Annales and Historiae. Tacitus and his writing are considered in the context of his times, when empire had clearly come to stay, but when its nature was under question. In such a world, what was the job of history, or of a historian? Could real history still be written? If so, how?",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2832",
+            "course_name": "Lucretius",
+            "description": "CLASS-GA 2832 Lucretius \nReading of the De rerum natura as a masterpiece of poetry and philosophy, concentrating on the struggle between the two. Topics include mastering the fear of death, whether poetry is merely a didactic tool, language as a model for physics, and theories of the origins of civilization.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2838",
+            "course_name": "Pliny: Letters",
+            "description": "CLASS-GA 2838 Pliny: Letters \nSelections from Books I-IX of Pliny?s Epistles?with an eye especially to matters of history, culture, and society?reveal much about the life and interests of a member of the senatorial order. The correspondence between Pliny as governor of Pontus-Bithynia and the emperor Trajan (Book X) is examined as a unique specimen of such literature.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2839",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2142",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2142",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Roman Law & Society",
+            "description": "CLASS-GA 2839 Roman Law & Society",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 2843",
+            "course_name": "Cicero: Bellum Ciuile",
+            "description": "CLASS-GA 2843 Cicero: Bellum Ciuile \nReading of selected works, which may come from the oratorical, philosophical, or epistolary corpora. The focus of the course varies accordingly; in all, however, close reading is accompanied by a consideration of the orator/philosopher/citizen in his social and historical context.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2845",
+            "course_name": "Cicero'S Letters",
+            "description": "CLASS-GA 2845 Cicero'S Letters",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2851",
+            "course_name": "Petronius",
+            "description": "CLASS-GA 2851 Petronius",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2853",
+            "course_name": "Petronius & Apuleius: Roman Novel",
+            "description": "CLASS-GA 2853 Petronius & Apuleius: Roman Novel \nStudy of the Roman novel as a generic form based on selections from the Satyricon and the Golden Ass, with comparanda drawn from Greek novels.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2858",
+            "course_name": "The Age of Augustus",
+            "description": "CLASS-GA 2858 The Age of Augustus",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2860",
+            "course_name": "Law & Lawyers in The Severan Age",
+            "description": "CLASS-GA 2860 Law & Lawyers in The Severan Age",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2862",
+            "course_name": "Emperor Julian",
+            "description": "CLASS-GA 2862 Emperor Julian",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2868",
+            "course_name": "Euripides/Seneca",
+            "description": "CLASS-GA 2868 Euripides/Seneca",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2872",
+            "course_name": "Cattulus",
+            "description": "CLASS-GA 2872 Cattulus \nThe three major groups of the Catullan corpus?the polymetrics, the long poems, and the elegiacs?are examined as separate genres. Topics include what it meant to be a poeta novus in Republican Rome, Catullus?s polemical poetics, his Alexandrian and his Roman heritage, and the artifice of spontaneity.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2873",
+            "course_name": "Horace'S Odes",
+            "description": "CLASS-GA 2873 Horace'S Odes \nStudy of the Odes and Epodes or the Satires and Epistles. With the Odes, topics include Horace?s focus on the ?here and now? of the symposium versus his poetry?s claims to immortality, the rhetorical construction of lyric as communication with both addressee and reader, and Horace?s statements about poetry and his ambivalence about praising Augustus. In studying the hexameter poems, special attention is paid to the Satires about writing satire and to the literary Epistles, and especially to the self-ironizing poetic persona.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2876",
+            "course_name": "Latin Elegy:",
+            "description": "CLASS-GA 2876 Latin Elegy: \nSelections from Catullus, Propertius, Tibullus and the Tibullan corpus, and Ovid; later elegy may also be read. Topics include the role of the lover and the mistress, the self-referentiality of elegiac poetry, the tension between genre and content (particularly in Propertius), and the Ovidian codification of the elegiac form.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2878",
+            "course_name": "Roman Satire",
+            "description": "CLASS-GA 2878 Roman Satire \nStudy of the art form that the Romans claimed was entirely their own via a reading of selected poems of Lucilius, Horace, Persius, and Juvenal. Topics include satire as a ?mirror? of society, the satirist?s persona, and the language and literary form of the genre.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2882",
+            "course_name": "Virgil:",
+            "description": "CLASS-GA 2882 Virgil: \nStudy of the Eclogues and Georgics or the Aeneid. With the former, attention is paid to the symbolic function of the countryside as a moral space, poetic exchange as a model for society, poetry as political discourse, and Vergil?s modification of generic traditions. In the Aeneid, students examine an epic tradition that both embodies and questions traditional heroic values. Topics include the influence of non-epic genres, the new Roman hero, the sacrifice of private life, and the extent to which the Aeneid is a patriotic poem.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2887",
+            "course_name": "Ovid",
+            "description": "CLASS-GA 2887 Ovid \nOverview of Ovid?s poetic output (including love, elegy, didactic, epistolary, and epic poetry); concentrates on a particular poem or related group of poems. Topics include Ovid?s reaction to Vergil, the influence of the declamatory schools, Ovid?s creation of a new narrative style for epic poetry, and the poet?s response to Augustus.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2908",
+            "course_name": "Ancient Rhetoric",
+            "description": "CLASS-GA 2908 Ancient Rhetoric",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2912",
+            "course_name": "Herodotus",
+            "description": "CLASS-GA 2912 Herodotus \nStudy of the ?father of history,? focusing on the development of prose literature in fifth-century Greece, Herodotus?s relation to the scientific and scholarly tradition in Ionia, narrative structure and themes, history as self-definition, the barbarian, and Herodotus and tragedy.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2914",
+            "course_name": "Thucydides",
+            "description": "CLASS-GA 2914 Thucydides \nThucydides? place in the ancient historiographical tradition, particularly in relation to Herodotus, is considered. Topics may include the nature of evidence, Thucydides? use of speeches and narrative, sophistic influence, and the effect of Thucydidean history on later writers.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2916",
+            "course_name": "Xenophon",
+            "description": "CLASS-GA 2916 Xenophon",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2917",
+            "course_name": "Greek Meter",
+            "description": "CLASS-GA 2917 Greek Meter",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2918",
+            "course_name": "Biography:",
+            "description": "CLASS-GA 2918 Biography:",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2932",
+            "course_name": "Plato & Aristotle",
+            "description": "CLASS-GA 2932 Plato & Aristotle \nStudy of selected dialogue(s). Readings and topics vary with the instructor; possible focus includes Plato?s portrayal of Socrates and the Socratic method, the construction of the ideal state, the relationship between poetry and philosophy, Plato and the Sophists, and the teaching of virtue.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2936",
+            "course_name": "Aristotle",
+            "description": "CLASS-GA 2936 Aristotle \nSelected work(s) of the fourth-century philosopher. Possible topics include Aristotle?s relationship to Plato, Aristotle?s natural science and its later influences, theories of the ideal constitution and different political entities, and ancient literary criticism.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2941",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19857",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.15 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "OFFC"
+                }
+            ],
+            "course_name": "Greek Orators",
+            "description": "CLASS-GA 2941 Greek Orators \nStudy of one or more of the Attic orators in terms of textual, stylistic, legal, social, and historical problems. The relationship of ancient rhetorical theory and practice may also be considered.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 2944",
+            "course_name": "Demosthenes",
+            "description": "CLASS-GA 2944 Demosthenes",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2957",
+            "course_name": "Topics in Literary Thry I",
+            "description": "CLASS-GA 2957 Topics in Literary Thry I",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2963",
+            "course_name": "Aeschylus",
+            "description": "CLASS-GA 2963 Aeschylus \nClose reading of one of the seven extant plays. The peculiarities of Aeschylean language and, in the case of a play from the Oresteia, the relation of its plot to that of the trilogy as a whole is analyzed. The difficult dramaturgical and textual problems are sketched.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2965",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19859",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.30 PM - 8.30 PM",
+                    "open": true,
+                    "professor": "CUNY"
+                }
+            ],
+            "course_name": "Sophocles",
+            "description": "CLASS-GA 2965 Sophocles \nStudy of the most elusive and least easily characterized of the three Athenian tragedians through close reading of one or more of the extant tragedies. Topics include the Sophoclean hero, dramatic structure and experimentation, the myth of Oedipus, and the role of theatre in society.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 2966",
+            "course_name": "Sophocles Choral Odes",
+            "description": "CLASS-GA 2966 Sophocles Choral Odes",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2967",
+            "course_name": "Euripides",
+            "description": "CLASS-GA 2967 Euripides \nOverview of Euripides? career is followed by reading of selected tragedies. Particular attention is paid to the challenges he posed to the ?proper? tragic form, the influence of Aeschylus and the relationship between Sophocles and Euripides, contemporary political and intellectual influences, and the role of ritual and the divine in Euripidean art.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2970",
+            "course_name": "Aristophanes",
+            "description": "CLASS-GA 2970 Aristophanes \nStudy of the structure and content of old comedy as represented by the surviving comedies of Aristophanes. Includes political invective and satire; literary parody; utopianism; comic language, gesture, and costume.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2971",
+            "course_name": "Greek Lyric Poetry",
+            "description": "CLASS-GA 2971 Greek Lyric Poetry \nRepresentative selections (as in Campbell?s edition) of lyric poetry from the beginning through Hellenistic times. The particular focus and readings vary; sample topics include the development and specialization of generic, dialect, and metrical conventions; the influence of Homer; and the personal versus the choral poetic voice.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2972",
+            "course_name": "Pindar",
+            "description": "CLASS-GA 2972 Pindar",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2973",
+            "course_name": "Greco-Roman Comedy Menander",
+            "description": "CLASS-GA 2973 Greco-Roman Comedy Menander",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2976",
+            "course_name": "Theocritus",
+            "description": "CLASS-GA 2976 Theocritus \nThe writer of the Idylls situated in his literary and cultural milieu. Close attention is paid to the literary movements and controversies of the Alexandrian period, including the genre of bucolic poetry, its conventions, characters, and gestures, and Theocritus?s poems in praise of his Ptolemaic patrons.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2979",
+            "course_name": "Apollonius",
+            "description": "CLASS-GA 2979 Apollonius",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2981",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19858",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.15 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "CUNY"
+                }
+            ],
+            "course_name": "Homer:Odyssey",
+            "description": "CLASS-GA 2981 Homer:Odyssey \nEither the Iliad or the Odyssey is read in its entirety. Topics include the conventions and development of oral poetry; the relationship of gods and man; narrative structure and design; the poems as a source for ancient historiography, tragedy, and later epic; the role of women, especially Helen and Penelope; and the education of Telemachus.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 2982",
+            "course_name": "Hesiod",
+            "description": "CLASS-GA 2982 Hesiod",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 2987",
+            "course_name": "Hesiod & Homeric Hymns",
+            "description": "CLASS-GA 2987 Hesiod & Homeric Hymns \nClose reading of the Theogony and of the Homeric hymns; students may also read the Works and Days or the Batrachomyomachia and other poems in the Homeric corpus. Topics include the influence of Homeric epic, the conventions of didactic poetry, the form and structure of hymns, and the influence of Hesiod and the hymns on later Greek poets.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1242",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.15 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "SILV 503A"
+                }
+            ],
+            "course_name": "Sem in Classical StudiesCognitive Theory & Classics",
+            "description": "CLASS-GA 3000 Sem in Classical StudiesCognitive Theory & Classics \nVariable content.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3001",
+            "course_name": "Tpcs in Roman History",
+            "description": "CLASS-GA 3001 Tpcs in Roman History \nVariable content.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1243",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1243",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Spec Topics:Greek Composition",
+            "description": "CLASS-GA 3002 Spec Topics:Greek Composition \nVariable content.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3003",
+            "course_name": "Tpcs in Latin Literature",
+            "description": "CLASS-GA 3003 Tpcs in Latin Literature \nVariable content.",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3004",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1880",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1880",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Tpcs in Greek LiteratureBelief and Practice in Greek Religion",
+            "description": "CLASS-GA 3004 Tpcs in Greek LiteratureBelief and Practice in Greek Religion \nVariable content.",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3019",
+            "course_name": "Greek Cities in Roman Asia",
+            "description": "CLASS-GA 3019 Greek Cities in Roman Asia",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1244",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dir Read in Latin Lit I",
+            "description": "CLASS-GA 3101 Dir Read in Latin Lit I",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3102",
+            "course_name": "Dir Rdg in Latin Lit II",
+            "description": "CLASS-GA 3102 Dir Rdg in Latin Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3116",
+            "course_name": "Readings in Medieval Sources",
+            "description": "CLASS-GA 3116 Readings in Medieval Sources",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3201",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1245",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dir Read in Greek Lit I",
+            "description": "CLASS-GA 3201 Dir Read in Greek Lit I",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3202",
+            "course_name": "Dir Rdg in Greek Lit II",
+            "description": "CLASS-GA 3202 Dir Rdg in Greek Lit II",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3301",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1246",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dir Read in Roman Hist I",
+            "description": "CLASS-GA 3301 Dir Read in Roman Hist I",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3302",
+            "course_name": "Dir Rdg in Roman Hist II",
+            "description": "CLASS-GA 3302 Dir Rdg in Roman Hist II",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3303",
+            "course_name": "Dir Read in Roman Hist I",
+            "description": "CLASS-GA 3303 Dir Read in Roman Hist I",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3401",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1247",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dir Read in Greek Hist IReligion and Society in Herodotus",
+            "description": "CLASS-GA 3401 Dir Read in Greek Hist IReligion and Society in Herodotus",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3402",
+            "course_name": "Dir Rdg in Greek Hist II",
+            "description": "CLASS-GA 3402 Dir Rdg in Greek Hist II",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3509",
+            "course_name": "Supervised Rsch or Rdng",
+            "description": "CLASS-GA 3509 Supervised Rsch or Rdng",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 3998",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1248",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1249",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Dissertation Research",
+            "description": "CLASS-GA 3998 Dissertation Research",
+            "offering": true
+        },
+        {
+            "course_id": "CLASS-GA 3999",
+            "course_name": "Dissertation Research",
+            "description": "CLASS-GA 3999 Dissertation Research",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 9142",
+            "course_name": "Modern Greek Literature in Translation",
+            "description": "CLASS-GA 9142 Modern Greek Literature in Translation",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 9201",
+            "course_name": "Greek Drama",
+            "description": "CLASS-GA 9201 Greek Drama",
+            "offering": false
+        },
+        {
+            "course_id": "CLASS-GA 9202",
+            "course_name": "Greek Drama",
+            "description": "CLASS-GA 9202 Greek Drama",
+            "offering": false
+        }
+    ]
+}

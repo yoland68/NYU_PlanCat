@@ -1,0 +1,1468 @@
+{
+    "major_id": "POL-GA",
+    "file": "./2015-2016/Politics_(POL-GA).html",
+    "courses": [
+        {
+            "course_id": "POL-GA 1000",
+            "course_name": "Approach to Political Inquiry",
+            "description": "POL-GA 1000 Approach to Political Inquiry",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2012",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                }
+            ],
+            "course_name": "Hist of Pol & Social Thought",
+            "description": "POL-GA 1100 Hist of Pol & Social Thought \nMajor political thinkers of past and present. Special reference to enduring problems in political theory.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2013",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 9.00 AM - 10.00 AM",
+                    "open": true,
+                    "professor": "19W4 21709/02/2015 - 12/15/2015 Fri 3.00 PM - 5.00 PM at 19W4 335"
+                }
+            ],
+            "course_name": "Math for Political SCI",
+            "description": "POL-GA 1110 Math for Political SCI \nCovers basic topics of mathematics?calculus, analytic geometry, matrix algebra, etc.?with wide application in political science.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1120",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2014",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2236",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "GCASL 388"
+                }
+            ],
+            "course_name": "Intro Quant Pol Analys I",
+            "description": "POL-GA 1120 Intro Quant Pol Analys I \nIntroduces elementary statistical analysis and prepares the student for G53.2127. Topics include probability theory, distribution theory, estimation of simple statistical models, and hypothesis testing.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1150",
+            "course_name": "Quantitative Research in Political Science I",
+            "description": "POL-GA 1150 Quantitative Research in Political Science I",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1250",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2015",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed,Thu 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "19W4 43509/02/2015 - 12/15/2015 Fri 10.00 AM - 11.50 AM09/02/2015 - 12/15/2015 Thu 9.00 AM - 10.00 AM"
+                }
+            ],
+            "course_name": "Intro to Quantitative Political Analysis I",
+            "description": "POL-GA 1250 Intro to Quantitative Political Analysis I",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1251",
+            "course_name": "Intro to Quantitative Political Analysis II",
+            "description": "POL-GA 1251 Intro to Quantitative Political Analysis II",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1260",
+            "course_name": "Game Theory I",
+            "description": "POL-GA 1260 Game Theory I",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1300",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2422",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "American Politics Theories & Arguments",
+            "description": "POL-GA 1300 American Politics Theories & Arguments \nOverview of public policymaking process; political participation, organization, and structure; governmental institutions.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2016",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                }
+            ],
+            "course_name": "Fund of Political Strat & Campaign Mgmt",
+            "description": "POL-GA 1301 Fund of Political Strat & Campaign Mgmt",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1307",
+            "course_name": "Political Campaigning in Emerging Democracies",
+            "description": "POL-GA 1307 Political Campaigning in Emerging Democracies",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1314",
+            "course_name": "Political Campaigning and New Media",
+            "description": "POL-GA 1314 Political Campaigning and New Media",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1320",
+            "course_name": "Strat & Mechanisms of Political Communication",
+            "description": "POL-GA 1320 Strat & Mechanisms of Political Communication \nFocuses on the specialized forms of communication options available to political managers to win public support. Emphasis is on implementation of a coordinated communications strategy, message development, persuasion tactics, advertising, and use of media.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1322",
+            "course_name": "Political Advertising & Promotion",
+            "description": "POL-GA 1322 Political Advertising & Promotion",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1323",
+            "course_name": "Public Relations & Media Management",
+            "description": "POL-GA 1323 Public Relations & Media Management",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1325",
+            "course_name": "Crisis & Issues Mgmt",
+            "description": "POL-GA 1325 Crisis & Issues Mgmt",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1342",
+            "course_name": "Qualitative Inquiry for Political",
+            "description": "POL-GA 1342 Qualitative Inquiry for Political",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1345",
+            "course_name": "Polling & Survey Rsch",
+            "description": "POL-GA 1345 Polling & Survey Rsch",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1350",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2017",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "American Politics: The Domestic Pols of U.S. I",
+            "description": "POL-GA 1350 American Politics: The Domestic Pols of U.S. I \nBroad overview of important topics in the study of the domestic politics in the United States. Examines in depth the analysis and merits of a selection of contemporary research on political participation, mass opinion, elections, legislative politics, interbranch relations, bureaucratic politics, judicial politics, federalism, inequality, and the role of money in politics. Course goals are to (1) introduce students to important controversies in the study of American domestic politics and (2) encourage students to think rigorously about the process of conducting political research.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1351",
+            "course_name": "American Politics: The Domestic Pols of U.S. II",
+            "description": "POL-GA 1351 American Politics: The Domestic Pols of U.S. II \nA more focused exploration of important topics in the study of the domestic politics of the United States. Examines in depth the analysis and merits of a selection of contemporary research on political participation, mass opinion, elections, legislative politics, interbranch relations, bureaucratic politics, judicial politics, federalism, inequality, and the role of money in politics.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1355",
+            "course_name": "Campaign Finance and Resource Allocation",
+            "description": "POL-GA 1355 Campaign Finance and Resource Allocation",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1400",
+            "course_name": "Political Economy",
+            "description": "POL-GA 1400 Political Economy \nOverview of the emerging field of political economy. Surveys three broad intellectual traditions prominent in the political economy literature: (1) the application of microeconomic, game theoretic, and public choice theory to politics, (2) a focus on institutions and the behavior of their related politics, and (3) Marxian and neo-Marxian approaches. The course requires an understanding of basic microeconomics.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1450",
+            "course_name": "Political Economy",
+            "description": "POL-GA 1450 Political Economy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1500",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2018",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                }
+            ],
+            "course_name": "Comparative Politics",
+            "description": "POL-GA 1500 Comparative Politics \nBasic approaches to comparative political inquiry and the application of these approaches to specific problems of political analysis. Understanding of political phenomena in a comparative perspective.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1550",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2069",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                }
+            ],
+            "course_name": "Comp Pols of Industrial Democracies",
+            "description": "POL-GA 1550 Comp Pols of Industrial Democracies \nIntroduction to the comparative study of politics in different institutional and cultural settings. Themes covered include the role of institutional ?veto players?; presidential and parliamentary government; bicameral and unicameral legislatures; the institutional structuring of legislative decision making; electoral systems; social capital/civic culture; social and political cleavages; dimensions of policy and ideology; voting; party competition; and the making and breaking of governments.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 1551",
+            "course_name": "Comp Pols of Developing Countries",
+            "description": "POL-GA 1551 Comp Pols of Developing Countries \nIntroduction to the methodology and to some of the main themes in comparative politics of developing countries. Prepares students to do comparative research through an in-depth coverage of current debate in comparative politics of developing countries and an introduction to the main methodological approaches.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1730",
+            "course_name": "Normative Issues in International Relations",
+            "description": "POL-GA 1730 Normative Issues in International Relations \nWhat values guide us as we make choices about using force, ending conflict, protecting human rights, promoting social justice, preserving the environment, and participating in international organizations? This course is designed to provide analytical rigor to the perennial question: What role does ethics play in the conduct of foreign affairs? Principles of realism, liberalism, cosmopolitanism, communitarianism, and supranationalism are considered in light of specific case studies.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1732",
+            "course_name": "Topics in International Relations",
+            "description": "POL-GA 1732 Topics in International Relations \nIntroduction to the practice of policymaking in the United Introduction to the practice of policymaking in the United Nations system. Taught by practitioners from the United Nations, its affiliated agencies, and regional subgroups, and, in some cases, related nongovernmental organizations. Topics change depending on the expertise of the practitioner teaching the course. Note: Ph.D. students may not take this course.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1733",
+            "course_name": "Topics in International Relations",
+            "description": "POL-GA 1733 Topics in International Relations \nIntroduction to the practice of policymaking in the United Nations system. Taught by practitioners from the United Nations, its affiliated agencies, and regional subgroups, and, in some cases, related nongovernmental organizations. Topics change depending on the expertise of the practitioner teaching the course. Note: Ph.D. students may not take this course.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1734",
+            "course_name": "Topics in International Relations",
+            "description": "POL-GA 1734 Topics in International Relations \nIntroduction to the practice of policymaking in the United Nations system. Taught by practitioners from the United Nations, its affiliated agencies, and regional subgroups, and, in some cases, related nongovernmental organizations. Topics change depending on the expertise of the practitioner teaching the course. Note: Ph.D. students may not take this course.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1735",
+            "course_name": "Topics in International Relations",
+            "description": "POL-GA 1735 Topics in International Relations \nIntroduction to the practice of policymaking in the United Nations system. Taught by practitioners from the United Nations, its affiliated agencies, and regional subgroups, and, in some cases, related nongovernmental organizations. Topics change depending on the expertise of the practitioner teaching the course. Note: Ph.D. students may not take this course.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1750",
+            "course_name": "Int Rels: Cooperation & Political Economy",
+            "description": "POL-GA 1750 Int Rels: Cooperation & Political Economy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 1751",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2362",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "Int Relations: Conflicts",
+            "description": "POL-GA 1751 Int Relations: Conflicts \nSurvey of modern approaches to the study on international conflict. Emphasis is placed on rigorous scientific approaches that use models to derive testable implication as to conflict relations.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 2075",
+            "course_name": "Int'L Political Economy",
+            "description": "POL-GA 2075 Int'L Political Economy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2105",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2027",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19W4 432"
+                }
+            ],
+            "course_name": "Formal Modeling Pol SCI",
+            "description": "POL-GA 2105 Formal Modeling Pol SCI \nIntroduction to formal modeling and deductive theorizing. Main tools of analysis used are decision theory, game theory, andIntroduction to formal modeling and deductive theorizing. Main tools of analysis used are decision theory, game theory, and social choice theory.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 2106",
+            "course_name": "Methods of Political & Social Analysis",
+            "description": "POL-GA 2106 Methods of Political & Social Analysis \nNature and functions of theory, particularly Marxist dialectic, that attempt to analyze political phenomena systematically; historical, sociological, psychological, and phenomenological research; classical and current works.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2107",
+            "course_name": "Intro to Political Econ",
+            "description": "POL-GA 2107 Intro to Political Econ",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2108",
+            "course_name": "Game Theory & Politics",
+            "description": "POL-GA 2108 Game Theory & Politics \nSurvey of the main concepts and findings of game theory that are relevant to the study of politics.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2110",
+            "course_name": "Experimental Research & Political Science",
+            "description": "POL-GA 2110 Experimental Research & Political Science",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2111",
+            "course_name": "Classcl & Chrstn Pol Phi",
+            "description": "POL-GA 2111 Classcl & Chrstn Pol Phi",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2115",
+            "course_name": "Game Theory & Politics",
+            "description": "POL-GA 2115 Game Theory & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2120",
+            "course_name": "Amer Pol & Soc Thought",
+            "description": "POL-GA 2120 Amer Pol & Soc Thought",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2121",
+            "course_name": "Political Theology in America",
+            "description": "POL-GA 2121 Political Theology in America",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2125",
+            "course_name": "Quantitative Research in Political Science II",
+            "description": "POL-GA 2125 Quantitative Research in Political Science II",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2127",
+            "course_name": "Intro to Quantitative Political Analysis II",
+            "description": "POL-GA 2127 Intro to Quantitative Political Analysis II \nBuilds on G53.1120. Provides working knowledge of some of the quantitative methods used in political science research. Emphasis is on using and critiquing the general linear model. IntroduBuilds on G53.1120. Provides working knowledge of some of the quantitative methods used in political science research. Emphasis is on using and critiquing the general linear model. Introduction to categorical data analysis and research methodology.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2128",
+            "course_name": "Quant Research Method",
+            "description": "POL-GA 2128 Quant Research Method \nBuilds on G53.1120 and G53.2127. Concentrates more specifically on political science research methods. Emphasis is on problems of research design and data collection; statistical solutions; new approaches to research methods, data analysis, theories of data, and statistical theory.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2129",
+            "course_name": "Stat Meth for Comp Pol Research",
+            "description": "POL-GA 2129 Stat Meth for Comp Pol Research \nCovers statistical models of discrete and limited dependent variables leading to the problem of nonrandom selection and appropriate ways of handling it. Focuses on selection models, using probit, logit, and tobit analysis and applying them to the origins of democracy and the impact of political regimes and institutions.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2130",
+            "course_name": "Contemp Political Philo:",
+            "description": "POL-GA 2130 Contemp Political Philo:",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2131",
+            "course_name": "20th Century Polit Thght",
+            "description": "POL-GA 2131 20th Century Polit Thght",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2132",
+            "course_name": "Republic to Religious Civil Wars",
+            "description": "POL-GA 2132 Republic to Religious Civil Wars",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2140",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2028",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "Communism",
+            "description": "POL-GA 2140 Communism \nFundamentals of modern communist thought; writings of Marx, Engels, Lenin, and their major critics. Emphasis is on communism as the unrealized potential of capitalism and therefore more on what in capitalism suggests this potential and less on the precapitalist societies that called themselves ?communist.?",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 2142",
+            "course_name": "French Politics & Social Thought 1750-1880",
+            "description": "POL-GA 2142 French Politics & Social Thought 1750-1880",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2143",
+            "course_name": "Tpcs 20C French Thought",
+            "description": "POL-GA 2143 Tpcs 20C French Thought",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2150",
+            "course_name": "Psychology +Politics",
+            "description": "POL-GA 2150 Psychology +Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2160",
+            "course_name": "Intellectual & Politics",
+            "description": "POL-GA 2160 Intellectual & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2170",
+            "course_name": "Math &Dem: Design Better Voting & Fair-Div Proced",
+            "description": "POL-GA 2170 Math &Dem: Design Better Voting & Fair-Div Proced \nAnalysis of democratic procedures, or rules of play, that (1) reflect the interests of the citizens in elections and (2) respect due process and rule of law in the fair division of public and private goods. By making precise the properties of these procedures and clarifying trade-offs among them, mathematics strengthens the intellectual foundations of democratic institutions. While mathematical training is helpful in understanding some topics in the course, more important is the ability to think carefully and rigorously about the nature of democracy and its institutions.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2180",
+            "course_name": "Contemp Thrys of Justice",
+            "description": "POL-GA 2180 Contemp Thrys of Justice",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2190",
+            "course_name": "Theories of Depend Vs Theor of Modernization",
+            "description": "POL-GA 2190 Theories of Depend Vs Theor of Modernization",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2251",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2029",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 335"
+                }
+            ],
+            "course_name": "Quantitative Methods III",
+            "description": "POL-GA 2251 Quantitative Methods III",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 2260",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2030",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "Game Theory II",
+            "description": "POL-GA 2260 Game Theory II",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 2265",
+            "course_name": "Implementation Theory",
+            "description": "POL-GA 2265 Implementation Theory",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2270",
+            "course_name": "Globalization & Europeanization",
+            "description": "POL-GA 2270 Globalization & Europeanization",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2301",
+            "course_name": "Intl Security Arrangmnts",
+            "description": "POL-GA 2301 Intl Security Arrangmnts",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2302",
+            "course_name": "Amer Legislative System",
+            "description": "POL-GA 2302 Amer Legislative System",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2303",
+            "course_name": "Political Survey Resrch",
+            "description": "POL-GA 2303 Political Survey Resrch \nSurvey research and other important methodological approaches to empirical analysis in political science. Students are exposed to important political data sources and major computer programs used by social scientists.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2310",
+            "course_name": "Amer Presidential Syst",
+            "description": "POL-GA 2310 Amer Presidential Syst",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2320",
+            "course_name": "Amer Political Parties",
+            "description": "POL-GA 2320 Amer Political Parties \nMajor and minor American parties; varieties of state and local systems; leadership patterns, structural characteristics, roles, functions, and behavior of electorate.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2322",
+            "course_name": "Interest Group Politics",
+            "description": "POL-GA 2322 Interest Group Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2324",
+            "course_name": "Campaigns & Elections",
+            "description": "POL-GA 2324 Campaigns & Elections \nAnalysis of U.S. election processes through theoretical and practical approaches to the study of voting, campaigns, and elections. Studies role of parties, pressure groups, media, polls, etc.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2326",
+            "course_name": "Public Opin Media & Pol",
+            "description": "POL-GA 2326 Public Opin Media & Pol \nFocuses on the current state of research in public opinion and in media. The course?s analytical focus is divided between psychological and rational choice-based explanations. Students also explore the role of experimental research methods.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2328",
+            "course_name": "Media & American Politic",
+            "description": "POL-GA 2328 Media & American Politic",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2330",
+            "course_name": "Urban Gov'T & Politics",
+            "description": "POL-GA 2330 Urban Gov'T & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2350",
+            "course_name": "American Constitution",
+            "description": "POL-GA 2350 American Constitution",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2351",
+            "course_name": "Civil Liberties in US",
+            "description": "POL-GA 2351 Civil Liberties in US",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2355",
+            "course_name": "Politics of Legal Order",
+            "description": "POL-GA 2355 Politics of Legal Order",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2356",
+            "course_name": "State, Law, & Politics in Society",
+            "description": "POL-GA 2356 State, Law, & Politics in Society",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2357",
+            "course_name": "American Judicial System",
+            "description": "POL-GA 2357 American Judicial System",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2358",
+            "course_name": "Sociolegal Seminar",
+            "description": "POL-GA 2358 Sociolegal Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2360",
+            "course_name": "Sociolegal Studies II: Law & Social Policy",
+            "description": "POL-GA 2360 Sociolegal Studies II: Law & Social Policy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2371",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2031",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "Public Policy",
+            "description": "POL-GA 2371 Public Policy \nAdvanced-level study of policymaking process in federal politics and research issues raised by it. Emphasis is on interaction of policy analysis and political institutions. Some prior knowledge of public policy is assumed.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 2375",
+            "course_name": "Conduct of US Frgn Plcy",
+            "description": "POL-GA 2375 Conduct of US Frgn Plcy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2385",
+            "course_name": "Amer Social Protest Mvmt",
+            "description": "POL-GA 2385 Amer Social Protest Mvmt",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2390",
+            "course_name": "Amer Political System: Federal Papers",
+            "description": "POL-GA 2390 Amer Political System: Federal Papers",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2424",
+            "course_name": "Politics of Economic Growth",
+            "description": "POL-GA 2424 Politics of Economic Growth \nIntroduction to growth economics, the impact of intracountry inequality on growth, the effects of voter preferences and government policies on economic growth. Knowledge of some economics (microeconomics with calculus), game-theory (perfect Bayesian equilibrium), and statistics (OLS) is assumed.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2428",
+            "course_name": "Formal Theories of International Politics",
+            "description": "POL-GA 2428 Formal Theories of International Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2501",
+            "course_name": "France/Sub-Saharan Afric",
+            "description": "POL-GA 2501 France/Sub-Saharan Afric",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2502",
+            "course_name": "Analytical Intro/Politic Economy",
+            "description": "POL-GA 2502 Analytical Intro/Politic Economy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2510",
+            "course_name": "Sem in Compara Politics:",
+            "description": "POL-GA 2510 Sem in Compara Politics:",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2511",
+            "course_name": "French State, Public Law Admin & Policy",
+            "description": "POL-GA 2511 French State, Public Law Admin & Policy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2512",
+            "course_name": "Pol of The Extreme Right",
+            "description": "POL-GA 2512 Pol of The Extreme Right",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2516",
+            "course_name": "Political Economy of Contemporary Europe",
+            "description": "POL-GA 2516 Political Economy of Contemporary Europe",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2518",
+            "course_name": "British & Irish Politics",
+            "description": "POL-GA 2518 British & Irish Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2521",
+            "course_name": "West Eur Govt & Politics",
+            "description": "POL-GA 2521 West Eur Govt & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2522",
+            "course_name": "Germany 1945-1995: Polit Hist, Society & Culture",
+            "description": "POL-GA 2522 Germany 1945-1995: Polit Hist, Society & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2523",
+            "course_name": "French Fifth Republic",
+            "description": "POL-GA 2523 French Fifth Republic",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2524",
+            "course_name": "French Politics,Culture, & Society",
+            "description": "POL-GA 2524 French Politics,Culture, & Society \nEmphasis is on political institutions, beliefs, and behavior in their social and cultural setting. Longevity of centralization, myth of the public good, and the quest for accountable and stable government are among the subjects examined.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2527",
+            "course_name": "France & Francophone Africa",
+            "description": "POL-GA 2527 France & Francophone Africa",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2528",
+            "course_name": "Sem Compara Pol:Germany",
+            "description": "POL-GA 2528 Sem Compara Pol:Germany",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2529",
+            "course_name": "Law & Society in Japan",
+            "description": "POL-GA 2529 Law & Society in Japan",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2530",
+            "course_name": "Collective Action & Social Movement",
+            "description": "POL-GA 2530 Collective Action & Social Movement",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2532",
+            "course_name": "Pol of Caribbean Nations",
+            "description": "POL-GA 2532 Pol of Caribbean Nations",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2533",
+            "course_name": "Collective Action & Social Movement",
+            "description": "POL-GA 2533 Collective Action & Social Movement",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2535",
+            "course_name": "Contpry Thry Pltcl Chang",
+            "description": "POL-GA 2535 Contpry Thry Pltcl Chang",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2536",
+            "course_name": "Polit Eco of Development",
+            "description": "POL-GA 2536 Polit Eco of Development \nAssesses the issues and debates in the current literature on the political economy of development; analyzes principal characteristics of the contemporary world economy, especially patterns of inequality and the varying explanations for their emergence.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2537",
+            "course_name": "New Inst: Emerg Paradigm Soc/Pol SCI & Economics",
+            "description": "POL-GA 2537 New Inst: Emerg Paradigm Soc/Pol SCI & Economics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2538",
+            "course_name": "France & The Maghreb",
+            "description": "POL-GA 2538 France & The Maghreb",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2540",
+            "course_name": "Govt & Pol: No. Africa",
+            "description": "POL-GA 2540 Govt & Pol: No. Africa \nComparative analysis of selected aspects of state formation, political identity, development, and political discourse in the countries of Arab North Africa.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2560",
+            "course_name": "Soviet Gov'T & Politics",
+            "description": "POL-GA 2560 Soviet Gov'T & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2561",
+            "course_name": "Soviet Union in World Politics",
+            "description": "POL-GA 2561 Soviet Union in World Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2564",
+            "course_name": "Comp Urban Pol & Policy",
+            "description": "POL-GA 2564 Comp Urban Pol & Policy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2570",
+            "course_name": "Asia in World Poltics",
+            "description": "POL-GA 2570 Asia in World Poltics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2580",
+            "course_name": "Eastern European Pol",
+            "description": "POL-GA 2580 Eastern European Pol",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2581",
+            "course_name": "European-U.S. Relations 1945-1996",
+            "description": "POL-GA 2581 European-U.S. Relations 1945-1996",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2590",
+            "course_name": "Mideast Govt & Politics",
+            "description": "POL-GA 2590 Mideast Govt & Politics \nPolitical analysis of the Middle East, covering such issues as class and state formation, political economy of oil, problems of development, rural and urban politics, regional conflict, politics of gender, and religious identity.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2600",
+            "course_name": "Comp Far East Politics",
+            "description": "POL-GA 2600 Comp Far East Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2610",
+            "course_name": "Italian Government & Politics",
+            "description": "POL-GA 2610 Italian Government & Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2620",
+            "course_name": "Tpc Lat Am/Carib Pol:",
+            "description": "POL-GA 2620 Tpc Lat Am/Carib Pol: \nSpecific subject matter varies from semester to semester. Topics may include politics of the Andean region, urban politics in Latin America, Brazilian politics, and redemocratization of Latin America.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2621",
+            "course_name": "Latin American Politics",
+            "description": "POL-GA 2621 Latin American Politics \nMajor forces affecting political development of Latin America; different approaches to comparative politics as applied to this area, with focused case studies pursued in detail.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2622",
+            "course_name": "Economic Reform & Pol Change in Latin Amer",
+            "description": "POL-GA 2622 Economic Reform & Pol Change in Latin Amer",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2623",
+            "course_name": "Economic Reform and Pol Change in Latin America",
+            "description": "POL-GA 2623 Economic Reform and Pol Change in Latin America",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2701",
+            "course_name": "Strategy & Military Policy",
+            "description": "POL-GA 2701 Strategy & Military Policy \nIntroductory course that examines the historical roots of strategic doctrine in the 20th century and contemporary nuclear and conventional defense. Also covers arms control and disarmament problems.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2704",
+            "course_name": "Diplomacy & Negotiation",
+            "description": "POL-GA 2704 Diplomacy & Negotiation \nAnalysis of negotiation and diplomatic processes based on an examination of different approaches (e.g., game-theoretic and cultural); application to specific cases.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2720",
+            "course_name": "Topics in 20th C French Political Thought",
+            "description": "POL-GA 2720 Topics in 20th C French Political Thought",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2725",
+            "course_name": "Foreign Policy Decision Making",
+            "description": "POL-GA 2725 Foreign Policy Decision Making",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2736",
+            "course_name": "International Governance",
+            "description": "POL-GA 2736 International Governance",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2750",
+            "course_name": "U.S. Foreign Policy",
+            "description": "POL-GA 2750 U.S. Foreign Policy \nAmerican foreign policy and the major international problems facing the United States today.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2751",
+            "course_name": "Comparative Foreign Policy Analysis",
+            "description": "POL-GA 2751 Comparative Foreign Policy Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2760",
+            "course_name": "Soviet Foreign Policy",
+            "description": "POL-GA 2760 Soviet Foreign Policy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2762",
+            "course_name": "Chinese Foreign Policy",
+            "description": "POL-GA 2762 Chinese Foreign Policy",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2765",
+            "course_name": "Contemp Inter-Amer Rltns",
+            "description": "POL-GA 2765 Contemp Inter-Amer Rltns \nU.S. corporate and governmental policy toward Latin America; trends in Latin American and Caribbean migration to the United States; strategies of resource-rich Latin American nations toward technology-rich United States.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2770",
+            "course_name": "Pol Econ of N-S Relation",
+            "description": "POL-GA 2770 Pol Econ of N-S Relation",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2772",
+            "course_name": "Political Eco of Defense",
+            "description": "POL-GA 2772 Political Eco of Defense",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2774",
+            "course_name": "Pol Econ of Pacific Bsn",
+            "description": "POL-GA 2774 Pol Econ of Pacific Bsn",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2775",
+            "course_name": "International Political Economy",
+            "description": "POL-GA 2775 International Political Economy \nA general introduction to the field: evolution of the international political economy, international cooperation, international institutions, international trade and finance policy, macroeconomic policy coordination",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2800",
+            "course_name": "Int'L Organization",
+            "description": "POL-GA 2800 Int'L Organization \nFunctions, operation, structurFunctions, operation, structure, and accomplishments of the United Nations and the specialized organizations. Emphasis is on international organization as an approach to peace.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2801",
+            "course_name": "Debates in Marxism On Development",
+            "description": "POL-GA 2801 Debates in Marxism On Development",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2815",
+            "course_name": "Politics of Foreign Aid",
+            "description": "POL-GA 2815 Politics of Foreign Aid",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2820",
+            "course_name": "International Syst After Cold War",
+            "description": "POL-GA 2820 International Syst After Cold War",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2821",
+            "course_name": "France in World Politics Since 1940",
+            "description": "POL-GA 2821 France in World Politics Since 1940",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2850",
+            "course_name": "Arms Races & Arms Contro",
+            "description": "POL-GA 2850 Arms Races & Arms Contro",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 2900",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2032",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "International Law",
+            "description": "POL-GA 2900 International Law \nRules that govern in the legal relationship and current development of law among nations, based on the study of cases. The use of the law for the regulation of international behavior and environment.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3100",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2033",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "GCASL 274"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2034",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2104",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2434",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2440",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 432"
+                }
+            ],
+            "course_name": "Political Theory Seminar",
+            "description": "POL-GA 3100 Political Theory Seminar \nGeneral seminar in political philosophy. The specific topic of the seminar varies, but this is an advanced seminar that assumes extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3101",
+            "course_name": "Political Theory Seminar",
+            "description": "POL-GA 3101 Political Theory Seminar \nGeneral seminar in political philosophy. The specific topic of the seminar varies, but this is an advanced seminar that assumes extensive background.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3102",
+            "course_name": "Polit Thry Sem: Democrat Theory in History",
+            "description": "POL-GA 3102 Polit Thry Sem: Democrat Theory in History",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3200",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2040",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2397",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 432"
+                }
+            ],
+            "course_name": "Political Method Seminar",
+            "description": "POL-GA 3200 Political Method Seminar \nThe specific topic of the seminar varies, but this is an advanced seminar requiring extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3202",
+            "course_name": "Political Methodology Seminar",
+            "description": "POL-GA 3202 Political Methodology Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3300",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2315",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                }
+            ],
+            "course_name": "Political Economy of Public Policy in The US",
+            "description": "POL-GA 3300 Political Economy of Public Policy in The US \nGeneral seminar in American government. The specific topic of the seminar varies, but this is an advanced seminar requiring extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3301",
+            "course_name": "American Pol Sem: Moral Foundations of The Amer",
+            "description": "POL-GA 3301 American Pol Sem: Moral Foundations of The Amer \nGeneral seminar in American government. The specific topic of the seminar varies, but this is an advanced seminar requiring extensive background.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3400",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2041",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "19W4 212"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2042",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 435"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2363",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 432"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2043",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "19W4 435"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2427",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "194M 307"
+                }
+            ],
+            "course_name": "Political Economy Sem:",
+            "description": "POL-GA 3400 Political Economy Sem: \nGeneral seminar in political economy. The specific topic of the seminar varies, but this is an advanced seminar that assumes extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3500",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2044",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "19W4 212"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2361",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "Seminar Comparative Politics:",
+            "description": "POL-GA 3500 Seminar Comparative Politics: \nGeneral seminar in comparative politics. The specific topic of the seminar varies, but this is an advanced seminar requiring extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3501",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2045",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "19W4 432"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2046",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19W4 212"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2047",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.00 PM - 1.50 PM",
+                    "open": true,
+                    "professor": "19W4 432"
+                }
+            ],
+            "course_name": "Sem Comparatve Politics:",
+            "description": "POL-GA 3501 Sem Comparatve Politics: \nGeneral seminar in comparative politics. The specific topic of the seminar varies, but this is an advanced seminar requiring extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3502",
+            "course_name": "European Union: Past Present & Future",
+            "description": "POL-GA 3502 European Union: Past Present & Future",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3503",
+            "course_name": "Comparative Politic Sem: Resch in European Study",
+            "description": "POL-GA 3503 Comparative Politic Sem: Resch in European Study",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3510",
+            "course_name": "Res/Sem French Studies",
+            "description": "POL-GA 3510 Res/Sem French Studies",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3529",
+            "course_name": "Law & Society in Japan",
+            "description": "POL-GA 3529 Law & Society in Japan",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3700",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2050",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Seminar in Int'l Relations:",
+            "description": "POL-GA 3700 Seminar in Int'l Relations: \nGeneral seminar in international politics. The specific topic of the seminar varies, but this is an advanced course requiring extensive background.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3951",
+            "course_name": "Dissertation Research",
+            "description": "POL-GA 3951 Dissertation Research \nIndividual research related to the doctoral dissertation.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 3955",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "2048",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 10.00 AM - 11.50 AM",
+                    "open": true,
+                    "professor": "19W4 212"
+                }
+            ],
+            "course_name": "Workshop in Political Science Research",
+            "description": "POL-GA 3955 Workshop in Political Science Research \nContinues the student?s education in how to do political research and is seen as a key aspect in helping students to complete in a timely manner, and improve the quality of, their dissertation (and related) research.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3991",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2066",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Research",
+            "description": "POL-GA 3991 Reading & Research \nTutorial for students whose individual needs are not met by formal courses. A substantial research paper or final examination is required.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3992",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2067",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Research",
+            "description": "POL-GA 3992 Reading & Research \nTutorial for students whose individual needs are not met by formal courses. A substantial research paper or final examination is required.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3993",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2068",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading & Research",
+            "description": "POL-GA 3993 Reading & Research \nTutorial for students whose individual needs are not met by formal courses. A substantial research paper or final examination is required.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 3995",
+            "course_name": "Internship Seminar",
+            "description": "POL-GA 3995 Internship Seminar \nRequired course for students in the M.A. and M.A. international affairs programs completing their internship requirement.",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 4000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2049",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.20 PM - 8.20 PM",
+                    "open": true,
+                    "professor": "19W4 217"
+                }
+            ],
+            "course_name": "Master'S Thesis Seminar",
+            "description": "POL-GA 4000 Master'S Thesis Seminar \nRequired capstone course for students in the M.A. and M.A in international affairs programs.  Support for thesis-writing process.",
+            "offering": true
+        },
+        {
+            "course_id": "POL-GA 9512",
+            "course_name": "Italian Politics & Government (P)",
+            "description": "POL-GA 9512 Italian Politics & Government (P)",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 9530",
+            "course_name": "Topics in Modern Greek Politics",
+            "description": "POL-GA 9530 Topics in Modern Greek Politics",
+            "offering": false
+        },
+        {
+            "course_id": "POL-GA 9580",
+            "course_name": "Cent European Politics",
+            "description": "POL-GA 9580 Cent European Politics",
+            "offering": false
+        }
+    ]
+}

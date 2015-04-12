@@ -1,0 +1,240 @@
+{
+    "major_id": "MTHED-UE",
+    "file": "./2015-2016/Mathematics_Education_(MTHED-UE).html",
+    "courses": [
+        {
+            "course_id": "MTHED-UE 1",
+            "course_name": "Fundamentals of Mathematics",
+            "description": "MTHED-UE    1 Fundamentals of Mathematics \nSubstantial effort is made to reduce or eliminate mathematics anxiety while building a deeper understanding of elementary mathematics & its applications to students' lives.  Mathematical activities & games are used to help students learn & appreciate quantitative reasoning.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1000",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "10251",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Zaslavsky, Orit",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "11706",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ma, Jasmine",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "11887",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Burgunder, Anne",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MTHED-UE 1000 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-UE 1023",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10252",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 501",
+                    "time": "Wed 3.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "Mulligan, Carole"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10253",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 209",
+                    "time": "Wed 5.20 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Galasso, Jane"
+                }
+            ],
+            "course_name": "Teaching of Elementary School Mathematics I",
+            "description": "MTHED-UE 1023 Teaching of Elementary School Mathematics I \nA methods course focusing on how to teach mathematics at the elementary school level.  Use a variety of manipulatives & the development of concepts and skills.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-UE 1024",
+            "course_name": "Teaching of Elementary School Mathematics II",
+            "description": "MTHED-UE 1024 Teaching of Elementary School Mathematics II \nA methods course focusing on how to teach mathematics at the elementary school level.  Use of a variety of manipulatives & the development of concepts  & skills",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1032",
+            "course_name": "Mathematical Concepts in Integrated Early Childhood/Special Education Curriculum I",
+            "description": "MTHED-UE 1032 Mathematical Concepts in Integrated Early Childhood/Special Education Curriculum I \nHow mathematics is learned through the social experiences of young children.  Analysis of activities in early childhood settings that help children develop insight into mathematics both as a study in itself & as a tool for applied use. Focus on the mathematical concepts that infuse young children's experiences, the use of mathematical tools in young children's learning, methods for adapting math curriculum for learners with diverse abilities, & the relationship of mathematical learning to all areas of the curriculum.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1033",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10254",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 208",
+                    "time": "Tue 3.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "Mulligan, Carole"
+                }
+            ],
+            "course_name": "Mathematical Concepts in Integrated Early Childhood/Special Education Curriculum II",
+            "description": "MTHED-UE 1033 Mathematical Concepts in Integrated Early Childhood/Special Education Curriculum II \nHow mathematics is learned through the spatial/temporal worlds of young children. Analysis of activities in early childhood settings that help children develop emerging, unprejudiced mathematical awareness.  Focus on the mathematical environment that respects all learners as a means to build upon children's existing mathematical perceptions & expand and further those reading.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-UE 1041",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11780",
+                    "section": "001",
+                    "period": "09/02/2015 - 10/20/2015",
+                    "location": "194M 202",
+                    "time": "Mon,Wed 4.55 PM - 6.55 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "The Teaching of Rational Numbers, Grades 5-12",
+            "description": "MTHED-UE 1041 The Teaching of Rational Numbers, Grades 5-12 \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills & concepts of ratios, proportions, percents, decimals & fractions to the effective & appropriate teaching of these topics in grades 5-12.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-UE 1042",
+            "course_name": "Teaching Data Collect Analysis, Grades 7-12",
+            "description": "MTHED-UE 1042 Teaching Data Collect Analysis, Grades 7-12 \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills and concepts of probability & statistics to the effective & appropriate teaching of these topics in grades 7-12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1043",
+            "course_name": "Methods of Teaching Middle School Mathematics",
+            "description": "MTHED-UE 1043 Methods of Teaching Middle School Mathematics \nDeveloping the skills of classroom planning, management, & implementation for effective instructional practices in grades 7-12.  Topics include lesson plan development & implementation, different models of teaching, assessing student understanding & the use of instructional  technology.  Students also visit schools, observe teachers in the classroom & use these observations as the basis for discussions of effective teaching practice.  This course requires a field component where students are involved in tutoring & microteaching.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1044",
+            "course_name": "Educational Technology in Secondary School Mathematics",
+            "description": "MTHED-UE 1044 Educational Technology in Secondary School Mathematics \nThe course provides an in-depth examination of the affordances & limitations of educational technology in enhancing the teaching & learning of secondary school mathematics. It focuses on the use of handheld & computer technology, & introduces web-based mathematical software, dynamic software, graphical tools & other software that can be successfully incorporated in the middle & high school mathematics classroom. The course offers opportunities to engage in, design, & critique technology-enhanced mathematical activities that aim at developing understanding of school mathematics.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1045",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11781",
+                    "section": "001",
+                    "period": "10/21/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Mon,Wed 4.55 PM - 6.55 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "The Teaching of Algebra, Grades 7-12",
+            "description": "MTHED-UE 1045 The Teaching of Algebra, Grades 7-12 \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills & concepts of algebra & trigonometry to the effective & appropriate teaching of these topics in grades 7 through 12.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-UE 1046",
+            "course_name": "The Teaching of Geometry, Grades 7-12",
+            "description": "MTHED-UE 1046 The Teaching of Geometry, Grades 7-12 \nThe course provides a link between teachers' mathematical knowledge & understanding of the majors skills &concepts of geometry to the effective & appropriate teaching of these topics in grades 7 through 12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1047",
+            "course_name": "Teaching of Pre-Calculus and Trigonometry in High School",
+            "description": "MTHED-UE 1047 Teaching of Pre-Calculus and Trigonometry in High School \nThis course provides a link between teachers' mathematical knowledge & understanding of the major skills & concepts of pre-calculus mathematics to the effective & appropriate teaching of these topics in grades 7 through 12.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1049",
+            "course_name": "",
+            "description": "MTHED-UE 1049\n\n   Mathematical Proof and Proving\n\nThe course introduces elements of mathematical proof, focusing on three main themes: 1. The meaning of mathematical statements \u2013 universal/existential; 2. The roles of examples in determining the validity of mathematical statements; 3. The various forms & methods of mathematical proofs, including Direct (deductive) proof; proof by exhaustion; indirect proof (by contradiction, or by contrapositive); mathematical induction; disproof by counterexample. This is a problem-based course. Lessons are structured around activities that engage students in doing proofs that are meaningful to them & based ...\n\n      more description for MTHED-UE 1049 \u00bb\n\n      \n\n\n\nThe course introduces elements of mathematical proof, focusing on three main themes: 1. The meaning of mathematical statements \u2013 universal/existential; 2. The roles of examples in determining the validity of mathematical statements; 3. The various forms & methods of mathematical proofs, including Direct (deductive) proof; proof by exhaustion; indirect proof (by contradiction, or by contrapositive); mathematical induction; disproof by counterexample. This is a problem-based course. Lessons are structured around activities that engage students in doing proofs that are meaningful to them & based on mathematical topics with which they are familiar\n\n      less description for MTHED-UE 1049 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1050",
+            "course_name": "",
+            "description": "MTHED-UE 1050\n\n   Teaching Mathematical Proof and Proving\n\nThis course complements the content Mathamatical Proof & Proving course & provides pedagogical aspects of teaching & learning mathematical proof & proving. The focus is on: 1. Students' difficulties in interpreting the meaning of mathematical; 2. Students' understandings of the roles of examples in determining the validity of mathematical statements; 3. The teaching of various forms & methods of mathematical proofs & bridging between informal & formal proof. Special attention is given to developing students' language precision in mathematics & its implications for teaching, in the course of wr...\n\n      more description for MTHED-UE 1050 \u00bb\n\n      \n\n\n\nThis course complements the content Mathamatical Proof & Proving course & provides pedagogical aspects of teaching & learning mathematical proof & proving. The focus is on: 1. Students' difficulties in interpreting the meaning of mathematical; 2. Students' understandings of the roles of examples in determining the validity of mathematical statements; 3. The teaching of various forms & methods of mathematical proofs & bridging between informal & formal proof. Special attention is given to developing students' language precision in mathematics & its implications for teaching, in the course of writing & presenting proofs.\n\n      less description for MTHED-UE 1050 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1080",
+            "course_name": "Teaching of Secondary Computer Science",
+            "description": "MTHED-UE 1080 Teaching of Secondary Computer Science \nCourse is designed to introduce students to the pedagogical approaches & practices associated with teaching computer science at the secondary level. Students will learn methods of teaching secondary CS, but also to become practitioner researchers, taking an evidence-based, questioning, design oriented, analytical, & reflective lens on their teaching practices. Topics include developing learning objectives, theories of learning in CS & computational thinking, instructional approaches, lesson design & implementation, & assessment.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1110",
+            "course_name": "Introduction to Computer Science Education",
+            "description": "MTHED-UE 1110 Introduction to Computer Science Education \nThis course will introduce students to a variety of different conceptualizations & implementations of Computer Science education for K-12. Students will discuss and analyze the rationale & purpose of CS teaching behind each case & critique the benefits & challenges from the perspective of K-12 education. This will support students in making informed decisions in their own CS teaching practice & to articulate & justify their decisions. The course will also serve to empower students to participate in future CS curriculum development in their school.",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1122",
+            "course_name": "",
+            "description": "MTHED-UE 1122\n\n   Professional Seminar for Secondary Mathematics\n\nThis course complements the second semester of Student Teaching (MTHED-UE 1922), providing students a professional community of practice for continued learning as their teaching responsibilities increase. The course will focus on specific aspects of planning & intended instruction, enacted teaching, & the impact of teaching. Students will develop practices of deliberate reflection & analysis of their teaching, making explicit connections between their knowledge of theory & practical experiences. There will be an additional focus on pressing local issues in education and education research at t...\n\n      more description for MTHED-UE 1122 \u00bb\n\n      \n\n\n\nThis course complements the second semester of Student Teaching (MTHED-UE 1922), providing students a professional community of practice for continued learning as their teaching responsibilities increase. The course will focus on specific aspects of planning & intended instruction, enacted teaching, & the impact of teaching. Students will develop practices of deliberate reflection & analysis of their teaching, making explicit connections between their knowledge of theory & practical experiences. There will be an additional focus on pressing local issues in education and education research at the various levels, and their impact on teaching and learning. Students will make sense of these issues & develop informed stances, demonstrating their emerging abilities to do so in connection with their coursework & student teaching experiences in a culminating project.\n\n      less description for MTHED-UE 1122 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MTHED-UE 1911",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10255",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "Student Teaching in Mathematics Education: Middle and High School I",
+            "description": "MTHED-UE 1911 Student Teaching in Mathematics Education: Middle and High School I \nOne semester supervised student teaching in a mathematics education classroom in middle & high  school a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical & practical applications of the planning & implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems & practices as they relate to actual classroom teaching.",
+            "offering": true
+        },
+        {
+            "course_id": "MTHED-UE 1922",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10256",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-11",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Burgunder, Anne"
+                }
+            ],
+            "course_name": "Student Teaching in Mathematics Education: Middle and High School II",
+            "description": "MTHED-UE 1922 Student Teaching in Mathematics Education: Middle and High School II \nOne semester supervised student teaching in a mathematics education classroom in middle & high  school a minimum of 180 hours within 20 days. Student teaching experiences will be used to support theoretical & practical applications of the planning & implementation of the curriculum. Participation is required in a weekly student teaching seminar which offers a practical examination of teaching problems & practices as they relate to actual classroom teaching.",
+            "offering": true
+        }
+    ]
+}

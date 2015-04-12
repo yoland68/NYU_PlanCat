@@ -1,0 +1,24 @@
+{
+    "major_id": "MPAMT-UE",
+    "file": "./2015-2016/Music_Therapy_(MPAMT-UE).html",
+    "courses": [
+        {
+            "course_id": "MPAMT-UE 1046",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10785",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shapiro, Noah",
+                    "time": "Mon 7.20 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro Music Therapy",
+            "description": "MPAMT-UE 1046 Intro Music Therapy \nSurvey of the scope and variety of practices in the music therapy profession.  Current research and methodologies.  Contrasting modalities of treatment.  Relationship to arts therapies, music education, special education.  Of special interest to educators, performers, and art professionals.",
+            "offering": true
+        }
+    ]
+}

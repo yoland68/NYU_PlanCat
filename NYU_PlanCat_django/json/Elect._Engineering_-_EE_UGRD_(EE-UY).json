@@ -1,0 +1,1123 @@
+{
+    "major_id": "EE-UY",
+    "file": "./2015-2016/Elect._Engineering_-_EE_UGRD_(EE-UY).html",
+    "courses": [
+        {
+            "course_id": "EE-UY 1",
+            "course_name": "F/T EQUALIZER",
+            "description": "EE-UY    1 F/T EQUALIZER",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 2",
+            "course_name": "F/T EQUALIZER",
+            "description": "EE-UY    2 F/T EQUALIZER",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3",
+            "course_name": "F/T EQUALIZER",
+            "description": "EE-UY    3 F/T EQUALIZER",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 100",
+            "course_name": "PRINCIPLES OF ELEC ENG",
+            "description": "EE-UY  100 PRINCIPLES OF ELEC ENG",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 101",
+            "course_name": "ELECTRIC CIRCUITS I",
+            "description": "EE-UY  101 ELECTRIC CIRCUITS I",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 102",
+            "course_name": "ELECTRIC CIRCUITS II",
+            "description": "EE-UY  102 ELECTRIC CIRCUITS II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 103",
+            "course_name": "SIGNALS & TRANSFORMS",
+            "description": "EE-UY  103 SIGNALS & TRANSFORMS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 104",
+            "course_name": "FEEDBACK SYSTEM PRNCPLS",
+            "description": "EE-UY  104 FEEDBACK SYSTEM PRNCPLS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 105",
+            "course_name": "SIGNLS,SYSTMS & TRNSFRMS",
+            "description": "EE-UY  105 SIGNLS,SYSTMS & TRNSFRMS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 106",
+            "course_name": "| EE-UY 3064",
+            "description": "EE-UY  106 | EE-UY 3064\n\n   Feedback Control\n\nThis course introduces analysis and design of linear feedback-control systems; modeling of physical systems, performance specifications, sensitivity and steady-state error; Routh- Hurwitz and Nyquist Stability tests; the use of Root Locus and frequency-response techniques to analyze system performance and design compensation (lead/lag and PID controllers) to meet performance specifications. Students analyze and design control systems using math packages in the alternate-week computer laboratory. The course establishes the foundation of feedback-control theory for use in more advanced courses; ...\n\n      more description for EE-UY  106 | EE-UY 3064 \u00bb\n\n      \n\n\n\nThis course introduces analysis and design of linear feedback-control systems; modeling of physical systems, performance specifications, sensitivity and steady-state error; Routh- Hurwitz and Nyquist Stability tests; the use of Root Locus and frequency-response techniques to analyze system performance and design compensation (lead/lag and PID controllers) to meet performance specifications. Students analyze and design control systems using math packages in the alternate-week computer laboratory. The course establishes the foundation of feedback-control theory for use in more advanced courses; introduces control-systems design concepts and practices; and develops facility with computer-design packages for design and simulation. | Prerequisites: EE-UY 3054 (C- or better) and PH-UY 2023. ABET competencies: a, b, c, e, g, i, k.\n\n      less description for EE-UY  106 | EE-UY 3064 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 107",
+            "course_name": "Control System Design",
+            "description": "EE-UY  107 Control System Design \nThe course covers design of linear feedback control systems, selected from the following:  lag-lead compensators; pole placement controllers; state-variable feedback and observers; linear quadratic optimal control, stochastic systems, sampled-data-and computer-controlled systems; and phase-plane and describing function techniques for nonlinear systems. | Prerequisite: EE 3064. ABET competencies: a, b, c, e, k.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 109",
+            "course_name": "SOLID STATE DVCS/CKTS 1",
+            "description": "EE-UY  109 SOLID STATE DVCS/CKTS 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 110",
+            "course_name": "SOLID STATE DVCS/CKTS 2",
+            "description": "EE-UY  110 SOLID STATE DVCS/CKTS 2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 111",
+            "course_name": "ELECTRONICS 1",
+            "description": "EE-UY  111 ELECTRONICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 112",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "| EE-UY 3124",
+            "description": "EE-UY  112 | EE-UY 3124\n\n   Fundamentals of Electronics II\n\nThe course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of an...\n\n      more description for EE-UY  112 | EE-UY 3124 \u00bb\n\n      \n\n\n\nThe course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of analog integrated circuits, frequency response of amplifiers, feedback amplifiers, TTL and CMOS digital integrated circuits. | Prerequisite: EE-UY 3114. ABET competencies a, c, e, g, k.\n\n      less description for EE-UY  112 | EE-UY 3124 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 113",
+            "course_name": "SOLID STATE DVCS/CKTS 3",
+            "description": "EE-UY  113 SOLID STATE DVCS/CKTS 3",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 114",
+            "course_name": "PHYSICAL ELECTRONICS",
+            "description": "EE-UY  114 PHYSICAL ELECTRONICS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 115",
+            "course_name": "ADV DIGITAL ELECTRONICS",
+            "description": "EE-UY  115 ADV DIGITAL ELECTRONICS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 116",
+            "course_name": "Communication Electronics",
+            "description": "EE-UY  116 Communication Electronics \nThe course centers on design and analysis of small-signal and large-signal tuned amplifiers, sine-wave oscillators, mixers, AM modulators and demodulators, FM modulators and demodulators, phase-locked loops. | Prerequisite: EE 3124. ABET competencies: a, c, e, k.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 117",
+            "course_name": "ENGINEERING MECHANICS 2",
+            "description": "EE-UY  117 ENGINEERING MECHANICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 121",
+            "course_name": "WAVE FORMING CIRCUITS",
+            "description": "EE-UY  121 WAVE FORMING CIRCUITS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 122",
+            "course_name": "SOLID DEVICES & CIRCT 2",
+            "description": "EE-UY  122 SOLID DEVICES & CIRCT 2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 123",
+            "course_name": "COMMUNICATION ELECTRONS",
+            "description": "EE-UY  123 COMMUNICATION ELECTRONS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 136",
+            "course_name": "Communication Networks",
+            "description": "EE-UY  136 Communication Networks \nThis course develops basic techniques used in communication networks. After protocol layering is introduced, algorithms and protocols are discussed for use in each of the five layers: physical, data link, network, transport and application. Specific protocols such as TCP/IP, ATM, SS7 are included. | Prerequisite: Junior status in electrical engineering, computer engineering, or computer science. Corequisites: MA-UY 3113, or MA-UY 2224.  ABET competencies: a, c, e.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 140",
+            "course_name": "| EE-UY 3404",
+            "description": "EE-UY  140 | EE-UY 3404\n\n   Fundamentals of Communication Theory\n\nThe course covers bandpass signal representation and quadrature receivers; noise in communication systems; Digital Modulation Schemes, coherent and noncoherent receivers; coding fundamentals, block and convolutional codes; higher-order modulation schemes, QAM, M-PSK; intersymbol interference and equalization techniques; and carrier and symbol synchronization. Alternate-week computer laboratory projects analyze and design computer packages. The course teaches principles of various modulation and coding techniques and their relative effectiveness under transmission-environments constraints and u...\n\n      more description for EE-UY  140 | EE-UY 3404 \u00bb\n\n      \n\n\n\nThe course covers bandpass signal representation and quadrature receivers; noise in communication systems; Digital Modulation Schemes, coherent and noncoherent receivers; coding fundamentals, block and convolutional codes; higher-order modulation schemes, QAM, M-PSK; intersymbol interference and equalization techniques; and carrier and symbol synchronization. Alternate-week computer laboratory projects analyze and design computer packages. The course teaches principles of various modulation and coding techniques and their relative effectiveness under transmission-environments constraints and uses math packages to analyze and simulate communication systems. | Prerequisite: EE-UY 3054 (C- or better); computer engineering students may register with instructor\u2019s approval. Co-requisite: MA-UY 3012. ABET competencies a, c, e, k.\n\n      less description for EE-UY  140 | EE-UY 3404 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 141",
+            "course_name": "Signal Processing",
+            "description": "EE-UY  141 Signal Processing",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 141",
+            "course_name": "SIGNAL PROCESSING",
+            "description": "EE-UY  141 SIGNAL PROCESSING",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 143",
+            "course_name": "COMPUT PROCES OF SIGNALS",
+            "description": "EE-UY  143 COMPUT PROCES OF SIGNALS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 160",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "| EE-UY 3604",
+            "description": "EE-UY  160 | EE-UY 3604\n\n   Electromagnetic Waves\n\nElectromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are obtained as a special case. Reflection and transmission at discontinuities are discussed for pulsed sources, while impedance transformation and matching are presented for harmonic time dependence. Snell\u2019s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated....\n\n      more description for EE-UY  160 | EE-UY 3604 \u00bb\n\n      \n\n\n\nElectromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are obtained as a special case. Reflection and transmission at discontinuities are discussed for pulsed sources, while impedance transformation and matching are presented for harmonic time dependence. Snell\u2019s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated. Alternate-week laboratory. Objectives: Establish foundations of electromagnetic wave theory applicable to antennas, transmissions lines and materials; increase appreciation for properties of materials through physical experiments. | Prerequisites: EE-UY 2024 (C- or better) and MA-UY 3112. ABET competencies: a, b, c, e, k.\n\n      less description for EE-UY  160 | EE-UY 3604 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 161",
+            "course_name": "TRANSMISSION LINES/WAVES",
+            "description": "EE-UY  161 TRANSMISSION LINES/WAVES",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 162",
+            "course_name": "ELECTROMAGNETIC FIELDS",
+            "description": "EE-UY  162 ELECTROMAGNETIC FIELDS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 163",
+            "course_name": "ELECTROMG WAVES & MATER.",
+            "description": "EE-UY  163 ELECTROMG WAVES & MATER.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 164",
+            "course_name": "Electromagnetic Fields and Radiation",
+            "description": "EE-UY  164 Electromagnetic Fields and Radiation \nReview and mathematical interpretation of Maxwell\u2019s Equations; basic antenna theory and radiation; antenna parameters and arrays; rectangular metal waveguides; dielectric waveguides; and applications at radio and optical frequencies are discussed. | Prerequisite: EE 3604. ABET competencies: a, c, e, k.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 165",
+            "course_name": "ELECTROMAG FIELDS/WAVES1",
+            "description": "EE-UY  165 ELECTROMAG FIELDS/WAVES1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 166",
+            "course_name": "ELECTROMAG FIELDS/WAVES2",
+            "description": "EE-UY  166 ELECTROMAG FIELDS/WAVES2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 167",
+            "course_name": "QUANTUM/SOL ST ELECTRONIC",
+            "description": "EE-UY  167 QUANTUM/SOL ST ELECTRONIC",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 167",
+            "course_name": "QUANTUM/SOLID STATE ELEC",
+            "description": "EE-UY  167 QUANTUM/SOLID STATE ELEC",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 171",
+            "course_name": "INTRO TO SYSTEM ANALYSIS",
+            "description": "EE-UY  171 INTRO TO SYSTEM ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 176",
+            "course_name": "QUANTUM/SOL ST ELECTRONIC",
+            "description": "EE-UY  176 QUANTUM/SOL ST ELECTRONIC",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 180",
+            "course_name": "ELECTRICAL MACHINERY I",
+            "description": "EE-UY  180 ELECTRICAL MACHINERY I",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 181",
+            "course_name": "ELECTRICAL MACHINERY II",
+            "description": "EE-UY  181 ELECTRICAL MACHINERY II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 182",
+            "course_name": "ELEMENTS OF ELECTRIC POWER",
+            "description": "EE-UY  182 ELEMENTS OF ELECTRIC POWER",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 183",
+            "course_name": "ELECTRIC POWER SYSTEMS",
+            "description": "EE-UY  183 ELECTRIC POWER SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 184",
+            "course_name": "POWER CONVERSION",
+            "description": "EE-UY  184 POWER CONVERSION",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 188",
+            "course_name": "COMPUTER LABORATORY 1",
+            "description": "CS-UY  298 | EE-UY  188 COMPUTER LABORATORY 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 188",
+            "course_name": "COMPUTER HARDWARE LAB",
+            "description": "EE-UY  188 COMPUTER HARDWARE LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 189",
+            "course_name": "COMP INTERFACE/FW LAB",
+            "description": "EE-UY  189 COMP INTERFACE/FW LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 189",
+            "course_name": "COMP INTRFCE/FW LAB",
+            "description": "EE-UY  189 COMP INTRFCE/FW LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 192",
+            "course_name": "SOPHOMORE EE LABORATORY",
+            "description": "EE-UY  192 SOPHOMORE EE LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 193",
+            "course_name": "SOPHOMORE EE LAB I",
+            "description": "EE-UY  193 SOPHOMORE EE LAB I",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 194",
+            "course_name": "SOPHOMORE EE LAB 2",
+            "description": "EE-UY  194 SOPHOMORE EE LAB 2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 195",
+            "course_name": "JUNIOR EE LAB",
+            "description": "EE-UY  195 JUNIOR EE LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 196",
+            "course_name": "SENIOR EE LAB 1",
+            "description": "EE-UY  196 SENIOR EE LAB 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 197",
+            "course_name": "SENIOR EE LAB I",
+            "description": "EE-UY  197 SENIOR EE LAB I",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 198",
+            "course_name": "PROJECT LABORATORY",
+            "description": "EE-UY  198 PROJECT LABORATORY",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 199",
+            "course_name": "SENIOR EE LAB II",
+            "description": "EE-UY  199 SENIOR EE LAB II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 200",
+            "course_name": "GENERAL SENIOR LAB/PROJECT",
+            "description": "EE-UY  200 GENERAL SENIOR LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 201",
+            "course_name": "ELECTRICAL SYSTEMS 1",
+            "description": "EE-UY  201 ELECTRICAL SYSTEMS 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 202",
+            "course_name": "SENIOR ELECT LAB/PROJECT",
+            "description": "EE-UY  202 SENIOR ELECT LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 203",
+            "course_name": "SEN DESGN PROJ IN ELEC",
+            "description": "EE-UY  203 SEN DESGN PROJ IN ELEC",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 204",
+            "course_name": "SENIOR MACHINE LAB/PROJ",
+            "description": "EE-UY  204 SENIOR MACHINE LAB/PROJ",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 205",
+            "course_name": "SEN DESGN PROJ IN POWER",
+            "description": "EE-UY  205 SEN DESGN PROJ IN POWER",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 206",
+            "course_name": "SR SEMICOND LAB/PROJECT",
+            "description": "EE-UY  206 SR SEMICOND LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 207",
+            "course_name": "SEN DESGN PROJ/SEMC&MAT",
+            "description": "EE-UY  207 SEN DESGN PROJ/SEMC&MAT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 208",
+            "course_name": "SR SPC IMAGE PROC PROJ",
+            "description": "EE-UY  208 SR SPC IMAGE PROC PROJ",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 209",
+            "course_name": "SEN DES PROJ IN SPEC TOP",
+            "description": "EE-UY  209 SEN DES PROJ IN SPEC TOP",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 210",
+            "course_name": "SUMMER HONORS LAB/PROJECT",
+            "description": "EE-UY  210 SUMMER HONORS LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 210",
+            "course_name": "SUMMER HONORS LAB/PROJ",
+            "description": "EE-UY  210 SUMMER HONORS LAB/PROJ",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 212",
+            "course_name": "SENIOR VLSI LAB/PROJECT",
+            "description": "EE-UY  212 SENIOR VLSI LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 213",
+            "course_name": "SEN DESIGN PROJ IN VLSI",
+            "description": "EE-UY  213 SEN DESIGN PROJ IN VLSI",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 214",
+            "course_name": "SEN.ROBOTICS LAB/PROJECT",
+            "description": "EE-UY  214 SEN.ROBOTICS LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 215",
+            "course_name": "SEN DES PRO IN CON & ROB",
+            "description": "EE-UY  215 SEN DES PRO IN CON & ROB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 216",
+            "course_name": "SEN IMAGE PROC LAB",
+            "description": "EE-UY  216 SEN IMAGE PROC LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 217",
+            "course_name": "SEN DESG PROJ IN IMAGING",
+            "description": "EE-UY  217 SEN DESG PROJ IN IMAGING",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 219",
+            "course_name": "| EE-UY 4133",
+            "description": "EE-UY  219 | EE-UY 4133\n\n   DES PROJ: ELECTROMAGNETIC WAVES AND APPS\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY  219 | EE-UY 4133 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY  219 | EE-UY 4133 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 220",
+            "course_name": "SENIOR EE LAB/PROJECT",
+            "description": "EE-UY  220 SENIOR EE LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 221",
+            "classes": [
+                {}
+            ],
+            "course_name": "SENIOR DESIGN PROJ IN EE",
+            "description": "EE-UY  221 SENIOR DESIGN PROJ IN EE",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 222",
+            "course_name": "SR COMP ENG LAB/PROJECT",
+            "description": "EE-UY  222 SR COMP ENG LAB/PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 223",
+            "course_name": "SR DESGN PROJ IN COMP/E",
+            "description": "EE-UY  223 SR DESGN PROJ IN COMP/E",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 225",
+            "course_name": "SEN DESGN PROJ POLMUL PL",
+            "description": "EE-UY  225 SEN DESGN PROJ POLMUL PL",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 227",
+            "course_name": "SEN DESGN PROJ IN TELECM",
+            "description": "EE-UY  227 SEN DESGN PROJ IN TELECM",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 229",
+            "course_name": "SR DES PROJ/DIG SIG PROC",
+            "description": "EE-UY  229 SR DES PROJ/DIG SIG PROC",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 230",
+            "course_name": "COMPUTER PROGRAMMING",
+            "description": "EE-UY  230 COMPUTER PROGRAMMING",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 260",
+            "course_name": "SR EE PROJ PLANN & PRE",
+            "description": "EE-UY  260 SR EE PROJ PLANN & PRE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 261",
+            "course_name": "TRANSMISSIONS LINES & WVS",
+            "description": "EE-UY  261 TRANSMISSIONS LINES & WVS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 261",
+            "course_name": "SR EE PROJ PLAN/PRES 1",
+            "description": "EE-UY  261 SR EE PROJ PLAN/PRES 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 262",
+            "course_name": "SR EE PROJ PLAN/PRES II",
+            "description": "EE-UY  262 SR EE PROJ PLAN/PRES II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 270",
+            "course_name": "SEN COMP/E PROJ PLAN PRE",
+            "description": "EE-UY  270 SEN COMP/E PROJ PLAN PRE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 271",
+            "course_name": "SR COMPE PROJ PLAN& PR I",
+            "description": "EE-UY  271 SR COMPE PROJ PLAN& PR I",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 272",
+            "course_name": "SR COMPE PRJ PLAN&PRE II",
+            "description": "EE-UY  272 SR COMPE PRJ PLAN&PRE II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 293",
+            "course_name": "SOPHOMORE EE LAB 1",
+            "description": "EE-UY  293 SOPHOMORE EE LAB 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 294",
+            "course_name": "SOPH ELEC ENGR LAB 2",
+            "description": "EE-UY  294 SOPH ELEC ENGR LAB 2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 295",
+            "course_name": "JUNIOR EE LAB 1",
+            "description": "EE-UY  295 JUNIOR EE LAB 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 296",
+            "course_name": "JUNIOR COMPUTER LAB",
+            "description": "EE-UY  296 JUNIOR COMPUTER LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 297",
+            "course_name": "SENIOR COMP SYST LAB",
+            "description": "EE-UY  297 SENIOR COMP SYST LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 298",
+            "course_name": "SR DESGN PROJ IN COMP SY",
+            "description": "EE-UY  298 SR DESGN PROJ IN COMP SY",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 370",
+            "course_name": "PRINCIPLES OF EE",
+            "description": "EE-UY  370 PRINCIPLES OF EE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 371",
+            "classes": [
+                {}
+            ],
+            "course_name": "GUIDED STUDIES IN EE",
+            "description": "EE-UY  371 GUIDED STUDIES IN EE \nGuided study under the guidance of a faculty member of a topic related to Electrical\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 372",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "GUIDED STUDIES IN EE",
+            "description": "EE-UY  372 GUIDED STUDIES IN EE \nGuided study under the guidance of a faculty member of a topic related to Electrical\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 373",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "GUIDED STUDIES IN EE",
+            "description": "EE-UY  373 GUIDED STUDIES IN EE \nGuided study under the guidance of a faculty member of a topic related to Electrical\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 374",
+            "course_name": "GUIDED STUDIES IN EE",
+            "description": "EE-UY  374 GUIDED STUDIES IN EE \nGuided study under the guidance of a faculty member of a topic related to Electrical\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 375",
+            "course_name": "GUIDED STUDIES IN EE",
+            "description": "EE-UY  375 GUIDED STUDIES IN EE \nGuided study under the guidance of a faculty member of a topic related to Electrical\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 376",
+            "course_name": "GUIDED STUDIES IN EE",
+            "description": "EE-UY  376 GUIDED STUDIES IN EE \nGuided study under the guidance of a faculty member of a topic related to Electrical\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 377",
+            "course_name": "INSTRUMENTATION LAB",
+            "description": "EE-UY  377 INSTRUMENTATION LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 378",
+            "course_name": "INTRO TO COMPT ELECTRNS",
+            "description": "EE-UY  378 INTRO TO COMPT ELECTRNS",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 379",
+            "course_name": "COMP ELECTRONICS LAB",
+            "description": "EE-UY  379 COMP ELECTRONICS LAB",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 381",
+            "course_name": "GUIDED STUDIES IN COMP/E",
+            "description": "EE-UY  381 GUIDED STUDIES IN COMP/E \nGuided study under the guidance of a faculty member of a topic related to Computer\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 382",
+            "course_name": "GUIDED STUDIES IN COMP/E",
+            "description": "EE-UY  382 GUIDED STUDIES IN COMP/E \nGuided study under the guidance of a faculty member of a topic related to Computer\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 383",
+            "course_name": "GUIDED STUDIES IN COMP/E",
+            "description": "EE-UY  383 GUIDED STUDIES IN COMP/E \nGuided study under the guidance of a faculty member of a topic related to Computer\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 384",
+            "course_name": "GUIDED STUDIES IN COMP/E",
+            "description": "EE-UY  384 GUIDED STUDIES IN COMP/E \nGuided study under the guidance of a faculty member of a topic related to Computer\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 385",
+            "course_name": "GUIDED STUDIES IN COMP/E",
+            "description": "EE-UY  385 GUIDED STUDIES IN COMP/E \nGuided study under the guidance of a faculty member of a topic related to Computer\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 386",
+            "course_name": "GUIDED STUDIES IN COMP/E",
+            "description": "EE-UY  386 GUIDED STUDIES IN COMP/E \nGuided study under the guidance of a faculty member of a topic related to Computer\nEngineering. | Prerequisite: Advisor approval.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 391",
+            "course_name": "SPECIAL STUDIES IN EE",
+            "description": "EE-UY  391 SPECIAL STUDIES IN EE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 392",
+            "course_name": "SPEC STUD TELECOMMUNICAT",
+            "description": "EE-UY  392 SPEC STUD TELECOMMUNICAT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 394",
+            "course_name": "SPECIAL STUDIES IN EE",
+            "description": "EE-UY  394 SPECIAL STUDIES IN EE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 395",
+            "course_name": "INTRO TO PROJECT",
+            "description": "EE-UY  395 INTRO TO PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 396",
+            "course_name": "EE LAB PROJECT II",
+            "description": "EE-UY  396 EE LAB PROJECT II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 397",
+            "classes": [
+                {}
+            ],
+            "course_name": "Senior Thesis",
+            "description": "EE-UY  397 Senior Thesis \nIndependent design-oriented engineering project preformed under guidance of faculty advisor. Oral thesis defense and formal, bound thesis volume required. Registration of at least 6 credits required. | Prerequisite: Senior status and adviser approval. Credits: variable.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 398",
+            "course_name": "PROJECT IN EE",
+            "description": "EE-UY  398 PROJECT IN EE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 399",
+            "course_name": "CONCENTRATION PROJ IN EE",
+            "description": "EE-UY  399 CONCENTRATION PROJ IN EE",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 401",
+            "course_name": "ELEC & MAG CIRCUITS I",
+            "description": "EE-UY  401 ELEC & MAG CIRCUITS I",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 402",
+            "course_name": "ELEC & MAGNETIC CIRCUITS 2",
+            "description": "EE-UY  402 ELEC & MAGNETIC CIRCUITS 2",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 411",
+            "course_name": "ELECTRONIC NETWORKS 1",
+            "description": "EE-UY  411 ELECTRONIC NETWORKS 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 414",
+            "course_name": "MULTIMEDIA SEQUENCE II",
+            "description": "EE-UY  414 MULTIMEDIA SEQUENCE II",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 441",
+            "course_name": "ELECTRONIC DEVICES",
+            "description": "EE-UY  441 ELECTRONIC DEVICES",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 473",
+            "course_name": "ELECTRICAL MACHINERY",
+            "description": "EE-UY  473 ELECTRICAL MACHINERY",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 1002",
+            "course_name": "",
+            "description": "EE-UY 1002\n\n   INTRODUCTION TO ELECTRICAL ENGINEERING\n\nThis course introduces numerous Electrical Engineering subject areas, including power systems, power electronics, computer networking, computer processors, communications, feedback control, signal processing, and EM fields/waves. As appropriate for each area, the course introduces various devices, design and operational issues, design methodologies and algorithms. Also introduced are basic equations to model systems and algorithms to solve specific problems. Important technical developments and problems are discussed. Mathematical methods are introduced as needed. The course gives an overview ...\n\n      more description for EE-UY 1002 \u00bb\n\n      \n\n\n\nThis course introduces numerous Electrical Engineering subject areas, including power systems, power electronics, computer networking, computer processors, communications, feedback control, signal processing, and EM fields/waves. As appropriate for each area, the course introduces various devices, design and operational issues, design methodologies and algorithms. Also introduced are basic equations to model systems and algorithms to solve specific problems. Important technical developments and problems are discussed. Mathematical methods are introduced as needed. The course gives an overview of department courses. Faculty lecturers discuss research and industrial projects in which they have been involved. Assignments include computer simulations and Investigations of different systems. Written reports based on articles from the IEEE Spectrum Magazine are assigned. The IEEE Code of Ethics and ethics-related readings from the IEEE literature are discussed.  | ABET criteria: i, h. | Prerequisites: First-year standing\n\n      less description for EE-UY 1002 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 1012",
+            "course_name": "",
+            "description": "EE-UY 1012\n\n   INTRO TO COMPUTER ENGINEERING\n\nThis course helps students to understand computer engineering as a balance among hardware, software, applications and theory, the notion of abstraction, computer layers and how they relate to various aspects of computer engineering, implementation of abstract and physical computer layers: Number systems, digital logic, basic processor structure, instruction set architecture, machine languages, assembly languages and high-level programming in C. Other computer concepts, including compilers, operating systems and algorithms, are presented, along with the simulator concept and its usage for under...\n\n      more description for EE-UY 1012 \u00bb\n\n      \n\n\n\nThis course helps students to understand computer engineering as a balance among hardware, software, applications and theory, the notion of abstraction, computer layers and how they relate to various aspects of computer engineering, implementation of abstract and physical computer layers: Number systems, digital logic, basic processor structure, instruction set architecture, machine languages, assembly languages and high-level programming in C. Other computer concepts, including compilers, operating systems and algorithms, are presented, along with the simulator concept and its usage for understanding computer design, testing and analysis. Experts present special topics in the area. Also discussed are invention, innovation, entrepreneurship and ethics in these topics and in Computer Engineering.  Cross listed as CS-UY 1012. | ABET competencies: e, h, j | Prerequisite: Only first-year students are permitted to enrol in this course.\n\n      less description for EE-UY 1012 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 2004",
+            "course_name": "FUND. OF ELECTRIC CIRCUITS 1",
+            "description": "EE-UY 2004 FUND. OF ELECTRIC CIRCUITS 1",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 2013",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Fundamentals of Electric Circuits I",
+            "description": "EE-UY 2013 Fundamentals of Electric Circuits I \nThis course covers Passive DC circuit elements, Kirchoff\u2019s laws, electric power calculations, analysis of DC circuits, Nodal and Loop analysis techniques, voltage and current division, Thevenin\u2019s and Norton\u2019s theorems, and source-free and forced responses of RL, RC and RLC circuits. A minimum of C- is required to take other EE courses. | Co-requisites: MA-UY 2012, MA-UY 2132 and PH-UY 2023. ABET competencies a, c, e, k.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 2024",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Fundamentals of Electric Circuits II",
+            "description": "EE-UY 2024 Fundamentals of Electric Circuits II \nThe course continues EE2013 and focuses on sinusoidal steady-state response; complex voltage and current and the phasor concept; impedance and admittance; average, apparent and reactive power; polyphase circuits; node and mesh analysis for AC circuits; use of Matlab for solving circuit equations; frequency response; parallel and series resonance; and operational amplifier circuits. A laboratory meets on alternate weeks. A minimum of C- is required to take other EE courses. | Prerequisites: EE-UY 2013 with C or better grade. ABET competencies a, b, c, d, e, k.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 2233",
+            "classes": [
+                {}
+            ],
+            "course_name": "Introduction to Probability",
+            "description": "EE-UY 2233 Introduction to Probability \nStandard first course in probability, recommended for those planning further work in probability or statistics. Probability of events, random variables and expectations, discrete and continuous distribution, joint and conditional distribution, moment generating functions, central limit theorem. | Prerequisites: MA-UY 109, MA-UY 2112, OR MA-UY 2114. Note: Not open to students who have taken MA-UY 3012 or MA-UY 3022.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 2613",
+            "course_name": "",
+            "description": "EE-UY 2613\n\n   FUND OF ELEC PWR ENG FOR NON EE STUDENTS\n\nIntroduction to electricity: current, voltage and electrical power. Ohm\u2019s Law. Kirchhoff\u2019s Laws. Electrical materials. Electrical energy generation process. Principles of AC. Bulk electrical power generation: hydroelectricity and thermoelectricity. Alternative generation sources. Synchronous Generators. Induction Motors. Transmission and distribution systems.  Substations and transformers. Low-voltage networks. Industrial, commercial and residential networks and loads. Short-circuit and protection equipment. Relays and circuit breakers. Power quality. Reliability and blackouts. Physiological e...\n\n      more description for EE-UY 2613 \u00bb\n\n      \n\n\n\nIntroduction to electricity: current, voltage and electrical power. Ohm\u2019s Law. Kirchhoff\u2019s Laws. Electrical materials. Electrical energy generation process. Principles of AC. Bulk electrical power generation: hydroelectricity and thermoelectricity. Alternative generation sources. Synchronous Generators. Induction Motors. Transmission and distribution systems.  Substations and transformers. Low-voltage networks. Industrial, commercial and residential networks and loads. Short-circuit and protection equipment. Relays and circuit breakers. Power quality. Reliability and blackouts. Physiological effects of electric currents in the human body. Exposure to low-frequency magnetic fields.  National Electric Code (NEC). ANSI-IEEE Standards. IEC standards. Certification of electrical products compliance. | Prerequisite(s): MA-UY 1024/1054/1324, and MA-UY 1124/1154/1424; and PH-UY 1004 or PH-UY 1013; and PH-UY 2004 or PH-UY 2023.\n\n      less description for EE-UY 2613 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3054",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 3054\n\n   Signals and Systems\n\nThis course centers on linear system theory for analog and digital systems; linearity, causality and time invariance; impulse response, convolution and stability; the Laplace, z- transforms and applications to Linear Time Invariant (LTI) systems; frequency response, analog and digital filter design. Topics also include Fourier Series, Fourier Transforms and the sampling theorem. Weekly computer-laboratory projects use analysis- and design-computer packages. The course establishes foundations of linear systems theory needed in future courses; use of math packages to solve problems and simulate ...\n\n      more description for EE-UY 3054 \u00bb\n\n      \n\n\n\nThis course centers on linear system theory for analog and digital systems; linearity, causality and time invariance; impulse response, convolution and stability; the Laplace, z- transforms and applications to Linear Time Invariant (LTI) systems; frequency response, analog and digital filter design. Topics also include Fourier Series, Fourier Transforms and the sampling theorem. Weekly computer-laboratory projects use analysis- and design-computer packages. The course establishes foundations of linear systems theory needed in future courses; use of math packages to solve problems and simulate systems; and analog and digital filter design. | Prerequisites: EE-UY 2024 (C- or better), MA-UY 2012 and MA-UY 2132. ABET competencies a, b, c, e, k.\n\n      less description for EE-UY 3054 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 106",
+            "course_name": "| EE-UY 3064",
+            "description": "EE-UY  106 | EE-UY 3064\n\n   Feedback Control\n\nThis course introduces analysis and design of linear feedback-control systems; modeling of physical systems, performance specifications, sensitivity and steady-state error; Routh- Hurwitz and Nyquist Stability tests; the use of Root Locus and frequency-response techniques to analyze system performance and design compensation (lead/lag and PID controllers) to meet performance specifications. Students analyze and design control systems using math packages in the alternate-week computer laboratory. The course establishes the foundation of feedback-control theory for use in more advanced courses; ...\n\n      more description for EE-UY  106 | EE-UY 3064 \u00bb\n\n      \n\n\n\nThis course introduces analysis and design of linear feedback-control systems; modeling of physical systems, performance specifications, sensitivity and steady-state error; Routh- Hurwitz and Nyquist Stability tests; the use of Root Locus and frequency-response techniques to analyze system performance and design compensation (lead/lag and PID controllers) to meet performance specifications. Students analyze and design control systems using math packages in the alternate-week computer laboratory. The course establishes the foundation of feedback-control theory for use in more advanced courses; introduces control-systems design concepts and practices; and develops facility with computer-design packages for design and simulation. | Prerequisites: EE-UY 3054 (C- or better) and PH-UY 2023. ABET competencies: a, b, c, e, g, i, k.\n\n      less description for EE-UY  106 | EE-UY 3064 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3114",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 3114\n\n   Fundamentals of Electronics I\n\nThis course focuses on circuit models and amplifier frequency response, op-amps, difference amplifier, voltage-to-current converter, slew rate, full-power bandwidth, common-mode rejection, frequency response of closed-loop amplifier, gain-bandwidth product rule, diodes, limiters, clamps and semiconductor physics. Other topics include Bipolar Junction Transistors; small-signal models, cut-off, saturation and active regions; common emitter, common base and emitter-follower amplifier configurations; Field-Effect Transistors (MOSFET and JFET); biasing; small-signal models; common-source and common...\n\n      more description for EE-UY 3114 \u00bb\n\n      \n\n\n\nThis course focuses on circuit models and amplifier frequency response, op-amps, difference amplifier, voltage-to-current converter, slew rate, full-power bandwidth, common-mode rejection, frequency response of closed-loop amplifier, gain-bandwidth product rule, diodes, limiters, clamps and semiconductor physics. Other topics include Bipolar Junction Transistors; small-signal models, cut-off, saturation and active regions; common emitter, common base and emitter-follower amplifier configurations; Field-Effect Transistors (MOSFET and JFET); biasing; small-signal models; common-source and common gate amplifiers; and integrated circuit MOS amplifiers. The alternate-week laboratory experiments on OP-AMP applications, BJT biasing, large signal operation and FET characteristics. The course studies design and analysis of operational amplifiers; small-signal bipolar junction transistor and field-effect transistor amplifiers; diode circuits; differential pair amplifiers and semiconductor device- physics fundamentals. | Prerequisites: EE-UY 2024 (C- or better) and PH-UY 2023. ABET competencies a, b, c, e, k.\n\n      less description for EE-UY 3114 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 112",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "| EE-UY 3124",
+            "description": "EE-UY  112 | EE-UY 3124\n\n   Fundamentals of Electronics II\n\nThe course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of an...\n\n      more description for EE-UY  112 | EE-UY 3124 \u00bb\n\n      \n\n\n\nThe course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of analog integrated circuits, frequency response of amplifiers, feedback amplifiers, TTL and CMOS digital integrated circuits. | Prerequisite: EE-UY 3114. ABET competencies a, c, e, g, k.\n\n      less description for EE-UY  112 | EE-UY 3124 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 3144",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "| EE-UY 4144",
+            "description": "EE-UY 3144 | EE-UY 4144\n\n   Introduction to Embedded Systems Design\n\nThe course covers architecture and operation of embedded microprocessors; microprocessor assembly language programming; address decoding; interfacing to static and dynamic RAM; Serial I/O, Parallel I/O, analog I/O; interrupts and direct memory access; A/D and D/A converters; sensors; microcontrollers. Alternate-week laboratory. Objectives: to provide foundations of embedded systems design and analysis techniques; expose students to system level design; and teach integration of analog sensors with digital embedded microprocessors. | Prerequisites: CS-UY 2204 (C- or better) and EE-UY 2024 (C- or...\n\n      more description for EE-UY 3144 | EE-UY 4144 \u00bb\n\n      \n\n\n\nThe course covers architecture and operation of embedded microprocessors; microprocessor assembly language programming; address decoding; interfacing to static and dynamic RAM; Serial I/O, Parallel I/O, analog I/O; interrupts and direct memory access; A/D and D/A converters; sensors; microcontrollers. Alternate-week laboratory. Objectives: to provide foundations of embedded systems design and analysis techniques; expose students to system level design; and teach integration of analog sensors with digital embedded microprocessors. | Prerequisites: CS-UY 2204 (C- or better) and EE-UY 2024 (C- or better). ABET competencies: a, c, d, e, g, j, k.\n\n      less description for EE-UY 3144 | EE-UY 4144 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 3193",
+            "course_name": "",
+            "description": "EE-UY 3193\n\n   Introduction to Very Large Scale Integrated Circuits\n\nThe course offers an overview of integrated circuit-design process: planning, design, fabrication and testing; device physics: PN junction, MOSFET and Spice models; inverter static and dynamic behavior and power dissipation; interconnects: cross talk, variation and transistor sizing; logic gates and combinational logic networks; sequential machines and sequential system design; subsystem design: adders, multipliers, static memory (SRAM), dynamic memory (DRAM). Topics include floor planning, clock distribution, power distribution and signal integrity; Input/Output buffers, packaging and testing...\n\n      more description for EE-UY 3193 \u00bb\n\n      \n\n\n\nThe course offers an overview of integrated circuit-design process: planning, design, fabrication and testing; device physics: PN junction, MOSFET and Spice models; inverter static and dynamic behavior and power dissipation; interconnects: cross talk, variation and transistor sizing; logic gates and combinational logic networks; sequential machines and sequential system design; subsystem design: adders, multipliers, static memory (SRAM), dynamic memory (DRAM). Topics include floor planning, clock distribution, power distribution and signal integrity; Input/Output buffers, packaging and testing; IC design methodology and CAD tools; implementations: full custom, application-specific integrated circuit (ASIC), field programmable gate arrays (FPGA). The course provides foundations of VLSI design and custom VLSI design methodology and state-of-the-art CAD tools. | Prerequisites: CS-UY 2204 (C- or better) and EE-UY 3114. ABET competencies: a,c,e,k.\n\n      less description for EE-UY 3193 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3363",
+            "course_name": "",
+            "description": "EE-UY 3363\n\n   REAL-TIME EMBEDDED CONTROLS & INSTRUMENTATION\n\nIntroduction to real-time embedded systems. Overview of utilization of embedded microcontrollers and micro-processor for real-time applications. Concepts of modeling and simulation of real-time systems and their hardware-in-the-loop realization. Overview of various sensors and actuators and the associated instrumentation. Electrical and communication standards for interfacing sensors and actuators in embedded systems. Sample micro-controllers and  micro-processors and FPGAs in embedded applications. Operating environment in real-time processing systems and software implementations. Case studie...\n\n      more description for EE-UY 3363 \u00bb\n\n      \n\n\n\nIntroduction to real-time embedded systems. Overview of utilization of embedded microcontrollers and micro-processor for real-time applications. Concepts of modeling and simulation of real-time systems and their hardware-in-the-loop realization. Overview of various sensors and actuators and the associated instrumentation. Electrical and communication standards for interfacing sensors and actuators in embedded systems. Sample micro-controllers and  micro-processors and FPGAs in embedded applications. Operating environment in real-time processing systems and software implementations. Case studies of control systems.  | Prerequisite: EE-UY 2024 and CS-UY 2204 and the new C/C++ course (knowledge of C or C++)\n\n      less description for EE-UY 3363 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 140",
+            "course_name": "| EE-UY 3404",
+            "description": "EE-UY  140 | EE-UY 3404\n\n   Fundamentals of Communication Theory\n\nThe course covers bandpass signal representation and quadrature receivers; noise in communication systems; Digital Modulation Schemes, coherent and noncoherent receivers; coding fundamentals, block and convolutional codes; higher-order modulation schemes, QAM, M-PSK; intersymbol interference and equalization techniques; and carrier and symbol synchronization. Alternate-week computer laboratory projects analyze and design computer packages. The course teaches principles of various modulation and coding techniques and their relative effectiveness under transmission-environments constraints and u...\n\n      more description for EE-UY  140 | EE-UY 3404 \u00bb\n\n      \n\n\n\nThe course covers bandpass signal representation and quadrature receivers; noise in communication systems; Digital Modulation Schemes, coherent and noncoherent receivers; coding fundamentals, block and convolutional codes; higher-order modulation schemes, QAM, M-PSK; intersymbol interference and equalization techniques; and carrier and symbol synchronization. Alternate-week computer laboratory projects analyze and design computer packages. The course teaches principles of various modulation and coding techniques and their relative effectiveness under transmission-environments constraints and uses math packages to analyze and simulate communication systems. | Prerequisite: EE-UY 3054 (C- or better); computer engineering students may register with instructor\u2019s approval. Co-requisite: MA-UY 3012. ABET competencies a, c, e, k.\n\n      less description for EE-UY  140 | EE-UY 3404 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3414",
+            "course_name": "",
+            "description": "EE-UY 3414\n\n   Multimedia Communication Systems I\n\nThe course is Part I of an approved Institute Sequence in Multimedia Communications. Topics: speech and audio sampling and quantization; frequency domain characterization and processing of speech signals; speech and audio-coding standards; wired and wireless telephone systems; color perception and representation; basic image-processing tools; image-coding standards; basics of packet-switching networks and Internet technology. Requirements: one term project by a team of two or more students related to course content. Objectives: to understand basic techniques for speech, audio and image process...\n\n      more description for EE-UY 3414 \u00bb\n\n      \n\n\n\nThe course is Part I of an approved Institute Sequence in Multimedia Communications. Topics: speech and audio sampling and quantization; frequency domain characterization and processing of speech signals; speech and audio-coding standards; wired and wireless telephone systems; color perception and representation; basic image-processing tools; image-coding standards; basics of packet-switching networks and Internet technology. Requirements: one term project by a team of two or more students related to course content. Objectives: to understand basic techniques for speech, audio and image processing and principles of wired and wireless telephone systems and the Internet. | Prerequisites: CS-UY 1114 or CS-UY 1133 and MA-UY 1024. ABET competencies: a, b, d, g, h, k.\n\n      less description for EE-UY 3414 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3424",
+            "course_name": "LIGHT AND LIGHTING",
+            "description": "EE-UY 3424 LIGHT AND LIGHTING",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3474",
+            "course_name": "Introduction to Modern Optics",
+            "description": "EE-UY 3474 Introduction to Modern Optics \nThis course covers the physics of optics using both classical and semi-classical descriptions. The classical and quantum interactions of light with matter. Diffraction of waves and wave packets by obstacles. Fourier transform optics, holography, Fourier transform spectroscopy. Coherence and quantum aspects of light. Geometrical optics. Matrix optics. Crystal optics. Introduction to electro-optics and nonlinear optics. | Prerequisite: PH-UY 2004 or PH-UY 2033.",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 160",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "| EE-UY 3604",
+            "description": "EE-UY  160 | EE-UY 3604\n\n   Electromagnetic Waves\n\nElectromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are obtained as a special case. Reflection and transmission at discontinuities are discussed for pulsed sources, while impedance transformation and matching are presented for harmonic time dependence. Snell\u2019s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated....\n\n      more description for EE-UY  160 | EE-UY 3604 \u00bb\n\n      \n\n\n\nElectromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are obtained as a special case. Reflection and transmission at discontinuities are discussed for pulsed sources, while impedance transformation and matching are presented for harmonic time dependence. Snell\u2019s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated. Alternate-week laboratory. Objectives: Establish foundations of electromagnetic wave theory applicable to antennas, transmissions lines and materials; increase appreciation for properties of materials through physical experiments. | Prerequisites: EE-UY 2024 (C- or better) and MA-UY 3112. ABET competencies: a, b, c, e, k.\n\n      less description for EE-UY  160 | EE-UY 3604 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 3714",
+            "course_name": "GUIDED READINGS IN ELECTRICAL ENGINEERING",
+            "description": "EE-UY 3714 GUIDED READINGS IN ELECTRICAL ENGINEERING",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3824",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 3824\n\n   Electric Energy Conversion Systems\n\nIntroduction to electric-energy sources, energy-storage devices, energy economics, environmental issues and electrical hazards. Principles of electric power systems transmission and distribution. Basic electromechanical conversion systems pulse and distribution transformers, induction rotating machines. Principles of electric energy conversion, static power supplies, static controllers and electric-power quality. Fundamentals of power management heat-sinks and cooling systems. Alternate-week experiments with basic electrical machines. Objectives: familiarization with energy sources, storage de...\n\n      more description for EE-UY 3824 \u00bb\n\n      \n\n\n\nIntroduction to electric-energy sources, energy-storage devices, energy economics, environmental issues and electrical hazards. Principles of electric power systems transmission and distribution. Basic electromechanical conversion systems pulse and distribution transformers, induction rotating machines. Principles of electric energy conversion, static power supplies, static controllers and electric-power quality. Fundamentals of power management heat-sinks and cooling systems. Alternate-week experiments with basic electrical machines. Objectives: familiarization with energy sources, storage devices and their economical and environmental management; analysis and design of transmission and distribution systems, basic electrical machinery and power electronic converters. | Prerequisite: EE-UY 2024 (C- or better). Co-requisite: EE-UY 3604. ABET competencies: a, b, c, e, g, k.\n\n      less description for EE-UY 3824 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4001",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "ECE Professional Development & Presentation",
+            "description": "EE-UY 4001 ECE Professional Development & Presentation \nThis course provides electrical and computer engineering students with concepts, theory, principles and experience in project management and project presentation. Students learn how to apply skills learned in engineering coursework to team projects in a professional environment. Prerequisites: Junior or senior status or permission of the instructor. | Restricted to Electrical and Computer Engineering majors.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4113",
+            "course_name": "",
+            "description": "EE-UY 4113\n\n   DP I -  CONTROLS AND ROBOTICS\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4113 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY 4113 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 4123",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 4123\n\n   SENIOR DESIGN IN ELECTRICAL POWER & MACHINERY\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4123 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY 4123 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 219",
+            "course_name": "| EE-UY 4133",
+            "description": "EE-UY  219 | EE-UY 4133\n\n   DES PROJ: ELECTROMAGNETIC WAVES AND APPS\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY  219 | EE-UY 4133 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY  219 | EE-UY 4133 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 4143",
+            "course_name": "",
+            "description": "EE-UY 4143\n\n   DES PROJ I: INTEGRATED CIRCUIT DESIGN\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4143 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY 4143 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 3144",
+            "classes": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "| EE-UY 4144",
+            "description": "EE-UY 3144 | EE-UY 4144\n\n   Introduction to Embedded Systems Design\n\nThe course covers architecture and operation of embedded microprocessors; microprocessor assembly language programming; address decoding; interfacing to static and dynamic RAM; Serial I/O, Parallel I/O, analog I/O; interrupts and direct memory access; A/D and D/A converters; sensors; microcontrollers. Alternate-week laboratory. Objectives: to provide foundations of embedded systems design and analysis techniques; expose students to system level design; and teach integration of analog sensors with digital embedded microprocessors. | Prerequisites: CS-UY 2204 (C- or better) and EE-UY 2024 (C- or...\n\n      more description for EE-UY 3144 | EE-UY 4144 \u00bb\n\n      \n\n\n\nThe course covers architecture and operation of embedded microprocessors; microprocessor assembly language programming; address decoding; interfacing to static and dynamic RAM; Serial I/O, Parallel I/O, analog I/O; interrupts and direct memory access; A/D and D/A converters; sensors; microcontrollers. Alternate-week laboratory. Objectives: to provide foundations of embedded systems design and analysis techniques; expose students to system level design; and teach integration of analog sensors with digital embedded microprocessors. | Prerequisites: CS-UY 2204 (C- or better) and EE-UY 2024 (C- or better). ABET competencies: a, c, d, e, g, j, k.\n\n      less description for EE-UY 3144 | EE-UY 4144 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4153",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 4153\n\n   MULTIMEDIA\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4153 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, g, k.\n\n      less description for EE-UY 4153 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4163",
+            "classes": [
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 4163\n\n   SIGNAL AND IMAGE PROCESSING\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4163 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY 4163 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4173",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 4173\n\n   DESIGN PROJECT I-TELECOMMUNICATIONS NETWORK\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4173 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY 4173 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4183",
+            "classes": [
+                {},
+                {},
+                {}
+            ],
+            "course_name": "",
+            "description": "EE-UY 4183\n\n   WIRELESS COMMUNICATIONS\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec...\n\n      more description for EE-UY 4183 \u00bb\n\n      \n\n\n\nThe required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below).\nDP1 provides significant background laboratory experience in the student\u2019s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level technical courses. ABET competencies: a, b, c, e, f, g, k.\n\n      less description for EE-UY 4183 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4223",
+            "classes": [
+                {}
+            ],
+            "course_name": "Electrical Engineering Design Project II",
+            "description": "EE-UY 4223 Electrical Engineering Design Project II \nIn this concluding phase of the Design Project, students and their advisers continue to work on the independent project begun in the previous semester. The final project builds upon analytical and laboratory skills developed in previous required and elective courses. The project may be an individual one, or may be carried out by a student team working with a faculty group adviser. The final Capstone Project also may be a multidisciplinary project carried out with students from other departments. | Prerequisite: EE-UY 41X3. ABET competencies: a, b, c, d, e, f, g, h, i, j, k.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4283",
+            "course_name": "Wireless Information Systems Laboratory II",
+            "description": "EE-UY 4283 Wireless Information Systems Laboratory II \nThis course includes hands-on experience with a combination of laboratory experiments, lectures and projects relating to basic and advanced topics in wireless communications. Specific topics include mixers, IQ modulation, phase locked loops, receiver design, PN code acquisition, smart antennas and RFID. | Prerequisite: EE-UY 4183",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 4313",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "Computer Engineering Design Project I",
+            "description": "EE-UY 4313 Computer Engineering Design Project I \nLectures and experiments introduce computer hardware organization, assembly language programming and interfacing computer hardware to physical devices. This course exercises the student\u2019s oral presentation and written communication skills, and provides background necessary for beginning independent project work. Students find an adviser and choose DP II course project. | Prerequisite: completion of all junior level technical courses, including minimum grade requirements. ABET competencies: a, b, c, e, f, g, k.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4323",
+            "classes": [
+                {},
+                {}
+            ],
+            "course_name": "COMPUTER ENGINEERING DESIGN PROJECT II",
+            "description": "EE-UY 4323 COMPUTER ENGINEERING DESIGN PROJECT II \nStudents work with faculty advisers in this concluding phase of their Capstone Project. This project builds upon the analytical and laboratory skills developed in previous required and elective courses. The project may be an individual one, or carried out by a team of students working with a faculty group adviser. The project also may be multidisciplinary, carried out with students from other departments. Students are required to make oral and written presentations. | Prerequisites: EE-UY 4313 or CS-UY 4513. ABET competencies: a, b, c, d, e, f, g, h, i, j, k.",
+            "offering": true
+        },
+        {
+            "course_id": "EE-UY 4414",
+            "course_name": "",
+            "description": "EE-UY 4414\n\n   Multimedia Communication Systems II\n\nThis course is Part II of an approved Institute Sequence in Multimedia Communications. Topics: analog and digital video format, properties of human visual systems, multiplexing of separate color components, video-coding methods and standards, analog and digital TV systems. Policy and business issues in TV system development. Video conferencing systems, video streaming over the Internet, Internet protocols for real-time applications. Requires one-term project on a topic related to the course content by a team of two or more students. Objectives: to understand basic techniques for video processi...\n\n      more description for EE-UY 4414 \u00bb\n\n      \n\n\n\nThis course is Part II of an approved Institute Sequence in Multimedia Communications. Topics: analog and digital video format, properties of human visual systems, multiplexing of separate color components, video-coding methods and standards, analog and digital TV systems. Policy and business issues in TV system development. Video conferencing systems, video streaming over the Internet, Internet protocols for real-time applications. Requires one-term project on a topic related to the course content by a team of two or more students. Objectives: to understand basic techniques for video processing and principles of television systems and real-time services over the Internet. | Prerequisites: EE-UY 3414 or 3054, or sufficient knowledge of Fourier Transforms. ABET competencies: a, b, d, g, h, k.\n\n      less description for EE-UY 4414 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "EE-UY 4823",
+            "course_name": "Electric and Hybrid Vehicles",
+            "description": "EE-UY 4823 Electric and Hybrid Vehicles \nElectric and hybrid vehicles mechanical fundamentals. DC, induction, and permanent magnet ac motors and drives. Regenerative breaking. Automotive power electronics. Fuel cells for electric vehicles. Electric Energy storage. The class meets four hours a week for lectures and recitation. ABET criteria: a, c, h, k. | Prerequisites: EE-UY 3824, PH-UY 2033.",
+            "offering": false
+        }
+    ]
+}

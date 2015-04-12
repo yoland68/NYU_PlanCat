@@ -1,0 +1,78 @@
+{
+    "major_id": "IFMTV-UT",
+    "file": "./2015-2016/Int`l_Pgms,_Film_&_Television_(IFMTV-UT).html",
+    "courses": [
+        {
+            "course_id": "IFMTV-UT 56",
+            "course_name": "Sight & Sound Studio",
+            "description": "IFMTV-UT   56 Sight & Sound Studio",
+            "offering": false
+        },
+        {
+            "course_id": "IFMTV-UT 1002",
+            "course_name": "Media Mavericks",
+            "description": "IFMTV-UT 1002 Media Mavericks",
+            "offering": false
+        },
+        {
+            "course_id": "IFMTV-UT 1019",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19631",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Preparing the Screenplay",
+            "description": "IFMTV-UT 1019 Preparing the Screenplay",
+            "offering": true
+        },
+        {
+            "course_id": "IFMTV-UT 1040",
+            "course_name": "Seminar on Czech Cinema and Culture",
+            "description": "IFMTV-UT 1040 Seminar on Czech Cinema and Culture",
+            "offering": false
+        },
+        {
+            "course_id": "IFMTV-UT 1049",
+            "course_name": "Intermediate Experimental Workshop",
+            "description": "IFMTV-UT 1049 Intermediate Experimental Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "IFMTV-UT 1071",
+            "course_name": "Introduction to TV Writing",
+            "description": "IFMTV-UT 1071 Introduction to TV Writing",
+            "offering": false
+        },
+        {
+            "course_id": "IFMTV-UT 1092",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19632",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Strategies for Producing",
+            "description": "IFMTV-UT 1092 Strategies for Producing",
+            "offering": true
+        },
+        {
+            "course_id": "IFMTV-UT 2048",
+            "course_name": "Documenting Culture",
+            "description": "IFMTV-UT 2048 Documenting Culture",
+            "offering": false
+        }
+    ]
+}

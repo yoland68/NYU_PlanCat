@@ -1,0 +1,992 @@
+{
+    "major_id": "JOUR-GA",
+    "file": "./2015-2016/Journalism_(JOUR-GA).html",
+    "courses": [
+        {
+            "course_id": "JOUR-GA 1",
+            "course_name": "U.S.,Lat Amer & Media",
+            "description": "JOUR-GA    1 U.S.,Lat Amer & Media",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 10",
+            "course_name": "Struct/Functn Mass Media",
+            "description": "JOUR-GA   10 Struct/Functn Mass Media",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 11",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1467",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "20CS 657"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1468",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.00 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "20CS 659"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1469",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 1.30 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "20CS 657"
+                }
+            ],
+            "course_name": "Law & Mass Communication",
+            "description": "JOUR-GA   11 Law & Mass Communication \nDiscusses exceptions to the First Amendment language that ?Congress shall make no law . . . abridging the freedom of speech or of the press.? Subjects covered include prior restraint of the press, libel, invasion of privacy, news-gathering problems, shield laws and protection of sources, free press and fair trial, and broadcast regulations by the FCC.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 12",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1863",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.30 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "20CS 655"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1470",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.30 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "20CS 655"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1471",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 2.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                }
+            ],
+            "course_name": "Press Ethics",
+            "description": "JOUR-GA   12 Press Ethics \nExplores the ethical questions facing working journalists. Focuses on specific cases, both real and hypothetical. Through readings, papers, and class discussion, students analyze the ethical problems raised by these cases and develop their own systems for making ethical decisions.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 15",
+            "course_name": "Reporting On Race in Urban America",
+            "description": "JOUR-GA   15 Reporting On Race in Urban America",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 17",
+            "course_name": "News Study Group",
+            "description": "JOUR-GA   17 News Study Group",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 18",
+            "course_name": "History of The News",
+            "description": "JOUR-GA   18 History of The News",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 50",
+            "course_name": "Foreign Posting: Reporting NYC",
+            "description": "JOUR-GA   50 Foreign Posting: Reporting NYC",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 60",
+            "course_name": "Writing for a Wide Readership",
+            "description": "JOUR-GA   60 Writing for a Wide Readership",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 331",
+            "course_name": "Invesigative Journalism",
+            "description": "JOUR-GA  331 Invesigative Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 332",
+            "course_name": "Guerrilla News",
+            "description": "JOUR-GA  332 Guerrilla News",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1013",
+            "course_name": "Media Pressures/Politics",
+            "description": "JOUR-GA 1013 Media Pressures/Politics",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1015",
+            "course_name": "Science/Press and The Public",
+            "description": "JOUR-GA 1015 Science/Press and The Public",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1017",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1472",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 10.00 AM - 4.30 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                }
+            ],
+            "course_name": "Curr Tpcs in Science, Health, & Envir Reportng",
+            "description": "JOUR-GA 1017 Curr Tpcs in Science, Health, & Envir Reportng \nThis course will introduce you to the world of science journalism by looking at scientific topics that are at the cutting-edge of current research and also have profound implications for the way we live.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1018",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1473",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 12.00 PM - 3.00 PM",
+                    "open": true,
+                    "professor": "20CS 659"
+                }
+            ],
+            "course_name": "Science Literacy and Numeracy",
+            "description": "JOUR-GA 1018 Science Literacy and Numeracy \nThis course aims to give This course aims to give SHERP students a historical and literary context for science journalism, and will also introduce them to crucial concepts in statistics, probability and data analysis. The course will be rigorous, with an extensive reading list tracing the development of science journalism and examining the science journalist's role in society. There will also be heavy usage of problem sets and writing assignments aimed at showing students how to recognize \"good science\" and it's opposite",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1019",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1474",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 1.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "20CS 657"
+                }
+            ],
+            "course_name": "Curr Prob Mass Comm:",
+            "description": "JOUR-GA 1019 Curr Prob Mass Comm: \nTopical issues in journalism. Subjects vary: media criticism, perspectives on race and class, global journalism, and others.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1021",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1475",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.30 AM - 2.20 PM",
+                    "open": true,
+                    "professor": "20CS 655"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2357",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "20CS 657"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1476",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "20CS 654"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1477",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 11.00 AM - 4.50 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1478",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.20 AM - 3.20 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1479",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 9.00 AM - 2.00 PM",
+                    "open": true,
+                    "professor": "20CS 654"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1480",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "20CS 659"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1481",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 10.00 AM - 3.50 PM",
+                    "open": true,
+                    "professor": "20CS 750"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1482",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 659",
+                    "time": "Tue 9.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "Featherstone, Elizabeth"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1864",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 652",
+                    "time": "Thu 10.00 AM - 3.50 PM",
+                    "open": true,
+                    "professor": "Gelber, Alexis L."
+                }
+            ],
+            "course_name": "",
+            "description": "JOUR-GA 1021\n\n   Writing/Report Wkshp IBusiness and Economic ReportCultural Reporting and CriticGloabl and Joint ProgramLiterary ReportingMagazineNews and DocumentaryReporting the Nation/Reporting New YorkScience, Health and Environmental ReportingStudio 20\n\nWorkshop I is taken the first semester; Workshop II, the second semester. Provides a foundation in the principles and practices of basic news reporting. Includes lectures on reporting principles and techniques, study of specialized areas of reporting, and completion of increasingly challenging in-class assignments. Students use New York City as a laboratory to gather and report actual news events outside the classroom. A special section of Workshop I is offered for students in the cultural reporting and criticism concentration. A special section of Workshop II is offered for students in the Bu...\n\n      more description for JOUR-GA 1021 \u00bb\n\n      \n\n\n\nWorkshop I is taken the first semester; Workshop II, the second semester. Provides a foundation in the principles and practices of basic news reporting. Includes lectures on reporting principles and techniques, study of specialized areas of reporting, and completion of increasingly challenging in-class assignments. Students use New York City as a laboratory to gather and report actual news events outside the classroom. A special section of Workshop I is offered for students in the cultural reporting and criticism concentration. A special section of Workshop II is offered for students in the Business and Economic Reporting Program.\n\n      less description for JOUR-GA 1021 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1022",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "2354",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "20CS 655"
+                }
+            ],
+            "course_name": "",
+            "description": "JOUR-GA 1022\n\n   Writing/Report Wkshp II\n\nWorkshop I is taken the first semester; Workshop II, the second semester. Provides a foundation in the principles and practices of basic news reporting. Includes lectures on reporting principles and techniques, study of specialized areas of reporting, and completion of increasingly challenging in-class assignments. Students use New York City as a laboratory to gather and report actual news events outside the classroom. A special section of Workshop I is offered for students in the cultural reporting and criticism concentration. A special section of Workshop II is offered for students in the Bu...\n\n      more description for JOUR-GA 1022 \u00bb\n\n      \n\n\n\nWorkshop I is taken the first semester; Workshop II, the second semester. Provides a foundation in the principles and practices of basic news reporting. Includes lectures on reporting principles and techniques, study of specialized areas of reporting, and completion of increasingly challenging in-class assignments. Students use New York City as a laboratory to gather and report actual news events outside the classroom. A special section of Workshop I is offered for students in the cultural reporting and criticism concentration. A special section of Workshop II is offered for students in the Business and Economic Reporting Program.\n\n      less description for JOUR-GA 1022 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1023",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1483",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 9.30 AM - 12.00 PM",
+                    "open": true,
+                    "professor": "20CS 654"
+                }
+            ],
+            "course_name": "Journalistic Tradition",
+            "description": "JOUR-GA 1023 Journalistic Tradition \nStudents read from the works of some of the best English and American journalists, including Benjamin Franklin, Thomas Paine, Margaret Fuller, Charles Dickens, Stephen Crane, H. L. Mencken, Ernest Hemingway, Edward R. Murrow, Lillian Ross, James Baldwin, and Tom Wolfe. Special attention is paid to tone, voice, and imagery and to theories of reporting. Some sections are tailored to specific themes.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1025",
+            "course_name": "Issues in Online Journalism",
+            "description": "JOUR-GA 1025 Issues in Online Journalism",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1030",
+            "course_name": "Mag Editing & Production",
+            "description": "JOUR-GA 1030 Mag Editing & Production",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1040",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1484",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "20CS 750"
+                }
+            ],
+            "course_name": "Television Reporting I",
+            "description": "JOUR-GA 1040 Television Reporting I \nThis beginning course introduces students to field reporting. Students learn to develop story ideas, write to picture, structure a story and conduct interviews and shoot and edit. Beat assignments cover a variety of topics in the neighborhoods of New York. As the course develops, detailed script analysis is combined with in-depth discussions of the completed pieces. A discussion of aesthetics is supported by viewing a variety of documentaries. Students work in teams of 2. They use small DV cameras, linear and non-linear editing systems.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1050",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1485",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 3.30 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                }
+            ],
+            "course_name": "Literary Journalism:",
+            "description": "JOUR-GA 1050 Literary Journalism: \nA course for ambitious writers who want to learn to read the way professional writers read, explicating the structure and language of well-crafted narratives and learning how to apply those lessons and techniques to their own work. Close readers and careful thinkers are wanted.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1060",
+            "course_name": "Tpcs in Financ Acct, Financ Mark & Cor Financ",
+            "description": "JOUR-GA 1060 Tpcs in Financ Acct, Financ Mark & Cor Financ \nProvides a foundation for students who intend to become journalists covering business and financial issues. Students study accounting language and concepts and learn how to read and analyze the financial statements issued by corporations. They learn how to use these financial statements to detect problems and assess the financial health of an enterprise. The course also covers the financial markets and the financing tools available to corporations in need of capital.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1070",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "2355",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.30 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2356",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.30 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                }
+            ],
+            "course_name": "",
+            "description": "JOUR-GA 1070\n\n   Broadcast Writing Wkshp\n\nIn this class you will learn to combine the skills learned in your previous writing and reporting classes with multimedia tools including audio, video, photography, and web presentation, allowing you to explore stories beyond the boundaries of the printed page. We will cover writing for broadcast (both radio and television) as well as writing for a variety of online formats. While this course will offer some instruction in the tools and techniques of multimedia production, the main focus of the course will be on using those tools to enhance your storytelling. The emphasis will be on solid scie...\n\n      more description for JOUR-GA 1070 \u00bb\n\n      \n\n\n\nIn this class you will learn to combine the skills learned in your previous writing and reporting classes with multimedia tools including audio, video, photography, and web presentation, allowing you to explore stories beyond the boundaries of the printed page. We will cover writing for broadcast (both radio and television) as well as writing for a variety of online formats. While this course will offer some instruction in the tools and techniques of multimedia production, the main focus of the course will be on using those tools to enhance your storytelling. The emphasis will be on solid science journalism employing multimedia tools ? not just bells and whistles. You will be expected to enter this course with a basic familiarity with video production using the department's Avid systems. We will explore techniques and tools for audio, video, and web work, with an end goal of combining all those tools to produce (in small teams) a full multimedia web package by the end of the course.\n\n      less description for JOUR-GA 1070 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1080",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1777",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 1.00 PM - 4.40 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                }
+            ],
+            "course_name": "The Hyperlocal Newsroom",
+            "description": "JOUR-GA 1080 The Hyperlocal Newsroom",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1123",
+            "course_name": "Editing Workshop",
+            "description": "JOUR-GA 1123 Editing Workshop",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1125",
+            "course_name": "Feature Writing Wkshp",
+            "description": "JOUR-GA 1125 Feature Writing Wkshp",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1148",
+            "course_name": "Visual Thinking",
+            "description": "JOUR-GA 1148 Visual Thinking",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1149",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2377",
+                    "section": "001",
+                    "period": "09/04/2015 - 09/04/2015",
+                    "location": null,
+                    "time": "Fri 6.20 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS 75009/18/2015 - 09/18/2015 Fri 6.20 PM - 10.00 PM at 20CS 75010/02/2015 - 10/02/2015 Fri 6.20 PM - 10.00 PM at 20CS 75010/16/2015 - 10/16/2015 Fri 6.20 PM - 10.00 PM at 20CS 75010/30/2015 - 10/30/2015 Fri 6.20 PM - 10.00 PM at 20CS 75011/13/2015 - 11/13/2015 Fri 6.20 PM - 10.00 PM at 20CS 75011/20/2015 - 11/20/2015 Fri 6.20 PM - 10.00 PM at 20CS 75012/04/2015 - 12/04/2015 Fri 6.20 PM - 10.00 PM at 20CS 750"
+                }
+            ],
+            "course_name": "The Art of Video Editing: Long Form",
+            "description": "JOUR-GA 1149 The Art of Video Editing: Long Form",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1152",
+            "course_name": "Urban Reporting",
+            "description": "JOUR-GA 1152 Urban Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1171",
+            "course_name": "Radio Reporting",
+            "description": "JOUR-GA 1171 Radio Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1172",
+            "course_name": "",
+            "description": "JOUR-GA 1172\n\n   Television Reporting II\n\nThis intermediate second-semester course is run like a local news operation. The students work individually as reporters some weeks and as crew other weeks. They cover beats and dThis intermediate second-semester course is run like a local news operation. The students work individually as reporters some weeks and as crew other weeks. They cover beats and do short investigative and enterprise stories as well as cover breaking news and NYU-related stories that air weekly on NYU Tonight. A three-hour editorial meeting provides the time to pitch and plan stories as well as critique finished pieces...\n\n      more description for JOUR-GA 1172 \u00bb\n\n      \n\n\n\nThis intermediate second-semester course is run like a local news operation. The students work individually as reporters some weeks and as crew other weeks. They cover beats and dThis intermediate second-semester course is run like a local news operation. The students work individually as reporters some weeks and as crew other weeks. They cover beats and do short investigative and enterprise stories as well as cover breaking news and NYU-related stories that air weekly on NYU Tonight. A three-hour editorial meeting provides the time to pitch and plan stories as well as critique finished pieces. Shooting and editing are done as needed with an open schedule. Students have full access to the DV equipment and editing systems throughout the week. Students edit their in-depth pieces on the Final Cut Pro nonlinear editing system.\n\n      less description for JOUR-GA 1172 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1175",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1486",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "20CS 750"
+                }
+            ],
+            "course_name": "Advanced T.V. Reporting",
+            "description": "JOUR-GA 1175 Advanced T.V. Reporting \nStudents produce in-depth newsmagazine pieces that strengthen their reporting and stylistic skills. The class works as a production team and holds editorial meetings every week. Students have the freedom to produce their stories according to their own schedules outside of class. Students have access to digital and beta cameras and edit on nonlinear systems",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1180",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1487",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "20CS 655"
+                }
+            ],
+            "course_name": "Science Writing",
+            "description": "JOUR-GA 1180 Science Writing \nCovers methods of popularizing scientific, technical, and medical information for the mass media with emphasis on producing work that meets the standards of professional publication or broadcast.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1181",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1488",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                }
+            ],
+            "course_name": "Cultural Conversation",
+            "description": "JOUR-GA 1181 Cultural Conversation \nAcquaints students with a broad view of culture and of cultural journalism as an ongoing public conversation, while providing an introduction to the basic concepts and practice of cultural criticism. Emphasizes the connections between aesthetic and social issues.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1182",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1489",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 12.30 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "20665",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 10.00 AM - 2.00 PM",
+                    "open": true,
+                    "professor": "20CS 750"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2348",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.30 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS 654"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1763",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 1.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2349",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 5.40 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1490",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 6.20 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1491",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS 659"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1492",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 1.30 PM - 5.10 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1493",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.30 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1494",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "20CS 654"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1495",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 9.45 AM - 12.45 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2350",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 1.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "20CS 700"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1496",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.30 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "20CS 655"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2351",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.30 PM - 8.10 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                }
+            ],
+            "course_name": "Specialized Reporting:Critical ProfileIntro to Literary ReportageInvestigative ReportingLong Form NarrativePortfolioStudio IStudio III",
+            "description": "JOUR-GA 1182 Specialized Reporting:Critical ProfileIntro to Literary ReportageInvestigative ReportingLong Form NarrativePortfolioStudio IStudio III \nA variety of specialized reporting courses is offered on a rotating basis",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1183",
+            "course_name": "Specialized Reporting:",
+            "description": "JOUR-GA 1183 Specialized Reporting:",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1184",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1497",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                }
+            ],
+            "course_name": "Critical Survey",
+            "description": "JOUR-GA 1184 Critical Survey \nTeaches students how to write arts criticism that combines clear, vivid prose and a distinctive individual voice with close analysis of specific works in such media as music, literature, art, movies, dance, and theatre. Surveys late 19th- and 20th-century history of criticism.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1185",
+            "course_name": "Minority Reporting",
+            "description": "JOUR-GA 1185 Minority Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1186",
+            "course_name": "Reporting Social Worlds",
+            "description": "JOUR-GA 1186 Reporting Social Worlds \nFocuses on developing the in-depth reporting skills needed to depict social and cultural milieus with accuracy and power. Students examine the problems and challenges of reporting on social worlds created by identities, places, occupations, institutions, and interests.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1187",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2376",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 653",
+                    "time": "Wed 12.30 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "Oransky, Ivan"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17550",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "20CS 655",
+                    "time": "Mon 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": "Oransky, Ivan"
+                }
+            ],
+            "course_name": "Medical Reporting",
+            "description": "JOUR-GA 1187 Medical Reporting \nProvides a solid basis for understanding many of the elements involved in covering medicine, including the biology of cancer, environment-related illness, epidemiology, and the precepts of sound medical research and peer review. Students are required to write several stories from press releases, conferences, and developed interviews.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1188",
+            "course_name": "Environmental Reporting",
+            "description": "JOUR-GA 1188 Environmental Reporting \nDesigned to train students to write balanced, informative articles about environmental issues and alert them to the special problems reporters face covering a beat that is often highly charged and highly politicized. For this reason, the investigative aspects of environmental reporting are emphasized.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1191",
+            "course_name": "On-Line Reporting Wkshp",
+            "description": "JOUR-GA 1191 On-Line Reporting Wkshp",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1192",
+            "course_name": "On-Line Reporting Workshop",
+            "description": "JOUR-GA 1192 On-Line Reporting Workshop \nStudents in this third-semester course will use all the skills and knowledge they've acquired in the program to produce their own business publication. Under the guidance of an instructor, they will assign, write, and edit the articles that will appear in the publication.",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1231",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1498",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 10.00 AM - 1.30 PM",
+                    "open": true,
+                    "professor": "20CS 600"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1767",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1997",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 4.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2022",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 6.20 PM - 10.00 PM",
+                    "open": true,
+                    "professor": "20CS 657"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2023",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.00 PM - 9.40 PM",
+                    "open": true,
+                    "professor": "20CS 652"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1499",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 11.00 AM - 2.00 PM",
+                    "open": true,
+                    "professor": "20CS 653"
+                }
+            ],
+            "course_name": "Magazine Writing Wkshp:",
+            "description": "JOUR-GA 1231 Magazine Writing Wkshp: \nTeaches the practical skills required of a nonfiction magazine writer, as well as how to focus an article for a particular market. Emphasis is on producing pieces that both inform and entertain through the careful use of language and the cultivation of an effective, powerful style. Each student writes a magazine-length article of publishable quality.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1234",
+            "course_name": "Conf Digital Journ 21C: Global New in Cyberspace",
+            "description": "JOUR-GA 1234 Conf Digital Journ 21C: Global New in Cyberspace",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 1281",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1500",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "20CS LIB"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1874",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 10.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "20CS 657"
+                }
+            ],
+            "course_name": "Tpc in Cult JournalismCataclysmWriting Social Commentary",
+            "description": "JOUR-GA 1281 Tpc in Cult JournalismCataclysmWriting Social Commentary \nFocuses on a broad cultural theme, allowing students to pursue a variety of interests. Students read and discuss relevant works of cultural journalism, explore an aspect of the topic in depth, and produce a substantial writing project.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1290",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1501",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1873",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1502",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wayne, Leslie",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1503",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Mandavilli, Apoorva",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1786",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fieldwork in Journalism",
+            "description": "JOUR-GA 1290 Fieldwork in Journalism \nStudents who have completed more than half the required courses may receive permission to intern with area publications or broadcast stations. Their work is evaluated by executives and editors of the cooperating news organizations.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1299",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "1504",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Directed Reading",
+            "description": "JOUR-GA 1299 Directed Reading \nA student works with one professor on a substantial project combining readings with in-depth writing.",
+            "offering": true
+        },
+        {
+            "course_id": "JOUR-GA 1720",
+            "course_name": "Reporting The Mid East",
+            "description": "JOUR-GA 1720 Reporting The Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 2000",
+            "course_name": "Science Survey I",
+            "description": "JOUR-GA 2000 Science Survey I",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 2001",
+            "course_name": "Science Survey II",
+            "description": "JOUR-GA 2001 Science Survey II",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 2006",
+            "course_name": "Business & Finacial Reporting",
+            "description": "JOUR-GA 2006 Business & Finacial Reporting",
+            "offering": false
+        },
+        {
+            "course_id": "JOUR-GA 9182",
+            "course_name": "Specialized Reporting:",
+            "description": "JOUR-GA 9182 Specialized Reporting:",
+            "offering": false
+        }
+    ]
+}

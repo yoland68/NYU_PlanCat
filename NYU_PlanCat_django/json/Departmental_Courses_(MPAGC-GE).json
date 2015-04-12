@@ -1,0 +1,90 @@
+{
+    "major_id": "MPAGC-GE",
+    "file": "./2015-2016/Departmental_Courses_(MPAGC-GE).html",
+    "courses": [
+        {
+            "course_id": "MPAGC-GE 2087",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3813",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Mahadeen, Roger",
+                    "time": "Wed 7.00 PM - 9.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4327",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Bongiorno, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4328",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bush, Christopher",
+                    "time": "Mon 3.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4730",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bongiorno, Joseph",
+                    "time": "Mon 3.15 PM - 4.15 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3814",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bongiorno, Joseph09/02/2015 - 12/15/2015 Fri 9.30 AM - 12.00 PM",
+                    "time": "Mon 12.30 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3815",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bongiorno, Joseph",
+                    "time": "Mon,Thu 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4682",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bush, Christopher",
+                    "time": "Mon 4.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "NYU Orchestra",
+            "description": "MPAGC-GE 2087 NYU Orchestra \nRehearsal & performance of orchestral literature. Audition required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAGC-GE 2505",
+            "course_name": "Creating a Career as a Professional Musician",
+            "description": "MPAGC-GE 2505 Creating a Career as a Professional Musician \nPrepares students to navigate today's world of professional music performance. Topics include setting career goals, defining success, finding and creating performance opportunities, grant writing, creating publicity materials, auditions, day jobs, freelancing, and how to manage money, time, and stress.",
+            "offering": false
+        }
+    ]
+}

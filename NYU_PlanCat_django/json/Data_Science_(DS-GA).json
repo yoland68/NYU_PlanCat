@@ -1,0 +1,188 @@
+{
+    "major_id": "DS-GA",
+    "file": "./2015-2016/Data_Science_(DS-GA).html",
+    "courses": [
+        {
+            "course_id": "DS-GA 1001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2072",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.20 PM - 9.20 PM",
+                    "open": true,
+                    "professor": "5WP 101"
+                }
+            ],
+            "course_name": "",
+            "description": "DS-GA 1001\n\n   Introduction to Data Science\n\nThis required course for the MS in Data Science should be taken in the first year of study. It introduces students to basic algorithms and software tools, and teaches them how to deal with data, representing data, and methodology. Hands-on experience using Torch, a software system being developed at NYU and other research centers that has a large data science library, will also be provided. Prerequisites include: Basic Probability or Statistics (undergraduate level), Calculus I, Linear Algebra, some experience in programming: Java, C, C++, Python, R, Lua, Ruby, OCaml or similar languages (equi...\n\n      more description for DS-GA 1001 \u00bb\n\n      \n\n\n\nThis required course for the MS in Data Science should be taken in the first year of study. It introduces students to basic algorithms and software tools, and teaches them how to deal with data, representing data, and methodology. Hands-on experience using Torch, a software system being developed at NYU and other research centers that has a large data science library, will also be provided. Prerequisites include: Basic Probability or Statistics (undergraduate level), Calculus I, Linear Algebra, some experience in programming: Java, C, C++, Python, R, Lua, Ruby, OCaml or similar languages (equivalent to two introductory courses in programming, such as \u201cIntroduction to Programming\u201d and \u201cData Structures and Algorithms\u201d). Some prerequisites may be waived with permission from the instructor.\n\n      less description for DS-GA 1001 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "DS-GA 1002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2065",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2259",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 7.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "",
+            "description": "DS-GA 1002\n\n   Statistical and Mathematical Methods\n\nThis required course for the MS in Data Science should be taken in the first year of study.  It briefly introduces basic statistical and mathematical methods needed in the practice of data science, and covers basic methods in probability, statistics, linear algebra, and optimization. Prerequisites include: Basic Probability or Statistics (undergraduate level), Calculus I, Linear Algebra, some experience in programming: Java, C, C++, Python, R, Lua, Ruby, OCaml or similar languages (equivalent to two introductory courses in programming, such as \u201cIntroduction to Programming\u201d and \u201cData Structures...\n\n      more description for DS-GA 1002 \u00bb\n\n      \n\n\n\nThis required course for the MS in Data Science should be taken in the first year of study.  It briefly introduces basic statistical and mathematical methods needed in the practice of data science, and covers basic methods in probability, statistics, linear algebra, and optimization. Prerequisites include: Basic Probability or Statistics (undergraduate level), Calculus I, Linear Algebra, some experience in programming: Java, C, C++, Python, R, Lua, Ruby, OCaml or similar languages (equivalent to two introductory courses in programming, such as \u201cIntroduction to Programming\u201d and \u201cData Structures and Algorithms\u201d). Some prerequisites may be waived with permission from the instructor.\n\n      less description for DS-GA 1002 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "DS-GA 1003",
+            "course_name": "Machine Learning",
+            "description": "DS-GA 1003 Machine Learning \nThis required course for the MS in Data Science should be taken in the first year of study.  It covers a wide variety of topics in machine learning, pattern recognition, statistical modeling, and neural computation. It covers the mathematical methods and theoretical aspects, but primarily focuses on algorithmic and practical issues.",
+            "offering": false
+        },
+        {
+            "course_id": "DS-GA 1004",
+            "course_name": "Big Data",
+            "description": "DS-GA 1004 Big Data \nThis required course for the MS in Data Science should be taken in the first year of study.  It covers methods and tools for automatic knowledge extraction from very large datasets. Methods include on-line learning, feature hashing, class embedding, distributed databases, map-reduce framework, CUDA GPU programming, and applications.",
+            "offering": false
+        },
+        {
+            "course_id": "DS-GA 1005",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2262",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2263",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "Inference and Representation",
+            "description": "DS-GA 1005 Inference and Representation",
+            "offering": true
+        },
+        {
+            "course_id": "DS-GA 1006",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "2264",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 6.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2265",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "12WV L120"
+                }
+            ],
+            "course_name": "Capstone Project and Presentation",
+            "description": "DS-GA 1006 Capstone Project and Presentation",
+            "offering": true
+        },
+        {
+            "course_id": "DS-GA 1007",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2260",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 102"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "2261",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 8.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "Programming for Data Science",
+            "description": "DS-GA 1007 Programming for Data Science",
+            "offering": true
+        },
+        {
+            "course_id": "DS-GA 1008",
+            "course_name": "Deep Learning",
+            "description": "DS-GA 1008 Deep Learning \nThis course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional net and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.  The pre-requisites include: DS-GA 1001 Intro to Data Science or a graduate-level machine learning course.",
+            "offering": false
+        },
+        {
+            "course_id": "DS-GA 1010",
+            "course_name": "Independent Study in Data Science",
+            "description": "DS-GA 1010 Independent Study in Data Science",
+            "offering": false
+        },
+        {
+            "course_id": "DS-GA 3001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2458",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "CANT 102"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "17325",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 3.40 PM - 4.30 PM",
+                    "open": true,
+                    "professor": "CANT 102"
+                }
+            ],
+            "course_name": "Special Topics in Data Science",
+            "description": "DS-GA 3001 Special Topics in Data Science",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "major_id": "MPAPS-GE",
+    "file": "./2015-2016/Music_Instrumental:_Percussion(MPAPS-GE).html",
+    "courses": [
+        {
+            "course_id": "MPAPS-GE 2111",
+            "course_name": "Percussion Instruments (Prvt Lesson)",
+            "description": "MPAPS-GE 2111 Percussion Instruments (Prvt Lesson)",
+            "offering": false
+        },
+        {
+            "course_id": "MPAPS-GE 2121",
+            "course_name": "Colloquy in Music",
+            "description": "MPAPS-GE 2121 Colloquy in Music",
+            "offering": false
+        },
+        {
+            "course_id": "MPAPS-GE 2131",
+            "course_name": "Percussion Ensemble",
+            "description": "MPAPS-GE 2131 Percussion Ensemble",
+            "offering": false
+        },
+        {
+            "course_id": "MPAPS-GE 2151",
+            "course_name": "Percussion Laboratory",
+            "description": "MPAPS-GE 2151 Percussion Laboratory",
+            "offering": false
+        },
+        {
+            "course_id": "MPAPS-GE 2190",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3831",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Haas, Jonathan",
+                    "time": "Wed 7.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4178",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Boyar, Simon",
+                    "time": "Thu 7.30 PM - 10.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4179",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Quillen, Joshua",
+                    "time": "Sun 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4181",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Haas, Jonathan",
+                    "time": "Tue 7.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4244",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Haas, Jonathan",
+                    "time": "Wed 4.00 PM - 6.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4180",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Naranjo, Valerie D.",
+                    "time": "Fri 5.00 PM - 7.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4835",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Statser, Sean",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Percussion Ensemble",
+            "description": "MPAPS-GE 2190 Percussion Ensemble \nPerformance of standard and contemporary literature for percussion instruments.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAPS-GE 2221",
+            "course_name": "Contemporary Music Ensemble",
+            "description": "MPAPS-GE 2221 Contemporary Music Ensemble",
+            "offering": false
+        },
+        {
+            "course_id": "MPAPS-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "4228",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Haas, Jonathan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MPAPS-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAPS-GE 2334",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3903",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Haas, Jonathan",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3904",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Boyar, Simon",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3905",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Saporito, James",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3906",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Statser, Sean",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4686",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Percussion Instrmnt (Private Lessons",
+            "description": "MPAPS-GE 2334 Percussion Instrmnt (Private Lessons \nOpen to departmental graduate students majoring in music.  Private lessons on malletts and set percussion instruments. All styles and forms supplemented by extra assignments. Jury examination required at end of semester. Required attendance at percussion recitals and master classes.",
+            "offering": true
+        }
+    ]
+}

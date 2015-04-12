@@ -1,0 +1,684 @@
+{
+    "major_id": "STAT-GB",
+    "file": "./2015-2016/Statistics_&_Operations_Rsrch_(STAT-GB).html",
+    "courses": [
+        {
+            "course_id": "STAT-GB 2000",
+            "course_name": "Stat Meth-Portfolio Anal",
+            "description": "STAT-GB 2000 Stat Meth-Portfolio Anal",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2108",
+            "course_name": "Appl Stochastic Proc Fin",
+            "description": "STAT-GB 2108 Appl Stochastic Proc Fin",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2109",
+            "course_name": "Mathematics of Investmen",
+            "description": "STAT-GB 2109 Mathematics of Investmen",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2115",
+            "course_name": "Comparative Manufacturin",
+            "description": "STAT-GB 2115 Comparative Manufacturin",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2119",
+            "course_name": "Quant Fin Mod-Fixed Inco",
+            "description": "STAT-GB 2119 Quant Fin Mod-Fixed Inco",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2120",
+            "course_name": "Quant Fin Mod-Derivative",
+            "description": "STAT-GB 2120 Quant Fin Mod-Derivative",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2127",
+            "course_name": "Ops Consult:Research Mgm",
+            "description": "STAT-GB 2127 Ops Consult:Research Mgm",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2202",
+            "course_name": "FORECAST TIME SERIES DATA",
+            "description": "STAT-GB 2202 FORECAST TIME SERIES DATA \nFORECAST TIME SERIES DATA",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2219",
+            "course_name": "QUANTV MTHDS-FINCL MODELS",
+            "description": "STAT-GB 2219 QUANTV MTHDS-FINCL MODELS \nQUANTV MTHDS-FINCL MODELS",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2221",
+            "course_name": "App Stat Tech in Finance",
+            "description": "STAT-GB 2221 App Stat Tech in Finance",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20388",
+                    "section": "01",
+                    "period": "09/03/2015 - 12/10/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Tue,Thu 1.30 PM - 2.50 PM",
+                    "open": true,
+                    "professor": "Simonoff, Jeffrey"
+                }
+            ],
+            "course_name": "REGRESSION &MULTIVAR ANAL",
+            "description": "STAT-GB 2301 REGRESSION &MULTIVAR ANAL \nThis is a data-driven",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-GB 2301",
+            "course_name": "REGRESSION &MULTIVAR ANAL",
+            "description": "STAT-GB 2301 REGRESSION &MULTIVAR ANAL \nREGRESSION &MULTIVAR ANAL",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20423",
+                    "section": "10",
+                    "period": "09/16/2015 - 12/16/2015",
+                    "location": "KMEC 4-60",
+                    "time": "Wed 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Hurvich, Clifford"
+                }
+            ],
+            "course_name": "FORECAST TIME SERIES DATA",
+            "description": "STAT-GB 2302 FORECAST TIME SERIES DATA \nPresented in this course are practical time series forecasting techniques with emphasis on the Box-Jenkins ARIMA (autoregressive integrated moving average) method and conditional volatility ARCH (autoregressive conditional heterogeneity) and GARCH (generalized autoregressive conditional heterogeneity) models. The course gives a mix of practical data analysis along with an introduction to the relevant theory. The ARIMA models are used to forecast series like interest spreads",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-GB 2302",
+            "course_name": "FORECAST TIME SERIES DATA",
+            "description": "STAT-GB 2302 FORECAST TIME SERIES DATA \nFORECAST TIME SERIES DATA",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2303",
+            "course_name": "Statistical Quality Cntr",
+            "description": "STAT-GB 2303 Statistical Quality Cntr",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2305",
+            "course_name": "Appl Math Programming",
+            "description": "STAT-GB 2305 Appl Math Programming",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2306",
+            "course_name": "Business Logistics",
+            "description": "STAT-GB 2306 Business Logistics",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2308",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20389",
+                    "section": "10",
+                    "period": "09/21/2015 - 12/07/2015",
+                    "location": "TISC LC25",
+                    "time": "Mon 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Lakner, Peter"
+                }
+            ],
+            "course_name": "APPL STOCHASTIC PROC FINC",
+            "description": "STAT-GB 2308 APPL STOCHASTIC PROC FINC \nAPPL STOCHASTIC PROC FINC",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-GB 2309",
+            "course_name": "MATHEMATICS OF INVESTMENT",
+            "description": "STAT-GB 2309 MATHEMATICS OF INVESTMENT \nMATHEMATICS OF INVESTMENT",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2310",
+            "course_name": "Intro Operations Researc",
+            "description": "STAT-GB 2310 Intro Operations Researc",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2311",
+            "course_name": "Calculus for Bus Resch I",
+            "description": "STAT-GB 2311 Calculus for Bus Resch I",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2312",
+            "course_name": "Calculus for Bus Resch I",
+            "description": "STAT-GB 2312 Calculus for Bus Resch I",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2314",
+            "course_name": "Stat Comput & Sampl Meth",
+            "description": "STAT-GB 2314 Stat Comput & Sampl Meth",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2317",
+            "course_name": "Statistical Inference",
+            "description": "STAT-GB 2317 Statistical Inference",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2319",
+            "course_name": "Quant Methods in Fin Ser",
+            "description": "STAT-GB 2319 Quant Methods in Fin Ser",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2320",
+            "course_name": "Beyond Total Quality",
+            "description": "STAT-GB 2320 Beyond Total Quality",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2321",
+            "course_name": "App Stat Techniques & An",
+            "description": "STAT-GB 2321 App Stat Techniques & An",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2327",
+            "course_name": "Ops Cnsltng II:Sched&Imp",
+            "description": "STAT-GB 2327 Ops Cnsltng II:Sched&Imp",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2329",
+            "course_name": "Statistical Qual Control",
+            "description": "STAT-GB 2329 Statistical Qual Control",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2337",
+            "course_name": "Categorical Data-Applied",
+            "description": "STAT-GB 2337 Categorical Data-Applied",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2347",
+            "course_name": "Stat for Bus Research",
+            "description": "STAT-GB 2347 Stat for Bus Research",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2348",
+            "course_name": "Stat for Bus Research",
+            "description": "STAT-GB 2348 Stat for Bus Research",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 2361",
+            "course_name": "Mths of Dec Anal",
+            "description": "STAT-GB 2361 Mths of Dec Anal",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3100",
+            "course_name": "Independent Study",
+            "description": "STAT-GB 3100 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3125",
+            "course_name": "Adv Statistical Techniqu",
+            "description": "STAT-GB 3125 Adv Statistical Techniqu",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3127",
+            "course_name": "STATISTCL ASPCTS MKT RISK",
+            "description": "STAT-GB 3127 STATISTCL ASPCTS MKT RISK \nSTATISTCL ASPCTS MKT RISK",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3130",
+            "course_name": "Numerical Analysis",
+            "description": "STAT-GB 3130 Numerical Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3132",
+            "course_name": "Dynamic & Stoch Prog",
+            "description": "STAT-GB 3132 Dynamic & Stoch Prog",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3141",
+            "course_name": "App Stochastic Proc",
+            "description": "STAT-GB 3141 App Stochastic Proc",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3142",
+            "course_name": "Intro to Optimization",
+            "description": "STAT-GB 3142 Intro to Optimization",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3168",
+            "course_name": "Control Thry & Appl",
+            "description": "STAT-GB 3168 Control Thry & Appl",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3170",
+            "course_name": "Independent Study",
+            "description": "STAT-GB 3170 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3300",
+            "course_name": "Seminar Study - Ms or Ph",
+            "description": "STAT-GB 3300 Seminar Study - Ms or Ph",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3301",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20390",
+                    "section": "10",
+                    "period": "09/17/2015 - 12/10/2015",
+                    "location": "TISC LC25",
+                    "time": "Thu 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Melnick, Edward"
+                }
+            ],
+            "course_name": "INTRO THEORY PROBABILITY",
+            "description": "STAT-GB 3301 INTRO THEORY PROBABILITY \nINTRO THEORY PROBABILITY",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-GB 3302",
+            "course_name": "STAT INFER\u00aeRESS ANALY",
+            "description": "STAT-GB 3302 STAT INFER\u00aeRESS ANALY \nSTAT INFER\u00aeRESS ANALY",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3303",
+            "course_name": "Multivariate Statist Ana",
+            "description": "STAT-GB 3303 Multivariate Statist Ana \nThis course covers multivariate distributions. It focuses on the multivariate normal, geometric principle of sampling, multivariate asymptotics, principles of multivariate inference, tests of the mean vector for one and several populations leading to Hotelling's T2 statistic and MANOVA (multiple analysis of variance), techniques of multiple comparisons, multivariate linear regression models, principal components, factor analysis, canonical correlations, discrimination and classification, clustering, and graphical displays of multivariate data.",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3304",
+            "course_name": "Advanced Theory of Stat",
+            "description": "STAT-GB 3304 Advanced Theory of Stat",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3305",
+            "course_name": "Bayesian Inf&Stat Dec th",
+            "description": "STAT-GB 3305 Bayesian Inf&Stat Dec th",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3306",
+            "course_name": "",
+            "description": "STAT-GB 3306\n\n   Time Series Analysis\n\nThis course presents the Fourier analysis of time series. The frequency domain approach covered here provides a complementary outlook on time series to the usual time domain Box-Jenkins approach. Topics include periodicity (cycles) in time series data, the periodogram and its distribution, linear filters and transfer functions, spectral density, spectral representations of autocovariances and stationary processes, ARMA (autoregressive moving average) models and their spectra, model selection, the linear forecasting problem, and spectral estimation. We also discuss long memory models, including...\n\n      more description for STAT-GB 3306 \u00bb\n\n      \n\n\n\nThis course presents the Fourier analysis of time series. The frequency domain approach covered here provides a complementary outlook on time series to the usual time domain Box-Jenkins approach. Topics include periodicity (cycles) in time series data, the periodogram and its distribution, linear filters and transfer functions, spectral density, spectral representations of autocovariances and stationary processes, ARMA (autoregressive moving average) models and their spectra, model selection, the linear forecasting problem, and spectral estimation. We also discuss long memory models, including fractional ARIMA (autoregressive integrated moving average) and nonlinear time series, including ARCH (autoregressive conditional heterogeneity) models and chaos, as time permits.\n\n      less description for STAT-GB 3306 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3307",
+            "course_name": "Categorical Data-Theory",
+            "description": "STAT-GB 3307 Categorical Data-Theory",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3308",
+            "course_name": "Sampling Techniques",
+            "description": "STAT-GB 3308 Sampling Techniques",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3309",
+            "course_name": "Design of Experiments",
+            "description": "STAT-GB 3309 Design of Experiments",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3311",
+            "course_name": "",
+            "description": "STAT-GB 3311\n\n   Regression &Multivar Ana\n\nThis is a data-driven, applied statistics course focusing on the twin subjects of regression and multivariate data analysis. It emphasizes applications to the analysis of business data and makes extensive use of computer statistical packages. Topics include the analysis and management of data, multiple linear and nonlinear regression, selection of variables, residual analysis, model building, autoregression, and multicollinearity. Topics in multivariate data analysis include principal components, analysis of variance, categorical data analysis, factor analysis, cluster analysis, discriminant a...\n\n      more description for STAT-GB 3311 \u00bb\n\n      \n\n\n\nThis is a data-driven, applied statistics course focusing on the twin subjects of regression and multivariate data analysis. It emphasizes applications to the analysis of business data and makes extensive use of computer statistical packages. Topics include the analysis and management of data, multiple linear and nonlinear regression, selection of variables, residual analysis, model building, autoregression, and multicollinearity. Topics in multivariate data analysis include principal components, analysis of variance, categorical data analysis, factor analysis, cluster analysis, discriminant analysis, and logistic regression. All topics are illustrated on data sets obtained from the financial markets, market research studies, and other scientific inquiries.\n\n      less description for STAT-GB 3311 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3312",
+            "course_name": "",
+            "description": "STAT-GB 3312\n\n   Forecast Time Series Dat\n\nPresented in this course are practical time series forecasting techniques with emphasis on the Box-Jenkins ARIMA (autoregressive integrated moving average) method and conditional volatility ARCH (autoregressive conditional heterogeneity) and GARCH (generalized autoregressive conditional heterogeneity) models. The course gives a mix of practical data analysis along with an introduction to the relevant theory. The ARIMA models are used to forecast series like interest spreads, while ARCH models are used in estimating and forecasting the volatility of series like stock returns and exchange rate r...\n\n      more description for STAT-GB 3312 \u00bb\n\n      \n\n\n\nPresented in this course are practical time series forecasting techniques with emphasis on the Box-Jenkins ARIMA (autoregressive integrated moving average) method and conditional volatility ARCH (autoregressive conditional heterogeneity) and GARCH (generalized autoregressive conditional heterogeneity) models. The course gives a mix of practical data analysis along with an introduction to the relevant theory. The ARIMA models are used to forecast series like interest spreads, while ARCH models are used in estimating and forecasting the volatility of series like stock returns and exchange rate returns. Students analyze data sets of their own choice in projects. Additional topics of interest covered in the course are methods of testing for nonstationary (Dickey-Fuller tests) as well as models for capturing seasonality as seen, for example, in series of monthly sales figures. The low-cost forecasting method of exponential smoothing is discussed, and its connection to the RiskMetricsTM methods of J. P. Morgan and GARCH models is explored. If time permits, we also study methods of forecasting multivariate time series, where information from several series is pooled to forecast a single series. The concept of co-integration or co-movement of multivariate series is discussed (interest rates being a prime example), along with their implications for forecasts. Other potential topics in the course include the use of ARCH models in value at risk (VAR) analysis and in option pricing.\n\n      less description for STAT-GB 3312 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3314",
+            "course_name": "",
+            "description": "STAT-GB 3314\n\n   Stat Comput & Sampl Meth\n\nThis course covers most of the classical and modern Monte Carlo methods for statistical estimation. In particular, the fast growth of Monte Carlo Markov Chain (MCMC) methods has enabled the use of Bayesian inference in many applied fields. Methodologies are illustrated with financial applications such as estimation of implied volatility and risk measures. Examples are drawn from published research and survey papers in current literature (Risk magazine, J. P. Morgan's Risk Metrics). The course integrates three basic components of statistical analysis in financial areas: (1) modeling and inferen...\n\n      more description for STAT-GB 3314 \u00bb\n\n      \n\n\n\nThis course covers most of the classical and modern Monte Carlo methods for statistical estimation. In particular, the fast growth of Monte Carlo Markov Chain (MCMC) methods has enabled the use of Bayesian inference in many applied fields. Methodologies are illustrated with financial applications such as estimation of implied volatility and risk measures. Examples are drawn from published research and survey papers in current literature (Risk magazine, J. P. Morgan's Risk Metrics). The course integrates three basic components of statistical analysis in financial areas: (1) modeling and inference (with emphasis on Bayesian methodology), (2) computing and sampling methods for statistical estimation (with emphasis on MCMC), and (3) applications to financial data (with emphasis on volatility and risk). The focus is placed on the second component, bridging the gap between what can be said in theory (first component) and what can be done in practice (third component). The goals of the course are modest so that a full treatment of all major topics can be achieved.\n\n      less description for STAT-GB 3314 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3321",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20391",
+                    "section": "10",
+                    "period": "09/29/2015 - 12/22/2015",
+                    "location": "TISC UC25",
+                    "time": "Tue 6.00 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Frydman, Halina"
+                }
+            ],
+            "course_name": "STOCHASTIC PROCESSES I",
+            "description": "STAT-GB 3321 STOCHASTIC PROCESSES I \nSTOCHASTIC PROCESSES I",
+            "offering": true
+        },
+        {
+            "course_id": "STAT-GB 3322",
+            "course_name": "Stochastic Processes II",
+            "description": "STAT-GB 3322 Stochastic Processes II",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3323",
+            "course_name": "Stochastic Models in Fin",
+            "description": "STAT-GB 3323 Stochastic Models in Fin \nThis is a course on mathematical methods for modeling financial markets with emphasis on valuation of financial derivatives. Topics include concepts of arbitrage, equivalent martingales measures, price systems with finite and infinite state space, Black-Scholes valuation formula, Girsanov's theorem, general contingent claims pricing, valuation of European and American options, and estimation of the volatility of the asset prices.",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3325",
+            "course_name": "Linear Optimiz&Extension",
+            "description": "STAT-GB 3325 Linear Optimiz&Extension",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3326",
+            "course_name": "Netwks,Graphs&Comb Optim",
+            "description": "STAT-GB 3326 Netwks,Graphs&Comb Optim",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3327",
+            "course_name": "Nonlinear Optimz & Appli",
+            "description": "STAT-GB 3327 Nonlinear Optimz & Appli",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3335",
+            "course_name": "Life Contingencies",
+            "description": "STAT-GB 3335 Life Contingencies",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3336",
+            "course_name": "Data Mining&Knowledge Sy",
+            "description": "STAT-GB 3336 Data Mining&Knowledge Sy",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3337",
+            "course_name": "Life Contingencies",
+            "description": "STAT-GB 3337 Life Contingencies",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3338",
+            "course_name": "Life Contingencies I II",
+            "description": "STAT-GB 3338 Life Contingencies I II",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3341",
+            "course_name": "Models in Stoch Processe",
+            "description": "STAT-GB 3341 Models in Stoch Processe",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3342",
+            "course_name": "Thrys of Inv & Prod",
+            "description": "STAT-GB 3342 Thrys of Inv & Prod",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3350",
+            "course_name": "Advanced Statistics",
+            "description": "STAT-GB 3350 Advanced Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3352",
+            "course_name": "",
+            "description": "STAT-GB 3352\n\n   Adv Theory of Probabilit\n\nThe aim of the course is to establish a comprehensive foundation of the theory of probability. The topics covered are basic measure theory, random variables, and induced measures and distributions; independence of random variables; integration in a probability space with emphasis on conditional expectation and martingales; modes of convergence of random variables, including almost sure convergence, convergence in LP, convergence in probability, and convergence in distribution; characteristic functions and the inversion formula; and the central limit theorem for independent identically distribu...\n\n      more description for STAT-GB 3352 \u00bb\n\n      \n\n\n\nThe aim of the course is to establish a comprehensive foundation of the theory of probability. The topics covered are basic measure theory, random variables, and induced measures and distributions; independence of random variables; integration in a probability space with emphasis on conditional expectation and martingales; modes of convergence of random variables, including almost sure convergence, convergence in LP, convergence in probability, and convergence in distribution; characteristic functions and the inversion formula; and the central limit theorem for independent identically distributed random variables and also for martingale differences. If time permits, additional topics will include functional central limit theorems and their applications.\n\n      less description for STAT-GB 3352 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3355",
+            "course_name": "Data Mining",
+            "description": "STAT-GB 3355 Data Mining",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3357",
+            "course_name": "Srvice Strat &Supplychai",
+            "description": "STAT-GB 3357 Srvice Strat &Supplychai",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3363",
+            "course_name": "Thry of Games&Eco Anal",
+            "description": "STAT-GB 3363 Thry of Games&Eco Anal",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3365",
+            "course_name": "Netwk Graphs&Application",
+            "description": "STAT-GB 3365 Netwk Graphs&Application",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3366",
+            "course_name": "Integer Prog&Application",
+            "description": "STAT-GB 3366 Integer Prog&Application",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3367",
+            "course_name": "Nonlinear Programg&Appli",
+            "description": "STAT-GB 3367 Nonlinear Programg&Appli",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3370",
+            "course_name": "INDEPENDENT STUDY",
+            "description": "STAT-GB 3370 INDEPENDENT STUDY \nINDEPENDENT STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3376",
+            "course_name": "Adv Topics in Statistics",
+            "description": "STAT-GB 3376 Adv Topics in Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3377",
+            "course_name": "Adv Top Stochastic Proc",
+            "description": "STAT-GB 3377 Adv Top Stochastic Proc",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3378",
+            "course_name": "Adv Top in Data Anal",
+            "description": "STAT-GB 3378 Adv Top in Data Anal",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3380",
+            "course_name": "Regression Analysis",
+            "description": "STAT-GB 3380 Regression Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3381",
+            "course_name": "Multivariate Analysis",
+            "description": "STAT-GB 3381 Multivariate Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3382",
+            "course_name": "Experimental Design",
+            "description": "STAT-GB 3382 Experimental Design",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3383",
+            "course_name": "FRQNCY DOMAIN TIME SERIES",
+            "description": "STAT-GB 3383 FRQNCY DOMAIN TIME SERIES \nFRQNCY DOMAIN TIME SERIES",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3384",
+            "course_name": "Anal of Categorical Data",
+            "description": "STAT-GB 3384 Anal of Categorical Data",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3470",
+            "course_name": "Independent Study",
+            "description": "STAT-GB 3470 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 3471",
+            "course_name": "Independent Study",
+            "description": "STAT-GB 3471 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4101",
+            "course_name": "RESEARCH PRACTICUM-STAT",
+            "description": "STAT-GB 4101 RESEARCH PRACTICUM-STAT \nRESEARCH PRACTICUM-STAT",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4102",
+            "course_name": "RESEARCH PRACTICUM-STAT 2",
+            "description": "STAT-GB 4102 RESEARCH PRACTICUM-STAT 2 \nRESEARCH PRACTICUM-STAT 2",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4103",
+            "course_name": "RESEARCH PRACT III - STAT",
+            "description": "STAT-GB 4103 RESEARCH PRACT III - STAT \nRESEARCH PRACT III - STAT",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4104",
+            "course_name": "RESEARCH PRACT IV - STAT",
+            "description": "STAT-GB 4104 RESEARCH PRACT IV - STAT \nRESEARCH PRACT IV - STAT",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4105",
+            "course_name": "RESEARCH PRACTICUM - 5",
+            "description": "STAT-GB 4105 RESEARCH PRACTICUM - 5 \nRESEARCH PRACTICUM - 5",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4150",
+            "course_name": "TEACHING PRACT-STAT/OR",
+            "description": "STAT-GB 4150 TEACHING PRACT-STAT/OR \nTEACHING PRACT-STAT/OR",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4301",
+            "course_name": "Adv Topics Optimization",
+            "description": "STAT-GB 4301 Adv Topics Optimization",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4302",
+            "course_name": "Adv Topics Statistics",
+            "description": "STAT-GB 4302 Adv Topics Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4303",
+            "course_name": "Adv Topic:Stochastic Pro",
+            "description": "STAT-GB 4303 Adv Topic:Stochastic Pro",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 4310",
+            "course_name": "STATISTICS-SOCIAL DATA",
+            "description": "STAT-GB 4310 STATISTICS-SOCIAL DATA \nSTATISTICS-SOCIAL DATA",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9300",
+            "course_name": "Independent Study",
+            "description": "STAT-GB 9300 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9903",
+            "course_name": "Dissertation Sem Stat&or",
+            "description": "STAT-GB 9903 Dissertation Sem Stat&or",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9906",
+            "course_name": "Dissertation Sem Stat&or",
+            "description": "STAT-GB 9906 Dissertation Sem Stat&or",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9909",
+            "course_name": "Dissertation Seminar Sta",
+            "description": "STAT-GB 9909 Dissertation Seminar Sta",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9912",
+            "course_name": "Dissertation Sem Stat&or",
+            "description": "STAT-GB 9912 Dissertation Sem Stat&or",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9915",
+            "course_name": "Dissertation Sem Stat&or",
+            "description": "STAT-GB 9915 Dissertation Sem Stat&or",
+            "offering": false
+        },
+        {
+            "course_id": "STAT-GB 9918",
+            "course_name": "Dissertation Sem Stat&or",
+            "description": "STAT-GB 9918 Dissertation Sem Stat&or",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "major_id": "SCAI-UF",
+    "file": "./2015-2016/Senior_Capstone_I_(SCAI-UF).html",
+    "courses": [
+        {
+            "course_id": "SCAI-UF 401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16439",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 465",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Newman, Roberta"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16440",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 566B",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Moore, Carley"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16441",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 465",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Mejorado, Ascension"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16535",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 210",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Rectenwald, Michael"
+                }
+            ],
+            "course_name": "Senior Seminar",
+            "description": "SCAI-UF  401 Senior Seminar",
+            "offering": true
+        }
+    ]
+}

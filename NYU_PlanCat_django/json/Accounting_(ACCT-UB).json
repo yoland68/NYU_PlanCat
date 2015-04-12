@@ -1,0 +1,372 @@
+{
+    "major_id": "ACCT-UB",
+    "file": "./2015-2016/Accounting_(ACCT-UB).html",
+    "courses": [
+        {
+            "course_id": "ACCT-UB 1",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9241",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Meng, Xiaojing"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9242",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 200",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Resnik, Jim"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9243",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Meng, Xiaojing"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9244",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Shehata, Amal"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9245",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Meng, Xiaojing"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9246",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Dachowitz, Henry"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9247",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Dou, Yiwei"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9533",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Dou, Yiwei"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9566",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC25",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Stewart, Ian"
+                }
+            ],
+            "course_name": "Prin of Financial Acctg",
+            "description": "ACCT-UB    1 Prin of Financial Acctg \nThis course develops students\u2019 abilities to understand business transactions and financial statements and to determine the most appropriate financial measures for those events. It investigates the underlying rationale for accounting practices and assesses their effectiveness in providing useful information for decision making. Emphasis is placed on accounting practices that purport to portray corporate financial position, operating results, cash flows, manager performance, and financial strength.",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-UB 2",
+            "course_name": "Prin of Managerial Acctg",
+            "description": "ACCT-UB    2 Prin of Managerial Acctg \nIntroduces students to the evolving role that managerial accounting has played and is expected to play in servicing the informational needs of managers in the planning, organizing, and controlling functions.  Highlights the attention-directing, decision-support, and decision-influencing roles of managerial accounting, while helping students learn to structure business decisions systematically and identify the information relevant to a decision. Trains students to think analytically about improving existing systems to further a firm\u2019s competitive advantage.",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 3",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9248",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Klein, April"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9249",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Cuny-Keane, Christine; Klein, April"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9250",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Cuny-Keane, Christine"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "19239",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC 201",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Yeo, Julian"
+                }
+            ],
+            "course_name": "",
+            "description": "ACCT-UB    3\n\n   Fin Statement Analysis\n\nThis course is the first part of a two-course sequence ideal for students who wish to pursue careers in investment banking, investment management, consulting, and accounting. In addition to being a required course for students concentrating in accounting, it is highly recommended for those concentrating in finance, economics, marketing, and information systems. The course analyzes how firms communicate through financial statements. Students use financial statement analysis as an integral part of the strategic analysis of firms, while understanding how accounting regulations and managerial disc...\n\n      more description for ACCT-UB    3 \u00bb\n\n      \n\n\n\nThis course is the first part of a two-course sequence ideal for students who wish to pursue careers in investment banking, investment management, consulting, and accounting. In addition to being a required course for students concentrating in accounting, it is highly recommended for those concentrating in finance, economics, marketing, and information systems. The course analyzes how firms communicate through financial statements. Students use financial statement analysis as an integral part of the strategic analysis of firms, while understanding how accounting regulations and managerial discretion influence presented financial statements. Course modules include strategic analysis, risk and profitability analysis using ratios, accounting analysis, and prospective analysis. By the end of the course, students can interpret and analyze financial statements, analyze cash flows, make judgments about earnings quality, uncover hidden assets and liabilities, and use financial statement analysis prospectively to forecast and value firms using cash flow-based and accounting-based valuation methods.\n\n      less description for ACCT-UB    3 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-UB 4",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9560",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Yeo, Julian"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9561",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Yeo, Julian"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9620",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Yeo, Julian"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9659",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 4-90",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Maindiratta, Ajay"
+                }
+            ],
+            "course_name": "",
+            "description": "ACCT-UB    4\n\n   Managerial Accounting\n\nThe main objective of this course is for students to develop a comprehensive framework to think about managerial accounting issues and understand their broader implications for the organization, so as to be able to make more informed (and, thus, \u201cbetter\u201d) decisions in an uncertain environment. The course is designed to equip students with the knowledge to understand, evaluate, and act upon the many financial and non-financial reports used in managing modern firms. Along the way, students will discover that many companies have not provided their managers with useful information. These managers ...\n\n      more description for ACCT-UB    4 \u00bb\n\n      \n\n\n\nThe main objective of this course is for students to develop a comprehensive framework to think about managerial accounting issues and understand their broader implications for the organization, so as to be able to make more informed (and, thus, \u201cbetter\u201d) decisions in an uncertain environment. The course is designed to equip students with the knowledge to understand, evaluate, and act upon the many financial and non-financial reports used in managing modern firms. Along the way, students will discover that many companies have not provided their managers with useful information. These managers have to rely on information systems designed years ago for very different business processes and with very different technologies. The course takes a look at a number of pitfalls that these systems can induce and at the dangers in using these systems to make business decisions. It also investigates some modern ideas in how an organization\u2019s information system should be designed. To develop such a framework, students will be required to become familiar with the mechanics of a number of management accounting tools, but ultimately the emphasis will be on obtaining a good grasp of the key conceptual issues.\n\n      less description for ACCT-UB    4 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-UB 10",
+            "course_name": "Adv Managerial Acctg",
+            "description": "ACCT-UB   10 Adv Managerial Acctg \nThis course helps students understand internal accounting information and its uses in operating a company.",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 21",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17326",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Zarowin, Paul",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "ACCT-UB   21\n\n   Financial Reporting & Disclosure\n\nThis course is part of a sequence ideal for students who wish to pursue careers in investment banking, investment management, consulting, and accounting. In addition to being a required course for students concentrating in accounting, it is highly recommended for those concentrating in finance, economics, marketing, and information systems. The prerequisite for this course is ACCT-UB 3, Financial Statement Analysis. Students learn the financial reporting rules associated with the concepts learned in FSA. The course emphasizes the relationship between financial statements and the reporting rule...\n\n      more description for ACCT-UB   21 \u00bb\n\n      \n\n\n\nThis course is part of a sequence ideal for students who wish to pursue careers in investment banking, investment management, consulting, and accounting. In addition to being a required course for students concentrating in accounting, it is highly recommended for those concentrating in finance, economics, marketing, and information systems. The prerequisite for this course is ACCT-UB 3, Financial Statement Analysis. Students learn the financial reporting rules associated with the concepts learned in FSA. The course emphasizes the relationship between financial statements and the reporting rules on which they are based.\n\n      less description for ACCT-UB   21 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-UB 22",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17327",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bildersee, John",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Acquisitions, Other Restructurings and Related Topics",
+            "description": "ACCT-UB   22 Acquisitions, Other Restructurings and Related Topics \nThis course focuses on four major issues in financial reporting: (1) accounting for mergers and acquisitions, (2) preparation for consolidated financial statements, (3) translation of foreign currency financial statements and foreign currency transactions, and (4) accounting for derivatives including the use of derivatives in hedging transactions.",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-UB 23",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "9513",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Perkal, David"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "9567",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KMEC 5-80",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Perkal, David"
+                }
+            ],
+            "course_name": "",
+            "description": "ACCT-UB   23\n\n   Financial Modeling and Analysis\n\nMaking educated decisions today by forecasting operating and financial performance is a critical exercise for owners, managers, consultants, investment bankers, creditors, equity and credit analysts, as well as investors such as private equity groups, hedge funds, institutional investors, and individuals. Financial projections are rarely perfect as the future cannot be predicted, however this course endeavors to model several scenarios forecasted on historical and anticipated results to derive various conclusions. There are myriad variables that can be incorporated into projections, but the be...\n\n      more description for ACCT-UB   23 \u00bb\n\n      \n\n\n\nMaking educated decisions today by forecasting operating and financial performance is a critical exercise for owners, managers, consultants, investment bankers, creditors, equity and credit analysts, as well as investors such as private equity groups, hedge funds, institutional investors, and individuals. Financial projections are rarely perfect as the future cannot be predicted, however this course endeavors to model several scenarios forecasted on historical and anticipated results to derive various conclusions. There are myriad variables that can be incorporated into projections, but the best financial model is always the one that is stable and robust, yet simple and easy to build, navigate, and audit. The goal of this course is to instruct step-by-step how to build a comprehensive, multi-purpose projection model in Excel and subsequently interpret selective operating, credit and equity valuation data. Based on this information, students learn how to evaluate a company's operating and financial performance; how to develop an appropriate capital structure by structuring debt and equity transactions which not only protect both the creditors and shareholders, but also create an appropriate risk and reward equilibrium; and how to formulate an educated investment opinion.\n\n      less description for ACCT-UB   23 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "ACCT-UB 30",
+            "course_name": "",
+            "description": "ACCT-UB   30\n\n   Advanced Financial Analysis\n\nThis course synthesizes financial statement analysis, corporate finance, and the valuation of stocks (i.e., investments). The content is advanced insofar that coursework in all three areas are prerequisites. There are two parts to the course. The first half is an intensive and solid review of the core knowledge in the three underlying areas, including the concepts of discount factors, alternative measures of income in accounting practice, concepts like enterprise cash flows and residual earnings, and the centrality of forward P/Es in equity valuation. The second part is dedicated to student pr...\n\n      more description for ACCT-UB   30 \u00bb\n\n      \n\n\n\nThis course synthesizes financial statement analysis, corporate finance, and the valuation of stocks (i.e., investments). The content is advanced insofar that coursework in all three areas are prerequisites. There are two parts to the course. The first half is an intensive and solid review of the core knowledge in the three underlying areas, including the concepts of discount factors, alternative measures of income in accounting practice, concepts like enterprise cash flows and residual earnings, and the centrality of forward P/Es in equity valuation. The second part is dedicated to student presentation of actual cases in both oral and written form.\n\n      less description for ACCT-UB   30 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 33",
+            "course_name": "Forsensic Accounting and Financial Statement Fraud",
+            "description": "ACCT-UB   33 Forsensic Accounting and Financial Statement Fraud",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 41",
+            "course_name": "Auditing",
+            "description": "ACCT-UB   41 Auditing",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 45",
+            "course_name": "",
+            "description": "ACCT-UB   45\n\n   International Accounting & Financial Statmt Analy\n\nInternational business and the integration of global capital markets have spurred a growing interest among financial managers and investors in the fortunes of international business enterprises. Financial information about these entities is mostly contained in published financial statements, thus readers must often interpret financial accounts that have been prepared in an environmental context different from their own. This invariably leads to problems of understanding and interpretation. This course introduces students to the international dimensions of financial statement analysis. It exami...\n\n      more description for ACCT-UB   45 \u00bb\n\n      \n\n\n\nInternational business and the integration of global capital markets have spurred a growing interest among financial managers and investors in the fortunes of international business enterprises. Financial information about these entities is mostly contained in published financial statements, thus readers must often interpret financial accounts that have been prepared in an environmental context different from their own. This invariably leads to problems of understanding and interpretation. This course introduces students to the international dimensions of financial statement analysis. It examines differences in measurement practices that exist internationally, the reasons for these differences, their resultant financial statement effects, and methods that analysts and financial managers can use to deal with such differences. Additionally, the course explores some of the institutional structures that are evolving to deal with the issue of international accounting diversity.\n\n      less description for ACCT-UB   45 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 49",
+            "course_name": "",
+            "description": "ACCT-UB   49\n\n   Entertainment Accounting\n\nThis course is designed to enhance students\u2019 knowledge of the entertainment, media and technology (EMT) industries by examining accounting issues impacting these industries.  It explores accounting topics pertaining to EMT industries such as revenue recognition, capitalization versus expensing costs, purchase accounting, and impairment of intangibles and long-lived assets. There is specific accounting guidance related to entertainment and media companies that students will learn and use while analyzing financial statements of EMT companies. The course focuses on film and TV production, publish...\n\n      more description for ACCT-UB   49 \u00bb\n\n      \n\n\n\nThis course is designed to enhance students\u2019 knowledge of the entertainment, media and technology (EMT) industries by examining accounting issues impacting these industries.  It explores accounting topics pertaining to EMT industries such as revenue recognition, capitalization versus expensing costs, purchase accounting, and impairment of intangibles and long-lived assets. There is specific accounting guidance related to entertainment and media companies that students will learn and use while analyzing financial statements of EMT companies. The course focuses on film and TV production, publishing, music, new media, and broadcasting and cable companies. Students learn about business practices related to these industries and how the accounting for business transactions impacts a company\u2019s financial statements. This course is designed primarily for students who expect to be intensive users of financial statements as part of their professional responsibilities.\n\n      less description for ACCT-UB   49 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 55",
+            "course_name": "",
+            "description": "ACCT-UB   55\n\n   Accounting & Valuation in EMT\n\nThis course examines accounting and valuation issues that are distinctive to the various EMT industries. The first part of the course describes financial economic phenomena that are common to these industries, such as the nature and importance of tradeoffs between fixed and variable cost structures, significant contingent aspects of compensation and financing contracts, and the tension between accelerating and delaying investments given potential first mover advantages but high uncertainty. The second part of the course discusses special rules that govern financial accounting in these industri...\n\n      more description for ACCT-UB   55 \u00bb\n\n      \n\n\n\nThis course examines accounting and valuation issues that are distinctive to the various EMT industries. The first part of the course describes financial economic phenomena that are common to these industries, such as the nature and importance of tradeoffs between fixed and variable cost structures, significant contingent aspects of compensation and financing contracts, and the tension between accelerating and delaying investments given potential first mover advantages but high uncertainty. The second part of the course discusses special rules that govern financial accounting in these industries. Emphasis is placed on the limitations of accounting numbers given the largely intangible nature of the economic assets (e.g., subscriber bases, libraries, and brands) in these industries. The third part of the course is devoted to valuation of EMT firms using discounted cash flow, accounting-based and non-financial measures-based valuation approaches.\n\n      less description for ACCT-UB   55 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 63",
+            "course_name": "Taxation of Individuals & Business Income",
+            "description": "ACCT-UB   63 Taxation of Individuals & Business Income \nThis course is part of a sequence ideal for students who wish to pursue careers in investment banking, investment management, and consulting and who have a strong interest in accounting. It provides a cursory understanding of taxation for individuals, corporations, and partnerships and is highly recommended for those majoring in finance, economics, marketing, and information systems.",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 64",
+            "course_name": "Tax Mergers, Acquistions & Related Matters",
+            "description": "ACCT-UB   64 Tax Mergers, Acquistions & Related Matters",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 94",
+            "course_name": "Ind Study in Accounting",
+            "description": "ACCT-UB   94 Ind Study in Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 95",
+            "course_name": "Ind Study in Accounting",
+            "description": "ACCT-UB   95 Ind Study in Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 97",
+            "course_name": "Ind Study in Accounting",
+            "description": "ACCT-UB   97 Ind Study in Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 98",
+            "course_name": "Ind Study in Accounting",
+            "description": "ACCT-UB   98 Ind Study in Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 99",
+            "course_name": "Ind Study in Accounting",
+            "description": "ACCT-UB   99 Ind Study in Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 9001",
+            "course_name": "Principles of Financial Accounting",
+            "description": "ACCT-UB 9001 Principles of Financial Accounting \nThis course develops students\u2019 abilities to understand business transactions and financial statements and to determine the most appropriate financial measures for those events. It investigates the underlying rationale for accounting practices and assesses their effectiveness in providing useful information for decision making. Emphasis is placed on accounting practices that purport to portray corporate financial position, operating results, cash flows, manager performance, and financial strength.",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 9002",
+            "course_name": "Principles of Managerial Accounting",
+            "description": "ACCT-UB 9002 Principles of Managerial Accounting",
+            "offering": false
+        },
+        {
+            "course_id": "ACCT-UB 9006",
+            "course_name": "Law, Business & Society",
+            "description": "ACCT-UB 9006 Law, Business & Society",
+            "offering": false
+        }
+    ]
+}

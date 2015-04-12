@@ -1,0 +1,360 @@
+{
+    "major_id": "CFI-UF",
+    "file": "./2015-2016/Cultural_Foundations_I_(CFI-UF).html",
+    "courses": [
+        {
+            "course_id": "CFI-UF 101",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11998",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS LL145"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "11999",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL150",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Martin, Molly"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12000",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "McCannon, Afrodesia"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12001",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 514",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Davies, Lindsay"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12003",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 409",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kiceluk, Stephanie"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12004",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Larsen, David"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12005",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Larsen, David"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12240",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 4.55 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "WAVE 569"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12007",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GODD B06",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Davies, Lindsay"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12008",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Martin, Molly"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16410",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "WAVE 429"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12009",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 409",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Kiceluk, Stephanie"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16411",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 569",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Martin, Molly"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16412",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Reale, Nancy"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12010",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "McCannon, Afrodesia"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12011",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 127"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12013",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 379",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Karbiener, Karen"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12016",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-1",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Reynolds, Thomas"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "16413",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 305",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Reynolds, Thomas"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12017",
+                    "section": "027",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "SILV 508"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12018",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-10",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Karbiener, Karen"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12020",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 202",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Reale, Nancy"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12021",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 261",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Tharoor, Tilottama"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12275",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "SILV 508"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12022",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "SILV 621"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12274",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "25W4 C-3"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12023",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 LL31"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12273",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "SILV 410"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12024",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 461",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Tharoor, Tilottama"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12025",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL138",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Reichert, Martin"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12027",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "BOBS LL145"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12029",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 275",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Culver, Brian"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12271",
+                    "section": "043",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 325 (SB)"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "12272",
+                    "section": "044",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "7E12 127"
+                }
+            ],
+            "course_name": "",
+            "description": "CFI-UF  101\n\n   Cultural Foundations I\n\nThis course introduces the arts from their origins to the end of antiquity, as defined for these purposes by the roughly coincident dissolutions of the Gupta, Han, and Western Roman empires, focusing on how individuals and social relations are shaped in literature, the visual, plastic, and performing arts, and through music. Conceptions of the divine, the heroic, power and disenfranchisement, beauty, and love are examined within the context of the art and literature of East and South Asia, the Mediterranean world, and contiguous regions (such as Germania, Nubia, and Mesopotamia). Instructors p...\n\n      more description for CFI-UF  101 \u00bb\n\n      \n\n\n\nThis course introduces the arts from their origins to the end of antiquity, as defined for these purposes by the roughly coincident dissolutions of the Gupta, Han, and Western Roman empires, focusing on how individuals and social relations are shaped in literature, the visual, plastic, and performing arts, and through music. Conceptions of the divine, the heroic, power and disenfranchisement, beauty, and love are examined within the context of the art and literature of East and South Asia, the Mediterranean world, and contiguous regions (such as Germania, Nubia, and Mesopotamia). Instructors prepare the way for Cultural Foundations II by giving some attention to the modes by which cultural transmission occurred across these regions prior to the rise of Islam.\n\n      less description for CFI-UF  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CFI-UF 9101",
+            "course_name": "",
+            "description": "CFI-UF 9101\n\n   Cultural Foundations I\n\nThis course introduces the arts from their origins to the end of antiquity, as defined for these purposes by the roughly coincident dissolutions of the Gupta, Han, and Western Roman empires, focusing on how individuals and social relations are shaped in literature, the visual, plastic, and performing arts, and through music. Conceptions of the divine, the heroic, power and disenfranchisement, beauty, and love are examined within the context of the art and literature of East and South Asia, the Mediterranean world, and contiguous regions (such as Germania, Nubia, and Mesopotamia). Instructors p...\n\n      more description for CFI-UF 9101 \u00bb\n\n      \n\n\n\nThis course introduces the arts from their origins to the end of antiquity, as defined for these purposes by the roughly coincident dissolutions of the Gupta, Han, and Western Roman empires, focusing on how individuals and social relations are shaped in literature, the visual, plastic, and performing arts, and through music. Conceptions of the divine, the heroic, power and disenfranchisement, beauty, and love are examined within the context of the art and literature of East and South Asia, the Mediterranean world, and contiguous regions (such as Germania, Nubia, and Mesopotamia). Instructors prepare the way for Cultural Foundations II by giving some attention to the modes by which cultural transmission occurred across these regions prior to the rise of Islam.\n\n      less description for CFI-UF 9101 \u00ab",
+            "offering": false
+        }
+    ]
+}

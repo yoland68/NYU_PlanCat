@@ -1,0 +1,348 @@
+{
+    "major_id": "INTM-SHU",
+    "file": "./2015-2016/Interactive_Media_Arts_(INTM-SHU).html",
+    "courses": [
+        {
+            "course_id": "INTM-SHU 10",
+            "course_name": "J",
+            "description": "INTM-SHU   10J\n\n   Neighborhood, Map, Phone\n\nIn this class, students will work in small groups to explore and annotate the neighborhood around NYU's Shanghai campus. Students will learn how to use basic digital mapping and annotation tools, on both phones and computers, to understand and document the neighborhood. (Science, Technology and Society)\n\nThe first week will introduce simple tools for layering images and text onto existing maps. The second week will include two exercises -- the creation of a scavenger hunt for the rest of the class, and a structured \"neighborhood walk\" for others to use. The third week will be class discussion ...\n\n      more description for INTM-SHU   10J \u00bb\n\n      \n\n\n\nIn this class, students will work in small groups to explore and annotate the neighborhood around NYU's Shanghai campus. Students will learn how to use basic digital mapping and annotation tools, on both phones and computers, to understand and document the neighborhood. (Science, Technology and Society)\n\nThe first week will introduce simple tools for layering images and text onto existing maps. The second week will include two exercises -- the creation of a scavenger hunt for the rest of the class, and a structured \"neighborhood walk\" for others to use. The third week will be class discussion of the current state of user-created maps, with attention to future social and economic uses of these tools. The class will culminate with a presentation of these possible futures by each small group.\n\n      less description for INTM-SHU   10J \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 101",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13216",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Belanger, Matthew",
+                    "time": "Tue,Thu 9.45 AM - 11.00 AM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19122",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Wiriadjaja, Antonius",
+                    "time": "Tue,Thu 11.15 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "13217",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19124",
+                    "section": "005",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Belanger, Matthew",
+                    "time": "Fri 9.45 AM - 11.00 AM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19125",
+                    "section": "006",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Wiriadjaja, Antonius",
+                    "time": "Fri 1.45 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  101\n\n   Interaction Lab\n\nIn this foundation course students will be asked to think beyond the conventional forms of human computer interaction (i.e. the keyboard and mouse) to develop interfaces that consider the entire body, the body\u2019s capacity for gesture, as well as the relationship between the body and its environment. Students will learn the principles of electronics and programming as they build projects using the Arduino microcontroller platform, a small computer based on open source hardware and software. When used in conjunction with various sensors and actuators, Arduino is capable of gathering information a...\n\n      more description for INTM-SHU  101 \u00bb\n\n      \n\n\n\nIn this foundation course students will be asked to think beyond the conventional forms of human computer interaction (i.e. the keyboard and mouse) to develop interfaces that consider the entire body, the body\u2019s capacity for gesture, as well as the relationship between the body and its environment. Students will learn the principles of electronics and programming as they build projects using the Arduino microcontroller platform, a small computer based on open source hardware and software. When used in conjunction with various sensors and actuators, Arduino is capable of gathering information about and acting upon the physical world. In addition to these physical computing techniques, students will also learn to harness the methods of traditional computation for the purposes of self-expression. The fundamentals of programming: variables, conditionals, iteration, functions and objects, will be explored first through the use of JavaScript, an approachable scripting language most commonly associated with the Web, and later by using the Java based Processing language. Students will gain a deeper appreciation of the expressive possibilities of computation as they learn to author their own software, and not simply use that which is provided to them. Additional topics will include digital fabrication using 3D printers and laser cutters, the exchange, manipulation, and presentation of data, algorithmic drawing and animation techniques, as well as the synthesis of images, audio, and video. Structured weekly exercises are aimed at building practical skills, however students are encouraged to experiment wildly, and are free to pursue their own diverse interests in their midterm and final projects.\n\nRequired Course (Formerly known as Introduction to Computational Media & Physical Computing)\n\n      less description for INTM-SHU  101 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 120",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13214",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "19070",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "13215",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19071",
+                    "section": "004",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  120\n\n   Communications Lab\n\nIn this foundation course, designed to provide students with a framework to effectively communicate through digital means, students will explore the possibilities of digital media by successively producing projects that make use of digital images, audio, video, and the Web. Students learn in a laboratory context of hands-on experimentation, and principles of interpersonal communications, media theory, and human factors will be introduced in readings and investigated through discussion. Adobe Creative Cloud and other relevant software applications will be examined, and the basics of fundamental...\n\n      more description for INTM-SHU  120 \u00bb\n\n      \n\n\n\nIn this foundation course, designed to provide students with a framework to effectively communicate through digital means, students will explore the possibilities of digital media by successively producing projects that make use of digital images, audio, video, and the Web. Students learn in a laboratory context of hands-on experimentation, and principles of interpersonal communications, media theory, and human factors will be introduced in readings and investigated through discussion. Adobe Creative Cloud and other relevant software applications will be examined, and the basics of fundamental web languages HTML and CSS will be studied, to establish a diverse digital toolkit. Both traditional and experimental outputs, including online and interactive media platforms, will be explored. Weekly assignments, group, and independent projects, as well as project reports will be assigned in each of the core areas of study. \n\nRequired Course\n\n      less description for INTM-SHU  120 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 165",
+            "course_name": "",
+            "description": "INTM-SHU  165\n\n   Talking Fabrics\n\nThis course will explore the history of textiles and how to communicate through the medium of fabric using new technologies. We communicate using fabric every day. The clothes we wear, which bags we carry our belongings in, and the economic and social price we pay for textiles speak volumes about our identities. The art of fabric-making entered human culture so early that we often use it for important metaphors. Our history is woven together by the tales we spin from our common threads. This course will cover basic textile crafts such as sewing, embroidery and patternmaking along with techniqu...\n\n      more description for INTM-SHU  165 \u00bb\n\n      \n\n\n\nThis course will explore the history of textiles and how to communicate through the medium of fabric using new technologies. We communicate using fabric every day. The clothes we wear, which bags we carry our belongings in, and the economic and social price we pay for textiles speak volumes about our identities. The art of fabric-making entered human culture so early that we often use it for important metaphors. Our history is woven together by the tales we spin from our common threads. This course will cover basic textile crafts such as sewing, embroidery and patternmaking along with techniques on how to integrate textiles with electronic circuitry. New methods of fabric-making such as 3D Printing textiles and laser cutting fabrics will also be covered.\n\n(Prereq: INTM-SHU 101 / Counts as: Arts & Entertainment and Skill Development)\n\n      less description for INTM-SHU  165 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 171",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19568",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Wiriadjaja, Antonius",
+                    "time": "Tue,Thu 3.15 PM - 4.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19569",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Wiriadjaja, Antonius",
+                    "time": "Fri 9.45 AM - 11.00 AM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  171\n\n   Interactive Performance\n\nDigital content has become an important aspect of performance and the performing arts. This course will cover the challenges and possibilities of creating and incorporating interactive media in live and unpredictable environments such as the stage, a concert hall, or an outdoor venue. Programming performative interfaces and creating physical computing props will be the primary vehicles for the class. Prior programming or performing experience is not required. Communications Lab is a prerequisite but can be waived with proven experience in digital image processing. The performance discipline, b...\n\n      more description for INTM-SHU  171 \u00bb\n\n      \n\n\n\nDigital content has become an important aspect of performance and the performing arts. This course will cover the challenges and possibilities of creating and incorporating interactive media in live and unpredictable environments such as the stage, a concert hall, or an outdoor venue. Programming performative interfaces and creating physical computing props will be the primary vehicles for the class. Prior programming or performing experience is not required. Communications Lab is a prerequisite but can be waived with proven experience in digital image processing. The performance discipline, being an inherently collaborative arena, places heavy emphasis on teamwork. An open mind to work with other artists, technologists and creative leaders is a must. Students are expected to present a live staged performance during the semester. \nPrerequisite: Communications Lab.\n(Old Category:Interactive Art & Entertainment / New Category: New Media & Entertainment)\n\n      less description for INTM-SHU  171 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 180",
+            "course_name": "",
+            "description": "INTM-SHU  180\n\n   Design Expo\n\nDesign Expo is an exercise in imagining a product or service from the \"near future\" (3-5 years) of technology. Students will be given a theoretical question (last year's was \"How can users make sense of a world with a billion accessible sensors?\") and will work in groups to imagine possible products, services, or solutions that would answer that question. \n\nThe groups will research the problem, imagine possible solutions, solicit feedback, and return to the drawing board with what they've learned. The class will culminate in a presentation of the imagined product or service, as a demo or proto...\n\n      more description for INTM-SHU  180 \u00bb\n\n      \n\n\n\nDesign Expo is an exercise in imagining a product or service from the \"near future\" (3-5 years) of technology. Students will be given a theoretical question (last year's was \"How can users make sense of a world with a billion accessible sensors?\") and will work in groups to imagine possible products, services, or solutions that would answer that question. \n\nThe groups will research the problem, imagine possible solutions, solicit feedback, and return to the drawing board with what they've learned. The class will culminate in a presentation of the imagined product or service, as a demo or prototype, to a group of knowledgeable designers. \n\nThe class is sponsored by Microsoft, who will announce this year's question later this fall. One group will be selected by the review panel to travel to Microsoft's Redmond campus in the United States, in July of next year, to present their work at Microsoft's annual Faculty Summit.\n\n      less description for INTM-SHU  180 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 181",
+            "course_name": "",
+            "description": "INTM-SHU  181\n\n   Open Source\n\nStudents in this course will investigate the history, culture, and practice of the open-source movement. Open-source is a model for creativity that promotes the formation of communities centered around the sharing of ideas as well as intellectual property. We will explore how the open-source movement has influenced and revolutionized industries as diverse as technology, fashion, art and industrial production. This course aims to equip students with the knowledge and skills to understand a major force that is already shaping the future.\n\nAll course materials, resources, and student work will be...\n\n      more description for INTM-SHU  181 \u00bb\n\n      \n\n\n\nStudents in this course will investigate the history, culture, and practice of the open-source movement. Open-source is a model for creativity that promotes the formation of communities centered around the sharing of ideas as well as intellectual property. We will explore how the open-source movement has influenced and revolutionized industries as diverse as technology, fashion, art and industrial production. This course aims to equip students with the knowledge and skills to understand a major force that is already shaping the future.\n\nAll course materials, resources, and student work will be made publicly available via an open-source license. And student work will be created, documented, and shared within existing open-source communities, for example, on Instructables, Thingiverse, and GitHub, websites that facilitate the production and sharing of open-source projects. The class will also include a field trip to a local maker community and guest speakers will share their experiences with students. By the end of the course, students will have had the opportunity to make contributions to existing open-source communities as well as to establish their own open-source projects.\n\n      less description for INTM-SHU  181 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 184",
+            "course_name": "",
+            "description": "INTM-SHU  184\n\n   Exploring Net Literature\n\nExploring Net Literature is a seminar taking a comparative look at the production of stand-alone texts in the Chinese-speaking and English-speaking internet. (Chinese texts will be read in translation.) Students will look at four different types of text: explanatory writing (Baike and Wikipedia sites); journalistic writing (factual accounts of events, as produced by collaborating groups); and literature (net literature in Chinese; fan fiction in English.) The fourth text will be one of the student's choosing, for their final paper.\n\nIn addition to reading the relevant texts and theoretical acc...\n\n      more description for INTM-SHU  184 \u00bb\n\n      \n\n\n\nExploring Net Literature is a seminar taking a comparative look at the production of stand-alone texts in the Chinese-speaking and English-speaking internet. (Chinese texts will be read in translation.) Students will look at four different types of text: explanatory writing (Baike and Wikipedia sites); journalistic writing (factual accounts of events, as produced by collaborating groups); and literature (net literature in Chinese; fan fiction in English.) The fourth text will be one of the student's choosing, for their final paper.\n\nIn addition to reading the relevant texts and theoretical accounts of their production, we will study the behaviors and negotiations of the participants, and will engage in 'distant reading', asking questions about texts that can only be answered with computers. Examples are: What is the differing link structure of Baike and Wikipedia articles on the same subject? Which Harry Potter characters appear more frequently in Chinese vs. English fiction set in that universe? What are the patters of participation on collaborative writing sites?\n\nThe work of the class is readings, class discussion, group work, and applying new interpretative tools to the selected texts. Students will write a mid-term and a final paper about the work. No previous technical experience is required.\n\n      less description for INTM-SHU  184 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 190",
+            "classes": [
+                {
+                    "format": "Distance Learning",
+                    "class_id": "19567",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": "Petit, Marianne; Belanger, Matthew",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  190\n\n   Collective Methods\n\nHumans have an inherent impulse to collaborate and share. In this course, designed for NYU Shanghai Interactive Media Arts majors studying abroad, students will be asked to integrate a variety of collaborative processes and methodologies for sharing into their work. First, by establishing a coauthored or user-generated storytelling environment for the collection and distribution of narratives, either fiction or nonfiction. Next, students will learn to programmatically acquire and aggregate data from a variety of online sources. Official APIs for popular social media outlets will be introduced,...\n\n      more description for INTM-SHU  190 \u00bb\n\n      \n\n\n\nHumans have an inherent impulse to collaborate and share. In this course, designed for NYU Shanghai Interactive Media Arts majors studying abroad, students will be asked to integrate a variety of collaborative processes and methodologies for sharing into their work. First, by establishing a coauthored or user-generated storytelling environment for the collection and distribution of narratives, either fiction or nonfiction. Next, students will learn to programmatically acquire and aggregate data from a variety of online sources. Official APIs for popular social media outlets will be introduced, and standard methods for data parsing as well as unofficial data scraping techniques will both be employed to create online mashups featuring content from multiple sources. Students will then propose and execute an open content / open source final project that synthesizes the concepts and techniques explored within this course. Readings and discussions will further involve students in debate over related issues, including intellectual property and open data. Students are encouraged to incorporate site specific elements into their projects, and students and their collaborators will be free to use text, audio, video, animation, and transmedia approaches within their work.\nNote: This course is an online distributed course. Registration for this course is limited to IMA Majors studying at the Global Sites. \n(Old Category:Interactive Art & Entertainment / New Category: New Media & Entertainment)\n\n      less description for INTM-SHU  190 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 193",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17585",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Greenspan, Anna",
+                    "time": "Mon,Wed 2.45 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  193\n\n   Chinese Cyberculture\n\nThis course provides a general overview of some of the key topics that constitute Chinese cyberculture. We focus specifically on four main areas: censorship and netizens; the companies which dominate the online economy; the history and development of the electronic industry and game culture and Internet addiction. These topics are examined within the context of several overarching themes:  technological determinism, protectionism, the nature of innovation and the increasingly intimate relationship of humans and machines. \nIn addition, this course will guide students through the development of ...\n\n      more description for INTM-SHU  193 \u00bb\n\n      \n\n\n\nThis course provides a general overview of some of the key topics that constitute Chinese cyberculture. We focus specifically on four main areas: censorship and netizens; the companies which dominate the online economy; the history and development of the electronic industry and game culture and Internet addiction. These topics are examined within the context of several overarching themes:  technological determinism, protectionism, the nature of innovation and the increasingly intimate relationship of humans and machines. \nIn addition, this course will guide students through the development of a research project on a related theme of their choosing.\n\n      less description for INTM-SHU  193 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 211",
+            "course_name": "",
+            "description": "INTM-SHU  211\n\n   Animation and Dynamic Surfaces\n\nContemporary animation is no longer constrained to the single flat screen; it can now be seen on surfaces of any shape and size. This course takes students from traditional animation techniques to contemporary outputs. In the first part of the course students will learn the process of character design as well as script and storyboard development to create two animated shorts. The course then examines outputs afforded by new technologies, such as interactivity, multiple screens and projection mapping. Software includes DragonFrame (for stop motion capture), Adobe After Effects and Premiere (for...\n\n      more description for INTM-SHU  211 \u00bb\n\n      \n\n\n\nContemporary animation is no longer constrained to the single flat screen; it can now be seen on surfaces of any shape and size. This course takes students from traditional animation techniques to contemporary outputs. In the first part of the course students will learn the process of character design as well as script and storyboard development to create two animated shorts. The course then examines outputs afforded by new technologies, such as interactivity, multiple screens and projection mapping. Software includes DragonFrame (for stop motion capture), Adobe After Effects and Premiere (for digital compositing, animating, and sequencing), as well MadMapper (for projection mapping), and Processing (for interactivity). Drawing skills are not necessary for this course, however students will keep a personal sketchbook.\n\n      less description for INTM-SHU  211 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 212",
+            "course_name": "",
+            "description": "INTM-SHU  212\n\n   Sound & Vision\n\nIn this course students will explore various techniques, both practical and experimental, for sound and video synthesis as it relates to the production of multimedia applications as well as live audio visual performance. Comprehensive practical experience and substantial applied knowledge will be acquired through lectures, coursework, and critique. Students will begin by learning to work with the Max graphical programming environment, which is based on a patch bay metaphor, to produce their own programs (Max patches). Working with Max involves the visual arrangement and interconnection of bloc...\n\n      more description for INTM-SHU  212 \u00bb\n\n      \n\n\n\nIn this course students will explore various techniques, both practical and experimental, for sound and video synthesis as it relates to the production of multimedia applications as well as live audio visual performance. Comprehensive practical experience and substantial applied knowledge will be acquired through lectures, coursework, and critique. Students will begin by learning to work with the Max graphical programming environment, which is based on a patch bay metaphor, to produce their own programs (Max patches). Working with Max involves the visual arrangement and interconnection of blocks representing various inputs, outputs, and functions. Through the application of Max\u2019s MSP and Jitter extensions, students will take advantage of the real-time audio and video processing capabilities of the application. Additionally, sound sequencing software, Ableton Live, will be integrated with Max. The application of sound control protocols, such as MIDI (Musical Instrument Digital Interface) and OSC (Open Sound Control), will be introduced and investigated. Students will be encouraged to consider new possibilities for input and output afforded by the use of various sensors and actuators with Arduino. Existing off-the-shelf motion controllers, for example the Wii Remote, Microsoft Kinect, and Leap Motion will also be adopted to capture and interpret movement and gesture for the purposes of controlling audio and video. For their final projects, students will create a unique musical instrument. The class culminates in a live performance where students will perform their instruments in front of an enthusiastic audience.\n\nElective: Arts & Entertainment and Skill Development\n\n      less description for INTM-SHU  212 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 219",
+            "course_name": "Studio Courses",
+            "description": "INTM-SHU  219 Studio Courses \nThese courses are to be taken in conjunction with one or more other, disciplinary courses. Students are expected to generate an idea or ideas inspired by the other course(s) and then build something with new interactive technology, supporting their investigations in the other field(s).  Examples might be a device for monitoring traffic at a particular street corner, for a sociology class, or a data visualization for an economics class.",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 220",
+            "course_name": "",
+            "description": "INTM-SHU  220\n\n   Machine Life\n\nThis course explores the frontiers, intersections and increasingly intimate intermixing of humans and machines. It does so by examining developments in wearable and embedded computing, genetic engineering, robotics and Artificial Intelligence. These more empirical investigations will occur alongside theoretical discussions and science fiction speculations on cyborgs, virtual reality and the future of the human species. In addition to research and writing assignments this course will involve a practical recitation in which students create or design sketches of a machine that reflects the themes...\n\n      more description for INTM-SHU  220 \u00bb\n\n      \n\n\n\nThis course explores the frontiers, intersections and increasingly intimate intermixing of humans and machines. It does so by examining developments in wearable and embedded computing, genetic engineering, robotics and Artificial Intelligence. These more empirical investigations will occur alongside theoretical discussions and science fiction speculations on cyborgs, virtual reality and the future of the human species. In addition to research and writing assignments this course will involve a practical recitation in which students create or design sketches of a machine that reflects the themes discussed in the course.\n\n      less description for INTM-SHU  220 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 225",
+            "course_name": "",
+            "description": "INTM-SHU  225\n\n   Media and Participation\n\nMaking words and images public used to be difficult, complex, and expensive. Now it's not. That change, simple but fundamental, is transforming the media landscape. A publisher used to be required if you wanted to put material out into the public sphere; now anyone with a keyboard or a camera can circulate their material globally. New, cheap forms of communication have opened the floodgates to a massive increase in the number and variety of participants creating and circulating media. This change, enormous and permanent, is driving several effects in the media landscape today.\n\nThis course cov...\n\n      more description for INTM-SHU  225 \u00bb\n\n      \n\n\n\nMaking words and images public used to be difficult, complex, and expensive. Now it's not. That change, simple but fundamental, is transforming the media landscape. A publisher used to be required if you wanted to put material out into the public sphere; now anyone with a keyboard or a camera can circulate their material globally. New, cheap forms of communication have opened the floodgates to a massive increase in the number and variety of participants creating and circulating media. This change, enormous and permanent, is driving several effects in the media landscape today.\n\nThis course covers the transition from a world populated by professional media makers and a silent public to one where anyone who has a phone or a computer can be both producer and consumer. This change, brought about by the technological and economic characteristics of digital data and networks, is upending old industries -- newspapers, music publishing, moviemaking -- faster than new systems can be put in place. The result is chaos and experimentation as new ways of participating in the previously sparse media landscape are appearing everywhere. \n\nThis course will provide a brief history and economics of the previous media landscape, the design of digital networks that upend those historical systems, and new modes of participation for sharing words, images, audio and video. We will look at the dynamics of both English-language services, such as Twitter, Facebook and Instagram, and, in translation, Chinese-language services such as Sina Weibo, Weixin and QQ.\nThe class will consist of class discussion around readings and lectures, in-class presentations and analysis of new uses of media that you observe (or participate in) outside class. There will be two written analyses of the media landscape, one at mid-term and one final paper.\n\n      less description for INTM-SHU  225 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 225",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19644",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Shirky, Clay",
+                    "time": "Mon,Wed 1.15 PM - 2.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  225\n\n   Media and Participation\n\nMaking words and images public used to be difficult, complex, and expensive. Now it's not. That change, simple but fundamental, is transforming the media landscape. A publisher used to be required if you wanted to put material out into the public sphere; now anyone with a keyboard or a camera can circulate their material globally. New, cheap forms of communication have opened the floodgates to a massive increase in the number and variety of participants creating and circulating media. This change, enormous and permanent, is driving several effects in the media landscape today.\n\nThis course cov...\n\n      more description for INTM-SHU  225 \u00bb\n\n      \n\n\n\nMaking words and images public used to be difficult, complex, and expensive. Now it's not. That change, simple but fundamental, is transforming the media landscape. A publisher used to be required if you wanted to put material out into the public sphere; now anyone with a keyboard or a camera can circulate their material globally. New, cheap forms of communication have opened the floodgates to a massive increase in the number and variety of participants creating and circulating media. This change, enormous and permanent, is driving several effects in the media landscape today.\n\nThis course covers the transition from a world populated by professional media makers and a silent public to one where anyone who has a phone or a computer can be both producer and consumer. This change, brought about by the technological and economic characteristics of digital data and networks, is upending old industries -- newspapers, music publishing, moviemaking -- faster than new systems can be put in place. The result is chaos and experimentation as new ways of participating in the previously sparse media landscape are appearing everywhere. \n\nThis course will provide a brief history and economics of the previous media landscape, the design of digital networks that upend those historical systems, and new modes of participation for sharing words, images, audio and video. We will look at the dynamics of both English-language services, such as Twitter, Facebook and Instagram, and, in translation, Chinese-language services such as Sina Weibo, Weixin and QQ.\nThe class will consist of class discussion around readings and lectures, in-class presentations and analysis of new uses of media that you observe (or participate in) outside class. There will be two written analyses of the media landscape, one at mid-term and one final paper.\n\n      less description for INTM-SHU  225 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 231",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19073",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Belanger, Matthew",
+                    "time": "Tue,Thu 1.45 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "19074",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Belanger, Matthew",
+                    "time": "Fri 1.45 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  231\n\n   Developing Web\n\nThe Web now permeates most aspects of modern existence, and as a result, web development has become an indispensable skill complementary to many diverse disciplines. Students in this course will gain fluency in essential web languages and development approaches through a series of creative yet practical exercises aimed at touching on many important aspects of today\u2019s multi-faceted World Wide Web \u2013 by building responsive websites, engaging games, and rich internet applications for the desktop, mobile devices, and Arduino microcontroller. Design principles will be explored through corresponding ...\n\n      more description for INTM-SHU  231 \u00bb\n\n      \n\n\n\nThe Web now permeates most aspects of modern existence, and as a result, web development has become an indispensable skill complementary to many diverse disciplines. Students in this course will gain fluency in essential web languages and development approaches through a series of creative yet practical exercises aimed at touching on many important aspects of today\u2019s multi-faceted World Wide Web \u2013 by building responsive websites, engaging games, and rich internet applications for the desktop, mobile devices, and Arduino microcontroller. Design principles will be explored through corresponding HTML and CSS structures, and will be based on a consideration for typography, images, audio and video. Dynamic data and interaction will be investigated through client-side scripting techniques using JavaScript, including the popular jQuery library. User generated content and the importance of content management will be reflected on through server-side scripting techniques utilizing the PHP based WordPress platform. Data storage and retrieval will be made possible through the application of MySQL databases and the HTML5 Local Storage specification. And universal data exchange formats, JSON and XML, will be part of an ongoing experimentation with third party APIs (Application Programming Interfaces) such as Flickr, Freebase, Google Maps, Twitter, Xively & YouTube.\n\n      less description for INTM-SHU  231 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 234",
+            "course_name": "",
+            "description": "INTM-SHU  234\n\n   Rapid Prototyping\n\nBeginning with a design problem or challenge, and following a period of analysis and research, a designer can begin to draft, prototype, test, and evaluate possible solutions, often repeating these operations several times until the design reaches maturity. Agile software development methodologies, which involve the formation of self-organized cooperative teams, frequent deadlines with deliverables, and a willingness to accept changing conditions and requirements, have radically changed the way software is being produced. Additionally, new applications, such as Fritzing, 123D Circuits, and Eag...\n\n      more description for INTM-SHU  234 \u00bb\n\n      \n\n\n\nBeginning with a design problem or challenge, and following a period of analysis and research, a designer can begin to draft, prototype, test, and evaluate possible solutions, often repeating these operations several times until the design reaches maturity. Agile software development methodologies, which involve the formation of self-organized cooperative teams, frequent deadlines with deliverables, and a willingness to accept changing conditions and requirements, have radically changed the way software is being produced. Additionally, new applications, such as Fritzing, 123D Circuits, and Eagle have greatly facilitated the process of electronic circuit design. And Computer Aided Design (CAD) applications, for example Rhinocerous and Tinkercad, and newly available digital fabrication equipment have dramatically quickened the pace with which designers can create physical prototypes. Students in this course will be confronted with a series of design challenges for which they have to propose and prototype possible solutions. The first design challenge will entail the entire class working together to produce a software prototype by adopting agile strategies. The second design challenge will involve students in the process of refining a circuit, and will require bringing a prototype from schematic, to breadboard, perfboard, and finally resulting in a printed circuit board. For the third design challenge, students will explore the use of 3D printers, laser cutters, computer numerical control (CNC) machines, and other tools to produce a physical prototype. Students will then be free to work on a personal design challenge for their final project.\n\n(Prereq: Interaction Lab / Counts as: Design and Skill Development)\n\n      less description for INTM-SHU  234 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "INTM-SHU 240",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19641",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  240\n\n   Solar Solutions: Considering The Sun in our Digital Future\n\nSolar power is on track to be a major contributor to renewable energy systems of the future. Small scale photovoltaic cells can provide energy directly at point of use without the expense of an electricity grid and with the added benefit that the energy is free and non-polluting. This class examines how photovoltaic cells can be incorporated into interactive art, internet enabled devices and anything in between. We will look at the science behind various photovoltaic panels, calculate power requirements, and build our understanding about panel assembly and use. Among other things, students wil...\n\n      more description for INTM-SHU  240 \u00bb\n\n      \n\n\n\nSolar power is on track to be a major contributor to renewable energy systems of the future. Small scale photovoltaic cells can provide energy directly at point of use without the expense of an electricity grid and with the added benefit that the energy is free and non-polluting. This class examines how photovoltaic cells can be incorporated into interactive art, internet enabled devices and anything in between. We will look at the science behind various photovoltaic panels, calculate power requirements, and build our understanding about panel assembly and use. Among other things, students will experiment with solar circuits, BEAM robotics (Biology, Electronics, Aesthetics and Mechanics) and how to use photovoltaic cells with micro-controllers. Throughout the semester students will design a series of conceptual paper prototypes and physical prototypes as solutions to artistic and design challenges given throughout the course. \nPrerequisite: Interaction Lab\nOld Category: Interactive Art & Intertainment + Skill building / New Category: Experimental Interfaces & Physical Computing\n\n      less description for INTM-SHU  240 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 250",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19072",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Greenspan, Anna",
+                    "time": "Mon,Wed 2.45 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  250\n\n   Special Topics in Digital Humanities: Street Food & Urban Farming\n\nThis course introduces and makes use of digital tools (audio, video and mapping technologies) to research and record an immersive engagement with the city. It also includes a lab-based workshop in interactive media that is designed around a relevant theme. This semester the course focuses on street food & urban farming. \n\nThe preservation, adaptation and disappearance of street food raise many issues that are central to contemporary Shanghai:  globalization, creativity and cultural heritage, urbanization, the informal economy, and the environment. This course examines these topics by focusing ...\n\n      more description for INTM-SHU  250 \u00bb\n\n      \n\n\n\nThis course introduces and makes use of digital tools (audio, video and mapping technologies) to research and record an immersive engagement with the city. It also includes a lab-based workshop in interactive media that is designed around a relevant theme. This semester the course focuses on street food & urban farming. \n\nThe preservation, adaptation and disappearance of street food raise many issues that are central to contemporary Shanghai:  globalization, creativity and cultural heritage, urbanization, the informal economy, and the environment. This course examines these topics by focusing on the following questions: How is Shanghai working to both integrate and exclude its migrant population? What room is there for itinerant vendors and the informal markets of the streets in the 21st century metropolis? What role does creativity play in the attempts to preserve the city\u2019s culinary heritage? How does street food contribute to the city\u2019s attempts to provide safe, affordable and nutritious food for its ever-growing population?\n\nAdding an extra dimension to our analysis of food in the city, the course will include an intensive workshop on urban farming led by experts in the field. This will involve; an introduction to the challenges and opportunities of urban farming in China; a tour to a local urban garden, and a hands-on component aimed at building a hydroponic window farm in the IMA lab.\n\n(Old Category: Seminar / New Category: Seminar)\n\n      less description for INTM-SHU  250 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 270",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19570",
+                    "section": "001",
+                    "period": "10/26/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "INTM-SHU  270\n\n   Expressing Data\n\nHuman beings are producing, consuming and sharing data at any given moment. However, what kinds of data are meaningful to us? How do we capture and collect that data? What are the best ways to present it? What stories do we want to tell with data? This course will explore these questions and more. Students will learn basic techniques for data collection and filtering. Student projects can be digitial, physical, visual, musical, or (with approval) take any form imagined.\nPrerequisite: Interaction Lab.\n(Old Category:Interactive Art & Entertainment + Skillbuilding / New Category: Computation & Da...\n\n      more description for INTM-SHU  270 \u00bb\n\n      \n\n\n\nHuman beings are producing, consuming and sharing data at any given moment. However, what kinds of data are meaningful to us? How do we capture and collect that data? What are the best ways to present it? What stories do we want to tell with data? This course will explore these questions and more. Students will learn basic techniques for data collection and filtering. Student projects can be digitial, physical, visual, musical, or (with approval) take any form imagined.\nPrerequisite: Interaction Lab.\n(Old Category:Interactive Art & Entertainment + Skillbuilding / New Category: Computation & Data)\n\n      less description for INTM-SHU  270 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTM-SHU 280",
+            "course_name": "",
+            "description": "INTM-SHU  280\n\n   Global Media\u2014China\n\nThis course looks at the transformation of China\u2019s media landscape over the past two decades through market reforms, commercialization and new technology \u2013 including the drastic growth of tabloid newspapers and magazines; the transformation of television into a multi\u2011billion dollar industry, with ambitions to go global; and the equally significant\nrise of the Internet and, with it, the growing influence of online public opinion, along with the way in which this has led to significant changes both in China\u2019s traditional media, and in the way the country is governed. The course will also look a...\n\n      more description for INTM-SHU  280 \u00bb\n\n      \n\n\n\nThis course looks at the transformation of China\u2019s media landscape over the past two decades through market reforms, commercialization and new technology \u2013 including the drastic growth of tabloid newspapers and magazines; the transformation of television into a multi\u2011billion dollar industry, with ambitions to go global; and the equally significant\nrise of the Internet and, with it, the growing influence of online public opinion, along with the way in which this has led to significant changes both in China\u2019s traditional media, and in the way the country is governed. The course will also look at continuing tensions between those seeking to push for greater openness in the media, and the censors and ideological critics who believe it has already gone too far.\n\n      less description for INTM-SHU  280 \u00ab",
+            "offering": false
+        }
+    ]
+}

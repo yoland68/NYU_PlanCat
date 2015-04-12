@@ -1,0 +1,94 @@
+{
+    "major_id": "OT-UE",
+    "file": "./2015-2016/Occupational_Therapy_(OT-UE).html",
+    "courses": [
+        {
+            "course_id": "OT-UE 1",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "10356",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 279",
+                    "time": "Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Charney, Constance"
+                }
+            ],
+            "course_name": "Orientation to O.T.",
+            "description": "OT-UE    1 Orientation to O.T. \nThis course is designed for undergraduate students interested in exploring the field of occupational therapy through weekly seminars, guest speakers, and clinical site visits. Students will learn the basic roles and functions of the occupational therapist and the role of occupational therapy in medical, educational, and community models, as well as in other emerging areas of practice.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-UE 1001",
+            "course_name": "Principles of Anatomy",
+            "description": "OT-UE 1001 Principles of Anatomy \nStructure of the human body with emphasis on the musculoskeletal and nervous systems. The relationship between structure and function will be stressed as well as integration of these and other body systems during normal and abnormal function. Students learn all the skeletal system, muscles, peripheral vasculature and nervous systems.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-UE 1008",
+            "course_name": "Gross Anatomy of The Upper Quadrant",
+            "description": "OT-UE 1008 Gross Anatomy of The Upper Quadrant \nIn-depth study of human anatomy of the hand and upper quadrant rehabilitation in order to understand and apply kinesiological and biomechanical principles.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-UE 1011",
+            "course_name": "",
+            "description": "OT-UE 1011\n\n   Cognition and Everyday Life:  The Science of Neurorehabilitation\n\nThrough readings, case studies, & observation students will examine specific cognitive abilities that are crucial for everyday activities.  Students will study brain functions in normal & brain-damaged populations & will learn about different cognitive rehabilitation approaches from a multidisciplinary perspective.  Students will also learn about theoretical approaches designed to address cognitive & perceptual impairments such as attention, orientation, executive functions & more.  Emphasis will be on cognitive problem identification: the evaluation process, & presentation of different treatm...\n\n      more description for OT-UE 1011 \u00bb\n\n      \n\n\n\nThrough readings, case studies, & observation students will examine specific cognitive abilities that are crucial for everyday activities.  Students will study brain functions in normal & brain-damaged populations & will learn about different cognitive rehabilitation approaches from a multidisciplinary perspective.  Students will also learn about theoretical approaches designed to address cognitive & perceptual impairments such as attention, orientation, executive functions & more.  Emphasis will be on cognitive problem identification: the evaluation process, & presentation of different treatment approaches in rehabilitation science.  Course is appropriate for students interested in pre-health, nursing, speech pathology, education, psychology, linguistics, & neuroscience.\n\nLiberal Arts Core/CORE Equivalent - satisfies the requirement for Natural Science\n\n      less description for OT-UE 1011 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "OT-UE 1401",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10357",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306 with Aqua, Offiong09/02/2015 - 12/15/2015 Tue 8.00 AM - 9.15 AM at SILV 520",
+                    "time": "Thu 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Aqua, Offiong"
+                }
+            ],
+            "course_name": "Human Anatomy",
+            "description": "OT-UE 1401 Human Anatomy \nStructure and function of the skeletal, muscular, nervous and circulatory systems. The course is given in lecture format and enhanced with models, slides, handouts, and videotapes.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-UE 1402",
+            "course_name": "Human Anatomy Laboratory",
+            "description": "OT-UE 1402 Human Anatomy Laboratory \nFollows and complements the lecture material presented in the fall semester. Students dissect human cadavers for the purpose of learning the skeletal, muscular, nervous, and circulatory systems.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-UE 1873",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10358",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 102",
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Voelbel, Gerald"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "11393",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802",
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Voelbel, Gerald"
+                }
+            ],
+            "course_name": "Neuroscience",
+            "description": "OT-UE 1873 Neuroscience \nNeuroanatomy and neurophysiology underlying occupational therapy theory and practice. A foundation in neuroscience to facilitate understanding human performance as the culmination of the influences of multiple systems.",
+            "offering": true
+        }
+    ]
+}

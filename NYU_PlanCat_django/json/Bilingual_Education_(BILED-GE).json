@@ -1,0 +1,84 @@
+{
+    "major_id": "BILED-GE",
+    "file": "./2015-2016/Bilingual_Education_(BILED-GE).html",
+    "courses": [
+        {
+            "course_id": "BILED-GE 2001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3423",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 620",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Woodley, Heather"
+                }
+            ],
+            "course_name": "",
+            "description": "BILED-GE 2001\n\n   Blngl Multicult Educ: Practice & Theory\n\nTheory, policy, and practice of bilingual education. Key topics include models and programs of bilingual education: policy and politics of language minority education in the U.S. and international contexts; psycholinguist perspectives on bilingualism, including language development; cultural, social, and political perspectives on language minority education; and evaluation of bilingual education programs. Emphasis on pedagogical implications of the above, with particular attention to native language development, second language/literacy teaching for developmentally and linguistically diverse s...\n\n      more description for BILED-GE 2001 \u00bb\n\n      \n\n\n\nTheory, policy, and practice of bilingual education. Key topics include models and programs of bilingual education: policy and politics of language minority education in the U.S. and international contexts; psycholinguist perspectives on bilingualism, including language development; cultural, social, and political perspectives on language minority education; and evaluation of bilingual education programs. Emphasis on pedagogical implications of the above, with particular attention to native language development, second language/literacy teaching for developmentally and linguistically diverse students.\n\n      less description for BILED-GE 2001 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "BILED-GE 2101",
+            "course_name": "Curr Adapt in Biling Edu",
+            "description": "BILED-GE 2101 Curr Adapt in Biling Edu \nProvides students with a conceptual foundation, within the context of existing curriculum models, for selecting, adapting, and organizing instructional activities, environments, and materials most suitable for bilingual children.",
+            "offering": false
+        },
+        {
+            "course_id": "BILED-GE 2103",
+            "course_name": "Bilingual Except.Child",
+            "description": "BILED-GE 2103 Bilingual Except.Child \nPsychosocial characteristics of exceptional children who were culturally and linguistically diverse.  Appropriate modes of classification, identification, and intervention are examined as well as program development and implementation.",
+            "offering": false
+        },
+        {
+            "course_id": "BILED-GE 2105",
+            "course_name": "Teach Sch Subj With a Bilingual Approach",
+            "description": "BILED-GE 2105 Teach Sch Subj With a Bilingual Approach \nFor teachers, supervisors, counselors and others interested in or committed to bilingual education programs.  Consideration of theories, methods, and available materials in the teaching of school subjects.",
+            "offering": false
+        },
+        {
+            "course_id": "BILED-GE 2110",
+            "course_name": "Lang Arts/Lit Bilng Ap",
+            "description": "BILED-GE 2110 Lang Arts/Lit Bilng Ap \nMethods of teaching English and native language arts to bilingual and English language learners. Pedagogical approaches and methods in teaching language arts and literacy. Key topics include (1) methods of teaching English language literacy to English language learners; (2) methods for developing native language literacy and language skills; (3) approaches to facilitating the development of academic languages and literacy; and (4) instructional practices which allow students to use their first language skills to develop English language arts and literacy.",
+            "offering": false
+        },
+        {
+            "course_id": "BILED-GE 2203",
+            "course_name": "Ling,Lit & Bilingualism",
+            "description": "BILED-GE 2203 Ling,Lit & Bilingualism \nExplores the development and use of written languages in monolingual and multilingual settings.  Issues addressed include theoretical, sociolinguistic, and pedagogical perspectives on language and literacy.",
+            "offering": false
+        },
+        {
+            "course_id": "BILED-GE 2250",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3443",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC13",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "McSweeny, Gisella"
+                }
+            ],
+            "course_name": "Obs/Sem Second Lang Tchg",
+            "description": "BILED-GE 2250 Obs/Sem Second Lang Tchg",
+            "offering": true
+        },
+        {
+            "course_id": "BILED-GE 2991",
+            "course_name": "Student Teaching Bilingual Education: Elementary/Secondary (1)",
+            "description": "BILED-GE 2991 Student Teaching Bilingual Education: Elementary/Secondary (1) \nOne semester supervised student teaching in a bilingual education classroom in grades K-6 for a minimum of 180 hours with 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum. Participation is required in a weekly student student teaching seminar which offers a practical examination of teaching problems and practices as they related to actual classroom teaching.",
+            "offering": false
+        },
+        {
+            "course_id": "BILED-GE 2992",
+            "course_name": "Student Teaching Bilingual Education:Elementary/Secondary (2)",
+            "description": "BILED-GE 2992 Student Teaching Bilingual Education:Elementary/Secondary (2) \nOne semester supervised student teaching in a bilingual education classroom in grades 7-12 for a minimum of 180 hours with 20 days. Student teaching experiences will be used to support theoretical and practical applications of the planning and implementation of the curriculum. Participation is required in a weekly student student teaching seminar which offers a practical examination of teaching problems and practices as they related to actual classroom teaching.",
+            "offering": false
+        }
+    ]
+}

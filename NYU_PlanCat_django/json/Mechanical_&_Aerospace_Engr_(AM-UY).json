@@ -1,0 +1,468 @@
+{
+    "major_id": "AM-UY",
+    "file": "./2015-2016/Mechanical_&_Aerospace_Engr_(AM-UY).html",
+    "courses": [
+        {
+            "course_id": "AM-UY 100",
+            "course_name": "ENG MECHANICS 1&2",
+            "description": "AM-UY  100 ENG MECHANICS 1&2",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 101",
+            "course_name": "GRAPHICS",
+            "description": "AM-UY  101 GRAPHICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 102",
+            "course_name": "COMPUT-AIDED DRAFTING",
+            "description": "AM-UY  102 COMPUT-AIDED DRAFTING",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 111",
+            "course_name": "MECHANICS I",
+            "description": "AM-UY  111 MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 112",
+            "course_name": "MECHANICS II",
+            "description": "AM-UY  112 MECHANICS II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 115",
+            "course_name": "ENGINEERING MECHANICS",
+            "description": "AM-UY  115 ENGINEERING MECHANICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 116",
+            "course_name": "ENGINEERING MECHANICS I",
+            "description": "AM-UY  116 ENGINEERING MECHANICS I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 117",
+            "course_name": "ENGINEERING MECHANICS 2",
+            "description": "AM-UY  117 ENGINEERING MECHANICS 2",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 118",
+            "course_name": "ENGNRNG MECHANICS III",
+            "description": "AM-UY  118 ENGNRNG MECHANICS III",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 119",
+            "course_name": "ELEMENTS OF DYNAMICS",
+            "description": "AM-UY  119 ELEMENTS OF DYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 120",
+            "course_name": "GRAPHICS",
+            "description": "AM-UY  120 GRAPHICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 121",
+            "course_name": "| CE-UY  202 MECHANICS OF MATERIALS",
+            "description": "AM-UY  121 | CE-UY  202 MECHANICS OF MATERIALS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 150",
+            "course_name": "ELEM OF STRESS ANALYSIS",
+            "description": "AM-UY  150 ELEM OF STRESS ANALYSIS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 201",
+            "course_name": "THERMODYNAMICS I",
+            "description": "AM-UY  201 THERMODYNAMICS I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 202",
+            "course_name": "THERMODYNAMICS II",
+            "description": "AM-UY  202 THERMODYNAMICS II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 203",
+            "course_name": "HEAT TRANSFER",
+            "description": "AM-UY  203 HEAT TRANSFER",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 204",
+            "course_name": "ENERGY TRANSFER",
+            "description": "AM-UY  204 ENERGY TRANSFER",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 210",
+            "course_name": "THERMODYNAMICS 1",
+            "description": "AM-UY  210 THERMODYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 211",
+            "course_name": "STATISTICAL THERMODYNMCS",
+            "description": "AM-UY  211 STATISTICAL THERMODYNMCS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 212",
+            "course_name": "A/C AND REFRIGERATION",
+            "description": "AM-UY  212 A/C AND REFRIGERATION",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 213",
+            "course_name": "TRANSPORT PROCESSES",
+            "description": "AM-UY  213 TRANSPORT PROCESSES",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 221",
+            "course_name": "FLUID SYSTEMS 1",
+            "description": "AM-UY  221 FLUID SYSTEMS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 222",
+            "course_name": "FLUID SYSTEMS 2",
+            "description": "AM-UY  222 FLUID SYSTEMS 2",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 231",
+            "course_name": "FLUIDS I",
+            "description": "AM-UY  231 FLUIDS I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 232",
+            "course_name": "FLUIDS II",
+            "description": "AM-UY  232 FLUIDS II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 233",
+            "course_name": "FLUIDS III",
+            "description": "AM-UY  233 FLUIDS III",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 234",
+            "course_name": "FLUIDS IV",
+            "description": "AM-UY  234 FLUIDS IV",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 241",
+            "course_name": "PROPULSION",
+            "description": "AM-UY  241 PROPULSION",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 242",
+            "course_name": "ROCKET PROPULSION",
+            "description": "AM-UY  242 ROCKET PROPULSION",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 243",
+            "course_name": "TURBOMACHINERY",
+            "description": "AM-UY  243 TURBOMACHINERY",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 251",
+            "course_name": "DYNAMICS",
+            "description": "AM-UY  251 DYNAMICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 252",
+            "course_name": "DYNAMIC SYSTEM RESPONSE",
+            "description": "AM-UY  252 DYNAMIC SYSTEM RESPONSE",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 253",
+            "course_name": "DYNAMIC SYSTEMS RESPONSE 1",
+            "description": "AM-UY  253 DYNAMIC SYSTEMS RESPONSE 1",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 261",
+            "course_name": "VIBRATIONS",
+            "description": "AM-UY  261 VIBRATIONS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 262",
+            "course_name": "NOISE AND ACOUSTICS",
+            "description": "AM-UY  262 NOISE AND ACOUSTICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 263",
+            "course_name": "ADVANCED ACOUSTICS",
+            "description": "AM-UY  263 ADVANCED ACOUSTICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 270",
+            "course_name": "THERMODYNAMICS 1",
+            "description": "AM-UY  270 THERMODYNAMICS 1",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 271",
+            "course_name": "FUNDMNTLS STRESS ANALY I",
+            "description": "AM-UY  271 FUNDMNTLS STRESS ANALY I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 272",
+            "course_name": "STRESS ANALY MECH COMPS",
+            "description": "AM-UY  272 STRESS ANALY MECH COMPS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 273",
+            "course_name": "FUNDMNTLS STRESS ANALY 2",
+            "description": "AM-UY  273 FUNDMNTLS STRESS ANALY 2",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 281",
+            "course_name": "ADV STRESS ANALYSIS I",
+            "description": "AM-UY  281 ADV STRESS ANALYSIS I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 282",
+            "course_name": "ADV STRESS ANALYSIS II",
+            "description": "AM-UY  282 ADV STRESS ANALYSIS II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 283",
+            "course_name": "ELASTICITY & STRUCT 3",
+            "description": "AM-UY  283 ELASTICITY & STRUCT 3",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 284",
+            "course_name": "ELASTICITY & STRUCTURES 4",
+            "description": "AM-UY  284 ELASTICITY & STRUCTURES 4",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 301",
+            "course_name": "SYNTH OF MECHANICAL SYS",
+            "description": "AM-UY  301 SYNTH OF MECHANICAL SYS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 302",
+            "course_name": "ANALY/DSIGN MACHINE ELEM",
+            "description": "AM-UY  302 ANALY/DSIGN MACHINE ELEM",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 311",
+            "course_name": "MECHANICS OF FLIGHT I",
+            "description": "AM-UY  311 MECHANICS OF FLIGHT I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 312",
+            "course_name": "MECHANICS OF FLIGHT II",
+            "description": "AM-UY  312 MECHANICS OF FLIGHT II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 321",
+            "course_name": "INSTRUMENT AND CONTROL",
+            "description": "AM-UY  321 INSTRUMENT AND CONTROL",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 322",
+            "course_name": "MACHINE CONTROL SYSTEMS",
+            "description": "AM-UY  322 MACHINE CONTROL SYSTEMS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 331",
+            "course_name": "COMPUTER AIDED DESIGN",
+            "description": "AM-UY  331 COMPUTER AIDED DESIGN",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 332",
+            "course_name": "COMP GRAPHICS IN C.A.D.",
+            "description": "AM-UY  332 COMP GRAPHICS IN C.A.D.",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 333",
+            "course_name": "PARTIAL DIFFERENT EQUATION",
+            "description": "AM-UY  333 PARTIAL DIFFERENT EQUATION",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 337",
+            "course_name": "INTRO TO ROBOTICS",
+            "description": "AM-UY  337 INTRO TO ROBOTICS",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 341",
+            "course_name": "INTRO TO AERODESIGN",
+            "description": "AM-UY  341 INTRO TO AERODESIGN",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 342",
+            "course_name": "AIRCRAFT DESIGN I",
+            "description": "AM-UY  342 AIRCRAFT DESIGN I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 343",
+            "course_name": "AIRCRAFT DESIGN II",
+            "description": "AM-UY  343 AIRCRAFT DESIGN II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 344",
+            "course_name": "SPACECRAFT DESIGN",
+            "description": "AM-UY  344 SPACECRAFT DESIGN",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 350",
+            "course_name": "FLUIDS LAB",
+            "description": "AM-UY  350 FLUIDS LAB",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 351",
+            "course_name": "ME LAB I",
+            "description": "AM-UY  351 ME LAB I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 352",
+            "course_name": "ME LAB II",
+            "description": "AM-UY  352 ME LAB II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 353",
+            "course_name": "ME LAB III",
+            "description": "AM-UY  353 ME LAB III",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 361",
+            "course_name": "ME PROJECT PROPOSAL",
+            "description": "AM-UY  361 ME PROJECT PROPOSAL",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 362",
+            "course_name": "ME PROJECT",
+            "description": "AM-UY  362 ME PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 363",
+            "course_name": "ME PROJECT OR STUDY",
+            "description": "AM-UY  363 ME PROJECT OR STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 365",
+            "course_name": "ME PROJECT",
+            "description": "AM-UY  365 ME PROJECT",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 366",
+            "course_name": "ME PROJECT OR STUDY",
+            "description": "AM-UY  366 ME PROJECT OR STUDY",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 381",
+            "course_name": "SR HONORS WORK IN ME I",
+            "description": "AM-UY  381 SR HONORS WORK IN ME I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 382",
+            "course_name": "SENIOR HONORS WORK/ME 2",
+            "description": "AM-UY  382 SENIOR HONORS WORK/ME 2",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 383",
+            "course_name": "SR HONORS WORK IN AE I",
+            "description": "AM-UY  383 SR HONORS WORK IN AE I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 384",
+            "course_name": "SENIOR HONORS WORK/AE 2",
+            "description": "AM-UY  384 SENIOR HONORS WORK/AE 2",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 391",
+            "course_name": "GUIDED STUDIES IN ME I",
+            "description": "AM-UY  391 GUIDED STUDIES IN ME I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 392",
+            "course_name": "GUIDED STUDIES IN ME II",
+            "description": "AM-UY  392 GUIDED STUDIES IN ME II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 393",
+            "course_name": "GUIDED STUDIES IN AE I",
+            "description": "AM-UY  393 GUIDED STUDIES IN AE I",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 394",
+            "course_name": "GUIDED STUDIES IN AE II",
+            "description": "AM-UY  394 GUIDED STUDIES IN AE II",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 450",
+            "course_name": "SYST DES & SOC PROB",
+            "description": "AM-UY  450 SYST DES & SOC PROB",
+            "offering": false
+        },
+        {
+            "course_id": "AM-UY 451",
+            "course_name": "SYS DES & SOC PROB 2",
+            "description": "AM-UY  451 SYS DES & SOC PROB 2",
+            "offering": false
+        }
+    ]
+}

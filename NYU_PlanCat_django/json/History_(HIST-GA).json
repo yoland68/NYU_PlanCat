@@ -1,0 +1,3946 @@
+{
+    "major_id": "HIST-GA",
+    "file": "./2015-2016/History_(HIST-GA).html",
+    "courses": [
+        {
+            "course_id": "HIST-GA 531",
+            "course_name": "Egypt in Modern Times",
+            "description": "HIST-GA  531 Egypt in Modern Times",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1000",
+            "course_name": "Culture & Society in 19th C Europe",
+            "description": "HIST-GA 1000 Culture & Society in 19th C Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1001",
+            "course_name": "Topics Colloquium",
+            "description": "HIST-GA 1001 Topics Colloquium",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1002",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2295",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "20CS 4CONF"
+                }
+            ],
+            "course_name": "Topics SeminarSecurity and Freedom in Historical and Theoretical",
+            "description": "HIST-GA 1002 Topics SeminarSecurity and Freedom in Historical and Theoretical",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1010",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1506",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Mon 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Wosh, Peter"
+                }
+            ],
+            "course_name": "Introduction to Archives",
+            "description": "HIST-GA 1010 Introduction to Archives \nIntroduction to the theoretical and methodological issues involving archives, historical documentation, and historical resources.  Focuses on the history of records and record keeping, development of archival theory, appraisal, arrangement and description, reference, legal and ethical issues, and current trends in the profession.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1011",
+            "course_name": "Digital Archives",
+            "description": "HIST-GA 1011 Digital Archives",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1012",
+            "course_name": "Intro Historical Editing",
+            "description": "HIST-GA 1012 Intro Historical Editing \nIntroduces students to the theories, practices, and problems involved in editing and publishing historical documentary editions.  Students develop their own documentary editions complete with prefatory material, transcriptions, annotations, and calendars.  Focuses especially on project leadership and includes an electronic edition component.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1013",
+            "course_name": "Mexico Since 1810",
+            "description": "HIST-GA 1013 Mexico Since 1810",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1021",
+            "course_name": "Indust & Wrkng Class in Comparat Perp to 1870",
+            "description": "HIST-GA 1021 Indust & Wrkng Class in Comparat Perp to 1870",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1022",
+            "course_name": "Indtlztn/Wrk Cla Snc 187",
+            "description": "HIST-GA 1022 Indtlztn/Wrk Cla Snc 187 \nStudy of the transition from a maturing to a late society in Europe and the United States. Examines economic pressures, technological developments, entrepreneurial policies, ethnic and national subcultures, and emergence of urban and state institutions as they relate to the social history of the working class, the labor movement, and class consciousness.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1023",
+            "course_name": "Digital Methods in Historical Inquiry",
+            "description": "HIST-GA 1023 Digital Methods in Historical Inquiry \nFocuses on the ideas, techniques, and complexities of creating digital history texts and web sites.  Introduction to the digitization process, with an emphasis on standards and best practices for creating digital projects in an archival or public history setting.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1030",
+            "course_name": "Pop Politics & Rebellion in Lat Amer & Caribbean",
+            "description": "HIST-GA 1030 Pop Politics & Rebellion in Lat Amer & Caribbean",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1040",
+            "course_name": "Europe'S Rltnshp Africa Since Class Antiquity",
+            "description": "HIST-GA 1040 Europe'S Rltnshp Africa Since Class Antiquity",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1041",
+            "course_name": "Ancient Africa",
+            "description": "HIST-GA 1041 Ancient Africa",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1050",
+            "course_name": "Environmental History",
+            "description": "HIST-GA 1050 Environmental History \nAnalyzes monographs in the field, drawn from all geographical areas, dealing with major theoretical issues.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1052",
+            "course_name": "The Material Culture of American Life, 1800-2000",
+            "description": "HIST-GA 1052 The Material Culture of American Life, 1800-2000",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1053",
+            "course_name": "Hist of Byzantine Empire 867-1453",
+            "description": "HIST-GA 1053 Hist of Byzantine Empire 867-1453",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1055",
+            "course_name": "Hist of SCI: Early Mod Years",
+            "description": "HIST-GA 1055 Hist of SCI: Early Mod Years",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1056",
+            "course_name": "Health/Med/Soc Snc 1800",
+            "description": "HIST-GA 1056 Health/Med/Soc Snc 1800",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1057",
+            "course_name": "Hist of Sexuality in The U.S.",
+            "description": "HIST-GA 1057 Hist of Sexuality in The U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1058",
+            "course_name": "Darwinian Revolution",
+            "description": "HIST-GA 1058 Darwinian Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1061",
+            "course_name": "Tpcs American Foreign Policy:",
+            "description": "HIST-GA 1061 Tpcs American Foreign Policy:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1100",
+            "course_name": "Lit of The Field Medieva",
+            "description": "HIST-GA 1100 Lit of The Field Medieva",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1109",
+            "course_name": "Class Tradtn On Mid Ages",
+            "description": "HIST-GA 1109 Class Tradtn On Mid Ages",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2144",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Needham, Todd; St John, Rachel C"
+                }
+            ],
+            "course_name": "Literature of The Field:Modern Europe",
+            "description": "HIST-GA 1110 Literature of The Field:Modern Europe",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1112",
+            "course_name": "Crucible of Europe:6th C to 1100",
+            "description": "HIST-GA 1112 Crucible of Europe:6th C to 1100",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1113",
+            "course_name": "Medieval Synthesis:Europ from 1100-1300",
+            "description": "HIST-GA 1113 Medieval Synthesis:Europ from 1100-1300",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1114",
+            "course_name": "Harvest of The Mid Ages: 1250-1450",
+            "description": "HIST-GA 1114 Harvest of The Mid Ages: 1250-1450",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1115",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17279",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Bedos-Rezak, Brigitte"
+                }
+            ],
+            "course_name": "Historical Anthropology of The Middle Ages",
+            "description": "HIST-GA 1115 Historical Anthropology of The Middle Ages",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1116",
+            "course_name": "Medieval France",
+            "description": "HIST-GA 1116 Medieval France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1117",
+            "course_name": "Medieval France",
+            "description": "HIST-GA 1117 Medieval France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1118",
+            "course_name": "Age of Charles The V",
+            "description": "HIST-GA 1118 Age of Charles The V",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1119",
+            "course_name": "Women &The Book: Scribe/ Artist/Leader Antiq-14C",
+            "description": "HIST-GA 1119 Women &The Book: Scribe/ Artist/Leader Antiq-14C",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1120",
+            "course_name": "Societies & Culture of Medieval France",
+            "description": "HIST-GA 1120 Societies & Culture of Medieval France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1121",
+            "course_name": "Marginality in The Mid Ages",
+            "description": "HIST-GA 1121 Marginality in The Mid Ages",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1122",
+            "course_name": "Central Middle Ages",
+            "description": "HIST-GA 1122 Central Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1124",
+            "course_name": "Nationalism in Greece & The Balkans",
+            "description": "HIST-GA 1124 Nationalism in Greece & The Balkans \nExamines how the major developments in modern European history from the Enlightenment and state formation to the post-1945 era were manifested in ?peripheral? and ?small? European nation-states by using Greece as a case study.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1125",
+            "course_name": "Hist of/Byzantine Empire 867 - 1453",
+            "description": "HIST-GA 1125 Hist of/Byzantine Empire 867 - 1453",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1126",
+            "course_name": "Rulers and Ruled in Imperial Rome and Byzantium",
+            "description": "HIST-GA 1126 Rulers and Ruled in Imperial Rome and Byzantium",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1139",
+            "course_name": "Beyond Objects:The Medieval Experience of Materials and Materiality",
+            "description": "HIST-GA 1139 Beyond Objects:The Medieval Experience of Materials and Materiality",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1140",
+            "course_name": "R.C. Church 1200-1600",
+            "description": "HIST-GA 1140 R.C. Church 1200-1600",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1141",
+            "course_name": "Paleography (Medieval England)",
+            "description": "HIST-GA 1141 Paleography (Medieval England)",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1142",
+            "course_name": "War & Society",
+            "description": "HIST-GA 1142 War & Society",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1143",
+            "course_name": "Global and Comparative History",
+            "description": "HIST-GA 1143 Global and Comparative History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1144",
+            "course_name": "State Theory & The Historical State",
+            "description": "HIST-GA 1144 State Theory & The Historical State \nApproaches to the theory and practice of early modern and modern state formation. An early emphasis on political philosophy and critical theory yields to a focus on historical case studies from across Europe and the European colonies.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1145",
+            "course_name": "Cultural History in Perspective",
+            "description": "HIST-GA 1145 Cultural History in Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1146",
+            "course_name": "Tpcs: Phil & Pol Cult: Heidegger &Merleau-Ponty",
+            "description": "HIST-GA 1146 Tpcs: Phil & Pol Cult: Heidegger &Merleau-Ponty",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1150",
+            "course_name": "Lit of The Field: Early Modern Europe",
+            "description": "HIST-GA 1150 Lit of The Field: Early Modern Europe \nSurveys major literature and historiographical issues in the early modern field.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1151",
+            "course_name": "Lit of Field:",
+            "description": "HIST-GA 1151 Lit of Field:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1152",
+            "course_name": "Orig & Cult of The Renaissance",
+            "description": "HIST-GA 1152 Orig & Cult of The Renaissance",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1153",
+            "course_name": "Pol Soc/15th C Europe",
+            "description": "HIST-GA 1153 Pol Soc/15th C Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1154",
+            "course_name": "Elite Cult & Popular Cult Ear Mod Europe",
+            "description": "HIST-GA 1154 Elite Cult & Popular Cult Ear Mod Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1155",
+            "course_name": "Europe Post Black Death: Lt Medieval Modern",
+            "description": "HIST-GA 1155 Europe Post Black Death: Lt Medieval Modern",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1156",
+            "course_name": "What is Europe?",
+            "description": "HIST-GA 1156 What is Europe? \nConsiders both the political and intellectual history of Europe?s division between Eastern Europe and Western Europe, from the 18th century to the present.  Course material includes travel Considers both the political and intellectual history of Europe?s division between Eastern Europe and Western Europe, from the 18th century to the present.  Course material includes travel writing, mental mapping, the Iron Curtain, and the history of the European Union.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1163",
+            "course_name": "Family, State, & Society in Early Modern Atlantic",
+            "description": "HIST-GA 1163 Family, State, & Society in Early Modern Atlantic \nThis readings colloquium assays current thinking on the historical relationship between the family and the state while exploring the varied understandings of this relationship that colonial peoples of North America?Europeans, Africans, and Native Americans?brought to the process of nation building.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1164",
+            "course_name": "Topics in 18 th C. French Revolution",
+            "description": "HIST-GA 1164 Topics in 18 th C. French Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1165",
+            "course_name": "Modernism-Structuralism",
+            "description": "HIST-GA 1165 Modernism-Structuralism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1173",
+            "course_name": "Industrial Revolution in Europe",
+            "description": "HIST-GA 1173 Industrial Revolution in Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1185",
+            "course_name": "Court & Civic Cult in Renaissance Italy",
+            "description": "HIST-GA 1185 Court & Civic Cult in Renaissance Italy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1191",
+            "course_name": "Topics in European History",
+            "description": "HIST-GA 1191 Topics in European History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1192",
+            "course_name": "Europe and The International Order",
+            "description": "HIST-GA 1192 Europe and The International Order",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1193",
+            "course_name": "European Intellectual History, 1945-1970",
+            "description": "HIST-GA 1193 European Intellectual History, 1945-1970",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1194",
+            "course_name": "European Intellectual History, 1918-1945",
+            "description": "HIST-GA 1194 European Intellectual History, 1918-1945 \nInterplays the specific cultural-historical context of interwar Europe (in particular France in the late Third Republic and Weimar Germany, but also to a lesser extent Austria, Italy, and early Soviet Russia) with trends of philosophical, literary, and political writing of the period. Certain themes or figures will guide the choice of texts, e.g. authority, subjectivity, violence, sovereignty.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1195",
+            "course_name": "M.a. Sem: Lit & Politics in Modern China",
+            "description": "HIST-GA 1195 M.a. Sem: Lit & Politics in Modern China",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1196",
+            "course_name": "Euro Fascism in Compara Perspective",
+            "description": "HIST-GA 1196 Euro Fascism in Compara Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1198",
+            "course_name": "Law & Politics in Europe Since 1890",
+            "description": "HIST-GA 1198 Law & Politics in Europe Since 1890",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1200",
+            "course_name": "Lit of The Field: Mod Latin American History",
+            "description": "HIST-GA 1200 Lit of The Field: Mod Latin American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1201",
+            "course_name": "Lit of The Field:",
+            "description": "HIST-GA 1201 Lit of The Field: \nSurvey of the major literature and historiographical issues in the modern European field.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1202",
+            "course_name": "Lit of The Field:",
+            "description": "HIST-GA 1202 Lit of The Field:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1203",
+            "course_name": "Modern European Cities",
+            "description": "HIST-GA 1203 Modern European Cities",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1208",
+            "course_name": "The Era of Napoleon",
+            "description": "HIST-GA 1208 The Era of Napoleon",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1209",
+            "course_name": "19th Century France",
+            "description": "HIST-GA 1209 19th Century France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1210",
+            "course_name": "20th Century France",
+            "description": "HIST-GA 1210 20th Century France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1211",
+            "course_name": "Cultural Hist of France:",
+            "description": "HIST-GA 1211 Cultural Hist of France:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1212",
+            "course_name": "French Cultural History Since 1870",
+            "description": "HIST-GA 1212 French Cultural History Since 1870",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1213",
+            "course_name": "France & The Marhreb",
+            "description": "HIST-GA 1213 France & The Marhreb",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1215",
+            "course_name": "Intro Gender Politics II",
+            "description": "HIST-GA 1215 Intro Gender Politics II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1222",
+            "course_name": "Scty/Cult/Pltcs in Cont Italy",
+            "description": "HIST-GA 1222 Scty/Cult/Pltcs in Cont Italy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1223",
+            "course_name": "Tpcs Modern Pol Phil: from Hegel to Marx",
+            "description": "HIST-GA 1223 Tpcs Modern Pol Phil: from Hegel to Marx",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1224",
+            "course_name": "Chinese Philosophy in Chinese",
+            "description": "HIST-GA 1224 Chinese Philosophy in Chinese",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1225",
+            "course_name": "Hist of Italian Poltcl System",
+            "description": "HIST-GA 1225 Hist of Italian Poltcl System",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1235",
+            "course_name": "Spain Since 1808",
+            "description": "HIST-GA 1235 Spain Since 1808",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1251",
+            "course_name": "European Diplomacy of The 19th Century",
+            "description": "HIST-GA 1251 European Diplomacy of The 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1252",
+            "course_name": "Dipl Hist/Euro in 20th C",
+            "description": "HIST-GA 1252 Dipl Hist/Euro in 20th C",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1253",
+            "course_name": "Women in Euro Soc/Polit",
+            "description": "HIST-GA 1253 Women in Euro Soc/Polit \nExplores main themes of and principal approaches to European women?s history from the late 18th century through World War II. Readings focus on Britain, France, Germany, and Russia.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1255",
+            "course_name": "Hist of Contemp Cities: Comp & Global Perspect",
+            "description": "HIST-GA 1255 Hist of Contemp Cities: Comp & Global Perspect",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1256",
+            "course_name": "Black Women'S Political History",
+            "description": "HIST-GA 1256 Black Women'S Political History \nExamines black women?s conceptions of, and presence in, the public or political realm from the antebellum era through the 1960s. Investigates the ways in which black women defined the public and political.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1270",
+            "course_name": "The Holocaust & European Jewry",
+            "description": "HIST-GA 1270 The Holocaust & European Jewry",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1271",
+            "course_name": "Lower East Side American Jewish Memory",
+            "description": "HIST-GA 1271 Lower East Side American Jewish Memory \nThis course explores the disjunction between the history of arguably the most important Jewish neighborhood in America and the subsequent memory culture which developed after its demise.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1273",
+            "course_name": "Mediv Heb Hist Texts",
+            "description": "HIST-GA 1273 Mediv Heb Hist Texts",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1274",
+            "course_name": "Politics & Society in Germany 1870-1945",
+            "description": "HIST-GA 1274 Politics & Society in Germany 1870-1945",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1275",
+            "course_name": "Medieval Ashkenazic Jewr",
+            "description": "HIST-GA 1275 Medieval Ashkenazic Jewr",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1276",
+            "course_name": "Hist of Jews:19 & 20th C",
+            "description": "HIST-GA 1276 Hist of Jews:19 & 20th C",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1277",
+            "course_name": "Modern Jewish Thought",
+            "description": "HIST-GA 1277 Modern Jewish Thought",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1278",
+            "course_name": "Jewish Historiography",
+            "description": "HIST-GA 1278 Jewish Historiography",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1279",
+            "course_name": "Mod Jew Polit Movements: Poland & America",
+            "description": "HIST-GA 1279 Mod Jew Polit Movements: Poland & America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1280",
+            "course_name": "Hist of American Judaism:",
+            "description": "HIST-GA 1280 Hist of American Judaism: \nOver the course of recent years seminars under the ?Topics? rubric have focused on the history of American Judaism, the history of Jewish women in America, and post-World War II American Jewry.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1281",
+            "course_name": "Jewish Women in America and Europe:  Historical Problemx",
+            "description": "HIST-GA 1281 Jewish Women in America and Europe:  Historical Problemx \nThis comparative course looks at the historical experiences of Jewish women in both Europe and the United States, focusing on work, education, family, communal activism, among other toThis comparative course looks at the historical experiences of Jewish women in both Europe and the United States, focusing on work, education, family, communal activism, among other topics.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1282",
+            "course_name": "Medieval Ashkenazic Jewry",
+            "description": "HIST-GA 1282 Medieval Ashkenazic Jewry",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1283",
+            "course_name": "Jewish Historiography: The Modern Period",
+            "description": "HIST-GA 1283 Jewish Historiography: The Modern Period",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1284",
+            "course_name": "Women & Social Movemnts:",
+            "description": "HIST-GA 1284 Women & Social Movemnts:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1300",
+            "course_name": "The Soviet Union",
+            "description": "HIST-GA 1300 The Soviet Union",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1301",
+            "course_name": "Tsarist Russia",
+            "description": "HIST-GA 1301 Tsarist Russia",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1302",
+            "course_name": "Revol & Soviet Russia",
+            "description": "HIST-GA 1302 Revol & Soviet Russia",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1303",
+            "course_name": "Russian Empire in Comparative Perspectives",
+            "description": "HIST-GA 1303 Russian Empire in Comparative Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1304",
+            "course_name": "Economy & Culture in Comparative Perspectives",
+            "description": "HIST-GA 1304 Economy & Culture in Comparative Perspectives",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1315",
+            "course_name": "Major Russian Authors: Tolstoy Vs Dostoevsky",
+            "description": "HIST-GA 1315 Major Russian Authors: Tolstoy Vs Dostoevsky",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1320",
+            "course_name": "Russia & The Ussr: Modernity in Practice",
+            "description": "HIST-GA 1320 Russia & The Ussr: Modernity in Practice",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1322",
+            "course_name": "From Imperial to Soviet Russia",
+            "description": "HIST-GA 1322 From Imperial to Soviet Russia \nA thematic approach to the problem of continuity in modern Russian history, with an emphasis on the European context of ideology, state formation, economy, and culture.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1323",
+            "course_name": "Russia & Its Disciplines",
+            "description": "HIST-GA 1323 Russia & Its Disciplines",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1325",
+            "course_name": "Pltcl Hist Russ 1796-185",
+            "description": "HIST-GA 1325 Pltcl Hist Russ 1796-185",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1326",
+            "course_name": "Russia: Law and Empire 16th-21st Century",
+            "description": "HIST-GA 1326 Russia: Law and Empire 16th-21st Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1328",
+            "course_name": "Historian & Non-Print Media",
+            "description": "HIST-GA 1328 Historian & Non-Print Media",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1330",
+            "course_name": "Russian Cultural History I",
+            "description": "HIST-GA 1330 Russian Cultural History I",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1401",
+            "course_name": "Medieval England",
+            "description": "HIST-GA 1401 Medieval England",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1407",
+            "course_name": "Polit'L Hist of England 19th Century",
+            "description": "HIST-GA 1407 Polit'L Hist of England 19th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1408",
+            "course_name": "Great Britian Snc 1688",
+            "description": "HIST-GA 1408 Great Britian Snc 1688",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1409",
+            "course_name": "Brit in The 20th Cent:",
+            "description": "HIST-GA 1409 Brit in The 20th Cent:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1410",
+            "course_name": "Northern Irish Conflict",
+            "description": "HIST-GA 1410 Northern Irish Conflict",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1412",
+            "course_name": "London in Lit & History",
+            "description": "HIST-GA 1412 London in Lit & History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1414",
+            "course_name": "Topics in Irish History",
+            "description": "HIST-GA 1414 Topics in Irish History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1415",
+            "course_name": "British & Irish Politics",
+            "description": "HIST-GA 1415 British & Irish Politics",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1416",
+            "course_name": "History Modern Ireland I",
+            "description": "HIST-GA 1416 History Modern Ireland I",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1417",
+            "course_name": "History of Modern Ireland II",
+            "description": "HIST-GA 1417 History of Modern Ireland II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1419",
+            "course_name": "Irish & European Migration to America",
+            "description": "HIST-GA 1419 Irish & European Migration to America \nThis M.A. level course looks at the histories of these two immigrant groups to America in a comparative context, exploring the causes and nature of the migrations, patterns of settlement, work, family, popular culture, as well as American receptions of them.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1421",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17818",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Tue 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Lee, John"
+                }
+            ],
+            "course_name": "Debates in Modern Irish History",
+            "description": "HIST-GA 1421 Debates in Modern Irish History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1425",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17276",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Wed 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Truxes, Thomas"
+                }
+            ],
+            "course_name": "Ireland in The Atlantic World, 1600-1850",
+            "description": "HIST-GA 1425 Ireland in The Atlantic World, 1600-1850",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1431",
+            "course_name": "Sem: Famine & The Irish Diaspora",
+            "description": "HIST-GA 1431 Sem: Famine & The Irish Diaspora",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1435",
+            "course_name": "Cult, Emp, Power: Irish/ Indian Cases Brit Empire",
+            "description": "HIST-GA 1435 Cult, Emp, Power: Irish/ Indian Cases Brit Empire",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1441",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17819",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ERIN 101",
+                    "time": "Thu 3.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Casey, Marion"
+                }
+            ],
+            "course_name": "Topics:History of Irish America",
+            "description": "HIST-GA 1441 Topics:History of Irish America",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1500",
+            "course_name": "Tpcs French Cult Hist:St",
+            "description": "HIST-GA 1500 Tpcs French Cult Hist:St",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1502",
+            "course_name": "Hist of M.E 600-1200",
+            "description": "HIST-GA 1502 Hist of M.E 600-1200",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1503",
+            "course_name": "Hist/Byzantine 284-867",
+            "description": "HIST-GA 1503 Hist/Byzantine 284-867",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1504",
+            "course_name": "History of Byzantium II: 867-1453",
+            "description": "HIST-GA 1504 History of Byzantium II: 867-1453",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1506",
+            "course_name": "Topics in Balkan History",
+            "description": "HIST-GA 1506 Topics in Balkan History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1507",
+            "course_name": "Eur Travelrs to Greece 18th-19th Centuries",
+            "description": "HIST-GA 1507 Eur Travelrs to Greece 18th-19th Centuries",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1511",
+            "course_name": "Egypt in Modern Times",
+            "description": "HIST-GA 1511 Egypt in Modern Times",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1512",
+            "course_name": "The History of Zionism",
+            "description": "HIST-GA 1512 The History of Zionism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1513",
+            "course_name": "Sem in Ottoman Studies",
+            "description": "HIST-GA 1513 Sem in Ottoman Studies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1514",
+            "course_name": "Trading Cultures Early Modern Atl/Ottoman/Qing",
+            "description": "HIST-GA 1514 Trading Cultures Early Modern Atl/Ottoman/Qing",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1517",
+            "course_name": "Rev in Islamic N East",
+            "description": "HIST-GA 1517 Rev in Islamic N East",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1520",
+            "course_name": "Bible Mid Ages & Renaiss",
+            "description": "HIST-GA 1520 Bible Mid Ages & Renaiss",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1521",
+            "course_name": "Topics in Medieval History",
+            "description": "HIST-GA 1521 Topics in Medieval History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1522",
+            "course_name": "Islam in Modern World",
+            "description": "HIST-GA 1522 Islam in Modern World",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1523",
+            "course_name": "Issues & Prob in Jewish History:",
+            "description": "HIST-GA 1523 Issues & Prob in Jewish History:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1525",
+            "course_name": "Hist of Contemp Israel",
+            "description": "HIST-GA 1525 Hist of Contemp Israel",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1526",
+            "course_name": "Top/East European Jewry",
+            "description": "HIST-GA 1526 Top/East European Jewry",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1527",
+            "course_name": "Topics in History",
+            "description": "HIST-GA 1527 Topics in History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1529",
+            "course_name": "History of Muslim Central Asia",
+            "description": "HIST-GA 1529 History of Muslim Central Asia",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1530",
+            "course_name": "History of Arabia, Mecca & The Haj",
+            "description": "HIST-GA 1530 History of Arabia, Mecca & The Haj",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1531",
+            "course_name": "History of Egypt",
+            "description": "HIST-GA 1531 History of Egypt",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1533",
+            "course_name": "Proseminar in Modern Middle East",
+            "description": "HIST-GA 1533 Proseminar in Modern Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1540",
+            "course_name": "Medieval Iran 650-1500",
+            "description": "HIST-GA 1540 Medieval Iran 650-1500",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1541",
+            "course_name": "Modern Iran: 1600- Present",
+            "description": "HIST-GA 1541 Modern Iran: 1600- Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1552",
+            "course_name": "Renaissance Italy",
+            "description": "HIST-GA 1552 Renaissance Italy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1556",
+            "course_name": "Hist/Jews & Judaism Afr Africa Classical Antiq",
+            "description": "HIST-GA 1556 Hist/Jews & Judaism Afr Africa Classical Antiq",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1557",
+            "course_name": "Hist Apartheid S. Africa Since 1652",
+            "description": "HIST-GA 1557 Hist Apartheid S. Africa Since 1652",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1558",
+            "course_name": "Inper/Col/Decoloniz Afr: Hist of Trade W. Africa",
+            "description": "HIST-GA 1558 Inper/Col/Decoloniz Afr: Hist of Trade W. Africa \nAnalysis of the theory and practice of imperialism as it applied to Africa south of the Sahara; the theory and practice of colonial administration in British, French, and Belgian Africa; and the nature of the relationships between the independent African nations and their former colonial masters.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1559",
+            "course_name": "Fabric of West African Civilization",
+            "description": "HIST-GA 1559 Fabric of West African Civilization",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1560",
+            "course_name": "Politics of Decolonizatn",
+            "description": "HIST-GA 1560 Politics of Decolonizatn",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1562",
+            "course_name": "Lit of The Field: African History",
+            "description": "HIST-GA 1562 Lit of The Field: African History \nThis course introduces students to the major themes, scholarly approaches, and sources for African history.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1563",
+            "course_name": "Black Internationalism",
+            "description": "HIST-GA 1563 Black Internationalism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1577",
+            "course_name": "Hist of Apartheid in So Africa Since 1652",
+            "description": "HIST-GA 1577 Hist of Apartheid in So Africa Since 1652",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1600",
+            "course_name": "Literature of The Field:",
+            "description": "HIST-GA 1600 Literature of The Field: \n20th-Century course surveys major literature and historiographical issues in the American field in the 20th century. Colonial Era course surveys major literature and historiographical issues in the American field in the colonial era.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1601",
+            "course_name": "Amer Colonies:",
+            "description": "HIST-GA 1601 Amer Colonies:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1603",
+            "course_name": "Amer Rev & Constitution",
+            "description": "HIST-GA 1603 Amer Rev & Constitution \nStudies the tension between England and the American colonies in a political and social context. Other topics include revolutionary ideology, constitutional conflict, the War of Independence, the framing of new state government, and the debate over the federal Constitution.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1604",
+            "course_name": "Pol Ideas/Cult 1750-1930",
+            "description": "HIST-GA 1604 Pol Ideas/Cult 1750-1930",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1605",
+            "course_name": "The New Nation,1776-1850",
+            "description": "HIST-GA 1605 The New Nation,1776-1850",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1606",
+            "course_name": "Jacksonian America",
+            "description": "HIST-GA 1606 Jacksonian America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1607",
+            "course_name": "Race, Civil War & Reconstruction",
+            "description": "HIST-GA 1607 Race, Civil War & Reconstruction",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1608",
+            "course_name": "The Gilded Age,1877-1900",
+            "description": "HIST-GA 1608 The Gilded Age,1877-1900",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1610",
+            "course_name": "Lit of The Field:",
+            "description": "HIST-GA 1610 Lit of The Field: \nSurveys the major literature and historiographical issues in the American field in the 19th century.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1611",
+            "course_name": "History The American South",
+            "description": "HIST-GA 1611 History The American South",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1612",
+            "course_name": "U.S./20th Cent to 1945:",
+            "description": "HIST-GA 1612 U.S./20th Cent to 1945:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1613",
+            "course_name": "The Culture Wars in American History",
+            "description": "HIST-GA 1613 The Culture Wars in American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1614",
+            "course_name": "American History, 1750- 1930",
+            "description": "HIST-GA 1614 American History, 1750- 1930",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1615",
+            "course_name": "Topics in American History",
+            "description": "HIST-GA 1615 Topics in American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1620",
+            "course_name": "20th Century France",
+            "description": "HIST-GA 1620 20th Century France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1625",
+            "course_name": "Tpc/Hist of SCI, Medicin and Technology",
+            "description": "HIST-GA 1625 Tpc/Hist of SCI, Medicin and Technology",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1626",
+            "course_name": "The History of Science and Technology",
+            "description": "HIST-GA 1626 The History of Science and Technology",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1630",
+            "course_name": "American Legal History",
+            "description": "HIST-GA 1630 American Legal History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1631",
+            "course_name": "Legal Thought in American History",
+            "description": "HIST-GA 1631 Legal Thought in American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1632",
+            "course_name": "English Legal History",
+            "description": "HIST-GA 1632 English Legal History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1634",
+            "course_name": "Leaders & Revolution in Modern Middle East",
+            "description": "HIST-GA 1634 Leaders & Revolution in Modern Middle East",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1641",
+            "course_name": "Islamic M.E. 1200-1800",
+            "description": "HIST-GA 1641 Islamic M.E. 1200-1800",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1642",
+            "course_name": "Hist of Mid East: 1750- Present",
+            "description": "HIST-GA 1642 Hist of Mid East: 1750- Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1643",
+            "course_name": "Literature of The Field: Modern Mideast History",
+            "description": "HIST-GA 1643 Literature of The Field: Modern Mideast History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1646",
+            "course_name": "Tpcs Med Hist:",
+            "description": "HIST-GA 1646 Tpcs Med Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1647",
+            "course_name": "Communities of Knowledge Identities & Histories",
+            "description": "HIST-GA 1647 Communities of Knowledge Identities & Histories",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1648",
+            "course_name": "Medieval Historical Text",
+            "description": "HIST-GA 1648 Medieval Historical Text",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1651",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17269",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Peirce, Leslie"
+                }
+            ],
+            "course_name": "The Ottoman Empire in Europe, 1350-1750",
+            "description": "HIST-GA 1651 The Ottoman Empire in Europe, 1350-1750",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1652",
+            "course_name": "Late Ottoman Empire",
+            "description": "HIST-GA 1652 Late Ottoman Empire",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1653",
+            "course_name": "Sem in Mod M.E Hist I",
+            "description": "HIST-GA 1653 Sem in Mod M.E Hist I",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1654",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17938",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "KEVO LL1"
+                }
+            ],
+            "course_name": "Seminar in Modern Middle East II",
+            "description": "HIST-GA 1654 Seminar in Modern Middle East II",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1687",
+            "course_name": "Prob & Meth in Mid East Stdies",
+            "description": "HIST-GA 1687 Prob & Meth in Mid East Stdies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1701",
+            "course_name": "Intellectual Hist of US 1830-1890",
+            "description": "HIST-GA 1701 Intellectual Hist of US 1830-1890",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1702",
+            "course_name": "Intellect Hist of U.S. Since 1890",
+            "description": "HIST-GA 1702 Intellect Hist of U.S. Since 1890",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1720",
+            "course_name": "Echoes of Antiquity",
+            "description": "HIST-GA 1720 Echoes of Antiquity",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1722",
+            "course_name": "Amer Soc Hist: Labor Question Fr 1750-1950",
+            "description": "HIST-GA 1722 Amer Soc Hist: Labor Question Fr 1750-1950",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1730",
+            "course_name": "",
+            "description": "HIST-GA 1730\n\n   Global Encounters 1300-1800\n\nThe general aim of this course is to study global interactions between various societies from 1300 to 1800, a period during which peoples from all continents encountered one another in conditions of both cooperation and collision. Topics include comparative notions of empire and colonial practices; the ideas and beliefs each society held about themselves and ?others? and the things and conventions that gave them such identities: language, color, ethnicity, kinship, religion, and so on. Throughout the course, students also study the structure of each society?s thought; the categories of analysi...\n\n      more description for HIST-GA 1730 \u00bb\n\n      \n\n\n\nThe general aim of this course is to study global interactions between various societies from 1300 to 1800, a period during which peoples from all continents encountered one another in conditions of both cooperation and collision. Topics include comparative notions of empire and colonial practices; the ideas and beliefs each society held about themselves and ?others? and the things and conventions that gave them such identities: language, color, ethnicity, kinship, religion, and so on. Throughout the course, students also study the structure of each society?s thought; the categories of analysis used in encounters with other societies; and how interactions and the language used to characterize others changed over time. Other topics include trade between various societies; the creation of colonial societies; slavery: evolution, concepts, and its influence in the creation of racial theories; diaspora in history and its influence in the various societies affected by migratory movements.\n\n      less description for HIST-GA 1730 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1731",
+            "course_name": "Spec Tpcs E. Asian Hist:",
+            "description": "HIST-GA 1731 Spec Tpcs E. Asian Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1732",
+            "course_name": "Hist Amer Foreign Policy Since 1914",
+            "description": "HIST-GA 1732 Hist Amer Foreign Policy Since 1914",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1733",
+            "course_name": "European-U.S. Relations 1945-1996",
+            "description": "HIST-GA 1733 European-U.S. Relations 1945-1996",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1736",
+            "course_name": "Tpcs in US Foreign Pol: Emerge of US as a World",
+            "description": "HIST-GA 1736 Tpcs in US Foreign Pol: Emerge of US as a World",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1737",
+            "course_name": "U S East Asian Relations",
+            "description": "HIST-GA 1737 U S East Asian Relations",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1738",
+            "course_name": "Tpcs in American Foreign Policy 1941-1949",
+            "description": "HIST-GA 1738 Tpcs in American Foreign Policy 1941-1949",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1739",
+            "course_name": "Transnational Approaches to American History",
+            "description": "HIST-GA 1739 Transnational Approaches to American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1740",
+            "course_name": "History of Saudi Arabia",
+            "description": "HIST-GA 1740 History of Saudi Arabia",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1742",
+            "course_name": "U.S. Economic History",
+            "description": "HIST-GA 1742 U.S. Economic History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1747",
+            "course_name": "Capitalism and History",
+            "description": "HIST-GA 1747 Capitalism and History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1750",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1507",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Wed 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Wosh, Peter"
+                }
+            ],
+            "course_name": "Introduction to Public History",
+            "description": "HIST-GA 1750 Introduction to Public History \nReviews the history of public history from the early twentieth century through the present, focusing on historians? relationships, dialogues, and collaborations with public audiences.  Considers issues involving memory, identity, heritage, commemoration, historic preservation, history museums, oral history, film, and digital history.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1751",
+            "course_name": "Public Hist II:",
+            "description": "HIST-GA 1751 Public Hist II:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1752",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17268",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Malin, Gwynneth"
+                }
+            ],
+            "course_name": "Local & Community Hist",
+            "description": "HIST-GA 1752 Local & Community Hist \nExplores changing definitions of ?local? and ?community? in light of contemporary historical interpretations.  Focuses especially on differing historical methodologies and their impact on collecting and public history projects, considering such topics as unconventional evidence, material culture, museum interpretation, historical sites, and historical societies.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1753",
+            "course_name": "History & Public Policy",
+            "description": "HIST-GA 1753 History & Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1754",
+            "course_name": "Public Prob:Intro to Educ & Public Policy",
+            "description": "HIST-GA 1754 Public Prob:Intro to Educ & Public Policy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1755",
+            "course_name": "Media & History",
+            "description": "HIST-GA 1755 Media & History \nReviews efforts at dramatization and documentaries for radio, television, film, and print media.  Considers the historical implications of media production and allows students to conceptualize projects and research in a variety of media formats.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1756",
+            "course_name": "Cult/Consumpt Mat Life, Built Envir in Amer",
+            "description": "HIST-GA 1756 Cult/Consumpt Mat Life, Built Envir in Amer",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1757",
+            "course_name": "Approaches to Public History",
+            "description": "HIST-GA 1757 Approaches to Public History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1761",
+            "course_name": "Historical Thinking: Women & Gender in U.S.",
+            "description": "HIST-GA 1761 Historical Thinking: Women & Gender in U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1762",
+            "course_name": "Top Amer Women'S Hist:",
+            "description": "HIST-GA 1762 Top Amer Women'S Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1763",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2151",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Approaches to History of Women and Gender",
+            "description": "HIST-GA 1763 Approaches to History of Women and Gender",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1764",
+            "course_name": "Topics in Women & Gender:",
+            "description": "HIST-GA 1764 Topics in Women & Gender:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1767",
+            "course_name": "The West in American History",
+            "description": "HIST-GA 1767 The West in American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1769",
+            "course_name": "Hist/Amer Women & Work",
+            "description": "HIST-GA 1769 Hist/Amer Women & Work",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1771",
+            "course_name": "19th C Amer Soc History",
+            "description": "HIST-GA 1771 19th C Amer Soc History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1772",
+            "course_name": "Tpcs in American Social History",
+            "description": "HIST-GA 1772 Tpcs in American Social History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1773",
+            "course_name": "Society & Culture in 20th Century America",
+            "description": "HIST-GA 1773 Society & Culture in 20th Century America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1774",
+            "course_name": "History of American Medicine",
+            "description": "HIST-GA 1774 History of American Medicine",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1775",
+            "course_name": "Media in History",
+            "description": "HIST-GA 1775 Media in History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1776",
+            "course_name": "Ny An Immigrant City",
+            "description": "HIST-GA 1776 Ny An Immigrant City",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1777",
+            "course_name": "History of Higher Ed",
+            "description": "HIST-GA 1777 History of Higher Ed",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1778",
+            "course_name": "Hist of Amer Higher Educ",
+            "description": "HIST-GA 1778 Hist of Amer Higher Educ",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1780",
+            "course_name": "Vernacular Performance",
+            "description": "HIST-GA 1780 Vernacular Performance",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1781",
+            "course_name": "History of Education in The U.S.",
+            "description": "HIST-GA 1781 History of Education in The U.S. \nExamines the major themes, developments, and dilemmas of educational history in the United States. How have historians defined and explored American education? What are the major achievements and weaknesses of the field?",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1782",
+            "course_name": "African American History",
+            "description": "HIST-GA 1782 African American History \nBroad exposure to African American history. Begins with a historiographical introduction, describing the growth and development of the field, and moves to a major theme and period treatment ranging from ancient Africa to the civil rights movement. Provides an understanding of the field and a foundation for specialized course work and research.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1783",
+            "course_name": "Changing Foundations of The Contemporary Univ.",
+            "description": "HIST-GA 1783 Changing Foundations of The Contemporary Univ.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1784",
+            "course_name": "Topics in African Hist",
+            "description": "HIST-GA 1784 Topics in African Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1785",
+            "course_name": "Conceptualizing The African Diaspora",
+            "description": "HIST-GA 1785 Conceptualizing The African Diaspora \nA colloquium concerned with the ways in which the African diaspora has been (and is being) theorized; that is, the conceptual and methodological frameworks within which the African diaspora has been located, and by which the imaginary has been approached. Specifically, the field is considered in connection with and through insights provided by studies of the subaltern and cultural, theories of feminism and hybridity and creolization, black radical internationalism, etc.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1789",
+            "course_name": "Women in 20th Cent Amer",
+            "description": "HIST-GA 1789 Women in 20th Cent Amer",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1800",
+            "course_name": "Topics in Latin America:",
+            "description": "HIST-GA 1800 Topics in Latin America:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1801",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17270",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Gomez, Michael"
+                }
+            ],
+            "course_name": "Lit of Field:African Diaspora",
+            "description": "HIST-GA 1801 Lit of Field:African Diaspora",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 1802",
+            "course_name": "Lit of The Fld:Lat Amer from 1824 to Present",
+            "description": "HIST-GA 1802 Lit of The Fld:Lat Amer from 1824 to Present \nIntroduction to historiography of postindependence Latin America. Focuses on topics such as the integration of Latin America into the world capitalist trade and investment system, evolution of rural and urban labor systems and movements, liberalism, nationalism, U.S.-Latin American relations, and revolutionary movements.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1803",
+            "course_name": "African Amer & Native Amer in North America",
+            "description": "HIST-GA 1803 African Amer & Native Amer in North America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1804",
+            "course_name": "Africn-Amer Intellectual Hist Fm Victorns to Pres",
+            "description": "HIST-GA 1804 Africn-Amer Intellectual Hist Fm Victorns to Pres",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1805",
+            "course_name": "",
+            "description": "HIST-GA 1805\n\n   The Haitian Revolution & The Atlantic World\n\nThis course focuses on one of the most important and radical revolutions of the modern world. We begin with classic and more recent perspectives on the revolution itself in an attempt to understand its origins, character, course, and legacies in Haiti from the period of 1789 through the immediate post independence (1804) period. The second focus of the course is on the revolution?s repercussions and impact outside the borders of the French colony, throughout the Atlantic World. Third, we address the question of literary, cinematic, and academic representations of the revolution, its protagonis...\n\n      more description for HIST-GA 1805 \u00bb\n\n      \n\n\n\nThis course focuses on one of the most important and radical revolutions of the modern world. We begin with classic and more recent perspectives on the revolution itself in an attempt to understand its origins, character, course, and legacies in Haiti from the period of 1789 through the immediate post independence (1804) period. The second focus of the course is on the revolution?s repercussions and impact outside the borders of the French colony, throughout the Atlantic World. Third, we address the question of literary, cinematic, and academic representations of the revolution, its protagonists, and its legacies.\n\n      less description for HIST-GA 1805 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1806",
+            "course_name": "Islam and The West: Diplomacy & Trade",
+            "description": "HIST-GA 1806 Islam and The West: Diplomacy & Trade",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1807",
+            "course_name": "Latin America 1824-1930",
+            "description": "HIST-GA 1807 Latin America 1824-1930",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1808",
+            "course_name": "Lat Amer:1930 to Present",
+            "description": "HIST-GA 1808 Lat Amer:1930 to Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1809",
+            "course_name": "",
+            "description": "HIST-GA 1809\n\n   Slavery, Colonialism & Revolution in The Caribb\n\nIntroduction to the major themes and debates of colonial Caribbean history. Begins with the reading of general works on the Caribbean: selections from major texts and classic essays by historians, anthropologists, and literary critics arguing the case for the study of the Caribbean as a unit of analysis. From there, goes on to consider the central themes of the region and the period: slavery, capitalism, and emancipation; colonialism, revolution, and imperialism; nationalism and race. Themes are studied from a variety of approaches and perspectives, from very local microhistorical studies to c...\n\n      more description for HIST-GA 1809 \u00bb\n\n      \n\n\n\nIntroduction to the major themes and debates of colonial Caribbean history. Begins with the reading of general works on the Caribbean: selections from major texts and classic essays by historians, anthropologists, and literary critics arguing the case for the study of the Caribbean as a unit of analysis. From there, goes on to consider the central themes of the region and the period: slavery, capitalism, and emancipation; colonialism, revolution, and imperialism; nationalism and race. Themes are studied from a variety of approaches and perspectives, from very local microhistorical studies to comparative ones to more sweeping global treatments. Throughout, an attempt is mIntroduction to the major themes and debates of colonial Caribbean history. Begins with the reading of general works on the Caribbean: selections from major texts and classic essays by historians, anthropologists, and literary critics arguing the case for the study of the Caribbean as a unit of analysis. From there, goes on to consider the central themes of the region and the period: slavery, capitalism, and emancipation; colonialism, revolution, and imperialism; nationalism and race. Themes are studied from a variety of approaches and perspectives, from very local microhistorical studies to comparative ones to more sweeping global treatments. Throughout, an attempt is made to bridge the vertical lines that often separate the study of the different linguistic and imperial Caribbeans.\n\n      less description for HIST-GA 1809 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1810",
+            "course_name": "Hist Latin Amer Women",
+            "description": "HIST-GA 1810 Hist Latin Amer Women",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1811",
+            "course_name": "Problems in Contemporary French Society",
+            "description": "HIST-GA 1811 Problems in Contemporary French Society",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1818",
+            "course_name": "Human Condition in Latin America",
+            "description": "HIST-GA 1818 Human Condition in Latin America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1820",
+            "course_name": "French Soc Since/Revolut",
+            "description": "HIST-GA 1820 French Soc Since/Revolut",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1848",
+            "course_name": "Sclsm/Comm Eur Snc Fr Re",
+            "description": "HIST-GA 1848 Sclsm/Comm Eur Snc Fr Re",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1853",
+            "course_name": "American Culture in The Era of The Mexican War",
+            "description": "HIST-GA 1853 American Culture in The Era of The Mexican War",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1891",
+            "course_name": "Indians in Early America",
+            "description": "HIST-GA 1891 Indians in Early America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1901",
+            "course_name": "Age of Augustine",
+            "description": "HIST-GA 1901 Age of Augustine",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1910",
+            "course_name": "The French Economy Structures & Policies",
+            "description": "HIST-GA 1910 The French Economy Structures & Policies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1916",
+            "course_name": "China & The West",
+            "description": "HIST-GA 1916 China & The West",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1917",
+            "course_name": "Material Culture in Chinese History",
+            "description": "HIST-GA 1917 Material Culture in Chinese History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1919",
+            "course_name": "Topics in Chinese Hist:",
+            "description": "HIST-GA 1919 Topics in Chinese Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1951",
+            "course_name": "Culture & Critique:",
+            "description": "HIST-GA 1951 Culture & Critique:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1980",
+            "course_name": "Neorealism",
+            "description": "HIST-GA 1980 Neorealism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1981",
+            "course_name": "Stds in Italian Culture:",
+            "description": "HIST-GA 1981 Stds in Italian Culture: \nAn exploration of Italian colonialism from the late 19th century through the end of empire. Through readings of travel literature, films, and historical works, we address the meaning of colonialism within Italian history and culture, colonial racial policies and gender identities, and the legacies of colonialism in Italy and in its former colonies.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1982",
+            "course_name": "Italian Fascism",
+            "description": "HIST-GA 1982 Italian Fascism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1985",
+            "course_name": "Italy in World War II",
+            "description": "HIST-GA 1985 Italy in World War II \nItaly from 1940 to 1945, with a focus on cultural and political responses to war and on how the war has been represented in memory. The course is thematic rather than chronological in nature; our sources include reportage, novels, archival documents, memoirs, and non-fiction and feature film as our sources. Ongoing themes will include the meanings of resistance and collaboration; the problematics of testimony, witnessing, and memory; the impact of war on gender roles and identities; and the representation of violence.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1994",
+            "course_name": "Hist Epics/China/Japan",
+            "description": "HIST-GA 1994 Hist Epics/China/Japan",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1995",
+            "course_name": "Japanese Imperialism",
+            "description": "HIST-GA 1995 Japanese Imperialism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1996",
+            "course_name": "The Japanese Colonial Empire",
+            "description": "HIST-GA 1996 The Japanese Colonial Empire",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1997",
+            "course_name": "Post War Japan",
+            "description": "HIST-GA 1997 Post War Japan",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 1998",
+            "course_name": "Economic History of Japan",
+            "description": "HIST-GA 1998 Economic History of Japan",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2000",
+            "course_name": "Lit of Field: Prob in Japanese Hist I",
+            "description": "HIST-GA 2000 Lit of Field: Prob in Japanese Hist I",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2001",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17273",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 717",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Goetz, Rebecca"
+                }
+            ],
+            "course_name": "Lit of Field:",
+            "description": "HIST-GA 2001 Lit of Field:",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2002",
+            "course_name": "Topics in Atlantic History",
+            "description": "HIST-GA 2002 Topics in Atlantic History \nIn this seminar, students pursue independent research projects while meeting as a class to discuss research challenges as represented both by their own research and in common readings.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2005",
+            "course_name": "Topics Modern Japanese History:",
+            "description": "HIST-GA 2005 Topics Modern Japanese History:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2006",
+            "course_name": "Welfare, Citizenship, Gender: Comp & Hist Pers",
+            "description": "HIST-GA 2006 Welfare, Citizenship, Gender: Comp & Hist Pers",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2007",
+            "course_name": "Islam in West Africa",
+            "description": "HIST-GA 2007 Islam in West Africa \nThe course examines Islam?s multiple developments and expressions across the expanse of West Africa, from the seventh century through the present.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2008",
+            "course_name": "Transnational Construct of Race",
+            "description": "HIST-GA 2008 Transnational Construct of Race \nExplores the social, cultural, and political meanings and consequences of racial constructions, with attention to such topics as law, sex, gender, science, and empire. Interrogates North American racial systems in transnational contexts.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2010",
+            "course_name": "Arch,Hist,Soc/Hist Edit Prin & Practicum II",
+            "description": "HIST-GA 2010 Arch,Hist,Soc/Hist Edit Prin & Practicum II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2011",
+            "course_name": "Internship Seminar",
+            "description": "HIST-GA 2011 Internship Seminar \nSeminar setting in which students consider a variety of issues and topics relating to their fieldwork sites and internship venues.  Topics include public policy, historic site interpretation, digital humanities, current archival and museological theory, and leadership in cultural institutions.  Students complete a 120-hour internship/practicum at a cooperating archives or public history site, arranged through the program director.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2012",
+            "course_name": "Oral History",
+            "description": "HIST-GA 2012 Oral History \nFieldwork course that engages the historiographical, theoretical, and methodological issues involving oral history work.  Includes a research and design component, as well as a project implementation module in which students conceive, interview, process, and present oral histories.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2013",
+            "course_name": "Intro to Preservation and Reformatting",
+            "description": "HIST-GA 2013 Intro to Preservation and Reformatting \nOverview of principles and practices of archival preservation.  Examines the physical composition of archival materials in all formats, the causal agents that contribute to archival deterioration, the application of appropriate preservation practices and conservation methods, and various reformatting and rehousing techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2014",
+            "course_name": "Race & Place:",
+            "description": "HIST-GA 2014 Race & Place:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2015",
+            "course_name": "Race, Slavery, & Freedom in The Atlantic World",
+            "description": "HIST-GA 2015 Race, Slavery, & Freedom in The Atlantic World",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2016",
+            "course_name": "Institutional Archives & Electronic Records",
+            "description": "HIST-GA 2016 Institutional Archives & Electronic Records \nTraces the rise of modern bureaucratic organizations and their relationship to the documentary record.  Examines the history of recordkeeping, the records and information needs of businesses, nonprofits, and governments, records management theory and practice, and current trends in administering electronic records programs.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2017",
+            "course_name": "Computers and Archival Administration",
+            "description": "HIST-GA 2017 Computers and Archival Administration",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2019",
+            "course_name": "The Historian & The Visual Record",
+            "description": "HIST-GA 2019 The Historian & The Visual Record",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2020",
+            "course_name": "Topics in History",
+            "description": "HIST-GA 2020 Topics in History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2021",
+            "course_name": "",
+            "description": "HIST-GA 2021\n\n   The Historian & The Visual Record\n\nThis course will survey techniques of visual reproduction, focus on cultivating the ability to identify visual genres, and explore how scholars from various disciplines use visual materials for research. We will study historical processes\nof reproduction, such as photography and printing techniques, but will also examine printed books, audiovisual materials, and digital files as visual objects. The course is directed at curators, archivists, public historians and others who need to be able to identify and understand these genres and formats. We will read works by scholars who utilize or study ...\n\n      more description for HIST-GA 2021 \u00bb\n\n      \n\n\n\nThis course will survey techniques of visual reproduction, focus on cultivating the ability to identify visual genres, and explore how scholars from various disciplines use visual materials for research. We will study historical processes\nof reproduction, such as photography and printing techniques, but will also examine printed books, audiovisual materials, and digital files as visual objects. The course is directed at curators, archivists, public historians and others who need to be able to identify and understand these genres and formats. We will read works by scholars who utilize or study visual resources, and will work closely with visual documents from the collections of the Fales Library & Special Collections, as well as other archives in New York City.\n\n      less description for HIST-GA 2021 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2022",
+            "course_name": "MA Proseminar:",
+            "description": "HIST-GA 2022 MA Proseminar: \nIntroduction to the theoretical and methodological components involved in the research process. Considers historiographical issues; develops an understanding of the archival and library environments, focusing on searching strategies and the use of automated techniques; and emphasizes framing research questions. Students complete a research paper with appropriate documentation and bibliography in their area of interest.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2023",
+            "course_name": "Topics Archives:",
+            "description": "HIST-GA 2023 Topics Archives: \nCapstone seminar in which students create final projects in the program with a substantial research and writing component.  Projects may take the form of historical theses, exhibition designs, historical editing projects, web-based resources, or historic site interpretations.  Class meetings allow students to focus on and discuss research issues.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2024",
+            "course_name": "American Cultural Hist",
+            "description": "HIST-GA 2024 American Cultural Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2025",
+            "course_name": "Intellectual and Cultural History",
+            "description": "HIST-GA 2025 Intellectual and Cultural History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2026",
+            "course_name": "Christianity and Culture in America",
+            "description": "HIST-GA 2026 Christianity and Culture in America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2027",
+            "course_name": "Between Story and Lit: Rethinking Afr-Amer Auto",
+            "description": "HIST-GA 2027 Between Story and Lit: Rethinking Afr-Amer Auto",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2028",
+            "course_name": "History of West Africa",
+            "description": "HIST-GA 2028 History of West Africa",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2029",
+            "course_name": "African Cult & Experienc in North America",
+            "description": "HIST-GA 2029 African Cult & Experienc in North America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2030",
+            "course_name": "Gender/Cult Hist in Amer",
+            "description": "HIST-GA 2030 Gender/Cult Hist in Amer",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2031",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1508",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "25W4 C-16"
+                }
+            ],
+            "course_name": "Advanced Archival Description",
+            "description": "HIST-GA 2031 Advanced Archival Description \nProvides an understanding of archival descriptive standards and practices.  Focuses on the development and use of bibliographic standards to create and exchange data concerning archival records.  Particular emphases include the MARC format, the development, implementation, and evaluation of Encoded Archival Description and Encoded Archival Context, content management systems, digital encoding standards, and digital library development.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2032",
+            "course_name": "Approaches to Amer Capt: Research and Methods",
+            "description": "HIST-GA 2032 Approaches to Amer Capt: Research and Methods",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2033",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1509",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Hajo, Cathy"
+                }
+            ],
+            "course_name": "Creating Digital History",
+            "description": "HIST-GA 2033 Creating Digital History \nThis course will focus on the skills that students need in order to build or contribute to history websites, digital archives, and online exhibits.  Students will learn such tools as HTML, CSS, WordPress, Omeka, and MIT?s Simile and Timeline, and will also use such Web 2.0 tools as CiteULike, del.icio.us, Twitter, and Wikipedia.  Discussions will focus on such digital history issues as how to convey a context for online historical documents.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2034",
+            "course_name": "Research Seminar",
+            "description": "HIST-GA 2034 Research Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2035",
+            "course_name": "Gender, Race, Ethnicity, and Twentieth Century US History",
+            "description": "HIST-GA 2035 Gender, Race, Ethnicity, and Twentieth Century US History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2090",
+            "course_name": "Tpcs in 18th C France",
+            "description": "HIST-GA 2090 Tpcs in 18th C France",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2100",
+            "course_name": "New Works in Medieval Studies",
+            "description": "HIST-GA 2100 New Works in Medieval Studies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2106",
+            "course_name": "Sp Study Lit: Hegel, Kojeve, &End of History",
+            "description": "HIST-GA 2106 Sp Study Lit: Hegel, Kojeve, &End of History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2107",
+            "course_name": "Modern French History II",
+            "description": "HIST-GA 2107 Modern French History II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2108",
+            "course_name": "Medieval Italy to 1250",
+            "description": "HIST-GA 2108 Medieval Italy to 1250",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2109",
+            "course_name": "Women & Gender in The Middle Ages",
+            "description": "HIST-GA 2109 Women & Gender in The Middle Ages \nExamines women?s experience in and contributions to medieval Europe and developments in gender formulations during the Middle Ages.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2110",
+            "course_name": "The Normans in Euro Hist",
+            "description": "HIST-GA 2110 The Normans in Euro Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2112",
+            "course_name": "Lit of The Field: The Early Middle Ages",
+            "description": "HIST-GA 2112 Lit of The Field: The Early Middle Ages",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2113",
+            "course_name": "Lit of The Field:",
+            "description": "HIST-GA 2113 Lit of The Field: \nInterpretation of medieval history in the 20th century. Historiography and sociology of knowledge.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2114",
+            "course_name": "Christian Monasticism",
+            "description": "HIST-GA 2114 Christian Monasticism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2115",
+            "course_name": "Russian Popular Culture: The 20th Century",
+            "description": "HIST-GA 2115 Russian Popular Culture: The 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2120",
+            "course_name": "Italy in The Age of Dante & Petrarch",
+            "description": "HIST-GA 2120 Italy in The Age of Dante & Petrarch",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2121",
+            "course_name": "Top Early Mod Writ Cult:",
+            "description": "HIST-GA 2121 Top Early Mod Writ Cult:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2122",
+            "course_name": "Empire and Globalization",
+            "description": "HIST-GA 2122 Empire and Globalization",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2123",
+            "course_name": "Contested Wrlds: Slavery &Unfreedm in Atl,Ind,Pac",
+            "description": "HIST-GA 2123 Contested Wrlds: Slavery &Unfreedm in Atl,Ind,Pac",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2129",
+            "course_name": "Imagining Eurasia: Eura Frontier in Russian Hist",
+            "description": "HIST-GA 2129 Imagining Eurasia: Eura Frontier in Russian Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2130",
+            "course_name": "Seminar: War & Scty in Mod America",
+            "description": "HIST-GA 2130 Seminar: War & Scty in Mod America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2131",
+            "course_name": "Development of European State in The 19th Cent",
+            "description": "HIST-GA 2131 Development of European State in The 19th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2132",
+            "course_name": "Russian Intellectual History",
+            "description": "HIST-GA 2132 Russian Intellectual History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2134",
+            "course_name": "Inventing a Usable Past: The Case of Russia",
+            "description": "HIST-GA 2134 Inventing a Usable Past: The Case of Russia",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2150",
+            "course_name": "Lit Hist & Pol: Fiction Historiography & Event",
+            "description": "HIST-GA 2150 Lit Hist & Pol: Fiction Historiography & Event",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2152",
+            "course_name": "Hist of Early Mod Jewry",
+            "description": "HIST-GA 2152 Hist of Early Mod Jewry",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2153",
+            "course_name": "Lit/Hist/Pol:Comparative Internationalisms",
+            "description": "HIST-GA 2153 Lit/Hist/Pol:Comparative Internationalisms",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2154",
+            "course_name": "Topics in Early Modern Culture:",
+            "description": "HIST-GA 2154 Topics in Early Modern Culture:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2155",
+            "course_name": "Intro to Global History",
+            "description": "HIST-GA 2155 Intro to Global History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2156",
+            "course_name": "Intro to Global Histories II",
+            "description": "HIST-GA 2156 Intro to Global Histories II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2157",
+            "course_name": "Political Thought in Mod Europe: Readings",
+            "description": "HIST-GA 2157 Political Thought in Mod Europe: Readings",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2160",
+            "course_name": "Sem: Enlightenment",
+            "description": "HIST-GA 2160 Sem: Enlightenment",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2162",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2163",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "KJCC 607"
+                }
+            ],
+            "course_name": "Topics:Digital Archives",
+            "description": "HIST-GA 2162 Topics:Digital Archives",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2163",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17056",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "285M 7FL",
+                    "time": "Tue 2.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": "Wolff, Lawrence"
+                }
+            ],
+            "course_name": "Tpcs Early Mod Europe:The Habsburg Monarchy",
+            "description": "HIST-GA 2163 Tpcs Early Mod Europe:The Habsburg Monarchy",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2164",
+            "course_name": "State/Soc Early Mod Eur:",
+            "description": "HIST-GA 2164 State/Soc Early Mod Eur:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2166",
+            "course_name": "Tpc Early Mod Span Hist:",
+            "description": "HIST-GA 2166 Tpc Early Mod Span Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2168",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2398",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Mon 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Truxes, Thomas"
+                }
+            ],
+            "course_name": "Methods & Approaches to World History",
+            "description": "HIST-GA 2168 Methods & Approaches to World History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2172",
+            "course_name": "European Politics: The End of The Old Order",
+            "description": "HIST-GA 2172 European Politics: The End of The Old Order",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2175",
+            "course_name": "European Enlightenment",
+            "description": "HIST-GA 2175 European Enlightenment",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2176",
+            "course_name": "Women in Early Modern Europe",
+            "description": "HIST-GA 2176 Women in Early Modern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2177",
+            "course_name": "Society & Religion in Early Modern Europe",
+            "description": "HIST-GA 2177 Society & Religion in Early Modern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2178",
+            "course_name": "The French Revolution",
+            "description": "HIST-GA 2178 The French Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2179",
+            "course_name": "European Intellectualist Soc Theory & Soc Fic 19C",
+            "description": "HIST-GA 2179 European Intellectualist Soc Theory & Soc Fic 19C",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2180",
+            "course_name": "Political Culture in Revolutionary Fr & U.S.",
+            "description": "HIST-GA 2180 Political Culture in Revolutionary Fr & U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2181",
+            "course_name": "Disease in Hist & Cult: Percept, Real, Responses",
+            "description": "HIST-GA 2181 Disease in Hist & Cult: Percept, Real, Responses",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2182",
+            "course_name": "Disease in Mod Euro Soc 1750 to Present",
+            "description": "HIST-GA 2182 Disease in Mod Euro Soc 1750 to Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2183",
+            "course_name": "Russian Revol as Memoir",
+            "description": "HIST-GA 2183 Russian Revol as Memoir",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2184",
+            "course_name": "Hist & Mem in Euro/WWII",
+            "description": "HIST-GA 2184 Hist & Mem in Euro/WWII",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2186",
+            "course_name": "",
+            "description": "HIST-GA 2186\n\n   Early Modern Europe & Imperialism Discourse\n\nThis one-semester seminar on early modern European imperialism is designed to give students interested in the history of early modern Europe, the Atlantic world, the history of Africa, and colonial Latin America a general understanding of the early modern ideologies and institutions that enabled Europe to colonize parts of Africa and the Americas. Throughout the semester, students examine several important topics: medieval precedents of early modern imperialism; theories of empire and monarchy; ideologies of conquest and colonization; models of conquest and colonial exploitation; and the relev...\n\n      more description for HIST-GA 2186 \u00bb\n\n      \n\n\n\nThis one-semester seminar on early modern European imperialism is designed to give students interested in the history of early modern Europe, the Atlantic world, the history of Africa, and colonial Latin America a general understanding of the early modern ideologies and institutions that enabled Europe to colonize parts of Africa and the Americas. Throughout the semester, students examine several important topics: medieval precedents of early modern imperialism; theories of empire and monarchy; ideologies of conquest and colonization; models of conquest and colonial exploitation; and the relevance of race and slavery in understanding European influence in Africa and the Americas.\n\n      less description for HIST-GA 2186 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2193",
+            "course_name": "Growth European Welfare State 1870 to Present",
+            "description": "HIST-GA 2193 Growth European Welfare State 1870 to Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2219",
+            "course_name": "MA Sem The Crusades: a Reassessment",
+            "description": "HIST-GA 2219 MA Sem The Crusades: a Reassessment",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2223",
+            "course_name": "Historic Houses Cultural Landscapes &The Politics",
+            "description": "HIST-GA 2223 Historic Houses Cultural Landscapes &The Politics",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2226",
+            "course_name": "Imper Nat'L Ident: Italy & Meditte Wrld 1870-1930",
+            "description": "HIST-GA 2226 Imper Nat'L Ident: Italy & Meditte Wrld 1870-1930",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2230",
+            "course_name": "Paris, Vienna & Culture of Modernism",
+            "description": "HIST-GA 2230 Paris, Vienna & Culture of Modernism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2231",
+            "course_name": "Fr Hist: Cult/Scty/Pltcs from 20'S to The 60'S",
+            "description": "HIST-GA 2231 Fr Hist: Cult/Scty/Pltcs from 20'S to The 60'S",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2232",
+            "course_name": "Post Ww II Europe",
+            "description": "HIST-GA 2232 Post Ww II Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2233",
+            "course_name": "20th C French Political Thought",
+            "description": "HIST-GA 2233 20th C French Political Thought",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2234",
+            "course_name": "Rsch Meth in Mod Euro & Non-Amer History",
+            "description": "HIST-GA 2234 Rsch Meth in Mod Euro & Non-Amer History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2235",
+            "course_name": "Rsch Meth in Comparative & Cross-National History",
+            "description": "HIST-GA 2235 Rsch Meth in Comparative & Cross-National History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2240",
+            "course_name": "MA Seminar Europe:",
+            "description": "HIST-GA 2240 MA Seminar Europe:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2242",
+            "course_name": "Asp Mod Ital Hist:Yth Nationalism, Revolution",
+            "description": "HIST-GA 2242 Asp Mod Ital Hist:Yth Nationalism, Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2248",
+            "course_name": "Weimar Germany",
+            "description": "HIST-GA 2248 Weimar Germany",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2249",
+            "course_name": "Germany & Russia in 20th Ceturt",
+            "description": "HIST-GA 2249 Germany & Russia in 20th Ceturt",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2250",
+            "course_name": "Post-WWII Germany",
+            "description": "HIST-GA 2250 Post-WWII Germany",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2251",
+            "course_name": "Eco Soc Pol German Hist",
+            "description": "HIST-GA 2251 Eco Soc Pol German Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2252",
+            "course_name": "Polish Russian Jewish Experience",
+            "description": "HIST-GA 2252 Polish Russian Jewish Experience",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2253",
+            "course_name": "Anti-Semitism in Modern Europe",
+            "description": "HIST-GA 2253 Anti-Semitism in Modern Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2254",
+            "course_name": "Holocaust Survivors & Historical Interpretn",
+            "description": "HIST-GA 2254 Holocaust Survivors & Historical Interpretn",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2255",
+            "course_name": "Lif Traject/Auto: The Personal 20th Cent Hist",
+            "description": "HIST-GA 2255 Lif Traject/Auto: The Personal 20th Cent Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2256",
+            "course_name": "Oral History: African Americans",
+            "description": "HIST-GA 2256 Oral History: African Americans",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2257",
+            "course_name": "Origins of Ww I",
+            "description": "HIST-GA 2257 Origins of Ww I",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2258",
+            "course_name": "Origins WWII in Eur",
+            "description": "HIST-GA 2258 Origins WWII in Eur",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2259",
+            "course_name": "Tpc/European Wkg Class History: 20th Century",
+            "description": "HIST-GA 2259 Tpc/European Wkg Class History: 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2260",
+            "course_name": "Euro The West:",
+            "description": "HIST-GA 2260 Euro The West:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2261",
+            "course_name": "Political Theory Sem: Hegel",
+            "description": "HIST-GA 2261 Political Theory Sem: Hegel",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2264",
+            "course_name": "Mthd & Prob 20th Cent Intellectual History",
+            "description": "HIST-GA 2264 Mthd & Prob 20th Cent Intellectual History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2266",
+            "course_name": "Methods & Problems Euro Intellectual History",
+            "description": "HIST-GA 2266 Methods & Problems Euro Intellectual History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2268",
+            "course_name": "Communism in Europe",
+            "description": "HIST-GA 2268 Communism in Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2290",
+            "course_name": "Women & Social Change",
+            "description": "HIST-GA 2290 Women & Social Change",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2291",
+            "course_name": "Feminist/Queer Theories",
+            "description": "HIST-GA 2291 Feminist/Queer Theories",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2293",
+            "course_name": "Immigration, Ethnicity & Gender Relations",
+            "description": "HIST-GA 2293 Immigration, Ethnicity & Gender Relations",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2294",
+            "course_name": "Writing Gender Histories",
+            "description": "HIST-GA 2294 Writing Gender Histories",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2301",
+            "course_name": "Amer Studies Colloq: Cult Politics in Amer",
+            "description": "HIST-GA 2301 Amer Studies Colloq: Cult Politics in Amer",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2302",
+            "course_name": "Problems in The History of Sexuality",
+            "description": "HIST-GA 2302 Problems in The History of Sexuality",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2304",
+            "course_name": "Theorizing Practices: Underground Archives",
+            "description": "HIST-GA 2304 Theorizing Practices: Underground Archives",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2305",
+            "course_name": "Individual Research Sem",
+            "description": "HIST-GA 2305 Individual Research Sem",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2306",
+            "course_name": "Right Wing Politics in U.S History",
+            "description": "HIST-GA 2306 Right Wing Politics in U.S History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2307",
+            "course_name": "American Studies & The Long 20th Century",
+            "description": "HIST-GA 2307 American Studies & The Long 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2311",
+            "course_name": "Social Theories of Citizenship",
+            "description": "HIST-GA 2311 Social Theories of Citizenship",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2314",
+            "course_name": "Critical Histiographies:",
+            "description": "HIST-GA 2314 Critical Histiographies:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2321",
+            "course_name": "Petrarch",
+            "description": "HIST-GA 2321 Petrarch",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2324",
+            "course_name": "Monasticism:  Ascetisism & Writing",
+            "description": "HIST-GA 2324 Monasticism:  Ascetisism & Writing",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2329",
+            "course_name": "Studies in Work",
+            "description": "HIST-GA 2329 Studies in Work",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2412",
+            "course_name": "France & Francophone Africa",
+            "description": "HIST-GA 2412 France & Francophone Africa",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2425",
+            "course_name": "Debates in Marxism On Development",
+            "description": "HIST-GA 2425 Debates in Marxism On Development",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2427",
+            "course_name": "Great Britain & Ireland Since 1750",
+            "description": "HIST-GA 2427 Great Britain & Ireland Since 1750",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2429",
+            "course_name": "Coll:Tudor-Stuart Eng",
+            "description": "HIST-GA 2429 Coll:Tudor-Stuart Eng",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2430",
+            "course_name": "Histriography of Britain 1680-1880",
+            "description": "HIST-GA 2430 Histriography of Britain 1680-1880",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2500",
+            "course_name": "Problems & Prospects of European Integration",
+            "description": "HIST-GA 2500 Problems & Prospects of European Integration",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2501",
+            "course_name": "Europe & East Mediterrn 1790-1914",
+            "description": "HIST-GA 2501 Europe & East Mediterrn 1790-1914",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2502",
+            "course_name": "Nationalism & Minorities in Euro 19th to 20th Cen",
+            "description": "HIST-GA 2502 Nationalism & Minorities in Euro 19th to 20th Cen",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2503",
+            "course_name": "Med Europ in 20th Cent",
+            "description": "HIST-GA 2503 Med Europ in 20th Cent",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2508",
+            "course_name": "Tpcs in Fren Cult & Soc",
+            "description": "HIST-GA 2508 Tpcs in Fren Cult & Soc",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2510",
+            "course_name": "Responsibility of Intellect in French Soc",
+            "description": "HIST-GA 2510 Responsibility of Intellect in French Soc",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2511",
+            "course_name": "Historiography of The Near East Peoples",
+            "description": "HIST-GA 2511 Historiography of The Near East Peoples",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2513",
+            "course_name": "Pro Sem in Mod Mid East",
+            "description": "HIST-GA 2513 Pro Sem in Mod Mid East",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2530",
+            "course_name": "Asiatic Mode Production: Theory and History",
+            "description": "HIST-GA 2530 Asiatic Mode Production: Theory and History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2540",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17934",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KEVO LL2",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Saeed, Tahir"
+                }
+            ],
+            "course_name": "TopicsNationalism and Nation-State in the Middle East",
+            "description": "HIST-GA 2540 TopicsNationalism and Nation-State in the Middle East",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2550",
+            "course_name": "Sem in Modern Japanese Literature & Culture",
+            "description": "HIST-GA 2550 Sem in Modern Japanese Literature & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2551",
+            "course_name": "Black New York",
+            "description": "HIST-GA 2551 Black New York",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2552",
+            "course_name": "Atlant Encounters: Amers in Africa, 1700-2010",
+            "description": "HIST-GA 2552 Atlant Encounters: Amers in Africa, 1700-2010",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2553",
+            "course_name": "Transition from Slavery to Freedom in The U.S.",
+            "description": "HIST-GA 2553 Transition from Slavery to Freedom in The U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2554",
+            "course_name": "The Atlantic Slave Trade",
+            "description": "HIST-GA 2554 The Atlantic Slave Trade",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2555",
+            "course_name": "African Slavery & The Atlantic Slave Trade",
+            "description": "HIST-GA 2555 African Slavery & The Atlantic Slave Trade \nExamines the institution of servitude and slavery in tropical Africa since classical antiquity. Studies master-servant relationships in selected precolonial African societies and the Atlantic slave trade and its impact on African political, social, and economic organization.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2556",
+            "course_name": "African Civilizations",
+            "description": "HIST-GA 2556 African Civilizations",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2557",
+            "course_name": "Coll Imperialism Mid Eas",
+            "description": "HIST-GA 2557 Coll Imperialism Mid Eas",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2558",
+            "course_name": "Thought & Law in Imperial China",
+            "description": "HIST-GA 2558 Thought & Law in Imperial China",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2559",
+            "course_name": "Images/War & Violence in Age of Modernity",
+            "description": "HIST-GA 2559 Images/War & Violence in Age of Modernity",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2560",
+            "course_name": "Age of Catastrophe:1914- 1953",
+            "description": "HIST-GA 2560 Age of Catastrophe:1914- 1953",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2561",
+            "course_name": "Theorizing Race and Slavery",
+            "description": "HIST-GA 2561 Theorizing Race and Slavery",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2563",
+            "course_name": "America Thru Biography in The 20th Century",
+            "description": "HIST-GA 2563 America Thru Biography in The 20th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2571",
+            "course_name": "Anti-Colonialism and Internationalism",
+            "description": "HIST-GA 2571 Anti-Colonialism and Internationalism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2572",
+            "course_name": "Contemp Disc On Modern Chinese Intllctl History",
+            "description": "HIST-GA 2572 Contemp Disc On Modern Chinese Intllctl History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2573",
+            "course_name": "Print Media & Journalism in China, 1895-1945",
+            "description": "HIST-GA 2573 Print Media & Journalism in China, 1895-1945",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2574",
+            "course_name": "Modern Korean Historiography",
+            "description": "HIST-GA 2574 Modern Korean Historiography",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2600",
+            "course_name": "Colloq in Women'S Hist: Race and Reproduction",
+            "description": "HIST-GA 2600 Colloq in Women'S Hist: Race and Reproduction",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2601",
+            "course_name": "Spec Tpcs in Theory:",
+            "description": "HIST-GA 2601 Spec Tpcs in Theory:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2602",
+            "course_name": "Pop Relig Anglo Amer",
+            "description": "HIST-GA 2602 Pop Relig Anglo Amer",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2603",
+            "course_name": "Topics in Colonial American History",
+            "description": "HIST-GA 2603 Topics in Colonial American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2604",
+            "course_name": "Rel Fam & Gender 1607-1840",
+            "description": "HIST-GA 2604 Rel Fam & Gender 1607-1840",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2605",
+            "course_name": "Women, Gender & Politics in Age of Democr Revolut",
+            "description": "HIST-GA 2605 Women, Gender & Politics in Age of Democr Revolut \nExamines 18th-century interrelated debates about the nature of citizenship and the civitas in revolutionary America, France, and Haiti.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2606",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17275",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 324",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Nolan, Mary; Young, Marilyn"
+                }
+            ],
+            "course_name": "Human Rights & Humanitarian Interventions",
+            "description": "HIST-GA 2606 Human Rights & Humanitarian Interventions",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2607",
+            "course_name": "Coll: Civil War & Reconstruction",
+            "description": "HIST-GA 2607 Coll: Civil War & Reconstruction \nStudies the social, political, and cultural history of the Civil War era and its legacies, with particular attention to race.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2608",
+            "course_name": "Radicalism & Reform in The United States",
+            "description": "HIST-GA 2608 Radicalism & Reform in The United States",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2609",
+            "course_name": "The Progressive Era",
+            "description": "HIST-GA 2609 The Progressive Era",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2610",
+            "course_name": "Radicalism and Capitalis",
+            "description": "HIST-GA 2610 Radicalism and Capitalis",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2611",
+            "course_name": "To The Mountaintop: Mumnt for Civil Rights",
+            "description": "HIST-GA 2611 To The Mountaintop: Mumnt for Civil Rights",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2612",
+            "course_name": "U.S in 20C: Resch Sem",
+            "description": "HIST-GA 2612 U.S in 20C: Resch Sem",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2613",
+            "course_name": "MA Seminar:",
+            "description": "HIST-GA 2613 MA Seminar:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2614",
+            "course_name": "Confederation and Constitution 1776-1789",
+            "description": "HIST-GA 2614 Confederation and Constitution 1776-1789",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2615",
+            "course_name": "American Legal History",
+            "description": "HIST-GA 2615 American Legal History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2616",
+            "course_name": "American Legal History in The Early Republic",
+            "description": "HIST-GA 2616 American Legal History in The Early Republic",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2618",
+            "course_name": "Cult/Soc Amer 1730-1870",
+            "description": "HIST-GA 2618 Cult/Soc Amer 1730-1870",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2620",
+            "course_name": "American Social Institut 1880-1980",
+            "description": "HIST-GA 2620 American Social Institut 1880-1980",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2621",
+            "course_name": "Research Seminar: 20th Century America",
+            "description": "HIST-GA 2621 Research Seminar: 20th Century America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2622",
+            "course_name": "Top in African-Amer Hist",
+            "description": "HIST-GA 2622 Top in African-Amer Hist \nA seminar that emphasizes the historiography of what has come to be called the African diaspora, but in other eras was called something else, like pan-Africanism. Seminal works by Du Bois, Barnett Wells, Padmore, Casely Hayford, James, Blyden, Crummell, Cooper, etc., are examined.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2624",
+            "course_name": "Sport in Amer Society",
+            "description": "HIST-GA 2624 Sport in Amer Society",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2630",
+            "course_name": "Coll Tpcs His Amer Bus",
+            "description": "HIST-GA 2630 Coll Tpcs His Amer Bus",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2631",
+            "course_name": "Eco/Fin Hist:Mod Europe",
+            "description": "HIST-GA 2631 Eco/Fin Hist:Mod Europe",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2643",
+            "course_name": "Medieval Sephardic Jewry",
+            "description": "HIST-GA 2643 Medieval Sephardic Jewry",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2655",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "17260",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 324",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Needham, Todd"
+                }
+            ],
+            "course_name": "Topics in U.S. History:",
+            "description": "HIST-GA 2655 Topics in U.S. History:",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2660",
+            "course_name": "Sem Early Modern Central Asia",
+            "description": "HIST-GA 2660 Sem Early Modern Central Asia",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2673",
+            "course_name": "Germans & Jews/Jews & Germans Through WWI",
+            "description": "HIST-GA 2673 Germans & Jews/Jews & Germans Through WWI",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2674",
+            "course_name": "Tpcs in African History",
+            "description": "HIST-GA 2674 Tpcs in African History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2676",
+            "course_name": "Jews & Germans in Weimar & Nazi Germany",
+            "description": "HIST-GA 2676 Jews & Germans in Weimar & Nazi Germany",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2677",
+            "course_name": "Jews & Germans Postwar Germany: 1945-2000",
+            "description": "HIST-GA 2677 Jews & Germans Postwar Germany: 1945-2000",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2680",
+            "course_name": "Sem in Ottoman Hist I: Late Ottoman Empire",
+            "description": "HIST-GA 2680 Sem in Ottoman Hist I: Late Ottoman Empire",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2681",
+            "course_name": "Enlightenment of The Jews",
+            "description": "HIST-GA 2681 Enlightenment of The Jews",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2684",
+            "course_name": "Topics in Jewish Cultural History",
+            "description": "HIST-GA 2684 Topics in Jewish Cultural History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2685",
+            "course_name": "Historical Perspective On The Jewish Community",
+            "description": "HIST-GA 2685 Historical Perspective On The Jewish Community",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2686",
+            "course_name": "Topics in European Jewish History",
+            "description": "HIST-GA 2686 Topics in European Jewish History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2688",
+            "course_name": "Memoirs & Diaries in Mod European Jewish Hist",
+            "description": "HIST-GA 2688 Memoirs & Diaries in Mod European Jewish Hist",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2689",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "20039",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC BSMT",
+                    "time": "Mon 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Kaplan, Marion"
+                }
+            ],
+            "course_name": "Nazi Germany The Racial State",
+            "description": "HIST-GA 2689 Nazi Germany The Racial State",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2690",
+            "course_name": "The Revolution of 1848: Literature and History",
+            "description": "HIST-GA 2690 The Revolution of 1848: Literature and History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2696",
+            "course_name": "Pol/Cult of 1930S",
+            "description": "HIST-GA 2696 Pol/Cult of 1930S",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2697",
+            "course_name": "Coll: The New Deal",
+            "description": "HIST-GA 2697 Coll: The New Deal",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2700",
+            "course_name": "New Work in Medival Studies",
+            "description": "HIST-GA 2700 New Work in Medival Studies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2707",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2194",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 717",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Karl, Rebecca"
+                }
+            ],
+            "course_name": "Topics in HistoryAgrarian Question in History",
+            "description": "HIST-GA 2707 Topics in HistoryAgrarian Question in History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2709",
+            "course_name": "WWII in Amer Thght & Cult",
+            "description": "HIST-GA 2709 WWII in Amer Thght & Cult",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2710",
+            "course_name": "Tpc in Amer 20th C Cult: Blk Pop Cult Mus/Sn WWII",
+            "description": "HIST-GA 2710 Tpc in Amer 20th C Cult: Blk Pop Cult Mus/Sn WWII",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2712",
+            "course_name": "Comparative Colonial Regimes",
+            "description": "HIST-GA 2712 Comparative Colonial Regimes",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2713",
+            "course_name": "North American Slavery",
+            "description": "HIST-GA 2713 North American Slavery",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2714",
+            "course_name": "Urb Blacks/20th C Amer",
+            "description": "HIST-GA 2714 Urb Blacks/20th C Amer",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2715",
+            "course_name": "America in The 1960'S",
+            "description": "HIST-GA 2715 America in The 1960'S",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2716",
+            "course_name": "History of The Left",
+            "description": "HIST-GA 2716 History of The Left \nThis colloquium will review major developments in the left since the early nineteenth century, focusing on left visions, social movements and political practices and the interaction of theory and practice. Readings focus on England, Germany, Russia as well as the U.S., India, Cuba and China.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2735",
+            "course_name": "Amer Foreign Policy",
+            "description": "HIST-GA 2735 Amer Foreign Policy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2750",
+            "course_name": "Women'S Political Cult",
+            "description": "HIST-GA 2750 Women'S Political Cult",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2753",
+            "course_name": "Mod Archit: Visions of Modern Paris",
+            "description": "HIST-GA 2753 Mod Archit: Visions of Modern Paris",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2754",
+            "course_name": "Modern City Culture",
+            "description": "HIST-GA 2754 Modern City Culture \nStudies the culture of New York City in comparative perspective, particularly emphasizing the relation of political and economic modernization to the culture of modernity and artistic movements of modernism.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2756",
+            "course_name": "Space & Power in American History",
+            "description": "HIST-GA 2756 Space & Power in American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2757",
+            "course_name": "Fndatns of Urban Studies",
+            "description": "HIST-GA 2757 Fndatns of Urban Studies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2758",
+            "course_name": "History of The Body",
+            "description": "HIST-GA 2758 History of The Body",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2759",
+            "course_name": "Adv Sem Selected Themes: Comparative Imperative",
+            "description": "HIST-GA 2759 Adv Sem Selected Themes: Comparative Imperative",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2760",
+            "course_name": "Impersonality & Its Spac",
+            "description": "HIST-GA 2760 Impersonality & Its Spac",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2771",
+            "course_name": "Cold War as Global Conflict",
+            "description": "HIST-GA 2771 Cold War as Global Conflict \nThis colloquium views the Cold War as global conflict and focuses on Western and Eastern Europe and the \"Third World\" as well as on the U.S. and Soviet Union.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2776",
+            "course_name": "Sem: US Hist in 20th C",
+            "description": "HIST-GA 2776 Sem: US Hist in 20th C",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2777",
+            "course_name": "Clq: Immigration",
+            "description": "HIST-GA 2777 Clq: Immigration",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2778",
+            "course_name": "US Since 1945",
+            "description": "HIST-GA 2778 US Since 1945",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2779",
+            "course_name": "The Cold War",
+            "description": "HIST-GA 2779 The Cold War \nExamination of the Cold War from World War II to the fall of the Soviet empire in 1989.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2780",
+            "course_name": "Topics in Amer for Polic Vietnam",
+            "description": "HIST-GA 2780 Topics in Amer for Polic Vietnam",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2790",
+            "course_name": "Topics in Comparative History:",
+            "description": "HIST-GA 2790 Topics in Comparative History:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2800",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2155",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Weinstein, Barbara"
+                }
+            ],
+            "course_name": "Topics in Latin America",
+            "description": "HIST-GA 2800 Topics in Latin America \nHistoriographic and analytic approaches to variable topics. Recent colloquia have included Historical Consciousness in Latin America; Age of Revolution in Latin America and the Caribbean; Race, Gender, and Nation; US-Latin American Relations; Historical Perspectives on Race and Ethnicity in Latin America; Independence and Nationalism in the 19th Century. May also focus on the history of a particular country or subregion, such as modern Brazil, Central America, or the Caribbean.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2801",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "19961",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "19UP 229",
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Dopico, Ana"
+                }
+            ],
+            "course_name": "Research Seminar in Latin American and Caribbean HistoryComparatism, Contingency, and the Caribbean",
+            "description": "HIST-GA 2801 Research Seminar in Latin American and Caribbean HistoryComparatism, Contingency, and the Caribbean \nMethodology research seminar in which students learn the basic techniques of isolating and conceptualizing a topic, develop their research skills in handling primary and secondary sources available in the New York area, and complete a coherent, pertinent research paper of about 25 pages, with appropriate documentation and bibliograp",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2803",
+            "course_name": "Topics in L.a. History: Culture & Pol in L.a.",
+            "description": "HIST-GA 2803 Topics in L.a. History: Culture & Pol in L.a.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2804",
+            "course_name": "Seminar:",
+            "description": "HIST-GA 2804 Seminar:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2805",
+            "course_name": "Sp Tpcs: The Subject of Rights",
+            "description": "HIST-GA 2805 Sp Tpcs: The Subject of Rights",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2846",
+            "course_name": "Anti-Semitism",
+            "description": "HIST-GA 2846 Anti-Semitism",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2860",
+            "course_name": "Studies in Lit History:",
+            "description": "HIST-GA 2860 Studies in Lit History:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2861",
+            "course_name": "",
+            "description": "HIST-GA 2861\n\n   Political Cultures of Empires\n\nThis course provides the opportunity for closely advised research and writing on student-designed projects related to the history of empires. The course builds on readings and discussion in the reading course Empires, States, and Political Imagination (G57.3390). While the reading course is not a prerequisite for this research seminar, students should have some demonstrated knowledge of the history of at least one imperial setting and be in a position to formulate a research topic at the beginning of the semester. By the end of the semester, each student will have produced a major research pap...\n\n      more description for HIST-GA 2861 \u00bb\n\n      \n\n\n\nThis course provides the opportunity for closely advised research and writing on student-designed projects related to the history of empires. The course builds on readings and discussion in the reading course Empires, States, and Political Imagination (G57.3390). While the reading course is not a prerequisite for this research seminar, students should have some demonstrated knowledge of the history of at least one imperial setting and be in a position to formulate a research topic at the beginning of the semester. By the end of the semester, each student will have produced a major research paper based on primary sources in the format of an article to be published in an academic journal.\n\n      less description for HIST-GA 2861 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2863",
+            "course_name": "Race & Health Policy: Hist & Contemp Perspec",
+            "description": "HIST-GA 2863 Race & Health Policy: Hist & Contemp Perspec",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2864",
+            "course_name": "Hist/Publ Hlth in U.S.",
+            "description": "HIST-GA 2864 Hist/Publ Hlth in U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2901",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "19077",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "KJCC 717"
+                }
+            ],
+            "course_name": "Topics:Science, Technology, and Infrastructure in Africa",
+            "description": "HIST-GA 2901 Topics:Science, Technology, and Infrastructure in Africa",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2914",
+            "course_name": "South Asia in World History",
+            "description": "HIST-GA 2914 South Asia in World History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2915",
+            "course_name": "Mapping South Asia: Culture,Politics,History",
+            "description": "HIST-GA 2915 Mapping South Asia: Culture,Politics,History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2917",
+            "course_name": "Stdies in Cult & Pol in Mod Japan",
+            "description": "HIST-GA 2917 Stdies in Cult & Pol in Mod Japan",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 2972",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17263",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CASA 203",
+                    "time": "Mon 3.30 PM - 6.10 PM",
+                    "open": true,
+                    "professor": "Ben-Ghiat, Ruth"
+                }
+            ],
+            "course_name": "Italian Colonialism & Postcolonialism",
+            "description": "HIST-GA 2972 Italian Colonialism & Postcolonialism",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 2994",
+            "course_name": "Writing Gender Histories",
+            "description": "HIST-GA 2994 Writing Gender Histories",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3001",
+            "course_name": "Topics in the City:",
+            "description": "HIST-GA 3001 Topics in the City:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3006",
+            "course_name": "Lit of The Field:",
+            "description": "HIST-GA 3006 Lit of The Field:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3008",
+            "course_name": "Department Seminar: Hist of Ed II",
+            "description": "HIST-GA 3008 Department Seminar: Hist of Ed II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3011",
+            "course_name": "Readings in History",
+            "description": "HIST-GA 3011 Readings in History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3012",
+            "course_name": "Research in History",
+            "description": "HIST-GA 3012 Research in History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3013",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1510",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research in Archives & Public History",
+            "description": "HIST-GA 3013 Research in Archives & Public History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3014",
+            "course_name": "Research Archival Mgmt & Historical Editing",
+            "description": "HIST-GA 3014 Research Archival Mgmt & Historical Editing",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3019",
+            "course_name": "World History MA Thesis",
+            "description": "HIST-GA 3019 World History MA Thesis",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3020",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2160",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Smyrlis, Konstantinos",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Reading in History",
+            "description": "HIST-GA 3020 Reading in History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3021",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1511",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Smyrlis, Konstantinos",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1512",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Smyrlis, Konstantinos",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1513",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Research in History",
+            "description": "HIST-GA 3021 Research in History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3022",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1514",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Smyrlis, Konstantinos",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Colloquium",
+                    "class_id": "1515",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Smyrlis, Konstantinos",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Readings in History",
+            "description": "HIST-GA 3022 Readings in History",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3023",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "2156",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wosh, Peter",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Readings in Archival Management",
+            "description": "HIST-GA 3023 Readings in Archival Management",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3024",
+            "course_name": "Reading Archival Mngmnt & Historical Editing",
+            "description": "HIST-GA 3024 Reading Archival Mngmnt & Historical Editing",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3025",
+            "course_name": "Tpcs in Byzantine Hist:",
+            "description": "HIST-GA 3025 Tpcs in Byzantine Hist:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3115",
+            "course_name": "Medieval Seminar",
+            "description": "HIST-GA 3115 Medieval Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3116",
+            "course_name": "Readings in Medieval Greek Sources",
+            "description": "HIST-GA 3116 Readings in Medieval Greek Sources",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3119",
+            "course_name": "Medieval Church",
+            "description": "HIST-GA 3119 Medieval Church",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3120",
+            "course_name": "PhD Sem:Church & Society in Pre-Mod Europe II",
+            "description": "HIST-GA 3120 PhD Sem:Church & Society in Pre-Mod Europe II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3200",
+            "course_name": "Tpcs in Holocaust Stds:",
+            "description": "HIST-GA 3200 Tpcs in Holocaust Stds:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3212",
+            "course_name": "The Sweat of Thy Face: African-Amer Labor Hist.",
+            "description": "HIST-GA 3212 The Sweat of Thy Face: African-Amer Labor Hist.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3213",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "17784",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "285M 7FL",
+                    "time": "Wed 12.30 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Wolff, Lawrence"
+                }
+            ],
+            "course_name": "Topics:Eastern Europe Workshop",
+            "description": "HIST-GA 3213 Topics:Eastern Europe Workshop",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3220",
+            "course_name": "PhD Sem European History",
+            "description": "HIST-GA 3220 PhD Sem European History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3221",
+            "course_name": "PhD Seminar European History",
+            "description": "HIST-GA 3221 PhD Seminar European History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3270",
+            "course_name": "PhD Sem:Aesthetics + Plt in Europe 1890-1939",
+            "description": "HIST-GA 3270 PhD Sem:Aesthetics + Plt in Europe 1890-1939",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3290",
+            "course_name": "Europ Intell History",
+            "description": "HIST-GA 3290 Europ Intell History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3330",
+            "course_name": "Topics in Museum Stdies:",
+            "description": "HIST-GA 3330 Topics in Museum Stdies:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3390",
+            "course_name": "Empire States & Political Imagination",
+            "description": "HIST-GA 3390 Empire States & Political Imagination \nThis course focuses on the comparative study of empires from the Romans to the present and on the variety of ways in which empire-states have established and constrained claims to rights, belonging, and power. The study of empire expands our debates over rights, citizenship, economic regulation, and accountability without letting them fall into a seeming gap between the nation-state and the global.",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3392",
+            "course_name": "Anthropology of History",
+            "description": "HIST-GA 3392 Anthropology of History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3500",
+            "course_name": "Theories of Nationalism: Ireland, Britain & Europ",
+            "description": "HIST-GA 3500 Theories of Nationalism: Ireland, Britain & Europ",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3501",
+            "course_name": "PhD Sem: Modern Middle Eastern History",
+            "description": "HIST-GA 3501 PhD Sem: Modern Middle Eastern History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3502",
+            "course_name": "PhD Sem: Study of Islam, Problems & Methods",
+            "description": "HIST-GA 3502 PhD Sem: Study of Islam, Problems & Methods",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3503",
+            "course_name": "The Ottoman 17th Century",
+            "description": "HIST-GA 3503 The Ottoman 17th Century",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3522",
+            "course_name": "Sem in The History of The Yishuv and Israel",
+            "description": "HIST-GA 3522 Sem in The History of The Yishuv and Israel",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3536",
+            "course_name": "Tpcs Western European Jewish History",
+            "description": "HIST-GA 3536 Tpcs Western European Jewish History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3600",
+            "course_name": "U.S. Labor History",
+            "description": "HIST-GA 3600 U.S. Labor History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3601",
+            "course_name": "Research Seminar:  U.S. Working Class History",
+            "description": "HIST-GA 3601 Research Seminar:  U.S. Working Class History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3602",
+            "course_name": "PhD Sem US Social Hist I",
+            "description": "HIST-GA 3602 PhD Sem US Social Hist I",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3603",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "2158",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Gordon, Irene"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "17118",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 701",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Gordon, Irene"
+                }
+            ],
+            "course_name": "Approaches to Historical Research and Writing I",
+            "description": "HIST-GA 3603 Approaches to Historical Research and Writing I",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3604",
+            "course_name": "Legal Scholarships",
+            "description": "HIST-GA 3604 Legal Scholarships",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3605",
+            "course_name": "Coll/Sem: American Hist 1789-1850",
+            "description": "HIST-GA 3605 Coll/Sem: American Hist 1789-1850",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3606",
+            "course_name": "MA Sem: Public History",
+            "description": "HIST-GA 3606 MA Sem: Public History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3607",
+            "course_name": "American Stdies Individ Research Seminar",
+            "description": "HIST-GA 3607 American Stdies Individ Research Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3608",
+            "course_name": "Social Movements in The U.S. 1890-Present",
+            "description": "HIST-GA 3608 Social Movements in The U.S. 1890-Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3610",
+            "course_name": "MA Sem: Law & Social Change in America",
+            "description": "HIST-GA 3610 MA Sem: Law & Social Change in America",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3611",
+            "course_name": "Tpcs in Intellectual and Cultural History",
+            "description": "HIST-GA 3611 Tpcs in Intellectual and Cultural History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3612",
+            "course_name": "MA Sem: Theory & Culture",
+            "description": "HIST-GA 3612 MA Sem: Theory & Culture",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3613",
+            "course_name": "Approaches to Historical Research & Writing II",
+            "description": "HIST-GA 3613 Approaches to Historical Research & Writing II",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3700",
+            "course_name": "French Soc Theory & Soc Text",
+            "description": "HIST-GA 3700 French Soc Theory & Soc Text",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3701",
+            "course_name": "Tpcs in American History",
+            "description": "HIST-GA 3701 Tpcs in American History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3702",
+            "course_name": "",
+            "description": "HIST-GA 3702\n\n   Empire and Law in History\n\nThis course introduces graduate students to the compThis course introduces graduate students to the comparative study of law in empire.  Readings and discussions address such topics as the definition of imperial sovereignty, conflicts over jurisdiction and rights, the role of legal discourse in imperial politics, and the relation between imperial law and international law.  We will also explore various methodologies for the study of empire and law, including discussion of the use of case records and other legal documents and writings to analyze imperial history.  The chronological and geograph...\n\n      more description for HIST-GA 3702 \u00bb\n\n      \n\n\n\nThis course introduces graduate students to the compThis course introduces graduate students to the comparative study of law in empire.  Readings and discussions address such topics as the definition of imperial sovereignty, conflicts over jurisdiction and rights, the role of legal discourse in imperial politics, and the relation between imperial law and international law.  We will also explore various methodologies for the study of empire and law, including discussion of the use of case records and other legal documents and writings to analyze imperial history.  The chronological and geographic sweep of the course is intended to encourage comparative analysis of law in empire, with most attention paid to the European colonial world between 1500 and 1900.\n\n      less description for HIST-GA 3702 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3703",
+            "course_name": "Legal History",
+            "description": "HIST-GA 3703 Legal History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3704",
+            "course_name": "Legal History Colloquium",
+            "description": "HIST-GA 3704 Legal History Colloquium",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3705",
+            "course_name": "Sem in Am Intellectual History",
+            "description": "HIST-GA 3705 Sem in Am Intellectual History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3720",
+            "course_name": "Rsch Sem French Studies",
+            "description": "HIST-GA 3720 Rsch Sem French Studies",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3800",
+            "course_name": "Latin Amer & Caribbean",
+            "description": "HIST-GA 3800 Latin Amer & Caribbean",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3801",
+            "course_name": "Sem Lat Amer & Carrib:",
+            "description": "HIST-GA 3801 Sem Lat Amer & Carrib:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3802",
+            "course_name": "PhD Sem: Latin America & Caribbean",
+            "description": "HIST-GA 3802 PhD Sem: Latin America & Caribbean",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3803",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "1770",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 607",
+                    "time": "Tue 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "Eustace, Nicole"
+                }
+            ],
+            "course_name": "Atlantic History Workshop",
+            "description": "HIST-GA 3803 Atlantic History Workshop \nThis year-long course overlaps with the Atlantic History Workshop colloquium, which meets regularly in the Department of History throughout the academic year. At the colloquium, participants discuss precirculated works-in-progress presented by visiting scholars or members of the colloquium. Students enrolled in this course attend every meeting of the colloquium and undertake additional activities assigned by the instructor.",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3805",
+            "course_name": "Russian History",
+            "description": "HIST-GA 3805 Russian History",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3825",
+            "course_name": "The New Nation U.S. 1789-1842",
+            "description": "HIST-GA 3825 The New Nation U.S. 1789-1842",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3826",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17271",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KJCC 717",
+                    "time": "Tue 4.55 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Hodes, Martha"
+                }
+            ],
+            "course_name": "Reconstructing Lives",
+            "description": "HIST-GA 3826 Reconstructing Lives",
+            "offering": true
+        },
+        {
+            "course_id": "HIST-GA 3900",
+            "course_name": "Tpcs: Art & The Good Society",
+            "description": "HIST-GA 3900 Tpcs: Art & The Good Society",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3901",
+            "course_name": "Mediterranean in Historical Perspective",
+            "description": "HIST-GA 3901 Mediterranean in Historical Perspective",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3902",
+            "course_name": "Modern Mediterranean Region:",
+            "description": "HIST-GA 3902 Modern Mediterranean Region:",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 3921",
+            "course_name": "Committee On Theory and Culture",
+            "description": "HIST-GA 3921 Committee On Theory and Culture",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 9178",
+            "course_name": "The French Revolution",
+            "description": "HIST-GA 9178 The French Revolution",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 9212",
+            "course_name": "French Cultural History Since 1870(in French)",
+            "description": "HIST-GA 9212 French Cultural History Since 1870(in French)",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 9270",
+            "course_name": "Family & Gender in Late Med & Early Ren Italy",
+            "description": "HIST-GA 9270 Family & Gender in Late Med & Early Ren Italy",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 9417",
+            "course_name": "Hist of Modern Ireland: 1922 to Present",
+            "description": "HIST-GA 9417 Hist of Modern Ireland: 1922 to Present",
+            "offering": false
+        },
+        {
+            "course_id": "HIST-GA 9750",
+            "course_name": "Topics in Latin American and Caribbean History",
+            "description": "HIST-GA 9750 Topics in Latin American and Caribbean History",
+            "offering": false
+        }
+    ]
+}

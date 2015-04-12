@@ -1,0 +1,922 @@
+{
+    "major_id": "OT-GE",
+    "file": "./2015-2016/Occupational_Therapy_(OT-GE).html",
+    "courses": [
+        {
+            "course_id": "OT-GE 2000",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3546",
+                    "section": "001",
+                    "period": "09/11/2015 - 09/11/2015",
+                    "location": "BOBS LL147 with Buckley, Karen09/21/2015 - 09/21/2015 Mon 11.00 AM - 12.15 PM at PLSS 634 with Buckley, Karen09/28/2015 - 09/28/2015 Mon 11.00 AM - 12.15 PM at PLSS 634 with Buckley, Karen10/19/2015 - 10/19/2015 Mon 11.00 AM - 12.15 PM at PLSS 634",
+                    "time": "Fri 8.00 AM - 3.15 PM",
+                    "open": true,
+                    "professor": "Buckley, Karen"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "3547",
+                    "section": "002",
+                    "period": "09/11/2015 - 09/11/2015",
+                    "location": "7E12 LL21 with Perr, Anita09/21/2015 - 09/21/2015 Mon 11.00 AM - 12.15 PM at PANX 642 with Perr, Anita09/28/2015 - 09/28/2015 Mon 11.00 AM - 12.15 PM at PANX 642 with Perr, Anita10/19/2015 - 10/19/2015 Mon 11.00 AM - 12.15 PM at 19W4 102",
+                    "time": "Fri 8.00 AM - 3.15 PM",
+                    "open": true,
+                    "professor": "Perr, Anita"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "4210",
+                    "section": "003",
+                    "period": "09/11/2015 - 09/11/2015",
+                    "location": "GCASL 379 with Hinojosa, Jim09/21/2015 - 09/21/2015 Mon 3.30 PM - 4.45 PM at PLSS 629 with Hinojosa, Jim09/28/2015 - 09/28/2015 Mon 3.30 PM - 4.45 PM at PLSS 629 with Hinojosa, Jim10/19/2015 - 10/19/2015 Mon 3.30 PM - 4.45 PM at PLSS 629",
+                    "time": "Fri 8.00 AM - 3.15 PM",
+                    "open": true,
+                    "professor": "Hinojosa, Jim"
+                }
+            ],
+            "course_name": "New Student Sem in Ot",
+            "description": "OT-GE 2000 New Student Sem in Ot \nThis course introduces the newly accepted professional-level student in the field of occupational therapy, the Steinhart School of Education and to NYU. It is intended to help the student adjust to the demands and responsibilities of graduate professional education, as well as introduce basic concepts in occupational therapy.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2001",
+            "course_name": "Principles of Anatomy",
+            "description": "OT-GE 2001 Principles of Anatomy \nStructure of the human body with emphasis on the musculoskeletal and nervous systems. The relationship between structure and function will be stressed as well as integration of these and other body systems during normal and abnormal function. Students learn all the skeletal system, muscles, peripheral vasculature and nervous systems.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3548",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 306 with Aqua, Offiong09/02/2015 - 12/15/2015 Tue 8.00 AM - 9.15 AM at SILV 520",
+                    "time": "Thu 8.00 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Aqua, Offiong"
+                }
+            ],
+            "course_name": "Human Anatomy",
+            "description": "OT-GE 2002 Human Anatomy \nStructure and function of the skeletal, muscular, nervous and circulatory systems. The course is given in lecture format and enhanced with models, slides, handouts, and videotapes.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2003",
+            "course_name": "Human Anatomy Lab",
+            "description": "OT-GE 2003 Human Anatomy Lab \nFollows and complements the lecture material presented in the Fall semester. Students dissect human cadavers for the purpose of learning the skeletal, muscular, nervous, and circulatory systems.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2010",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3549",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CANT 102",
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Voelbel, Gerald"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "4164",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802",
+                    "time": "Tue 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Voelbel, Gerald"
+                }
+            ],
+            "course_name": "Neuroscience",
+            "description": "OT-GE 2010 Neuroscience \nNeuroanatomy and neurophysiology underlying occupational therapy theory and practice. A foundation in neuroscience to facilitate understanding of human performance as the culmination of the influences of multiple systems.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2025",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4715",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 206",
+                    "time": "Fri 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Goverover, Yael"
+                }
+            ],
+            "course_name": "Research Methods for Occupational Therapy",
+            "description": "OT-GE 2025 Research Methods for Occupational Therapy \nIntroduction for occupational therapist to the practical and ethical methods of scientific inquiry including variable definition, formulating research questions and hypotheses, and proposing research designs for conducting studies.  Refinement of skills for reviewing and critiquing the literature.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2030",
+            "course_name": "Theoretical Bases for The Scope of Practice",
+            "description": "OT-GE 2030 Theoretical Bases for The Scope of Practice \nProvides foundation knowledge underlying occupational therapy practice for the formulation and use of conceptual practice frameworks. The course focuses on the theories supporting current and emerging areas of occupational therapy practice.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2035",
+            "course_name": "Analysis/Human Activity Occupational Perform I",
+            "description": "OT-GE 2035 Analysis/Human Activity Occupational Perform I \nThis lecture and laboratory course presents an in-depth examination of the therapeutic value of purposeful activity/occupation, with emphasis on activity analysis, synthesis, and gradation. The role of the teaching and learning process and its relevance to designing effective intervention is examined.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2039",
+            "course_name": "Medical and Psychiatric Conditions",
+            "description": "OT-GE 2039 Medical and Psychiatric Conditions \nEtiology, pathology, and sequela of selected medical, psychiatric, orthopedic, and neurological conditions that frequently necessitate occupational therapy intervention. Standard diagnostic systems and somatic treatments are reviewed.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2040",
+            "course_name": "Professional Issues I",
+            "description": "OT-GE 2040 Professional Issues I \nDeveloping the professional behaviors necessary to be competent, ethical occupational therapists. Issues related to working in community healthcare arenas are addressed. Preparatory factors for fieldwork are addressed, including interviews for fieldwork placements.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2041",
+            "course_name": "Professional Issues II",
+            "description": "OT-GE 2041 Professional Issues II \nThis course provides students with information to transition from academic learning to clinical reasoning in varied fieldwork settings and practice arenas.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2102",
+            "course_name": "Adapt Microcomp Techn for Pers With Disab II",
+            "description": "OT-GE 2102 Adapt Microcomp Techn for Pers With Disab II",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2170",
+            "course_name": "",
+            "description": "OT-GE 2170\n\n   Disability a Global Contest\n\nThis umbrella course explores the implications of disability in global contexts with varying levels of industrialization. It examines how local civic and private sector arenas, including schools, hospitals, markets or transportation systems affect the lives of people with disabilities. The students will explore and identify factors, which can influence a community's view of disability. Utilizes reflective teaching models and experiential learning. Enriches students' understandings of the impact of context, including enables and barriers to participation in daily life especially for people with...\n\n      more description for OT-GE 2170 \u00bb\n\n      \n\n\n\nThis umbrella course explores the implications of disability in global contexts with varying levels of industrialization. It examines how local civic and private sector arenas, including schools, hospitals, markets or transportation systems affect the lives of people with disabilities. The students will explore and identify factors, which can influence a community's view of disability. Utilizes reflective teaching models and experiential learning. Enriches students' understandings of the impact of context, including enables and barriers to participation in daily life especially for people with disabilities.\n\n      less description for OT-GE 2170 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2171",
+            "course_name": "Disability in a Global Context:Ghana",
+            "description": "OT-GE 2171 Disability in a Global Context:Ghana \nNYU students will learn traditional Ghanaian customs, traditions and lifestyles relative to health and disability. Students will learn about the arts and culture of Ghana. We will study the practices of the region and compare them with the practices and impact of disability in the U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2172",
+            "course_name": "Disability Global Context:  Argentina",
+            "description": "OT-GE 2172 Disability Global Context:  Argentina \nNYU students will learn traditional Argentine customs, traditions & lifestyles relative to health & disability. Students will learn about the arts & culture of Argentina. We will study the practices of the region & compare them with the practices & impact of disability in the U.S.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2197",
+            "course_name": "Appl of Tech Devices for Prevoc Rdness/Voc Plcmnt",
+            "description": "OT-GE 2197 Appl of Tech Devices for Prevoc Rdness/Voc Plcmnt",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2199",
+            "course_name": "Technol Aids in O.T. for Severely Disabled",
+            "description": "OT-GE 2199 Technol Aids in O.T. for Severely Disabled",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2205",
+            "course_name": "Field Data Collect in Ot",
+            "description": "OT-GE 2205 Field Data Collect in Ot",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "3550",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Koenig, Kristie",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3551",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Buckley, Karen",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3552",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Howe, Tsu-Hsin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3553",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Aqua, Offiong",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3554",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Chippendale, Tracy",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3555",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hinojosa, Jim",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3556",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Perr, Anita",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3557",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Poole, Sally",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "3559",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Voelbel, Gerald",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ind Study",
+            "description": "OT-GE 2300 Ind Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2332",
+            "course_name": "Sensory Processing Challenges & Opportunities: Autism",
+            "description": "OT-GE 2332 Sensory Processing Challenges & Opportunities: Autism \nThis course examines occupational therapy & self-advocate literature & research findings for evidence that examines sensory processing assessment & intervention for individuals with autism spectrum disorders with sensory regulatory challenges.   Students' will analyze first person narratives  & relevant research to examine the efficacy & effectiveness of intervention.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2335",
+            "course_name": "Successful Intervention in Schools",
+            "description": "OT-GE 2335 Successful Intervention in Schools \nExamine therapist's perceptions that have an impact on therapy in the classroom. Students will learn to identify strategies and methods that will assist in designing intervention plans that can be implemented in a classroom. Research effective strategies for ensuring best practice in a wide variety of educational systems.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2338",
+            "course_name": "Reframing The Meaning of Disability to Families",
+            "description": "OT-GE 2338 Reframing The Meaning of Disability to Families \nExamination of family centered care for families with special needs. Review theoretical approaches and explore the views and experiences of parents and other care providers. Evaluate the importance of the environment to clinical decision making and service delivery.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2341",
+            "course_name": "Clinic Mgmt I:Bone/Joint Disorders of Upper Quadr",
+            "description": "OT-GE 2341 Clinic Mgmt I:Bone/Joint Disorders of Upper Quadr \nClinical Management I: Bone and Joint Disorders of the Upper Quadrant",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2342",
+            "course_name": "Clinical Management II: Nerve Disorders/Upper",
+            "description": "OT-GE 2342 Clinical Management II: Nerve Disorders/Upper \nEssential to good clinical practice is the use of treatment strategies to the trajectory of recovery of physical function and ultimately occupational performance. This course will use a seminar, laboratory, and workshop model to explore the intervention processes for hand and upper limb nerve disorders that are traumatic or chronic in nature. This course will address nerve injuries in continuity that frequently present as cumulative trauma disorders between tendon and nerve involvement and the subsequent appropriate intervention strategies.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2343",
+            "course_name": "Clinical Management III: Complex Mult-System",
+            "description": "OT-GE 2343 Clinical Management III: Complex Mult-System \nThis course will use lecture, seminar, and laboratory teaching model to explore intervention strategies for the complex, multi-system and/or catastrophic upper limb injuries. As the final course sequence of three treatment courses, it will also address working with the 'difficult' patient and the ways in which the practicing therapist can promote recovery from a physical and psychological perspective.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2405",
+            "course_name": "Fld Data Colle Ot Mh",
+            "description": "OT-GE 2405 Fld Data Colle Ot Mh",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2406",
+            "course_name": "Dir Rsch Ot Ment Hlth",
+            "description": "OT-GE 2406 Dir Rsch Ot Ment Hlth",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2701",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3560",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401 with Perr, Anita; Chippendale, Tracy09/02/2015 - 12/15/2015 Tue 2.00 PM - 3.15 PM at SILV 414",
+                    "time": "Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Perr, Anita; Chippendale, Tracy"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4380",
+                    "section": "002",
+                    "period": "09/29/2015 - 09/29/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "PLSS 63410/20/2015 - 10/20/2015 Tue 9.30 AM - 10.45 AM at PLSS 63411/03/2015 - 11/03/2015 Tue 9.30 AM - 10.45 AM at PLSS 63411/17/2015 - 11/17/2015 Tue 9.30 AM - 10.45 AM at PLSS 63412/01/2015 - 12/01/2015 Tue 9.30 AM - 10.45 AM at PLSS 634"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4381",
+                    "section": "003",
+                    "period": "09/29/2015 - 09/29/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "PANX 64210/20/2015 - 10/20/2015 Tue 9.30 AM - 10.45 AM at PANX 64211/17/2015 - 11/17/2015 Tue 9.30 AM - 10.45 AM at PANX 64211/03/2015 - 11/03/2015 Tue 9.30 AM - 10.45 AM at PANX 64212/01/2015 - 12/01/2015 Tue 9.30 AM - 10.45 AM at PANX 642"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4486",
+                    "section": "004",
+                    "period": "10/06/2015 - 10/06/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "PLSS 63411/24/2015 - 11/24/2015 Tue 9.30 AM - 10.45 AM at PLSS 63411/10/2015 - 11/10/2015 Tue 9.30 AM - 10.45 AM at PLSS 63410/27/2015 - 10/27/2015 Tue 9.30 AM - 10.45 AM at PLSS 63412/08/2015 - 12/08/2015 Tue 9.30 AM - 10.45 AM at PLSS 634"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4487",
+                    "section": "005",
+                    "period": "10/06/2015 - 10/06/2015",
+                    "location": null,
+                    "time": "Tue 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "PANX 64211/10/2015 - 11/10/2015 Tue 9.30 AM - 10.45 AM at PANX 64210/27/2015 - 10/27/2015 Tue 9.30 AM - 10.45 AM at PANX 64211/24/2015 - 11/24/2015 Tue 9.30 AM - 10.30 AM at PANX 64212/08/2015 - 12/08/2015 Tue 9.30 AM - 10.30 AM at PANX 642"
+                }
+            ],
+            "course_name": "Foundations of Occupational Therapy",
+            "description": "OT-GE 2701 Foundations of Occupational Therapy \nThis course orients students to the profession of occupational therapy & its historical & philosophical development. The course examines activities & occupations in the contest in which humans engage & participate in them. Tools of practice, service delivery models, practice settings, & current issues that influence the profession are also examined. Concepts in this foundational course are taught via lecture, discussion, field experiences & lab practica.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2703",
+            "classes": [
+                {
+                    "format": "Clinic",
+                    "class_id": "3561",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rangel, Alison M.",
+                    "time": "Mon,Tue,Wed,Thu,Fri 8.00 AM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Clinic",
+                    "class_id": "3562",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rangel, Alison M.",
+                    "time": "Mon,Tue,Wed,Thu,Fri 8.00 AM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "OT-GE 2703\n\n   Fieldwork II in Ot\n\nSupervised full-time practice in various agencies and institutions in the New York area or elsewhere.  Students gain and apply knowledge in a practice setting.  Students are assigned caseloads that match individual learning needs.  Students show initiative and respond appropriately to supervision.  Students demonstrate ethical professional behavior.  Students should demonstrate entry-level skill with the population to whom they have been assigned.  Mandatory attendance is required at one academic seminar, for students affiliating within the New York area, during each student's initial Fieldwor...\n\n      more description for OT-GE 2703 \u00bb\n\n      \n\n\n\nSupervised full-time practice in various agencies and institutions in the New York area or elsewhere.  Students gain and apply knowledge in a practice setting.  Students are assigned caseloads that match individual learning needs.  Students show initiative and respond appropriately to supervision.  Students demonstrate ethical professional behavior.  Students should demonstrate entry-level skill with the population to whom they have been assigned.  Mandatory attendance is required at one academic seminar, for students affiliating within the New York area, during each student's initial Fieldwork II experience.\n\n      less description for OT-GE 2703 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2704",
+            "classes": [
+                {
+                    "format": "Clinic",
+                    "class_id": "3563",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rangel, Alison M.",
+                    "time": "Mon,Tue,Wed,Thu,Fri 8.00 AM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fieldwork II in Occupational Therapy",
+            "description": "OT-GE 2704 Fieldwork II in Occupational Therapy \nSupervised fieldwork oriented to the development of skills in occupational therapy evaluation and intervention through observation and practice.  Clinical work, seminars, and independent projects.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2707",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3564",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Wed 11.00 AM - 1.15 PM",
+                    "open": true,
+                    "professor": "Tomlinson, Jeffrey"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3565",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-16",
+                    "time": "Wed 11.00 AM - 1.15 PM",
+                    "open": true,
+                    "professor": "Hanif, Henry"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "3566",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Wed 11.00 AM - 1.15 PM",
+                    "open": true,
+                    "professor": "Wadler, Sheri"
+                }
+            ],
+            "course_name": "Activity Group Process Lab",
+            "description": "OT-GE 2707 Activity Group Process Lab \nTheory and practice of small group intervention and process in occupational therapy. Topics will include communication, small group formation, observation and recording, analysis, roles, leadership, group development, structure, use of activities, and therapeutic intervention.  Lecture and laboratory.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2709",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3567",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L120",
+                    "time": "Wed 2.00 PM - 3.50 PM",
+                    "open": true,
+                    "professor": "Chippendale, Tracy"
+                }
+            ],
+            "course_name": "Performance/Development Across The Life Span",
+            "description": "OT-GE 2709 Performance/Development Across The Life Span \nThe role of the occupational therapist in relating maturational data from conception to old age to the practice of occupational therapy.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2710",
+            "course_name": "Kinesiology",
+            "description": "OT-GE 2710 Kinesiology \nStudents are introduced to the principles of biomechanics, joint kinematics, and muscle function, to enhance their understanding of normal human motion. Experiential lab sessions provide illustrations of these concepts as well as the opportunity to develop skill in assessing joint range of motion, muscle strength, and movement patterns.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2721",
+            "classes": [
+                {
+                    "format": "Clinic",
+                    "class_id": "3568",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rangel, Alison M.",
+                    "time": "Mon 9.00 AM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "3571",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "MEYR 157",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Rangel, Alison M."
+                }
+            ],
+            "course_name": "Fldwk I-Psychosocial Development",
+            "description": "OT-GE 2721 Fldwk I-Psychosocial Development \nThis fieldwork course is designed to integrate academic learning with clinical practice.  Students are assigned to two clinical placements during the course of the semester.  The first assignment is for 8 consecutive Mondays & the second is for 8 consecutive days. Weekly seminars focus on discussing students\u2019 experiences as well as clinical, ethical, & professional issues; & practicing clinical skills, problem solving, & documentation.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2722",
+            "course_name": "Fieldwork I-Physical Dysfunction",
+            "description": "OT-GE 2722 Fieldwork I-Physical Dysfunction \nFieldwork I in the spring semester as a continuation of Fieldwork I in the fall semester.  Students integrate academic learning with clinical practice.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2725",
+            "course_name": "Research Interpretation of Occupational Therapy",
+            "description": "OT-GE 2725 Research Interpretation of Occupational Therapy \nThis course focuses on students\u2019 knowledge development within occupational therapy both as a professional consumer of research & as a contributor to the growth of the profession. Students will learn to evaluate clinical literature, determine the evidence level of a clinical study & appraise the applications in everyday practice. In addition, students will work closely with seminar instructors throughout this semester to complete a scholarly report.  A scholarly report can be, but not limited to a critical appraisal topic (CAT) in a specific clinical area, or a data-driven research project.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2736",
+            "course_name": "Analysis/Human Activity Occupational Perform II",
+            "description": "OT-GE 2736 Analysis/Human Activity Occupational Perform II \nEmploying a biopsychosocial model, various aspects of work and productive activities will be explored. Includes psychosocial issues, epidemiology, job analysis, an introduction to ergonomics, work hardening, and social legal issues relative to the world of work.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2741",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3572",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 802 with Poole, Sally09/02/2015 - 12/15/2015 Thu 8.00 AM - 9.15 AM at SILV 401",
+                    "time": "Tue 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Poole, Sally"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3573",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Poole, Sally; Seu, Monica"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3574",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Roth, Gregory; Decarlo, James"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4601",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Dargan, Madge; Seu, Monica"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4602",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Roth, Gregory; Decarlo, James"
+                }
+            ],
+            "course_name": "Orthopedic Evaluation and Intervention",
+            "description": "OT-GE 2741 Orthopedic Evaluation and Intervention \nIntroduces administration of biomechanical evaluation of the upper quadrant, hand and selected other orthopedic conditions; documentation and interpretation of assessment findings; planning and implementation of biomechanical occupational therapy interventions; and fabrication of upper extremity orthocis for persons with physical dysfunctions. Integrates principles and procedures of therapeutic exercises, purposeful activity, independent living skills, and prevention as they contribute to overall performance areas.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2742",
+            "course_name": "Rehab Evaluation and Intervention",
+            "description": "OT-GE 2742 Rehab Evaluation and Intervention \nThe concepts and principles of rehabilitation, habilitation, compensation, and adaptation as they related to individuals with physical disabilities. Development of clinical reasoning to assess and intervene in the areas of activities of daily living, including environmental control: communication, and mobility using assistive equipment and technology. Rehabilitative concepts will be examined and practices as they apply to persons with selected diagnoses",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2743",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3575",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 401 with Buckley, Karen09/02/2015 - 12/15/2015 Tue 12.30 PM - 1.45 PM at SILV 411",
+                    "time": "Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Buckley, Karen"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3576",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Tue 2.00 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "Kahan, Janine"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3577",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Tue 2.00 PM - 3.30 PM",
+                    "open": true,
+                    "professor": "Wong, Diana"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4364",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Tue 4.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "Kahan, Janine"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4365",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Tue 4.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "Wong, Diana"
+                }
+            ],
+            "course_name": "Neurological Evaluation and Intervention",
+            "description": "OT-GE 2743 Neurological Evaluation and Intervention \nTheoretical foundations underlying motor control related to the clinical application of various approaches to the assessment and treatment of clients with neuromotor dysfunction. Development of preliminary skill in assessment of motor behavior, selection of appropriate assessment tools and selection of treatment strategies to promote the client's occupation and role performance. Traditional and contemporary views of motor behavior - motor control, motor development, and motor learning will be presented.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2744",
+            "course_name": "Cognitive Evaluation and Intervention",
+            "description": "OT-GE 2744 Cognitive Evaluation and Intervention \nOrientation to theoretical approaches addressing cognitive and perceptual dysfunction. Emphasis on problem identification: selection of appropriate assessment tools, establishment of goals, documentation and treatment planning for clients with various cognitive and perceptual deficits.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2745",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3578",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 411",
+                    "time": "Wed 9.00 AM - 10.50 AM",
+                    "open": true,
+                    "professor": "Tomlinson, Jeffrey"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3579",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/10/2015",
+                    "location": "PLSS 634",
+                    "time": "Thu 4.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "Goeringer, Laurie"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "3580",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/10/2015",
+                    "location": "PANX 642",
+                    "time": "Thu 4.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "Hanif, Henry"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4376",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/10/2015",
+                    "location": null,
+                    "time": "Thu 4.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": "PLSS 629"
+                }
+            ],
+            "course_name": "Mental Health Evaluation and Intervention",
+            "description": "OT-GE 2745 Mental Health Evaluation and Intervention \nApplication of evaluation and intervention methods in psychosocial occupational therapy practice. Screening, assessment, goal-setting, planning of intervention, implementation of intervention, and program planning in mental health settings. Therapeutic use of self, activity based treatment and clinical application of occupational therapy frames of reference. Major psychiatric disorders as clinical examples.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2746",
+            "course_name": "Community Practice",
+            "description": "OT-GE 2746 Community Practice \nAdvanced knowledge for psychosocial practiced in occupational therapy. Discussion of specific populations including mentally ill substance abusers, mentally ill elderly, homeless persons, persons with eating disorders. Roles of occupational therapists in diverse settings and programs. Family intervention, crises intervention, suicide prevention, program planning of special needs groups in adult care, nursing homes, home care and homeless shelters will be covered. Case management skills for team leadership will be emphasized as prevention as they contribute to overall occupational performance.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2748",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4710",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "KIMM 803 with Koenig, Kristie09/02/2015 - 12/15/2015 Fri 12.30 PM - 1.45 PM at 194M 306",
+                    "time": "Thu 9.30 AM - 11.30 AM",
+                    "open": true,
+                    "professor": "Koenig, Kristie"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4711",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Thu 12.30 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Janowski, Lorene"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4712",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Thu 12.30 PM - 2.00 PM",
+                    "open": true,
+                    "professor": "Warburg, Chaye"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4713",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Thu 2.15 PM - 3.45 PM",
+                    "open": true,
+                    "professor": "Janowski, Lorene"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "4714",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS 634",
+                    "time": "Thu 2.15 PM - 3.45 PM",
+                    "open": true,
+                    "professor": "Warburg, Chaye"
+                }
+            ],
+            "course_name": "Pediatric Evaluation and Intervention",
+            "description": "OT-GE 2748 Pediatric Evaluation and Intervention \nPrinciples and methods of evaluation, goal development, and intervention in pediatric practice in occupational therapy. Factors that influence pediatric practice and selected frames of reference will be discussed. Assessment and intervention methods will be demonstrated, applied, and discussed in laboratory sessions.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2749",
+            "course_name": "Geriatrics Evaluation & Intervention",
+            "description": "OT-GE 2749 Geriatrics Evaluation & Intervention \nThis course provides an overview of occupational therapists\u2019 evaluation & intervention roles, & responsibilities related to working with older people in a variety of settings. Students will examine the influences of physical, social, cognitive, psychological, cultural, & societal functioning on occupational performance. Strategies to address age-related changes will be discussed. The political ramifications of aging are also addressed.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2750",
+            "course_name": "Health Advocacy and Administration",
+            "description": "OT-GE 2750 Health Advocacy and Administration \nOverview of the health care delivery system and ethical, organizational, economic, and political issues influencing delivery of care which affect occupational therapy practice; includes ethics, advocacy, quality assurance, personnel relations, program development, and management of all aspects of occupational therapy services.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2762",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4716",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PANX 642",
+                    "time": "Mon 5.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "Hinojosa, Jim; Koenig, Kristie"
+                }
+            ],
+            "course_name": "Theoretical Foundations for Intervention",
+            "description": "OT-GE 2762 Theoretical Foundations for Intervention \nHow theoretical information is formulated, refined, tested, and assessed relative to its suitability for use in sets of guidelines for occupational therapy practice.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 2763",
+            "course_name": "Developing a Guideline for Intervention",
+            "description": "OT-GE 2763 Developing a Guideline for Intervention \nThe use of applied scientific inquiry to formulate sets of guidelines for occupational therapy.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2764",
+            "course_name": "Ethics & Analytical Reasoning",
+            "description": "OT-GE 2764 Ethics & Analytical Reasoning \nAnalysis of philosophical issues in occupational therapy with an emphasis on considering ethical dilemmas and sound arguments.  Characteristics of analytic philosophy and techniques used in inquiry are explained.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2801",
+            "course_name": "Clinical Anatomy of The Upper Quadrant",
+            "description": "OT-GE 2801 Clinical Anatomy of The Upper Quadrant \nThis course will enable students to enhance their knowledge of upper extremities, face, neck. oral, pharyngeal, and laryngeal cavities through blunt gross dissection, discussion, and reading of selected literature in anatomy. While this is not a treatment course, the participants will discuss the clinical relevance of the anatomical structures to basic clinical problems.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2805",
+            "course_name": "Directed Project Design in Occupational Therapy",
+            "description": "OT-GE 2805 Directed Project Design in Occupational Therapy \nThis course provides occupational therapy students with guidance and supervision in developing a master's research project.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2806",
+            "course_name": "Directed Project in Ot",
+            "description": "OT-GE 2806 Directed Project in Ot \nThis course is designed to provide occupational therapy students with individual guidance and supervision in executing their master's research projects.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 2900",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4717",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "2MTC 803",
+                    "time": "Tue 6.30 PM - 9.10 PM",
+                    "open": true,
+                    "professor": "Goldstein, Allan; Perr, Anita; Leece, Christina"
+                }
+            ],
+            "course_name": "",
+            "description": "OT-GE 2900\n\n   Developing Assistive Technology\n\nThis multi-disciplinary course allows students from a variety of backgrounds to work together to develop examples of assistive technology. Partnering with outside organization students will work in teams to identify a clinical need relevant to a certain clinical site or client population, and learn the process of developing an idea and following that through the development of a prototype product. The major learning activity is the design and fabrication of a device (piece of equipment, software, etc.) that meets a specific need for a specific person with a disability or a clinic that treats c...\n\n      more description for OT-GE 2900 \u00bb\n\n      \n\n\n\nThis multi-disciplinary course allows students from a variety of backgrounds to work together to develop examples of assistive technology. Partnering with outside organization students will work in teams to identify a clinical need relevant to a certain clinical site or client population, and learn the process of developing an idea and following that through the development of a prototype product. The major learning activity is the design and fabrication of a device (piece of equipment, software, etc.) that meets a specific need for a specific person with a disability or a clinic that treats clients with disabilities or a category of people with similar needs as a result of their disability.\n\n      less description for OT-GE 2900 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 3301",
+            "course_name": "Evidence-Based Practice",
+            "description": "OT-GE 3301 Evidence-Based Practice \nStudents will evaluate clinical literature and determine the evidence level of a clinical study, appraise the feasibility of applying such concepts in everyday practice, and design a program evaluation of their own practice using evidence-based approach. The course will emphasize the need for evidence based clinical practice and prepare students to obtain the knowledge and skills for future clinical effectiveness studies (e.g., participate in systematic review, data collections, or being a clinical trial coordinator).",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 3306",
+            "course_name": "Advanced Assessment for Practicing Therapists",
+            "description": "OT-GE 3306 Advanced Assessment for Practicing Therapists \nThe course focuses on the selection and use of an evidence-based evaluation system to measure practice outcomes and interpret clinical change. This process requires selecting the tools for assessment of function based on achieved validity and to accurately interpret observations and measurements.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 3310",
+            "course_name": "Professional Portfolio: Advanced Practice",
+            "description": "OT-GE 3310 Professional Portfolio: Advanced Practice \nStudents will assess and refine their portfolios. Portfolios will be web-based and include performance, observation, case studies, peer ratings, specialty certification documentation of professional activities, publications, and presentation summaries. At the end of the semester, students will present their portfolio to a panel of three faculty members. The portfolio must document how the student integrated knowledge and skills learned in the curriculum to his or her specialty practice area.",
+            "offering": false
+        },
+        {
+            "course_id": "OT-GE 3406",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "4640",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "PLSS ",
+                    "time": "Mon 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Goverover, Yael"
+                }
+            ],
+            "course_name": "Departmental Sem: Ot",
+            "description": "OT-GE 3406 Departmental Sem: Ot \nDoctoral seminar focusing on selection of an area of study for dissertation and review of the literature therein.  Critical examination of scientific and philosophical issues related to student's areas of study.",
+            "offering": true
+        },
+        {
+            "course_id": "OT-GE 3408",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "3581",
+                    "section": "001",
+                    "period": "09/21/2015 - 09/21/2015",
+                    "location": "PLSS 629 with Goverover, Yael10/05/2015 - 10/05/2015 Mon 5.00 PM - 6.15 PM with Goverover, Yael10/19/2015 - 10/19/2015 Mon 5.00 PM - 6.15 PM with Goverover, Yael11/02/2015 - 11/02/2015 Mon 5.00 PM - 6.15 PM with Goverover, Yael11/16/2015 - 11/16/2015 Mon 5.00 PM - 6.15 PM with Goverover, Yael11/30/2015 - 11/30/2015 Mon 5.00 PM - 6.15 PM",
+                    "time": "Mon 5.00 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Goverover, Yael"
+                }
+            ],
+            "course_name": "Doctoral Colloq in Ot",
+            "description": "OT-GE 3408 Doctoral Colloq in Ot \nFinal integrating seminar for doctoral candidates.  Major studies and current research of candidates, faculty, and invited scholars are evaluated.",
+            "offering": true
+        }
+    ]
+}

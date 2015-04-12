@@ -1,0 +1,1201 @@
+{
+    "major_id": "CSCI-GA",
+    "file": "./2015-2016/Computer_Science_(CSCI-GA).html",
+    "courses": [
+        {
+            "course_id": "CSCI-GA 1100",
+            "course_name": "Intro to Computer Tech",
+            "description": "CSCI-GA 1100 Intro to Computer Tech",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 1110",
+            "course_name": "Intro Comp &Computation",
+            "description": "CSCI-GA 1110 Intro Comp &Computation",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 1133",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1157",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 201",
+                    "time": "Tue 6.30 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Korth, Evan"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1776",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Mon 5.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "CIWW 317"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 1133\n\n   PAC I\n\nAn accelerated introduction to the fundamental concepts of computer science for students who lack a formal background in the field. Topics include algorithm design and program develop- ment; data types; control structures; subprograms and parameter passing; recursion; data structures; searching and sorting; dynamic storage allocation and pointers; abstract data types, such as stacks, queues, lists, and tree structures; generic packages; and an introduction to the principles of object-oriented programming. Packages are emphasized as a means to develop skills in effective software design and dev...\n\n      more description for CSCI-GA 1133 \u00bb\n\n      \n\n\n\nAn accelerated introduction to the fundamental concepts of computer science for students who lack a formal background in the field. Topics include algorithm design and program develop- ment; data types; control structures; subprograms and parameter passing; recursion; data structures; searching and sorting; dynamic storage allocation and pointers; abstract data types, such as stacks, queues, lists, and tree structures; generic packages; and an introduction to the principles of object-oriented programming. Packages are emphasized as a means to develop skills in effective software design and development. Students should expect an average of 12-16 hours of programming and related course work per week.\n\n      less description for CSCI-GA 1133 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 1144",
+            "course_name": "PAC II",
+            "description": "CSCI-GA 1144 PAC II \nBuilds directly on the foundation developed in PAC I and extends this two ways: down, to the level of machine architecture, and up, to the higher levels of programming abstraction, using Java and object-oriented programming techniques.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 1170",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1158",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Dodis, Yevgeniy"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1159",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 5.10 PM - 6.00 PM",
+                    "open": true,
+                    "professor": "CIWW 109"
+                }
+            ],
+            "course_name": "Fundamental Algorithms",
+            "description": "CSCI-GA 1170 Fundamental Algorithms \nReviews a number of important algorithms, with emphasis on correctness and efficiency. The topics covered include solution of recurrence equations, sorting algorithms, selection, binary search trees and balanced-tree strategies, tree traversal, partitioning, graphs, spanning trees, shortest paths, connectivity, depth-first and breadth-first search, dynamic programming, and divide-and-conquer techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 1171",
+            "course_name": "Advanced Algorithms",
+            "description": "CSCI-GA 1171 Advanced Algorithms",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 1180",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17764",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Wright, Margaret"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 1180\n\n   Mathematical Techniques for Cs Applications\n\nAn introduction to theory, computational techniques, and applications of linear\nalgebra, probability and statistics. These three areas of continuous mathematics are critical in many parts of computer science, including machine learning, scientific computing, computer vision, computational biology, natural language processing, and computer graphics. The course teaches a specialized language for mathematical computation, such as Matlab, and discusses how the language can be used for computation and for graphical output. No prior knowledge of linear algebra, probability, or statistics is assumed...\n\n      more description for CSCI-GA 1180 \u00bb\n\n      \n\n\n\nAn introduction to theory, computational techniques, and applications of linear\nalgebra, probability and statistics. These three areas of continuous mathematics are critical in many parts of computer science, including machine learning, scientific computing, computer vision, computational biology, natural language processing, and computer graphics. The course teaches a specialized language for mathematical computation, such as Matlab, and discusses how the language can be used for computation and for graphical output. No prior knowledge of linear algebra, probability, or statistics is assumed.\n\n      less description for CSCI-GA 1180 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 1190",
+            "course_name": "Statistical and Mathematical Methods",
+            "description": "CSCI-GA 1190 Statistical and Mathematical Methods",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2110",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1161",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 109",
+                    "time": "Wed 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Goldberg, Benjamin"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1162",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 7.10 PM - 8.00 PM",
+                    "open": true,
+                    "professor": "CIWW 1302"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "2216",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 201",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Plock, Cory"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "1806",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 8.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "CIWW 1302"
+                }
+            ],
+            "course_name": "Programming Languages",
+            "description": "CSCI-GA 2110 Programming Languages \nDiscusses the design, use, and implementation of imperative, object-oriented,\nand functional programming languages. The topics covered include scoping, type systems, control structures, functions, modules, object orientation, exception handling, and concurrency. A variety of languages are studied, including C++, Java, Ada, Lisp, and ML, and concepts are reinforced by programming exercises.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2111",
+            "course_name": "Adv. Prog. Languages",
+            "description": "CSCI-GA 2111 Adv. Prog. Languages",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2112",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1163",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Donev, Aleksandar"
+                }
+            ],
+            "course_name": "Scientific Computing",
+            "description": "CSCI-GA 2112 Scientific Computing \nA practical introduction to scientific computing covering theory and basic algorithms together with use of visualization tools and principles behind reliable, efficient, and accurate software. Students program in C/C++ or MatLab. Specific topics include IEEE arithmetic, conditioning and error analysis, classical numerical analysis (finite difference and integration formulas, etc.), numerical linear algebra, optimization and nonlinear equations, ordinary differential equations, and basic Monte Carlo.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2130",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1164",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Rose, Eva; Rose, Kristoffer"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 2130\n\n   Compiler Construction\n\nThis is a capstone course based on compilers and modern programming languages. The topics covered include structure of one-pass and multiple-pass compilers; symbol table management; lexical analysis; traditional and automated parsing techniques, including recursive descent and LR parsing; syntax-directed translation and semantic analysis; run-time storage management; intermediate code generation; introduction to optimization; and code generation. The course includes a special compiler-related capstone project, which ties together concepts of algorithms, theory (formal languages), programming l...\n\n      more description for CSCI-GA 2130 \u00bb\n\n      \n\n\n\nThis is a capstone course based on compilers and modern programming languages. The topics covered include structure of one-pass and multiple-pass compilers; symbol table management; lexical analysis; traditional and automated parsing techniques, including recursive descent and LR parsing; syntax-directed translation and semantic analysis; run-time storage management; intermediate code generation; introduction to optimization; and code generation. The course includes a special compiler-related capstone project, which ties together concepts of algorithms, theory (formal languages), programming languages, software engineering, computer architecture, and other subjects covered in the M.S. curriculum. This project requires a substantial semester-long programming effort, such as construction of a language compilation or translation system that includes lexical and syntactic analyzers, a type checker, and a code generator..\n\n      less description for CSCI-GA 2130 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2131",
+            "course_name": "Adv Topics in Compilers",
+            "description": "CSCI-GA 2131 Adv Topics in Compilers",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2180",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2218",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Burton, Scott"
+                }
+            ],
+            "course_name": "Financial Software Projects",
+            "description": "CSCI-GA 2180 Financial Software Projects",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2233",
+            "course_name": "Computer Systems Design",
+            "description": "CSCI-GA 2233 Computer Systems Design \nGives students whose interest is in software an introduction to hardware and the logical design of digital computers. Topics include design of basic logic modules and arithmetic units; fixed and microprogrammable control structures; computer architecture; memory organization; and input-output organization.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2235",
+            "course_name": "Vlsi Design",
+            "description": "CSCI-GA 2235 Vlsi Design",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2238",
+            "course_name": "Logic Design Lab",
+            "description": "CSCI-GA 2238 Logic Design Lab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2243",
+            "course_name": "High Performance Computer Arch",
+            "description": "CSCI-GA 2243 High Performance Computer Arch \nMeasures of architecture quality. Memory system techniques: cache-memory design techniques, models of program behavior, cache and virtual memory structures. Pipeline computers, vector processors, and array processors. Multiprocessors, synchronization, cache coherence. Parallelization techniques, efficient parallel software.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2245",
+            "course_name": "UNIX Tools",
+            "description": "CSCI-GA 2245 UNIX Tools \nBrief history of the UNIX operating system: basic utilities (mail, editors); shells; windowing systems; shell programming using UNIX tools (awk, set, grep, tar); networking tools; news readers; etiquette and Internet databases and facilities; C programming tools; UNIX-based systems programming; desktop publishing tools; visualization systems; symbolic algebra tools; and system administration.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2246",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2220",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 202",
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Korn, Jeffrey"
+                }
+            ],
+            "course_name": "Open Source Tools",
+            "description": "CSCI-GA 2246 Open Source Tools",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2250",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1165",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Franke, Hubertus"
+                }
+            ],
+            "course_name": "Operating Systems",
+            "description": "CSCI-GA 2250 Operating Systems \nThe topics covered include a review of linkers and loaders and the high-level design of key operating systems concepts such as process scheduling and synchronization; deadlocks and their prevention; memory management, including (demand) paging and segmentation; and I/O and file systems, with examples from Unix/Linux and Windows. Programming assignments may require C, C++, Java, or C#.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2251",
+            "course_name": "Adv Topics in Op Sys",
+            "description": "CSCI-GA 2251 Adv Topics in Op Sys",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2262",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1830",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Thu 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Franchitti, Jean-Claude"
+                }
+            ],
+            "course_name": "Data Comm & Networks",
+            "description": "CSCI-GA 2262 Data Comm & Networks \nThis course teaches the design and implementation techniques essential for\nengineering robust networks. Topics include networking principles, Transmission Control Protocol/Internet Protocol, naming and addressing (Domain Name System), data encoding/decoding techniques, link layer protocols, routing protocols, transport layer services, congestion control, quality of service, network services, programmable routers and overlay networks.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2263",
+            "course_name": "Adv Data Comm Ntwk Dsgn",
+            "description": "CSCI-GA 2263 Adv Data Comm Ntwk Dsgn",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2270",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17241",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Perlin, Kenneth"
+                }
+            ],
+            "course_name": "Computer Graphics",
+            "description": "CSCI-GA 2270 Computer Graphics \nProblems and objectives of computer graphics. Vector, curve, and character generation. Interactive display devices. Construction of hierarchical image list. Graphic data structures and graphics languages. Hidden-line problems; windowing, shading, and perspective projection. Curved surface generation display.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2271",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2221",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Wed 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Geiger, Davi"
+                }
+            ],
+            "course_name": "Computer Vision",
+            "description": "CSCI-GA 2271 Computer Vision \nBasic techniques of computer vision and image processing. General algorithms for image understanding problems. Study of binary image processing, edge detection, feature extraction, motion estimation, color processing, stereo vision, and elementary object recognition. Mathematical, signal processing, and image processing tools. Relation of computer vision algorithms to the human visual system.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2272",
+            "course_name": "Pattern Recognition",
+            "description": "CSCI-GA 2272 Pattern Recognition",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2273",
+            "course_name": "Image Processing",
+            "description": "CSCI-GA 2273 Image Processing",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2274",
+            "course_name": "Adv Computer Graphics",
+            "description": "CSCI-GA 2274 Adv Computer Graphics \nThis is a projects course based on computer graphic tools. Projects may be in one of the following areas: computer animation, gaming, geometric modeling, motion capture, computational photography, physically-based simulation, scientific visualization, user interfaces, etc. Not all areas are available every semester; the choice of areas is determined by the instructor. Typically, instructors require several of these elements: project proposal, literature review, interim report, project demo, final report.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2280",
+            "course_name": "User Interfaces",
+            "description": "CSCI-GA 2280 User Interfaces \nReview of some of the basic principles and history of user interfaces. Building an interactive window system from the ground up, starting with a generic portable graphics base. Examination of future and emerging (nontraditional) user interfaces, including virtual reality and immersive environments.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2290",
+            "course_name": "Computer Games",
+            "description": "CSCI-GA 2290 Computer Games",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2340",
+            "course_name": "Elem of Discrete Math",
+            "description": "CSCI-GA 2340 Elem of Discrete Math",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2341",
+            "course_name": "Logic, Automata & Lang",
+            "description": "CSCI-GA 2341 Logic, Automata & Lang",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2350",
+            "course_name": "Theory of Computation",
+            "description": "CSCI-GA 2350 Theory of Computation",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2356",
+            "course_name": "Spec Topcs Math Logic",
+            "description": "CSCI-GA 2356 Spec Topcs Math Logic",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2390",
+            "course_name": "Logic in Computer SCI",
+            "description": "CSCI-GA 2390 Logic in Computer SCI \nA beginning graduate-level course in mathematical logic with motivation provided by applications in computer science. There are no formal prerequisites, but the pace of the class requires that students can cope with a significant level of mathematical sophistication. Topics include propositional and first-order logic; soundness, completeness, and compactness of first-order logic; first-order theories; undecidability and Godel's incompleteness theorem; and an introduction to other logics such as second-order and temporal logic.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2420",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1166",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Stadler, Georg"
+                }
+            ],
+            "course_name": "Numerical Methods I",
+            "description": "CSCI-GA 2420 Numerical Methods I",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2421",
+            "course_name": "Numerical Methods II",
+            "description": "CSCI-GA 2421 Numerical Methods II",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2433",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1824",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Tue 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Hielscher, Eric"
+                }
+            ],
+            "course_name": "Database Systems",
+            "description": "CSCI-GA 2433 Database Systems \nDatabase system architecture. Modeling an application and logical database design. The relational model and relational data definition and data manipulation languages. Design of relational databases and normalization theory. Physical database design. Concurrency and recovery. Query processing and optimization.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2434",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1167",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 101",
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Shasha, Dennis"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 2434\n\n   Advanced Topics Database Systems\n\nThis is a capstone course emphasizing large-scale database systems. This course studies the internals of database systems as an introduction to research and as a basis for rational performance tuning. Topics include concurrency control, fault tolerance, operating system interactions, query processing, and principles of tuning. Database capstone projects involve topics such as design, concurrency control, interactions, and tuning. These projects include some or all of the following elements: formation of a small team, project proposal, literature review, interim report, project presentation, an...\n\n      more description for CSCI-GA 2434 \u00bb\n\n      \n\n\n\nThis is a capstone course emphasizing large-scale database systems. This course studies the internals of database systems as an introduction to research and as a basis for rational performance tuning. Topics include concurrency control, fault tolerance, operating system interactions, query processing, and principles of tuning. Database capstone projects involve topics such as design, concurrency control, interactions, and tuning. These projects include some or all of the following elements: formation of a small team, project proposal, literature review, interim report, project presentation, and final report.\n\n      less description for CSCI-GA 2434 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2440",
+            "course_name": "Software Engineering",
+            "description": "CSCI-GA 2440 Software Engineering \nPresents modern software engineering techniques. Examines the software life cycle, including software specification, design, implementation, testing, and maintenance. Object-oriented design methods.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2520",
+            "course_name": "Bioinformatics & Genomes",
+            "description": "CSCI-GA 2520 Bioinformatics & Genomes",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2530",
+            "course_name": "Adv Data Struc/Graph Alg",
+            "description": "CSCI-GA 2530 Adv Data Struc/Graph Alg",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2542",
+            "course_name": "Symbolic Math Computatio",
+            "description": "CSCI-GA 2542 Symbolic Math Computatio",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2560",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17239",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Wed 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Davis, Ernest"
+                }
+            ],
+            "course_name": "Artificial Intelligence",
+            "description": "CSCI-GA 2560 Artificial Intelligence \nThere are many cognitive tasks that people do easily and almost unconsciously but that have proven extremely difficult to program on a computer. Artificial intelligence is the problem of developing computer systems that can carry out these tasks. This course covers problem solving and state space search; automated reasoning; probabilistic reasoning; planning; and knowledge representation",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2561",
+            "course_name": "Adv Topics in Artificial Intelligence",
+            "description": "CSCI-GA 2561 Adv Topics in Artificial Intelligence",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2563",
+            "course_name": "Advanced Topics in Artificial Intelligence",
+            "description": "CSCI-GA 2563 Advanced Topics in Artificial Intelligence",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2565",
+            "course_name": "Machine Learning",
+            "description": "CSCI-GA 2565 Machine Learning \nThis course covers a wide variety of topics in machine learning, pattern recognition, statistical modeling, and neural computation. The course covers the mathematical methods and theoretical aspects but primarily focuses on algorithmic and practical issues.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2566",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2223",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Mohri, Mehryar"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 2566\n\n   Foundations of Machine Learning\n\nThis course introduces the fundamental concepts and methods of machine learning, including the description and analysis of several modern algorithms, their theoretical basis, and the illustration of their applications. Many of the algorithms described have been successfully used in text and speech processing, bioinformatics, and other areas in real-world products and services. The main topics covered are probability and general bounds; PAC model; VC dimension; perceptron, Winnow; support vector machines (SVMs); kernel methods; decision trees; boosting; regression problems and algorithms; ranki...\n\n      more description for CSCI-GA 2566 \u00bb\n\n      \n\n\n\nThis course introduces the fundamental concepts and methods of machine learning, including the description and analysis of several modern algorithms, their theoretical basis, and the illustration of their applications. Many of the algorithms described have been successfully used in text and speech processing, bioinformatics, and other areas in real-world products and services. The main topics covered are probability and general bounds; PAC model; VC dimension; perceptron, Winnow; support vector machines (SVMs); kernel methods; decision trees; boosting; regression problems and algorithms; ranking problems and algorithms; halving algorithm, weighted majority algorithm, mistake bounds; learning automata, Angluin-type algorithms; and reinforcement learning, Markov decision processes (MDPs)\n\n      less description for CSCI-GA 2566 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2567",
+            "course_name": "Machine Learning and Computational Statistics",
+            "description": "CSCI-GA 2567 Machine Learning and Computational Statistics",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2568",
+            "course_name": "Big Data",
+            "description": "CSCI-GA 2568 Big Data",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2569",
+            "course_name": "Inference and Representation",
+            "description": "CSCI-GA 2569 Inference and Representation",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2570",
+            "course_name": "Robotics I",
+            "description": "CSCI-GA 2570 Robotics I",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2571",
+            "course_name": "Advanced Robotics",
+            "description": "CSCI-GA 2571 Advanced Robotics",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2572",
+            "course_name": "Deep Learning",
+            "description": "CSCI-GA 2572 Deep Learning \nThis course seeks to move close to Artificial Intelligence by learning multiple levels of representation and abstraction useful in making sense of data including images, sound, and text. This course provides an introduction to deep learning and an overview of state-of-the art topics.  The pre-requisites include: DS-GA 1001 Intro to Data Science or a graduate-level machine learning course.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2580",
+            "course_name": "Web Search Engines",
+            "description": "CSCI-GA 2580 Web Search Engines \nDiscusses the design of general Discusses the design of general and specialized Web search engines and the extraction of information from the results of Web search engines. Topics include Web crawlers, database design, query language, relevance ranking, document similarity and clustering, the ?invisible? Web, specialized search engines, evaluation, natural language processing, data mining applied to the Web, and multimedia retrieval.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2581",
+            "course_name": "Textual Info Proc II",
+            "description": "CSCI-GA 2581 Textual Info Proc II",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2585",
+            "course_name": "Speech Recognition",
+            "description": "CSCI-GA 2585 Speech Recognition",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2590",
+            "course_name": "",
+            "description": "CSCI-GA 2590\n\n   Natural Lang Processing\n\nSurvey of the techniques used for processing natural language. Syntactic analysis: major syntactic structures of English; alternative formalisms for natural language grammar; parsing algorithms; analyzing coordinate conjunction; parsing with graded acceptability. Semantic analysis: meaning representations; analysis of quantificational structure; semantic constraints; anaphora resolution; analysis of sentence fragments. Analysis of discourse and dialog. Text generation. Students get some experience using a natural language parser and a natural language query interface. Brief weekly written assi...\n\n      more description for CSCI-GA 2590 \u00bb\n\n      \n\n\n\nSurvey of the techniques used for processing natural language. Syntactic analysis: major syntactic structures of English; alternative formalisms for natural language grammar; parsing algorithms; analyzing coordinate conjunction; parsing with graded acceptability. Semantic analysis: meaning representations; analysis of quantificational structure; semantic constraints; anaphora resolution; analysis of sentence fragments. Analysis of discourse and dialog. Text generation. Students get some experience using a natural language parser and a natural language query interface. Brief weekly written assignments and a term project involving a mixture of library research and programming (mostly in LISP).\n\n      less description for CSCI-GA 2590 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2591",
+            "course_name": "",
+            "description": "CSCI-GA 2591\n\n   Adv Natural Lang Process\n\nOne of the roadblocks to improving the performance of natural language systems is the difficulty of acquiring large amounts of knowledge about the properties of language: which words can meaningfully combine in linguistic structures and how words are semantically related. The recent availability of very large machine-readable corpora has sparked increased interest in acquiring this information automatically from text, using a combination of symbolic and statistical analysis. This course reviews some of the recent work in this area, including the following topics: statistical models of language...\n\n      more description for CSCI-GA 2591 \u00bb\n\n      \n\n\n\nOne of the roadblocks to improving the performance of natural language systems is the difficulty of acquiring large amounts of knowledge about the properties of language: which words can meaningfully combine in linguistic structures and how words are semantically related. The recent availability of very large machine-readable corpora has sparked increased interest in acquiring this information automatically from text, using a combination of symbolic and statistical analysis. This course reviews some of the recent work in this area, including the following topics: statistical models of language; entropy and perplexity; n-gram word models: acquisition and smoothing, part-of-speech models; finite state models: hidden Markov models, acquisition procedures; probabilistic context-free grammars: acquisition procedures; semantic models: word-concurrence, word classes; applications in information retrieval, speech recognition, and machine translation.\n\n      less description for CSCI-GA 2591 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2620",
+            "course_name": "Networks & Distributed Systems",
+            "description": "CSCI-GA 2620 Networks & Distributed Systems \nA course in computer networks and large-scale distributed systems. Teaches the design and implementation techniques essential for engineering both robust networks and Internet-scale distributed systems. The goal is to guide students so they can initiate and critique research ideas in networks and distributed systems and implement and evaluate a working system that can handle a real-world workload. Topics include routing protocols, network congestion control, wireless networking, peer-to-peer systems, overlay networks and applications, distributed storage systems, and network security.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2631",
+            "course_name": "Distributed Computing",
+            "description": "CSCI-GA 2631 Distributed Computing \nConcepts underlying distributed systems: synchronization, communication, fault tolerance, and performance. Examined from three points of view: (1) problems, appropriate assumptions, and algorithmic solutions; (2) linguistic constructs; and (3) some typical systems.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2632",
+            "course_name": "Adv Top in Distrib Comp:",
+            "description": "CSCI-GA 2632 Adv Top in Distrib Comp:",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2643",
+            "course_name": "Compiler Opt Tech",
+            "description": "CSCI-GA 2643 Compiler Opt Tech",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2672",
+            "course_name": "Logic of Programming",
+            "description": "CSCI-GA 2672 Logic of Programming",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2710",
+            "course_name": "Computational Systems Biology",
+            "description": "CSCI-GA 2710 Computational Systems Biology",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2715",
+            "course_name": "Representation and Visual Analysis",
+            "description": "CSCI-GA 2715 Representation and Visual Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2721",
+            "course_name": "Bioinformatics",
+            "description": "CSCI-GA 2721 Bioinformatics",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2730",
+            "course_name": "Linear Programming",
+            "description": "CSCI-GA 2730 Linear Programming",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2731",
+            "course_name": "Operations Research",
+            "description": "CSCI-GA 2731 Operations Research",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2750",
+            "course_name": "Adv Tpcs in Num Analysis Nonlinear Optimization",
+            "description": "CSCI-GA 2750 Adv Tpcs in Num Analysis Nonlinear Optimization",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2761",
+            "course_name": "Performance Analysis of Computer Systems",
+            "description": "CSCI-GA 2761 Performance Analysis of Computer Systems",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2812",
+            "course_name": "Program Verification",
+            "description": "CSCI-GA 2812 Program Verification",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2842",
+            "course_name": "Mechanical Theorom Prvng",
+            "description": "CSCI-GA 2842 Mechanical Theorom Prvng",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2862",
+            "course_name": "Recursion Theory",
+            "description": "CSCI-GA 2862 Recursion Theory",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2945",
+            "classes": [
+                {}
+            ],
+            "course_name": "Tpcs in Numerical Analy:Approximation Theory & Practice",
+            "description": "CSCI-GA 2945 Tpcs in Numerical Analy:Approximation Theory & Practice",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 2946",
+            "course_name": "Selected Topics",
+            "description": "CSCI-GA 2946 Selected Topics",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2950",
+            "course_name": "Intro to Cryptography",
+            "description": "CSCI-GA 2950 Intro to Cryptography",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2951",
+            "course_name": "Advanced Cryptography",
+            "description": "CSCI-GA 2951 Advanced Cryptography",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2960",
+            "course_name": "Monte Carlo Methods I",
+            "description": "CSCI-GA 2960 Monte Carlo Methods I",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 2965",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1169",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 317",
+                    "time": "Tue 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Shasha, Dennis"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 2965\n\n   Heuristic Problm Solving\n\nThis course revolves around several problems new to computer science (derived from games or puzzles in columns for Dr. Dobb?s Journal, Scientific American, and elsewhere). The idea is to train students to face a new problem, read relevant literature, and come up with a solution. The solution entails winning a contest against other solutions. The winner receives candy. The best solutions become part of an evolving ?Omniheurist? Web site that is expected to get many visitors over the years. The course is for highly motivated, mathematically adept students. It is open to supported Ph.D. students ...\n\n      more description for CSCI-GA 2965 \u00bb\n\n      \n\n\n\nThis course revolves around several problems new to computer science (derived from games or puzzles in columns for Dr. Dobb?s Journal, Scientific American, and elsewhere). The idea is to train students to face a new problem, read relevant literature, and come up with a solution. The solution entails winning a contest against other solutions. The winner receives candy. The best solutions become part of an evolving ?Omniheurist? Web site that is expected to get many visitors over the years. The course is for highly motivated, mathematically adept students. It is open to supported Ph.D. students and master?s students who have passed the core exam. Class size has been around 10 in the past, and instructor and students have all gotten to know one another very well. Algorithmic and programming knowledge is the main prerequisite. It also helps to be familiar with a rapid prototyping language such as MatLab, Mathematica, K, or Python, or to be completely fluent in some other language.\n\n      less description for CSCI-GA 2965 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3023",
+            "course_name": "Tpcs Industrial Interest",
+            "description": "CSCI-GA 3023 Tpcs Industrial Interest",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3033",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1170",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 317",
+                    "time": "Wed 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Schidlowsky, Michael"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1171",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Li, Jinyang"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1172",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Fri 4.00 PM - 5.50 PM",
+                    "open": true,
+                    "professor": "Burton, Scott"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1173",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 317",
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Zahran, Mohamed"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1174",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Mon 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Cousot, Patrick"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1175",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Thu 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "McIntosh, Suzanne"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "1176",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Thu 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Zibin, Yoav"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "17255",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 512",
+                    "time": "Tue 5.10 PM - 7.00 PM",
+                    "open": true,
+                    "professor": "Petrov, Slav"
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "20034",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 2.00 PM - 4.10 PM",
+                    "open": true,
+                    "professor": "CIWW 412"
+                }
+            ],
+            "course_name": "Spec Top Computer SCI:Distributed SystemsGraphics Processing Units (GPUs): Architcture & PrMusic Software ProjectsPrinciples of Software SecurityProduction Quality SoftwareRealtime and Big Data AnalyticsSocial Multiplayer GamesStatistical Natural Language ProcessingTopics in Digital Media",
+            "description": "CSCI-GA 3033 Spec Top Computer SCI:Distributed SystemsGraphics Processing Units (GPUs): Architcture & PrMusic Software ProjectsPrinciples of Software SecurityProduction Quality SoftwareRealtime and Big Data AnalyticsSocial Multiplayer GamesStatistical Natural Language ProcessingTopics in Digital Media",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3110",
+            "course_name": "Honors Programming Lang",
+            "description": "CSCI-GA 3110 Honors Programming Lang \nIn-depth examination of the four major categories of programming languages: imperative, object-oriented, functional, and logic languages. The specific languages covered include Ada, C++, LISP, ML, Prolog, and SETL. Fundamental issues of programming languages, such as type systems, scoping, concurrency, modularization, control flow, and semantics, are discussed.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3130",
+            "course_name": "Honors Compilers",
+            "description": "CSCI-GA 3130 Honors Compilers \nLexical scanning and scanner generation from regular expressions; LL, LR, and universal parser generation from context-free grammars; syntax-directed translation and attribute grammars; type and general semantic analysis; code generation, peephole optimization, and register allocation; and global program analysis and optimization. Provides experience using a variety of advanced language systems and experimental system prototypes.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3205",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17240",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 312",
+                    "time": "Mon 7.10 PM - 9.00 PM",
+                    "open": true,
+                    "professor": "Kedem, Zvi"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 3205\n\n   Applied Cryptography & Network Security\n\nThis course first introduces the fundamental mathematical cryptographic algorithms, focusing on those that are used in current systems. To the extent feasible, the mathematical properties of the cryptographic algorithms are justified, using elementary mathematical tools. Second, actual security mechanisms and protocols, mainly those employed for network traffic that rely on the previously introduced cryptographic algorithms, are presented. The topics covered will include introduction to basic number- theoretical properties, public/private and symmetric key systems, secure hash functions, digit...\n\n      more description for CSCI-GA 3205 \u00bb\n\n      \n\n\n\nThis course first introduces the fundamental mathematical cryptographic algorithms, focusing on those that are used in current systems. To the extent feasible, the mathematical properties of the cryptographic algorithms are justified, using elementary mathematical tools. Second, actual security mechanisms and protocols, mainly those employed for network traffic that rely on the previously introduced cryptographic algorithms, are presented. The topics covered will include introduction to basic number- theoretical properties, public/private and symmetric key systems, secure hash functions, digital signature standards, digital certificates, IP security, email security, web security, and stand-alone computer privacy and security tools.\n\n      less description for CSCI-GA 3205 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3210",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1862",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 517",
+                    "time": "Mon 11.00 AM - 12.50 PM",
+                    "open": true,
+                    "professor": "Regev, Oded"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 3210\n\n   Intro to Cryptography\n\nThe primary focus of this course is on definitions and constructions of various cryptographic objects, such as pseudorandom generators, encryption schemes, digital signature schemes, message authentication codes, block ciphers, and others, time permitting. The class tries to understand what security properties are desirable in such objects, how to properly define these properties, and how to design objects that satisfy them. Once a good definition is established for a particular object, the emphasis will be on constructing examples that provably satisfy the definition. Thus, a main prerequisit...\n\n      more description for CSCI-GA 3210 \u00bb\n\n      \n\n\n\nThe primary focus of this course is on definitions and constructions of various cryptographic objects, such as pseudorandom generators, encryption schemes, digital signature schemes, message authentication codes, block ciphers, and others, time permitting. The class tries to understand what security properties are desirable in such objects, how to properly define these properties, and how to design objects that satisfy them. Once a good definition is established for a particular object, the emphasis will be on constructing examples that provably satisfy the definition. Thus, a main prerequisite of this course is mathematical maturity and a certain comfort level with proofs. Secondary topics, covered only briefly, are current cryptographic practice and the history of cryptography and cryptanalysis.\n\n      less description for CSCI-GA 3210 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3220",
+            "course_name": "Advanced Cryptography",
+            "description": "CSCI-GA 3220 Advanced Cryptography \nBasics of computational number theory for cryptography. Identification protocols. Digital signatures. Public-key encryption. Additional selected topics.",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3230",
+            "course_name": "Random Graphs",
+            "description": "CSCI-GA 3230 Random Graphs",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3250",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2227",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "719B 1221",
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Walfish, Michael"
+                }
+            ],
+            "course_name": "Honors Operating Systems",
+            "description": "CSCI-GA 3250 Honors Operating Systems \nOperating-system structure. Processes. Process synchronization. Language mechanisms for concurrency. Deadlocks: modeling, prevention, avoidance, and recovery. Memory management. File-system interface. Secondary storage. Distributed systems: layered system design, managing distributed processes, distributed shared memory, fault-tolerance. CPU scheduling. Queuing and performance: analysis of single M/M/1 queue and others. Protection and security. Advanced security concepts: threat monitoring, encryption, and public keys.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3350",
+            "course_name": "Honors Theory of Comp",
+            "description": "CSCI-GA 3350 Honors Theory of Comp",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3433",
+            "course_name": "Database Sys (Honors)",
+            "description": "CSCI-GA 3433 Database Sys (Honors)",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3520",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1177",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 102",
+                    "time": "Mon,Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Shoup, Victor"
+                }
+            ],
+            "course_name": "Honors Analy of Algo",
+            "description": "CSCI-GA 3520 Honors Analy of Algo \nDesign of algorithms and data structures. Review of searching, sorting, and fundamental graph algorithms. In-depth analysis of algorithmic complexity, including advanced topics on recurrence equations and NP-complete problems. Advanced topics on lower bounds, randomized algorithms, amortized algorithms, and data structure design as applied to union-find, pattern matching, polynomial arithmetic, network flow, and matching.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3560",
+            "course_name": "Artificial Intell(Hon)",
+            "description": "CSCI-GA 3560 Artificial Intell(Hon)",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3700",
+            "course_name": "Values Embodied in Info and Communication Tech",
+            "description": "CSCI-GA 3700 Values Embodied in Info and Communication Tech",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3812",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1178",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 317",
+                    "time": "Mon 6.10 PM - 9.10 PM",
+                    "open": true,
+                    "professor": "Franchitti, Jean-Claude"
+                }
+            ],
+            "course_name": "",
+            "description": "CSCI-GA 3812\n\n   Info Tech Projects\n\nThis is a capstone course that connects students directly with real-world information technology problems. The goal of this course is to teach the skills needed for success in real-world information technology via a combination of classroom lectures and practical experience with large projects that have been specified by local \u201cclients.\u201d The typical clients are primarily companies, but can also be government agencies or nonprofit organizations. Each project lasts for the entire semester and is designed to involve the full software project life cycle. Examples of such projects are development o...\n\n      more description for CSCI-GA 3812 \u00bb\n\n      \n\n\n\nThis is a capstone course that connects students directly with real-world information technology problems. The goal of this course is to teach the skills needed for success in real-world information technology via a combination of classroom lectures and practical experience with large projects that have been specified by local \u201cclients.\u201d The typical clients are primarily companies, but can also be government agencies or nonprofit organizations. Each project lasts for the entire semester and is designed to involve the full software project life cycle. Examples of such projects are development of software to solve a business problem, including specifying requirements, writing and testing prototype code, and writing a final report; and evaluation of commercial software to be purchased to address a business problem, including gathering requirements,\ndesigning an architecture to connect the new software with existing systems,\nand assessing the suitability of available software products.\n\n      less description for CSCI-GA 3812 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3813",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "1179",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1180",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1181",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1182",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1183",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1184",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1185",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "1186",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Advanced Lab:",
+            "description": "CSCI-GA 3813 Advanced Lab: \nLarge-scale programming project or research in cooperation with a faculty member or a professional internship.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3820",
+            "course_name": "Literature Seminar",
+            "description": "CSCI-GA 3820 Literature Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3840",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1187",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Master's Thesis Research",
+            "description": "CSCI-GA 3840 Master's Thesis Research",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3850",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1188",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "CIWW 412"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "1189",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Thu 11.00 AM - 12.30 PM",
+                    "open": true,
+                    "professor": "CIWW 412"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2230",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "CIWW 1302",
+                    "time": "Tue 3.45 PM - 5.00 PM",
+                    "open": true,
+                    "professor": "Mohri, Mehryar"
+                }
+            ],
+            "course_name": "PhD Research SeminarCryptographyFormal MethodsMachine Learning",
+            "description": "CSCI-GA 3850 PhD Research SeminarCryptographyFormal MethodsMachine Learning \nGraduate seminars serve as loosely structured forums for exploring research topics from broad areas of computer science. They are designed to foster dialogue by bringing together faculty and students from a given area and to encourage the exchange of ideas. As such, they bridge the gap between more structured course offerings and informal research meetings.",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3860",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1190",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "PhD Thesis Research",
+            "description": "CSCI-GA 3860 PhD Thesis Research",
+            "offering": true
+        },
+        {
+            "course_id": "CSCI-GA 3862",
+            "course_name": "PhD Thesis Research",
+            "description": "CSCI-GA 3862 PhD Thesis Research",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3864",
+            "course_name": "PhD Thesis Research",
+            "description": "CSCI-GA 3864 PhD Thesis Research",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3865",
+            "course_name": "PhD Thesis Research",
+            "description": "CSCI-GA 3865 PhD Thesis Research",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3866",
+            "course_name": "PhD Thesis Research",
+            "description": "CSCI-GA 3866 PhD Thesis Research",
+            "offering": false
+        },
+        {
+            "course_id": "CSCI-GA 3870",
+            "course_name": "Internship in Computer Science Research",
+            "description": "CSCI-GA 3870 Internship in Computer Science Research",
+            "offering": false
+        }
+    ]
+}

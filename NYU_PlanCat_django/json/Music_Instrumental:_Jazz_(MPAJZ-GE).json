@@ -1,0 +1,1194 @@
+{
+    "major_id": "MPAJZ-GE",
+    "file": "./2015-2016/Music_Instrumental:_Jazz_(MPAJZ-GE).html",
+    "courses": [
+        {
+            "course_id": "MPAJZ-GE 2000",
+            "course_name": "Graduate Jazz Seminar",
+            "description": "MPAJZ-GE 2000 Graduate Jazz Seminar \nGraduate Jazz Seminar will present weekly interviews & discussions wit seminal Jazz artists from around the world.  Discussions will include performance practices & oral histories.  Students from the Jazz Studies Program are required to attend.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAJZ-GE 2026",
+            "classes": [
+                {
+                    "format": "Colloquium",
+                    "class_id": "4215",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Alegria, Gabriel",
+                    "time": "Mon 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Colloquy in Music",
+            "description": "MPAJZ-GE 2026 Colloquy in Music \nDesigned primarily for Master's candidates in music performance and/or composition.  Synthesis for learning based on performance.  Recital and a Master's final written project are required.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2075",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "3806",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "3AVN C207",
+                    "time": "Tue 12.30 PM - 2.10 PM",
+                    "open": true,
+                    "professor": "Pietro, David"
+                }
+            ],
+            "course_name": "Jazz Improvisation I",
+            "description": "MPAJZ-GE 2075 Jazz Improvisation I \nGraduate level jazz improvisation for instrumentalists. Focus on extensive playing and reviewing of styles from Bop to free Jazz. Material will be distributed through student transcriptions. Emphasis will be placed on the development of technique, mental focus and comprehending new trends in harmonic practices and applying them in playing situations",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2076",
+            "course_name": "Jazz Improvisation II",
+            "description": "MPAJZ-GE 2076 Jazz Improvisation II \nGraduate level jazz improvisation for instrumentalists. Focus on extensive playing and new trends in jazz composition. Music from contemporary modal, tonal and chromatic sources (hybrid or slash chords) will be used as material for improvisation. Advanced rhythmic concepts will also be studied and applied in playing sessions.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAJZ-GE 2078",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4793",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Schroeder, David",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "The Roots of Jazz: An Original American Art Form",
+            "description": "MPAJZ-GE 2078 The Roots of Jazz: An Original American Art Form \nWhat is jazz music and how was it shaped and developed by specific regions around the world? This class will explore the diverse musical cultures that helped shape jazz music into an original art form. Today, music from around the world has been integrated into modern jazz styles including Latin America, Asia, Africa, Eastern Europe, and the Middle East. By exploring the history and culture of specific geographic points, we hope to better understand the process of jazz through it's history as a model that supports diversity in culture as well as art.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2088",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "3816",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4388",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Alegria, Gabriel",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4389",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4390",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David; Ferber, Alan D.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4391",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David; Rodriguez, Michael J.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4392",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Dick, Robert; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4393",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Drewes, William; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4394",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Drewes, William",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4395",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ferber, Alan D.; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4396",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David; Friedman, Donald",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4397",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hadfield, John; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4398",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Johnston, Randolph; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4399",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lalama, Ralph; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4400",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lalama, Ralph; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4401",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "McClure, Ronald; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4402",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "McClure, Ronald; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4403",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "McDiarmid, Tyler; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4404",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Milne, Edward; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4405",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Milne, Edward; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4406",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Moreno, Anthony; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4407",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Moreno, Anthony; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4408",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pickett, Leonard; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4409",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pietro, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4410",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pietro, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4411",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pilc, Jean; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4412",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pilc, Jean; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4413",
+                    "section": "027",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pilc, Jean; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4414",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Richmond, Michael; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4415",
+                    "section": "029",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rodriguez, Michael J.; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4416",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Santos, Adriano; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4417",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Santos, Adriano; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4418",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Juarez, Yuri",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4419",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Shemaria, Richard; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4420",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Shemaria, Richard; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4421",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schoeppach, Brad; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4559",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schoeppach, Brad; Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4585",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David; Wind, Martin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4591",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hadfield, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4592",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Jazz Ensemble",
+            "description": "MPAJZ-GE 2088 Jazz Ensemble \nEnsemble participation focusing on a variety of jazz styles.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2089",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "4243",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Shemaria, Richard",
+                    "time": "Tue 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Jazz Arranging: Process and Analysis",
+            "description": "MPAJZ-GE 2089 Jazz Arranging: Process and Analysis",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2273",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "3834",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Ferber, Alan D.",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Jazz Arranging & Composition I",
+            "description": "MPAJZ-GE 2273 Jazz Arranging & Composition I \nAn introduction to the materials of jazz arranging through examination of music scores from early twentieth-century sources to the present. Students produce their own arrangements.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2274",
+            "course_name": "Jazz Arranging & Composition II",
+            "description": "MPAJZ-GE 2274 Jazz Arranging & Composition II \nAn extension of MPAJZ-2273 with a special emphasis on arrangements for large jazz ensembles.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAJZ-GE 2275",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "4829",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Alegria, Gabriel",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MPAJZ-GE 2275\n\n   Building Ecosystem: Career Dev Tools for Independent Musician\n\nThe course is designed to introduce graduate students to the techniques, methods, theory & practice used by professional artists in the current state of live music performance. The theoretical portion of the course will provide an overview of techniques & resources made available by the internet & other communications resources in support of independent artists\u2019 careers. Resources such as data base collection, direct-to-fan base building, communication scripts & negotiation tools will be studied and analyzed through case-specific scenarios. The applied part of this course will train students t...\n\n      more description for MPAJZ-GE 2275 \u00bb\n\n      \n\n\n\nThe course is designed to introduce graduate students to the techniques, methods, theory & practice used by professional artists in the current state of live music performance. The theoretical portion of the course will provide an overview of techniques & resources made available by the internet & other communications resources in support of independent artists\u2019 careers. Resources such as data base collection, direct-to-fan base building, communication scripts & negotiation tools will be studied and analyzed through case-specific scenarios. The applied part of this course will train students to use the information in a variety of real-life scenarios that will create a series of career building tools.\n\n      less description for MPAJZ-GE 2275 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2300",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "4219",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4246",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Alegria, Gabriel",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "4247",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pietro, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MPAJZ-GE 2300 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point. Independent study cannot be applied to the established professional education sequence in teaching curricula. Each departmental program has established its own maximum credit allowance for independent study. This information may be obtained from a student?s department. Prior to registering for independent study, each student should obtain an Independent Study Approval Form from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2370",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4239",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schroeder, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4248",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Bernstein, Peter",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4249",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4250",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Werner, Kenneth",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4251",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Drummond, Willis",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4252",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Friedman, Donald",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4253",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Goldstein, Gil",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4254",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hadfield, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4255",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Harris, Stefon",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4256",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Alessi, Ralph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4257",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Johnston, Randolph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4258",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Krantz, Wayne",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4259",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lalama, Ralph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4260",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Scofield, John",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4261",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Potter, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4262",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Milne, Edward",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4263",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Moreno, Anthony",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4264",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pickett, Leonard",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4265",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pietro, David",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4266",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Perry, Richard A.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4267",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Pilc, Jean",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4268",
+                    "section": "022",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Rodriguez, Michael J.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4269",
+                    "section": "023",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Lovano, Joseph",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4270",
+                    "section": "024",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Schoeppach, Brad",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4271",
+                    "section": "025",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Richmond, Michael",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4272",
+                    "section": "026",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Shemaria, Richard",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4273",
+                    "section": "027",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Mason, Elliot J.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4274",
+                    "section": "028",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Wind, Martin",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4275",
+                    "section": "029",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Gress, Andrew D.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4276",
+                    "section": "030",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4277",
+                    "section": "031",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4278",
+                    "section": "032",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "McDiarmid, Tyler",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4279",
+                    "section": "033",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4280",
+                    "section": "034",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4281",
+                    "section": "035",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Turner, Mark F",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4282",
+                    "section": "036",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "McClure, Ronald",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4283",
+                    "section": "037",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hoenig, Ariel",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4284",
+                    "section": "038",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4285",
+                    "section": "039",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4286",
+                    "section": "040",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4287",
+                    "section": "041",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4288",
+                    "section": "042",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Ferber, Alan D.",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4289",
+                    "section": "043",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4290",
+                    "section": "044",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4291",
+                    "section": "045",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4292",
+                    "section": "046",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4293",
+                    "section": "047",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4311",
+                    "section": "048",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Santos, Adriano",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4312",
+                    "section": "049",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Drewes, William",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4313",
+                    "section": "050",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4314",
+                    "section": "051",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4315",
+                    "section": "052",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4316",
+                    "section": "053",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4317",
+                    "section": "054",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4318",
+                    "section": "055",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4319",
+                    "section": "056",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4320",
+                    "section": "057",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4321",
+                    "section": "058",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4322",
+                    "section": "059",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "4323",
+                    "section": "060",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Instrumental Jazz (Private Lessons)",
+            "description": "MPAJZ-GE 2370 Instrumental Jazz (Private Lessons) \nPrivate or group lessons (by examination) in instrumental jazz, supplemented by extra assignments, outside practice, and observation.",
+            "offering": true
+        },
+        {
+            "course_id": "MPAJZ-GE 2600",
+            "course_name": "Music in Contemporary World Culture",
+            "description": "MPAJZ-GE 2600 Music in Contemporary World Culture \nDesigned for music & non-music students. Music in Contemporary World Culture offers a focused exploration of musical genres from around the world. Each seven week course will dedicate to different specific topics such as Afro-Peruvian Music, Music of the Beatles, Hip Hop Music, Rock & Roll, & Music of Bulgaria, Chicago Blues, Afro-Cuban music & Gamelan Music of Indonesia. Students may take up to two of these courses each semester.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAJZ-GE 2601",
+            "course_name": "Music in Contemporary World Cultures: Percussion in Ghana",
+            "description": "MPAJZ-GE 2601 Music in Contemporary World Cultures: Percussion in Ghana \nDesigned for music & non-music students, Percussion in Ghana introduces students to the rich history of percussion with an emphasis on drumming through a combination of hands-on training & trips to significant sites in and around Accra, Ghana.",
+            "offering": false
+        },
+        {
+            "course_id": "MPAJZ-GE 2605",
+            "course_name": "Steel Drum in Trinidad and Tobago",
+            "description": "MPAJZ-GE 2605 Steel Drum in Trinidad and Tobago \nDesigned for music & non-music students, Steel Drum in Trinidad & Tobago will introduce students to the epicenter of steel pan culture through observation, master class & discussion of the steel pan technique & performance art, & location trips to significance that this art form has on the West Indies & the world.  In addition, students will have the opportunity to visit several Trinidadian pan yards to observe the world's best steel drum ensembles.",
+            "offering": false
+        }
+    ]
+}

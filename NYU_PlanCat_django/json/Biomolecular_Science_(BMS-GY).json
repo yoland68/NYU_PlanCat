@@ -1,0 +1,42 @@
+{
+    "major_id": "BMS-GY",
+    "file": "./2015-2016/Biomolecular_Science_(BMS-GY).html",
+    "courses": [
+        {
+            "course_id": "BMS-GY 6005",
+            "course_name": "GUIDED STDS IN BIOMOLECULAR SCIENCE",
+            "description": "BMS-GY 6005 GUIDED STDS IN BIOMOLECULAR SCIENCE",
+            "offering": false
+        },
+        {
+            "course_id": "BMS-GY 6010",
+            "course_name": "GUIDED STDS IN FIN & RISK MNGT",
+            "description": "BMS-GY 6010 GUIDED STDS IN FIN & RISK MNGT",
+            "offering": false
+        },
+        {
+            "course_id": "BMS-GY 8011",
+            "course_name": "ADVANCED MOLECULAR BIOLOGY LAB",
+            "description": "BMS-GY 8011 ADVANCED MOLECULAR BIOLOGY LAB \nLaboratory course covering advanced techniques employed in molecular biology, including gel electrophoresis, chromatography, PCR, blotting, microarrays, restrictions and sequencing of genes.  Practial work in this course illustrates and complements the lectures in BMS-GY 8013.  | Corequisite: BMS-GY 8013.  This course is not open to students who have taken BMS-UY 4324.",
+            "offering": false
+        },
+        {
+            "course_id": "BMS-GY 8013",
+            "course_name": "ADVANCED MOLECULAR BIOLOGY",
+            "description": "BMS-GY 8013 ADVANCED MOLECULAR BIOLOGY \nUnderstanding the complex and dynamic interactions of cellular function.  Topics include classical molecular biology (DNA, RNA and protein biosynthesis), recombinant DNA and genetic engineering, interactions of macromolecules and regulation of biologic systems. | Prerequisite: Instructor's permission.  This course is not open to students who have taken BMS-UY 4342",
+            "offering": false
+        },
+        {
+            "course_id": "BMS-GY 8021",
+            "course_name": "ADVANCED CELL BIOLOGY LABORATORY",
+            "description": "BMS-GY 8021 ADVANCED CELL BIOLOGY LABORATORY \nProvides students with practical experience in some key cell and molecular biology techniques, including analysis of different cell types, cell differentiation, PCR, transformations and selection of cell lines with particular features.  The course covers proper data handling and reporting techniques.  | Co-requisite: BMS-GY 8023.  This course is not open to students who have taken BMS-UY 3314.",
+            "offering": false
+        },
+        {
+            "course_id": "BMS-GY 8023",
+            "course_name": "ADVANCED CELL BIOLOGY",
+            "description": "BMS-GY 8023 ADVANCED CELL BIOLOGY \nUnderstanding cell biology through teh biochemistry of the cell, with emphasis on the structure and function of the cell and its organelles.  Advanced theories of cytoskeletal proteins, cell junctions and matrix, protein signaling and cell death will be covered. | Prerequisite: Instructor's consent.  This course is not open to students who have taken BMS-UY 3314.",
+            "offering": false
+        }
+    ]
+}

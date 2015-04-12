@@ -1,0 +1,684 @@
+{
+    "major_id": "LING-GA",
+    "file": "./2015-2016/Linguistics_(LING-GA).html",
+    "courses": [
+        {
+            "course_id": "LING-GA 44",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16822",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gallagher, Gillian"
+                }
+            ],
+            "course_name": "Field Methods",
+            "description": "LING-GA   44 Field Methods",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 48",
+            "course_name": "Linguistics as Cognitive Science",
+            "description": "LING-GA   48 Linguistics as Cognitive Science",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1010",
+            "course_name": "Foundations of Formal Linguistics",
+            "description": "LING-GA 1010 Foundations of Formal Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1029",
+            "course_name": "Intro to Morphology at An Advanced Level",
+            "description": "LING-GA 1029 Intro to Morphology at An Advanced Level",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1110",
+            "course_name": "Phonetics",
+            "description": "LING-GA 1110 Phonetics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1210",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1521",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Gouskova, Maria"
+                }
+            ],
+            "course_name": "Phonology I",
+            "description": "LING-GA 1210 Phonology I",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 1211",
+            "course_name": "Ling Parameters Phon Realization",
+            "description": "LING-GA 1211 Ling Parameters Phon Realization",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1220",
+            "course_name": "Phonology II",
+            "description": "LING-GA 1220 Phonology II",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1310",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1522",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Harves, Stephanie"
+                }
+            ],
+            "course_name": "Syntax I",
+            "description": "LING-GA 1310 Syntax I",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 1320",
+            "course_name": "Evaluation of Linguistic Theories",
+            "description": "LING-GA 1320 Evaluation of Linguistic Theories",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1330",
+            "course_name": "Ling Struc & Ling Rules",
+            "description": "LING-GA 1330 Ling Struc & Ling Rules",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1340",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1523",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103 with Szabolcsi, Anna09/02/2015 - 12/15/2015 Mon,Wed 2.00 PM - 3.15 PM at 10WP 103",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Szabolcsi, Anna"
+                }
+            ],
+            "course_name": "Semantics I",
+            "description": "LING-GA 1340 Semantics I",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 1410",
+            "course_name": "Historical Linguistics",
+            "description": "LING-GA 1410 Historical Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1420",
+            "course_name": "Thry/Mthds of Etymology",
+            "description": "LING-GA 1420 Thry/Mthds of Etymology",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1510",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "1524",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Tue 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Blake, Renee"
+                }
+            ],
+            "course_name": "Sociolinguistics",
+            "description": "LING-GA 1510 Sociolinguistics",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 1520",
+            "course_name": "African Amer English",
+            "description": "LING-GA 1520 African Amer English",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1610",
+            "course_name": "Montessori/Piaget/Dewey",
+            "description": "LING-GA 1610 Montessori/Piaget/Dewey",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1620",
+            "course_name": "Language & The Law",
+            "description": "LING-GA 1620 Language & The Law",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1710",
+            "course_name": "Philosophical Fdns of Language Study",
+            "description": "LING-GA 1710 Philosophical Fdns of Language Study",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1820",
+            "course_name": "Adv in Comp Proc of Lang",
+            "description": "LING-GA 1820 Adv in Comp Proc of Lang",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1825",
+            "course_name": "Using Wolfram'S Cellular Automata/Mod Human Comm",
+            "description": "LING-GA 1825 Using Wolfram'S Cellular Automata/Mod Human Comm",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1830",
+            "course_name": "Intro to Programming for Linguists",
+            "description": "LING-GA 1830 Intro to Programming for Linguists",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 1910",
+            "course_name": "Linguistics for Non-Linguists",
+            "description": "LING-GA 1910 Linguistics for Non-Linguists",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2052",
+            "course_name": "Intro to Morphology at An Advanced Level",
+            "description": "LING-GA 2052 Intro to Morphology at An Advanced Level",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2110",
+            "course_name": "Acoustic Phonetics",
+            "description": "LING-GA 2110 Acoustic Phonetics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2120",
+            "course_name": "Exper Tech in Sp & Phonetics Research",
+            "description": "LING-GA 2120 Exper Tech in Sp & Phonetics Research",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2210",
+            "course_name": "Phonological Theories",
+            "description": "LING-GA 2210 Phonological Theories",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2220",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16843",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 104",
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Davidson, Lisa; Gallagher, Gillian"
+                }
+            ],
+            "course_name": "Laboratory Phonology",
+            "description": "LING-GA 2220 Laboratory Phonology",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 2310",
+            "course_name": "Syntactic Theory & Analysis",
+            "description": "LING-GA 2310 Syntactic Theory & Analysis",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2320",
+            "course_name": "Mvmnt Rules & Bnding Con",
+            "description": "LING-GA 2320 Mvmnt Rules & Bnding Con",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2330",
+            "course_name": "Professional Seminar",
+            "description": "LING-GA 2330 Professional Seminar",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2340",
+            "course_name": "Lexical Representation",
+            "description": "LING-GA 2340 Lexical Representation",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2350",
+            "course_name": "The Interface of Language & Cognition",
+            "description": "LING-GA 2350 The Interface of Language & Cognition",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2360",
+            "course_name": "Grammatical Reltn/Syntax",
+            "description": "LING-GA 2360 Grammatical Reltn/Syntax",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2370",
+            "course_name": "Semantics II",
+            "description": "LING-GA 2370 Semantics II",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2380",
+            "course_name": "Semantics III",
+            "description": "LING-GA 2380 Semantics III",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2410",
+            "course_name": "Indo-European Grammar and Phonology",
+            "description": "LING-GA 2410 Indo-European Grammar and Phonology",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2420",
+            "course_name": "Sanskrit Grammar & Phonology",
+            "description": "LING-GA 2420 Sanskrit Grammar & Phonology",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2440",
+            "course_name": "Celtic",
+            "description": "LING-GA 2440 Celtic",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2450",
+            "course_name": "Languages in Contact",
+            "description": "LING-GA 2450 Languages in Contact",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2460",
+            "course_name": "Indo-European Syntax",
+            "description": "LING-GA 2460 Indo-European Syntax",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2470",
+            "course_name": "Baltic Linguistics",
+            "description": "LING-GA 2470 Baltic Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2510",
+            "course_name": "Pidgin &Creole Languages",
+            "description": "LING-GA 2510 Pidgin &Creole Languages",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2520",
+            "course_name": "African Lng/Carib Creole",
+            "description": "LING-GA 2520 African Lng/Carib Creole",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2530",
+            "course_name": "Linguistic Variation",
+            "description": "LING-GA 2530 Linguistic Variation",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2540",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16836",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Sociolinguistic Field Methods",
+            "description": "LING-GA 2540 Sociolinguistic Field Methods",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 2550",
+            "course_name": "Language, Gender & Social Identities",
+            "description": "LING-GA 2550 Language, Gender & Social Identities",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2610",
+            "course_name": "First Lang Acquisition",
+            "description": "LING-GA 2610 First Lang Acquisition",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2710",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16823",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Marantz, Alec; Pylkkanen, Mariliina"
+                }
+            ],
+            "course_name": "Neurolinguistics",
+            "description": "LING-GA 2710 Neurolinguistics",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 2810",
+            "course_name": "Computer Modeling of Language Acquisition",
+            "description": "LING-GA 2810 Computer Modeling of Language Acquisition",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2820",
+            "course_name": "Intro to Computational Modeling of Recursion:",
+            "description": "LING-GA 2820 Intro to Computational Modeling of Recursion:",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2920",
+            "course_name": "Jnctr Interact Ling Leve",
+            "description": "LING-GA 2920 Jnctr Interact Ling Leve",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2930",
+            "course_name": "Prbs in The Struc of a Selected Foreign Lang",
+            "description": "LING-GA 2930 Prbs in The Struc of a Selected Foreign Lang",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2940",
+            "course_name": "Statistical Analysis In Linguistics",
+            "description": "LING-GA 2940 Statistical Analysis In Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2945",
+            "course_name": "Statistical Analysis in Linguistics",
+            "description": "LING-GA 2945 Statistical Analysis in Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 2950",
+            "course_name": "Computational Morphology",
+            "description": "LING-GA 2950 Computational Morphology",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3110",
+            "course_name": "Seminar in Phonetics",
+            "description": "LING-GA 3110 Seminar in Phonetics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3120",
+            "course_name": "Sem: Curr Status Speech & Phonetics Rsch",
+            "description": "LING-GA 3120 Sem: Curr Status Speech & Phonetics Rsch",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3210",
+            "course_name": "Seminar in Phonology",
+            "description": "LING-GA 3210 Seminar in Phonology",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3220",
+            "course_name": "Theoret Issues Across Subfields of Linguistics",
+            "description": "LING-GA 3220 Theoret Issues Across Subfields of Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3230",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "16839",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Syntax III",
+            "description": "LING-GA 3230 Syntax III",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 3240",
+            "course_name": "Seminar in Syntax & Semantics",
+            "description": "LING-GA 3240 Seminar in Syntax & Semantics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3250",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "2375",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Wed 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Adriaans, Frans"
+                }
+            ],
+            "course_name": "Computational Methods for Linguistics",
+            "description": "LING-GA 3250 Computational Methods for Linguistics",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 3310",
+            "course_name": "Sem: Problems in Syntac Theory",
+            "description": "LING-GA 3310 Sem: Problems in Syntac Theory",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3320",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1526",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103",
+                    "time": "Mon 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "Baltin, Mark"
+                }
+            ],
+            "course_name": "Seminar in Syntax",
+            "description": "LING-GA 3320 Seminar in Syntax",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 3330",
+            "course_name": "Topics in Syntactic Thry",
+            "description": "LING-GA 3330 Topics in Syntactic Thry",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3340",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "1527",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "10WP 103 with Schlenker, Philippe09/02/2015 - 12/15/2015 Wed 11.00 AM - 1.45 PM at 10WP 103",
+                    "time": "Mon 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Schlenker, Philippe"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "2268",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "10WP 103"
+                }
+            ],
+            "course_name": "Seminar in Semantics",
+            "description": "LING-GA 3340 Seminar in Semantics",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 3350",
+            "course_name": "Recurring Themes in Generative Grammar",
+            "description": "LING-GA 3350 Recurring Themes in Generative Grammar",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3404",
+            "course_name": "Sem On The Lang Cogn Interface",
+            "description": "LING-GA 3404 Sem On The Lang Cogn Interface",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3410",
+            "course_name": "Sem in Hist Linguistics",
+            "description": "LING-GA 3410 Sem in Hist Linguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3420",
+            "course_name": "Sem/Linguistic Reconstr",
+            "description": "LING-GA 3420 Sem/Linguistic Reconstr",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3501",
+            "course_name": "Old Church Slavonic",
+            "description": "LING-GA 3501 Old Church Slavonic",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3510",
+            "course_name": "Sem in Sociolinguistics",
+            "description": "LING-GA 3510 Sem in Sociolinguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3520",
+            "course_name": "Sociophonetics",
+            "description": "LING-GA 3520 Sociophonetics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3550",
+            "course_name": "Recurrent Themes in Hist of Generative Grammar",
+            "description": "LING-GA 3550 Recurrent Themes in Hist of Generative Grammar",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3710",
+            "course_name": "Sem in Neurolinguistics",
+            "description": "LING-GA 3710 Sem in Neurolinguistics",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3820",
+            "course_name": "Sem Comp Models of Lang",
+            "description": "LING-GA 3820 Sem Comp Models of Lang",
+            "offering": false
+        },
+        {
+            "course_id": "LING-GA 3910",
+            "classes": [
+                {},
+                {
+                    "format": "Independent Study",
+                    "class_id": "1768",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Independent Study",
+                    "class_id": "1967",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ],
+            "course_name": "Directed Reading in Linguistics",
+            "description": "LING-GA 3910 Directed Reading in Linguistics",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 3912",
+            "classes": [
+                {}
+            ],
+            "course_name": "Ph.D.Thesis Research",
+            "description": "LING-GA 3912 Ph.D.Thesis Research",
+            "offering": true
+        },
+        {
+            "course_id": "LING-GA 3930",
+            "classes": [
+                {}
+            ],
+            "course_name": "PhD Dissertation Research",
+            "description": "LING-GA 3930 PhD Dissertation Research",
+            "offering": true
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "major_id": "ADSEM-AD",
+    "file": "./2015-2016/Abu_Dhabi_Seminar_Program_(ADSEM-AD).html",
+    "courses": [
+        {
+            "course_id": "ADSEM-AD 10",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13064",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "OP Tutorial",
+            "description": "ADSEM-AD   10 OP Tutorial \nIndividualized sessions addressing language skills and strategies.",
+            "offering": true
+        },
+        {
+            "course_id": "ADSEM-AD 20",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12790",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ways of Knowing",
+            "description": "ADSEM-AD   20 Ways of Knowing \nHow do you know? The central focus in Ways of Knowing is to probe knowledge claims about the world around us in our pursuit of understanding truth. This course encourages one to think critically about how knowledge is gained as individuals and through a shared identity. As global citizens we will evaluate the advantages and disadvantages of each way in which we learn of the world and our place in it.",
+            "offering": true
+        },
+        {
+            "course_id": "ADSEM-AD 20",
+            "course_name": "B Ways of Knowing: Part 2",
+            "description": "ADSEM-AD   20B Ways of Knowing: Part 2",
+            "offering": false
+        },
+        {
+            "course_id": "ADSEM-AD 50",
+            "course_name": "",
+            "description": "ADSEM-AD   50\n\n   Concepts of Statistics\n\nThis course is offered as preparation for a General  Statistics for Social Sciences Course offered at NYUAD. It is intended for students enrolled in the NYUAD Opportunities (OP) /LSF Program ,  and  offers introductory material in statistical concepts and methodology. It is studied in conjunction with Mathematical Functions and meets twice a week for 75 minutes \nThe course introduces the students to Statistical Software (i.e. SPSS), and provides the opportunity to use SPSS to create and solve problems on the computer.\nStudents completing this course are prepared for the more advanced Statist...\n\n      more description for ADSEM-AD   50 \u00bb\n\n      \n\n\n\nThis course is offered as preparation for a General  Statistics for Social Sciences Course offered at NYUAD. It is intended for students enrolled in the NYUAD Opportunities (OP) /LSF Program ,  and  offers introductory material in statistical concepts and methodology. It is studied in conjunction with Mathematical Functions and meets twice a week for 75 minutes \nThe course introduces the students to Statistical Software (i.e. SPSS), and provides the opportunity to use SPSS to create and solve problems on the computer.\nStudents completing this course are prepared for the more advanced Statistics for Social/Behavioral  Sciences Course, and have a good understanding of how Statistical Techniques are used in their major concentration.\n\n      less description for ADSEM-AD   50 \u00ab",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "major_id": "EXLI-UF",
+    "file": "./2015-2016/Experiential_Learning_I_(EXLI-UF).html",
+    "courses": [
+        {
+            "course_id": "EXLI-UF 3051",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "18922",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 384",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Kain, Philip"
+                }
+            ],
+            "course_name": "Service Learning",
+            "description": "EXLI-UF 3051 Service Learning",
+            "offering": true
+        },
+        {
+            "course_id": "EXLI-UF 9301",
+            "course_name": "Experiential Learning IExperiencing BerlinExperiencing Buenos AiresExperiencing FlorenceExperiencing MadridExperiencing ParisExperiencing Tel Aviv",
+            "description": "EXLI-UF 9301 Experiential Learning IExperiencing BerlinExperiencing Buenos AiresExperiencing FlorenceExperiencing MadridExperiencing ParisExperiencing Tel Aviv",
+            "offering": false
+        },
+        {
+            "course_id": "EXLI-UF 9302",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19137",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Ro, Raymond",
+                    "time": "Tue 5.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Experiential Learning II",
+            "description": "EXLI-UF 9302 Experiential Learning II \nThis course aims to complement and enhance the internship experience. Students will learn to critically examine their fieldwork in order to reflect upon what their particular, concrete experience reveals about life in contemporary Shanghai.",
+            "offering": true
+        }
+    ]
+}

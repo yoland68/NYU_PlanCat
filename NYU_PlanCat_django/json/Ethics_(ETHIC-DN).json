@@ -1,0 +1,42 @@
+{
+    "major_id": "ETHIC-DN",
+    "file": "./2015-2016/Ethics_(ETHIC-DN).html",
+    "courses": [
+        {
+            "course_id": "ETHIC-DN 1609",
+            "course_name": "Leadership Elective",
+            "description": "ETHIC-DN 1609 Leadership Elective",
+            "offering": false
+        },
+        {
+            "course_id": "ETHIC-DN 8003",
+            "course_name": "Advanced Education Faculty Evaluation",
+            "description": "ETHIC-DN 8003 Advanced Education Faculty Evaluation",
+            "offering": false
+        },
+        {
+            "course_id": "ETHIC-DN 8004",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19899",
+                    "section": "500",
+                    "period": "09/02/2015 - 09/30/2015 ",
+                    "location": "More, Frederick; Pamiloza, Asuncion",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ethics & Professionalism",
+            "description": "ETHIC-DN 8004 Ethics & Professionalism",
+            "offering": true
+        },
+        {
+            "course_id": "ETHIC-DN 8005",
+            "course_name": "International Core Topics",
+            "description": "ETHIC-DN 8005 International Core Topics",
+            "offering": false
+        }
+    ]
+}

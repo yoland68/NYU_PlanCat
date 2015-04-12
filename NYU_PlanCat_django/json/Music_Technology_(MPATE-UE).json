@@ -1,0 +1,633 @@
+{
+    "major_id": "MPATE-UE",
+    "file": "./2015-2016/Music_Technology_(MPATE-UE).html",
+    "courses": [
+        {
+            "course_id": "MPATE-UE 92",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "11126",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Peacock, Kenneth",
+                    "time": "Wed 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Collegium and Program Seminar",
+            "description": "MPATE-UE   92 Collegium and Program Seminar \nAll undergraduate music majors meet in Collegium six times each semester to discuss broad issues of the music profession, career opportunities, and department matters.  During the remaining weeks students meet with members of their major program for visits with specialists in their field and for programmatic discussions.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 107",
+            "course_name": "Midi Technology I",
+            "description": "MPATE-UE  107 Midi Technology I \nAn introduction to maintenance and trouble shooting concepts used in the recording studio. Procedures discussed are those necessary in utilizing sophisticated audio equipment and understanding essential aspects of studio design.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 110",
+            "course_name": "Audio for Video I",
+            "description": "MPATE-UE  110 Audio for Video I \nAn introduction to the concepts and applications of audio production for video, television and film.  Current production techniques frequently used in the post-production industry will be explored with special emphasis on synchronization and the interfacing of SMPTE time code, and multi-track audio-sweetening techniques including music editing, sound effects design, Foley, and dialog replacement.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 137",
+            "course_name": "Elect Music Synthesis:",
+            "description": "MPATE-UE  137 Elect Music Synthesis: \nAn introductory course in electronic music synthesizer techniques. Basic concepts in the synthesis of music, including generation of sound, voltage control, and treatment of sound, are covered.  Included is a short synopsis of the history and literature of analog electronic music. Students complete laboratory task on analog synthesizer modules and create a project that demonstrates the application of basic concepts.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1000",
+            "classes": [
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11141",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Peacock, Kenneth",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Ind Instr in the Perform Arts",
+                    "class_id": "11289",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Geluso, Paul",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "MPATE-UE 1000 Independent Study \nIt should be noted that independent study requires a minimum of 45 hours of work per point.  Independent study cannot be applied to the established professional education sequence in teaching curricula.  Each departmental program has established its own maximum credit allowance for independent study.  This information may be obtained from a student's department prior to registering for independent study, each student obtain an independent study approval from the adviser.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1001",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "11327",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hirsch, Scott",
+                    "time": "Mon 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "10721",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Geluso, Paul",
+                    "time": "Wed 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Recording Technology I",
+            "description": "MPATE-UE 1001 Recording Technology I \nIntroduction to the physical aspects of sound, sound level measurement, introduction to microphone techniques, psychoacoustics, basic electricity, principles and practice of magnetic recording and an overview of the recording studio.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1002",
+            "course_name": "Recording Techn I Lab",
+            "description": "MPATE-UE 1002 Recording Techn I Lab \nPractical application of the knowledge acquired in E85.1001, including an introduction to multi-track recording techniques and ear training for engineering.  In addition to lectures given during lab time, students form lab groups and are assigned studio time each week in which to perform assignments.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1003",
+            "course_name": "Recording Technology II",
+            "description": "MPATE-UE 1003 Recording Technology II \nDigital recording technology is discussed. Topics include: recording console theory and operations, microphone design and techniques, signal processing and digital effects equipment, hard-disc recording and reproduction.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1004",
+            "course_name": "Record Tech II Lab",
+            "description": "MPATE-UE 1004 Record Tech II Lab \nA practicum in the recording studio that coincides with the lecture schedule and demonstrates all the topics outlined in E85.1003. This course also provides ear training for engineering. In addition to lectures giver during lab time, students form lab groups and are assigned studio time each week in which to perform assignments. A final multi-track project in required.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1005",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10722",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Von Oertzen, Alexandra",
+                    "time": "Tue 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Recording Prat III",
+            "description": "MPATE-UE 1005 Recording Prat III \nPrinciples covered in Recording Technology I and II are put into practice with additional theory and hands-on training. Students perform various duties just as they would in a professional recording session.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1006",
+            "course_name": "Recording Practicum IV",
+            "description": "MPATE-UE 1006 Recording Practicum IV \nA continuation of E85.1005.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1007",
+            "course_name": "Midi Technology I",
+            "description": "MPATE-UE 1007 Midi Technology I \nAn introduction to MIDI (Musical Instrument Digital Interface) with an emphasis on current applications. MIDI sequencing, recording, production and arranging techniques are also incorporated into the course.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1008",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10723",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Glanz, James",
+                    "time": "Wed 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fund of Audio Tech I: Stu Maint",
+            "description": "MPATE-UE 1008 Fund of Audio Tech I: Stu Maint \nAn introduction to maintenance and troubleshooting concepts used in the recording studio.  Procedures discussed are those necessary in utilizing sophisticated audio equipment and understanding essential aspects of studio design.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1009",
+            "course_name": "Fund of Audio Tech II: Stu Maint",
+            "description": "MPATE-UE 1009 Fund of Audio Tech II: Stu Maint \nAdvanced work in studio repair and maintenance focusing on digital equipment. Students will develop practical skills tracing schematics, using test equipment, and replacing components as required daily in the studio environment.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1010",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10724",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Diaz-Cassou, Isabel",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "10725",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Diaz-Cassou, Isabel",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "10726",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Crawford, Langdon",
+                    "time": "Wed 11.00 AM - 12.40 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Audio for Video I",
+            "description": "MPATE-UE 1010 Audio for Video I \nAn introduction to the concepts and applications of audio production for video, television and film.  Current production technqiues frequently used in the post-production industry will be explored with special emphasis on synchronization and the interfacing of SMPTE time code, and multi-track audio-sweetening techniques including music editing, sound effects design, foley, and dialog replacement.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1011",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10727",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Doczi, Thomas",
+                    "time": "Tue 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "10728",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Doczi, Thomas",
+                    "time": "Wed 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Concert Recording I",
+            "description": "MPATE-UE 1011 Concert Recording I \nIntroduction to the concepts of the live concert recording.  Microphone selection, characteristics, and placement, as well as the acoustic problems encountered in concert halls will be discussed.  Students will have the opportunity to apply the lecture material by recording undergraduate rehearsals and recitals.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1012",
+            "course_name": "Concert Recording II",
+            "description": "MPATE-UE 1012 Concert Recording II \nAdvanced techniques in concert recording.  Topics include refinement of microphone placement and the use of artificial reverberation techniques to enhance the natural acoustics of concert halls.  Students will have the opportunity to apply lecture material by recording graduate and faculty concerts.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1014",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10730",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Fried, Joshua",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Midi Technology II",
+            "description": "MPATE-UE 1014 Midi Technology II \nProgramming for MIDI, C, and other appropriate techniques. Design and implementation of software sequencers, interface drivers, and hardware applications will be the focus.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1016",
+            "course_name": "10th Cent Techs & Practs",
+            "description": "MPATE-UE 1016 10th Cent Techs & Practs",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1019",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10732",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Thu 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": "Naphtali, Dafna"
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "11568",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Thu 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": "Naphtali, Dafna"
+                }
+            ],
+            "course_name": "Electronic Music Performance",
+            "description": "MPATE-UE 1019 Electronic Music Performance \nThrough discussions with guest performers, students study the conceptualization and production of live electronics performance pieces.  Individual proposals for several pieces are created, followed by a final live performance project, in which live electronics are an integral part of the concept.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1022",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10775",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Filadelfo, Gary",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "11039",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Griffin, John C.",
+                    "time": "Fri 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Rcdg Tech for Non Majors",
+            "description": "MPATE-UE 1022 Rcdg Tech for Non Majors \nIntroduction to the physical aspects of sound, psychoacoustics, basic electricity, principles and practice of magnetic recording and an overview of the recording studio, including an introduction to multi-track recording techniques. Students perform various duties just as they would in a professional recording session with live musicians in the recording studio. Open to students without previous experience in recording technology.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1035",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10782",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Greenhut, Barry",
+                    "time": "Mon 6.45 PM - 8.25 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Musical Acoustics",
+            "description": "MPATE-UE 1035 Musical Acoustics \nAn introduction to the field of acoustics emphasizing sound production by musical instruments, propagation of sound from source to listener (including electronic reproduction), and psychoacoustics perception of sound.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1037",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10783",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Beyer, Thomas",
+                    "time": "Wed 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Elect Music Synthesis: Fundamental Techn",
+            "description": "MPATE-UE 1037 Elect Music Synthesis: Fundamental Techn \nIntroductory course in electronic music synthesizer techniques.  Students complete laboratory takes on each individual synthesizer module.  Basic concepts in the synthesis of music including generation of sound, voltage control, and treatment  of sound.  Creation of a work that demonstrates application of basic concepts.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1047",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10786",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "McCulloch, Peter",
+                    "time": "Wed 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Comp Music Synthesis: Fundamental Techniques",
+            "description": "MPATE-UE 1047 Comp Music Synthesis: Fundamental Techniques \nIntroduction for teachers, composers, and performers to explore potentials of computer music synthesis.  Basic concepts of music synthesis presented through the use of a microcomputer, keyboard, and appropriate software.  System may be used as a real-time performance instrument or as a studio composition instrument.  Educators may explore potentials for classroom application.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1053",
+            "course_name": "Studio Composition Proj",
+            "description": "MPATE-UE 1053 Studio Composition Proj \nAssigned composition projects in designated analog and digital synthesis studios.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1055",
+            "course_name": "",
+            "description": "MPATE-UE 1055\n\n   Sound Spatialization/Synthesis/Computer-Aided Composition\n\nThis course focuses on three important areas in music technology: spatialization, computer aided composition, analysis & synthesis techniques. In each area, concepts & implementations will be explored in a variety of artistic & technological contexts. Students will work with the latest technologies including IRCAM Tools, Spat plugin, Max Bach library, Ambisonics, & Wave Field Synthesis. The course includes a 3-hour weekly lecture, 3-hour studio lab, & workshops at IRCAM. This course is taught in collaboration with IRCAM in Paris, one of the world leading institutions in computer music and acou...\n\n      more description for MPATE-UE 1055 \u00bb\n\n      \n\n\n\nThis course focuses on three important areas in music technology: spatialization, computer aided composition, analysis & synthesis techniques. In each area, concepts & implementations will be explored in a variety of artistic & technological contexts. Students will work with the latest technologies including IRCAM Tools, Spat plugin, Max Bach library, Ambisonics, & Wave Field Synthesis. The course includes a 3-hour weekly lecture, 3-hour studio lab, & workshops at IRCAM. This course is taught in collaboration with IRCAM in Paris, one of the world leading institutions in computer music and acoustics.\n\n      less description for MPATE-UE 1055 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1070",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10860",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Bukvich-Nichols, Svjetlana",
+                    "time": "Thu 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Software Music Production",
+            "description": "MPATE-UE 1070 Software Music Production \nAnalytical and theoretical concepts required grasping the aesthetic development of electronic and computer music compositions.  The course emphasizes analysis and historical understanding of techniques of production and compositional ideas.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1112",
+            "course_name": "Live Sound Reinforcement Sound Design for Theatre",
+            "description": "MPATE-UE 1112 Live Sound Reinforcement Sound Design for Theatre \nA focus on basic knowledge of live sound reinforcement; applicable to interested students in music theatre, or the performing arts. Course topics introduce mixing consoles, room EQ, speakers, amplification, systems, monitoring systems and electrical requirements, as appropriate to the field.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1225",
+            "course_name": "Audio for Video II",
+            "description": "MPATE-UE 1225 Audio for Video II \nA continuation of E85.1010. This is an advanced detailed study of the audiovisual production and post-production process including digital recording techniques with special emphasis on synchronization and the interfacing of SMPTE time code. Multi-track audio-sweetening techniques including music editing, sound effects design, foley and playback will be discussed, as well as other issues that concern stare-of-the-art post-production.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1633",
+            "course_name": "",
+            "description": "MPATE-UE 1633\n\n   Advanced Topics in Music Technology: Multichannel Media Installation and Performance\n\nMultichannel Media Installation & Performance is a course designed for composers & artists who want to work in a performance or installation context with immersive sound & image technology.  The course focuses on software & hardware workflows for the creative applications of multi-channel sound & immersive video for the creation of fixed, generative, reactive, performance-based, & interactive systems that can be experienced in a gallery context or a live performance.  Students will develop a semester-length project to use scale & immersion to creative effect.  The course will feature regular c...\n\n      more description for MPATE-UE 1633 \u00bb\n\n      \n\n\n\nMultichannel Media Installation & Performance is a course designed for composers & artists who want to work in a performance or installation context with immersive sound & image technology.  The course focuses on software & hardware workflows for the creative applications of multi-channel sound & immersive video for the creation of fixed, generative, reactive, performance-based, & interactive systems that can be experienced in a gallery context or a live performance.  Students will develop a semester-length project to use scale & immersion to creative effect.  The course will feature regular creative critique as well as an overview of relevant interaction design strategies for creating interactive spaces using sensors & cameras.\n\n      less description for MPATE-UE 1633 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1635",
+            "course_name": "Game Audio II",
+            "description": "MPATE-UE 1635 Game Audio II",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1801",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "10935",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Crawford, Langdon",
+                    "time": "Tue 4.55 PM - 6.35 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Fundamentals of Music Technology",
+            "description": "MPATE-UE 1801 Fundamentals of Music Technology \nA general introduction to the fundamental concepts of music technology, including: MIDI and sequencing, the basics of digital audio, sound recording, mixing and sound synthesis,. The course will also briefly overview advanced topics and applications in the field.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1810",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10936",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Rippin, Gregory",
+                    "time": "Thu 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Midi for Non-Majors",
+            "description": "MPATE-UE 1810 Midi for Non-Majors \nAn introduction to MIDI (Musical Instrument Digital Interface) with an emphasis on sequencing, production and arranging techniques. Open to students without previous experience in music technology.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1815",
+            "course_name": "Computational Design",
+            "description": "MPATE-UE 1815 Computational Design \nAn intensive introductory course in computer science that covers the fundamental principles, concepts, and methods of computing. Assignments include extensive programming in C.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 1817",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "11731",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Tue,Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Walker, Saul"
+                }
+            ],
+            "course_name": "Electronics Tech I",
+            "description": "MPATE-UE 1817 Electronics Tech I \nAn introduction to Analog Electronic theory including solid state devices. Ohm's Law and related measurement techniques will be explored. Students arrange for additional lab time to apply hands-on experience in basic circuit design.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1818",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "10937",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Tue 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Walker, Saul"
+                }
+            ],
+            "course_name": "Electronics Tech II",
+            "description": "MPATE-UE 1818 Electronics Tech II \nContinuation of study begun in Electronics Technology I, including and introduction to digital circuitry, simple computer programming techniques, digital processing applied to music with specific relevance to computer music synthesis and MIDI.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1820",
+            "classes": [
+                {}
+            ],
+            "course_name": "Internship in Music Technology",
+            "description": "MPATE-UE 1820 Internship in Music Technology \nAssignment to studios and/or corporations for on-the-job training.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1827",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "11885",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Thu 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Crawford, Langdon"
+                }
+            ],
+            "course_name": "Electronics Technology I Lab",
+            "description": "MPATE-UE 1827 Electronics Technology I Lab \nHands-on lab accompanying Electronics Technology I. Lab session will contain exercises in basic electricity and analog audio circuitry.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1828",
+            "classes": [
+                {
+                    "format": "Laboratory",
+                    "class_id": "11113",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Litt, Steven"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10939",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "EDUC ",
+                    "time": "Thu 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Crawford, Langdon"
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10940",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "10940",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "11710",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                },
+                {
+                    "format": "Laboratory",
+                    "class_id": "11710",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": false,
+                    "professor": null
+                }
+            ],
+            "course_name": "Electronics Technology II Lab",
+            "description": "MPATE-UE 1828 Electronics Technology II Lab \nHands-on lab accompanying Electronics Technology II. Lab session will contain exercises in building and testing logic and digital audio circuits.",
+            "offering": true
+        },
+        {
+            "course_id": "MPATE-UE 1900",
+            "course_name": "Music Technology Undergraduate Capstone Project",
+            "description": "MPATE-UE 1900 Music Technology Undergraduate Capstone Project \nThis course serves as the capstone project class & will provide Seniors guidance & tools to complete an original project of their choice. Students will work with the instructor to define a project, research methods, & work plan. The class will be a combination of group & individual meetings. The experience culminates in a written document & a presentation to peers and faculty",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 9047",
+            "course_name": "Electroacoustic Comp",
+            "description": "MPATE-UE 9047 Electroacoustic Comp \nIntroduction for teachers, composers, and performers to explore potentials of computer music synthesis.  Basic concepts of music synthesis presented through the use of a microcomputer, keyboard, and appropriate software.  System may be used as a real-time performance instrument or as a studio composition instrument.  Educators may explore potentials for classroom application.",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 9055",
+            "course_name": "Sound Spatialization/Synthesis/Computer-Aided Composition",
+            "description": "MPATE-UE 9055 Sound Spatialization/Synthesis/Computer-Aided Composition",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 9555",
+            "course_name": "",
+            "description": "MPATE-UE 9555\n\n   Sound Spatialization/Synthesis/Computer-Aided Composition\n\nThis course focuses on three important areas in music technology: spatialization, computer aided composition, analysis & synthesis techniques. In each area, concepts & implementations will be explored in a variety of artistic & technological contexts. Students will work with the latest technologies including IRCAM Tools, Spat plugin, Max Bach library, Ambisonics, & Wave Field Synthesis. The course includes a 3-hour weekly lecture, 3-hour studio lab, & workshops at IRCAM. This course is taught in collaboration with IRCAM in Paris, one of the world leading institutions in computer music and acou...\n\n      more description for MPATE-UE 9555 \u00bb\n\n      \n\n\n\nThis course focuses on three important areas in music technology: spatialization, computer aided composition, analysis & synthesis techniques. In each area, concepts & implementations will be explored in a variety of artistic & technological contexts. Students will work with the latest technologies including IRCAM Tools, Spat plugin, Max Bach library, Ambisonics, & Wave Field Synthesis. The course includes a 3-hour weekly lecture, 3-hour studio lab, & workshops at IRCAM. This course is taught in collaboration with IRCAM in Paris, one of the world leading institutions in computer music and acoustics.\n\n      less description for MPATE-UE 9555 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MPATE-UE 9820",
+            "course_name": "Intern in Music Tech",
+            "description": "MPATE-UE 9820 Intern in Music Tech \nAssignment to studios and/or corporations for on-the-job training",
+            "offering": false
+        }
+    ]
+}

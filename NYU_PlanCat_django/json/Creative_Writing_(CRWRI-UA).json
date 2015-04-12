@@ -1,0 +1,622 @@
+{
+    "major_id": "CRWRI-UA",
+    "file": "./2015-2016/Creative_Writing_(CRWRI-UA).html",
+    "courses": [
+        {
+            "course_id": "CRWRI-UA 815",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6612",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L113",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Alanis, Edwin"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6613",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL143",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Bean, Melissa"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6614",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L114",
+                    "time": "Mon,Wed 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Berggrun, Chase"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6615",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Mon,Wed 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Sarinsky, Michael"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6616",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 412",
+                    "time": "Mon,Wed 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Bolden, Kelsea"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6617",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "UHAL C02A"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6618",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL03",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Ciano, James"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6619",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL04",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Creste, Laura"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6620",
+                    "section": "009",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL148",
+                    "time": "Tue,Thu 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Cullen, Alyxandra"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6621",
+                    "section": "010",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL03",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Dolan, Linda"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6622",
+                    "section": "011",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL03",
+                    "time": "Mon,Wed 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Nikolopoulos, Angelo"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6623",
+                    "section": "012",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL04",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Fuenzalida, Nicholas"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6624",
+                    "section": "013",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Tue,Thu 8.00 AM - 9.15 AM",
+                    "open": true,
+                    "professor": "Gill, Frances"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "8191",
+                    "section": "014",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL148",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Goldstein, Zoe"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6625",
+                    "section": "015",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 836",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Gonlag, Tyler"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6626",
+                    "section": "016",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Tue,Thu 3.30 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "BOBS 937"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6627",
+                    "section": "017",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL03",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hammad, Isabella"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6628",
+                    "section": "018",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 409",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Hughes, Emily"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6629",
+                    "section": "019",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL02",
+                    "time": "Tue,Thu 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "Kovalenko, George"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6630",
+                    "section": "020",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL140",
+                    "time": "Tue,Thu 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Koyrakh, Alice"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6631",
+                    "section": "021",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 737",
+                    "time": "Tue,Thu 2.00 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Kumin, Noah"
+                }
+            ],
+            "course_name": "Creative Writing: Intro Fiction & Poetry",
+            "description": "CRWRI-UA  815 Creative Writing: Intro Fiction & Poetry \nThis popular introductory workshop offers an exciting introduction to the basic elements of poetry and fiction, with in-class writing, take-home reading and writing assignments, and substantive discussions of craft. The course is structured as a workshop, which means that students receive feedback from their instructor and their fellow writers in a roundtable setting, and they should be prepared to offer their classmates responses to their work.",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 816",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6632",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "ARC_ LL04",
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Foy, George"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6633",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Tue 6.20 PM - 9.05 PM",
+                    "open": true,
+                    "professor": "Jacob, Mira Anna"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6634",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 404",
+                    "time": "Mon 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Jacob, Mira Anna"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6635",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 837",
+                    "time": "Thu 4.55 PM - 7.40 PM",
+                    "open": true,
+                    "professor": "Kitamura, Katie"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6636",
+                    "section": "005",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Fri 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "Gilmore, Jennifer"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6637",
+                    "section": "006",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC3",
+                    "time": "Mon 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Mesmer, Sharon"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "7868",
+                    "section": "007",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "25W4 C-16",
+                    "time": "Wed 2.00 PM - 4.45 PM",
+                    "open": true,
+                    "professor": "Yas, Joanna"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "8116",
+                    "section": "008",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 620",
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Hood, Ann"
+                }
+            ],
+            "course_name": "Intermediate Fiction Workshop",
+            "description": "CRWRI-UA  816 Intermediate Fiction Workshop \nThe intermediate workshops offer budding fiction writers and poets an opportunity to continue their pursuit of writing through workshops that focus on a specific genre. The workshops also integrate in-depth craft discussions and extensive outside reading to deepen students' understanding of the genre and broaden their knowledge of the evolution of literary forms and techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 817",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6638",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "GCASL 365",
+                    "time": "Mon 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Nutter, Geoffrey"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6639",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L113",
+                    "time": "Thu 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Field, Miranda"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6640",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 737",
+                    "time": "Thu 4.55 PM - 7.40 PM",
+                    "open": true,
+                    "professor": "O'Rourke, Meghan"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "7860",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 406",
+                    "time": "Mon 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "Rohrer, Matthew"
+                }
+            ],
+            "course_name": "Intermediate Poetry Workshop",
+            "description": "CRWRI-UA  817 Intermediate Poetry Workshop \nThe intermediate workshops offer budding fiction writers and poets an opportunity to continue their pursuit of writing through workshops that focus on a specific genre. The workshops also integrate in-depth craft discussions and extensive outside reading to deepen students' understanding of the genre and broaden their knowledge of the evolution of literary forms and techniques.",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 818",
+            "course_name": "Writers in NY: Fiction",
+            "description": "CRWRI-UA  818 Writers in NY: Fiction",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 819",
+            "course_name": "Writers in NY: Poetry",
+            "description": "CRWRI-UA  819 Writers in NY: Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 820",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6641",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 737",
+                    "time": "Mon 6.30 PM - 9.15 PM",
+                    "open": true,
+                    "professor": "Clements, Marcelle"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6642",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "12WV L114",
+                    "time": "Tue 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Bock, Charles"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6643",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "WAVE 370",
+                    "time": "Tue 12.30 PM - 3.15 PM",
+                    "open": true,
+                    "professor": "Strauss, Darin"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6644",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Wed 4.55 PM - 7.40 PM",
+                    "open": true,
+                    "professor": "Spanidou, Irini"
+                }
+            ],
+            "course_name": "",
+            "description": "CRWRI-UA  820\n\n   Advanced  Fiction Workshop\n\nAdvanced workshops provide emerging writers with the opportunity to hone their individual voice and experiment with different aesthetic strategies in a genre-specific workshop taught by an eminent writer in the field. The workshops focus on innovative revision techniques, the development of a sustainable writing process, and the broadening of students' literary knowledge of classical and contemporary masters. Each advanced workshop has a distinct emphasis and area of exploration--students are advised to pay close attention to the course descriptions, which are available online and in the progr...\n\n      more description for CRWRI-UA  820 \u00bb\n\n      \n\n\n\nAdvanced workshops provide emerging writers with the opportunity to hone their individual voice and experiment with different aesthetic strategies in a genre-specific workshop taught by an eminent writer in the field. The workshops focus on innovative revision techniques, the development of a sustainable writing process, and the broadening of students' literary knowledge of classical and contemporary masters. Each advanced workshop has a distinct emphasis and area of exploration--students are advised to pay close attention to the course descriptions, which are available online and in the program office prior to registration.\n\n      less description for CRWRI-UA  820 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 825",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6645",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 409",
+                    "time": "Thu 11.00 AM - 1.45 PM",
+                    "open": true,
+                    "professor": "Laurino, Maria"
+                }
+            ],
+            "course_name": "Intermediate Creative Nonfiction Workshop",
+            "description": "CRWRI-UA  825 Intermediate Creative Nonfiction Workshop",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 830",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6646",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "TISC LC4",
+                    "time": "Wed 9.30 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "Zucker, Rachel"
+                },
+                {
+                    "format": "Workshop",
+                    "class_id": "6647",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS LL143",
+                    "time": "Tue 3.30 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "Fitterman, Robert"
+                }
+            ],
+            "course_name": "",
+            "description": "CRWRI-UA  830\n\n   Advanced  Poetry Workshop\n\nAdvanced workshops provide emerging writers with the opportunity to hone their individual voice and experiment with different aesthetic strategies in a genre-specific workshop taught by an eminent writer in the field. The workshops focus on innovative revision techniques, the development of a sustainable writing process, and the broadening of students' literary knowledge of classical and contemporary masters. Each advanced workshop has a distinct emphasis and area of exploration--students are advised to pay close attention to the course descriptions, which are available online and in the progr...\n\n      more description for CRWRI-UA  830 \u00bb\n\n      \n\n\n\nAdvanced workshops provide emerging writers with the opportunity to hone their individual voice and experiment with different aesthetic strategies in a genre-specific workshop taught by an eminent writer in the field. The workshops focus on innovative revision techniques, the development of a sustainable writing process, and the broadening of students' literary knowledge of classical and contemporary masters. Each advanced workshop has a distinct emphasis and area of exploration--students are advised to pay close attention to the course descriptions, which are available online and in the program office prior to registration.\n\n      less description for CRWRI-UA  830 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 835",
+            "course_name": "Writers in NY: Creative Nonfiction",
+            "description": "CRWRI-UA  835 Writers in NY: Creative Nonfiction",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 850",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6649",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "BOBS 736",
+                    "time": "Mon 4.55 PM - 7.40 PM",
+                    "open": true,
+                    "professor": "Beam, Cristen"
+                }
+            ],
+            "course_name": "",
+            "description": "CRWRI-UA  850\n\n   Advanced Creative Nonfiction Workshop\n\nAdvanced workshops provide emerging writers with the opportunity to hone their individual voice and experiment with different aesthetic strategies in a genre-specific workshop taught by an eminent writer in the field. The workshops focus on innovative revision techniques, the development of a sustainable writing process, and the broadening of students' literary knowledge of classical and contemporary masters. Each advanced workshop has a distinct emphasis and area of exploration--students are advised to pay close attention to the course descriptions, which are available online and in the progr...\n\n      more description for CRWRI-UA  850 \u00bb\n\n      \n\n\n\nAdvanced workshops provide emerging writers with the opportunity to hone their individual voice and experiment with different aesthetic strategies in a genre-specific workshop taught by an eminent writer in the field. The workshops focus on innovative revision techniques, the development of a sustainable writing process, and the broadening of students' literary knowledge of classical and contemporary masters. Each advanced workshop has a distinct emphasis and area of exploration--students are advised to pay close attention to the course descriptions, which are available online and in the program office prior to registration.\n\n      less description for CRWRI-UA  850 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 860",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "6650",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "VERN 201",
+                    "time": "Tue 12.30 PM - 3.10 PM",
+                    "open": true,
+                    "professor": "Lipsky, David"
+                }
+            ],
+            "course_name": "Master Class in Fiction",
+            "description": "CRWRI-UA  860 Master Class in Fiction",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 870",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "7556",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "VERN 201",
+                    "time": "Mon 11.00 AM - 1.40 PM",
+                    "open": true,
+                    "professor": "Jackson, Major"
+                }
+            ],
+            "course_name": "Master Class in Poetry",
+            "description": "CRWRI-UA  870 Master Class in Poetry",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 880",
+            "classes": [
+                {
+                    "format": "Workshop",
+                    "class_id": "7557",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "VERN 111",
+                    "time": "Tue 12.30 PM - 3.10 PM",
+                    "open": true,
+                    "professor": "Sayrafiezadeh, Said"
+                }
+            ],
+            "course_name": "Master Class in Creative Nonfiction",
+            "description": "CRWRI-UA  880 Master Class in Creative Nonfiction",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 888",
+            "course_name": "Writers in NY: Fiction (Non-Credit)",
+            "description": "CRWRI-UA  888 Writers in NY: Fiction (Non-Credit)",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 980",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "6651",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "CRWRI-UA  980\n\n   Creative Writing Internship\n\nPrerequisites: a declared minor in creative writing, two CRWRI-UA courses or the equivalent, and approval of the Program in Creative Writing. An internship may not be used to fulfill the minimum requirements of the minor. For full policies, registration procedures, and the application form, please visit the programs website. 2 points. Requires a commitment of 8 to 12 hours of work per week in a position to be approved by the Program in Creative Writing. The internship must be with an external (non-NYU) organization related to the field of creative writing (such as a literary agency, a literary...\n\n      more description for CRWRI-UA  980 \u00bb\n\n      \n\n\n\nPrerequisites: a declared minor in creative writing, two CRWRI-UA courses or the equivalent, and approval of the Program in Creative Writing. An internship may not be used to fulfill the minimum requirements of the minor. For full policies, registration procedures, and the application form, please visit the programs website. 2 points. Requires a commitment of 8 to 12 hours of work per week in a position to be approved by the Program in Creative Writing. The internship must be with an external (non-NYU) organization related to the field of creative writing (such as a literary agency, a literary magazine or book publisher, a literary outreach program, or a nonprofit arts organization). The intern's duties should involve some substantive aspect of writerly work. A five-to-seven-page report is due at the end of the semester, and an evaluation is solicited from the intern's supervisor. Grading is pass/fail. Students are responsible for finding the internship and for receiving approval from the program before the end of the Albert add/drop period.\n\n      less description for CRWRI-UA  980 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "CRWRI-UA 997",
+            "course_name": "Creative Writing: Independent Study",
+            "description": "CRWRI-UA  997 Creative Writing: Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 998",
+            "course_name": "Creative Writing: Independent Study",
+            "description": "CRWRI-UA  998 Creative Writing: Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 999",
+            "course_name": "Writers in NY: Poetry (Non-Credit)",
+            "description": "CRWRI-UA  999 Writers in NY: Poetry (Non-Credit)",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 9815",
+            "course_name": "Creative Writing",
+            "description": "CRWRI-UA 9815 Creative Writing",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 9818",
+            "course_name": "Writers in Paris: Fiction",
+            "description": "CRWRI-UA 9818 Writers in Paris: Fiction",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 9819",
+            "course_name": "Writers in Paris: Poetry",
+            "description": "CRWRI-UA 9819 Writers in Paris: Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 9828",
+            "course_name": "Writers in Florence: Fiction",
+            "description": "CRWRI-UA 9828 Writers in Florence: Fiction",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 9829",
+            "course_name": "Writers in Florence: Poetry",
+            "description": "CRWRI-UA 9829 Writers in Florence: Poetry",
+            "offering": false
+        },
+        {
+            "course_id": "CRWRI-UA 9998",
+            "course_name": "Creative Writing: Independent Study",
+            "description": "CRWRI-UA 9998 Creative Writing: Independent Study",
+            "offering": false
+        }
+    ]
+}

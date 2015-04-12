@@ -1,0 +1,1156 @@
+{
+    "major_id": "DESG-GT",
+    "file": "./2015-2016/Design_(DESG-GT).html",
+    "courses": [
+        {
+            "course_id": "DESG-GT 1000",
+            "course_name": "Production Crew II",
+            "description": "DESG-GT 1000 Production Crew II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1002",
+            "course_name": "Production Crew",
+            "description": "DESG-GT 1002 Production Crew",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1004",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5775",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Young, Christopher",
+                    "time": "Thu 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5776",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Muller, Christopher",
+                    "time": "Wed 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Drawing Year 1",
+            "description": "DESG-GT 1004 Drawing Year 1",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1005",
+            "course_name": "Drawing Year 1",
+            "description": "DESG-GT 1005 Drawing Year 1",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1006",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5920",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Alexander, Evan",
+                    "time": "Tue 6.30 PM - 9.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "CAD Drawing and Visualization",
+            "description": "DESG-GT 1006 CAD Drawing and Visualization",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1007",
+            "course_name": "CAD Drawing and Visualization",
+            "description": "DESG-GT 1007 CAD Drawing and Visualization",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1008",
+            "course_name": "Drafting II",
+            "description": "DESG-GT 1008 Drafting II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1009",
+            "course_name": "Set Studio I",
+            "description": "DESG-GT 1009 Set Studio I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1010",
+            "course_name": "Scene Painting",
+            "description": "DESG-GT 1010 Scene Painting",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1011",
+            "course_name": "Scene Painting",
+            "description": "DESG-GT 1011 Scene Painting",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1012",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5777",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "5778",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Geiger, Mary",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Studio",
+                    "class_id": "5779",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Raywood, Margaret; Fallon, Daun",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Stagecraft I",
+            "description": "DESG-GT 1012 Stagecraft I",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1013",
+            "course_name": "Stagecraft I",
+            "description": "DESG-GT 1013 Stagecraft I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1014",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5780",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Nigrini, Peter",
+                    "time": "Thu 1.00 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Projection Design",
+            "description": "DESG-GT 1014 Projection Design",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1015",
+            "course_name": "Sets for Lights",
+            "description": "DESG-GT 1015 Sets for Lights",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1016",
+            "course_name": "Lighting Studio I",
+            "description": "DESG-GT 1016 Lighting Studio I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1017",
+            "course_name": "3D Design",
+            "description": "DESG-GT 1017 3D Design",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1018",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5781",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hilferty, Susan",
+                    "time": "Mon 12.30 PM - 6.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Costume Design I",
+            "description": "DESG-GT 1018 Costume Design I",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1019",
+            "course_name": "Costume I",
+            "description": "DESG-GT 1019 Costume I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1020",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5782",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Raywood, Margaret09/02/2015 - 12/15/2015 Tue 2.00 PM - 5.00 PM",
+                    "time": "Tue 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Cutting & Draping",
+            "description": "DESG-GT 1020 Cutting & Draping",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1021",
+            "course_name": "Cutting & Draping",
+            "description": "DESG-GT 1021 Cutting & Draping",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1022",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5783",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Muller, Christopher",
+                    "time": "Fri 2.00 PM - 5.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Culture, Costume and Decor",
+            "description": "DESG-GT 1022 Culture, Costume and Decor",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1023",
+            "course_name": "Culture, Costume and Decor",
+            "description": "DESG-GT 1023 Culture, Costume and Decor",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1024",
+            "course_name": "Drawing for Theatre and Film",
+            "description": "DESG-GT 1024 Drawing for Theatre and Film",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1026",
+            "course_name": "Photoshop",
+            "description": "DESG-GT 1026 Photoshop",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1027",
+            "course_name": "Photoshop",
+            "description": "DESG-GT 1027 Photoshop",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1028",
+            "course_name": "Drawing The Figure",
+            "description": "DESG-GT 1028 Drawing The Figure",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1030",
+            "course_name": "Golden Age of Hollywood Musical",
+            "description": "DESG-GT 1030 Golden Age of Hollywood Musical",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1034",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5853",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hughes, Allen; Geiger, Mary; Wierzel, Robert",
+                    "time": "Mon 2.00 PM - 3.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Playreading",
+            "description": "DESG-GT 1034 Playreading",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1035",
+            "course_name": "Playreading",
+            "description": "DESG-GT 1035 Playreading",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1038",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5784",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": "Conklin, John",
+                    "time": "Wed 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Opera - Contexts and Cultures",
+            "description": "DESG-GT 1038 Opera - Contexts and Cultures",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1039",
+            "course_name": "Conceptual Fund of Desgn",
+            "description": "DESG-GT 1039 Conceptual Fund of Desgn",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1040",
+            "course_name": "Introduction to Design Film",
+            "description": "DESG-GT 1040 Introduction to Design Film",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1042",
+            "course_name": "Adv Costume Techniques",
+            "description": "DESG-GT 1042 Adv Costume Techniques",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1043",
+            "course_name": "Adv Costume Techniques",
+            "description": "DESG-GT 1043 Adv Costume Techniques",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1044",
+            "course_name": "Period Style Costume",
+            "description": "DESG-GT 1044 Period Style Costume",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1045",
+            "course_name": "Adv Costume Techniques 11",
+            "description": "DESG-GT 1045 Adv Costume Techniques 11",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1050",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5785",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Landwehr, Hugh",
+                    "time": "Thu 6.00 PM - 8.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Film Studio",
+            "description": "DESG-GT 1050 Film Studio",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1051",
+            "course_name": "Film Studio",
+            "description": "DESG-GT 1051 Film Studio",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1052",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5786",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Zung, David",
+                    "time": "Fri 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "5847",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Muller, Christopher",
+                    "time": "Fri 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Drawing Year 2",
+            "description": "DESG-GT 1052 Drawing Year 2",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1053",
+            "course_name": "Drawing Year 2",
+            "description": "DESG-GT 1053 Drawing Year 2",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1054",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5787",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Jones, Christine",
+                    "time": "Thu 12.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Scenic Design I: Fund of Des",
+            "description": "DESG-GT 1054 Scenic Design I: Fund of Des",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1055",
+            "course_name": "Scenic Design I: Fund of Des",
+            "description": "DESG-GT 1055 Scenic Design I: Fund of Des",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1056",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5788",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Wierzel, Robert",
+                    "time": "Mon 3.00 PM - 6.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Intro to Lighting Design",
+            "description": "DESG-GT 1056 Intro to Lighting Design",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1057",
+            "course_name": "Intro to Lighting Design",
+            "description": "DESG-GT 1057 Intro to Lighting Design",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1058",
+            "course_name": "Set Design Non-Majors",
+            "description": "DESG-GT 1058 Set Design Non-Majors",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1059",
+            "course_name": "Set Design Non-Majors",
+            "description": "DESG-GT 1059 Set Design Non-Majors",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1060",
+            "classes": [
+                {
+                    "format": "Independent Study",
+                    "class_id": "5789",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Independent Study",
+            "description": "DESG-GT 1060 Independent Study",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1061",
+            "course_name": "Independent Study",
+            "description": "DESG-GT 1061 Independent Study",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1062",
+            "course_name": "Character, Space, Camera",
+            "description": "DESG-GT 1062 Character, Space, Camera",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1063",
+            "course_name": "Collaboration II",
+            "description": "DESG-GT 1063 Collaboration II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1064",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5790",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Landwehr, Hugh; Cokorinos, Barbara",
+                    "time": "Thu 8.00 PM - 10.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Film Studio 2",
+            "description": "DESG-GT 1064 Film Studio 2",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1065",
+            "course_name": "Film Studio  II",
+            "description": "DESG-GT 1065 Film Studio  II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1071",
+            "course_name": "Lighting for Non Majors",
+            "description": "DESG-GT 1071 Lighting for Non Majors",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1100",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5791",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lieberman, Andrew",
+                    "time": "Mon 12.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Scenic Design II",
+            "description": "DESG-GT 1100 Scenic Design II",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1101",
+            "course_name": "Scenic Design II",
+            "description": "DESG-GT 1101 Scenic Design II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1102",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5792",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Lieberman, Andrew; Stein, David",
+                    "time": "Tue 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Set Studio 2",
+            "description": "DESG-GT 1102 Set Studio 2",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1103",
+            "course_name": "Set Studio II",
+            "description": "DESG-GT 1103 Set Studio II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1120",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5793",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hughes, Allen; Hoffman, Constance; Lieberman, Andrew",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Production Year 2",
+            "description": "DESG-GT 1120 Production Year 2",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1121",
+            "course_name": "Production Year 2",
+            "description": "DESG-GT 1121 Production Year 2",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1140",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5794",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Steinberg, Paul; Hoffman, Constance; Geiger, Mary",
+                    "time": "Tue 6.30 PM - 9.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Collaboration",
+            "description": "DESG-GT 1140 Collaboration",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1141",
+            "course_name": "Collaboration",
+            "description": "DESG-GT 1141 Collaboration",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1150",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5795",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Geiger, Mary",
+                    "time": "Tue 1.30 PM - 6.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lighting Design I",
+            "description": "DESG-GT 1150 Lighting Design I",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1151",
+            "course_name": "Lighting Design I",
+            "description": "DESG-GT 1151 Lighting Design I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1204",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5796",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hoffman, Constance",
+                    "time": "Mon 1.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Costume Design II",
+            "description": "DESG-GT 1204 Costume Design II",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1205",
+            "course_name": "Costume Design II",
+            "description": "DESG-GT 1205 Costume Design II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1206",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5797",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Raywood, Margaret",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Costume Studio",
+            "description": "DESG-GT 1206 Costume Studio",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1207",
+            "course_name": "Costume Studio",
+            "description": "DESG-GT 1207 Costume Studio",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1210",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5798",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Steinberg, Paul",
+                    "time": "Tue 9.00 AM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Scenic Design III",
+            "description": "DESG-GT 1210 Scenic Design III",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1211",
+            "course_name": "Scenic Design III",
+            "description": "DESG-GT 1211 Scenic Design III",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1212",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5897",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hilferty, Susan",
+                    "time": "Mon 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Collaboration II",
+            "description": "DESG-GT 1212 Collaboration II",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1213",
+            "course_name": "Film Collaboration II",
+            "description": "DESG-GT 1213 Film Collaboration II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1214",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5799",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Jackness, Andrew",
+                    "time": "Sat 9.30 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Design for Film I",
+            "description": "DESG-GT 1214 Design for Film I",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1215",
+            "course_name": "Design for Film I",
+            "description": "DESG-GT 1215 Design for Film I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1216",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5888",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Jackness, Andrew",
+                    "time": "Sat 1.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Design for Film II",
+            "description": "DESG-GT 1216 Design for Film II",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1217",
+            "course_name": "Design for Film II",
+            "description": "DESG-GT 1217 Design for Film II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1218",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5800",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hoffman, Constance; Baird, Campbell",
+                    "time": "Thu 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Costume Exploration",
+            "description": "DESG-GT 1218 Costume Exploration",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1219",
+            "course_name": "Costume Exploration",
+            "description": "DESG-GT 1219 Costume Exploration",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1220",
+            "course_name": "Figure Drawing",
+            "description": "DESG-GT 1220 Figure Drawing",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1221",
+            "course_name": "Figure Drawing",
+            "description": "DESG-GT 1221 Figure Drawing",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1222",
+            "course_name": "Aesthetics: Style",
+            "description": "DESG-GT 1222 Aesthetics: Style",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1224",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5801",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Wed 3.15 PM - 6.15 PM",
+                    "open": true,
+                    "professor": "721B 1027"
+                }
+            ],
+            "course_name": "Aesthetics Inter I",
+            "description": "DESG-GT 1224 Aesthetics Inter I",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1300",
+            "course_name": "Exploring The Text",
+            "description": "DESG-GT 1300 Exploring The Text",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1400",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5802",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hilferty, Susan; Luigs, James",
+                    "time": "Tue 12.00 PM - 6.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Costume Design III",
+            "description": "DESG-GT 1400 Costume Design III",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1401",
+            "course_name": "Costume Design III",
+            "description": "DESG-GT 1401 Costume Design III",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1424",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5803",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Hughes, Allen",
+                    "time": "Tue 9.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lighting Design II",
+            "description": "DESG-GT 1424 Lighting Design II",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1425",
+            "course_name": "Lighting II",
+            "description": "DESG-GT 1425 Lighting II",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1440",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5804",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Palazzo, Paul",
+                    "time": "Thu 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lighting Studio",
+            "description": "DESG-GT 1440 Lighting Studio",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1441",
+            "course_name": "Lighting Studio",
+            "description": "DESG-GT 1441 Lighting Studio",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1450",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5805",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Wierzel, Robert; Geiger, Mary",
+                    "time": "Tue 9.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lighting Design III",
+            "description": "DESG-GT 1450 Lighting Design III",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1451",
+            "course_name": "Lighting Design III",
+            "description": "DESG-GT 1451 Lighting Design III",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1460",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5806",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hughes, Allen",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lighting Production Yr2",
+            "description": "DESG-GT 1460 Lighting Production Yr2",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1461",
+            "course_name": "Lighting Production Yr2",
+            "description": "DESG-GT 1461 Lighting Production Yr2",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1462",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5807",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Geiger, Mary",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Lighting Production Yr3",
+            "description": "DESG-GT 1462 Lighting Production Yr3",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1463",
+            "course_name": "Lightin Prod Year 3",
+            "description": "DESG-GT 1463 Lightin Prod Year 3",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 1500",
+            "classes": [
+                {
+                    "format": "Studio",
+                    "class_id": "5808",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Steinberg, Paul; Hoffman, Constance; Baird, Campbell",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Production Year 3",
+            "description": "DESG-GT 1500 Production Year 3",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 1501",
+            "course_name": "Production Year 3",
+            "description": "DESG-GT 1501 Production Year 3",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2000",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5809",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Conklin, John; Chalfant, Andromache",
+                    "time": "Wed 9.00 AM - 12.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Explore",
+            "description": "DESG-GT 2000 Explore",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 2001",
+            "course_name": "Explore",
+            "description": "DESG-GT 2001 Explore",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2002",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5810",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Cokorinos, Barbara; Baird, Campbell",
+                    "time": "Wed 2.00 PM - 5.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Transitioning into the Profession",
+            "description": "DESG-GT 2002 Transitioning into the Profession",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 2003",
+            "course_name": "Transitioning into the Profession",
+            "description": "DESG-GT 2003 Transitioning into the Profession",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2004",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5978",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Baird, Campbell",
+                    "time": "Thu 9.00 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Connections",
+            "description": "DESG-GT 2004 Connections",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 2005",
+            "course_name": "Connections",
+            "description": "DESG-GT 2005 Connections",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2006",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "5811",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "Jellinek, Laura",
+                    "time": "Sat 10.00 AM - 1.00 PM",
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Set Studio I",
+            "description": "DESG-GT 2006 Set Studio I",
+            "offering": true
+        },
+        {
+            "course_id": "DESG-GT 2007",
+            "course_name": "Set Studio I",
+            "description": "DESG-GT 2007 Set Studio I",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2009",
+            "course_name": "Cad Drafting",
+            "description": "DESG-GT 2009 Cad Drafting",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2020",
+            "course_name": "Adv Drwng & Water Color",
+            "description": "DESG-GT 2020 Adv Drwng & Water Color",
+            "offering": false
+        },
+        {
+            "course_id": "DESG-GT 2021",
+            "course_name": "Figure Drawing II",
+            "description": "DESG-GT 2021 Figure Drawing II",
+            "offering": false
+        }
+    ]
+}

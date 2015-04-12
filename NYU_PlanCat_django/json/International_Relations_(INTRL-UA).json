@@ -1,0 +1,66 @@
+{
+    "major_id": "INTRL-UA",
+    "file": "./2015-2016/International_Relations_(INTRL-UA).html",
+    "courses": [
+        {
+            "course_id": "INTRL-UA 990",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "6920",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "194M 204",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Gilligan, Michael"
+                },
+                {
+                    "format": "Seminar",
+                    "class_id": "6921",
+                    "section": "002",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": "SILV 508",
+                    "time": "Mon,Wed 9.30 AM - 10.45 AM",
+                    "open": true,
+                    "professor": "Smith, Alastair"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6922",
+                    "section": "003",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 11.00 AM - 12.15 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "6923",
+                    "section": "004",
+                    "period": "09/02/2015 - 12/15/2015",
+                    "location": null,
+                    "time": "Fri 12.30 PM - 1.45 PM",
+                    "open": true,
+                    "professor": "194M 304"
+                }
+            ],
+            "course_name": "",
+            "description": "INTRL-UA  990\n\n   Ir Senior Seminar\n\nPrerequisite: permission of the director of the international relations major. Students must maintain a 3.65 GPA to be eligible for this seminar. The first half of the international relations major?s two-semester capstone experience, this course is designed to equip students with the skills required to write an excellent international relations thesis (INTRL-UA 991) in the spring semester. The class is meant to be a bridge between the major?s required class in research methods and the substantive classes in the major. Students learn how to develop explanations for international phenomena, deri...\n\n      more description for INTRL-UA  990 \u00bb\n\n      \n\n\n\nPrerequisite: permission of the director of the international relations major. Students must maintain a 3.65 GPA to be eligible for this seminar. The first half of the international relations major?s two-semester capstone experience, this course is designed to equip students with the skills required to write an excellent international relations thesis (INTRL-UA 991) in the spring semester. The class is meant to be a bridge between the major?s required class in research methods and the substantive classes in the major. Students learn how to develop explanations for international phenomena, derive testable hypotheses, and develop research designs capable of testing them. This class is only offered in the fall and must be taken in the fall semester of the senior year.\n\n      less description for INTRL-UA  990 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "INTRL-UA 991",
+            "course_name": "Ir Senior Honors",
+            "description": "INTRL-UA  991 Ir Senior Honors \nOne term of individual research culminating in the production of a senior thesis of the student?s own choice under the supervision of an appropriate member of the faculty. This class is only offered in the spring semester and must be taken in the spring semester of the senior year.",
+            "offering": false
+        },
+        {
+            "course_id": "INTRL-UA 9801",
+            "course_name": "Internatl Relations Sem:",
+            "description": "INTRL-UA 9801 Internatl Relations Sem:",
+            "offering": false
+        }
+    ]
+}

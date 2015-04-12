@@ -1,0 +1,198 @@
+{
+    "major_id": "PHYS-AD",
+    "file": "./2015-2016/Physics_(PHYS-AD).html",
+    "courses": [
+        {
+            "course_id": "PHYS-AD 100",
+            "course_name": "",
+            "description": "PHYS-AD  100\n\n   Electromagnetism and Special Relativity\n\nThis course is intended to give students a deeper understanding of electricity and magnetism at the introductory level, a bridge between Foundations of Science 3-4 and the intermediate level course Electricity and Magnetism. The topics include derivations of divergence, gradient and curl, Stoke's Theorem, the Vector Potential and origin of magnetic fields. The connection between electricity, magnetism, and Special Relativity is also explained, including time dilation, length contraction and other bizarre phenomena that occur when charges and other matter travel at velocities close to that of l...\n\n      more description for PHYS-AD  100 \u00bb\n\n      \n\n\n\nThis course is intended to give students a deeper understanding of electricity and magnetism at the introductory level, a bridge between Foundations of Science 3-4 and the intermediate level course Electricity and Magnetism. The topics include derivations of divergence, gradient and curl, Stoke's Theorem, the Vector Potential and origin of magnetic fields. The connection between electricity, magnetism, and Special Relativity is also explained, including time dilation, length contraction and other bizarre phenomena that occur when charges and other matter travel at velocities close to that of light.\n\n      less description for PHYS-AD  100 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 298",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "17293",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "PHYS-AD  298\n\n   Directed Study | Directed Study in Physics\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in physics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship.\nTypically, this course is only open to students with a minimum overall GPA of 3.0 and a minimum major GPA of 3.0, and registration requires p...\n\n      more description for PHYS-AD  298 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in physics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship.\nTypically, this course is only open to students with a minimum overall GPA of 3.0 and a minimum major GPA of 3.0, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Physics are available from the Office of the Dean of Science.\n\n      less description for PHYS-AD  298 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 299",
+            "course_name": "",
+            "description": "PHYS-AD  299\n\n   Directed Study | Directed Study in Physics\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in physics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship.\nTypically, this course is only open to students with a minimum overall GPA of 3.0 and a minimum major GPA of 3.0, and registration requires p...\n\n      more description for PHYS-AD  299 \u00bb\n\n      \n\n\n\nThis course is intended for students who are highly motivated and seek the opportunity to work in field or laboratory research with a faculty sponsor from the NYUAD Program in physics. Students with the necessary background in course work and who, in the opinion of a faculty sponsor, possess intellectual independence and ability may register for this course. The student must approach a faculty member in his or her field of interest to obtain sponsorship.\nTypically, this course is only open to students with a minimum overall GPA of 3.0 and a minimum major GPA of 3.0, and registration requires permission of the sponsoring faculty member. Forms for Directed Study in Physics are available from the Office of the Dean of Science.\n\n      less description for PHYS-AD  299 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 300",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12898",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 002",
+                    "time": "Mon,Wed 9.15 AM - 10.30 AM",
+                    "open": true,
+                    "professor": "Arneodo, Francesco"
+                }
+            ],
+            "course_name": "Mechanics",
+            "description": "PHYS-AD  300 Mechanics \nThis course offers a deeper understanding of how physical systems respond to forces. The course starts with the Lagrangian and Hamiltonian formulation of mechanics and students will learn how to solve complicated problems with these powerful formalisms. Other topics include orbital mechanics, the dynamics of rigid bodies, small oscillations, and chaos theory.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 301",
+            "course_name": "Electricity and Magnetism",
+            "description": "PHYS-AD  301 Electricity and Magnetism \nElectromagnetism is one of the four fundamental forces of nature, and is at the basis of almost any kind of device that we use on a daily basis. The course introduces Maxwell\u2019s equations and their applications to physical problems. Topics include electrostatics, magnetostatics, the solution of the Laplace and Poisson equations, dielectrics and magnetic materials, electromagnetic waves and radiation, Fresnel equations, transmission lines, and wave guides.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 302",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12758",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "COMP_RES 003",
+                    "time": "Tue,Thu 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Russell, Esra"
+                }
+            ],
+            "course_name": "Quantum Mechanics",
+            "description": "PHYS-AD  302 Quantum Mechanics \nQuantum mechanics is both a fundamental departure from the classical understanding of the universe and one of the foundational theories on which modern physics is based. Designed to provide a rigorous mathematical introduction to quantum mechanics, this course covers the Schr\u00f6dinger and Heisenberg description of quantum systems, application to basic atomic structure and simple boundary condition problems, quantum statistics, perturbation theory, and scattering.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 303",
+            "course_name": "",
+            "description": "PHYS-AD  303\n\n   Advanced Physics Laboratory\n\nPhysics is an experimental science. In this course the students will assemble and perform some key experiments of modern physics, testing their experimental capabilities and refining their collaboration skills. Possible activities include: muon decay, two-slit interference, interferometry, Fabry-Perot cavity, nuclear magnetic resonance, gamma-ray spectroscopy, astronomic data collection and analysis. Elements of statistics, data analysis and Python programming will also be covered. Students will work in small groups (3 people maximum) and perform typically 3 or 4 experiments, carrying out all ...\n\n      more description for PHYS-AD  303 \u00bb\n\n      \n\n\n\nPhysics is an experimental science. In this course the students will assemble and perform some key experiments of modern physics, testing their experimental capabilities and refining their collaboration skills. Possible activities include: muon decay, two-slit interference, interferometry, Fabry-Perot cavity, nuclear magnetic resonance, gamma-ray spectroscopy, astronomic data collection and analysis. Elements of statistics, data analysis and Python programming will also be covered. Students will work in small groups (3 people maximum) and perform typically 3 or 4 experiments, carrying out all phases: initial step, data taking, analysis, writing a short paper and presenting to an audience.\n\n      less description for PHYS-AD  303 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 305",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12835",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Tue,Thu 10.40 AM - 11.55 AM",
+                    "open": true,
+                    "professor": "COMP_RES 002"
+                }
+            ],
+            "course_name": "Statistical Mechanics and Thermodynamics",
+            "description": "PHYS-AD  305 Statistical Mechanics and Thermodynamics \nUnderstanding the behavior of macroscopic systems composed of many particles requires a statistical approach. Phenomena like the behavior of polyatomic gases, magnetism, thermal radiation, phase changes and many others can be understood through Statistical Mechanics. Topics include relation of entropy to probability and energy to temperature, the laws of thermodynamics, Maxwell-Boltzmann, Bose-Einstein, and Fermi-Dirac statistics, equations of state for simple gases and chemical and magnetic systems, and elementary theory of phase transitions.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 310",
+            "course_name": "Solid State Physics",
+            "description": "PHYS-AD  310 Solid State Physics \nWhat crystals are, and what determines their properties? Solid state physics cover the principles of crystallography; crystal structure; lattice vibrations; band theory for metals and insulators, semiconductors; magnetism; and superconductivity. These topics will be approached with a classical and quantum mechanical approach. Additional areas of current interest such as high temperature superconductivity, quantum Hall Effect, and fullerenes may be included, depending on interest.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 312",
+            "course_name": "Advanced Quantum Mechanics",
+            "description": "PHYS-AD  312 Advanced Quantum Mechanics \nIn this course, the quantum mechanical framework is applied to physical systems. Utilizing approximation techniques applicable across a wide range of the physical sciences, we will explore time-independent and dependent perturbation theory, the variational principle, the WKB approximation, the adiabatic approximation, scattering processes. Though these techniques are applied primarily to problems in quantum mechanics, many of these formalisms are also applicable to a wide variety of problems in atomic physics, nuclear physics, or astrophysics will be explored.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 313",
+            "course_name": "Computational Physics",
+            "description": "PHYS-AD  313 Computational Physics \nModern physics needs computers to solve problems and simulate systems. The course focuses on fields of current research interest where numerical techniques provide unique physical insight. Topics are chosen from various branches of physics, including numerical solution of ordinary and partial differential equations, eigenvalue problems, Monte Carlo methods in statistical mechanics, field theory, dynamical systems, and chaos.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 314",
+            "course_name": "Astrophysics",
+            "description": "PHYS-AD  314 Astrophysics \nThis course deals with an emphasis on the origin of our universe its evolution. Topics include cosmology, stellar structure and evolution (main sequence stars as well as white dwarfs, neutron stars, black holes), galaxies, and cosmic rays. Also the experimental techniques of studying the sky will be covered: radio, optical, X and gamma-ray astronomy, and cosmic ray detection.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 315",
+            "course_name": "Particle Physics",
+            "description": "PHYS-AD  315 Particle Physics \nParticle physics is the study of the fundamental constituents of matter and their interactions. The course introduces the experimental underpinnings and the theoretical developments of elementary particle physics. Topics include the discovery of elementary particles, symmetries found in nature, and relativistic formulation of quantum mechanics, leading up to the Standard Model'. Recent discoveries and theories beyond the Standard Model will also be discussed as time permits.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 316",
+            "course_name": "Special Topics in Physics",
+            "description": "PHYS-AD  316 Special Topics in Physics \nThis course covers advanced topics in physics and astrophysics. Possible subjects are: cosmology, planetary systems, compact objects, galaxy formation and radio-astronomy. The topic may vary each semester, re\ufb02ecting the research areas of faculty and based on the students\u2019 interest.",
+            "offering": false
+        },
+        {
+            "course_id": "PHYS-AD 317",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "20451",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": "CAMP W005",
+                    "time": "Mon,Wed 2.10 PM - 3.25 PM",
+                    "open": true,
+                    "professor": "Russell, David"
+                }
+            ],
+            "course_name": "",
+            "description": "PHYS-AD  317\n\n   Mutli-wavelength Astronomy\n\nprime source of our information is light, and until the 20th century, that meant only optical light, but starting with the discovery of cosmic radio waves in 1931, the rest of the electromagnetic spectrum has been opened up to astronomers. Each region of the spectrum (radio, microwave, infrared, optical, X-ray, and gamma-ray) requires different detection technologies and analysis techniques. Each waveband tells us about different aspects of astronomical sources and the Universe as a whole. This course will provide an overview of multi-wavelength astronomy: the telescopes, techniques, emission ...\n\n      more description for PHYS-AD  317 \u00bb\n\n      \n\n\n\nprime source of our information is light, and until the 20th century, that meant only optical light, but starting with the discovery of cosmic radio waves in 1931, the rest of the electromagnetic spectrum has been opened up to astronomers. Each region of the spectrum (radio, microwave, infrared, optical, X-ray, and gamma-ray) requires different detection technologies and analysis techniques. Each waveband tells us about different aspects of astronomical sources and the Universe as a whole. This course will provide an overview of multi-wavelength astronomy: the telescopes, techniques, emission mechanisms, sources, and primary science questions relevant to each observing band. A good understanding of basic physics will be assumed, but no specialized knowledge in astronomy or advanced physics topics is required.\n\n      less description for PHYS-AD  317 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 390",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "12984",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": "Tue 5.00 PM - 7.30 PM",
+                    "open": true,
+                    "professor": "COMP_RES 002"
+                }
+            ],
+            "course_name": "",
+            "description": "PHYS-AD  390\n\n   Physics Capstone Seminar\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD physicists and others in related fields. Through exposure to NYUAD faculty research, students will identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth biology capstone proposal. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.  Beginn...\n\n      more description for PHYS-AD  390 \u00bb\n\n      \n\n\n\nThe capstone seminar provides students with an overview of the diverse multidisciplinary research areas that have captured the interest and fascination of NYUAD physicists and others in related fields. Through exposure to NYUAD faculty research, students will identify potential areas of interest for their own capstone research, and over the course of the semester develop and put into writing an in-depth biology capstone proposal. The final capstone proposal is due at the end of the seminar series so that students can begin the Capstone Project in the fall semester of their senior year.  Beginning in 2014-15 all science majors are expected to take this course in the junior year; it will be offered every semester.\n\n      less description for PHYS-AD  390 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 400",
+            "classes": [
+                {
+                    "format": "Seminar",
+                    "class_id": "13044",
+                    "section": "001",
+                    "period": "08/30/2015 - 12/17/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Senior Capstone Research Project",
+            "description": "PHYS-AD  400 Senior Capstone Research Project \nThe senior Capstone Experience in physics requires students to engage in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The specific project is developed during junior year as part of the Capstone Seminar. During the Capstone Project, the proposed work will come to fruition in the form of a research paper that fits standards of publication as outlined by either the American Physical Society or the American Astronomical Society.",
+            "offering": true
+        },
+        {
+            "course_id": "PHYS-AD 401",
+            "course_name": "Senior Capstone Research Project",
+            "description": "PHYS-AD  401 Senior Capstone Research Project \nThe senior Capstone Experience in physics requires students to engage in a long-term, mentored learning experience that cumulates in a piece of original research and/or scientific theory. The specific project is developed during junior year as part of the Capstone Seminar. During the Capstone Project, the proposed work will come to fruition in the form of a research paper that fits standards of publication as outlined by either the American Physical Society or the American Astronomical Society.",
+            "offering": false
+        }
+    ]
+}

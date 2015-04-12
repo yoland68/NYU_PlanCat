@@ -1,0 +1,30 @@
+{
+    "major_id": "DCADV-GE",
+    "file": "./2015-2016/Doctoral_Advisement_(DCADV-GE).html",
+    "courses": [
+        {
+            "course_id": "DCADV-GE 3400",
+            "classes": [
+                {
+                    "format": "Research",
+                    "class_id": "3296",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/15/2015 ",
+                    "location": "Hall, Nancy",
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Doctoral Advisement",
+            "description": "DCADV-GE 3400 Doctoral Advisement \nRegistration for this course will entitle students to use the libraries and other research facilities; participate in University activities, and use the student health services and Coles/Palladium Sports Centers. Students may be given full-time equivalency if they are eligible.  These credits will not count toward the student's total point requirement.",
+            "offering": true
+        },
+        {
+            "course_id": "DCADV-GE 3410",
+            "course_name": "Visiting Doctoral Advisement",
+            "description": "DCADV-GE 3410 Visiting Doctoral Advisement",
+            "offering": false
+        }
+    ]
+}

@@ -1,0 +1,456 @@
+{
+    "major_id": "MATH-SHU",
+    "file": "./2015-2016/Mathematics_(MATH-SHU).html",
+    "courses": [
+        {
+            "course_id": "MATH-SHU 123",
+            "course_name": "and MATH-SHU 140, or MATH-SHU 141 and MATH-SHU 329.",
+            "description": "MATH-SHU     G2043\n\n   Scientific Computing\n\nThis course is intended to provide a practical introduction to computational problem solving. Topics covered include the notions of well-conditioned and poorly conditioned problems, forward and backward stability of an algorithm, basic techniques for numerical solutions of linear and nonlinear equations, numerical optimization, principles of numerical interpolation, differentiation and integration, splines and quadrature schemes, numerical methods for solving ordinary differential equations, matrix factorizations and computational techniques, and basic principles of the discrete (fast) Fourier...\n\n      more description for MATH-SHU     G2043 \u00bb\n\n      \n\n\n\nThis course is intended to provide a practical introduction to computational problem solving. Topics covered include the notions of well-conditioned and poorly conditioned problems, forward and backward stability of an algorithm, basic techniques for numerical solutions of linear and nonlinear equations, numerical optimization, principles of numerical interpolation, differentiation and integration, splines and quadrature schemes, numerical methods for solving ordinary differential equations, matrix factorizations and computational techniques, and basic principles of the discrete (fast) Fourier transform, with applications to signal processing, data compression and solutions of differential equations.\nPrerequisite: Grade of C or better in MATH-SHU 123 and MATH-SHU 140, or MATH-SHU 141 and MATH-SHU 329.\n\n      less description for MATH-SHU     G2043 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 349",
+            "course_name": ".",
+            "description": "MATH-SHU     G2140 Representation Theory \nThis course introduces the basic elements of\nrepresentation theory. Topics covered include representations and characters of finite,\ncompact, and Lie groups, induced representations, the theorems of Artin, Brauer, and Peter-\nWeyl, Lie algebras, algebraic geometry, and applications of representation theory to algebra\nand physics.\nPrerequisite: Grade of C or better in MATH-SHU 349.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 349",
+            "course_name": ".",
+            "description": "MATH-SHU     G2210 Number Theory \nThis course builds on the ideas of abstract algebra, but also employs analytic techniques. Topics include valuations, Dedekind domains, Minkowski\u2019s theorem, ramification, the Riemann-Roch theorem and Riemann-Hurwitz formula, connections to Riemann surfaces and algebraic curves, reciprocity, zeta functions, and the prime number theorem.\nPrerequisite: Grade of C or better in MATH-SHU 349.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 329",
+            "course_name": ".",
+            "description": "MATH-SHU     G2430 Real Variables \nThis course is a continuation of the analysis sequence with a focus on measure and function spaces. Topics covered include Lebesque measure and integration, abstract measure spaces, Lebesgue differentiation, the Radon-Nikodym theorem, Fubini\u2019s theorem, Lp and Hilbert spaces, the Riesz representation theorem, and Fourier series.\nPrerequisite: Grade of C or better in MATH-SHU 329.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 141",
+            "course_name": "and MATH-SHU-G 2430.",
+            "description": "MATH-SHU     G2550 Functional Analysis \nThis course on applications of concepts in functional analysis gives special emphasis to function spaces used in practice, including Hilbert, Hardy, and Sobolev spaces. Other topics covered include the spectral theorem and its application to differential equations, Fourier series, compact operators, Fredholm\ndeterminants, measure, volume, and nonlinear analysis for infinite-dimensional\nspaces, and Brownian motion.\nPrerequisite: Grade of C or better in MATH-SHU 141 and MATH-SHU-G 2430.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 9",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13220",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13221",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Precalculus",
+            "description": "MATH-SHU    9 Precalculus \nThis course is designed as a preparation for calculus, including study of basic properties of polynomials, rational functions, exponential and logarithmic functions, and trigonometric functions. Systems of linear equations and matrix operations are also covered.\nPrerequisite: Placement via NYU SH Mathematics Placement Examination.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-SHU 10",
+            "course_name": "",
+            "description": "MATH-SHU   10\n\n   Quantitative Reasoning: Great Ideas in Mathematics\n\nGreat Ideas in Mathematics. This one-semester course serves as an introduction to great ideas in mathematics. During the course we will examine a variety of topics chosen from the following broad categories. 1) A survey of pure\nmathematics: What do mathematicians do and what questions inspire them? 2) Great works: What are some of the historically big ideas in the field? Who were the mathematicians that came up with them? 3) Mathematics as a reflection of the world we live in: How does our understanding of the natural world affect mathematics (and vice versa). 4) Computations, proof, and mathe...\n\n      more description for MATH-SHU   10 \u00bb\n\n      \n\n\n\nGreat Ideas in Mathematics. This one-semester course serves as an introduction to great ideas in mathematics. During the course we will examine a variety of topics chosen from the following broad categories. 1) A survey of pure\nmathematics: What do mathematicians do and what questions inspire them? 2) Great works: What are some of the historically big ideas in the field? Who were the mathematicians that came up with them? 3) Mathematics as a reflection of the world we live in: How does our understanding of the natural world affect mathematics (and vice versa). 4) Computations, proof, and mathematical reasoning: Quantitative skills are crucial for dealing with the sheer amount of information available in modern society. 5) Mathematics as a liberal art:\nHistorically, some of the greatest mathematicians have also been poets, artists, and philosophers. How is mathematics a natural result of humanity's interest in the nature of truth, beauty, and understanding? Why is math a liberal art?\nPrerequisite: None. For students in Humanities.\n\n      less description for MATH-SHU   10 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 20",
+            "course_name": "Statistics for the Social and Behavioral Sciences",
+            "description": "MATH-SHU   20 Statistics for the Social and Behavioral Sciences \nThis course introduces students to the use of statistical methods in social and behavioral science research. Topics include: descriptive statistics; introduction to probability; sampling; statistical inference concerning means, standard deviations, and proportions; correlation; analysis of variance; linear regression, including multiple regression analysis. Applications to empirical situations in the social and behavioral sciences are an integral part of the course. Prerequisite: None.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 101",
+            "course_name": "",
+            "description": "MATH-SHU  101\n\n   Mathematical Functions\n\nA fundamental understanding of mathematical functions is critical before engaging in the rigors of calculus. This course examines single variable functions, including their algebraic and geometric properties. The course begins with a rigorous exploration of the following question: What is a function, and how can it be represented geometrically as a graph? The course delves into standard function manipulations and examines a range of mathematical functions, including polynomial, rational, trigonometric, exponential, and logarithmic functions. Placement into Mathematical Functions is determined ...\n\n      more description for MATH-SHU  101 \u00bb\n\n      \n\n\n\nA fundamental understanding of mathematical functions is critical before engaging in the rigors of calculus. This course examines single variable functions, including their algebraic and geometric properties. The course begins with a rigorous exploration of the following question: What is a function, and how can it be represented geometrically as a graph? The course delves into standard function manipulations and examines a range of mathematical functions, including polynomial, rational, trigonometric, exponential, and logarithmic functions. Placement into Mathematical Functions is determined by the results of a mathematics placement examination. Prerequisite: None.\n\n      less description for MATH-SHU  101 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 110",
+            "course_name": "CL Calculus",
+            "description": "MATH-SHU  110CL Calculus",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 121",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13223",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Rolla, Leonardo",
+                    "time": "Mon,Wed 11.15 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13225",
+                    "section": "003",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13227",
+                    "section": "005",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13229",
+                    "section": "007",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Lecture",
+                    "class_id": "13224",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Rolla, Leonardo",
+                    "time": "Mon,Wed 2.45 PM - 4.00 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13226",
+                    "section": "004",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13228",
+                    "section": "006",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13230",
+                    "section": "008",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Calculus",
+            "description": "MATH-SHU  121 Calculus \nThis course presents the foundations of calculus for functions of a single variable. Topics addressed include limits, continuity, rules of differentiation, approximation,antiderivatives, indefinite and definite integrals, the fundamental theorem of calculus, integration techniques, and improper integrals.\nPrerequisite: Placement via NYU SH Mathematics Placement Examination or a grade of C or better in MATH-SHU 009.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-SHU 123",
+            "course_name": "Multivariable Calculus",
+            "description": "MATH-SHU  123 Multivariable Calculus \nThis course explores calculus of functions of several variables. Topics covered include power series, differentiation and integration of functions of several variables, including directional derivatives, the gradient, line and multiple integrals, and the theorems of Green, divergence, and Stokes.\nPrerequisite: Grade of C or better in MATH-SHU 121.\nEquivalent to MATH-UA 123, MATH-AD 112.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 140",
+            "course_name": "Linear Algebra",
+            "description": "MATH-SHU  140 Linear Algebra \nThis first course in linear algebra covers systems of linear equations, vectors, linear transformations, matrices and their determinants, vector spaces, basis and dimension, eigevectors and eigenvalues, quadratic forms, and matrix decompositions. In addition to its role as an essential topic within mathematics, linear algebra is also critically useful throughout the sciences: for example, in estimation theory, chemical equations, electrical networks, and heat distributions. Prerequisite: Grade of C or better in Math-SHU 121.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 141",
+            "course_name": "Advanced Linear Algebra I",
+            "description": "MATH-SHU  141 Advanced Linear Algebra I \nThis is the first semester of a 2-semester course in linear algebra for advanced mathematics majors. Topics covered include systems of linear equations, matrices, LU decomposition, determinants, vector spaces, linear independence, basis and dimension, subspaces and quotient spaces, linear transformations, eigenvalues and eigenvectors, Jordan canonical forms, inner products, orthogonality, quadratic forms, extrema of functions, and symmetric and positive matrices.\n Prerequisite: Placement on NYU SH mathematics placement exam. Co- or pre-requisite: MATH-SHU 201",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 141",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17868",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17869",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-SHU  141\n\n   Honors Linear Algebra I\n\nThis is the first semester of a 2-semester sequence in linear algebra for advanced mathematics majors. Topics covered include fields, vector spaces, linear independence, dimension, linear transformations, rank, matrices, eigenvalues, eigenvectors, determinants, characteristic polynomials, and the Cayley-Hamilton theorem. Examples from applications are also covered, including interpolation problems, traffic flows, genetics, the fundamental theorem of algebra, electric circuits, static mechanics, and consumption matrices in economics.\nPrerequisite: Placement via NYU SH Mathematics Placement Exam...\n\n      more description for MATH-SHU  141 \u00bb\n\n      \n\n\n\nThis is the first semester of a 2-semester sequence in linear algebra for advanced mathematics majors. Topics covered include fields, vector spaces, linear independence, dimension, linear transformations, rank, matrices, eigenvalues, eigenvectors, determinants, characteristic polynomials, and the Cayley-Hamilton theorem. Examples from applications are also covered, including interpolation problems, traffic flows, genetics, the fundamental theorem of algebra, electric circuits, static mechanics, and consumption matrices in economics.\nPrerequisite: Placement via NYU SH Mathematics Placement Examination.\n\n      less description for MATH-SHU  141 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-SHU 142",
+            "course_name": "Advanced Linear Algebra II",
+            "description": "MATH-SHU  142 Advanced Linear Algebra II \nPrerequisite: MATH-SHU 141.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 142",
+            "course_name": "",
+            "description": "MATH-SHU  142\n\n   Honors Linear Algebra II\n\nThis course is a continuation of Honors Linear\nAlgebra I. Topics covered include eigenspaces, multiplicities of eigenvalues, diagonalization,\nthe Schur decomposition theorem, inner product spaces, the Gram-Schmidt process, orthogonality,\nadjoint maps, spectral theory, self-adjoint, normal, and unitary maps, bilinear\nforms, the Cholesky theorem, singular value decomposition, psuedoinverses, least-squares\nsolutions via normal equations, ideals of polynomials, reducibility of maps, nilpotence, the\nJordan decomposition theorem, minimal polynomials, the Penrose-Frobenius theorem, and\nstochastic mat...\n\n      more description for MATH-SHU  142 \u00bb\n\n      \n\n\n\nThis course is a continuation of Honors Linear\nAlgebra I. Topics covered include eigenspaces, multiplicities of eigenvalues, diagonalization,\nthe Schur decomposition theorem, inner product spaces, the Gram-Schmidt process, orthogonality,\nadjoint maps, spectral theory, self-adjoint, normal, and unitary maps, bilinear\nforms, the Cholesky theorem, singular value decomposition, psuedoinverses, least-squares\nsolutions via normal equations, ideals of polynomials, reducibility of maps, nilpotence, the\nJordan decomposition theorem, minimal polynomials, the Penrose-Frobenius theorem, and\nstochastic matrices. Example covered from applications include data compression, optimization,\nQR factorization of least squares approximation, solutions of simultaneously coupled\npolynomial equations, determination of the critical temperature of a superconductor,\nand image compression via singular value decomposition.\nPrerequisite: Grade of C or better in MATH-SHU 141.\n\n      less description for MATH-SHU  142 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 160",
+            "course_name": "",
+            "description": "MATH-SHU  160\n\n   Networks and Dynamics\n\nThis is a post-calculus mathematics course that is designed to prepare students to enter a broad set of majors, from natural sciences through social sciences. The preliminary goal is to address the following challenge: today\u2019s science and world at large requires us to understand how the dynamical interactions between individual\nunits in a complex network give rise to collective behavior, be it genetic network that\nmakes us who we are, neural network underlying our brain functions, social network of friends through Facebook or WeChat. The language for providing a scientific understanding of suc...\n\n      more description for MATH-SHU  160 \u00bb\n\n      \n\n\n\nThis is a post-calculus mathematics course that is designed to prepare students to enter a broad set of majors, from natural sciences through social sciences. The preliminary goal is to address the following challenge: today\u2019s science and world at large requires us to understand how the dynamical interactions between individual\nunits in a complex network give rise to collective behavior, be it genetic network that\nmakes us who we are, neural network underlying our brain functions, social network of friends through Facebook or WeChat. The language for providing a scientific understanding of such systems is the mathematics of network theory, linear algebra, and differential equations. These topics are integrated to provide a unifying course that introduces analysis methods and mathematical models for understanding dynamical network behavior. Computer simulations will be a major component of this hands-on course.\nPrerequisite: Grade of C or better in MATH-SHU 121 and MATH-SHU 140. Not open to students who have taken MATH-SHU 264.\n\n      less description for MATH-SHU  160 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 161",
+            "course_name": "Linear Algebra and Network Theory",
+            "description": "MATH-SHU  161 Linear Algebra and Network Theory \nLinear systems appear throughout the applied sciences; examples include chemical equations, electrical networks, and heat distribution. This course covers linear algebra and its application to networks. Topics discussed include systems of linear equations, matrices and their determinants, eigenvectors and eigenvalues, quadratic forms, and matrix decompositions, all with a view towards applications in network theory, which is addressed in the latter third of this course. . Prerequisite: MATH \u2013 SHU 121.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 170",
+            "course_name": "Applied Probability and Statistics",
+            "description": "MATH-SHU  170 Applied Probability and Statistics \nProbability and statistics continue to have increasing relevance in all of the applied sciences. This course introduces those subjects with emphasis on applications, using the ideas of calculus as a foundation. Topics discussed include random variables, probability distributions, moments, conditional probability, laws of large numbers, Markov chains, statistical inference, hypothesis testing, multiple regression, and Markov chain Monte Carlo methods.  Prerequisite: MATH \u2013 121.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 201",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "13318",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": "Newman, Charles; Wu, Wei",
+                    "time": "Mon,Wed 11.15 AM - 12.30 PM",
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "13319",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Honors Calculus",
+            "description": "MATH-SHU  201 Honors Calculus \nThis is a rigorous course in single-variable calculus for mathematics majors, providing preparation for advanced courses in analysis. Topics covered\ninclude number systems, functions, graphs, vectors, conic sections, polar coordinates, limits, continuity, least upper bounds, the derivative, convexity and concavity, inverse functions, parametric curves, Riemann sums, integrals, and the fundamental theorem of calculus.\nPrerequisite: Placement via NYU SH Mathematics Placement Examination.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-SHU 205",
+            "course_name": "Algebra II",
+            "description": "MATH-SHU  205 Algebra II \nA continuation of Algebra II, this course emphasizes ideas in representation theory. Topics covered include representations and characters of finite, compact, and Lie groups, induced representations, the theorems of Artin, Brauer, and Peter-Weyl, Lie algebras, algebraic geometry, and applications of representation theory to algebra and physics. Prerequisite: MATH- SHU 204.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 208",
+            "course_name": "Advanced Linear Algebra",
+            "description": "MATH-SHU  208 Advanced Linear Algebra \nThis is an honors course in linear algebra for mathematics majors. Topics covered include systems of linear equations, matrices, LU decomposition, determinants, vector spaces, linear independence, basis and dimension, subspaces and quotient spaces, linear transformations, eigenvalues and eigenvectors, Jordan canonical forms, inner products, orthogonality, quadratic forms, extrema of functions, and symmetric and positive matrices.\n Prerequisite: Placement on NYU SH mathematics placement exam. Co-requisite: Main-201",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 212",
+            "course_name": "Multivariable Calculus and Differential Equations",
+            "description": "MATH-SHU  212 Multivariable Calculus and Differential Equations \nThis course explores\nadvanced topics in calculus. Topics covered include sequences and series, power\nseries, matrix algebra in dimensions two and three, first and second-order differential\nequations, series solutions of differential equations, and differentiation and integration\nof functions of several variables, including directional derivatives, the gradient, and double,\ntriple, and line integrals.\nPrerequisite: Grade of C or better in MATH-SHU 121.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 228",
+            "course_name": "",
+            "description": "MATH-SHU  228\n\n   Earth\u2019s Atmosphere and Ocean: Fluid Dynamics and Climate.\n\nThis course is an introduction to the dynamical processes that drive the circulation of the atmosphere and ocean, and their interaction. Lectures will be guided by consideration of observations and experiments, with the goal of developing an understanding of the unifying principles of planetary fluid dynamics. Topics include the global energy balance, convection and radiation (the greenhouse effect), effects of planetary rotation (the Coriolis force),\nstructure of atmospheric circulation (the Hadley cell and wind patterns), structure of the oceanic circulation (wind-driven currents and the the...\n\n      more description for MATH-SHU  228 \u00bb\n\n      \n\n\n\nThis course is an introduction to the dynamical processes that drive the circulation of the atmosphere and ocean, and their interaction. Lectures will be guided by consideration of observations and experiments, with the goal of developing an understanding of the unifying principles of planetary fluid dynamics. Topics include the global energy balance, convection and radiation (the greenhouse effect), effects of planetary rotation (the Coriolis force),\nstructure of atmospheric circulation (the Hadley cell and wind patterns), structure of the oceanic circulation (wind-driven currents and the thermohaline circulation), and climate variability, including El Ni\u00f1o and anthropogenic warming.\nPrerequisite: Grade of C or better in MATH-SHU 121 or MATH-SHU 201.\n\n      less description for MATH-SHU  228 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 230",
+            "course_name": "",
+            "description": "MATH-SHU  230\n\n   Introduction to Fluid Dynamics\n\nFluid dynamics is the branch of\nphysics that describes motions of fluids as varied as the flow of blood in the human body,\nthe flight of an insect or the motions of weather systems on Earth. The course introduces\nthe key concepts of fluid dynamics: the formalism of continuum mechanics, the conservation\nof mass, energy and momentum in a fluid, the Euler and Navier-Stokes equations, viscosity\nand vorticity. These concepts are applied to study classic problems in fluid dynamics,such as potential flow around a cylinder, the Stokes flow, the propagation of sound and\ngravity waves and the onset of i...\n\n      more description for MATH-SHU  230 \u00bb\n\n      \n\n\n\nFluid dynamics is the branch of\nphysics that describes motions of fluids as varied as the flow of blood in the human body,\nthe flight of an insect or the motions of weather systems on Earth. The course introduces\nthe key concepts of fluid dynamics: the formalism of continuum mechanics, the conservation\nof mass, energy and momentum in a fluid, the Euler and Navier-Stokes equations, viscosity\nand vorticity. These concepts are applied to study classic problems in fluid dynamics,such as potential flow around a cylinder, the Stokes flow, the propagation of sound and\ngravity waves and the onset of instability in shear flow.\nPrerequisite: Grade of C or better in MATH-SHU 123 or MATH-SHU 329.\n\n      less description for MATH-SHU  230 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 233",
+            "course_name": "Theory of Probability",
+            "description": "MATH-SHU  233 Theory of Probability \nThis course is an introduction for mathematics majors to the mathematical treatment of random phenomena occurring in the natural, physical, and social sciences. Topics covered include axioms of mathematical probability,\ncombinatorial analysis, the binomial distribution, Poisson and normal approximation, random variables, probability distributions, generating functions, and Markov chains and their applications.\nPrerequisite: Grade of C or better in MATH-SHU 123 or MATH-SHU 329. Not open to students who have taken MATH-SHU 235.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 234",
+            "course_name": "Mathematical Statistics",
+            "description": "MATH-SHU  234 Mathematical Statistics \nA continuation of Theory of Probability, this course is an introduction to the mathematical foundations and techniques of modern statistical\nanalysis for the interpretation of data in the quantitative sciences. Topics covered\ninclude the mathematical theory of sampling, normal populations and distributions, Chisquared,t, and F distributions, hypothesis testing, sequential analysis, correlation, regression, analysis of variance, and applications to the sciences.\nPrerequisite: Grade of C or better in MATH-SHU 233.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 235",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "19824",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "19825",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "",
+            "description": "MATH-SHU  235\n\n   Probability and Statistics\n\nThis course comprises a combination of the theory of probability and the mathematical foundations with techniques of modern statistical analysis. It is designed to acquaint the student with both probability and statistics in the context of their applications to the sciences. In probability: mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; law of large numbers and the normal distribution; application to coin-tossing, radioactive decay, and so on. In statistics: sampling; normal and other useful distributions; testing of hypotheses; confidence inter...\n\n      more description for MATH-SHU  235 \u00bb\n\n      \n\n\n\nThis course comprises a combination of the theory of probability and the mathematical foundations with techniques of modern statistical analysis. It is designed to acquaint the student with both probability and statistics in the context of their applications to the sciences. In probability: mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; law of large numbers and the normal distribution; application to coin-tossing, radioactive decay, and so on. In statistics: sampling; normal and other useful distributions; testing of hypotheses; confidence intervals; correlation and regression; and applications to scientific, industrial, and financial data.\nPrerequisite: Grade of C or better in MATH-SHU 121 and MATH-SHU 140. Not open to students who have taken MATH-SHU 233.\n\n      less description for MATH-SHU  235 \u00ab",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-SHU 240",
+            "course_name": "Combinatorics",
+            "description": "MATH-SHU  240 Combinatorics \nThis course introduces basic concepts in combinatorics and techniques for counting and enumeration. Topics covered include generating functions,\nthe principle of inclusion and exclusion, Polya counting, graph theory, and modern algorithms and data structures for graph-theoretic problems.\nPrerequisite: Grade of C or better in MATH-SHU 121 or MATH-SHU 201.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 245",
+            "course_name": "",
+            "description": "MATH-SHU  245\n\n   Mathematical Choice Theory\n\nThis course is a mathematical examination\nof the main ideas of decision theory, including game, auction, and social choice theory.\nTopics covered include strategic and extensive form games, existence and properties of\nequilibria (Nash, Bayesian, perfect, sequential, correlated), the expected utility maximization\ntheorem, the core, auction and mechanism design under independent and interdependent\nvalues, the revenue equivalence theorem, voting models, Arrow's impossibility theorem,\nthe Gibbard-Satterthwaite theorem, and implementation theory. We also discuss current\napplications of these ideas ...\n\n      more description for MATH-SHU  245 \u00bb\n\n      \n\n\n\nThis course is a mathematical examination\nof the main ideas of decision theory, including game, auction, and social choice theory.\nTopics covered include strategic and extensive form games, existence and properties of\nequilibria (Nash, Bayesian, perfect, sequential, correlated), the expected utility maximization\ntheorem, the core, auction and mechanism design under independent and interdependent\nvalues, the revenue equivalence theorem, voting models, Arrow's impossibility theorem,\nthe Gibbard-Satterthwaite theorem, and implementation theory. We also discuss current\napplications of these ideas to bargaining agreements, auction design, and voting systems.\nPrerequisite: Grade of C or better in MATH-SHU 121 or MATH-SHU 201.\n\n      less description for MATH-SHU  245 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 252",
+            "course_name": "Numerical Analysis",
+            "description": "MATH-SHU  252 Numerical Analysis \nIn numerical analysis, one explores how mathematical problems can be analyzed and solved with a computer. This has very broad applications\nin mathematics, physics, engineering, finance, and the life sciences. This course gives an introduction to numerical analysis for mathematics majors. Theory and practical examples using Matlab will be combined to study a range of topics, from simple root-finding procedures to differential equations and the finite element method.\nPrerequisite: Grade of C or better in MATH-SHU 123 and MATH-SHU 140, or MATH-SHU 141 and MATH-SHU 329.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 262",
+            "classes": [
+                {
+                    "format": "Lecture",
+                    "class_id": "17877",
+                    "section": "001",
+                    "period": "08/31/2015 - 12/11/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                },
+                {
+                    "format": "Recitation",
+                    "class_id": "17878",
+                    "section": "002",
+                    "period": "08/31/2015 - 12/11/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "course_name": "Ordinary Differential Equations",
+            "description": "MATH-SHU  262 Ordinary Differential Equations \nThis course introduces the main ideas of ordinary differential equations. Topics include vector fields, existence and uniqueness of solutions to first-order linear differential equations, stability, higher order differential equations, the Laplace transform and numerical methods, linear and nonlinear systems, and Sturm-Liouville theory.\nPrerequisite: Grade of C or better in MATH-SHU 121 and MATH-SHU 140, or MATH-SHU 141 and MATH-SHU 201.",
+            "offering": true
+        },
+        {
+            "course_id": "MATH-SHU 263",
+            "course_name": "Partial Differential Equations",
+            "description": "MATH-SHU  263 Partial Differential Equations \nMany laws of physics are formulated as partial differential equations. This course discusses the simplest examples, such as waves, diffusion, gravity, and static electricity. Nonlinear conservation laws and the theory of shock waves are discussed, as well as further applications to physics, chemistry, biology, and population dynamics.\nPrerequisite: Grade of C or better in MATH-SHU 262.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 264",
+            "course_name": "",
+            "description": "MATH-SHU  264\n\n   Dynamical Systems\n\nTopics will include dynamics of maps and of first order and second-order differential equations: stability, bifurcations, limit cycles, dissection of systems with fast and slow time scales. Geometric viewpoint, including phase\nplanes, will be stressed. Chaotic behavior will be introduced in the context of one-variable maps (the logistic), fractal sets, etc. Applications will be drawn from physics and biology. There will be homework and projects, and a few computer lab sessions (programming experience is not a prerequisite). \nPrerequisite: Grade of C or better in MATH-SHU 121 and MATH-SHU 140, ...\n\n      more description for MATH-SHU  264 \u00bb\n\n      \n\n\n\nTopics will include dynamics of maps and of first order and second-order differential equations: stability, bifurcations, limit cycles, dissection of systems with fast and slow time scales. Geometric viewpoint, including phase\nplanes, will be stressed. Chaotic behavior will be introduced in the context of one-variable maps (the logistic), fractal sets, etc. Applications will be drawn from physics and biology. There will be homework and projects, and a few computer lab sessions (programming experience is not a prerequisite). \nPrerequisite: Grade of C or better in MATH-SHU 121 and MATH-SHU 140, or MATH-SHU 141 and MATH-SHU 201. Not open to students who have taken MATH-SHU 160.\n\n      less description for MATH-SHU  264 \u00ab",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 282",
+            "course_name": "Functions of a Complex Variable",
+            "description": "MATH-SHU  282 Functions of a Complex Variable \nComplex variables and functions play an essential role in many branches of mathematics and science. In this course, we cover basic aspects of the theory, including differentiation of complex functions, the Cauchy-Riemann equations, Cauchy\u2019s theorem and integral formula, singularities, Laurent series, conformal mapping, analytic continuous, and applications to fluid flow.  \nPrerequisite: Grade of C or better in MATH-SHU 123 and MATH-SHU 140, or MATH-SHU 141\nand MATH-SHU 329.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 328",
+            "course_name": "Analysis I",
+            "description": "MATH-SHU  328 Analysis I \nThis course is a continuation of Honors Calculus. Topics covered\ninclude integration techniques, trigonometric functions, the logarithm, exponential\nfunctions, approximation by polynomials, sequences, series, convergence, uniform convergence,\npower series, Taylor series, complex numbers and functions, Euclidean spaces, and\nbasic topology.\nPrerequisite: Grade of C or better in MATH-SHU 201.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 348",
+            "course_name": "Honors Algebra I",
+            "description": "MATH-SHU  348 Honors Algebra I \nThis introduction to abstract algebra is a rigorous\nstudy of groups and rings. Topics covered include symmetric and linear groups, the Sylow\ntheorems, classification of finitely generated abelian groups, polynomial and quotient rings,\nideals, principal ideal domains, unique factorization, and the Nullstellensatz.\nPrerequisites: Grade of C or better in MATH-SHU 123 and MATH-SHU 140, or MATH-SHU\n141 and MATH-SHU 329.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 349",
+            "course_name": "Abstract Algebra I",
+            "description": "MATH-SHU  349 Abstract Algebra I \nThis introduction to abstract algebra introduces the notions of group, ring, and field. Topics covered include symmetric and linear groups, the Sylow theorems, polynomial and quotient rings, ideals, unique factorization, the Nullstellensatz, field extensions and finite fields.   Prerequisite: Grade of B or better in MATH-140, and MATH-141 or 123, and MATH-329",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 349",
+            "course_name": "Honors Algebra II",
+            "description": "MATH-SHU  349 Honors Algebra II \nThis course is a continuation of Honors Algebra I,\nwith a focus on fields and Galois theory. Topics covered include normal and separable field\nextensions, splitting fields, Galois groups, solvability by radicals, roots of unity, cyclotomic\npolynomials, geometric constructions, and finite fields.\nPrerequisites: Grade of C or better in MATH-UA 348.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 375",
+            "course_name": "Topology",
+            "description": "MATH-SHU  375 Topology \nThis course presents the basic ideas of point-set topology, as well as their interactions with analysis and algebra. Topics covered include topological spaces, metric spaces, compactness, Tychonoff\u2019s theorem, separation axioms, Urysohn\u2019s lemma, covering spaces, fundamental groups, and homotopy groups.\nPrerequisite: Grade of C or better in MATH-SHU 328.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 377",
+            "course_name": "Differential Geometry",
+            "description": "MATH-SHU  377 Differential Geometry \nThis course investigates the differential properties of curves and surfaces. Topics covered include differential manifolds and Riemannian geometry.\nPrerequisite: Grade of C or better in MATH-SHU 329.",
+            "offering": false
+        },
+        {
+            "course_id": "MATH-SHU 9121",
+            "course_name": "Calculus",
+            "description": "MATH-SHU 9121 Calculus",
+            "offering": false
+        }
+    ]
+}
