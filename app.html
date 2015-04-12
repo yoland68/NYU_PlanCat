@@ -20,17 +20,21 @@
     <link rel="stylesheet" href="app/css/app.css">
     <link rel="stylesheet" href="app/css/dropzones.css">
     <link rel="stylesheet" href="app/css/dashboard.css">
-    <style>
-	    body {
-	    background-color: #fff;
-	}
+<style>
+.navbar {
+   height: 90px;
+   min-height: 40px;
+   color: white;
+}
+
+body { padding-top: 80px; }
   </style>
 
   </head>
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: #57068c;">
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: #48A59B;">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -39,13 +43,18 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">NYU PLANCAT</a>
+          <a class="navbar-brand" href="#"><img src="logos/whitelogo.png" height="55"></a>
         </div>
+       
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Settings</a></li>
-            <li><a href="#">Profile</a></li>
-            <li><a href="#">Help</a></li>
+	       <BR>
+	       
+            <li><a href="#"><img src="settings.png" width="20">  Settings</a></li>
+            <li><a href="#"><img src="profile.png" width="20">  Profile</a></li>
+            <li><a href="#"><img src="help.png" width="20">  Help</a></li>
+          
+  
           </ul>
         </div>
       </div>
@@ -56,10 +65,10 @@
         <div class="col-sm-3 col-md-2 sidebar" style = "background-color: #818790">
 
           <!-- DISPLAY CURRENT COURSES -->
-          <br>
+          <br><br>
           <div id = "interested-courses" class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">Interested Courses</h3>
+              <h3 class="panel-title">Course Cart</h3>
             </div>
             <div id="drop1" class="dropzone js-drop">Drop course here</div>
           </div> <!-- CURRENT Courses Panel -->
@@ -69,7 +78,8 @@
             <div class="panel-heading">
               <h3 class="panel-title">Current Courses</h3>
             </div>
-            <p>Test </p>
+            <p>Class1:
+	            Class2: </p>
           </div> <!-- CURRENT Courses Panel -->
 
           <br>
@@ -102,7 +112,10 @@
                     <div class="panel-heading">
                       <h3 class="panel-title">Top Courses</h3>
                     </div>
-                    <div id="drop1" class="dropzone js-drop">Drop course here</div>
+                    <div id="drop1" class="dropzone js-drop">
+	                    <p>Drop Course Here</p> 
+</div>
+
                   </div> <!-- Top Courses Panel -->
                 </div>
             </div><!-- /.row -->
