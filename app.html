@@ -40,9 +40,9 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
          
-            <li><a href="#" style="color:white"><img src="app/imgs/settings.png" width="20">  Settings</a></li>
-            <li><a href="#" style="color:white"><img src="app/imgs/profile.png" width="20">  Profile</a></li>
-            <li><a href="#" style="color:white"><img src="app/imgs/help.png" width="20">  Help</a></li>
+            <li class="nav"><a href="#" style="color:white"><img src="app/imgs/settings.png" width="20">  Settings</a></li>
+            <li class="nav"><a href="#" style="color:white"><img src="app/imgs/profile.png" width="20">  Profile</a></li>
+            <li class="nav"><a href="#" style="color:white"><img src="app/imgs/help.png" width="20">  Help</a></li>
           </ul>
         </div>
       </div>
@@ -50,12 +50,12 @@
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-3 sidebar" style = "background-color: #818790">
+        <div class="col-sm-3 sidebar" style = "background-color: #312E3F">
 
           <!-- DISPLAY Course Cart courses -->
           <br>
           <div id = "course-cart" class="panel panel-default course-placeholder">
-            <div class="panel-heading" style =" background-color:#AFC7C7">
+            <div class="panel-heading" style =" background-color:#E56B6B">
               <h3 class="panel-title">Course Cart</h3>
             </div>
             <div class="ui-widget-content">
@@ -67,19 +67,20 @@
 
           <br>
           <div id = "current-courses"class="panel panel-default">
-            <div class="panel-heading" style =" background-color:#AFC7C7">
+            <div class="panel-heading" style =" background-color:#E56B6B">
               <h3 class="panel-title">Current Courses</h3>
             </div>
             <ul>
-              <li >Courses 1</li>
-              <li >Courses 2</li>
-              <li >Courses 3</li>
+              <li class="current">Courses 1</li>
+              <li class="current">Courses 2</li>
+              <li class="current">Courses 3</li>
             </ul>
+            <br>
           </div> <!-- CURRENT Courses Panel -->
 
           <br>
           <div class="panel panel-default">
-            <div class="panel-heading" style =" background-color:#AFC7C7">
+            <div class="panel-heading" style =" background-color:#E56B6B">
               <h3 class="panel-title">Current Schedule</h3>
             </div>
           </div> <!-- CURRENT Calendar Panel -->
@@ -93,7 +94,7 @@
                 <div class="col-xs-6 .col-md-4">
                 <br>
                   <div id = "rec-courses" class="panel panel-default course-draggable">
-                    <div class="panel-heading" style =" background-color:#AFC7C7">
+                    <div class="panel-heading" style =" background-color:#E56B6B">
                       <h3 class="panel-title">Recommended Courses</h3>
                     </div>
                   <div class="ui-widget-content">
@@ -109,7 +110,7 @@
                 <div class="col-xs-6 .col-md-4">
                   <br>
                   <div id = "top-courses" class="panel panel-default course-placeholder course-draggable">
-                    <div class="panel-heading" style =" background-color:#AFC7C7">
+                    <div class="panel-heading" style =" background-color:#E56B6B">
                       <h3 class="panel-title">Top Courses</h3>
                     </div>
                     <div class="ui-widget-content">
@@ -125,10 +126,10 @@
               <div class =".col-xs-12 .col-md-8">
 
                   <div class="panel panel-default course-draggable">
-                    <div class="panel-heading" style =" background-color:#AFC7C7">
+                    <div class="panel-heading" style =" background-color:#E56B6B">
                       <h3 class="panel-title">Course Catalog</h3>
                     </div>
-                    <div class="panel-body" style = "color: black">
+                    <div class="panel panel-default panel-body" style = "color: black">
                       <form class="navbar-form navbar-left">
                         <input type="text" class="form-control" placeholder="Search...">
                       </form>
