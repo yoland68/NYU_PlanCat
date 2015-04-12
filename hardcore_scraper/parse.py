@@ -26,14 +26,26 @@ def parse_classes_text(text):
             parts = search.groups()
         elif " at " in text and " with " not in text:
             # print("### Has only at ###")
-            search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) ([MTWFS]{1}.{15,40}M) at (.*)", text)
-            parts = list(search.groups())
-            parts.insert(5, None) #Location is None
+            if re.search("2015 +with", text):
+                search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) at (.*)", text)
+                parts = list(search.groups())
+                parts.insert(4, None)
+                parts.insert(5, None) #Location is None
+            else:
+                search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) ([MTWFS]{1}.{15,40}M) at (.*)", text)
+                parts = list(search.groups())
+                parts.insert(5, None) #Location is None
         elif " at " not in text and " with " in text:
             # print("### Has only with ###")
-            search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) ([MTWFS]{1}.{15,40}M) with (.*)", text)
-            parts = list(search.groups())
-            parts.append(None) #Professor is None
+            if re.search("2015 +at", text):
+                search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) with (.*)", text)
+                parts = list(search.groups())
+                parts.insert(4, None)
+                parts.append(None) #Professor is None
+            else:
+                search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+) ([MTWFS]{1}.{15,40}M) with (.*)", text)
+                parts = list(search.groups())
+                parts.append(None) #Professor is None
         elif " at " not in text and " with " not in text:
             # print("### Has neither ###")
             search = re.search("Class#: (\d+).*Section: (\d+).*Component: ([\w| ]+) ([\d|/| |-]+)", text)
@@ -63,8 +75,11 @@ if __name__ == "__main__":
     course_data = []
     for course_el in course_ls:
         course_dict = {}
-        if "No Classes Scheduled for the Terms Offered" in course_el.find("span", "SSSTEXTBLUE"):
+        if "No Classes Scheduled for the Terms Offered" in str(course_el.find("span", "SSSTEXTBLUE")):
             course_dict["offering"]=False
+            course_dict["description"] = course_el.find("div", id=re.compile("divNYU_CLS_DERIVED_HTMLAREA")).text.strip()
+            import ipdb; ipdb.set_trace()
+            course_dict["courseID"] = re.search("{0} \d+".format(dict["majorID"]), course_dict["description"]).group()
         else:
             course_dict["offering"]=True
             parse_classes(course_dict, course_el)

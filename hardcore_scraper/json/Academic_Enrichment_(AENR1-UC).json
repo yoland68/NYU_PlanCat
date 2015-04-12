@@ -1,0 +1,121 @@
+{
+    "courses": [
+        {
+            "classes": [
+                {
+                    "classId": "9723",
+                    "format": "Recitation ",
+                    "section": "001",
+                    "period": "09/04/2015 - 12/18/2015 ",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "AENR1-UC  707 Computer Recitation",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "9727",
+                    "format": "Recitation ",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "BOBS LL151",
+                    "time": "Thu 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Brandon, Joyce"
+                },
+                {
+                    "classId": "9728",
+                    "format": "Recitation ",
+                    "section": "002",
+                    "period": "09/04/2015 - 12/18/2015",
+                    "location": "194M 210",
+                    "time": "Fri 6.20 PM - 7.35 PM",
+                    "open": true,
+                    "professor": "Ellis, Robert"
+                }
+            ],
+            "description": "AENR1-UC 1102 Math Recitation",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "AENR1-UC 9221 Grammar Strategies \nThis basic refresher course provides a sound working knowledge of the fundamentals of English grammar. The course distinguishes between spoken and written language and develops the student\u2019s ability to transfer from one to the other. Topics include the structure of English; word formation and dictionary usage; use of verbs to express time, number, and mood; spelling and punctuation; and use of adjectives and adverbs to expand descriptive ability in writing and speech. Students work in small groups and apply these skills to editing and revising their own work.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "10119",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "AENR1-UC 9224 Mastering Correct English I",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "9803",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/02/2015 - 12/23/2015",
+                    "location": null,
+                    "time": null,
+                    "open": true,
+                    "professor": null
+                }
+            ],
+            "description": "AENR1-UC 9225 Writing Skills: The Basics",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "AENR1-UC 9229 Advanced Composition Recitation \nThis upper-level writing composition class offers mentoring and guidance for students facing challenges in developing lengthy papers for advanced courses, such as Senior Project, portfolios for the Seminar in Experiential Learning, annotated bibliographies, and research reports.  Students learn to organize and develop long writing projects and write more fluently with greater confidence and clarity.",
+            "offering": true
+        },
+        {
+            "classes": [
+                {
+                    "classId": "9804",
+                    "format": "Lecture ",
+                    "section": "001",
+                    "period": "09/03/2015 - 12/17/2015",
+                    "location": "SILV 410",
+                    "time": "Thu 6.20 PM - 8.50 PM",
+                    "open": true,
+                    "professor": "Cotter, Cherilyn; Soyak, Cherilyn"
+                }
+            ],
+            "description": "AENR1-UC 9666 Math Strategies for College \nThis course is required for students who need to refresh their mathematical knowledge before taking Math I, as determined by the Math Placement Test. Students briefly review multiplication and division, and study fractions, decimals, percentages, and operations on signed numbers. Basic algebraic concepts are introduced. This course may not be repeated more than once. An optional, weekly Math Strategies Recitation Section, a walk-in workshop that offers faculty guidance with individual math issues, supports the Math Strategies course.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "AENR1-UC 9677 Computer Strategies for College \nThe use of a computer to collect, process, and organize information is essential to today's college student. In this introductory-level course, learn the basics of how to operate a computer, starting from the very beginning. Understand the difference between hardware and software and get an introduction to the basic word processing and spreadsheet applications. Learn the basics of internet use and how to do educational research. Gain confidence by working in small groups, with hands-on computer instruction.",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "AENR1-UC 9771 Research Strategies for College",
+            "offering": true
+        },
+        {
+            "classes": [],
+            "description": "AENR1-UC 9805 Return Studnt Colloquium",
+            "offering": true
+        }
+    ],
+    "file": "2015-2016//Academic_Enrichment_(AENR1-UC).html",
+    "majorID": "AENR1-UC"
+}
