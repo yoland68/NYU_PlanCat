@@ -23,18 +23,21 @@ body {
 
 #back {
 margin-top: 50px;
+width:450px;
+height: 575px;
   background-color: white;
   color: #ffffff;
   text-align: center;
 }
 
 #content {
-	width: 600px;
+	width: 400px;
     text-align: center;
 }
 
 #content2 {
-
+width: 400px;
+text-align: center;
 	
 }
 
@@ -53,7 +56,7 @@ h1 {
 
 }
 #login .form-wrap {
-    width: 30%;
+    width: 200px;
     margin: 0 auto;
 }
 #login h1 {
@@ -63,10 +66,10 @@ h1 {
     padding-bottom: 20px;
 }
 #login .form-group {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 #login {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     position: relative;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -85,7 +88,9 @@ h1 {
 .btn-custom {
   color: #fff;
   background-color: #E56C6C;
+  
 }
+
 .btn-custom:hover,
 .btn-custom:focus {
     color: #fff;
