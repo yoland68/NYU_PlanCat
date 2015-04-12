@@ -5,11 +5,46 @@ Custom CSS
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
 
 
+body {
+    background-color: #49A69C;
+    background-image: url("kit3.png");
+}
+
 #title {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   font-weight: bold;
   margin: 0 auto;
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  padding-top: 1em;
+  color: #312E3F;
+}
+
+#back {
+	margin-top: 50px;
+  background-color: white;
+  color: #ffffff;
+  text-align: center;
+>>>>>>> Stashed changes
+}
+
+#content {
+	width: 600px;
+    text-align: center;
+}
+
+#content2 {
+
+	
+}
+
+h1 {
+	font-size: 18px;
+    color: #312E3F;
+=======
+>>>>>>> origin/master
 }
 
 
@@ -26,7 +61,7 @@ Custom CSS
     margin: 0 auto;
 }
 #login h1 {
-    color: #ffffff;
+    color: #312E3F;
     font-size: 18px;
     text-align: center;
     padding-bottom: 20px;
@@ -53,10 +88,10 @@ Custom CSS
 }
 .btn-custom {
   color: #fff;
-  background-color: #d11255;
+  background-color: #E56C6C;
 }
 .btn-custom:hover,
 .btn-custom:focus {
     color: #fff;
-    background-color: #9F1545;
+    background-color: #BF5656;
 }
