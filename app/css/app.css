@@ -48,6 +48,10 @@ h1 {
   font-weight: bold;
 }
 
+.panel {
+  box-shadow: -1.5px 1.5px 1.5px #5A5A5A;
+}
+
 
 /* --------------------------------------------------
 :: Navbar Section
