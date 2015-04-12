@@ -123,8 +123,8 @@ h1 {
 
 .panel-body {
 	background-color: #EEE;
-	min-height: 300px;
-	
+	max-height: 300px;
+	overflow-y: scroll;
 }
 
 
