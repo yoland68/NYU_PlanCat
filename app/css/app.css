@@ -5,8 +5,14 @@ Custom CSS
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
 
 
+<<<<<<< HEAD
 a {
     color: white;
+=======
+body {
+    background-color: #49A69C;
+    background-image: url("kit3.png");
+>>>>>>> origin/master
 }
 
 #title {
@@ -14,6 +20,31 @@ a {
   text-align: center;
   font-weight: bold;
   margin: 0 auto;
+
+  padding-top: 1em;
+  color: #312E3F;
+}
+
+#back {
+	margin-top: 50px;
+  background-color: white;
+  color: #ffffff;
+  text-align: center;
+}
+
+#content {
+	width: 600px;
+    text-align: center;
+}
+
+#content2 {
+
+	
+}
+
+h1 {
+	font-size: 18px;
+    color: #312E3F;
 }
 
 
@@ -30,7 +61,7 @@ a {
     margin: 0 auto;
 }
 #login h1 {
-    color: #ffffff;
+    color: #312E3F;
     font-size: 18px;
     text-align: center;
     padding-bottom: 20px;
@@ -57,10 +88,10 @@ a {
 }
 .btn-custom {
   color: #fff;
-  background-color: #d11255;
+  background-color: #E56C6C;
 }
 .btn-custom:hover,
 .btn-custom:focus {
     color: #fff;
-    background-color: #9F1545;
+    background-color: #BF5656;
 }
